@@ -31,5 +31,6 @@ jobs:
             -H "x-api-key: ${{secrets.NEWS_API_KEY}}" \
             'http://newsapi.org/v2/top-headlines?country=us&category=business' | json_pp > $OUTPUT_FILE
           git config --global user.name $GITHUB_ACTOR
-          git commit -am "Updated news headlines"
+          git add $OUTPUT_FILE
+          git commit -m "Update news headlines"
           git push
