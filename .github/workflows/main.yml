@@ -24,7 +24,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Calling News API...
         run: |
-          git checkout external-data
           OUTPUT_FILE="headlines.json"
           curl -X GET \
             --silent \
