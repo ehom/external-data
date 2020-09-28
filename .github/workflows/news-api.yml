@@ -31,3 +31,32 @@ jobs:
           git add $OUTPUT_FILE
           git commit -m "Update news headlines"
           git push
+
+      - name: Get Top Stories from FinnHub
+        run: |
+          git config --global user.name $GITHUB_ACTOR
+          URL='https://finnhub.io/api/v1/news?category=general'
+          
+          mkdir -p finnhub && cd finnhub
+          
+          curl -X GET \
+            --silent \
+            -H 'content-type: application/json' \
+            -H "X-Finnhub-Token : ${{secrets.FINNHUB_API_KEY}}" \
+            $URL | json_pp > marketnews.json
+            
+          git add . && git commit -m "Update market news" && git push
+
+      - name: Get latest COVID-19 statistics
+        run: |
+          git config --global user.name $GITHUB_ACTOR
+          URL='https://finnhub.io/api/v1/covid19/us'
+          
+          mkdir -p finnhub && cd finnhub
+
+          curl -X GET \
+            --silent \
+            -H 'content-type: application/json' \
+            -H "X-Finnhub-Token : ${{secrets.FINNHUB_API_KEY}}" \
+            $URL | json_pp > covid.json
+          git add . && git commit -m "Update Covid news" && git push
