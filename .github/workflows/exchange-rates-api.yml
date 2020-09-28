@@ -24,14 +24,11 @@ jobs:
 
       - name: Calling Exchange Rates API...
         run: |
-          OUTPUT_FILE=forex-rates.json
-          mkdir -p exchange-rates-api; cd exchange-rates-api
+          mkdir -p exchange-rates-api
+          cd exchange-rates-api
           
-          curl -X GET \
-            --silent \
-            -H 'content-type: application/json' \
-            'https://api.exchangeratesapi.io/latest?base=USD' | json_pp > $OUTPUT_FILE
           git config --global user.name $GITHUB_ACTOR
-          git add $OUTPUT_FILE
+          date > test.txt
+          git add test.txt
           git commit -m "Updated USD exchange rates"
           git push
