@@ -28,7 +28,7 @@ jobs:
           git config --global user.name $GITHUB_ACTOR
           URL='https://finnhub.io/api/v1/news?category=general'
           
-          mkdir -p finnhub
+          mkdir finnhub
           
           curl -X GET \
             --silent \
@@ -36,16 +36,5 @@ jobs:
             -H "X-Finnhub-Token : ${{secrets.FINNHUB_API_KEY}}" \
             $URL | json_pp > finnhub/marketnews.json
             
-          git add . && git commit -m "Update market news" && git push
-      - name: Get latest COVID-19 statistics
-        run: |
-          git config --global user.name $GITHUB_ACTOR
-          URL='https://finnhub.io/api/v1/covid19/us'
-          
-          curl -X GET \
-            --silent \
-            -H 'content-type: application/json' \
-            -H "X-Finnhub-Token : ${{secrets.FINNHUB_API_KEY}}" \
-            $URL | json_pp > finnhub/covid.json
+          git add finnhub/marketnews.json && git commit -m "Update market news" && git push
 
-          git add . && git commit -m "Update Covid news" && git push
