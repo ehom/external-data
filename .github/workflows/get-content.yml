@@ -21,6 +21,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Calling News API...
         run: |
+          git pull
           OUTPUT_FILE="news-api-org/headlines.json"
           curl -X GET \
             --silent \
@@ -34,6 +35,7 @@ jobs:
 
       - name: Get Top Stories from FinnHub
         run: |
+          git pull
           git config --global user.name $GITHUB_ACTOR
           URL='https://finnhub.io/api/v1/news?category=general'
           
@@ -44,7 +46,7 @@ jobs:
             -H 'content-type: application/json' \
             -H "X-Finnhub-Token : ${{secrets.FINNHUB_API_KEY}}" \
             $URL | json_pp > marketnews.json
-            
+
           git add . && git commit -m "Update market news" && git push
 
       - name: Get latest COVID-19 statistics
