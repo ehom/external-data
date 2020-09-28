@@ -22,7 +22,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: Calling FOREX RATE API...
+      - name: Calling Exchange Rates API...
         run: |
           OUTPUT_FILE=forex-rates.json
           mkdir -p exchange-rates-api; cd exchange-rates-api
