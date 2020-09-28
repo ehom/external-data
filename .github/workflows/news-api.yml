@@ -24,7 +24,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Calling News API...
         run: |
-          OUTPUT_FILE="headlines.json"
+          OUTPUT_FILE="news-api-org/headlines.json"
           curl -X GET \
             --silent \
             -H 'content-type: application/json' \
