@@ -6,9 +6,9 @@ name: Get USD Exchange Rates
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches: [  ]
   pull_request:
-    branches: [ master ]
+    branches: [  ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -27,8 +27,8 @@ jobs:
           mkdir -p exchange-rates-api
           cd exchange-rates-api
           
-          git config --global user.name $GITHUB_ACTOR
+          git config --global user.name "ehom"
           date > test.txt
-          git add test.txt
+          git add .
           git commit -m "Updated USD exchange rates"
           git push
