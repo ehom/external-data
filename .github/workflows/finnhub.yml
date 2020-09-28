@@ -28,7 +28,7 @@ jobs:
           git config --global user.name $GITHUB_ACTOR
           URL='https://finnhub.io/api/v1/news?category=general'
           
-          mkdir finnhub
+          mkdir -v -p finnhub
           
           curl -X GET \
             --silent \
