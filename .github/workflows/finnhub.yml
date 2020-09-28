@@ -33,7 +33,7 @@ jobs:
           curl -X GET \
             --silent \
             -H 'content-type: application/json' \
-            -H "X-Finnhub-Token : ${{secrets.API_KEY}}" \
+            -H "X-Finnhub-Token : ${{secrets.FINNHUB_API_KEY}}" \
             $URL | json_pp > finnhub/marketnews.json
             
           git add . && git commit -m "Update market news" && git push
@@ -45,7 +45,7 @@ jobs:
           curl -X GET \
             --silent \
             -H 'content-type: application/json' \
-            -H "X-Finnhub-Token : ${{secrets.API_KEY}}" \
+            -H "X-Finnhub-Token : ${{secrets.FINNHUB_API_KEY}}" \
             $URL | json_pp > finnhub/covid.json
 
           git add . && git commit -m "Update Covid news" && git push
