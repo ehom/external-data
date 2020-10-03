@@ -1,49 +1,113 @@
 {
-   "totalResults" : 70,
    "articles" : [
       {
-         "publishedAt" : "2020-10-03T17:48:00Z",
-         "description" : "With President Trump hospitalized with the coronavirus, Dow Jones futures and the stock market rally are likely to take their cue from his condition.",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "A woman who stole goods for 19 years and sold them on eBay has been sentenced to prison and ordered to pay $3.8M - CNN",
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/10/03/us/kim-richardson-ebay-federal-prison-trnd/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201003131408-kim-richardson-ebay-federal-prison-trnd-super-tease.jpg",
+         "author" : "Alaa Elassar, CNN",
+         "publishedAt" : "2020-10-03T19:35:00Z",
+         "description" : "A Texas woman has been sentenced to 54 months in federal prison for stealing millions of dollars in merchandise and selling it on eBay."
+      },
+      {
          "author" : "Investor's Business Daily",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/president-trump-hospitalized-coronavirus-stock-market-rally-dow-jones-futures/",
+         "description" : "With President Trump hospitalized with the coronavirus, Dow Jones futures and the stock market rally are likely to take their cue from his condition.",
+         "publishedAt" : "2020-10-03T17:48:00Z",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/04/stock-trump-madlook-shutterstock.jpg",
-         "content" : "Where is the stock market rally going? Dow Jones futures won't reopen until Sunday. But in the near term the answer may be another question: How is President Donald Trump doing?\r\nXTrump Condition Imp… [+10149 chars]",
-         "title" : "President Trump Improving, Doctors Say, But Reports Differ; Stock Market Rally, Dow Jones Futures Follow Health Status - Investor's Business Daily",
          "source" : {
             "id" : null,
             "name" : "Investor's Business Daily"
+         },
+         "url" : "https://www.investors.com/market-trend/stock-market-today/president-trump-hospitalized-coronavirus-stock-market-rally-dow-jones-futures/",
+         "title" : "President Trump Improving, Doctors Say, But Reports Differ; Stock Market Rally, Dow Jones Futures Follow Health Status - Investor's Business Daily",
+         "content" : "Where is the stock market rally going? Dow Jones futures won't reopen until Sunday. But in the near term the answer may be another question: How is President Donald Trump doing?\r\nXTrump Condition Imp… [+10149 chars]"
+      },
+      {
+         "urlToImage" : null,
+         "author" : null,
+         "description" : null,
+         "publishedAt" : "2020-10-03T15:23:38Z",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TTNKalVVUVRZZ3PSAQA?oc=5",
+         "content" : null,
+         "title" : "How Does Experimental Covid-19 Treatment Trump Received Work? | NBC News - NBC News"
+      },
+      {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106704991-1600266452926-gettyimages-1206736942-sc1089k0098.jpeg?v=1601660639",
+         "description" : "Qualifying for a mortgage in retirement — when you've left a paycheck behind — is tricky, but with some planning it might be possible.",
+         "publishedAt" : "2020-10-03T15:19:00Z",
+         "author" : "Sarah O'Brien",
+         "url" : "https://www.cnbc.com/2020/10/03/how-to-get-a-mortgage-when-considering-downsizing-in-retirement.html",
+         "content" : "If you're retired and are thinking about downsizing or relocating, and it involves buying a home, you might want to look into how you would finance it.\r\nYou may discover that qualifying for a mortgag… [+5128 chars]",
+         "title" : "Considering a home purchase in retirement? Here's how to get a mortgage - CNBC",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
          }
       },
       {
-         "author" : "Sarah O'Brien",
-         "url" : "https://www.cnbc.com/2020/10/03/how-to-get-a-mortgage-when-considering-downsizing-in-retirement.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106704991-1600266452926-gettyimages-1206736942-sc1089k0098.jpeg?v=1601660639",
-         "publishedAt" : "2020-10-03T15:19:00Z",
-         "description" : "Qualifying for a mortgage in retirement — when you've left a paycheck behind — is tricky, but with some planning it might be possible.",
-         "title" : "Considering a home purchase in retirement? Here's how to get a mortgage - CNBC",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "content" : "If you're retired and are thinking about downsizing or relocating, and it involves buying a home, you might want to look into how you would finance it.\r\nYou may discover that qualifying for a mortgag… [+5128 chars]"
-      },
-      {
-         "title" : "Polestar 2 EV recalled over glitch that can cut power while driving - Engadget",
-         "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
-         "content" : "Polestar’s 2 EV is off to a rough start. The automaker told Dagens Industri (via Reuters) that it was recalling all examples of the Polestar 2 (nearly 2,200) due to a software glitch that led to powe… [+526 chars]",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fa25c7690-0585-11eb-b4c3-0441524f53a6&client=amp-blogside-v2&signature=3e9cc7d63b325b2fc2052840e5c646e294afb1d9",
-         "author" : "",
-         "url" : "https://www.engadget.com/polestar-2-ev-recall-over-power-glitch-151046269.html",
          "description" : "Polestar has recalled all 2 EVs after learning of a software glitch that leads to a power loss, even while driving.",
-         "publishedAt" : "2020-10-03T15:14:49Z"
+         "publishedAt" : "2020-10-03T15:14:49Z",
+         "author" : "",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fa25c7690-0585-11eb-b4c3-0441524f53a6&client=amp-blogside-v2&signature=3e9cc7d63b325b2fc2052840e5c646e294afb1d9",
+         "url" : "https://www.engadget.com/polestar-2-ev-recall-over-power-glitch-151046269.html",
+         "title" : "Polestar 2 EV recalled over glitch that can cut power while driving - Engadget",
+         "content" : "Polestar’s 2 EV is off to a rough start. The automaker told Dagens Industri (via Reuters) that it was recalling all examples of the Polestar 2 (nearly 2,200) due to a software glitch that led to powe… [+526 chars]",
+         "source" : {
+            "name" : "Engadget",
+            "id" : "engadget"
+         }
       },
       {
+         "urlToImage" : "https://thehill.com/sites/default/files/gameofthrones_courtesyofhbo.png",
+         "publishedAt" : "2020-10-03T14:33:02Z",
+         "description" : "A North Carolina man allegedly tried to steal $6 million in Paycheck Protection Program (PPP) loans for coronavirus relief by establishing fake companies with “Game of Thrones” names.",
+         "author" : "Morgan Gstalter",
+         "content" : "A North Carolina man allegedly tried to steal $6 million in Paycheck Protection Program (PPP) loans for coronavirus relief by establishing fake companies with Game of Thrones names.\r\nTristan Bishop P… [+1802 chars]",
+         "title" : "Man attempted to steal $6M in PPP loans using companies named after 'Game of Thrones' | TheHill - The Hill",
+         "url" : "https://thehill.com/business-a-lobbying/519467-man-attempted-to-steal-6-million-in-ppp-loans-using-companies-named-after",
+         "source" : {
+            "id" : "the-hill",
+            "name" : "The Hill"
+         }
+      },
+      {
+         "urlToImage" : "https://images.barrons.com/im-239943/social",
+         "publishedAt" : "2020-10-03T14:24:00Z",
+         "description" : "",
+         "author" : "Al Root",
+         "content" : "Theres only one thing standing between \r\n Tesla\r\n and world dominationthe global supply of lithium. And thats good news for lithium producers.When Tesla (ticker: TSLA) held its battery day on Sept. 2… [+4610 chars]",
+         "title" : "Tesla Needs Lithium. These Are the Best Stocks to Buy to Play the EV Boom. - Barron's",
+         "url" : "https://www.barrons.com/articles/the-best-lithium-producer-stocks-to-play-the-electric-car-boom-51601687305",
+         "source" : {
+            "name" : "Barron's",
+            "id" : null
+         }
+      },
+      {
+         "author" : null,
+         "publishedAt" : "2020-10-03T14:22:51Z",
+         "description" : null,
+         "urlToImage" : null,
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "title" : "TEN 310 - Tesla Delivery Record, Nikola Take Downs, Mustang Mach E Price Cut - Transport Evolved",
+         "content" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NVg2RzNFbGJMd03SAQA?oc=5"
+      },
+      {
+         "urlToImage" : "https://images.wsj.net/im-234047/social",
          "description" : "Some car companies, like Tesla, are getting more involved in making batteries, while others favor buying from others",
          "publishedAt" : "2020-10-03T14:19:55Z",
-         "urlToImage" : "https://images.wsj.net/im-234047/social",
          "author" : "Ben Foldy",
          "url" : "https://www.wsj.com/articles/gm-ford-need-electric-car-batteries-but-take-different-paths-to-get-them-11601717403",
          "content" : "Auto makers, pumping billions of dollars into developing electric cars, are now facing a critical choice: get more involved with manufacturing the core batteries or buy them from others.Batteries are… [+5552 chars]",
@@ -54,213 +118,149 @@
          }
       },
       {
+         "publishedAt" : "2020-10-03T14:02:20Z",
+         "description" : "Because of its Hollywood connection, the home could serve as a tourist attraction with the owner renting it out on Airbnb.",
+         "author" : "Daniella Genovese",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Killer-Movie-Property-THE-SISTERS.jpg?ve=1&tl=1",
+         "title" : "'Silence of the Lambs' home hits housing market: Take a look inside - Fox Business",
+         "content" : "The Pennsylvania home that played a central role in the 1991 horror classic \"Silence of the Lambs\" is back on the housing market just weeks before All Hallow's Eve.\r\nFor an asking price of $298,500, … [+1925 chars]",
+         "url" : "https://www.foxbusiness.com/real-estate/silence-of-the-lambs-home-hits-housing-market",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         }
+      },
+      {
+         "author" : "Text by Nicollette Higgs, CNN; video by Nicollette Higgs and Frank Fenimore, CNN",
+         "description" : "A self-published directory that lists Black-owned businesses, restaurants, communities, tours and festivals in the US and abroad serves as a source to \"connect the African diaspora globally from A-Z,\" says the guide's creator Martinique Lewis.",
+         "publishedAt" : "2020-10-03T13:07:30Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925114813-green-book-3-super-tease.jpg",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "url" : "https://www.cnn.com/travel/article/abc-travel-green-book/index.html",
+         "content" : "Text by Nicollette Higgs, CNN; video by Nicollette Higgs and Frank Fenimore, CNNPublished 3rd October 2020\r\n(CNN) Wanderluster Martinique Lewis has achieved a holy grail of sorts: She turned her pass… [+7441 chars]",
+         "title" : "The 'ABC Travel Green Book' aims to redefine Black tourism in a modern way - CNN"
+      },
+      {
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/593441/social-security-getty-62617.jpg",
+         "publishedAt" : "2020-10-03T13:01:00Z",
+         "description" : "In some cases, waiting too long to claim benefits could cost you.",
+         "author" : "Katie Brockman",
+         "content" : "A whopping 96% of women and 98% of men claim Social Security benefits before age 70, according to a report from the Center for Retirement Research at Boston College.\r\nThese retirees may have the righ… [+3533 chars]",
+         "title" : "The Best Reason to Take Social Security Long Before Age 70 - The Motley Fool",
+         "url" : "https://www.fool.com/retirement/2020/10/03/the-best-reason-to-take-social-security-long-befor/",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         }
+      },
+      {
+         "urlToImage" : "https://cmsimages.tribuneindia.com/gallary_content/2020/10/2020_10$largeimg_238145637.jpg",
+         "description" : "",
+         "publishedAt" : "2020-10-03T13:00:00Z",
+         "author" : "Tribune India",
+         "url" : "https://www.tribuneindia.com/news/world/oxford-university-coronavirus-vaccine-could-be-rolled-out-within-six-months-report-150500",
+         "content" : "London, October 3\r\nThere is growing hope that a vaccine against coronavirus may be given the green light by health regulators by the end of this year to be rolled out for a vaccination programme in s… [+3152 chars]",
+         "title" : "Oxford University coronavirus vaccine could be rolled out within six months: Report - The Tribune India",
+         "source" : {
+            "name" : "The Tribune India",
+            "id" : null
+         }
+      },
+      {
+         "author" : "Cal Evans",
+         "description" : "Is BitMEX too big to fail, or are the charges a serious threat?",
+         "publishedAt" : "2020-10-03T13:00:00Z",
+         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-10/ba815f51-70ed-4eba-815b-19edf178c1be.jpg",
+         "source" : {
+            "name" : "Cointelegraph",
+            "id" : null
+         },
+         "url" : "https://cointelegraph.com/news/indictments-issued-for-bitmex-senior-team-are-a-signal-to-all",
+         "content" : "On the morning of Oct. 1, the United States government authorities in New York issued indictments for four of the senior team of BitMEX, the famed wild card exchange based in Hong Kong. Despite that,… [+3749 chars]",
+         "title" : "Indictments issued for BitMEX senior team are a signal to all - Cointelegraph"
+      },
+      {
+         "urlToImage" : "https://i.ytimg.com/vi/exnETN6IxIc/maxresdefault.jpg",
+         "author" : null,
+         "publishedAt" : "2020-10-03T12:10:07Z",
+         "description" : "CBS News medical contributor Dr. David Agus examines President Trump's COVID-19 diagnosis and what the steps forward might be.",
          "source" : {
             "name" : "YouTube",
             "id" : null
          },
-         "title" : "Donald Trump: Coronavirus super spreader? | DW News - DW News",
+         "title" : "The next steps in President Trump's COVID-19 treatment - CBS This Morning",
          "content" : null,
-         "url" : "https://www.youtube.com/watch?v=fupPzVlVrrk",
-         "author" : null,
-         "urlToImage" : "https://i.ytimg.com/vi/fupPzVlVrrk/maxresdefault.jpg",
-         "publishedAt" : "2020-10-03T13:17:25Z",
-         "description" : "US President Donald Trump is being treated at Walter Reed military hospital after testing positive for COVID-19. Trump has long been dismissive of the corona..."
+         "url" : "https://www.youtube.com/watch?v=exnETN6IxIc"
       },
       {
-         "publishedAt" : "2020-10-03T13:07:30Z",
-         "description" : "A self-published directory that lists Black-owned businesses, restaurants, communities, tours and festivals in the US and abroad serves as a source to \"connect the African diaspora globally from A-Z,\" says the guide's creator Martinique Lewis.",
-         "author" : "Text by Nicollette Higgs, CNN; video by Nicollette Higgs and Frank Fenimore, CNN",
-         "url" : "https://www.cnn.com/travel/article/abc-travel-green-book/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200925114813-green-book-3-super-tease.jpg",
-         "content" : "Text by Nicollette Higgs, CNN; video by Nicollette Higgs and Frank Fenimore, CNNPublished 3rd October 2020\r\n(CNN) Wanderluster Martinique Lewis has achieved a holy grail of sorts: She turned her pass… [+7441 chars]",
-         "title" : "The 'ABC Travel Green Book' aims to redefine Black tourism in a modern way - CNN",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         }
-      },
-      {
-         "content" : "On the morning of Oct. 1, the United States government authorities in New York issued indictments for four of the senior team of BitMEX, the famed wild card exchange based in Hong Kong. Despite that,… [+3749 chars]",
-         "title" : "Indictments issued for BitMEX senior team are a signal to all - Cointelegraph",
-         "source" : {
-            "id" : null,
-            "name" : "Cointelegraph"
-         },
-         "publishedAt" : "2020-10-03T13:00:00Z",
-         "description" : "Is BitMEX too big to fail, or are the charges a serious threat?",
-         "author" : "Cal Evans",
-         "url" : "https://cointelegraph.com/news/indictments-issued-for-bitmex-senior-team-are-a-signal-to-all",
-         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-10/ba815f51-70ed-4eba-815b-19edf178c1be.jpg"
-      },
-      {
-         "content" : "Joe Bidens magic number for tax policy is $400,000.\r\nHouseholds earning less than that in adjusted gross income wont pay a nickel more in direct taxes, the Democratic presidential nominee promises. H… [+143 chars]",
-         "title" : "Why Biden Would Start Tax Increases at $400,000 a Year - The Wall Street Journal",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "publishedAt" : "2020-10-03T13:00:00Z",
-         "description" : "Democrat’s plan would affect only about 1.8% of households, sparing the middle class, but constrain policy choices",
-         "author" : "Richard Rubin",
-         "url" : "https://www.wsj.com/articles/why-biden-would-start-tax-increases-at-400-000-a-year-11601730000",
-         "urlToImage" : "https://images.wsj.net/im-239453/social"
-      },
-      {
-         "description" : "CBS News medical contributor Dr. David Agus examines President Trump's COVID-19 diagnosis and what the steps forward might be.",
-         "publishedAt" : "2020-10-03T12:10:07Z",
-         "urlToImage" : "https://i.ytimg.com/vi/exnETN6IxIc/maxresdefault.jpg",
-         "url" : "https://www.youtube.com/watch?v=exnETN6IxIc",
-         "author" : null,
-         "content" : null,
-         "source" : {
-            "id" : null,
-            "name" : "YouTube"
-         },
-         "title" : "The next steps in President Trump's COVID-19 treatment - CBS This Morning"
-      },
-      {
-         "urlToImage" : "https://www.cruiseindustrynews.com/images/thumbnails/images/stories/wire/2017/june/neil_p_1-fill-498x375.jpg",
-         "author" : "CIN Staff",
-         "url" : "https://www.cruiseindustrynews.com/cruise-news/23598-new-carnival-coo-palomba-details-restart-plans.html",
-         "description" : "Neil Palomba, the new chief operating officer at Carnival Cruise Line, has detailed the company's restart plans in a new video update. The former Costa Pre...",
-         "publishedAt" : "2020-10-03T12:02:00Z",
+         "content" : "Neil Palomba, the new chief operating officer at Carnival Cruise Line, has detailed the company's restart plans in a new video update.\r\nThe former Costa President was involved in the Italian brand's … [+548 chars]",
          "title" : "New Carnival COO Palomba Details Restart Plans - Cruise Industry News",
+         "url" : "https://www.cruiseindustrynews.com/cruise-news/23598-new-carnival-coo-palomba-details-restart-plans.html",
          "source" : {
             "id" : null,
             "name" : "Cruise Industry News"
          },
-         "content" : "Neil Palomba, the new chief operating officer at Carnival Cruise Line, has detailed the company's restart plans in a new video update.\r\nThe former Costa President was involved in the Italian brand's … [+548 chars]"
-      },
-      {
-         "publishedAt" : "2020-10-03T12:00:00Z",
-         "description" : "How do you try to fix McDonald's customer service issues? If you're Burger King, you use tech to get personal. Yet it's not as if Burger King is personally so perfect, as I soon discovered.",
-         "url" : "https://www.zdnet.com/article/burger-king-used-the-simplest-tech-to-expose-mcdonalds-customer-service/",
-         "author" : "Chris Matyszczyk",
-         "urlToImage" : "https://zdnet3.cbsistatic.com/hub/i/r/2020/09/28/05bc3e12-fb57-4e74-af83-648b5e1d74eb/thumbnail/770x578/af7662f5ac3ac7782f7f3a04b28a4ace/screen-shot-2020-09-28-at-9-56-03-am.png",
-         "content" : "Should it mind its own business?\r\nScreenshot by ZDNet\r\nCompetition between fast food companies is as ugly as juxtaposed political signage in American neighborhoods.\r\nA tiny percentage point in market… [+4891 chars]",
-         "source" : {
-            "name" : "ZDNet",
-            "id" : null
-         },
-         "title" : "Burger King used the simplest tech to expose McDonald’s customer service - ZDNet"
+         "urlToImage" : "https://www.cruiseindustrynews.com/images/thumbnails/images/stories/wire/2017/june/neil_p_1-fill-498x375.jpg",
+         "publishedAt" : "2020-10-03T12:02:00Z",
+         "description" : "Neil Palomba, the new chief operating officer at Carnival Cruise Line, has detailed the company's restart plans in a new video update. The former Costa Pre...",
+         "author" : "CIN Staff"
       },
       {
          "url" : "https://www.fox5atlanta.com/news/georgia-pastor-gives-waffle-house-waitress-life-changing-tip",
-         "author" : "FOX 5 Atlanta",
-         "urlToImage" : "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2020/10/1280/720/120645676_10220642020493613_5175240777635329971_n.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-10-03T11:59:12Z",
-         "description" : "A chance meeting at a Georgia Waffle House changed the life of a pregnant waitress forever.",
+         "content" : "STOCKBRIGE, Ga. - A Henry County pastor was just following his stomach when his heart pulled him in a different direction.\r\nBishop Eusebio Phelps just wanted a Waffle House All Star with extra bacon,… [+1584 chars]",
+         "title" : "Georgia pastor gives Waffle House waitress life-changing tip - FOX 5 Atlanta",
          "source" : {
             "id" : null,
             "name" : "FOX 5 Atlanta"
          },
-         "title" : "Georgia pastor gives Waffle House waitress life-changing tip - FOX 5 Atlanta",
-         "content" : "STOCKBRIGE, Ga. - A Henry County pastor was just following his stomach when his heart pulled him in a different direction.\r\nBishop Eusebio Phelps just wanted a Waffle House All Star with extra bacon,… [+1584 chars]"
+         "description" : "A chance meeting at a Georgia Waffle House changed the life of a pregnant waitress forever.",
+         "publishedAt" : "2020-10-03T11:59:12Z",
+         "author" : "FOX 5 Atlanta",
+         "urlToImage" : "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2020/10/1280/720/120645676_10220642020493613_5175240777635329971_n.jpg?ve=1&tl=1"
       },
       {
-         "title" : "The 3 Best-Performing IPOs of 2020 - Motley Fool",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "content" : "Investing in IPOs is inherently risky, as many companies nowadays go public at exuberant valuations in order to raise as much money as quickly as possible. But if excited investors aren't careful, bu… [+5709 chars]",
-         "author" : "Zhiyuan Sun",
-         "url" : "https://www.fool.com/investing/2020/10/03/the-3-best-performing-ipos-of-2020/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/593550/gettyimages-1190193669.jpg",
-         "publishedAt" : "2020-10-03T10:40:00Z",
-         "description" : "These companies made an early splash, but that doesn't mean they're a safe choice for investors."
-      },
-      {
-         "content" : "Novavax (NASDAQ:NVAX) has had a phenomenal year in 2020. The mid-cap opened in January as a micro-cap, starting off the year at $4 a share. Nine months later, its shares are trading hands for $113. T… [+5663 chars]",
-         "title" : "Will Big Pharma Acquire Novavax? - Motley Fool",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "description" : "The value of this vaccine specialist has shifted dramatically because of the coronavirus.",
-         "publishedAt" : "2020-10-03T10:20:00Z",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/593158/gettyimages-1213603696.jpg",
-         "author" : "Taylor Carmichael",
-         "url" : "https://www.fool.com/investing/2020/10/03/will-big-pharma-acquire-novavax/"
-      },
-      {
-         "urlToImage" : "https://static01.nyt.com/images/2020/10/04/business/04up-recession-illo/04up-recession-illo-facebookJumbo.jpg",
-         "author" : "Neil Irwin",
-         "url" : "https://www.nytimes.com/2020/10/03/upshot/pandemic-economy-recession.html",
-         "description" : "Signs of a slower, grinding recovery sure look familiar.",
-         "publishedAt" : "2020-10-03T09:00:00Z",
-         "title" : "The Pandemic Depression Is Over. The Pandemic Recession Has Just Begun. - The New York Times",
+         "publishedAt" : "2020-10-03T11:39:19Z",
+         "description" : "North Carolina health officials are reporting 2,202 new cases of COVID-19, bringing the total to 216,886.",
+         "author" : null,
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/6084268_COVID-19-LATEST.jpg?w=1600",
+         "content" : "RALEIGH, N.C. -- Here are the latest updates about COVID-19, the disease caused by the novel coronavirus, in North Carolina.SATURDAY\r\n3:50 p.m.A Wake Forest fire station has closed after a firefighte… [+14433 chars]",
+         "title" : "NC coronavirus update October 3: North Carolina reports 2,202 COVID-19 cases, 21 deaths as hospitalizations hover over 900 - WTVD-TV",
+         "url" : "https://abc11.com/covid-19-nc-coronavirus-cases/6736533/",
          "source" : {
             "id" : null,
-            "name" : "New York Times"
-         },
-         "content" : "At Jetco Delivery, a 400-employee trucking and logistics company in Houston, business has mostly recovered since the spring shutdown, with employment down only slightly, said Jetcos chief executive, … [+1785 chars]"
-      },
-      {
-         "author" : "Ann Saphir",
-         "url" : "https://www.reuters.com/article/usa-election-economy-idUSKBN26O06X",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20201003&t=2&i=1535994471&r=LYNXMPEG9203Q&w=800",
-         "publishedAt" : "2020-10-03T06:25:00Z",
-         "description" : "The U.S. unemployment rate fell to 7.9% in September, from 8.4% in August, a big drop that in normal times would be welcome news for a presidential incumbent seeking reelection in just over a month.",
-         "title" : "At 7.9%, U.S. jobless rate spells trouble for Trump - Reuters",
-         "source" : {
-            "name" : "Reuters",
-            "id" : "reuters"
-         },
-         "content" : "(Reuters) - The U.S. unemployment rate fell to 7.9% in September, from 8.4% in August, a big drop that in normal times would be welcome news for a presidential incumbent seeking reelection in just ov… [+4514 chars]"
-      },
-      {
-         "content" : "By Reuters Staff\r\nFILE PHOTO: An aerial view shows the newly arrived foundation platform of Leviathan natural gas field, in the Mediterranean Sea, off the coast of Haifa, Israel January 31, 2019. Mar… [+2210 chars]",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "title" : "Noble Energy shareholders approve $4.1 billion sale to Chevron - Reuters",
-         "publishedAt" : "2020-10-03T05:05:00Z",
-         "description" : "Noble Energy shareholders on Friday approved a deal to sell the oil and gas producer to Chevron Corp, making Chevron the No. 2 U.S. shale oil producer and giving it international natural gas reserves close to growing markets.",
-         "url" : "https://www.reuters.com/article/noble-energy-m-a-vote-idUSKBN26O02P",
-         "author" : "Reuters Staff",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20201003&t=2&i=1535991157&r=LYNXMPEG9202W&w=800"
-      },
-      {
-         "content" : "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT.",
-         "source" : {
-            "id" : "financial-times",
-            "name" : "Financial Times"
-         },
-         "title" : "Oil market has not priced in prospect of a Biden victory - Financial Times",
-         "publishedAt" : "2020-10-03T03:00:40Z",
-         "description" : "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-         "url" : "https://www.ft.com/content/0d6d0fbf-93b5-4f01-a6c8-f2d8ca95dc4a",
-         "author" : "Derek Brower",
-         "urlToImage" : null
-      },
-      {
-         "content" : "Republican President Donald Trump will be taking an experimental drug to help keep him from developing serious COVID-19 symptoms, according to Leonard Schleifer, CEO of the biotechnology company Rege… [+2835 chars]",
-         "title" : "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says - Newsweek",
-         "source" : {
-            "id" : "newsweek",
-            "name" : "Newsweek"
-         },
-         "description" : "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects.",
-         "publishedAt" : "2020-10-03T02:31:13Z",
-         "urlToImage" : "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg",
-         "author" : "Daniel Villarreal",
-         "url" : "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146"
-      },
-      {
-         "description" : "Safeway and Albertsons pharmacies in Washington are now offering at-home COVID-19 test kits.",
-         "publishedAt" : "2020-10-03T01:17:26Z",
-         "urlToImage" : "https://www.kiro7.com/resizer/n-fYYXgUxVarSaP91b6Zk4nhDc4=/1200x628/d1hfln2sfez66z.cloudfront.net/10-03-2020/t_1f4739685b8f4499b75e0513e53b5215_name_Covid_19_Test_1_scaled.jpg",
-         "author" : "Deedee Sun",
-         "url" : "https://www.kiro7.com/news/local/home-covid-19-tests-now-available-some-pharmacies/SXV3LVG2RRHDZH36VD5I3T6RVM/",
-         "content" : "When you say COVID-19 test, most people think of the nasal swabs that go all the way to the back of the nose and throat, or a slightly different version that swabs immediately inside the nostril.\r\nBu… [+3494 chars]",
-         "title" : "New COVID tests: Take home test now available at Safeway as WA gears to distribute antigen rapid test - KIRO Seattle",
-         "source" : {
-            "name" : "KIRO Seattle",
-            "id" : null
+            "name" : "WTVD-TV"
          }
+      },
+      {
+         "urlToImage" : "https://www.chicagotribune.com/resizer/mEfh0Peq2HpC_Wlsbl0_-POWXuM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MYNPCO2AMBHJ5OPQYD7JVEOSB4.jpg",
+         "author" : "Beth Botts, Morton Arboretum, Tim Johnson, Chicago Botanic Garden",
+         "description" : "As Chicago-area gardeners prepare for fall and winter, here are tips for lawn care, landscaping fabric and spring-flowering bulbs.",
+         "publishedAt" : "2020-10-03T11:00:00Z",
+         "source" : {
+            "name" : "Chicago Tribune",
+            "id" : null
+         },
+         "url" : "https://www.chicagotribune.com/lifestyles/home-and-garden/ct-home-garden-lawn-fall-winter-guide-20201003-n36anq6d5vb6zha7cc25mjdyjq-list.html",
+         "content" : "1.\r\n Its not time to stop watering yet. \r\nSoil conditions were very dry in the Chicago area in August and September, with lots of hot weather adding stress to plants and people. Underwatering has bee… [+8854 chars]",
+         "title" : "From landscaping fabric to lawn care, gardening tips for fall - Chicago Tribune"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "url" : "https://www.fool.com/investing/2020/10/03/the-3-best-performing-ipos-of-2020/",
+         "title" : "The 3 Best-Performing IPOs of 2020 - Motley Fool",
+         "content" : "Investing in IPOs is inherently risky, as many companies nowadays go public at exuberant valuations in order to raise as much money as quickly as possible. But if excited investors aren't careful, bu… [+5709 chars]",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/593550/gettyimages-1190193669.jpg",
+         "author" : "Zhiyuan Sun",
+         "description" : "These companies made an early splash, but that doesn't mean they're a safe choice for investors.",
+         "publishedAt" : "2020-10-03T10:40:00Z"
       }
    ],
-   "status" : "ok"
+   "status" : "ok",
+   "totalResults" : 70
 }
