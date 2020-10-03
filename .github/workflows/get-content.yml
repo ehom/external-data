@@ -62,3 +62,16 @@ jobs:
             -H "X-Finnhub-Token : ${{secrets.FINNHUB_API_KEY}}" \
             $URL | json_pp > covid.json
           git add . && git commit -m "Update Covid news" && git push
+          
+      - name: Get USD exchange rates
+        run: |
+          OUTPUT_FILE=forex-rates.json
+          mkdir -p exchangeratesapi && cd exchangeratesapi
+
+          curl -X GET \
+            --silent \
+            -H 'content-type: application/json' \
+            'https://api.exchangeratesapi.io/latest?base=USD' | json_pp > $OUTPUT_FILE
+
+          git config --global user.name $GITHUB_ACTOR
+          git add . && git commit -am "Updated USD exchange rates" && git push
