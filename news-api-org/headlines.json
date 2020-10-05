@@ -1,266 +1,266 @@
 {
    "status" : "ok",
-   "totalResults" : 70,
    "articles" : [
       {
-         "url" : "https://www.cnbc.com/2020/10/05/stocks-making-the-biggest-moves-midday-regeneron-crowdstrike-amc-entertainment.html",
-         "title" : "Stocks making the biggest moves midday: Regeneron, CrowdStrike, AMC Entertainment and more - CNBC",
+         "description" : "AT&T stops connecting new DSL users; only 28% of AT&T territory has full fiber.",
          "source" : {
-            "name" : "CNBC",
+            "name" : "Ars Technica",
+            "id" : "ars-technica"
+         },
+         "author" : "Jon Brodkin",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/10/getty-snail-mouse-internet-760x380.jpg",
+         "title" : "AT&T kills DSL, leaves tens of millions of homes without fiber Internet - Ars Technica",
+         "content" : "61 with 40 posters participating\r\nAT&amp;T has deployed fiber-to-the-home Internet to less than 30 percent of the households in its 21-state territory, according to a new report that says AT&amp;T ha… [+5109 chars]",
+         "url" : "https://arstechnica.com/tech-policy/2020/10/life-in-atts-slow-lane-millions-left-without-fiber-as-company-kills-dsl/",
+         "publishedAt" : "2020-10-05T18:00:00Z"
+      },
+      {
+         "urlToImage" : "https://stmedia.stimg.co/ows_5c663233-067a-467c-a6c6-b65873e49d43.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+         "title" : "Fairview cuts include Bethesda, St. Joseph's hospitals in St. Paul; 900 jobs to be lost - Minneapolis Star Tribune",
+         "content" : "Fairview Health announced a dramatic downsizing of hospital and clinic operations on Monday to stem financial losses, including the shutdown of the 90-bed Bethesda Hospital in St. Paul that had been … [+7444 chars]",
+         "url" : "https://www.startribune.com/fairview-cuts-include-bethesda-st-joseph-s-hospitals-900-jobs-to-be-lost/572641022/",
+         "publishedAt" : "2020-10-05T17:31:58Z",
+         "source" : {
+            "id" : null,
+            "name" : "Minneapolis Star Tribune"
+         },
+         "description" : "Bethesda Hospital will shut down; St. Joseph's Hospital will become Fairview's new flagship for COVID-19 care, but will no longer be a general hospital. Sixteen clinics in Minnesota and western Wisconsin will close and 900 jobs will be eliminated.",
+         "author" : "Jeremy Olson"
+      },
+      {
+         "author" : "Alicia Wallace, CNN Business",
+         "description" : "When the Covid-19 pandemic hit the US, some businesses held fast and hunkered down. Torani, the 95-year-old company that makes those colorful bottles of flavored syrup at your local coffee shop, didn't have that luxury.",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "url" : "https://www.cnn.com/2020/10/05/business/torani-headquarters-move-pandemic/index.html",
+         "publishedAt" : "2020-10-05T16:54:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200924141657-04-torani-syrup-super-tease.jpg",
+         "content" : "San Francisco (CNN Business)When the Covid-19 pandemic hit the US, some businesses held fast and hunkered down. Torani, the 95-year-old company that makes those colorful bottles of flavored syrup at … [+3801 chars]",
+         "title" : "This 95-year-old flavored syrup company found a sweet spot during the pandemic: Your kitchen - CNN"
+      },
+      {
+         "url" : "https://thehill.com/policy/finance/519647-top-fed-official-warns-lack-of-new-stimulus-deal-could-slow-recovery",
+         "publishedAt" : "2020-10-05T16:51:52Z",
+         "urlToImage" : "https://thehill.com/sites/default/files/evanscharges_06042019getty.jpg",
+         "content" : "Federal Reserve Bank of Chicago President Charles Evans says that a failure of the White House and Congress to approve more coronavirus stimulus funding could reignite recessionary dynamics that will… [+3496 chars]",
+         "title" : "Top Fed official warns failure to pass more COVID-19 relief could slow recovery | TheHill - The Hill",
+         "author" : "Sylvan Lane",
+         "description" : "Federal Reserve Bank of Chicago President Charles Evans says...",
+         "source" : {
+            "id" : "the-hill",
+            "name" : "The Hill"
+         }
+      },
+      {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200604173001-03-slack-app-super-tease.jpg",
+         "content" : null,
+         "title" : "Slack outage: Performance issues are making remote work difficult Monday - CNN",
+         "publishedAt" : "2020-10-05T16:41:00Z",
+         "url" : "https://www.cnn.com/2020/10/05/tech/slack-down-today/index.html",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "description" : "Slack is having performance issues -- which could mean trouble for the many companies that rely on the workplace communication tool to keep remote teams running.",
+         "author" : "Clare Duffy, CNN Business"
+      },
+      {
+         "title" : "Lindsey Graham: Trump called from hospital to talk stimulus, Supreme Court - New York Post ",
+         "content" : "President Trump on Monday called Sen. Lindsey Graham from his COVID-19 hospital suite to discuss stimulus legislation and the Supreme Court nomination of Amy Coney Barrett.\r\n“Just spoke with Presiden… [+1783 chars]",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/10/lindsey-graham-trump.jpg?quality=90&strip=all&w=1200",
+         "publishedAt" : "2020-10-05T16:35:00Z",
+         "url" : "https://nypost.com/2020/10/05/lindsey-graham-trump-called-from-hospital-to-talk-stimulus-bill/",
+         "source" : {
+            "name" : "New York Post",
             "id" : null
          },
-         "description" : "These are the stocks posting the largest moves in midday trading.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/102753095-RTX1CSZ4.jpg?v=1583532519",
-         "author" : "Maggie Fitzgerald",
-         "content" : "Check out the companies making headlines in midday trading. \r\nRegeneron Shares of the biotech company rose 5.9% after President Donald Trump used Regeneron's experimental antibody cocktail as part of… [+2777 chars]",
-         "publishedAt" : "2020-10-05T15:58:00Z"
+         "description" : "President Trump on Monday called Sen. Lindsey Graham from his COVID-19 hospital suite to discuss stimulus legislation and the Supreme Court nomination of Amy Coney Barrett. “Just spoke with P…",
+         "author" : "Steven Nelson"
+      },
+      {
+         "publishedAt" : "2020-10-05T16:04:00Z",
+         "url" : "https://www.marketwatch.com/story/us-service-economy-grows-again-in-september-ism-finds-and-employment-turns-positive-for-first-time-in-7-months-2020-10-05",
+         "content" : "The numbers: The huge service side of the U.S. economy retailers, restaurants, banks, hospitals and the like expanded in September for the fourth month in a row and employment also grew for the first… [+3047 chars]",
+         "title" : "U.S. service economy grows again in September, ISM finds, and employment turns positive for first time in seven months - MarketWatch",
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IK999_city_h_ZG_20200722172958.jpg",
+         "author" : "Jeffry Bartash",
+         "description" : "ISM services index climbs to 57.8% in September from 56.9%",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         }
+      },
+      {
+         "source" : {
+            "name" : "OilPrice.com",
+            "id" : null
+         },
+         "description" : "Oil prices skyrocketed on Monday morning as U.S. President Donald Trump's health appears to have improved after testing positive for the coronavirus on Thursday evening",
+         "author" : "Julianne Geiger",
+         "content" : "Oil prices were set for…\r\nOil prices are stuck in…\r\nBoth the President and First…\r\nBy Julianne Geiger - Oct 05, 2020, 11:00 AM CDTOil prices skyrocketed on Monday morning as U.S. President Donald Tru… [+1705 chars]",
+         "title" : "Oil Prices Soar As Trump's Condition Improves - OilPrice.com",
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-10-05_v31fxqbecx.jpg",
+         "publishedAt" : "2020-10-05T16:00:00Z",
+         "url" : "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Soar-As-Trumps-Condition-Improves.html"
+      },
+      {
+         "publishedAt" : "2020-10-05T15:58:00Z",
+         "url" : "https://nypost.com/2020/10/05/ny-sports-clubs-cant-charge-members-whose-gyms-closed-judge/",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/10/new-york-sports-clubs.jpg?quality=90&strip=all&w=1200",
+         "title" : "New York Sports Clubs can't charge members whose gyms remain closed, judge rules - New York Post ",
+         "content" : "New York Sports Clubs must stop charging membership fees to customers who’ve tried to cancel their accounts amid the pandemic or whose gym locations havent reopened, a judge ruled.\r\nAfter New York At… [+995 chars]",
+         "author" : "Priscilla DeGregory",
+         "description" : "New York Sports Clubs must stop charging membership fees to customers who’ve tried to cancel their accounts amid the pandemic or whose gym locations haven’t reopened, a judge ruled. After New…",
+         "source" : {
+            "name" : "New York Post",
+            "id" : null
+         }
+      },
+      {
+         "publishedAt" : "2020-10-05T15:51:00Z",
+         "url" : "https://www.investing.com/news/stock-market-news/futures-bounce-on-stimulus-hopes-hints-of-trump-hospital-discharge-2315562",
+         "content" : "By Devik Jain and Sagarika Jaisinghani\r\n(Reuters) - Wall Street's main indexes jumped on Monday, recovering from a sharp fall in the previous session as hints President Donald Trump could return to t… [+2919 chars]",
+         "title" : "Wall Street jumps on stimulus hopes, hints of Trump's return to White House - Investing.com",
+         "urlToImage" : "https://i-invdn-com.akamaized.net/trkd-images/LYNXMPEG940XL_L.jpg",
+         "author" : null,
+         "source" : {
+            "name" : "Investing.com",
+            "id" : null
+         },
+         "description" : "Wall Street jumps on stimulus hopes, hints of Trump's return to White House"
+      },
+      {
+         "author" : "Peter Holderith",
+         "source" : {
+            "id" : null,
+            "name" : "The Drive"
+         },
+         "description" : "The Takata airbag-inflicted death toll has climbed to 26 worldwide.",
+         "url" : "https://www.thedrive.com/news/36896/civic-driver-killed-by-faulty-takata-airbag-after-honda-sent-owner-15-letters",
+         "publishedAt" : "2020-10-05T15:43:31Z",
+         "urlToImage" : "https://api.thedrive.com/wp-content/uploads/2020/10/takata-airbag-lead.jpg?quality=85",
+         "title" : "Civic Driver Killed by Faulty Takata Airbag After Honda Sent Owner 15 Letters - The Drive",
+         "content" : "Around 63,000,000 potentially deadly Takata airbags have been recalled in the United States since November 2014. As of September, about 52,000,000 of them have been replaced. That leaves 11,000,000 d… [+684 chars]"
       },
       {
          "url" : "https://www.engadget.com/nvidia-video-calls-ai-cpu-acceleration-maxine-152201557.html",
+         "publishedAt" : "2020-10-05T15:28:19Z",
          "title" : "NVIDIA wants to make video calls better with AI - Engadget",
+         "content" : "The company says Maxine’s video compression can reduce the bandwidth needed for calls by 90 percent versus H.264 compression. As such, video calls could vacuum up much less of your data in the near f… [+536 chars]",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Ff936ed50-071b-11eb-abbf-da225cea590d&client=amp-blogside-v2&signature=899bf89ab703cfbcb860a3e49259f0fd38204b66",
+         "author" : "",
          "description" : "Its Maxine platform can sharpen audio and video, and reduce bandwidth.",
          "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
-         },
-         "author" : "",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Ff936ed50-071b-11eb-abbf-da225cea590d&client=amp-blogside-v2&signature=899bf89ab703cfbcb860a3e49259f0fd38204b66",
-         "content" : "The company says Maxine’s video compression can reduce the bandwidth needed for calls by 90 percent versus H.264 compression. As such, video calls could vacuum up much less of your data in the near f… [+536 chars]",
-         "publishedAt" : "2020-10-05T15:28:19Z"
+            "name" : "Engadget",
+            "id" : "engadget"
+         }
       },
       {
-         "publishedAt" : "2020-10-05T15:12:00Z",
-         "content" : "You've heard of buyer's remorse when it comes to things people buy.\r\nBut you may not know that people can experience those same regrets because of the way they choose to pay for their purchases.\r\nOne… [+2609 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106557199-1590765164148gettyimages-861603702.jpeg?v=1601905662",
-         "author" : "Lorie Konish",
+         "url" : "http://techcrunch.com/2020/10/05/venmo-launches-its-first-credit-card-offering-up-to-3-cash-back-personalized-rewards/",
+         "publishedAt" : "2020-10-05T15:22:30Z",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/10/Credit_Card_Visual06.png?w=583",
+         "content" : "Last October, Venmo announced it would launch its first credit card sometime in 2020. Today, the PayPal-owned company is making good on those promises with the debut of the Venmo Credit Card, initial… [+4454 chars]",
+         "title" : "Venmo launches its first credit card, offering up to 3% cash back, personalized rewards - TechCrunch",
+         "author" : "Sarah Perez",
+         "description" : "Last October, Venmo announced it would launch its first credit card sometime in 2020. Today, the PayPal-owned company is making good on those promises with the debut of the Venmo Credit Card, initially rolling out to select customers. The Visa card offers 3% …",
+         "source" : {
+            "id" : "techcrunch",
+            "name" : "TechCrunch"
+         }
+      },
+      {
          "description" : "Your favorite store's credit card may sound like a great deal. But read the fine print, as you may find high interest rates and deferred interest charges. In contrast, general credit cards may  offer better rates.",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "title" : "What to watch out for when making purchases with retail credit cards - CNBC",
-         "url" : "https://www.cnbc.com/2020/10/05/what-to-watch-out-for-when-making-purchases-with-retail-credit-cards.html"
-      },
-      {
-         "author" : "Daniel Sparks",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/594060/why-tesla-stock-is-up-today.jpg",
-         "content" : "What happened\r\nShares of Tesla(NASDAQ:TSLA) popped on Monday, rising as much as 4.5%. As of about 10:30 a.m. EDT, however, the stock was up 3.3%.\r\nThe growth stock's gain comes as Deutsche Bank analy… [+1435 chars]",
-         "publishedAt" : "2020-10-05T15:11:00Z",
-         "url" : "https://www.fool.com/investing/2020/10/05/why-tesla-stock-jumped-on-monday/",
-         "title" : "Why Tesla Stock Jumped on Monday - Motley Fool",
-         "source" : {
             "id" : null,
-            "name" : "Motley Fool"
+            "name" : "CNBC"
          },
-         "description" : "This analyst thinks the electric-car maker's shares are headed to $500."
+         "author" : "Lorie Konish",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106557199-1590765164148gettyimages-861603702.jpeg?v=1601905662",
+         "title" : "What to watch out for when making purchases with retail credit cards - CNBC",
+         "content" : "You've heard of buyer's remorse when it comes to things people buy.\r\nBut you may not know that people can experience those same regrets because of the way they choose to pay for their purchases.\r\nOne… [+2609 chars]",
+         "url" : "https://www.cnbc.com/2020/10/05/what-to-watch-out-for-when-making-purchases-with-retail-credit-cards.html",
+         "publishedAt" : "2020-10-05T15:12:00Z"
       },
       {
          "url" : "https://www.usatoday.com/story/money/investing/2020/10/05/the-stock-market-could-crash-this-quarter-but-heres-why-you-shouldnt-stress-over-it/42721673/",
+         "publishedAt" : "2020-10-05T15:11:00Z",
          "title" : "The stock market could crash this quarter, but here's why you shouldn't stress over it - USA TODAY",
+         "content" : "September was a volatile month for the stock market, and so far, October seems to be off to a rocky start. And that may be putting investors on edge, especially given the way the market utterly tanke… [+5011 chars]",
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/10/04/USATODAY/usatsports/MotleyFool-TMOT-cd2a6429-9c485f60.jpg?auto=webp&format=pjpg&width=1200",
+         "author" : "Maurie Backman, USA TODAY",
          "description" : "A market downturn is more than possible in the coming months, but it pays to prepare rather than get scared.",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
-         },
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/10/04/USATODAY/usatsports/MotleyFool-TMOT-cd2a6429-9c485f60.jpg?auto=webp&format=pjpg&width=1200",
-         "author" : "Maurie Backman, USA TODAY",
-         "content" : "September was a volatile month for the stock market, and so far, October seems to be off to a rocky start. And that may be putting investors on edge, especially given the way the market utterly tanke… [+5011 chars]",
-         "publishedAt" : "2020-10-05T15:11:00Z"
+         }
       },
       {
+         "title" : "The Covid Economy Carves Deep Divide Between Haves and Have-Nots - The Wall Street Journal",
+         "content" : "A two-track recovery is emerging from the countrys pandemic-driven economic contraction. Some workers, companies and regions show signs of coming out fine or even stronger. The rest are mired in a de… [+207 chars]",
+         "urlToImage" : "https://images.wsj.net/im-238214/social",
          "publishedAt" : "2020-10-05T15:09:00Z",
-         "content" : "It looks like Tesla is still having some quality control issues with the Model Y as the roof of a brand new electric SUV fell right off turning it into a convertible.\r\nAs we reported a few months aft… [+1985 chars]",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Model-Y-without-roof.gif",
+         "url" : "https://www.wsj.com/articles/the-covid-economy-carves-deep-divide-between-haves-and-have-nots-11601910595",
+         "description" : "Comeback since start of pandemic is kind to those who can work from home, to firms serving them and to regions hospitable to them. Many others are left behind.",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "author" : "Eric Morath, Theo Francis, Justin Baer"
+      },
+      {
          "author" : null,
          "description" : "It looks like Tesla is still having some quality control issues with the Model Y as the roof of a brand new electric SUV fell right off — turning it into a convertible. As we reported a few months after Tesla started delivering the Model Y, the automaker was …",
          "source" : {
             "name" : "Electrek",
             "id" : null
          },
-         "title" : "Tesla Model Y roof falls off brand new car — turning it into a convertible - Electrek",
-         "url" : "https://electrek.co/2020/10/05/tesla-model-y-roof-fall-off/"
+         "url" : "https://electrek.co/2020/10/05/tesla-model-y-roof-fall-off/",
+         "publishedAt" : "2020-10-05T15:09:00Z",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Model-Y-without-roof.gif",
+         "content" : "It looks like Tesla is still having some quality control issues with the Model Y as the roof of a brand new electric SUV fell right off turning it into a convertible.\r\nAs we reported a few months aft… [+1985 chars]",
+         "title" : "Tesla Model Y roof falls off brand new car — turning it into a convertible - Electrek"
       },
       {
-         "title" : "Domino's investigating after pizza delivery driver caught rubbing ice cream container on crotch - Fox News",
-         "description" : "There’s nothing appetizing about this special delivery.",
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "url" : "https://www.foxnews.com/food-drink/dominos-uk-investigating-pizza-driver-caught",
-         "publishedAt" : "2020-10-05T15:00:07Z",
-         "author" : "Janine Puhak",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/oh-dough-video-575784.jpg",
-         "content" : "There’s nothing appetizing about this special delivery.\r\nThe U.K. branch of Domino’s is investigating after a pizza delivery driver was caught on camera rubbing a customer’s food on his crotch and th… [+2908 chars]"
-      },
-      {
-         "publishedAt" : "2020-10-05T15:00:00Z",
          "urlToImage" : "https://images.anandtech.com/doci/16139/NV_BF2_DPU_678x452.jpg",
-         "author" : "Ryan Smith",
-         "content" : "Continuing this morning’s run of GTC-related announcements, NVIDIA is offering yet another update on the state of their Data Processing Unit (DPU) project. An initiative inherited from Mellanox as pa… [+4229 chars]",
          "title" : "NVIDIA BlueField-2 DPUs Set to Ship In 2021, Roadmaps BlueField-3&4 By 2023 - AnandTech",
-         "description" : "Continuing this morning&rsquo;s run of GTC-related announcements, NVIDIA is offering yet another update on the state of their Data Processing Unit (DPU) project. An...",
+         "content" : "Continuing this morning’s run of GTC-related announcements, NVIDIA is offering yet another update on the state of their Data Processing Unit (DPU) project. An initiative inherited from Mellanox as pa… [+4229 chars]",
+         "url" : "https://www.anandtech.com/show/16139/nvidia-bluefield2-dpus-set-to-ship-in-2021-roadmaps-bluefield34-by-2023",
+         "publishedAt" : "2020-10-05T15:00:00Z",
          "source" : {
             "id" : null,
             "name" : "AnandTech"
          },
-         "url" : "https://www.anandtech.com/show/16139/nvidia-bluefield2-dpus-set-to-ship-in-2021-roadmaps-bluefield34-by-2023"
+         "description" : "Continuing this morning&rsquo;s run of GTC-related announcements, NVIDIA is offering yet another update on the state of their Data Processing Unit (DPU) project. An...",
+         "author" : "Ryan Smith"
       },
       {
-         "publishedAt" : "2020-10-05T14:50:00Z",
-         "author" : null,
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/10/Exxon-pollution-1.jpg?quality=82&strip=all",
-         "content" : "<ul><li>Bloomberg reports that Exxon plans to actually increase its emissions, according to internal documents.</li><li>A New York state senator has introduced legislation requiring zero emissions fo… [+4016 chars]",
-         "title" : "EGEB: Exxon plans to increase emissions — leaked documents - Electrek.co",
-         "description" : "Bloomberg reports that Exxon plans to actually increase its emissions; the UK's Octopus Energy will create 1,000 clean tech jobs and a new tech hub.",
+         "author" : "Claudia Assis",
+         "description" : "",
          "source" : {
-            "id" : null,
-            "name" : "Electrek"
-         },
-         "url" : "https://electrek.co/2020/10/05/egeb-exxon-emissions-octopus-energy-jobs/"
-      },
-      {
-         "publishedAt" : "2020-10-05T14:44:00Z",
-         "content" : "It's a destination for tech workers fleeing the pricey Bay Area and for metropolitan East Coasters looking for more expansive outdoor space. The new work-from-anywhere culture of the coronavirus pand… [+2469 chars]",
-         "author" : "Diana Olick",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/101295362-457674561.jpg?v=1532564562",
-         "description" : "Denver is experiencing its most competitive housing market in history, largely driven by the new work-from-anywhere culture of the coronavirus pandemic.",
-         "source" : {
-            "name" : "CNBC",
+            "name" : "MarketWatch",
             "id" : null
          },
-         "title" : "Denver suddenly has one of the most competitive housing markets in America - CNBC",
-         "url" : "https://www.cnbc.com/2020/10/05/this-city-now-has-one-of-the-most-competitive-housing-markets-in-america.html"
+         "url" : "https://www.marketwatch.com/story/exxon-planning-to-increase-carbon-emissions-report-says-2020-10-05",
+         "publishedAt" : "2020-10-05T14:59:00Z",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "content" : "Read Next\r\nShares of Tesla Inc. undefined rose 1.9% in premarket trading Monday, after dropping 7.4% in the previous session, as a long-time bearish analyst lifted his price target in the wake of the… [+1179 chars]",
+         "title" : "Exxon planning to increase carbon emissions, report says - MarketWatch"
       },
       {
-         "publishedAt" : "2020-10-05T14:35:00Z",
-         "content" : "(CNN)A motorist died after faulty airbag inflators in their 2002 Honda Civic ruptured, Honda confirmed. It's the 17th death in the US caused by a Takata airbag. The crash occurred in late August in M… [+2176 chars]",
-         "author" : "Scottie Andrew, CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201005094402-honda-file-super-tease.jpg",
-         "description" : "A motorist died after faulty airbag inflators in their 2002 Honda Civic ruptured, Honda confirmed. It's the 17th death in the US caused by a Takata airbag. \nThe crash occurred in late August in Mesa, Arizona. Airbag inflators on the driver's and passenger's s…",
+         "author" : "Luke Fortney",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "title" : "An exploding airbag car causes 17th death in the US - CNN",
-         "url" : "https://www.cnn.com/2020/10/05/us/honda-airbag-exploded-killed-driver-trnd/index.html"
-      },
-      {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VVkwd19QU1dTWWvSAQA?oc=5",
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         },
-         "description" : null,
-         "title" : "Jim Cramer: There is urgency coming to stimulus talks - CNBC Television",
-         "content" : null,
-         "urlToImage" : null,
-         "author" : null,
-         "publishedAt" : "2020-10-05T14:31:22Z"
-      },
-      {
-         "url" : "https://finance.yahoo.com/news/bristol-myers-buy-heart-drug-104748790.html",
-         "description" : "(Bloomberg) -- Drug giant Bristol Myers Squibb Co. will buy MyoKardia Inc. for $13.1 billion in cash in a deal to expand its offering of heart therapies.Bristol Myers, which clinched the largest pharmaceutical deal in history just last year, will pay $225 a s…",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "title" : "Bristol Myers to Buy Heart Drug-Maker for $13 Billion - Yahoo Finance",
-         "content" : "(Bloomberg) -- Drug giant Bristol Myers Squibb Co. will buy MyoKardia Inc. for $13.1 billion in cash in a deal to expand its offering of heart therapies.\r\nBristol Myers, which clinched the largest ph… [+3424 chars]",
-         "author" : "Riley Griffin",
-         "urlToImage" : "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-         "publishedAt" : "2020-10-05T14:24:00Z"
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/10/05/walmart-signs-drone-deals-as-it-races-to-play-catch-up-with-amazon.html",
-         "description" : "Walmart has struck deals with three drone operators to test how the technology could be used to expand on-demand deliveries and help it better compete with Amazon.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "Walmart signs trio of drone deals as it races to play catch-up with Amazon - CNBC",
-         "content" : "Brent Morgan is one of many Americans who have had a Walmart package dropped off at his home during the coronavirus pandemic. Yet his delivery did not fit the typical mold.\r\nA drone flew overhead and… [+6188 chars]",
-         "author" : "Melissa Repko",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106727509-1601649586895-Drone-Image-Original.jpg?v=1601649640",
-         "publishedAt" : "2020-10-05T14:19:00Z"
-      },
-      {
-         "publishedAt" : "2020-10-05T14:06:00Z",
-         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+1740 chars]",
-         "author" : "http://www.facebook.com/kitconews",
-         "urlToImage" : "https://www.kitco.com/news/2020-10-05/images/Analyzing_Charts_Pen.jpg",
-         "description" : "(Kitco News) - Gold prices continue to hold above $1,900 an ounce as the U.S. service sector found some strong momentum last month, according to the latest data from the Institute for Supply Management (ISM).",
-         "source" : {
-            "id" : null,
-            "name" : "Kitco NEWS"
-         },
-         "title" : "Gold prices holding above $1900 as ISM service sector bounces higher - Kitco NEWS",
-         "url" : "https://www.kitco.com/news/2020-10-05/Gold-prices-holding-above-1-900-as-ISM-service-sector-bounces-higher.html"
-      },
-      {
-         "publishedAt" : "2020-10-05T14:04:16Z",
-         "content" : "What’s in a name?\r\nA Georgia pastor recently gave a Waffle House waitress the surprise of a lifetime after raising a $12,000 tip for the pregnant server, after learning that the woman’s unborn child … [+4230 chars]",
-         "author" : "Janine Puhak",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/georgia.jpg",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "description" : "What’s in a name?",
-         "title" : "Georgia pastor shocks pregnant Waffle House waitress with $12G tip after learning special detail about baby - Fox News",
-         "url" : "https://www.foxnews.com/food-drink/georgia-pastor-tip-waffle-house-waitress-baby"
-      },
-      {
-         "url" : "https://oilprice.com/Energy/Oil-Prices/Saudi-Arabia-Sees-Oil-Prices-Capped-At-50-Until-2023.html",
-         "source" : {
-            "name" : "OilPrice.com",
+            "name" : "Eater",
             "id" : null
          },
-         "description" : "Saudi Arabia appears to be more upbeat about the immediate future of oil prices than fundamentals warrant as the Kingdom expects Brent to average $50 between 2020 and 2023",
-         "title" : "Saudi Arabia Sees Oil Prices Capped At $50 Until 2023 - OilPrice.com",
-         "content" : "Hydraulic fracking is a politically…\r\nCrude oil prices took a…\r\nBoth the President and First…\r\nBy Irina Slav - Oct 05, 2020, 9:00 AM CDTSaudi Arabia appears to be more upbeat about the immediate futu… [+2306 chars]",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-10-05_hwqhgovi8r.jpg",
-         "author" : "Irina Slav",
-         "publishedAt" : "2020-10-05T14:00:00Z"
-      },
-      {
-         "publishedAt" : "2020-10-05T13:54:10Z",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/10/05/PDTN/05cdbbbd-cc7d-42b0-bf5f-3af7b47429a4-AP20277764803601.jpg?crop=1023,575,x0,y0&width=1600&height=800&fit=bounds",
-         "author" : "Justina Lee",
-         "content" : "With Joe Bidens lead widening in the polls and President Donald Trumps campaign sidelined by the virus, investment strategists now say theres less of a chance for a contested election.\r\nA clear-cut D… [+5297 chars]",
-         "title" : "A clear-cut Biden win is emerging as a bull case for stocks - The Detroit News",
-         "source" : {
-            "name" : "The Detroit News",
-            "id" : null
-         },
-         "description" : "A clear-cut Democrat victory could avoid a long and messy legal battle and provide certainty to markets that have been nervous about election risks",
-         "url" : "https://www.detroitnews.com/story/business/2020/10/05/clear-cut-biden-win-emerging-bull-case-stocks/3622088001/"
-      },
-      {
-         "description" : "Five patients across the two studies apparently experienced chills, fever, and intense headaches.",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "title" : "Report: Moderna and Pfizer Vaccine Trial Participants Report Serious Side Effects - Motley Fool",
-         "url" : "https://www.fool.com/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/",
-         "publishedAt" : "2020-10-05T13:53:00Z",
-         "content" : "Three patients taking part in clinical trials for Moderna's (NASDAQ:MRNA) coronavirus vaccine candidate and two taking part in Pfizer's (NYSE:PFE) study have experienced intense side effects, accordi… [+2017 chars]",
-         "author" : "Eric Volkman",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/593970/coronavirus-container-receiving-swab.jpg"
-      },
-      {
-         "author" : "FOX59 Web",
-         "urlToImage" : "https://fox59.com/wp-content/uploads/sites/21/2017/09/quifax.jpg?w=1280",
-         "content" : "INDIANAPOLIS Hoosiers affected by the 2017 Equifax data breach are in line for some money.\r\nAttorney General Curtis Hill announced the launch of a new website where Hoosiers can submit claims related… [+1255 chars]",
-         "publishedAt" : "2020-10-05T13:51:00Z",
-         "url" : "https://fox59.com/news/heres-how-hoosiers-can-claim-money-from-the-states-equifax-data-breach-settlement/",
-         "title" : "Here's how Hoosiers can claim money from the state's Equifax data breach settlement - Fox 59",
-         "source" : {
-            "name" : "Fox 59",
-            "id" : null
-         },
-         "description" : "INDIANAPOLIS – Hoosiers affected by the 2017 Equifax data breach are in line for some money. Attorney General Curtis Hill announced the launch of a new website where Hoosiers can submit claims related to the breach. The data breach compromised the personal in…"
+         "description" : "More than 160 employees were permanently laid off from the restaurant last month, according to a filing with the Department of Labor",
+         "url" : "https://ny.eater.com/2020/10/5/21502164/central-park-loeb-boathouse-closes-163-layoffs",
+         "publishedAt" : "2020-10-05T14:51:06Z",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/cvdVfunMQokrRgW0LkcJFPlfDFw=/0x522:4592x2926/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21937363/shutterstock_756666217.jpg",
+         "title" : "Historic Central Park Boathouse Restaurant Is Closed Until At Least April - Eater NY",
+         "content" : null
       }
-   ]
+   ],
+   "totalResults" : 70
 }
