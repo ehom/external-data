@@ -1,59 +1,59 @@
 {
-   "status" : "ok",
    "articles" : [
       {
-         "title" : "Ikea's online sales surged as people turned homes into offices and schools - CNN",
+         "content" : null,
+         "description" : "Ikea's online sales got a big boost during the pandemic as millions of people turned their homes into makeshift schools and offices.",
          "publishedAt" : "2020-10-06T17:04:00Z",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201006115854-ikea-store-russia-0702-super-tease.jpg",
-         "description" : "Ikea's online sales got a big boost during the pandemic as millions of people turned their homes into makeshift schools and offices.",
-         "content" : null,
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
          "url" : "https://www.cnn.com/2020/10/06/business/ikea-coronavirus-sales/index.html",
-         "author" : "Hanna Ziady, CNN Business"
-      },
-      {
-         "author" : "Kelly Tyko",
-         "url" : "https://www.usatoday.com/story/money/2020/10/06/dog-collar-petco-stops-selling-shock-collars-free-training/3636715001/",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "description" : "Petco is no longer selling electronic \"shock\" collars and is calling on the pet industry and consumers to join its \"Stop the Shock\" movement.",
-         "content" : "The miniature schnauzer behind Pluto Living has an important message for the humans of the world.\r\nUSA TODAY\r\nPetco is no longer selling electronic \"shock\" collars and is calling on the pet industry … [+3276 chars]",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/10/06/USAT/755efbb1-7ede-46cd-b43a-4376b9e46350-petco1.jpg?crop=2509,1411,x1,y101&width=1600&height=800&fit=bounds",
-         "title" : "Petco ends sale of electronic shock collars, calls on competitors to also 'Stop the Shock' with online petition - USA TODAY",
-         "publishedAt" : "2020-10-06T16:47:38Z"
-      },
-      {
-         "description" : "Hints of optimism are in the air, and cruising could resume this year.",
-         "content" : "What happened\r\nOn Monday, Norwegian Cruise Line Holdings(NASDAQ:NCLH) followed in the footsteps of rival Carnival Corporation(NYSE:CCL), announcing that despite the U.S. Centers for Disease Control a… [+3130 chars]",
-         "publishedAt" : "2020-10-06T16:39:00Z",
-         "title" : "Why Carnival Corporation, Royal Caribbean, and Norwegian Cruise Line Stocks All Popped This Morning - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/594213/3-cruise-liner-ships-lined-up-abreast-in-port.jpg",
-         "url" : "https://www.fool.com/investing/2020/10/06/why-carnival-corporation-royal-caribbean-and-norwe/",
-         "author" : "Rich Smith",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         }
-      },
-      {
-         "content" : null,
-         "description" : "President Donald Trump is once again warning voters that Democrats would \"shut our economy and jobs down\" if they win in November.",
-         "title" : "Goldman Sachs: A Democratic sweep would mean faster economic recovery - CNN",
-         "publishedAt" : "2020-10-06T16:17:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201006091408-us-capitol-1001-restricted-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/10/06/business/economy-election-blue-wave-goldman-sachs/index.html",
-         "author" : "Matt Egan, CNN Business",
+         "author" : "Hanna Ziady, CNN Business",
+         "title" : "Ikea's online sales surged as people turned homes into offices and schools - CNN",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          }
       },
       {
+         "title" : "Petco ends sale of electronic shock collars, calls on competitors to also 'Stop the Shock' with online petition - USA TODAY",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "description" : "Petco is no longer selling electronic \"shock\" collars and is calling on the pet industry and consumers to join its \"Stop the Shock\" movement.",
+         "content" : "The miniature schnauzer behind Pluto Living has an important message for the humans of the world.\r\nUSA TODAY\r\nPetco is no longer selling electronic \"shock\" collars and is calling on the pet industry … [+3276 chars]",
+         "author" : "Kelly Tyko",
+         "url" : "https://www.usatoday.com/story/money/2020/10/06/dog-collar-petco-stops-selling-shock-collars-free-training/3636715001/",
+         "publishedAt" : "2020-10-06T16:47:38Z",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/10/06/USAT/755efbb1-7ede-46cd-b43a-4376b9e46350-petco1.jpg?crop=2509,1411,x1,y101&width=1600&height=800&fit=bounds"
+      },
+      {
+         "content" : "What happened\r\nOn Monday, Norwegian Cruise Line Holdings(NASDAQ:NCLH) followed in the footsteps of rival Carnival Corporation(NYSE:CCL), announcing that despite the U.S. Centers for Disease Control a… [+3130 chars]",
+         "description" : "Hints of optimism are in the air, and cruising could resume this year.",
+         "author" : "Rich Smith",
+         "url" : "https://www.fool.com/investing/2020/10/06/why-carnival-corporation-royal-caribbean-and-norwe/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/594213/3-cruise-liner-ships-lined-up-abreast-in-port.jpg",
+         "publishedAt" : "2020-10-06T16:39:00Z",
+         "title" : "Why Carnival Corporation, Royal Caribbean, and Norwegian Cruise Line Stocks All Popped This Morning - Motley Fool",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         }
+      },
+      {
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "title" : "Goldman Sachs: A Democratic sweep would mean faster economic recovery - CNN",
+         "author" : "Matt Egan, CNN Business",
+         "url" : "https://www.cnn.com/2020/10/06/business/economy-election-blue-wave-goldman-sachs/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201006091408-us-capitol-1001-restricted-super-tease.jpg",
+         "publishedAt" : "2020-10-06T16:17:00Z",
+         "content" : null,
+         "description" : "President Donald Trump is once again warning voters that Democrats would \"shut our economy and jobs down\" if they win in November."
+      },
+      {
+         "title" : "Dow Jones Jumps 125 Points, As Trump Continues Coronavirus Recovery; Apple, Tesla Slide - Investor's Business Daily",
          "source" : {
             "name" : "Investor's Business Daily",
             "id" : null
@@ -61,206 +61,206 @@
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-trump-coronavirus-recovery-apple-microsoft-tesla-costco-nears-buy-point/",
          "author" : "Investor's Business Daily",
          "publishedAt" : "2020-10-06T15:50:00Z",
-         "title" : "Dow Jones Jumps 125 Points, As Trump Continues Coronavirus Recovery; Apple, Tesla Slide - Investor's Business Daily",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/06/Stock-costco-03-shutt.jpg",
          "description" : "The Dow Jones Industrial Average rose over 125 points, as President Trump continues his coronavirus recovery. But Apple and Tesla stumbled.",
          "content" : "The Dow Jones Industrial Average rallied more than 125 points before cutting gains, as President Trump continues his coronavirus recovery. Dow Jones leaders Apple and Microsoft slid, while Tesla reve… [+6237 chars]"
       },
       {
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
-         "author" : "Andrew J. Hawkins",
-         "url" : "https://www.theverge.com/2020/10/6/21504049/mercedes-benz-eqs-electric-sedan-eqe-suv",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/CZW7VNKzEQcbLjPIM8UXD2zpsz8=/0x475:6631x3947/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21940255/20C0569_094.jpg",
-         "title" : "Mercedes-Benz teases new EQS and EQE luxury electric vehicles - The Verge",
-         "publishedAt" : "2020-10-06T15:45:02Z",
          "content" : "The automaker plans to release six new electric vehicles over the next two years\r\nImage: Daimler AG\r\nMercedes-Benz unveiled a lineup of new electric vehicles built on a scalable architecture that wil… [+2114 chars]",
-         "description" : "Mercedes-Benz teased two new electric vehicle variants, the EQS and EQE, which will both come in sedan and SUV models. The automaker plans to release six new electric vehicles over the next two years."
+         "description" : "Mercedes-Benz teased two new electric vehicle variants, the EQS and EQE, which will both come in sedan and SUV models. The automaker plans to release six new electric vehicles over the next two years.",
+         "publishedAt" : "2020-10-06T15:45:02Z",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/CZW7VNKzEQcbLjPIM8UXD2zpsz8=/0x475:6631x3947/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21940255/20C0569_094.jpg",
+         "url" : "https://www.theverge.com/2020/10/6/21504049/mercedes-benz-eqs-electric-sedan-eqe-suv",
+         "author" : "Andrew J. Hawkins",
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "title" : "Mercedes-Benz teases new EQS and EQE luxury electric vehicles - The Verge"
       },
       {
-         "content" : null,
          "description" : "Southwest Airlines says it will ask employees to take pay cuts to keep their jobs.",
-         "title" : "Southwest Airlines wants workers to take pay cuts to avoid furloughs - CNN",
-         "publishedAt" : "2020-10-06T15:40:00Z",
+         "content" : null,
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201006113509-southwest-airlines-0710-super-tease.jpg",
+         "publishedAt" : "2020-10-06T15:40:00Z",
          "url" : "https://www.cnn.com/2020/10/06/investing/southwest-pay-cuts/index.html",
          "author" : "Pete Muntean, CNN Business",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
-         }
+         },
+         "title" : "Southwest Airlines wants workers to take pay cuts to avoid furloughs - CNN"
       },
       {
-         "description" : "Hey, it's been a rough year. Why not spread some love by sending noods to your friends and family?",
-         "content" : null,
-         "title" : "Kraft's new #SendNoods campaign lets you send free mac and cheese to loved ones - CNN",
-         "publishedAt" : "2020-10-06T15:31:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201006120536-kraft-noods-super-tease.jpg",
          "url" : "https://www.cnn.com/2020/10/06/business/kraft-send-noods-free-mac/index.html",
          "author" : "Alexis Benveniste, CNN Business",
+         "publishedAt" : "2020-10-06T15:31:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201006120536-kraft-noods-super-tease.jpg",
+         "content" : null,
+         "description" : "Hey, it's been a rough year. Why not spread some love by sending noods to your friends and family?",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         }
+         },
+         "title" : "Kraft's new #SendNoods campaign lets you send free mac and cheese to loved ones - CNN"
       },
       {
          "source" : {
             "name" : "OilPrice.com",
             "id" : null
          },
-         "url" : "https://oilprice.com/Latest-Energy-News/World-News/ExxonMobil-To-Cut-1600-Jobs-In-Europe.html",
-         "author" : "Irina Slav",
-         "publishedAt" : "2020-10-06T15:30:00Z",
          "title" : "ExxonMobil To Cut 1,600 Jobs In Europe - OilPrice.com",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/news/718x300/2020-10-06_2i7zvxu1wn.jpg",
          "description" : "Oil and gas supermajor ExxonMobil will be cutting 1,600 jobs in Europe as part of efforts to rein in costs,",
-         "content" : "Both the President and First…\r\nThe ESG megatrend in markets…\r\nBy Irina Slav - Oct 06, 2020, 10:30 AM CDTOil and gas supermajor ExxonMobil will be cutting 1,600 jobs in Europe as part of efforts to re… [+1728 chars]"
+         "content" : "Both the President and First…\r\nThe ESG megatrend in markets…\r\nBy Irina Slav - Oct 06, 2020, 10:30 AM CDTOil and gas supermajor ExxonMobil will be cutting 1,600 jobs in Europe as part of efforts to re… [+1728 chars]",
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/news/718x300/2020-10-06_2i7zvxu1wn.jpg",
+         "publishedAt" : "2020-10-06T15:30:00Z",
+         "url" : "https://oilprice.com/Latest-Energy-News/World-News/ExxonMobil-To-Cut-1600-Jobs-In-Europe.html",
+         "author" : "Irina Slav"
       },
       {
-         "publishedAt" : "2020-10-06T15:27:00Z",
-         "title" : "‘Don’t ever, ever underestimate the potential of the pandemic’: 5 reasons scientists say you should be afraid of COVID-19 - MarketWatch",
-         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IQ154_TrumpB_ZG_20201006055002.jpg",
-         "content" : "Panicking about COVID-19 wont help you get through the pandemic, health professionals say. And neither will treating the novel coronavirus, a highly unpredictable disease for which there is no 100% s… [+8927 chars]",
-         "description" : "President Trump left Walter Reed Monday and returned to the White House, telling the nation, ‘Don’t be afraid of it.’ Anthony Fauci later cautioned the president’s condition ‘could have a reversal’",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
+         "title" : "‘Don’t ever, ever underestimate the potential of the pandemic’: 5 reasons scientists say you should be afraid of COVID-19 - MarketWatch",
+         "description" : "President Trump left Walter Reed Monday and returned to the White House, telling the nation, ‘Don’t be afraid of it.’ Anthony Fauci later cautioned the president’s condition ‘could have a reversal’",
+         "content" : "Panicking about COVID-19 wont help you get through the pandemic, health professionals say. And neither will treating the novel coronavirus, a highly unpredictable disease for which there is no 100% s… [+8927 chars]",
+         "author" : "Quentin Fottrell",
          "url" : "https://www.marketwatch.com/story/dont-ever-ever-underestimate-the-potential-of-the-pandemic-5-reasons-scientists-say-you-should-be-afraid-of-covid-19-2020-10-06",
-         "author" : "Quentin Fottrell"
+         "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IQ154_TrumpB_ZG_20201006055002.jpg",
+         "publishedAt" : "2020-10-06T15:27:00Z"
       },
       {
-         "content" : "Just last week, Amazon announced two brand-new Eero mesh routers, the Eero 6 and Eero Pro 6. Like the names suggest, each one adds in full support for Wi-Fi 6, the newest and most advanced version of… [+2468 chars]",
-         "description" : "The new Eero 6 mesh router supports Wi-Fi 6, and it includes a Zigbee radio that can pair Philips Hue bulbs with Alexa. This deal covers all of that.",
+         "source" : {
+            "name" : "CNET",
+            "id" : null
+         },
          "title" : "Early Prime Day 2020 deal: Buy an Eero 6 mesh router, get a free Echo Dot and free Philips Hue bulbs - CNET",
+         "author" : "Ry Crist",
+         "url" : "https://www.cnet.com/how-to/early-prime-day-2020-deals-networking-eero-6/",
          "publishedAt" : "2020-10-06T15:20:00Z",
          "urlToImage" : "https://cnet2.cbsistatic.com/img/UVa1mr34XJSkv6bmHz-Uh1nflS0=/1200x630/2020/10/01/115ab482-43cf-4c12-b843-a5cbc730cf18/prime-day-2020-promo.png",
-         "url" : "https://www.cnet.com/how-to/early-prime-day-2020-deals-networking-eero-6/",
-         "author" : "Ry Crist",
-         "source" : {
-            "id" : null,
-            "name" : "CNET"
-         }
+         "content" : "Just last week, Amazon announced two brand-new Eero mesh routers, the Eero 6 and Eero Pro 6. Like the names suggest, each one adds in full support for Wi-Fi 6, the newest and most advanced version of… [+2468 chars]",
+         "description" : "The new Eero 6 mesh router supports Wi-Fi 6, and it includes a Zigbee radio that can pair Philips Hue bulbs with Alexa. This deal covers all of that."
       },
       {
-         "url" : "https://nypost.com/2020/10/06/fight-on-flight-after-man-with-face-shield-refuses-to-wear-mask/",
          "author" : "Yaron Steinbuch",
+         "url" : "https://nypost.com/2020/10/06/fight-on-flight-after-man-with-face-shield-refuses-to-wear-mask/",
+         "publishedAt" : "2020-10-06T15:08:00Z",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/10/flight-fight-mask-68.jpg?quality=90&strip=all&w=1200",
+         "description" : "A covidiot who refused to wear a mask on an Allegiant Air flight because he thought his face shield was enough exchanged blows with a fellow passenger who took offense, according to a report. A fli…",
+         "content" : "A covidiot who refused to wear a mask on an Allegiant Air flight because he thought his face shield was enough exchanged blows with a fellow passenger who took offense, according to a report.\r\nA flig… [+2323 chars]",
          "source" : {
             "id" : null,
             "name" : "New York Post"
          },
-         "description" : "A covidiot who refused to wear a mask on an Allegiant Air flight because he thought his face shield was enough exchanged blows with a fellow passenger who took offense, according to a report. A fli…",
-         "content" : "A covidiot who refused to wear a mask on an Allegiant Air flight because he thought his face shield was enough exchanged blows with a fellow passenger who took offense, according to a report.\r\nA flig… [+2323 chars]",
-         "publishedAt" : "2020-10-06T15:08:00Z",
-         "title" : "Fight breaks out on flight after man with face shield refuses to wear mask - New York Post ",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/10/flight-fight-mask-68.jpg?quality=90&strip=all&w=1200"
+         "title" : "Fight breaks out on flight after man with face shield refuses to wear mask - New York Post "
       },
       {
          "description" : "Cuts represent estimated losses of $200bn in potential revenue as airlines shrink fleets",
          "content" : "Boeing has slashed its expectations for global passenger jet demand over the next decade by 11 per cent, representing a loss to the industry of an estimated $200bn in potential revenue, as airlines s… [+4664 chars]",
-         "title" : "Boeing slashes expectations for global passenger jet demand by 11% - Financial Times",
          "publishedAt" : "2020-10-06T15:00:00Z",
          "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1c6a7db0-aeaa-448d-9d76-3010e7d5c733.jpg?source=next-opengraph&fit=scale-down&width=900",
          "url" : "https://www.ft.com/content/3190522f-ad61-432a-b62d-270a068c90fa",
          "author" : null,
          "source" : {
-            "name" : "Financial Times",
-            "id" : "financial-times"
-         }
+            "id" : "financial-times",
+            "name" : "Financial Times"
+         },
+         "title" : "Boeing slashes expectations for global passenger jet demand by 11% - Financial Times"
       },
       {
-         "description" : "The divergence leaves an opening for the powerful tech companies to oppose legislation that could install greater regulatory burdens.",
-         "content" : "A key GOP lawmaker who has been an ally to Democrats on the House Judiciary antitrust subcommittee plans to release his own report laying out \"common ground\" and \"non-starters\" for antitrust reform i… [+6708 chars]",
-         "publishedAt" : "2020-10-06T14:51:00Z",
-         "title" : "Key GOP lawmaker lays out 'non-starters' for Big Tech antitrust reform - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106638420-1596046829272-guy.jpg?v=1601994101",
-         "url" : "https://www.cnbc.com/2020/10/06/key-gop-lawmaker-lays-out-non-starters-for-antitrust-reform.html",
-         "author" : "Lauren Feiner",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         }
-      },
-      {
-         "description" : "Earlier today, we wrote about Airbus and its Corporate Jet division launching a business jet variant of the…",
-         "content" : "Earlier today, we wrote about Airbus and its Corporate Jet division launching a business jet variant of the A220-100. Airbus must have struck gold because, following the launch announcement, orders h… [+3317 chars]",
-         "publishedAt" : "2020-10-06T14:42:02Z",
-         "title" : "Airbus Clocks 6 Orders In 1 Day For New Private A220 Jet - Simple Flying",
-         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/10/ACJ220-Modern-Lounge-e1601977014246.jpeg",
-         "url" : "https://simpleflying.com/airbus-private-a220-jet-orders/",
-         "author" : "",
          "source" : {
             "id" : null,
-            "name" : "Simple Flying"
-         }
+            "name" : "CNBC"
+         },
+         "title" : "Key GOP lawmaker lays out 'non-starters' for Big Tech antitrust reform - CNBC",
+         "publishedAt" : "2020-10-06T14:51:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106638420-1596046829272-guy.jpg?v=1601994101",
+         "author" : "Lauren Feiner",
+         "url" : "https://www.cnbc.com/2020/10/06/key-gop-lawmaker-lays-out-non-starters-for-antitrust-reform.html",
+         "content" : "A key GOP lawmaker who has been an ally to Democrats on the House Judiciary antitrust subcommittee plans to release his own report laying out \"common ground\" and \"non-starters\" for antitrust reform i… [+6708 chars]",
+         "description" : "The divergence leaves an opening for the powerful tech companies to oppose legislation that could install greater regulatory burdens."
+      },
+      {
+         "title" : "Airbus Clocks 6 Orders In 1 Day For New Private A220 Jet - Simple Flying",
+         "source" : {
+            "name" : "Simple Flying",
+            "id" : null
+         },
+         "url" : "https://simpleflying.com/airbus-private-a220-jet-orders/",
+         "author" : "",
+         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/10/ACJ220-Modern-Lounge-e1601977014246.jpeg",
+         "publishedAt" : "2020-10-06T14:42:02Z",
+         "description" : "Earlier today, we wrote about Airbus and its Corporate Jet division launching a business jet variant of the…",
+         "content" : "Earlier today, we wrote about Airbus and its Corporate Jet division launching a business jet variant of the A220-100. Airbus must have struck gold because, following the launch announcement, orders h… [+3317 chars]"
       },
       {
          "urlToImage" : "https://g.foolcdn.com/editorial/images/594206/hamburger.jpg",
-         "title" : "Why Beyond Meat Stock Just Popped 5% - Motley Fool",
          "publishedAt" : "2020-10-06T14:37:00Z",
-         "content" : "What happened\r\nShares of plant-based meat alternatives purveyor Beyond Meat (NASDAQ:BYND) are growing higher in morning trading Tuesday, up 4.9% as of 10:20 a.m. EDT, after investment banker Piper Sa… [+1414 chars]",
-         "description" : "Survey says: Teens love fake meat.",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
          "author" : "Rich Smith",
-         "url" : "https://www.fool.com/investing/2020/10/06/why-beyond-meat-stock-just-popped-5/"
-      },
-      {
-         "description" : "INDIANAPOLIS — The Indianapolis Metropolitan Police Department (IMPD) is asking the public to help identify a woman suspected of assaulting workers at a fast food restaurant on the city’s east side. IMPD officers were sent to the 7200 block of E. Washington S…",
-         "content" : "INDIANAPOLIS — The Indianapolis Metropolitan Police Department (IMPD) is asking the public to help identify a woman suspected of assaulting workers at a fast food restaurant on the city’s east side.\r… [+968 chars]",
-         "title" : "Police seek information in suspected assault at fast food restaurant - Fox 59",
-         "publishedAt" : "2020-10-06T14:33:00Z",
-         "urlToImage" : "https://fox59.com/wp-content/uploads/sites/21/2020/10/FOX_McDonalds.png?w=1280",
-         "url" : "https://fox59.com/news/police-seek-information-in-suspected-assault-at-fast-food-restaurant/",
-         "author" : "FOX59 Web",
+         "url" : "https://www.fool.com/investing/2020/10/06/why-beyond-meat-stock-just-popped-5/",
+         "description" : "Survey says: Teens love fake meat.",
+         "content" : "What happened\r\nShares of plant-based meat alternatives purveyor Beyond Meat (NASDAQ:BYND) are growing higher in morning trading Tuesday, up 4.9% as of 10:20 a.m. EDT, after investment banker Piper Sa… [+1414 chars]",
+         "title" : "Why Beyond Meat Stock Just Popped 5% - Motley Fool",
          "source" : {
-            "id" : null,
-            "name" : "Fox 59"
+            "name" : "Motley Fool",
+            "id" : null
          }
       },
       {
-         "author" : "Jeff Cox",
-         "url" : "https://www.cnbc.com/2020/10/06/watch-fed-chair-jerome-powell-talk-rates-the-economy-and-pandemic-stimulus-live.html",
+         "title" : "Police seek information in suspected assault at fast food restaurant - Fox 59",
+         "source" : {
+            "name" : "Fox 59",
+            "id" : null
+         },
+         "urlToImage" : "https://fox59.com/wp-content/uploads/sites/21/2020/10/FOX_McDonalds.png?w=1280",
+         "publishedAt" : "2020-10-06T14:33:00Z",
+         "url" : "https://fox59.com/news/police-seek-information-in-suspected-assault-at-fast-food-restaurant/",
+         "author" : "FOX59 Web",
+         "description" : "INDIANAPOLIS — The Indianapolis Metropolitan Police Department (IMPD) is asking the public to help identify a woman suspected of assaulting workers at a fast food restaurant on the city’s east side. IMPD officers were sent to the 7200 block of E. Washington S…",
+         "content" : "INDIANAPOLIS — The Indianapolis Metropolitan Police Department (IMPD) is asking the public to help identify a woman suspected of assaulting workers at a fast food restaurant on the city’s east side.\r… [+968 chars]"
+      },
+      {
+         "title" : "Watch Fed Chair Jerome Powell talk rates, the economy and pandemic stimulus live - CNBC",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "description" : "Federal Reserve Chairman Jerome Powell delivers his latest views on the economy Tuesday morning to a virtual gathering of the National Association for Business Economics.",
          "content" : null,
+         "description" : "Federal Reserve Chairman Jerome Powell delivers his latest views on the economy Tuesday morning to a virtual gathering of the National Association for Business Economics.",
+         "publishedAt" : "2020-10-06T14:31:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106715887-16009579372020-09-23t160228z_1800042493_rc2g4j9ivkj6_rtrmadp_0_health-coronavirus-congress-powell.jpeg?v=1600957964",
-         "title" : "Watch Fed Chair Jerome Powell talk rates, the economy and pandemic stimulus live - CNBC",
-         "publishedAt" : "2020-10-06T14:31:00Z"
+         "author" : "Jeff Cox",
+         "url" : "https://www.cnbc.com/2020/10/06/watch-fed-chair-jerome-powell-talk-rates-the-economy-and-pandemic-stimulus-live.html"
       },
       {
+         "content" : "Face masks can be a complement to other things when other things are safely in place. But to start with having face masks and then think you can crowd your buses or your shopping malls that's definit… [+27271 chars]",
+         "description" : "MGM and Wynn last week both announced plans to implement rapid COVID testing in what may be a prelude to broad visitor testing that could make Las\nVegas one of the safest destination on the planet.",
          "author" : "Jeff Hwang",
          "url" : "https://www.fool.com/investing/2020/10/06/las-vegas-bubble-city/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/594195/mgmpark.jpeg",
+         "publishedAt" : "2020-10-06T14:30:00Z",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "description" : "MGM and Wynn last week both announced plans to implement rapid COVID testing in what may be a prelude to broad visitor testing that could make Las\nVegas one of the safest destination on the planet.",
-         "content" : "Face masks can be a complement to other things when other things are safely in place. But to start with having face masks and then think you can crowd your buses or your shopping malls that's definit… [+27271 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/594195/mgmpark.jpeg",
-         "title" : "Las Vegas: Bubble City - Motley Fool",
-         "publishedAt" : "2020-10-06T14:30:00Z"
+         "title" : "Las Vegas: Bubble City - Motley Fool"
       },
       {
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Fox Business",
+            "id" : null
          },
+         "title" : "Moderna sees shortcomings in coronavirus trial minority enrollment, faces delays: report - Fox Business",
+         "description" : "Moderna’s hired contractors have not enrolled enough trial participants from minority groups to determine efficacy in these populations, per a report.",
+         "content" : "Moderna’s hired contractors have not enrolled enough trial participants from minority groups to determine efficacy in these populations, per a report.\r\nTo address the shortcoming, the company reporte… [+1888 chars]",
          "author" : "Kayla Rivas",
          "url" : "https://www.foxbusiness.com/lifestyle/moderna-sees-shortcomings-in-coronavirus-trial-minority-enrollment-faces-delays-report",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/iStock-1210040522.jpg?ve=1&tl=1",
-         "title" : "Moderna sees shortcomings in coronavirus trial minority enrollment, faces delays: report - Fox Business",
          "publishedAt" : "2020-10-06T14:16:41Z",
-         "description" : "Moderna’s hired contractors have not enrolled enough trial participants from minority groups to determine efficacy in these populations, per a report.",
-         "content" : "Moderna’s hired contractors have not enrolled enough trial participants from minority groups to determine efficacy in these populations, per a report.\r\nTo address the shortcoming, the company reporte… [+1888 chars]"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/iStock-1210040522.jpg?ve=1&tl=1"
       }
    ],
-   "totalResults" : 70
+   "totalResults" : 70,
+   "status" : "ok"
 }
