@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "articles" : [
       {
-         "description" : null,
-         "author" : null,
-         "publishedAt" : "2020-10-09T02:34:00Z",
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
          "urlToImage" : null,
+         "publishedAt" : "2020-10-09T02:34:00Z",
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbWFya2V0LXRyZW5kL3N0b2NrLW1hcmtldC10b2RheS9kb3ctam9uZXMtZnV0dXJlcy1wcmVzaWRlbnQtdHJ1bXAtd2FudHMtc3RpbXVsdXMtZGVhbC1hbGliYWJhL9IBAA?oc=5",
          "content" : null,
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         },
-         "title" : "Dow Jones Futures Rise As President Trump Reportedly Wants 'Big Deal' On Stimulus Again; Alibaba Leads Three Breakouts - Investor's Business Daily"
+         "description" : null,
+         "title" : "Dow Jones Futures Rise As President Trump Reportedly Wants 'Big Deal' On Stimulus Again; Alibaba Leads Three Breakouts - Investor's Business Daily",
+         "author" : null
       },
       {
-         "publishedAt" : "2020-10-09T02:18:30Z",
-         "description" : "Virgin Hyperloop has selected West Virginia as the site for a $500 million certification center that will serve as a test track for a high-speed transportation system, the company announced Thursday.",
+         "title" : "Virgin Hyperloop unveils West Virginia as location for Hyperloop test center - Fox Business",
          "author" : "Louis Casiano",
          "url" : "https://www.foxbusiness.com/lifestyle/virgin-hyperloop-unveils-west-virginia-as-the-location-for-the-hyperloop-certification-center",
+         "publishedAt" : "2020-10-09T02:18:30Z",
+         "content" : "Virgin Hyperloop has selected West Virginia as the site for a $500 million certification center that will serve as a test track for a high-speed transportation system, the company announced Thursday.… [+2178 chars]",
+         "description" : "Virgin Hyperloop has selected West Virginia as the site for a $500 million certification center that will serve as a test track for a high-speed transportation system, the company announced Thursday.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Rendering_0002_HCC-2.jpg?ve=1&tl=1",
          "source" : {
             "name" : "Fox Business",
             "id" : null
-         },
-         "content" : "Virgin Hyperloop has selected West Virginia as the site for a $500 million certification center that will serve as a test track for a high-speed transportation system, the company announced Thursday.… [+2178 chars]",
-         "title" : "Virgin Hyperloop unveils West Virginia as location for Hyperloop test center - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Rendering_0002_HCC-2.jpg?ve=1&tl=1"
-      },
-      {
-         "description" : "China is the biggest economy to back the initiative so far. Neither the United States nor Russia have signed up.",
-         "author" : "Al Jazeera",
-         "publishedAt" : "2020-10-09T02:12:46Z",
-         "urlToImage" : "https://www.aljazeera.com/wp-content/uploads/2020/04/aa5e69870bce4658b42630961289a823_18.jpeg?fit=998%2C562",
-         "url" : "https://www.aljazeera.com/news/2020/10/9/china-joins-covax-un-backed-global-covid-19-vaccine-facility",
-         "content" : "China has officially signed an agreement to join the World Health Organization-led COVAX facility, a global COVID-19 vaccine project to ensure poorer countries have access to life-saving vaccines.\r\nC… [+2193 chars]",
-         "title" : "China joins COVAX, UN-backed global COVID-19 vaccine facility - Al Jazeera English",
-         "source" : {
-            "name" : "Al Jazeera English",
-            "id" : "al-jazeera-english"
          }
       },
       {
-         "publishedAt" : "2020-10-09T02:11:04Z",
-         "description" : null,
-         "author" : null,
-         "title" : "COVID-19 Clusters in NYC: Protests Continue As New Shutdowns Begin | NBC New York Coronavirus Update - NBC New York",
-         "content" : null,
+         "publishedAt" : "2020-10-09T02:12:46Z",
+         "url" : "https://www.aljazeera.com/news/2020/10/9/china-joins-covax-un-backed-global-covid-19-vaccine-facility",
+         "content" : "China has officially signed an agreement to join the World Health Organization-led COVAX facility, a global COVID-19 vaccine project to ensure poorer countries have access to life-saving vaccines.\r\nC… [+2193 chars]",
+         "description" : "China is the biggest economy to back the initiative so far. Neither the United States nor Russia have signed up.",
+         "title" : "China joins COVAX, UN-backed global COVID-19 vaccine facility - Al Jazeera English",
+         "author" : "Al Jazeera",
+         "source" : {
+            "id" : "al-jazeera-english",
+            "name" : "Al Jazeera English"
+         },
+         "urlToImage" : "https://www.aljazeera.com/wp-content/uploads/2020/04/aa5e69870bce4658b42630961289a823_18.jpeg?fit=998%2C562"
+      },
+      {
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
+         "urlToImage" : null,
+         "description" : null,
+         "content" : null,
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9LUt1WTQ4b0tCUkXSAQA?oc=5",
-         "urlToImage" : null
+         "publishedAt" : "2020-10-09T02:11:04Z",
+         "author" : null,
+         "title" : "COVID-19 Clusters in NYC: Protests Continue As New Shutdowns Begin | NBC New York Coronavirus Update - NBC New York"
       },
       {
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "content" : "Advanced Micro Devices is in advanced talks to buy rival chip maker Xilinx in a deal that could be valued at more than $30 billion, the Wall Street Journal reported late Thursday, citing people famil… [+276 chars]",
-         "title" : "AMD said to be in advanced talks to buy Xilinx in over $30 billion deal - CNBC",
-         "url" : "https://www.cnbc.com/2020/10/09/amd-said-to-be-in-advanced-talks-to-buy-xilinx-in-over-30-billion-deal-.html",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106692661-1599449811224-gettyimages-1267327926-pre_9603.jpeg?v=1602207185",
          "publishedAt" : "2020-10-09T01:41:00Z",
+         "url" : "https://www.cnbc.com/2020/10/09/amd-said-to-be-in-advanced-talks-to-buy-xilinx-in-over-30-billion-deal-.html",
+         "content" : "Advanced Micro Devices is in advanced talks to buy rival chip maker Xilinx in a deal that could be valued at more than $30 billion, the Wall Street Journal reported late Thursday, citing people famil… [+276 chars]",
          "description" : "A deal, which could mark the latest big tie-up in the rapidly consolidating semiconductor industry, can come together as soon as next week, the newspaper reported.",
+         "title" : "AMD said to be in advanced talks to buy Xilinx in over $30 billion deal - CNBC",
          "author" : "Reuters"
       },
       {
-         "publishedAt" : "2020-10-09T01:26:00Z",
-         "description" : "Waymo, the self-driving unit of Alphabet, said Thursday that it’s offering its fully driverless robo-taxis to all customers of its ride-hailing service in Phoenix, Arizona. Previously, the company only afforded its fleet of unmanned cars to a select few hundr…",
-         "author" : "Alyse Stanley",
          "source" : {
             "id" : null,
             "name" : "Gizmodo.com"
          },
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/otxv26uznxvigxrxlnx8.jpg",
          "content" : "Waymo, the self-driving unit of Alphabet, said Thursday that its offering its fully driverless robo-taxis to all customers of its ride-hailing service in Phoenix, Arizona. Previously, the company onl… [+2271 chars]",
-         "title" : "Waymo Rolls Out Its Driverless Robo-Taxi Service to More Riders in Phoenix - Gizmodo",
+         "description" : "Waymo, the self-driving unit of Alphabet, said Thursday that it’s offering its fully driverless robo-taxis to all customers of its ride-hailing service in Phoenix, Arizona. Previously, the company only afforded its fleet of unmanned cars to a select few hundr…",
+         "publishedAt" : "2020-10-09T01:26:00Z",
          "url" : "https://gizmodo.com/waymo-rolls-out-its-driverless-robo-taxi-service-to-mor-1845319710",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/otxv26uznxvigxrxlnx8.jpg"
+         "author" : "Alyse Stanley",
+         "title" : "Waymo Rolls Out Its Driverless Robo-Taxi Service to More Riders in Phoenix - Gizmodo"
       },
       {
-         "content" : "CHICAGO – The owner of a medical supply company in Skokie was charged Thursday with illegally price gouging customers seeking to buy PPE.\r\nKrikor Topouzian, 60, of Winnetka, faces one count of violat… [+943 chars]",
+         "author" : "WGN Web Desk",
          "title" : "Owner of Skokie medical supply company charged with price gouging PPE - WGN TV Chicago",
+         "description" : "CHICAGO – The owner of a medical supply company in Skokie was charged Thursday with illegally price gouging customers seeking to buy PPE. Krikor Topouzian, 60, of Winnetka, faces one count of violating the Defense Production Act of 1950. Topouzian allegedly a…",
+         "content" : "CHICAGO – The owner of a medical supply company in Skokie was charged Thursday with illegally price gouging customers seeking to buy PPE.\r\nKrikor Topouzian, 60, of Winnetka, faces one count of violat… [+943 chars]",
+         "publishedAt" : "2020-10-09T00:19:00Z",
+         "url" : "https://wgntv.com/news/coronavirus/owner-of-skokie-medical-supply-company-charged-with-price-gouging-ppe/",
+         "urlToImage" : "https://wgntv.com/wp-content/uploads/sites/5/2020/09/generic-ppe-covid-coronavirus-09282020.jpg?w=1280",
          "source" : {
             "name" : "WGN TV Chicago",
             "id" : null
-         },
-         "url" : "https://wgntv.com/news/coronavirus/owner-of-skokie-medical-supply-company-charged-with-price-gouging-ppe/",
-         "urlToImage" : "https://wgntv.com/wp-content/uploads/sites/5/2020/09/generic-ppe-covid-coronavirus-09282020.jpg?w=1280",
-         "publishedAt" : "2020-10-09T00:19:00Z",
-         "description" : "CHICAGO – The owner of a medical supply company in Skokie was charged Thursday with illegally price gouging customers seeking to buy PPE. Krikor Topouzian, 60, of Winnetka, faces one count of violating the Defense Production Act of 1950. Topouzian allegedly a…",
-         "author" : "WGN Web Desk"
+         }
       },
       {
-         "author" : "Jay Peters",
-         "description" : "Google is planning to build a gigantic new “Downtown West” campus in San Jose, and the company has shared some renderings that give an idea of what that space could look like.",
-         "publishedAt" : "2020-10-09T00:07:50Z",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-5XXnOR9nKpVKvGizrRX_bcMyTk=/0x20:1024x556/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21947011/fVqGMEj8Yvvajhj6SqHF9HKKIraBP_VI.jpg",
-         "content" : "The approximately 79-acre campus will have office space, housing, parks, and more\r\nSan Jose residents will notice a problem with this image: the real historic water building faces the Guadalupe River… [+2110 chars]",
-         "title" : "Renders of Google’s gigantic San Jose campus show how it could feel more like a neighborhood - The Verge",
          "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
+            "id" : "the-verge",
+            "name" : "The Verge"
          },
-         "url" : "https://www.theverge.com/2020/10/8/21508416/google-gigantic-san-jose-campus-downtown-west"
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-5XXnOR9nKpVKvGizrRX_bcMyTk=/0x20:1024x556/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21947011/fVqGMEj8Yvvajhj6SqHF9HKKIraBP_VI.jpg",
+         "description" : "Google is planning to build a gigantic new “Downtown West” campus in San Jose, and the company has shared some renderings that give an idea of what that space could look like.",
+         "content" : "The approximately 79-acre campus will have office space, housing, parks, and more\r\nSan Jose residents will notice a problem with this image: the real historic water building faces the Guadalupe River… [+2110 chars]",
+         "url" : "https://www.theverge.com/2020/10/8/21508416/google-gigantic-san-jose-campus-downtown-west",
+         "publishedAt" : "2020-10-09T00:07:50Z",
+         "author" : "Jay Peters",
+         "title" : "Renders of Google’s gigantic San Jose campus show how it could feel more like a neighborhood - The Verge"
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/594624/data-analytics.jpg",
-         "url" : "https://www.fool.com/investing/2020/10/08/ibm-offloads-legacy-business-to-focus-on-1-trillio/",
+         "description" : "The tech titan of yesteryear has a focused plan to jump-start its business.",
          "content" : "Embattled tech relic IBM (NYSE:IBM) has made many attempts to right its flagging business over the years, thus far to no avail. However, in spring 2020, CEO Arvind Krishna -- former Senior Vice Presi… [+1886 chars]",
+         "publishedAt" : "2020-10-08T23:22:00Z",
+         "url" : "https://www.fool.com/investing/2020/10/08/ibm-offloads-legacy-business-to-focus-on-1-trillio/",
+         "author" : "Nicholas Rossolillo",
          "title" : "IBM Offloads Legacy Business to Focus on $1 Trillion Cloud Industry - Motley Fool",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "description" : "The tech titan of yesteryear has a focused plan to jump-start its business.",
-         "author" : "Nicholas Rossolillo",
-         "publishedAt" : "2020-10-08T23:22:00Z"
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/594624/data-analytics.jpg"
       },
       {
          "publishedAt" : "2020-10-08T23:17:00Z",
-         "author" : "Roger Sollenberger",
+         "url" : "https://www.salon.com/2020/10/08/trumps-miracle-covid-19-treatment-was-developed-using-cells-derived-from-an-aborted-fetus-report/",
+         "content" : "President Donald Trump has not been shy in his praise for the experimental COVID-19 treatments he received after testing positive last week. In videos posted to Twitter, the president has falsely hai… [+4442 chars]",
          "description" : "The tissue was originally taken from an abortion in the Netherlands in 1973, the same year Roe v. Wade was decided",
+         "title" : "Trump's \"miracle\" COVID-19 treatment was developed using cells derived from an aborted fetus: report - Salon",
+         "author" : "Roger Sollenberger",
          "source" : {
             "id" : null,
             "name" : "Salon"
          },
-         "content" : "President Donald Trump has not been shy in his praise for the experimental COVID-19 treatments he received after testing positive last week. In videos posted to Twitter, the president has falsely hai… [+4442 chars]",
-         "title" : "Trump's \"miracle\" COVID-19 treatment was developed using cells derived from an aborted fetus: report - Salon",
-         "url" : "https://www.salon.com/2020/10/08/trumps-miracle-covid-19-treatment-was-developed-using-cells-derived-from-an-aborted-fetus-report/",
          "urlToImage" : "https://media.salon.com/2020/10/donald-trump-1005203.jpg"
       },
       {
-         "description" : null,
-         "author" : null,
          "publishedAt" : "2020-10-08T23:02:32Z",
-         "urlToImage" : null,
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bTNwUDRTUG9hRlXSAQA?oc=5",
          "content" : null,
+         "description" : null,
+         "title" : "Cramer breaks down the runs in housing, work-from-home and cloud stocks - CNBC Television",
+         "author" : null,
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
-         "title" : "Cramer breaks down the runs in housing, work-from-home and cloud stocks - CNBC Television"
+         "urlToImage" : null
       },
       {
-         "content" : null,
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
-         "title" : "Regeneron asks FDA for emergency approval of COVID-19 antibody treatment given to Trump - Click On Detroit | Local 4 | WDIV",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9M2Z0YWd5WTVTR1XSAQA?oc=5",
          "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9M2Z0YWd5WTVTR1XSAQA?oc=5",
          "publishedAt" : "2020-10-08T22:35:29Z",
          "description" : null,
+         "content" : null,
+         "title" : "Regeneron asks FDA for emergency approval of COVID-19 antibody treatment given to Trump - Click On Detroit | Local 4 | WDIV",
          "author" : null
       },
       {
-         "publishedAt" : "2020-10-08T22:35:00Z",
-         "description" : "Dollar General, the retail powerhouse known for its rock-bottom prices, is opening a new store aimed at higher-end suburban shoppers.",
-         "author" : "Jazmin Goodwin, CNN Business",
-         "title" : "Dollar General to open new stores targeting wealthier shoppers - CNN",
-         "content" : null,
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201008164451-01-dollar-general-popshelf-super-tease.jpg",
+         "publishedAt" : "2020-10-08T22:35:00Z",
          "url" : "https://www.cnn.com/2020/10/08/business/dollar-general-popshelf-retail-store/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201008164451-01-dollar-general-popshelf-super-tease.jpg"
+         "content" : null,
+         "description" : "Dollar General, the retail powerhouse known for its rock-bottom prices, is opening a new store aimed at higher-end suburban shoppers.",
+         "title" : "Dollar General to open new stores targeting wealthier shoppers - CNN",
+         "author" : "Jazmin Goodwin, CNN Business"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106736742-AH-YT-Thumb-jpg?v=1602192947",
+         "author" : "Arielle Berger",
          "title" : "A second wave of layoffs looms as coronavirus stimulus talks stall: CNBC After Hours - CNBC",
          "content" : "CNBC.com's MacKenzie Sigalos brings you the top business news headlines. On today's show, CNBC's Seema Mody breaks down corporate America's massive wave of layoffs, and explains why more could be com… [+2459 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "url" : "https://www.cnbc.com/2020/10/08/a-second-wave-of-layoffs-looms-as-coronavirus-stimulus-talks-stall.html",
-         "author" : "Arielle Berger",
          "description" : "CNBC.com's MacKenzie Sigalos brings you the top business news headlines. On today's show, CNBC's Seema Mody breaks down corporate America's massive wave of layoffs, and explains why more could be coming as large industries and small businesses alike wait for …",
-         "publishedAt" : "2020-10-08T22:07:00Z"
-      },
-      {
-         "publishedAt" : "2020-10-08T22:00:00Z",
-         "description" : "Crude future prices spiked in Thursday morning trade after OPEC said Thursday that the \"worst is over\" for the oil market",
-         "author" : "ZeroHedge",
-         "title" : "Oil Spikes After OPEC Claims ''The Worst Is Over For The Oil Market'' - OilPrice.com",
-         "content" : "Oil prices turned lower on…\r\nGoldman Sachs is bullish on…\r\nSaudi Arabia appears to be…\r\nBy ZeroHedge - Oct 08, 2020, 5:00 PM CDTCrude future prices spiked on Thursday after OPEC said Thursday that th… [+2158 chars]",
+         "publishedAt" : "2020-10-08T22:07:00Z",
+         "url" : "https://www.cnbc.com/2020/10/08/a-second-wave-of-layoffs-looms-as-coronavirus-stimulus-talks-stall.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106736742-AH-YT-Thumb-jpg?v=1602192947",
          "source" : {
-            "id" : null,
-            "name" : "OilPrice.com"
-         },
-         "url" : "https://oilprice.com/Energy/Oil-Prices/Oil-Spikes-After-OPEC-Claims-The-Worst-Is-Over-For-The-Oil-Market.html",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-10-08_zt3bsazlf0.jpg"
-      },
-      {
-         "author" : "Zack Friedman",
-         "description" : "Will student loans be cancelled?",
-         "publishedAt" : "2020-10-08T21:57:51Z",
-         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f84b94d4080272888cc25%2F0x0.jpg%3FcropX1%3D510%26cropX2%3D2419%26cropY1%3D341%26cropY2%3D1726",
-         "content" : "Getty\r\ngetty\r\nA new bill in Congress would forgive $25,000 of student loans.\r\nHeres what you need to knowand it what it means for you.\r\nStudent Loans\r\nRep. Vincente Gonzalez (D-TX) proposed to cancel… [+3730 chars]",
-         "title" : "Proposal: Forgive $25,000 Of Student Loans - Forbes",
-         "source" : {
-            "id" : null,
-            "name" : "Forbes"
-         },
-         "url" : "https://www.forbes.com/sites/zackfriedman/2020/10/08/proposal-forgive-25000-of-student-loans/"
-      },
-      {
-         "author" : "Natasha Anderson",
-         "description" : "CLEVELAND (WJW) — Lowe’s is launching a nationwide drive-through curbside trick-or-treat event. According to the company, the event will take place on October 22 and October 29 from 6 to 7 p.m. at all stores nationwide. Families can participate in trick-or-tr…",
-         "publishedAt" : "2020-10-08T21:38:00Z",
-         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/10/GettyImages-822742356.jpg?w=1280",
-         "content" : "CLEVELAND (WJW) — Lowe’s is launching a nationwide drive-through curbside trick-or-treat event.\r\nAccording to the company, the event will take place on October 22 and October 29 from 6 to 7 p.m. at a… [+1479 chars]",
-         "title" : "Lowe’s hosting trick-or-treat event with free pumpkin, candy for kids - WJW FOX 8 News Cleveland",
-         "source" : {
-            "name" : "fox8.com",
-            "id" : null
-         },
-         "url" : "https://fox8.com/sponsored/holidays/lowes-hosting-trick-or-treat-event-with-free-pumpkin-candy-for-kids/"
-      },
-      {
-         "publishedAt" : "2020-10-08T21:00:00Z",
-         "author" : "MarketWatch",
-         "description" : "",
-         "url" : "https://www.marketwatch.com/story/dont-miss-out-on-this-generational-opportunity-in-the-stock-market-hedge-fund-manager-says-2020-10-08",
-         "title" : "Don’t miss out on this ‘generational opportunity’ in the stock market, hedge-fund manager says - MarketWatch",
-         "content" : "Thomas Hayes of Great Hill Capital was asked this week whether he's been putting his clients' money to work even all the volatility and uncertainty that pandemic has created in the stock market. His … [+1359 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "urlToImage" : "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-      },
-      {
-         "author" : "Eric J. Savitz",
-         "description" : "",
-         "publishedAt" : "2020-10-08T20:59:00Z",
-         "urlToImage" : "https://images.barrons.com/im-242457/social",
-         "url" : "https://www.barrons.com/articles/gamestop-stock-spikes-on-back-end-software-deal-with-microsoft-51602190521",
-         "content" : "GameStop\r\n shares soared more than 40% Thursday after the videogame retailer announced an agreement to standardize its business on \r\n Microsofts\r\n cloud-based enterprise software applications. Just w… [+1877 chars]",
-         "title" : "GameStop Stock Spikes on Back-End Software Deal With Microsoft - Barron's",
-         "source" : {
-            "name" : "Barron's",
+            "name" : "CNBC",
             "id" : null
          }
       },
       {
-         "url" : "https://www.azfamily.com/news/features/southwest-airlines-starts-service-from-phoenix-to-mexico-announces-palm-springs-route/article_b83885d6-09a8-11eb-ac09-2388d77bdfcb.html",
-         "content" : "PHOENIX (3TV/CBS 5) -- Southwest Airlines is launching new routes from Phoenix, including the first international route for the airline out of Sky Harbor.\r\nInternational service from Phoenix to Los C… [+501 chars]",
+         "source" : {
+            "name" : "OilPrice.com",
+            "id" : null
+         },
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-10-08_zt3bsazlf0.jpg",
+         "description" : "Crude future prices spiked in Thursday morning trade after OPEC said Thursday that the \"worst is over\" for the oil market",
+         "content" : "Oil prices turned lower on…\r\nGoldman Sachs is bullish on…\r\nSaudi Arabia appears to be…\r\nBy ZeroHedge - Oct 08, 2020, 5:00 PM CDTCrude future prices spiked on Thursday after OPEC said Thursday that th… [+2158 chars]",
+         "publishedAt" : "2020-10-08T22:00:00Z",
+         "url" : "https://oilprice.com/Energy/Oil-Prices/Oil-Spikes-After-OPEC-Claims-The-Worst-Is-Over-For-The-Oil-Market.html",
+         "author" : "ZeroHedge",
+         "title" : "Oil Spikes After OPEC Claims ''The Worst Is Over For The Oil Market'' - OilPrice.com"
+      },
+      {
+         "content" : "Getty\r\ngetty\r\nA new bill in Congress would forgive $25,000 of student loans.\r\nHeres what you need to knowand it what it means for you.\r\nStudent Loans\r\nRep. Vincente Gonzalez (D-TX) proposed to cancel… [+3730 chars]",
+         "description" : "Will student loans be cancelled?",
+         "publishedAt" : "2020-10-08T21:57:51Z",
+         "url" : "https://www.forbes.com/sites/zackfriedman/2020/10/08/proposal-forgive-25000-of-student-loans/",
+         "author" : "Zack Friedman",
+         "title" : "Proposal: Forgive $25,000 Of Student Loans - Forbes",
+         "source" : {
+            "name" : "Forbes",
+            "id" : null
+         },
+         "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f84b94d4080272888cc25%2F0x0.jpg%3FcropX1%3D510%26cropX2%3D2419%26cropY1%3D341%26cropY2%3D1726"
+      },
+      {
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2020/10/GettyImages-822742356.jpg?w=1280",
+         "source" : {
+            "name" : "fox8.com",
+            "id" : null
+         },
+         "author" : "Natasha Anderson",
+         "title" : "Lowe’s hosting trick-or-treat event with free pumpkin, candy for kids - WJW FOX 8 News Cleveland",
+         "description" : "CLEVELAND (WJW) — Lowe’s is launching a nationwide drive-through curbside trick-or-treat event. According to the company, the event will take place on October 22 and October 29 from 6 to 7 p.m. at all stores nationwide. Families can participate in trick-or-tr…",
+         "content" : "CLEVELAND (WJW) — Lowe’s is launching a nationwide drive-through curbside trick-or-treat event.\r\nAccording to the company, the event will take place on October 22 and October 29 from 6 to 7 p.m. at a… [+1479 chars]",
+         "publishedAt" : "2020-10-08T21:38:00Z",
+         "url" : "https://fox8.com/sponsored/holidays/lowes-hosting-trick-or-treat-event-with-free-pumpkin-candy-for-kids/"
+      },
+      {
+         "author" : "MarketWatch",
+         "title" : "Don’t miss out on this ‘generational opportunity’ in the stock market, hedge-fund manager says - MarketWatch",
+         "description" : "",
+         "content" : "Thomas Hayes of Great Hill Capital was asked this week whether he's been putting his clients' money to work even all the volatility and uncertainty that pandemic has created in the stock market. His … [+1359 chars]",
+         "publishedAt" : "2020-10-08T21:00:00Z",
+         "url" : "https://www.marketwatch.com/story/dont-miss-out-on-this-generational-opportunity-in-the-stock-market-hedge-fund-manager-says-2020-10-08",
+         "urlToImage" : "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         }
+      },
+      {
+         "urlToImage" : "https://images.barrons.com/im-242457/social",
+         "source" : {
+            "name" : "Barron's",
+            "id" : null
+         },
+         "author" : "Eric J. Savitz",
+         "title" : "GameStop Stock Spikes on Back-End Software Deal With Microsoft - Barron's",
+         "content" : "GameStop\r\n shares soared more than 40% Thursday after the videogame retailer announced an agreement to standardize its business on \r\n Microsofts\r\n cloud-based enterprise software applications. Just w… [+1877 chars]",
+         "description" : "",
+         "publishedAt" : "2020-10-08T20:59:00Z",
+         "url" : "https://www.barrons.com/articles/gamestop-stock-spikes-on-back-end-software-deal-with-microsoft-51602190521"
+      },
+      {
+         "author" : "",
          "title" : "Southwest Airlines starts service from Phoenix to Mexico, announces Palm Springs route - AZFamily",
+         "description" : "Southwest Airlines is launching new routes from Phoenix, including the first international route for the airline out of Sky Harbor.",
+         "content" : "PHOENIX (3TV/CBS 5) -- Southwest Airlines is launching new routes from Phoenix, including the first international route for the airline out of Sky Harbor.\r\nInternational service from Phoenix to Los C… [+501 chars]",
+         "publishedAt" : "2020-10-08T20:56:00Z",
+         "url" : "https://www.azfamily.com/news/features/southwest-airlines-starts-service-from-phoenix-to-mexico-announces-palm-springs-route/article_b83885d6-09a8-11eb-ac09-2388d77bdfcb.html",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/b/a8/ba885dc0-09a8-11eb-9841-cb94bc922426/5f7f7d29ba89d.image.jpg?resize=1120%2C630",
          "source" : {
             "id" : null,
             "name" : "AZFamily"
-         },
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/b/a8/ba885dc0-09a8-11eb-9841-cb94bc922426/5f7f7d29ba89d.image.jpg?resize=1120%2C630",
-         "publishedAt" : "2020-10-08T20:56:00Z",
-         "description" : "Southwest Airlines is launching new routes from Phoenix, including the first international route for the airline out of Sky Harbor.",
-         "author" : ""
+         }
       }
    ],
-   "totalResults" : 70
+   "totalResults" : 70,
+   "status" : "ok"
 }
