@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "articles" : [
       {
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
+         },
+         "publishedAt" : "2020-10-10T23:53:00Z",
+         "description" : "Amazon's best Fire tablet will hit its lowest price to date. The Fire 7 Kids Edition tablet will be $60 -- that's $40 off.",
+         "title" : "Prime Day preview: Fire HD 10 tablet deal for only $80 on Tuesday - CNET",
+         "urlToImage" : "https://cnet4.cbsistatic.com/img/UIMS9FMtdfjuKd_0JTLQr4DIc1w=/1200x630/2020/01/16/ff0416e3-5311-4226-b6fb-b13ddc2db065/cnet-cheap-expensive-03b-amazon-fire-hd-10.jpg",
+         "author" : "David Carnoy",
+         "url" : "https://www.cnet.com/news/prime-day-preview-fire-hd-10-tablet-deal-for-only-80/",
+         "content" : "This story is part of Amazon Prime Day, CNET's guide on everything you need to know and how to make sure you get the best deal.\r\nPrime Day 2020 starts on Tuesday, and we're about to see some good dis… [+1818 chars]"
+      },
+      {
+         "title" : "The Roosevelt Hotel in Midtown Manhattan to Close Permanently - NBC New York",
+         "urlToImage" : "https://media.nbcnewyork.com/2020/10/GettyImages-87221080-e1602357365644.jpg?resize=1200%2C675",
+         "url" : "https://www.nbcnewyork.com/news/local/the-roosevelt-hotel-in-midtown-manhattan-to-close-permanently/2662259/",
+         "author" : "NBC New York",
+         "content" : "An iconic fixture in the landscape of Midtown Manhattan, The Roosevelt Hotel will soon join the growing list of New York City businesses to shutter amid the ongoing coronavirus pandemic.\r\nA spokesper… [+2244 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "NBC New York"
+         },
+         "description" : "An iconic fixture in the landscape of Midtown Manhattan, The Roosevelt Hotel will soon join the growing list of New York City businesses to shutter amid the…",
+         "publishedAt" : "2020-10-10T23:50:00Z"
+      },
+      {
+         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/07/tesla-model-3-model-x-andres-ge-33-e1564091640872-1024x587.jpg",
+         "title" : "Tesla Model 3 most popular in EV-heavy Netherlands - Teslarati",
+         "content" : "Electric vehicles are becoming increasingly present in the Netherlands as they have captured a 27% market share in the European country in September. As the number of electric cars continues to incre… [+2114 chars]",
+         "author" : "Joey Klender",
+         "url" : "https://www.teslarati.com/tesla-netherlands-model-3-ev-heavycc1/",
+         "source" : {
+            "name" : "Teslarati",
+            "id" : null
+         },
+         "description" : "Electric vehicles are becoming increasingly present in the Netherlands as they have captured a 27% market share in the European country in September. As the number of electric cars continues to increase in the Netherlands, the charge forward is being led by t…",
+         "publishedAt" : "2020-10-10T22:40:37Z"
+      },
+      {
+         "author" : "Investor's Business Daily",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-apple-iphone-amazon-prime-day/",
+         "content" : "Dow Jones futures will begin trading Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally had a powerful week. With the major indexes making a big move higher and… [+11001 chars]",
+         "title" : "Dow Jones Futures: Stock Market Rally Is Best Of Both Worlds; Apple iPhone, Amazon Prime Day - Investor's Business Daily",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/05/Stock-Bull-running-02-adobe.jpg",
+         "publishedAt" : "2020-10-10T22:30:00Z",
+         "description" : "Dow Jones futures: The stock market rally is the best of both worlds. Five leaders have key news this week, notably the 5G Apple iPhone and Amazon Prime Day",
+         "source" : {
+            "id" : null,
+            "name" : "Investor's Business Daily"
+         }
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "countynewscenter.com"
+         },
+         "description" : "Here is today’s COVID-19 update from the County Health and Human Services Agency with data through Oct. 9.",
+         "publishedAt" : "2020-10-10T22:26:08Z",
+         "urlToImage" : "https://www.countynewscenter.com/wp-content/uploads/coronavirus-1600px.jpg",
+         "title" : "San Diego County COVID-19 Update – 10-10-2020 - countynewscenter.com",
+         "url" : "https://www.countynewscenter.com/san-diego-county-covid-19-update-10-10-2020/",
+         "content" : "Here is todays COVID-19 update from the County Health and Human Services Agency with data through Oct. 9.\r\nState Metrics:\r\n<ul><li>Under the state monitoring metrics, San Diego County remains in Tier… [+2524 chars]",
+         "author" : "https://www.countynewscenter.com/author/michelle-mowad/"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "NBC 7 San Diego"
+         },
+         "publishedAt" : "2020-10-10T22:22:29Z",
+         "description" : "The California Department of Public Health (CDPH) released new guidance Friday that now allows private gatherings to include up to three households. The…",
+         "urlToImage" : "https://media.nbcsandiego.com/2019/09/Generic-Face-Mask-Generic.jpg?resize=1200%2C675",
+         "title" : "California Eases Restrictions on Private Gatherings - NBC San Diego",
+         "author" : "Brenda Gregorio-Nieto",
+         "content" : "The California Department of Public Health (CDPH) released new guidance Friday that now allows private gatherings to include up to three households. \r\nThe guidance goes into effect in San Diego Count… [+2774 chars]",
+         "url" : "https://www.nbcsandiego.com/news/local/california-eases-restrictions-on-private-gatherings/2422189/"
+      },
+      {
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         },
+         "publishedAt" : "2020-10-10T22:09:41Z",
+         "description" : "A new Tuber app lets Chinese users partly bypass the Great Firewall, but you'll still have to deal with censorship and privacy violations.",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fecb246c0-0b39-11eb-9e8f-b216f1809f2f&client=amp-blogside-v2&signature=f7991a70446f7af97a10359443031c2fe323cfa0",
+         "title" : "Chinese app offers a peek over the Great Firewall, with big catches - Engadget",
+         "content" : "You can’t officially bypass China’s Great Firewall when it’s illegal to use a VPN for that in the country. Chinese residents appear to have a legal option, though, at least if they’re willing to live… [+639 chars]",
+         "author" : "",
+         "url" : "https://www.engadget.com/qihoo-360-tuber-app-bypasses-china-great-firewall-211037027.html"
+      },
+      {
+         "title" : "Killer Mike's new Black-owned bank receives 'tens of thousands' of account requests in less than 24 hours - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201009164640-01-killer-mike-greenwood-bank-restricted-super-tease.jpg",
+         "url" : "https://www.cnn.com/2020/10/10/business/killer-mike-greenwood-bank/index.html",
          "content" : null,
+         "author" : "Chauncey Alcorn CNN Business",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "title" : "Killer Mike's new Black-owned bank receives 'tens of thousands' of account requests in less than 24 hours - CNN",
-         "description" : "A new majority Black and Latinx-owned and operated digital bank hopes to make supporting Black-owned banks and businesses a little easier for consumers.",
          "publishedAt" : "2020-10-10T21:19:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201009164640-01-killer-mike-greenwood-bank-restricted-super-tease.jpg",
-         "url" : "https://www.cnn.com/2020/10/10/business/killer-mike-greenwood-bank/index.html",
-         "author" : "Chauncey Alcorn CNN Business"
+         "description" : "A new majority Black and Latinx-owned and operated digital bank hopes to make supporting Black-owned banks and businesses a little easier for consumers."
       },
       {
-         "publishedAt" : "2020-10-10T20:38:00Z",
-         "url" : "http://gothamist.com/arts-entertainment/iconic-near-century-old-roosevelt-hotel-will-close-end-october",
-         "urlToImage" : "https://cms.prod.nypr.digital/images/156694/fill-1200x650/",
-         "author" : "David Cruz",
-         "description" : "Employees reportedly learned about the closure through social media.",
          "source" : {
-            "id" : null,
-            "name" : "Gothamist"
+            "id" : "google-news",
+            "name" : "Google News"
          },
-         "title" : "Iconic, Near Century-Old Roosevelt Hotel Will Close At The End Of October - Gothamist",
-         "content" : "The elegant Roosevelt Hotel in Midtown will close this month because of lagging business caused by the COVID-19 pandemic, according to reports.\r\nThe 96-year-old hotel, a throwback inn that covers an … [+2788 chars]"
+         "description" : null,
+         "publishedAt" : "2020-10-10T21:17:57Z",
+         "title" : "North England's leaders warn region will be “plunged into hardship” without more help - BBC News - BBC News",
+         "urlToImage" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cUhaLWkxekIycVHSAQA?oc=5",
+         "content" : null,
+         "author" : null
       },
       {
-         "content" : "The pandemic may have brought the world to a standstill, but it didn't stop one Texas man's hustle. \r\nPer the Justice Department, a Dallas-area man stole over $17 million in COVID-19 bailout money. 5… [+1234 chars]",
-         "description" : "Dinesh Sah has since been charged with three counts of wire fraud, three counts of bank fraud, and one count of money laundering.",
-         "title" : "Texas Man Steals More Than $17 Million In Coronavirus Relief Funds, Buys Luxury Cars and Houses - Yahoo Entertainment",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "TMZ"
          },
-         "url" : "https://www.yahoo.com/entertainment/texas-man-steals-more-17-190319390.html",
+         "description" : "Talk about having a gun to your head.",
+         "publishedAt" : "2020-10-10T20:15:00Z",
+         "title" : "Lady Ambushes Target Employee Fiance, Demands Marriage on the Spot - TMZ",
+         "urlToImage" : "https://imagez.tmz.com/image/88/16by9/2020/10/10/884bf93a8ad44ed99795295b77394e83_xl.jpg",
+         "content" : "One woman must've had Elvis lyrics in her head as she stormed into a Target, hunted for her fiance in a bride's dress and demanded his hand in marriage ... it's now or never.\r\nCheck out this video of… [+1215 chars]",
+         "url" : "https://www.tmz.com/2020/10/10/woman-ambushes-target-employee-fiance-demands-marriage/",
+         "author" : "TMZ Staff"
+      },
+      {
+         "publishedAt" : "2020-10-10T20:07:00Z",
+         "description" : "Increasingly uncomfortable with News Corp’s politics and profit motives, Rupert’s younger son chose chickens and sheep over Fox, and insists he doesn’t watch ‘Succession.’",
+         "source" : {
+            "name" : "New York Times",
+            "id" : null
+         },
+         "author" : "Maureen Dowd",
+         "url" : "https://www.nytimes.com/2020/10/10/style/james-murdoch-maureen-dowd.html",
+         "content" : "Though the kids each walked away with billions in cash and stock, the deal bared all the competing interests in the family. Lachlan was, by all accounts, aghast to be left merely with the rump the pa… [+2444 chars]",
+         "urlToImage" : "https://static01.nyt.com/images/2020/10/10/fashion/10WITH-JAMESMURDOCH2/10WITH-JAMESMURDOCH2-facebookJumbo.jpg",
+         "title" : "Which 'Succession' Character is James Murdoch? - The New York Times"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "KSAT San Antonio"
+         },
+         "publishedAt" : "2020-10-10T19:39:00Z",
+         "description" : "What’s red, orange, yellow, green, blue, indigo and violet? Oreo’s latest cookie creation, but you can only snag them if you follow a few steps.",
+         "title" : "Oreo is giving away 10,000 packs of rainbow cookies. Here’s how to get yours - KSAT San Antonio",
+         "urlToImage" : "https://www.ksat.com/resizer/JxxADhDRizcV6dd3t5lyU3RM5AA=/1600x900/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/RWHD45HCK5CYJGQTE4D24BK7BE.jpg",
+         "author" : "Jakob Rodriguez",
+         "content" : "SAN ANTONIO Whats red, orange, yellow, green, blue, indigo and violet? Oreos latest cookie creation, but you can only snag them if you follow a few steps.\r\nThe company partnered with PFLAG, the first… [+1703 chars]",
+         "url" : "https://www.ksat.com/news/local/2020/10/10/oreo-is-giving-away-10000-packs-of-rainbow-cookies-heres-how-to-get-yours/"
+      },
+      {
          "publishedAt" : "2020-10-10T19:03:00Z",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/Xf95TkgfCPcjkQJHQRBf_A--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/complex584/95b24b2a685a605b40d66135a7a9acd5",
-         "author" : "FNR TIGG"
+         "description" : "Dinesh Sah has since been charged with three counts of wire fraud, three counts of bank fraud, and one count of money laundering.",
+         "source" : {
+            "name" : "Yahoo Entertainment",
+            "id" : null
+         },
+         "author" : "FNR TIGG",
+         "content" : "The pandemic may have brought the world to a standstill, but it didn't stop one Texas man's hustle. \r\nPer the Justice Department, a Dallas-area man stole over $17 million in COVID-19 bailout money. 5… [+1234 chars]",
+         "url" : "https://www.yahoo.com/entertainment/texas-man-steals-more-17-190319390.html",
+         "title" : "Texas Man Steals More Than $17 Million In Coronavirus Relief Funds, Buys Luxury Cars and Houses - Yahoo Entertainment",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/Xf95TkgfCPcjkQJHQRBf_A--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/complex584/95b24b2a685a605b40d66135a7a9acd5"
       },
       {
+         "title" : "These Luxury Cruise Ships Are Being Sold for Scrap Metal - Gizmodo",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ohnmc93fao3btemdoi51.jpg",
+         "url" : "https://gizmodo.com/these-luxury-cruise-ships-are-being-sold-for-scrap-meta-1845328219",
+         "author" : "Jody Serrano",
+         "content" : "A shipyard in Aliaga, Turkey, is making headlines for its dismantling of five luxury cruise ships. According to Reuters, the shipyard is expecting three more ships to begin to take apart. Kamil Onal,… [+173 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Gizmodo.com"
+         },
+         "description" : "Cruise ships reportedly can cost anywhere from $500 million to $1 billion to build and typically have a lifespan of 40 years. Due to the pandemic, the cruise industry has come to a screeching halt, and the ships are being sold for scraps.",
+         "publishedAt" : "2020-10-10T18:45:00Z"
+      },
+      {
+         "url" : "https://www.salon.com/2020/10/10/monoclonal-antibodies-explainer-trump-coronavirus-treatment/",
+         "author" : "Mary Elizabeth Williams",
+         "content" : "After Donald Trump was hospitalized last week following a positive test for COVID-19, he emerged from Walter Reed with all the \"Scarface\" energy of one of his sons, declaring that, after \"some really… [+6630 chars]",
+         "title" : "Like Trump, I was on monoclonal antibody drugs. This is what they do to you - Salon",
+         "urlToImage" : "https://media.salon.com/2020/10/doctor-syringe-iv-1005201.jpg",
          "description" : "Trump fundamentally misunderstands what monoclonal antibodies are, and what they do. This is how they really work",
+         "publishedAt" : "2020-10-10T18:00:00Z",
          "source" : {
             "name" : "Salon",
-            "id" : null
-         },
-         "title" : "Like Trump, I was on monoclonal antibody drugs. This is what they do to you - Salon",
-         "content" : "After Donald Trump was hospitalized last week following a positive test for COVID-19, he emerged from Walter Reed with all the \"Scarface\" energy of one of his sons, declaring that, after \"some really… [+6630 chars]",
-         "publishedAt" : "2020-10-10T18:00:00Z",
-         "urlToImage" : "https://media.salon.com/2020/10/doctor-syringe-iv-1005201.jpg",
-         "author" : "Mary Elizabeth Williams",
-         "url" : "https://www.salon.com/2020/10/10/monoclonal-antibodies-explainer-trump-coronavirus-treatment/"
-      },
-      {
-         "content" : "Amazon Prime Day is coming up fast.\r\nThe two-day sales event typically happens in July, but it had to be postponed this year because of the coronavirus pandemic.\r\nLast year, Prime Day was reportedly … [+1674 chars]",
-         "title" : "Amazon Prime Day 2020: What to know about the online sales event - Fox Business",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "description" : "Here’s what you need to know about Amazon Prime Day on Oct. 13-14.",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Amazon-video-grab.jpg?ve=1&tl=1",
-         "publishedAt" : "2020-10-10T17:21:12Z",
-         "author" : "Ann Schmidt",
-         "url" : "https://www.foxbusiness.com/lifestyle/amazon-prime-day-2020-what-to-know"
-      },
-      {
-         "urlToImage" : "https://deadline.com/wp-content/uploads/2018/05/screen-shot-2018-05-29-at-5-46-10-pm.png?w=1024",
-         "publishedAt" : "2020-10-10T17:02:00Z",
-         "url" : "https://deadline.com/2020/10/james-murdoch-explains-decision-step-away-from-family-business-1234595172/",
-         "author" : "Bruce Haring",
-         "content" : "“And I just felt increasingly uncomfortable with my position on the board having some disagreements over how certain decisions are being made. So it was actually not that hard a decision to remove my… [+1687 chars]",
-         "description" : "James Murdoch has spoken out regarding his step away from the family business at News Corp. after 21st Century Fox was sold to the Walt Disney Co. in a $71.3 billion deal. In an interview with the New York Times’ Maureen Dowd that ran today, Murdoch amplified…",
-         "title" : "James Murdoch Explains His Decision To Step Away From The Family Business - Deadline",
-         "source" : {
-            "name" : "Deadline",
             "id" : null
          }
       },
       {
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "description" : "Here’s what you need to know about Amazon Prime Day on Oct. 13-14.",
+         "publishedAt" : "2020-10-10T17:21:12Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Amazon-video-grab.jpg?ve=1&tl=1",
+         "title" : "Amazon Prime Day 2020: What to know about the online sales event - Fox Business",
+         "author" : "Ann Schmidt",
+         "url" : "https://www.foxbusiness.com/lifestyle/amazon-prime-day-2020-what-to-know",
+         "content" : "Amazon Prime Day is coming up fast.\r\nThe two-day sales event typically happens in July, but it had to be postponed this year because of the coronavirus pandemic.\r\nLast year, Prime Day was reportedly … [+1674 chars]"
+      },
+      {
+         "urlToImage" : "https://media.12newsnow.com/assets/KJAC/images/6ab7ae87-1ab7-42e9-bba4-773a271e76f9/6ab7ae87-1ab7-42e9-bba4-773a271e76f9_1140x641.jpg",
+         "title" : "UPDATE: Entergy to restore power in affected areas within 5-7 days, potentially sooner - 12newsnow.com KBMT-KJAC",
+         "content" : "BEAUMONT, Texas Thousands of Southeast Texans are still in the dark after the widespread impact of Hurricane Delta.\r\nThe outages are concentrated primarily in the Beaumont, Orange, Port Arthur, Silsb… [+1724 chars]",
+         "url" : "https://www.12newsnow.com/article/news/local/entergy-hurricane-delta-restoration-saturday-morning-update/502-f09cb65d-ec9e-49b5-b834-605e31c5c1fa",
+         "author" : "Kierra Sam (12News)",
+         "source" : {
+            "id" : null,
+            "name" : "12newsnow.com KBMT-KJAC"
+         },
+         "description" : "Based on the energy company’s initial damage assessments, Entergy expects to restore most customers within five days.",
+         "publishedAt" : "2020-10-10T16:53:00Z"
+      },
+      {
+         "source" : {
+            "name" : "Blackhillsfox.com",
+            "id" : null
+         },
          "publishedAt" : "2020-10-10T16:11:00Z",
-         "author" : "CNN Staff",
-         "urlToImage" : "https://gray-kevn-prod.cdn.arcpublishing.com/resizer/LWenvnDw15g-I23C7pOMpeGrWWA=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/UEGDIPGYNJANRK2SBRGWTTZAY4.jpg",
-         "url" : "https://www.blackhillsfox.com/2020/10/10/usps-to-increase-prices-in-2021/",
-         "title" : "US Postal Service to increase prices in 2021 - KEVN Black Hills Fox",
-         "source" : {
-            "id" : null,
-            "name" : "Blackhillsfox.com"
-         },
          "description" : "The commission will review the changes before they are scheduled to take effect on Jan. 24, 2021.",
-         "content" : "(CNN) - Sending mail might get a little more expensive in 2021.\r\nThe U.S. Postal Service filed notice with the Postal Regulatory Commission that its planning to increase prices.\r\nThe new proposal rai… [+552 chars]"
+         "urlToImage" : "https://gray-kevn-prod.cdn.arcpublishing.com/resizer/LWenvnDw15g-I23C7pOMpeGrWWA=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/UEGDIPGYNJANRK2SBRGWTTZAY4.jpg",
+         "title" : "US Postal Service to increase prices in 2021 - KEVN Black Hills Fox",
+         "author" : "CNN Staff",
+         "content" : "(CNN) - Sending mail might get a little more expensive in 2021.\r\nThe U.S. Postal Service filed notice with the Postal Regulatory Commission that its planning to increase prices.\r\nThe new proposal rai… [+552 chars]",
+         "url" : "https://www.blackhillsfox.com/2020/10/10/usps-to-increase-prices-in-2021/"
       },
       {
-         "content" : "The market has been anything but predictable this year, and the wild share price swings that some investors have seen in their favored stocks over the past several months can create a wariness about … [+4452 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "title" : "3 Top Tech Stocks to Buy Right Now - Motley Fool",
-         "description" : "Are you an investor interested in e-commerce, computer chips, or cloud computing? You should be.",
-         "publishedAt" : "2020-10-10T16:06:00Z",
-         "url" : "https://www.fool.com/investing/2020/10/10/3-top-tech-stocks-to-buy-right-now/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/594513/gettyimages-1000963828.jpg",
-         "author" : "Chris Neiger"
-      },
-      {
-         "publishedAt" : "2020-10-10T15:53:00Z",
-         "urlToImage" : "https://www.androidpolice.com/wp-content/uploads/2020/06/25/How-to-disable-autoplay-in-YouTube’s-home-and-subscriptions-tabs-2.png",
-         "url" : "https://www.androidpolice.com/2020/10/10/google-might-turn-youtube-into-a-shopping-website/",
          "author" : "https://www.facebook.com/corbin.davenport.50",
          "content" : "YouTube already makes money through advertisements, YouTube Premium (to get rid of said advertisements), and memberships to specific channels. It looks like the company might be preparing to add gene… [+1021 chars]",
+         "url" : "https://www.androidpolice.com/2020/10/10/google-might-turn-youtube-into-a-shopping-website/",
+         "urlToImage" : "https://www.androidpolice.com/wp-content/uploads/2020/06/25/How-to-disable-autoplay-in-YouTube’s-home-and-subscriptions-tabs-2.png",
+         "title" : "Google might turn YouTube into a shopping website - Android Police",
+         "description" : "YouTube already makes money through advertisements, YouTube Premium (to get rid of said advertisements), and memberships to specific channels. It looks",
+         "publishedAt" : "2020-10-10T15:53:00Z",
          "source" : {
             "id" : null,
             "name" : "Android Police"
-         },
-         "title" : "Google might turn YouTube into a shopping website - Android Police",
-         "description" : "YouTube already makes money through advertisements, YouTube Premium (to get rid of said advertisements), and memberships to specific channels. It looks"
+         }
       },
       {
-         "content" : "A volunteer received an injection as part of a clinical trial for a COVID-19 vaccine at Research Centers of America in Hollywood, Fla. Studies of vaccines backed by Operation Warp Speed have enrolled… [+7771 chars]",
+         "author" : "Melanie Gray",
+         "content" : "A renowned American collector sold a dozen rare coins, but he couldn’t unload his rarest and most valuable: a 1794 silver dollar that experts predicted would sell for upward of $10 million.\r\nLas Vega… [+734 chars]",
+         "url" : "https://nypost.com/2020/10/10/rare-1794-silver-dollar-expected-to-bring-10m-goes-unsold/",
+         "title" : "Rare 1794 silver dollar expected to sell for $10M goes without a buyer - New York Post ",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/10/rare-silver-dollar-1.jpg?quality=90&strip=all&w=1200",
+         "description" : "Las Vegan Bruce Morelan kept his Flowing Hair Silver Dollar, one of the first 1,758 minted in the US, after no one placed his minimum bid, which often are what a seller paid for the coin.",
+         "publishedAt" : "2020-10-10T15:50:00Z",
          "source" : {
-            "name" : "NPR",
+            "name" : "New York Post",
             "id" : null
-         },
-         "title" : "Operation Warp Speed COVID-19 Vaccine Contract Terms Unknown : Shots - Health News - NPR",
-         "description" : "Members of Congress and advocacy groups say Operation Warp Speed should release its contracts with vaccine makers after NPR reporting found the terms of many aren't public.",
-         "url" : "https://www.npr.org/sections/health-shots/2020/10/10/922617939/call-for-administrations-covid-19-vaccine-contracts-to-be-disclosed",
-         "publishedAt" : "2020-10-10T15:36:49Z",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/10/10/ows_getty1228428304_vaccine_trial_wide-68b0435f170d595f462a798b74ce8388828cd14e.jpg?s=1400",
-         "author" : "Sydney Lupkin"
-      },
-      {
-         "content" : "A woman ended up having to wear the captain’s t-shirt on a Southwest Airlines flight, or else she would have been denied boarding. The airline was completely off base here, in my opinion.\r\nA woman’s … [+6602 chars]",
-         "description" : "Here's why Southwest Airlines was wrong to try to kick off a woman for the outfit she was wearing on a recent flight.",
-         "title" : "Southwest Tries To Kick Off Woman For \"Lewd\" Outfit - One Mile at a Time",
-         "source" : {
-            "id" : null,
-            "name" : "One Mile at a Time"
-         },
-         "publishedAt" : "2020-10-10T15:20:00Z",
-         "urlToImage" : "https://onemileatatime.com/wp-content/uploads/2020/10/Southwest-Lewd-Outfit.jpeg",
-         "url" : "https://onemileatatime.com/southwest-airlines-woman-lewd-outfit/",
-         "author" : null
-      },
-      {
-         "content" : "ALBUQUERQUE, N.M. (KRQE) The city is making it easier for people to pick up to-go orders from Nob Hill restaurants. Nob Hill Main Street has partnered with the city to reserved parking spots outside … [+311 chars]",
-         "description" : "ALBUQUERQUE, N.M. (KRQE) – Police are currently investigating an overnight shooting at a McDonald’s on Albuquerque’s westside. Officials say around 1:40 a.m. Saturday morning, officers responded to a call of shots fired at the McDonald’s at 1501 Coors NW. Acc…",
-         "title" : "APD investigating fatal shooting at westside McDonald’s - KRQE News 13",
-         "source" : {
-            "id" : null,
-            "name" : "KRQE News 13"
-         },
-         "urlToImage" : "https://www.krqe.com/wp-content/uploads/sites/12/2020/09/lights-1.jpg?w=1280",
-         "publishedAt" : "2020-10-10T14:57:00Z",
-         "author" : "KRQE Staff",
-         "url" : "https://www.krqe.com/news/albuquerque-metro/apd-investigating-overnight-shooting-at-westside-mcdonalds/"
-      },
-      {
-         "description" : "Europe's second wave of coronavirus infections has struck well before flu season even started, with intensive care wards filling up again and bars shutting down. Making matters worse, authorities say, is a widespread case of \"COVID-fatigue.\"",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "title" : "Lesson not learned: Europe unprepared as 2nd virus wave hits - Fox News",
-         "content" : "Europe's second wave of coronavirus infections has struck well before flu season even started, with intensive care wards filling up again and bars shutting down. Making matters worse, authorities say… [+7244 chars]",
-         "author" : "Associated Press",
-         "publishedAt" : "2020-10-10T14:54:04Z",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/COVID.jpg",
-         "url" : "https://www.foxnews.com/world/europe-unprepared-second-coronavirus-wave-covid"
-      },
-      {
-         "title" : "Europe looks to avoid layoffs amid second coronavirus wave and new lockdowns - The Washington Post",
-         "source" : {
-            "id" : "the-washington-post",
-            "name" : "The Washington Post"
-         },
-         "description" : "Countries are extending furlough subsidy programs.",
-         "content" : "Instead, the British Treasury will continue to subsidize wages for businesses told to close under the growing number of regional lockdowns. It will also offer more limited support to workers who have… [+8331 chars]",
-         "author" : "Michael Birnbaum, William Booth, Luisa Beck",
-         "publishedAt" : "2020-10-10T14:19:00Z",
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NIRNF2AKMYI6XILG3RBJWOANCA.jpg&w=1440",
-         "url" : "https://www.washingtonpost.com/world/europe/covid-unemployment-europe-furloughs/2020/10/10/5573fbee-026c-11eb-b92e-029676f9ebec_story.html"
-      },
-      {
-         "content" : null,
-         "title" : "How tech's biggest companies are planning for the future of work - Business Insider - Business Insider",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "description" : "Tech companies are making major changes to employee perks, safety precautions, and even whether employees need to come to an office ever again.",
-         "urlToImage" : "https://i.insider.com/5f80c16fea74820019ca6569?width=1200&format=jpeg",
-         "publishedAt" : "2020-10-10T14:05:57Z",
-         "url" : "https://www.businessinsider.com/silicon-valley-future-of-work-port-coronavirus-apple-amazon-facebook-2020-10",
-         "author" : "Avery Hartmans"
-      },
-      {
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "title" : "Amazon Prime Day 2020: how to find the best tech deals - The Verge",
-         "description" : "Prime Day 2020 will host some of the best deals on tech that we’ve seen all year. We’ve pulled together a few of the best price-tracking sites that will help ensure that you get everything on your wishlist before it sells out.",
-         "content" : "Let us, and these price-tracking sites, do all of the work\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nIllustration by Alex Castro / The Verge… [+5108 chars]",
-         "url" : "https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find",
-         "publishedAt" : "2020-10-10T14:00:00Z",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/Wj1NpbtC8PEvfbDlTiGvSCnrjaQ=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10745909/acastro_180329_1777_amazon_0002.jpg",
-         "author" : "Cameron Faulkner"
-      },
-      {
-         "source" : {
-            "id" : null,
-            "name" : "NOLA.com"
-         },
-         "title" : "Hurricane Delta: Nearly half a million in Louisiana without power; see latest for metro New Orleans - NOLA.com",
-         "description" : "Thousands of utility customers in the New Orleans metro area were without power as of 8 a.m. Saturday due to the impacts of Hurricane Delta, and nearly a million statewide",
-         "content" : "Thousands of utility customers in the New Orleans metro area were without power as of 8 a.m. Saturday due to the impacts of Hurricane Delta, and nearly a million statewide were also powerless.\r\nEnter… [+770 chars]",
-         "author" : "Staff report",
-         "publishedAt" : "2020-10-10T13:17:00Z",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/1c/91cbb2aa-bc2e-599d-895d-1a6d072b3d5f/5f81cb44b3c49.image.jpg?resize=945%2C630",
-         "url" : "https://www.nola.com/news/hurricane/article_c4b2f28a-0afa-11eb-b220-6306102abdc7.html"
-      },
-      {
-         "content" : "Marnie Hunter, CNNPublished 10th October 2020\r\n(CNN) The end of the year is sneaking up, and people are weighing travel plans to join friends and family for the holidays -- all against the backdrop o… [+6187 chars]",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "title" : "Is it safe to travel for the holidays this year? - CNN",
-         "description" : "Gathering with others has never required so much thought as during this pandemic. Should you travel for the winter holidays in 2020? Medical experts weigh in on how to lower the risks and when you should skip meeting up altogether.",
-         "publishedAt" : "2020-10-10T13:09:13Z",
-         "author" : "By Marnie Hunter, CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201009131607-05-airport-travel-safety-2020-super-tease.jpg",
-         "url" : "https://www.cnn.com/travel/article/holiday-travel-safety-2020-pandemic/index.html"
-      },
-      {
-         "title" : "How California ski towns will welcome back visitors for snow season - Business Insider - Business Insider",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
-         "description" : "Reservations, face masks, and radio-frequency (RFID) access gates will all keep guests safe as they hit the slopes.",
-         "content" : "The winter 2020-21 snow season is quickly approaching. \r\nAlthough skiing and snowboarding are naturally socially distant activities, the social experiences that come with the snow community — such as… [+10232 chars]",
-         "urlToImage" : "https://i.insider.com/5f7f5a4cd5f23d0019595191?width=1200&format=jpeg",
-         "publishedAt" : "2020-10-10T13:01:05Z",
-         "author" : "Molly O'Brien",
-         "url" : "https://www.businessinsider.com/how-california-ski-towns-will-welcome-back-visitors-snow-season-2020-10"
-      },
-      {
-         "urlToImage" : "https://i1.wp.com/dailyhodl.com/wp-content/uploads/2020/10/futurripple.jpg?fit=810%2C475&ssl=1",
-         "publishedAt" : "2020-10-10T13:00:21Z",
-         "author" : "Daily Hodl Staff",
-         "url" : "https://dailyhodl.com/2020/10/10/ripple-says-global-payments-network-live-in-55-countries-and-95-currency-pairs-with-xrp-remittances-running-in-five-regions/",
-         "content" : "Ripple says its global payments network, RippleNet, is now live in more than 55 countries, with XRP remittances live in five regions.\r\nRippleNet also now offers over 95 currency pairs, according to t… [+1300 chars]",
-         "description" : "Ripple says its global payments network, RippleNet, is now live in more than 55 countries, with XRP remittances live in five regions. RippleNet also now offers over 95 currency pairs, according to …",
-         "source" : {
-            "name" : "The Daily Hodl",
-            "id" : null
-         },
-         "title" : "Ripple Says Global Payments Network Live in 55 Countries and 95 Currency Pairs, With XRP Remittances Running in Five Regions - The Daily Hodl"
+         }
       }
    ],
-   "totalResults" : 70
+   "totalResults" : 70,
+   "status" : "ok"
 }
