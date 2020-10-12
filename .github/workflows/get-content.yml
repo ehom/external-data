@@ -80,7 +80,7 @@ jobs:
 
       - name: Get NYT Top Stories
         run: |
-          OUTPUT_FILE=books.json
+          OUTPUT_FILE=us.json
           mkdir -p nyt && cd nyt
 
           curl -X GET \
