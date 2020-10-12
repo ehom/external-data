@@ -1,320 +1,316 @@
 {
-   "status" : "OK",
    "copyright" : "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
    "section" : "Travel",
-   "last_updated" : "2020-10-09T06:19:11-04:00",
-   "num_results" : 25,
    "results" : [
       {
-         "title" : "A Glance at Daily Life Among the Caretakers of Britain’s Small Islands",
-         "short_url" : "https://nyti.ms/2IlfSgu",
-         "item_type" : "Article",
-         "byline" : "By Alex Ingram",
-         "published_date" : "2020-10-12T05:00:42-04:00",
-         "updated_date" : "2020-10-12T05:00:42-04:00",
-         "created_date" : "2020-10-12T05:00:42-04:00",
-         "org_facet" : [],
-         "multimedia" : [
-            {
-               "height" : 1152,
-               "type" : "image",
-               "caption" : "The warden’s house on Bardsey Island. In the distance is the island’s lighthouse, built in 1821.",
-               "width" : 2048,
-               "copyright" : "Alex Ingram",
-               "format" : "superJumbo",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/12/travel/12travel-britain-promo/12travel-britain-top-superJumbo.jpg"
-            },
-            {
-               "copyright" : "Alex Ingram",
-               "width" : 75,
-               "format" : "Standard Thumbnail",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/12/travel/12travel-britain-promo/12travel-britain-top-thumbStandard.jpg",
-               "height" : 75,
-               "type" : "image",
-               "caption" : "The warden’s house on Bardsey Island. In the distance is the island’s lighthouse, built in 1821."
-            },
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/12/travel/12travel-britain-promo/12travel-britain-top-thumbLarge.jpg",
-               "copyright" : "Alex Ingram",
-               "width" : 150,
-               "subtype" : "photo",
-               "format" : "thumbLarge",
-               "caption" : "The warden’s house on Bardsey Island. In the distance is the island’s lighthouse, built in 1821.",
-               "height" : 150,
-               "type" : "image"
-            },
-            {
-               "height" : 140,
-               "type" : "image",
-               "caption" : "The warden’s house on Bardsey Island. In the distance is the island’s lighthouse, built in 1821.",
-               "copyright" : "Alex Ingram",
-               "width" : 210,
-               "format" : "mediumThreeByTwo210",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/12/travel/12travel-britain-promo/12travel-britain-top-mediumThreeByTwo210.jpg"
-            },
-            {
-               "height" : 107,
-               "type" : "image",
-               "caption" : "The warden’s house on Bardsey Island. In the distance is the island’s lighthouse, built in 1821.",
-               "copyright" : "Alex Ingram",
-               "width" : 190,
-               "subtype" : "photo",
-               "format" : "Normal",
-               "url" : "https://static01.nyt.com/images/2020/10/12/travel/12travel-britain-promo/12travel-britain-top-articleInline.jpg"
-            }
-         ],
+         "url" : "https://www.nytimes.com/2020/10/12/travel/britain-island-wardens.html",
          "uri" : "nyt://article/f1b1d826-bf59-5fbf-8ae1-6996d1d05d50",
+         "per_facet" : [],
+         "org_facet" : [],
+         "kicker" : "The World Through a Lens",
+         "created_date" : "2020-10-12T05:00:42-04:00",
+         "updated_date" : "2020-10-12T05:00:42-04:00",
+         "published_date" : "2020-10-12T05:00:42-04:00",
+         "abstract" : "Stationed off the coast of Britain, island wardens manage the preservation of their small speck of land — while coping with extreme weather and limited access to the mainland.",
          "geo_facet" : [
             "Great Britain",
             "Wales",
             "Bristol (England)"
          ],
-         "subsection" : "",
-         "url" : "https://www.nytimes.com/2020/10/12/travel/britain-island-wardens.html",
-         "material_type_facet" : "",
-         "kicker" : "The World Through a Lens",
-         "per_facet" : [],
-         "section" : "travel",
-         "abstract" : "Stationed off the coast of Britain, island wardens manage the preservation of their small speck of land — while coping with extreme weather and limited access to the mainland.",
          "des_facet" : [
             "Travel and Vacations",
             "Boats and Boating",
             "Birdwatching",
             "Birds"
-         ]
+         ],
+         "section" : "travel",
+         "byline" : "By Alex Ingram",
+         "item_type" : "Article",
+         "short_url" : "https://nyti.ms/2IlfSgu",
+         "material_type_facet" : "",
+         "subsection" : "",
+         "multimedia" : [
+            {
+               "height" : 1152,
+               "width" : 2048,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/12/travel/12travel-britain-promo/12travel-britain-top-superJumbo.jpg",
+               "format" : "superJumbo",
+               "copyright" : "Alex Ingram",
+               "caption" : "The warden’s house on Bardsey Island. In the distance is the island’s lighthouse, built in 1821."
+            },
+            {
+               "copyright" : "Alex Ingram",
+               "format" : "Standard Thumbnail",
+               "caption" : "The warden’s house on Bardsey Island. In the distance is the island’s lighthouse, built in 1821.",
+               "subtype" : "photo",
+               "width" : 75,
+               "height" : 75,
+               "url" : "https://static01.nyt.com/images/2020/10/12/travel/12travel-britain-promo/12travel-britain-top-thumbStandard.jpg",
+               "type" : "image"
+            },
+            {
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/12/travel/12travel-britain-promo/12travel-britain-top-thumbLarge.jpg",
+               "height" : 150,
+               "width" : 150,
+               "subtype" : "photo",
+               "caption" : "The warden’s house on Bardsey Island. In the distance is the island’s lighthouse, built in 1821.",
+               "format" : "thumbLarge",
+               "copyright" : "Alex Ingram"
+            },
+            {
+               "copyright" : "Alex Ingram",
+               "format" : "mediumThreeByTwo210",
+               "caption" : "The warden’s house on Bardsey Island. In the distance is the island’s lighthouse, built in 1821.",
+               "subtype" : "photo",
+               "width" : 210,
+               "height" : 140,
+               "url" : "https://static01.nyt.com/images/2020/10/12/travel/12travel-britain-promo/12travel-britain-top-mediumThreeByTwo210.jpg",
+               "type" : "image"
+            },
+            {
+               "format" : "Normal",
+               "copyright" : "Alex Ingram",
+               "caption" : "The warden’s house on Bardsey Island. In the distance is the island’s lighthouse, built in 1821.",
+               "width" : 190,
+               "height" : 107,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/12/travel/12travel-britain-promo/12travel-britain-top-articleInline.jpg"
+            }
+         ],
+         "title" : "A Glance at Daily Life Among the Caretakers of Britain’s Small Islands"
       },
       {
-         "section" : "world",
+         "item_type" : "Article",
+         "short_url" : "https://nyti.ms/3nMH2gD",
          "des_facet" : [
             "Historic Buildings and Sites",
             "Beirut, Lebanon, Explosions (2020)",
             "Area Planning and Renewal"
          ],
-         "abstract" : "Many worry that a full recovery won’t be possible, but residents of one of Beirut’s most diverse and cosmopolitan areas are moving back in and trying to repair the damage from the August explosion.",
-         "material_type_facet" : "",
-         "kicker" : "Beirut Dispatch",
-         "per_facet" : [],
-         "uri" : "nyt://article/dfdb588e-ea0e-5508-8522-fedd9cb2abac",
-         "subsection" : "middleeast",
+         "section" : "world",
+         "byline" : "By Vivian Yee",
          "geo_facet" : [
             "Beirut (Lebanon)",
             "Lebanon"
          ],
-         "url" : "https://www.nytimes.com/2020/10/11/world/middleeast/lebanon-beirut-explosion.html",
-         "short_url" : "https://nyti.ms/3nMH2gD",
          "title" : "‘Call Me a Dreamer’: A Shattered Beirut Neighborhood Rebuilds",
-         "item_type" : "Article",
-         "byline" : "By Vivian Yee",
-         "published_date" : "2020-10-11T10:43:32-04:00",
-         "created_date" : "2020-10-11T10:43:32-04:00",
-         "updated_date" : "2020-10-12T00:02:49-04:00",
-         "org_facet" : [],
          "multimedia" : [
             {
+               "caption" : "The city center of Beirut in a view from the Mar Mikhael neighborhood.",
+               "format" : "superJumbo",
+               "copyright" : "Diego Ibarra Sanchez for The New York Times",
+               "type" : "image",
                "url" : "https://static01.nyt.com/images/2020/10/12/world/12beirut-dispatch-top/merlin_177481041_97af3c44-5b4d-45a1-b7fb-3f208a93b5af-superJumbo.jpg",
                "width" : 2048,
-               "copyright" : "Diego Ibarra Sanchez for The New York Times",
-               "subtype" : "photo",
-               "format" : "superJumbo",
-               "caption" : "The city center of Beirut in a view from the Mar Mikhael neighborhood.",
                "height" : 1366,
-               "type" : "image"
-            },
-            {
-               "width" : 75,
-               "copyright" : "Diego Ibarra Sanchez for The New York Times",
-               "format" : "Standard Thumbnail",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/12/world/12beirut-dispatch-top/00beirut-dispatch-top-thumbStandard.jpg",
-               "height" : 75,
-               "type" : "image",
-               "caption" : "The city center of Beirut in a view from the Mar Mikhael neighborhood."
-            },
-            {
-               "format" : "thumbLarge",
-               "subtype" : "photo",
-               "copyright" : "Diego Ibarra Sanchez for The New York Times",
-               "width" : 150,
-               "url" : "https://static01.nyt.com/images/2020/10/12/world/12beirut-dispatch-top/00beirut-dispatch-top-thumbLarge.jpg",
-               "type" : "image",
-               "height" : 150,
-               "caption" : "The city center of Beirut in a view from the Mar Mikhael neighborhood."
-            },
-            {
-               "format" : "mediumThreeByTwo210",
-               "subtype" : "photo",
-               "width" : 210,
-               "copyright" : "Diego Ibarra Sanchez for The New York Times",
-               "url" : "https://static01.nyt.com/images/2020/10/12/world/12beirut-dispatch-top/00beirut-dispatch-top-mediumThreeByTwo210.jpg",
-               "type" : "image",
-               "height" : 140,
-               "caption" : "The city center of Beirut in a view from the Mar Mikhael neighborhood."
-            },
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/12/world/12beirut-dispatch-top/merlin_177481041_97af3c44-5b4d-45a1-b7fb-3f208a93b5af-articleInline.jpg",
-               "subtype" : "photo",
-               "format" : "Normal",
-               "copyright" : "Diego Ibarra Sanchez for The New York Times",
-               "width" : 190,
-               "caption" : "The city center of Beirut in a view from the Mar Mikhael neighborhood.",
-               "type" : "image",
-               "height" : 127
-            }
-         ]
-      },
-      {
-         "byline" : "By Brooks Barnes",
-         "published_date" : "2020-10-09T13:56:14-04:00",
-         "short_url" : "https://nyti.ms/3dfCxGw",
-         "title" : "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
-         "item_type" : "Article",
-         "multimedia" : [
-            {
-               "width" : 2048,
-               "copyright" : "Charles Sykes/Invision, via Associated Press",
-               "format" : "superJumbo",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/12/business/25virus-disneyparks-1/merlin_175958652_e394fe26-4e5f-4ed9-883e-e2c8ebe2b6b5-superJumbo.jpg",
-               "height" : 1365,
-               "type" : "image",
-               "caption" : "Walt Disney World, which reopened in July, is laying off about 20 percent of its work force."
-            },
-            {
-               "copyright" : "Charles Sykes/Invision, via Associated Press",
-               "width" : 75,
-               "format" : "Standard Thumbnail",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/12/business/25virus-disneyparks-1/25virus-disneyparks-1-thumbStandard.jpg",
-               "height" : 75,
-               "type" : "image",
-               "caption" : "Walt Disney World, which reopened in July, is laying off about 20 percent of its work force."
-            },
-            {
-               "height" : 150,
-               "type" : "image",
-               "caption" : "Walt Disney World, which reopened in July, is laying off about 20 percent of its work force.",
-               "width" : 150,
-               "copyright" : "Charles Sykes/Invision, via Associated Press",
-               "subtype" : "photo",
-               "format" : "thumbLarge",
-               "url" : "https://static01.nyt.com/images/2020/10/12/business/25virus-disneyparks-1/25virus-disneyparks-1-thumbLarge.jpg"
-            },
-            {
-               "caption" : "Walt Disney World, which reopened in July, is laying off about 20 percent of its work force.",
-               "height" : 140,
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2020/10/12/business/25virus-disneyparks-1/25virus-disneyparks-1-mediumThreeByTwo210.jpg",
-               "width" : 210,
-               "copyright" : "Charles Sykes/Invision, via Associated Press",
-               "format" : "mediumThreeByTwo210",
                "subtype" : "photo"
             },
             {
-               "caption" : "Walt Disney World, which reopened in July, is laying off about 20 percent of its work force.",
                "type" : "image",
-               "height" : 129,
-               "url" : "https://static01.nyt.com/images/2020/10/12/business/25virus-disneyparks-1/25virus-disneyparks-1-articleInline.jpg",
+               "url" : "https://static01.nyt.com/images/2020/10/12/world/12beirut-dispatch-top/00beirut-dispatch-top-thumbStandard.jpg",
+               "width" : 75,
+               "height" : 75,
                "subtype" : "photo",
+               "caption" : "The city center of Beirut in a view from the Mar Mikhael neighborhood.",
+               "format" : "Standard Thumbnail",
+               "copyright" : "Diego Ibarra Sanchez for The New York Times"
+            },
+            {
+               "copyright" : "Diego Ibarra Sanchez for The New York Times",
+               "format" : "thumbLarge",
+               "caption" : "The city center of Beirut in a view from the Mar Mikhael neighborhood.",
+               "subtype" : "photo",
+               "height" : 150,
+               "width" : 150,
+               "url" : "https://static01.nyt.com/images/2020/10/12/world/12beirut-dispatch-top/00beirut-dispatch-top-thumbLarge.jpg",
+               "type" : "image"
+            },
+            {
+               "subtype" : "photo",
+               "width" : 210,
+               "height" : 140,
+               "url" : "https://static01.nyt.com/images/2020/10/12/world/12beirut-dispatch-top/00beirut-dispatch-top-mediumThreeByTwo210.jpg",
+               "type" : "image",
+               "copyright" : "Diego Ibarra Sanchez for The New York Times",
+               "format" : "mediumThreeByTwo210",
+               "caption" : "The city center of Beirut in a view from the Mar Mikhael neighborhood."
+            },
+            {
+               "copyright" : "Diego Ibarra Sanchez for The New York Times",
                "format" : "Normal",
-               "copyright" : "Charles Sykes/Invision, via Associated Press",
-               "width" : 190
+               "caption" : "The city center of Beirut in a view from the Mar Mikhael neighborhood.",
+               "subtype" : "photo",
+               "width" : 190,
+               "height" : 127,
+               "url" : "https://static01.nyt.com/images/2020/10/12/world/12beirut-dispatch-top/merlin_177481041_97af3c44-5b4d-45a1-b7fb-3f208a93b5af-articleInline.jpg",
+               "type" : "image"
             }
          ],
-         "updated_date" : "2020-10-11T22:48:33-04:00",
-         "created_date" : "2020-10-09T13:56:14-04:00",
+         "subsection" : "middleeast",
+         "material_type_facet" : "",
+         "org_facet" : [],
+         "kicker" : "Beirut Dispatch",
+         "created_date" : "2020-10-11T10:43:32-04:00",
+         "per_facet" : [],
+         "uri" : "nyt://article/dfdb588e-ea0e-5508-8522-fedd9cb2abac",
+         "url" : "https://www.nytimes.com/2020/10/11/world/middleeast/lebanon-beirut-explosion.html",
+         "published_date" : "2020-10-11T10:43:32-04:00",
+         "abstract" : "Many worry that a full recovery won’t be possible, but residents of one of Beirut’s most diverse and cosmopolitan areas are moving back in and trying to repair the damage from the August explosion.",
+         "updated_date" : "2020-10-12T00:02:49-04:00"
+      },
+      {
+         "per_facet" : [
+            "Newsom, Gavin"
+         ],
+         "url" : "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html",
+         "uri" : "nyt://article/aac66882-a389-5934-89b1-4ebf32b962ed",
          "org_facet" : [
             "Disney, Walt, World (Lake Buena Vista, Fla)",
             "Disneyland (Anaheim, Calif)",
             "Walt Disney Company"
          ],
-         "uri" : "nyt://article/aac66882-a389-5934-89b1-4ebf32b962ed",
-         "url" : "https://www.nytimes.com/2020/10/09/business/disney-world-coronavirus.html",
+         "kicker" : "",
+         "created_date" : "2020-10-09T13:56:14-04:00",
+         "updated_date" : "2020-10-11T22:48:33-04:00",
+         "abstract" : "Attendance has been low since the July reopening, but health officials and worker unions also say safety protocols have kept the coronavirus at bay.",
+         "published_date" : "2020-10-09T13:56:14-04:00",
          "geo_facet" : [
             "Orlando (Fla)",
             "Orange County (Calif)"
          ],
-         "subsection" : "",
-         "material_type_facet" : "",
-         "per_facet" : [
-            "Newsom, Gavin"
-         ],
-         "kicker" : "",
-         "section" : "business",
+         "short_url" : "https://nyti.ms/3dfCxGw",
+         "item_type" : "Article",
+         "byline" : "By Brooks Barnes",
          "des_facet" : [
             "Coronavirus Reopenings",
             "Amusement and Theme Parks"
          ],
-         "abstract" : "Attendance has been low since the July reopening, but health officials and worker unions also say safety protocols have kept the coronavirus at bay."
+         "section" : "business",
+         "material_type_facet" : "",
+         "multimedia" : [
+            {
+               "subtype" : "photo",
+               "width" : 2048,
+               "height" : 1365,
+               "url" : "https://static01.nyt.com/images/2020/10/12/business/25virus-disneyparks-1/merlin_175958652_e394fe26-4e5f-4ed9-883e-e2c8ebe2b6b5-superJumbo.jpg",
+               "type" : "image",
+               "copyright" : "Charles Sykes/Invision, via Associated Press",
+               "format" : "superJumbo",
+               "caption" : "Walt Disney World, which reopened in July, is laying off about 20 percent of its work force."
+            },
+            {
+               "caption" : "Walt Disney World, which reopened in July, is laying off about 20 percent of its work force.",
+               "copyright" : "Charles Sykes/Invision, via Associated Press",
+               "format" : "Standard Thumbnail",
+               "url" : "https://static01.nyt.com/images/2020/10/12/business/25virus-disneyparks-1/25virus-disneyparks-1-thumbStandard.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "width" : 75,
+               "height" : 75
+            },
+            {
+               "subtype" : "photo",
+               "width" : 150,
+               "height" : 150,
+               "url" : "https://static01.nyt.com/images/2020/10/12/business/25virus-disneyparks-1/25virus-disneyparks-1-thumbLarge.jpg",
+               "type" : "image",
+               "copyright" : "Charles Sykes/Invision, via Associated Press",
+               "format" : "thumbLarge",
+               "caption" : "Walt Disney World, which reopened in July, is laying off about 20 percent of its work force."
+            },
+            {
+               "format" : "mediumThreeByTwo210",
+               "copyright" : "Charles Sykes/Invision, via Associated Press",
+               "caption" : "Walt Disney World, which reopened in July, is laying off about 20 percent of its work force.",
+               "height" : 140,
+               "width" : 210,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/12/business/25virus-disneyparks-1/25virus-disneyparks-1-mediumThreeByTwo210.jpg"
+            },
+            {
+               "caption" : "Walt Disney World, which reopened in July, is laying off about 20 percent of its work force.",
+               "copyright" : "Charles Sykes/Invision, via Associated Press",
+               "format" : "Normal",
+               "url" : "https://static01.nyt.com/images/2020/10/12/business/25virus-disneyparks-1/25virus-disneyparks-1-articleInline.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "width" : 190,
+               "height" : 129
+            }
+         ],
+         "title" : "At Disney World, ‘Worst Fears’ About Virus Have Not Come True",
+         "subsection" : ""
       },
       {
-         "uri" : "nyt://article/c4a95289-3975-552a-b14f-a7743bb53177",
-         "subsection" : "",
-         "geo_facet" : [],
-         "url" : "https://www.nytimes.com/2020/10/09/realestate/private-islands-coronavirus.html",
-         "short_url" : "https://nyti.ms/30OfAoM",
-         "title" : "The Island Brokers Are Overwhelmed",
-         "item_type" : "Article",
-         "byline" : "By Heather Murphy",
+         "abstract" : "The wealthy want to escape the pandemic to a private, isolated paradise. The people who sell islands have to explain: It’s complicated.",
          "published_date" : "2020-10-09T08:57:49-04:00",
          "updated_date" : "2020-10-10T10:05:25-04:00",
-         "created_date" : "2020-10-09T08:57:49-04:00",
          "org_facet" : [],
+         "kicker" : "",
+         "created_date" : "2020-10-09T08:57:49-04:00",
+         "url" : "https://www.nytimes.com/2020/10/09/realestate/private-islands-coronavirus.html",
+         "uri" : "nyt://article/c4a95289-3975-552a-b14f-a7743bb53177",
+         "per_facet" : [],
+         "subsection" : "",
+         "title" : "The Island Brokers Are Overwhelmed",
          "multimedia" : [
             {
                "url" : "https://static01.nyt.com/images/2020/10/08/realestate/00xp-islandbroker-slide-ZYHP/00xp-islandbroker-slide-ZYHP-superJumbo.jpg",
+               "type" : "image",
                "subtype" : "photo",
-               "format" : "superJumbo",
                "width" : 1920,
-               "copyright" : "Private Islands Inc.",
+               "height" : 1280,
                "caption" : "Gladden Private Island in Belize has generated more interest than any other rental for one broker. But it has proved difficult to get clients there during the pandemic.",
-               "type" : "image",
-               "height" : 1280
+               "copyright" : "Private Islands Inc.",
+               "format" : "superJumbo"
             },
             {
                "caption" : "Gladden Private Island in Belize has generated more interest than any other rental for one broker. But it has proved difficult to get clients there during the pandemic.",
-               "height" : 75,
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2020/10/08/realestate/00xp-islandbroker-slide-ZYHP/00xp-islandbroker-slide-ZYHP-thumbStandard.jpg",
                "copyright" : "Private Islands Inc.",
-               "width" : 75,
                "format" : "Standard Thumbnail",
-               "subtype" : "photo"
+               "url" : "https://static01.nyt.com/images/2020/10/08/realestate/00xp-islandbroker-slide-ZYHP/00xp-islandbroker-slide-ZYHP-thumbStandard.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "width" : 75,
+               "height" : 75
             },
             {
                "caption" : "Gladden Private Island in Belize has generated more interest than any other rental for one broker. But it has proved difficult to get clients there during the pandemic.",
-               "height" : 150,
+               "format" : "thumbLarge",
+               "copyright" : "Private Islands Inc.",
                "type" : "image",
                "url" : "https://static01.nyt.com/images/2020/10/08/realestate/00xp-islandbroker-slide-ZYHP/00xp-islandbroker-slide-ZYHP-thumbLarge.jpg",
-               "copyright" : "Private Islands Inc.",
                "width" : 150,
-               "format" : "thumbLarge",
+               "height" : 150,
                "subtype" : "photo"
             },
             {
-               "caption" : "Gladden Private Island in Belize has generated more interest than any other rental for one broker. But it has proved difficult to get clients there during the pandemic.",
-               "height" : 140,
-               "type" : "image",
                "url" : "https://static01.nyt.com/images/2020/10/08/realestate/00xp-islandbroker-slide-ZYHP/00xp-islandbroker-slide-ZYHP-mediumThreeByTwo210.jpg",
-               "width" : 210,
-               "copyright" : "Private Islands Inc.",
+               "type" : "image",
                "subtype" : "photo",
+               "width" : 210,
+               "height" : 140,
+               "caption" : "Gladden Private Island in Belize has generated more interest than any other rental for one broker. But it has proved difficult to get clients there during the pandemic.",
+               "copyright" : "Private Islands Inc.",
                "format" : "mediumThreeByTwo210"
             },
             {
-               "caption" : "Gladden Private Island in Belize has generated more interest than any other rental for one broker. But it has proved difficult to get clients there during the pandemic.",
-               "type" : "image",
-               "height" : 127,
-               "url" : "https://static01.nyt.com/images/2020/10/08/realestate/00xp-islandbroker-slide-ZYHP/00xp-islandbroker-slide-ZYHP-articleInline.jpg",
                "subtype" : "photo",
-               "format" : "Normal",
+               "height" : 127,
+               "width" : 190,
+               "url" : "https://static01.nyt.com/images/2020/10/08/realestate/00xp-islandbroker-slide-ZYHP/00xp-islandbroker-slide-ZYHP-articleInline.jpg",
+               "type" : "image",
                "copyright" : "Private Islands Inc.",
-               "width" : 190
+               "format" : "Normal",
+               "caption" : "Gladden Private Island in Belize has generated more interest than any other rental for one broker. But it has proved difficult to get clients there during the pandemic."
             }
          ],
-         "section" : "realestate",
+         "material_type_facet" : "",
          "des_facet" : [
             "Islands",
             "High Net Worth Individuals",
@@ -323,17 +319,30 @@
             "Coronavirus (2019-nCoV)",
             "Travel Warnings"
          ],
-         "abstract" : "The wealthy want to escape the pandemic to a private, isolated paradise. The people who sell islands have to explain: It’s complicated.",
-         "material_type_facet" : "",
-         "per_facet" : [],
-         "kicker" : ""
+         "section" : "realestate",
+         "byline" : "By Heather Murphy",
+         "item_type" : "Article",
+         "short_url" : "https://nyti.ms/30OfAoM",
+         "geo_facet" : []
       },
       {
-         "kicker" : "",
          "per_facet" : [
             "Barnes, Wesley"
          ],
-         "material_type_facet" : "",
+         "url" : "https://www.nytimes.com/2020/10/09/world/asia/thailand-review-american-apology.html",
+         "uri" : "nyt://article/408c30cc-fe4e-5467-b3cc-29729ecf96f4",
+         "org_facet" : [],
+         "kicker" : "",
+         "created_date" : "2020-10-09T06:15:47-04:00",
+         "updated_date" : "2020-10-10T00:30:26-04:00",
+         "published_date" : "2020-10-09T06:15:47-04:00",
+         "abstract" : "An American who went to jail for disparaging a hotel in Thailand online apologized profusely as part of a deal to avoid prosecution, in an episode that laid bare that country’s harsh defamation laws.",
+         "geo_facet" : [
+            "Thailand"
+         ],
+         "item_type" : "Article",
+         "short_url" : "https://nyti.ms/2IcgPHU",
+         "section" : "world",
          "des_facet" : [
             "Travel and Vacations",
             "Libel and Slander",
@@ -341,311 +350,309 @@
             "Hotels and Travel Lodgings",
             "Police"
          ],
-         "abstract" : "An American who went to jail for disparaging a hotel in Thailand online apologized profusely as part of a deal to avoid prosecution, in an episode that laid bare that country’s harsh defamation laws.",
-         "section" : "world",
+         "byline" : "By Richard C. Paddock",
+         "material_type_facet" : "",
          "multimedia" : [
             {
                "url" : "https://static01.nyt.com/images/2020/10/09/world/09thai-resort01/merlin_177770691_b9663d4e-eda5-42c2-871e-f8b5b744e184-superJumbo.jpg",
-               "width" : 2048,
-               "copyright" : "Wally Santana/Associated Press",
-               "format" : "superJumbo",
+               "type" : "image",
                "subtype" : "photo",
-               "caption" : "Passengers on a ferry to the island of Koh Chang, Thailand. Sea View Koh Chang is an hour’s flight from Bangkok.",
                "height" : 1536,
-               "type" : "image"
+               "width" : 2048,
+               "caption" : "Passengers on a ferry to the island of Koh Chang, Thailand. Sea View Koh Chang is an hour’s flight from Bangkok.",
+               "copyright" : "Wally Santana/Associated Press",
+               "format" : "superJumbo"
             },
             {
-               "caption" : "Passengers on a ferry to the island of Koh Chang, Thailand. Sea View Koh Chang is an hour’s flight from Bangkok.",
-               "height" : 75,
                "type" : "image",
                "url" : "https://static01.nyt.com/images/2020/10/09/world/09thai-resort01/09thai-resort01-thumbStandard.jpg",
-               "copyright" : "Wally Santana/Associated Press",
+               "height" : 75,
                "width" : 75,
                "subtype" : "photo",
-               "format" : "Standard Thumbnail"
-            },
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/09/world/09thai-resort01/09thai-resort01-thumbLarge.jpg",
-               "width" : 150,
-               "copyright" : "Wally Santana/Associated Press",
-               "format" : "thumbLarge",
-               "subtype" : "photo",
                "caption" : "Passengers on a ferry to the island of Koh Chang, Thailand. Sea View Koh Chang is an hour’s flight from Bangkok.",
-               "height" : 150,
-               "type" : "image"
-            },
-            {
-               "caption" : "Passengers on a ferry to the island of Koh Chang, Thailand. Sea View Koh Chang is an hour’s flight from Bangkok.",
-               "type" : "image",
-               "height" : 140,
-               "url" : "https://static01.nyt.com/images/2020/10/09/world/09thai-resort01/09thai-resort01-mediumThreeByTwo210.jpg",
-               "subtype" : "photo",
-               "format" : "mediumThreeByTwo210",
-               "width" : 210,
+               "format" : "Standard Thumbnail",
                "copyright" : "Wally Santana/Associated Press"
             },
             {
+               "caption" : "Passengers on a ferry to the island of Koh Chang, Thailand. Sea View Koh Chang is an hour’s flight from Bangkok.",
+               "format" : "thumbLarge",
                "copyright" : "Wally Santana/Associated Press",
-               "width" : 190,
-               "format" : "Normal",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/09/world/09thai-resort01/merlin_177770691_b9663d4e-eda5-42c2-871e-f8b5b744e184-articleInline.jpg",
-               "height" : 143,
                "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/09/world/09thai-resort01/09thai-resort01-thumbLarge.jpg",
+               "width" : 150,
+               "height" : 150,
+               "subtype" : "photo"
+            },
+            {
+               "subtype" : "photo",
+               "width" : 210,
+               "height" : 140,
+               "url" : "https://static01.nyt.com/images/2020/10/09/world/09thai-resort01/09thai-resort01-mediumThreeByTwo210.jpg",
+               "type" : "image",
+               "copyright" : "Wally Santana/Associated Press",
+               "format" : "mediumThreeByTwo210",
                "caption" : "Passengers on a ferry to the island of Koh Chang, Thailand. Sea View Koh Chang is an hour’s flight from Bangkok."
+            },
+            {
+               "url" : "https://static01.nyt.com/images/2020/10/09/world/09thai-resort01/merlin_177770691_b9663d4e-eda5-42c2-871e-f8b5b744e184-articleInline.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "width" : 190,
+               "height" : 143,
+               "caption" : "Passengers on a ferry to the island of Koh Chang, Thailand. Sea View Koh Chang is an hour’s flight from Bangkok.",
+               "copyright" : "Wally Santana/Associated Press",
+               "format" : "Normal"
             }
          ],
-         "org_facet" : [],
-         "updated_date" : "2020-10-10T00:30:26-04:00",
-         "created_date" : "2020-10-09T06:15:47-04:00",
-         "published_date" : "2020-10-09T06:15:47-04:00",
-         "byline" : "By Richard C. Paddock",
-         "item_type" : "Article",
-         "short_url" : "https://nyti.ms/2IcgPHU",
          "title" : "He’s Sorry for His Bad Reviews. He May Now Avoid Prison.",
-         "url" : "https://www.nytimes.com/2020/10/09/world/asia/thailand-review-american-apology.html",
-         "geo_facet" : [
-            "Thailand"
-         ],
-         "subsection" : "asia",
-         "uri" : "nyt://article/408c30cc-fe4e-5467-b3cc-29729ecf96f4"
+         "subsection" : "asia"
       },
       {
-         "material_type_facet" : "",
-         "per_facet" : [],
          "kicker" : "",
+         "org_facet" : [],
+         "created_date" : "2020-10-08T12:36:50-04:00",
+         "uri" : "nyt://article/19637a7b-6223-5161-aafc-b12a53f0480d",
+         "url" : "https://www.nytimes.com/2020/10/08/us/hawaii-will-stop-requiring-quarantine-for-travelers-who-have-recent-negative-tests.html",
+         "per_facet" : [],
+         "abstract" : "",
+         "published_date" : "2020-10-08T12:36:50-04:00",
+         "updated_date" : "2020-10-09T17:15:39-04:00",
+         "byline" : "By Ruth Graham",
          "section" : "us",
          "des_facet" : [
             "internal-essential"
          ],
-         "abstract" : "",
-         "item_type" : "Article",
          "short_url" : "https://nyti.ms/34H6bAv",
-         "title" : "Hawaii will stop requiring quarantine for travelers who have recent negative tests.",
-         "published_date" : "2020-10-08T12:36:50-04:00",
-         "byline" : "By Ruth Graham",
-         "org_facet" : [],
-         "updated_date" : "2020-10-09T17:15:39-04:00",
-         "created_date" : "2020-10-08T12:36:50-04:00",
-         "multimedia" : [
-            {
-               "format" : "superJumbo",
-               "subtype" : "photo",
-               "width" : 2048,
-               "copyright" : "Caleb Jones/Associated Press",
-               "url" : "https://static01.nyt.com/images/2020/10/08/multimedia/08virus-briefing-hawaii/merlin_178183554_6dc02a95-e9ee-4d16-a3ce-1722c5f4fe53-superJumbo.jpg",
-               "type" : "image",
-               "height" : 1365,
-               "caption" : "A man sits on a nearly empty Waikiki Beach in Honolulu, Friday, Oct. 2, 2020."
-            },
-            {
-               "type" : "image",
-               "height" : 75,
-               "caption" : "A man sits on a nearly empty Waikiki Beach in Honolulu, Friday, Oct. 2, 2020.",
-               "format" : "Standard Thumbnail",
-               "subtype" : "photo",
-               "copyright" : "Caleb Jones/Associated Press",
-               "width" : 75,
-               "url" : "https://static01.nyt.com/images/2020/10/08/multimedia/08virus-briefing-hawaii/08virus-briefing-hawaii-thumbStandard.jpg"
-            },
-            {
-               "width" : 150,
-               "copyright" : "Caleb Jones/Associated Press",
-               "subtype" : "photo",
-               "format" : "thumbLarge",
-               "url" : "https://static01.nyt.com/images/2020/10/08/multimedia/08virus-briefing-hawaii/08virus-briefing-hawaii-thumbLarge.jpg",
-               "height" : 150,
-               "type" : "image",
-               "caption" : "A man sits on a nearly empty Waikiki Beach in Honolulu, Friday, Oct. 2, 2020."
-            },
-            {
-               "subtype" : "photo",
-               "format" : "mediumThreeByTwo210",
-               "width" : 210,
-               "copyright" : "Caleb Jones/Associated Press",
-               "url" : "https://static01.nyt.com/images/2020/10/08/multimedia/08virus-briefing-hawaii/merlin_178183554_6dc02a95-e9ee-4d16-a3ce-1722c5f4fe53-mediumThreeByTwo210.jpg",
-               "type" : "image",
-               "height" : 140,
-               "caption" : "A man sits on a nearly empty Waikiki Beach in Honolulu, Friday, Oct. 2, 2020."
-            },
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/08/multimedia/08virus-briefing-hawaii/merlin_178183554_6dc02a95-e9ee-4d16-a3ce-1722c5f4fe53-articleInline.jpg",
-               "width" : 190,
-               "copyright" : "Caleb Jones/Associated Press",
-               "subtype" : "photo",
-               "format" : "Normal",
-               "caption" : "A man sits on a nearly empty Waikiki Beach in Honolulu, Friday, Oct. 2, 2020.",
-               "height" : 127,
-               "type" : "image"
-            }
-         ],
-         "uri" : "nyt://article/19637a7b-6223-5161-aafc-b12a53f0480d",
+         "item_type" : "Article",
          "geo_facet" : [],
          "subsection" : "",
-         "url" : "https://www.nytimes.com/2020/10/08/us/hawaii-will-stop-requiring-quarantine-for-travelers-who-have-recent-negative-tests.html"
+         "multimedia" : [
+            {
+               "copyright" : "Caleb Jones/Associated Press",
+               "format" : "superJumbo",
+               "caption" : "A man sits on a nearly empty Waikiki Beach in Honolulu, Friday, Oct. 2, 2020.",
+               "subtype" : "photo",
+               "width" : 2048,
+               "height" : 1365,
+               "url" : "https://static01.nyt.com/images/2020/10/08/multimedia/08virus-briefing-hawaii/merlin_178183554_6dc02a95-e9ee-4d16-a3ce-1722c5f4fe53-superJumbo.jpg",
+               "type" : "image"
+            },
+            {
+               "caption" : "A man sits on a nearly empty Waikiki Beach in Honolulu, Friday, Oct. 2, 2020.",
+               "copyright" : "Caleb Jones/Associated Press",
+               "format" : "Standard Thumbnail",
+               "url" : "https://static01.nyt.com/images/2020/10/08/multimedia/08virus-briefing-hawaii/08virus-briefing-hawaii-thumbStandard.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "height" : 75,
+               "width" : 75
+            },
+            {
+               "height" : 150,
+               "width" : 150,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/08/multimedia/08virus-briefing-hawaii/08virus-briefing-hawaii-thumbLarge.jpg",
+               "format" : "thumbLarge",
+               "copyright" : "Caleb Jones/Associated Press",
+               "caption" : "A man sits on a nearly empty Waikiki Beach in Honolulu, Friday, Oct. 2, 2020."
+            },
+            {
+               "caption" : "A man sits on a nearly empty Waikiki Beach in Honolulu, Friday, Oct. 2, 2020.",
+               "format" : "mediumThreeByTwo210",
+               "copyright" : "Caleb Jones/Associated Press",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/08/multimedia/08virus-briefing-hawaii/merlin_178183554_6dc02a95-e9ee-4d16-a3ce-1722c5f4fe53-mediumThreeByTwo210.jpg",
+               "width" : 210,
+               "height" : 140,
+               "subtype" : "photo"
+            },
+            {
+               "caption" : "A man sits on a nearly empty Waikiki Beach in Honolulu, Friday, Oct. 2, 2020.",
+               "format" : "Normal",
+               "copyright" : "Caleb Jones/Associated Press",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/08/multimedia/08virus-briefing-hawaii/merlin_178183554_6dc02a95-e9ee-4d16-a3ce-1722c5f4fe53-articleInline.jpg",
+               "height" : 127,
+               "width" : 190,
+               "subtype" : "photo"
+            }
+         ],
+         "title" : "Hawaii will stop requiring quarantine for travelers who have recent negative tests.",
+         "material_type_facet" : ""
       },
       {
-         "multimedia" : [
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/09/t-magazine/07tmag-newsletter-slide-DVHW/07tmag-newsletter-slide-DVHW-superJumbo-v2.jpg",
-               "width" : 2048,
-               "copyright" : "Left: Lily King. Right: Jon Pacio.",
-               "format" : "superJumbo",
-               "subtype" : "photo",
-               "caption" : "Left: Rarities relishes colorful patterned pieces sourced from all over the world. Right: a table set with placemats by Malaika Linen and Mestiz ceramic plates and bowls.",
-               "height" : 1365,
-               "type" : "image"
-            },
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/09/t-magazine/07tmag-newsletter-slide-DVHW/07tmag-newsletter-slide-DVHW-thumbStandard-v2.jpg",
-               "subtype" : "photo",
-               "format" : "Standard Thumbnail",
-               "copyright" : "Left: Lily King. Right: Jon Pacio.",
-               "width" : 75,
-               "caption" : "Left: Rarities relishes colorful patterned pieces sourced from all over the world. Right: a table set with placemats by Malaika Linen and Mestiz ceramic plates and bowls.",
-               "type" : "image",
-               "height" : 75
-            },
-            {
-               "caption" : "Left: Rarities relishes colorful patterned pieces sourced from all over the world. Right: a table set with placemats by Malaika Linen and Mestiz ceramic plates and bowls.",
-               "type" : "image",
-               "height" : 150,
-               "url" : "https://static01.nyt.com/images/2020/10/09/t-magazine/07tmag-newsletter-slide-DVHW/07tmag-newsletter-slide-DVHW-thumbLarge-v2.jpg",
-               "subtype" : "photo",
-               "format" : "thumbLarge",
-               "width" : 150,
-               "copyright" : "Left: Lily King. Right: Jon Pacio."
-            },
-            {
-               "width" : 210,
-               "copyright" : "Left: Lily King. Right: Jon Pacio.",
-               "subtype" : "photo",
-               "format" : "mediumThreeByTwo210",
-               "url" : "https://static01.nyt.com/images/2020/10/09/t-magazine/07tmag-newsletter-slide-DVHW/07tmag-newsletter-slide-DVHW-mediumThreeByTwo210-v2.jpg",
-               "height" : 140,
-               "type" : "image",
-               "caption" : "Left: Rarities relishes colorful patterned pieces sourced from all over the world. Right: a table set with placemats by Malaika Linen and Mestiz ceramic plates and bowls."
-            },
-            {
-               "copyright" : "Left: Lily King. Right: Jon Pacio.",
-               "width" : 190,
-               "format" : "Normal",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/09/t-magazine/07tmag-newsletter-slide-DVHW/07tmag-newsletter-slide-DVHW-articleInline-v2.jpg",
-               "height" : 127,
-               "type" : "image",
-               "caption" : "Left: Rarities relishes colorful patterned pieces sourced from all over the world. Right: a table set with placemats by Malaika Linen and Mestiz ceramic plates and bowls."
-            }
-         ],
-         "created_date" : "2020-10-08T10:34:04-04:00",
-         "updated_date" : "2020-10-09T12:19:03-04:00",
-         "org_facet" : [
-            "Canali (Fashion Label)",
-            "Parcelle Patio at 632 On Hudson (Manhattan, NY, Bar)"
-         ],
-         "byline" : "",
-         "published_date" : "2020-10-08T10:34:04-04:00",
-         "title" : "The T List: Five Things We Recommend This Week",
-         "short_url" : "https://nyti.ms/3dhMiUA",
-         "item_type" : "Article",
-         "url" : "https://www.nytimes.com/2020/10/08/t-magazine/carmen-herrera-canali.html",
          "geo_facet" : [],
-         "subsection" : "",
-         "uri" : "nyt://article/03e6196a-f824-5de1-bc18-76f1c113d2d0",
-         "kicker" : "",
-         "per_facet" : [
-            "Herrera, Carmen"
-         ],
-         "material_type_facet" : "",
-         "abstract" : "Carmen Herrera’s new show, serums for your skin — and more.",
+         "byline" : "",
          "des_facet" : [
             "Art",
             "Skin",
             "Wines",
             "Ceramics and Pottery"
          ],
-         "section" : "t-magazine"
-      },
-      {
-         "section" : "realestate",
-         "des_facet" : [
-            "Real Estate and Housing (Residential)"
-         ],
-         "abstract" : "France saw a buying frenzy in the months after the first pandemic lockdown, but it may not be enough to make up for the lost activity that preceded it.",
-         "material_type_facet" : "",
-         "kicker" : "International real estate",
-         "per_facet" : [],
-         "uri" : "nyt://article/649c8fe4-84b3-576d-b347-b970a4e290d8",
-         "geo_facet" : [
-            "France"
-         ],
-         "subsection" : "",
-         "url" : "https://www.nytimes.com/2020/10/07/realestate/house-hunting-in-france-castle.html",
+         "section" : "t-magazine",
+         "short_url" : "https://nyti.ms/3dhMiUA",
          "item_type" : "Article",
-         "short_url" : "https://nyti.ms/34vlH2l",
-         "title" : "House Hunting in France: A Once-in-a-Millennium Castle for $3.3 Million",
-         "published_date" : "2020-10-07T09:31:41-04:00",
-         "byline" : "By Alison Gregor",
-         "org_facet" : [],
-         "created_date" : "2020-10-07T09:31:41-04:00",
-         "updated_date" : "2020-10-09T13:19:35-04:00",
+         "material_type_facet" : "",
+         "subsection" : "",
          "multimedia" : [
             {
-               "format" : "superJumbo",
-               "subtype" : "photo",
-               "width" : 2048,
-               "copyright" : "Courtesy of Patrice Besse",
-               "url" : "https://static01.nyt.com/images/2020/10/07/realestate/07IHH-FRANCE-slide-B1QA/07IHH-FRANCE-slide-B1QA-superJumbo.jpg",
                "type" : "image",
-               "height" : 1401,
-               "caption" : ""
+               "url" : "https://static01.nyt.com/images/2020/10/09/t-magazine/07tmag-newsletter-slide-DVHW/07tmag-newsletter-slide-DVHW-superJumbo-v2.jpg",
+               "height" : 1365,
+               "width" : 2048,
+               "subtype" : "photo",
+               "caption" : "Left: Rarities relishes colorful patterned pieces sourced from all over the world. Right: a table set with placemats by Malaika Linen and Mestiz ceramic plates and bowls.",
+               "format" : "superJumbo",
+               "copyright" : "Left: Lily King. Right: Jon Pacio."
             },
             {
-               "url" : "https://static01.nyt.com/images/2020/10/07/realestate/07IHH-FRANCE-slide-B1QA/07IHH-FRANCE-slide-B1QA-thumbStandard.jpg",
-               "copyright" : "Courtesy of Patrice Besse",
+               "height" : 75,
                "width" : 75,
                "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/09/t-magazine/07tmag-newsletter-slide-DVHW/07tmag-newsletter-slide-DVHW-thumbStandard-v2.jpg",
                "format" : "Standard Thumbnail",
-               "caption" : "",
-               "height" : 75,
-               "type" : "image"
+               "copyright" : "Left: Lily King. Right: Jon Pacio.",
+               "caption" : "Left: Rarities relishes colorful patterned pieces sourced from all over the world. Right: a table set with placemats by Malaika Linen and Mestiz ceramic plates and bowls."
             },
             {
-               "caption" : "",
-               "height" : 150,
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2020/10/07/realestate/07IHH-FRANCE-slide-B1QA/07IHH-FRANCE-slide-B1QA-thumbLarge.jpg",
-               "width" : 150,
-               "copyright" : "Courtesy of Patrice Besse",
+               "caption" : "Left: Rarities relishes colorful patterned pieces sourced from all over the world. Right: a table set with placemats by Malaika Linen and Mestiz ceramic plates and bowls.",
                "format" : "thumbLarge",
+               "copyright" : "Left: Lily King. Right: Jon Pacio.",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/09/t-magazine/07tmag-newsletter-slide-DVHW/07tmag-newsletter-slide-DVHW-thumbLarge-v2.jpg",
+               "height" : 150,
+               "width" : 150,
                "subtype" : "photo"
             },
             {
-               "url" : "https://static01.nyt.com/images/2020/10/07/realestate/07IHH-FRANCE-slide-B1QA/07IHH-FRANCE-slide-B1QA-mediumThreeByTwo210.jpg",
-               "width" : 210,
-               "copyright" : "Courtesy of Patrice Besse",
-               "format" : "mediumThreeByTwo210",
+               "url" : "https://static01.nyt.com/images/2020/10/09/t-magazine/07tmag-newsletter-slide-DVHW/07tmag-newsletter-slide-DVHW-mediumThreeByTwo210-v2.jpg",
+               "type" : "image",
                "subtype" : "photo",
-               "caption" : "",
+               "width" : 210,
                "height" : 140,
+               "caption" : "Left: Rarities relishes colorful patterned pieces sourced from all over the world. Right: a table set with placemats by Malaika Linen and Mestiz ceramic plates and bowls.",
+               "copyright" : "Left: Lily King. Right: Jon Pacio.",
+               "format" : "mediumThreeByTwo210"
+            },
+            {
+               "copyright" : "Left: Lily King. Right: Jon Pacio.",
+               "format" : "Normal",
+               "caption" : "Left: Rarities relishes colorful patterned pieces sourced from all over the world. Right: a table set with placemats by Malaika Linen and Mestiz ceramic plates and bowls.",
+               "subtype" : "photo",
+               "height" : 127,
+               "width" : 190,
+               "url" : "https://static01.nyt.com/images/2020/10/09/t-magazine/07tmag-newsletter-slide-DVHW/07tmag-newsletter-slide-DVHW-articleInline-v2.jpg",
+               "type" : "image"
+            }
+         ],
+         "title" : "The T List: Five Things We Recommend This Week",
+         "url" : "https://www.nytimes.com/2020/10/08/t-magazine/carmen-herrera-canali.html",
+         "uri" : "nyt://article/03e6196a-f824-5de1-bc18-76f1c113d2d0",
+         "per_facet" : [
+            "Herrera, Carmen"
+         ],
+         "kicker" : "",
+         "org_facet" : [
+            "Canali (Fashion Label)",
+            "Parcelle Patio at 632 On Hudson (Manhattan, NY, Bar)"
+         ],
+         "created_date" : "2020-10-08T10:34:04-04:00",
+         "updated_date" : "2020-10-09T12:19:03-04:00",
+         "published_date" : "2020-10-08T10:34:04-04:00",
+         "abstract" : "Carmen Herrera’s new show, serums for your skin — and more."
+      },
+      {
+         "multimedia" : [
+            {
+               "caption" : "",
+               "copyright" : "Courtesy of Patrice Besse",
+               "format" : "superJumbo",
+               "url" : "https://static01.nyt.com/images/2020/10/07/realestate/07IHH-FRANCE-slide-B1QA/07IHH-FRANCE-slide-B1QA-superJumbo.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "height" : 1401,
+               "width" : 2048
+            },
+            {
+               "width" : 75,
+               "height" : 75,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/07/realestate/07IHH-FRANCE-slide-B1QA/07IHH-FRANCE-slide-B1QA-thumbStandard.jpg",
+               "format" : "Standard Thumbnail",
+               "copyright" : "Courtesy of Patrice Besse",
+               "caption" : ""
+            },
+            {
+               "copyright" : "Courtesy of Patrice Besse",
+               "format" : "thumbLarge",
+               "caption" : "",
+               "subtype" : "photo",
+               "height" : 150,
+               "width" : 150,
+               "url" : "https://static01.nyt.com/images/2020/10/07/realestate/07IHH-FRANCE-slide-B1QA/07IHH-FRANCE-slide-B1QA-thumbLarge.jpg",
                "type" : "image"
             },
             {
-               "url" : "https://static01.nyt.com/images/2020/10/07/realestate/07IHH-FRANCE-slide-B1QA/07IHH-FRANCE-slide-B1QA-articleInline.jpg",
+               "format" : "mediumThreeByTwo210",
                "copyright" : "Courtesy of Patrice Besse",
-               "width" : 190,
-               "subtype" : "photo",
-               "format" : "Normal",
                "caption" : "",
+               "height" : 140,
+               "width" : 210,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/07/realestate/07IHH-FRANCE-slide-B1QA/07IHH-FRANCE-slide-B1QA-mediumThreeByTwo210.jpg"
+            },
+            {
+               "caption" : "",
+               "format" : "Normal",
+               "copyright" : "Courtesy of Patrice Besse",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/07/realestate/07IHH-FRANCE-slide-B1QA/07IHH-FRANCE-slide-B1QA-articleInline.jpg",
                "height" : 130,
-               "type" : "image"
+               "width" : 190,
+               "subtype" : "photo"
             }
-         ]
+         ],
+         "title" : "House Hunting in France: A Once-in-a-Millennium Castle for $3.3 Million",
+         "subsection" : "",
+         "material_type_facet" : "",
+         "short_url" : "https://nyti.ms/34vlH2l",
+         "item_type" : "Article",
+         "byline" : "By Alison Gregor",
+         "des_facet" : [
+            "Real Estate and Housing (Residential)"
+         ],
+         "section" : "realestate",
+         "geo_facet" : [
+            "France"
+         ],
+         "abstract" : "France saw a buying frenzy in the months after the first pandemic lockdown, but it may not be enough to make up for the lost activity that preceded it.",
+         "published_date" : "2020-10-07T09:31:41-04:00",
+         "updated_date" : "2020-10-09T13:19:35-04:00",
+         "org_facet" : [],
+         "created_date" : "2020-10-07T09:31:41-04:00",
+         "kicker" : "International real estate",
+         "per_facet" : [],
+         "url" : "https://www.nytimes.com/2020/10/07/realestate/house-hunting-in-france-castle.html",
+         "uri" : "nyt://article/649c8fe4-84b3-576d-b347-b970a4e290d8"
       },
       {
-         "material_type_facet" : "",
-         "kicker" : "Square Feet",
          "per_facet" : [],
+         "url" : "https://www.nytimes.com/2020/10/06/business/hotels-transformation-offices-shelters-coronavirus.html",
+         "uri" : "nyt://article/26f7a9dd-8948-5ff4-846e-e29153af8c3f",
+         "org_facet" : [],
+         "kicker" : "Square Feet",
+         "created_date" : "2020-10-06T05:00:24-04:00",
+         "updated_date" : "2020-10-07T01:44:20-04:00",
+         "abstract" : "As the hospitality industry grapples with a severe downturn, owners are turning hotels into offices, schools, emergency housing, wedding halls or homeless shelters.",
+         "published_date" : "2020-10-06T05:00:24-04:00",
+         "geo_facet" : [],
+         "short_url" : "",
+         "item_type" : "Article",
+         "byline" : "By C. J. Hughes",
          "section" : "business",
          "des_facet" : [
             "Hotels and Travel Lodgings",
@@ -653,155 +660,209 @@
             "Coronavirus (2019-nCoV)",
             "Restoration and Renovation"
          ],
-         "abstract" : "As the hospitality industry grapples with a severe downturn, owners are turning hotels into offices, schools, emergency housing, wedding halls or homeless shelters.",
-         "published_date" : "2020-10-06T05:00:24-04:00",
-         "byline" : "By C. J. Hughes",
-         "item_type" : "Article",
-         "title" : "Pummeled by the Pandemic, Hotel Owners Get Creative With Their Space",
-         "short_url" : "",
+         "material_type_facet" : "",
          "multimedia" : [
             {
-               "type" : "image",
-               "height" : 1366,
                "caption" : "After tourism dried up, the InterContinental in Times Square was transformed into housing for doctors and nurses treating coronavirus patients.",
+               "copyright" : "Jeenah Moon for The New York Times",
                "format" : "superJumbo",
+               "url" : "https://static01.nyt.com/images/2020/10/06/business/06Virus-Hotels-01/merlin_178069872_055b4d92-62b3-403b-8d73-8def3fb4f0da-superJumbo.jpg",
+               "type" : "image",
                "subtype" : "photo",
                "width" : 2048,
-               "copyright" : "Jeenah Moon for The New York Times",
-               "url" : "https://static01.nyt.com/images/2020/10/06/business/06Virus-Hotels-01/merlin_178069872_055b4d92-62b3-403b-8d73-8def3fb4f0da-superJumbo.jpg"
-            },
-            {
-               "subtype" : "photo",
-               "format" : "Standard Thumbnail",
-               "width" : 75,
-               "copyright" : "Jeenah Moon for The New York Times",
-               "url" : "https://static01.nyt.com/images/2020/10/06/business/06Virus-Hotels-01/06Virus-Hotels-01-thumbStandard.jpg",
-               "type" : "image",
-               "height" : 75,
-               "caption" : "After tourism dried up, the InterContinental in Times Square was transformed into housing for doctors and nurses treating coronavirus patients."
+               "height" : 1366
             },
             {
                "caption" : "After tourism dried up, the InterContinental in Times Square was transformed into housing for doctors and nurses treating coronavirus patients.",
-               "height" : 150,
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2020/10/06/business/06Virus-Hotels-01/06Virus-Hotels-01-thumbLarge.jpg",
-               "width" : 150,
+               "format" : "Standard Thumbnail",
                "copyright" : "Jeenah Moon for The New York Times",
-               "format" : "thumbLarge",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/06/business/06Virus-Hotels-01/06Virus-Hotels-01-thumbStandard.jpg",
+               "height" : 75,
+               "width" : 75,
                "subtype" : "photo"
             },
             {
-               "url" : "https://static01.nyt.com/images/2020/10/06/business/06Virus-Hotels-01/06Virus-Hotels-01-mediumThreeByTwo210-v2.jpg",
-               "width" : 210,
+               "format" : "thumbLarge",
                "copyright" : "Jeenah Moon for The New York Times",
-               "format" : "mediumThreeByTwo210",
-               "subtype" : "photo",
                "caption" : "After tourism dried up, the InterContinental in Times Square was transformed into housing for doctors and nurses treating coronavirus patients.",
-               "height" : 140,
-               "type" : "image"
+               "width" : 150,
+               "height" : 150,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/06/business/06Virus-Hotels-01/06Virus-Hotels-01-thumbLarge.jpg"
             },
             {
-               "type" : "image",
-               "height" : 127,
                "caption" : "After tourism dried up, the InterContinental in Times Square was transformed into housing for doctors and nurses treating coronavirus patients.",
+               "format" : "mediumThreeByTwo210",
+               "copyright" : "Jeenah Moon for The New York Times",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/06/business/06Virus-Hotels-01/06Virus-Hotels-01-mediumThreeByTwo210-v2.jpg",
+               "width" : 210,
+               "height" : 140,
+               "subtype" : "photo"
+            },
+            {
+               "height" : 127,
+               "width" : 190,
                "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/06/business/06Virus-Hotels-01/merlin_178069872_055b4d92-62b3-403b-8d73-8def3fb4f0da-articleInline.jpg",
                "format" : "Normal",
                "copyright" : "Jeenah Moon for The New York Times",
-               "width" : 190,
-               "url" : "https://static01.nyt.com/images/2020/10/06/business/06Virus-Hotels-01/merlin_178069872_055b4d92-62b3-403b-8d73-8def3fb4f0da-articleInline.jpg"
+               "caption" : "After tourism dried up, the InterContinental in Times Square was transformed into housing for doctors and nurses treating coronavirus patients."
             }
          ],
-         "org_facet" : [],
-         "updated_date" : "2020-10-07T01:44:20-04:00",
-         "created_date" : "2020-10-06T05:00:24-04:00",
-         "uri" : "nyt://article/26f7a9dd-8948-5ff4-846e-e29153af8c3f",
-         "url" : "https://www.nytimes.com/2020/10/06/business/hotels-transformation-offices-shelters-coronavirus.html",
-         "geo_facet" : [],
+         "title" : "Pummeled by the Pandemic, Hotel Owners Get Creative With Their Space",
          "subsection" : ""
       },
       {
-         "url" : "https://www.nytimes.com/2020/10/05/realestate/new-luxury-residences-sunset-strip.html",
-         "geo_facet" : [
-            "Los Angeles (Calif)",
-            "Hollywood (Calif)"
-         ],
-         "subsection" : "",
-         "uri" : "nyt://article/ad8b02d7-f997-55c1-accd-5eb51a462ab1",
          "multimedia" : [
             {
-               "url" : "https://static01.nyt.com/images/2020/10/03/world/03real-sunsetstrip05/03real-sunsetstrip05-superJumbo.jpg",
-               "width" : 2048,
-               "copyright" : "Pendry Residences West Hollywood",
                "format" : "superJumbo",
-               "subtype" : "photo",
+               "copyright" : "Pendry Residences West Hollywood",
                "caption" : "A large LED billboard on the side of the Pendry complex, a new venture on Sunset Boulevard in Los Angeles, will provide a third income stream for the new hotel and condo venture.",
                "height" : 1352,
-               "type" : "image"
+               "width" : 2048,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/03/world/03real-sunsetstrip05/03real-sunsetstrip05-superJumbo.jpg"
             },
             {
-               "caption" : "A large LED billboard on the side of the Pendry complex, a new venture on Sunset Boulevard in Los Angeles, will provide a third income stream for the new hotel and condo venture.",
                "type" : "image",
-               "height" : 75,
                "url" : "https://static01.nyt.com/images/2020/10/03/world/03real-sunsetstrip05/03real-sunsetstrip05-thumbStandard-v2.jpg",
-               "subtype" : "photo",
-               "format" : "Standard Thumbnail",
                "width" : 75,
+               "height" : 75,
+               "subtype" : "photo",
+               "caption" : "A large LED billboard on the side of the Pendry complex, a new venture on Sunset Boulevard in Los Angeles, will provide a third income stream for the new hotel and condo venture.",
+               "format" : "Standard Thumbnail",
                "copyright" : "Pendry Residences West Hollywood"
             },
             {
-               "height" : 150,
-               "type" : "image",
                "caption" : "A large LED billboard on the side of the Pendry complex, a new venture on Sunset Boulevard in Los Angeles, will provide a third income stream for the new hotel and condo venture.",
-               "copyright" : "Pendry Residences West Hollywood",
-               "width" : 150,
                "format" : "thumbLarge",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/03/world/03real-sunsetstrip05/03real-sunsetstrip05-thumbLarge-v2.jpg"
-            },
-            {
-               "caption" : "A large LED billboard on the side of the Pendry complex, a new venture on Sunset Boulevard in Los Angeles, will provide a third income stream for the new hotel and condo venture.",
-               "type" : "image",
-               "height" : 140,
-               "url" : "https://static01.nyt.com/images/2020/10/03/world/03real-sunsetstrip05/03real-sunsetstrip05-mediumThreeByTwo210-v2.jpg",
-               "format" : "mediumThreeByTwo210",
-               "subtype" : "photo",
-               "width" : 210,
-               "copyright" : "Pendry Residences West Hollywood"
-            },
-            {
-               "caption" : "A large LED billboard on the side of the Pendry complex, a new venture on Sunset Boulevard in Los Angeles, will provide a third income stream for the new hotel and condo venture.",
-               "type" : "image",
-               "height" : 125,
-               "url" : "https://static01.nyt.com/images/2020/10/03/world/03real-sunsetstrip05/03real-sunsetstrip05-articleInline.jpg",
-               "format" : "Normal",
-               "subtype" : "photo",
                "copyright" : "Pendry Residences West Hollywood",
-               "width" : 190
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/03/world/03real-sunsetstrip05/03real-sunsetstrip05-thumbLarge-v2.jpg",
+               "width" : 150,
+               "height" : 150,
+               "subtype" : "photo"
+            },
+            {
+               "format" : "mediumThreeByTwo210",
+               "copyright" : "Pendry Residences West Hollywood",
+               "caption" : "A large LED billboard on the side of the Pendry complex, a new venture on Sunset Boulevard in Los Angeles, will provide a third income stream for the new hotel and condo venture.",
+               "width" : 210,
+               "height" : 140,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/03/world/03real-sunsetstrip05/03real-sunsetstrip05-mediumThreeByTwo210-v2.jpg"
+            },
+            {
+               "caption" : "A large LED billboard on the side of the Pendry complex, a new venture on Sunset Boulevard in Los Angeles, will provide a third income stream for the new hotel and condo venture.",
+               "copyright" : "Pendry Residences West Hollywood",
+               "format" : "Normal",
+               "url" : "https://static01.nyt.com/images/2020/10/03/world/03real-sunsetstrip05/03real-sunsetstrip05-articleInline.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "width" : 190,
+               "height" : 125
             }
          ],
-         "org_facet" : [],
-         "created_date" : "2020-10-05T06:18:34-04:00",
-         "updated_date" : "2020-10-07T17:26:04-04:00",
-         "published_date" : "2020-10-05T06:18:34-04:00",
-         "byline" : "By Debra Kamin",
+         "title" : "The Sunset Strip Stirs Again",
+         "subsection" : "",
+         "material_type_facet" : "",
          "item_type" : "Article",
          "short_url" : "https://nyti.ms/33xtRYC",
-         "title" : "The Sunset Strip Stirs Again",
          "des_facet" : [
             "Real Estate and Housing (Residential)",
             "Real Estate (Commercial)"
          ],
-         "abstract" : "The legendary Los Angeles road, once a party paradise, is awakening afresh with a crop of new luxury developments.",
          "section" : "realestate",
-         "per_facet" : [],
+         "byline" : "By Debra Kamin",
+         "geo_facet" : [
+            "Los Angeles (Calif)",
+            "Hollywood (Calif)"
+         ],
+         "abstract" : "The legendary Los Angeles road, once a party paradise, is awakening afresh with a crop of new luxury developments.",
+         "published_date" : "2020-10-05T06:18:34-04:00",
+         "updated_date" : "2020-10-07T17:26:04-04:00",
+         "org_facet" : [],
          "kicker" : "",
-         "material_type_facet" : ""
+         "created_date" : "2020-10-05T06:18:34-04:00",
+         "per_facet" : [],
+         "url" : "https://www.nytimes.com/2020/10/05/realestate/new-luxury-residences-sunset-strip.html",
+         "uri" : "nyt://article/ad8b02d7-f997-55c1-accd-5eb51a462ab1"
       },
       {
-         "per_facet" : [],
-         "kicker" : "",
-         "material_type_facet" : "",
+         "updated_date" : "2020-10-07T07:14:31-04:00",
+         "published_date" : "2020-10-03T23:59:07-04:00",
          "abstract" : "With fresh or hard cider on hand, you have the makings of all sorts of drinks.",
+         "per_facet" : [],
+         "uri" : "nyt://article/da7f3d27-f29a-5c98-abbb-0ecb3d82a95f",
+         "url" : "https://www.nytimes.com/2020/10/03/at-home/cider-cocktails.html",
+         "org_facet" : [],
+         "kicker" : "",
+         "created_date" : "2020-10-03T23:59:07-04:00",
+         "material_type_facet" : "",
+         "multimedia" : [
+            {
+               "subtype" : "photo",
+               "height" : 1365,
+               "width" : 2048,
+               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-superJumbo.jpg",
+               "type" : "image",
+               "copyright" : "Liz Clayman for The New York Times",
+               "format" : "superJumbo",
+               "caption" : "Mulled apple cider cocktails"
+            },
+            {
+               "copyright" : "Liz Clayman for The New York Times",
+               "format" : "Standard Thumbnail",
+               "caption" : "Mulled apple cider cocktails",
+               "subtype" : "photo",
+               "width" : 75,
+               "height" : 75,
+               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-thumbStandard.jpg",
+               "type" : "image"
+            },
+            {
+               "height" : 150,
+               "width" : 150,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-thumbLarge.jpg",
+               "format" : "thumbLarge",
+               "copyright" : "Liz Clayman for The New York Times",
+               "caption" : "Mulled apple cider cocktails"
+            },
+            {
+               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-mediumThreeByTwo210.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "height" : 140,
+               "width" : 210,
+               "caption" : "Mulled apple cider cocktails",
+               "copyright" : "Liz Clayman for The New York Times",
+               "format" : "mediumThreeByTwo210"
+            },
+            {
+               "height" : 125,
+               "width" : 190,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-articleInline.jpg",
+               "format" : "Normal",
+               "copyright" : "Liz Clayman for The New York Times",
+               "caption" : "Mulled apple cider cocktails"
+            }
+         ],
+         "title" : "Warm Up With Cider Cocktails",
+         "subsection" : "",
+         "geo_facet" : [],
+         "short_url" : "https://nyti.ms/3cUOGAi",
+         "item_type" : "Article",
+         "byline" : "By Florence Fabricant",
          "des_facet" : [
             "Apples",
             "Cider",
@@ -816,137 +877,65 @@
             "Quarantine (Life and Culture)",
             "The Ladies' Village Improvement Society Cookbook: Eating and Entertaining in East Hampton (Book)"
          ],
-         "section" : "at-home",
-         "multimedia" : [
-            {
-               "copyright" : "Liz Clayman for The New York Times",
-               "width" : 2048,
-               "format" : "superJumbo",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-superJumbo.jpg",
-               "height" : 1365,
-               "type" : "image",
-               "caption" : "Mulled apple cider cocktails"
-            },
-            {
-               "subtype" : "photo",
-               "format" : "Standard Thumbnail",
-               "width" : 75,
-               "copyright" : "Liz Clayman for The New York Times",
-               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-thumbStandard.jpg",
-               "type" : "image",
-               "height" : 75,
-               "caption" : "Mulled apple cider cocktails"
-            },
-            {
-               "width" : 150,
-               "copyright" : "Liz Clayman for The New York Times",
-               "format" : "thumbLarge",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-thumbLarge.jpg",
-               "height" : 150,
-               "type" : "image",
-               "caption" : "Mulled apple cider cocktails"
-            },
-            {
-               "height" : 140,
-               "type" : "image",
-               "caption" : "Mulled apple cider cocktails",
-               "width" : 210,
-               "copyright" : "Liz Clayman for The New York Times",
-               "format" : "mediumThreeByTwo210",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-mediumThreeByTwo210.jpg"
-            },
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-cider1/04ah-cider1-articleInline.jpg",
-               "format" : "Normal",
-               "subtype" : "photo",
-               "copyright" : "Liz Clayman for The New York Times",
-               "width" : 190,
-               "caption" : "Mulled apple cider cocktails",
-               "type" : "image",
-               "height" : 125
-            }
-         ],
-         "updated_date" : "2020-10-07T07:14:31-04:00",
-         "created_date" : "2020-10-03T23:59:07-04:00",
-         "org_facet" : [],
-         "byline" : "By Florence Fabricant",
-         "published_date" : "2020-10-03T23:59:07-04:00",
-         "short_url" : "https://nyti.ms/3cUOGAi",
-         "title" : "Warm Up With Cider Cocktails",
-         "item_type" : "Article",
-         "url" : "https://www.nytimes.com/2020/10/03/at-home/cider-cocktails.html",
-         "subsection" : "",
-         "geo_facet" : [],
-         "uri" : "nyt://article/da7f3d27-f29a-5c98-abbb-0ecb3d82a95f"
+         "section" : "at-home"
       },
       {
-         "geo_facet" : [],
+         "material_type_facet" : "",
          "subsection" : "",
-         "url" : "https://www.nytimes.com/2020/10/03/at-home/celebrate-halloween-from-your-car.html",
-         "uri" : "nyt://article/931e713a-e913-57da-ac30-b8a7b0c50c80",
-         "org_facet" : [],
-         "created_date" : "2020-10-03T23:22:09-04:00",
-         "updated_date" : "2020-10-06T18:05:06-04:00",
          "multimedia" : [
             {
                "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/merlin_177642618_b84ae23c-42e5-48db-b0e1-53413ce72e0f-superJumbo.jpg",
                "height" : 1367,
-               "caption" : "",
-               "subtype" : "photo",
-               "format" : "superJumbo",
-               "copyright" : "Brandon Thibodeaux for The New York Times",
                "width" : 2048,
-               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/merlin_177642618_b84ae23c-42e5-48db-b0e1-53413ce72e0f-superJumbo.jpg"
+               "subtype" : "photo",
+               "caption" : "",
+               "format" : "superJumbo",
+               "copyright" : "Brandon Thibodeaux for The New York Times"
             },
             {
                "subtype" : "photo",
-               "format" : "Standard Thumbnail",
                "width" : 75,
-               "copyright" : "Brandon Thibodeaux for The New York Times",
+               "height" : 75,
                "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/04ah-DriveThruHalloween4-thumbStandard.jpg",
                "type" : "image",
-               "height" : 75,
-               "caption" : ""
-            },
-            {
-               "format" : "thumbLarge",
-               "subtype" : "photo",
-               "width" : 150,
                "copyright" : "Brandon Thibodeaux for The New York Times",
-               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/04ah-DriveThruHalloween4-thumbLarge.jpg",
-               "type" : "image",
-               "height" : 150,
+               "format" : "Standard Thumbnail",
                "caption" : ""
             },
             {
-               "height" : 140,
+               "height" : 150,
+               "width" : 150,
+               "subtype" : "photo",
                "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/04ah-DriveThruHalloween4-thumbLarge.jpg",
+               "format" : "thumbLarge",
+               "copyright" : "Brandon Thibodeaux for The New York Times",
+               "caption" : ""
+            },
+            {
+               "format" : "mediumThreeByTwo210",
+               "copyright" : "Brandon Thibodeaux for The New York Times",
                "caption" : "",
                "width" : 210,
-               "copyright" : "Brandon Thibodeaux for The New York Times",
-               "format" : "mediumThreeByTwo210",
+               "height" : 140,
                "subtype" : "photo",
+               "type" : "image",
                "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/04ah-DriveThruHalloween4-mediumThreeByTwo210.jpg"
             },
             {
-               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/merlin_177642618_b84ae23c-42e5-48db-b0e1-53413ce72e0f-articleInline.jpg",
                "width" : 190,
-               "copyright" : "Brandon Thibodeaux for The New York Times",
-               "subtype" : "photo",
-               "format" : "Normal",
-               "caption" : "",
                "height" : 127,
-               "type" : "image"
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/04/multimedia/04ah-DriveThruHalloween4/merlin_177642618_b84ae23c-42e5-48db-b0e1-53413ce72e0f-articleInline.jpg",
+               "format" : "Normal",
+               "copyright" : "Brandon Thibodeaux for The New York Times",
+               "caption" : ""
             }
          ],
-         "item_type" : "Article",
          "title" : "6 Ways to Celebrate Halloween From Behind the Wheel",
-         "short_url" : "https://nyti.ms/3cTMSHU",
-         "published_date" : "2020-10-03T23:22:09-04:00",
-         "byline" : "By Erik Piepenburg",
+         "geo_facet" : [],
          "des_facet" : [
             "Quarantine (Life and Culture)",
             "Automobiles",
@@ -958,93 +947,100 @@
             "Parking Garages and Lots",
             "Ghosts"
          ],
-         "abstract" : "Drive-in horror film screenings and fright-night experiences are popping up around the country for a pandemic-safe holiday.",
          "section" : "at-home",
-         "kicker" : "",
+         "byline" : "By Erik Piepenburg",
+         "item_type" : "Article",
+         "short_url" : "https://nyti.ms/3cTMSHU",
+         "updated_date" : "2020-10-06T18:05:06-04:00",
+         "published_date" : "2020-10-03T23:22:09-04:00",
+         "abstract" : "Drive-in horror film screenings and fright-night experiences are popping up around the country for a pandemic-safe holiday.",
+         "url" : "https://www.nytimes.com/2020/10/03/at-home/celebrate-halloween-from-your-car.html",
+         "uri" : "nyt://article/931e713a-e913-57da-ac30-b8a7b0c50c80",
          "per_facet" : [],
-         "material_type_facet" : ""
+         "org_facet" : [],
+         "kicker" : "",
+         "created_date" : "2020-10-03T23:22:09-04:00"
       },
       {
+         "updated_date" : "2020-10-04T00:36:37-04:00",
+         "abstract" : "The fiercely contested floodgate system was used to stop a high tide from flooding Venice’s fragile streets. The system held, but will it work as the climate worsens?",
+         "published_date" : "2020-10-03T12:06:22-04:00",
          "url" : "https://www.nytimes.com/2020/10/03/world/europe/venice-floodgates-flooding.html",
-         "subsection" : "europe",
-         "geo_facet" : [],
          "uri" : "nyt://article/1b0340e8-360a-57b3-9420-daa9850ab3c6",
+         "per_facet" : [
+            "Brugnaro, Luigi (1961- )"
+         ],
+         "org_facet" : [],
+         "kicker" : "",
+         "created_date" : "2020-10-03T12:06:22-04:00",
+         "material_type_facet" : "",
+         "subsection" : "europe",
          "multimedia" : [
             {
-               "type" : "image",
-               "height" : 1365,
                "caption" : "On St. Mark's Square in Venice today.",
+               "copyright" : "Claudio Furlan/LaPresse, via Associated Press",
                "format" : "superJumbo",
+               "url" : "https://static01.nyt.com/images/2020/10/04/world/04Venice/merlin_177983583_22e1eeb5-7aed-47da-b0c7-bbfc1e9891fd-superJumbo.jpg",
+               "type" : "image",
                "subtype" : "photo",
-               "copyright" : "Claudio Furlan/LaPresse, via Associated Press",
-               "width" : 2048,
-               "url" : "https://static01.nyt.com/images/2020/10/04/world/04Venice/merlin_177983583_22e1eeb5-7aed-47da-b0c7-bbfc1e9891fd-superJumbo.jpg"
+               "height" : 1365,
+               "width" : 2048
             },
             {
+               "type" : "image",
                "url" : "https://static01.nyt.com/images/2020/10/04/world/04Venice/03Venice01-thumbStandard.jpg",
-               "copyright" : "Claudio Furlan/LaPresse, via Associated Press",
                "width" : 75,
-               "format" : "Standard Thumbnail",
+               "height" : 75,
                "subtype" : "photo",
                "caption" : "On St. Mark's Square in Venice today.",
-               "height" : 75,
-               "type" : "image"
+               "format" : "Standard Thumbnail",
+               "copyright" : "Claudio Furlan/LaPresse, via Associated Press"
             },
             {
-               "copyright" : "Claudio Furlan/LaPresse, via Associated Press",
-               "width" : 150,
+               "caption" : "On St. Mark's Square in Venice today.",
                "format" : "thumbLarge",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/04/world/04Venice/03Venice01-thumbLarge.jpg",
-               "height" : 150,
+               "copyright" : "Claudio Furlan/LaPresse, via Associated Press",
                "type" : "image",
-               "caption" : "On St. Mark's Square in Venice today."
+               "url" : "https://static01.nyt.com/images/2020/10/04/world/04Venice/03Venice01-thumbLarge.jpg",
+               "width" : 150,
+               "height" : 150,
+               "subtype" : "photo"
             },
             {
                "url" : "https://static01.nyt.com/images/2020/10/04/world/04Venice/merlin_177983583_22e1eeb5-7aed-47da-b0c7-bbfc1e9891fd-mediumThreeByTwo210.jpg",
-               "format" : "mediumThreeByTwo210",
+               "type" : "image",
                "subtype" : "photo",
-               "copyright" : "Claudio Furlan/LaPresse, via Associated Press",
+               "height" : 140,
                "width" : 210,
                "caption" : "On St. Mark's Square in Venice today.",
-               "type" : "image",
-               "height" : 140
+               "copyright" : "Claudio Furlan/LaPresse, via Associated Press",
+               "format" : "mediumThreeByTwo210"
             },
             {
                "subtype" : "photo",
-               "format" : "Normal",
-               "copyright" : "Claudio Furlan/LaPresse, via Associated Press",
+               "height" : 127,
                "width" : 190,
                "url" : "https://static01.nyt.com/images/2020/10/04/world/04Venice/merlin_177983583_22e1eeb5-7aed-47da-b0c7-bbfc1e9891fd-articleInline.jpg",
                "type" : "image",
-               "height" : 127,
+               "copyright" : "Claudio Furlan/LaPresse, via Associated Press",
+               "format" : "Normal",
                "caption" : "On St. Mark's Square in Venice today."
             }
          ],
-         "org_facet" : [],
-         "created_date" : "2020-10-03T12:06:22-04:00",
-         "updated_date" : "2020-10-04T00:36:37-04:00",
-         "published_date" : "2020-10-03T12:06:22-04:00",
-         "byline" : "By Elisabetta Povoledo",
-         "item_type" : "Article",
          "title" : "Floodgates in Venice Work in First Major Test",
-         "short_url" : "https://nyti.ms/34j5NrO",
-         "abstract" : "The fiercely contested floodgate system was used to stop a high tide from flooding Venice’s fragile streets. The system held, but will it work as the climate worsens?",
+         "geo_facet" : [],
+         "byline" : "By Elisabetta Povoledo",
+         "section" : "world",
          "des_facet" : [
             "Floods",
             "Global Warming"
          ],
-         "section" : "world",
-         "kicker" : "",
-         "per_facet" : [
-            "Brugnaro, Luigi (1961- )"
-         ],
-         "material_type_facet" : ""
+         "short_url" : "https://nyti.ms/34j5NrO",
+         "item_type" : "Article"
       },
       {
-         "material_type_facet" : "",
-         "kicker" : "Tripped Up",
-         "per_facet" : [],
+         "geo_facet" : [],
+         "byline" : "By Sarah Firshein",
          "section" : "travel",
          "des_facet" : [
             "Coronavirus Risks and Safety Concerns",
@@ -1054,64 +1050,66 @@
             "Quarantine (Life and Culture)",
             "Subways"
          ],
-         "abstract" : "Our columnist finds that rail companies, both regional systems and Amtrak, are undertaking major coronavirus efforts. But they can’t thoroughly disinfect every seat in every train at every station.",
-         "published_date" : "2020-10-03T05:00:11-04:00",
-         "byline" : "By Sarah Firshein",
-         "item_type" : "Article",
-         "title" : "Help! I’d Like to Ride the Train. Is it Safe?",
          "short_url" : "https://nyti.ms/36rGcPQ",
+         "item_type" : "Article",
+         "material_type_facet" : "",
+         "subsection" : "",
          "multimedia" : [
             {
-               "caption" : "",
-               "height" : 2039,
-               "type" : "image",
                "url" : "https://static01.nyt.com/images/2020/10/05/multimedia/03tripped-up-amtrak-print/03tripped-up-coronatrain-superJumbo.jpg",
-               "copyright" : "Stephanie J. Kim",
+               "type" : "image",
+               "subtype" : "photo",
                "width" : 1359,
-               "format" : "superJumbo",
-               "subtype" : "photo"
-            },
-            {
-               "height" : 75,
-               "type" : "image",
+               "height" : 2039,
                "caption" : "",
                "copyright" : "Stephanie J. Kim",
+               "format" : "superJumbo"
+            },
+            {
                "width" : 75,
+               "height" : 75,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/05/multimedia/03tripped-up-amtrak-print/03tripped-up-coronatrain-thumbStandard.jpg",
                "format" : "Standard Thumbnail",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/05/multimedia/03tripped-up-amtrak-print/03tripped-up-coronatrain-thumbStandard.jpg"
-            },
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/05/multimedia/03tripped-up-amtrak-print/03tripped-up-coronatrain-thumbLarge.jpg",
-               "format" : "thumbLarge",
-               "subtype" : "photo",
                "copyright" : "Stephanie J. Kim",
-               "width" : 150,
-               "caption" : "",
-               "type" : "image",
-               "height" : 150
-            },
-            {
-               "format" : "mediumThreeByTwo210",
-               "subtype" : "photo",
-               "width" : 210,
-               "copyright" : "Stephanie J. Kim",
-               "url" : "https://static01.nyt.com/images/2020/10/05/multimedia/03tripped-up-amtrak-print/03tripped-up-amtrak-print-mediumThreeByTwo210-v2.jpg",
-               "type" : "image",
-               "height" : 140,
                "caption" : ""
             },
             {
-               "caption" : "",
                "type" : "image",
-               "height" : 285,
-               "url" : "https://static01.nyt.com/images/2020/10/05/multimedia/03tripped-up-amtrak-print/03tripped-up-coronatrain-articleInline.jpg",
+               "url" : "https://static01.nyt.com/images/2020/10/05/multimedia/03tripped-up-amtrak-print/03tripped-up-coronatrain-thumbLarge.jpg",
+               "height" : 150,
+               "width" : 150,
                "subtype" : "photo",
-               "format" : "Normal",
+               "caption" : "",
+               "format" : "thumbLarge",
+               "copyright" : "Stephanie J. Kim"
+            },
+            {
+               "caption" : "",
+               "format" : "mediumThreeByTwo210",
                "copyright" : "Stephanie J. Kim",
-               "width" : 190
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/05/multimedia/03tripped-up-amtrak-print/03tripped-up-amtrak-print-mediumThreeByTwo210-v2.jpg",
+               "width" : 210,
+               "height" : 140,
+               "subtype" : "photo"
+            },
+            {
+               "url" : "https://static01.nyt.com/images/2020/10/05/multimedia/03tripped-up-amtrak-print/03tripped-up-coronatrain-articleInline.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "width" : 190,
+               "height" : 285,
+               "caption" : "",
+               "copyright" : "Stephanie J. Kim",
+               "format" : "Normal"
             }
          ],
+         "title" : "Help! I’d Like to Ride the Train. Is it Safe?",
+         "url" : "https://www.nytimes.com/2020/10/03/travel/virus-amtrak-train-travel.html",
+         "uri" : "nyt://article/b183bcbb-e025-5ee8-bd1e-399e8a650a01",
+         "per_facet" : [],
          "org_facet" : [
             "Amtrak",
             "George Washington University",
@@ -1119,21 +1117,69 @@
             "Metro-North Commuter Railroad",
             "Southeastern Pennsylvania Transportation Authority"
          ],
-         "updated_date" : "2020-10-06T07:52:38-04:00",
          "created_date" : "2020-10-03T05:00:11-04:00",
-         "uri" : "nyt://article/b183bcbb-e025-5ee8-bd1e-399e8a650a01",
-         "url" : "https://www.nytimes.com/2020/10/03/travel/virus-amtrak-train-travel.html",
-         "geo_facet" : [],
-         "subsection" : ""
+         "kicker" : "Tripped Up",
+         "updated_date" : "2020-10-06T07:52:38-04:00",
+         "published_date" : "2020-10-03T05:00:11-04:00",
+         "abstract" : "Our columnist finds that rail companies, both regional systems and Amtrak, are undertaking major coronavirus efforts. But they can’t thoroughly disinfect every seat in every train at every station."
       },
       {
-         "material_type_facet" : "",
-         "kicker" : "",
-         "per_facet" : [
-            "Bordhi, Cat (1951-2020)"
+         "subsection" : "",
+         "multimedia" : [
+            {
+               "format" : "superJumbo",
+               "copyright" : "Jennifer Low",
+               "caption" : "Cat Bordhi on San Juan Island, Wash., in 2015. The books she published about knitting earned her a devoted following.",
+               "height" : 1106,
+               "width" : 737,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/09/obituaries/01Bordhi1/merlin_177801678_74c466f2-48b8-4dae-ab81-32d141016027-superJumbo.jpg"
+            },
+            {
+               "format" : "Standard Thumbnail",
+               "copyright" : "Jennifer Low",
+               "caption" : "Cat Bordhi on San Juan Island, Wash., in 2015. The books she published about knitting earned her a devoted following.",
+               "width" : 75,
+               "height" : 75,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/09/obituaries/01Bordhi1/01Bordhi1-thumbStandard.jpg"
+            },
+            {
+               "copyright" : "Jennifer Low",
+               "format" : "thumbLarge",
+               "caption" : "Cat Bordhi on San Juan Island, Wash., in 2015. The books she published about knitting earned her a devoted following.",
+               "subtype" : "photo",
+               "width" : 150,
+               "height" : 150,
+               "url" : "https://static01.nyt.com/images/2020/10/09/obituaries/01Bordhi1/01Bordhi1-thumbLarge.jpg",
+               "type" : "image"
+            },
+            {
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/09/obituaries/01Bordhi1/01Bordhi1-mediumThreeByTwo210.jpg",
+               "width" : 210,
+               "height" : 140,
+               "subtype" : "photo",
+               "caption" : "Cat Bordhi on San Juan Island, Wash., in 2015. The books she published about knitting earned her a devoted following.",
+               "format" : "mediumThreeByTwo210",
+               "copyright" : "Jennifer Low"
+            },
+            {
+               "copyright" : "Jennifer Low",
+               "format" : "Normal",
+               "caption" : "Cat Bordhi on San Juan Island, Wash., in 2015. The books she published about knitting earned her a devoted following.",
+               "subtype" : "photo",
+               "height" : 285,
+               "width" : 190,
+               "url" : "https://static01.nyt.com/images/2020/10/09/obituaries/01Bordhi1/merlin_177801678_74c466f2-48b8-4dae-ab81-32d141016027-articleInline.jpg",
+               "type" : "image"
+            }
          ],
+         "title" : "Cat Bordhi, Who Challenged Traditional Ways of Knitting, Dies at 69",
+         "material_type_facet" : "",
          "section" : "style",
-         "abstract" : "Confounded by the complicated instructions that had become the standard, she thought up whimsical new techniques to create socks, scarves and other items.",
          "des_facet" : [
             "Deaths (Obituaries)",
             "Knitting and Knit Goods",
@@ -1142,155 +1188,158 @@
             "Books and Literature"
          ],
          "byline" : "By Katherine Rosman",
-         "published_date" : "2020-10-02T16:17:42-04:00",
-         "title" : "Cat Bordhi, Who Challenged Traditional Ways of Knitting, Dies at 69",
-         "short_url" : "https://nyti.ms/3d09YN6",
          "item_type" : "Article",
-         "multimedia" : [
-            {
-               "format" : "superJumbo",
-               "subtype" : "photo",
-               "copyright" : "Jennifer Low",
-               "width" : 737,
-               "url" : "https://static01.nyt.com/images/2020/10/09/obituaries/01Bordhi1/merlin_177801678_74c466f2-48b8-4dae-ab81-32d141016027-superJumbo.jpg",
-               "type" : "image",
-               "height" : 1106,
-               "caption" : "Cat Bordhi on San Juan Island, Wash., in 2015. The books she published about knitting earned her a devoted following."
-            },
-            {
-               "caption" : "Cat Bordhi on San Juan Island, Wash., in 2015. The books she published about knitting earned her a devoted following.",
-               "type" : "image",
-               "height" : 75,
-               "url" : "https://static01.nyt.com/images/2020/10/09/obituaries/01Bordhi1/01Bordhi1-thumbStandard.jpg",
-               "format" : "Standard Thumbnail",
-               "subtype" : "photo",
-               "width" : 75,
-               "copyright" : "Jennifer Low"
-            },
-            {
-               "format" : "thumbLarge",
-               "subtype" : "photo",
-               "width" : 150,
-               "copyright" : "Jennifer Low",
-               "url" : "https://static01.nyt.com/images/2020/10/09/obituaries/01Bordhi1/01Bordhi1-thumbLarge.jpg",
-               "type" : "image",
-               "height" : 150,
-               "caption" : "Cat Bordhi on San Juan Island, Wash., in 2015. The books she published about knitting earned her a devoted following."
-            },
-            {
-               "height" : 140,
-               "type" : "image",
-               "caption" : "Cat Bordhi on San Juan Island, Wash., in 2015. The books she published about knitting earned her a devoted following.",
-               "width" : 210,
-               "copyright" : "Jennifer Low",
-               "format" : "mediumThreeByTwo210",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/09/obituaries/01Bordhi1/01Bordhi1-mediumThreeByTwo210.jpg"
-            },
-            {
-               "height" : 285,
-               "type" : "image",
-               "caption" : "Cat Bordhi on San Juan Island, Wash., in 2015. The books she published about knitting earned her a devoted following.",
-               "width" : 190,
-               "copyright" : "Jennifer Low",
-               "format" : "Normal",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/09/obituaries/01Bordhi1/merlin_177801678_74c466f2-48b8-4dae-ab81-32d141016027-articleInline.jpg"
-            }
-         ],
-         "created_date" : "2020-10-02T16:17:42-04:00",
+         "short_url" : "https://nyti.ms/3d09YN6",
+         "geo_facet" : [],
+         "abstract" : "Confounded by the complicated instructions that had become the standard, she thought up whimsical new techniques to create socks, scarves and other items.",
+         "published_date" : "2020-10-02T16:17:42-04:00",
          "updated_date" : "2020-10-09T00:10:20-04:00",
          "org_facet" : [],
-         "uri" : "nyt://article/8152632d-9f3e-53ed-b51c-5b5f22ac8665",
+         "kicker" : "",
+         "created_date" : "2020-10-02T16:17:42-04:00",
          "url" : "https://www.nytimes.com/2020/10/02/style/cat-bordhi-dead.html",
-         "geo_facet" : [],
-         "subsection" : ""
+         "uri" : "nyt://article/8152632d-9f3e-53ed-b51c-5b5f22ac8665",
+         "per_facet" : [
+            "Bordhi, Cat (1951-2020)"
+         ]
       },
       {
-         "per_facet" : [],
+         "org_facet" : [
+            "Luna Park (Brooklyn, NY)"
+         ],
          "kicker" : "",
-         "material_type_facet" : "",
+         "created_date" : "2020-10-02T05:00:39-04:00",
+         "per_facet" : [],
+         "uri" : "nyt://interactive/d6db05d7-c835-5255-8cff-6fc844a8cc25",
+         "url" : "https://www.nytimes.com/interactive/2020/10/02/nyregion/coney-island-reopening.html",
          "abstract" : "Two workers at Coney Island’s Luna Park spend their days maintaining the Cyclone. But after a year of being closed, it’s unclear when the park will be able to reopen.",
+         "published_date" : "2020-10-02T05:00:39-04:00",
+         "updated_date" : "2020-10-02T07:30:57-04:00",
+         "short_url" : "https://nyti.ms/30sjbsf",
+         "item_type" : "Interactive",
+         "byline" : "",
+         "section" : "nyregion",
          "des_facet" : [
             "Coronavirus Reopenings",
             "Amusement and Theme Parks",
             "Roller Coasters"
          ],
-         "section" : "nyregion",
-         "multimedia" : [
-            {
-               "height" : 2047,
-               "type" : "image",
-               "caption" : "",
-               "width" : 2048,
-               "copyright" : "",
-               "format" : "superJumbo",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-superJumbo-v2.jpg"
-            },
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-thumbStandard.jpg",
-               "format" : "Standard Thumbnail",
-               "subtype" : "photo",
-               "copyright" : "",
-               "width" : 75,
-               "caption" : "",
-               "type" : "image",
-               "height" : 75
-            },
-            {
-               "width" : 150,
-               "copyright" : "",
-               "subtype" : "photo",
-               "format" : "thumbLarge",
-               "url" : "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-thumbLarge.jpg",
-               "height" : 150,
-               "type" : "image",
-               "caption" : ""
-            },
-            {
-               "width" : 210,
-               "copyright" : "",
-               "format" : "mediumThreeByTwo210",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-mediumThreeByTwo210-v2.jpg",
-               "height" : 140,
-               "type" : "image",
-               "caption" : ""
-            },
-            {
-               "width" : 190,
-               "copyright" : "",
-               "subtype" : "photo",
-               "format" : "Normal",
-               "url" : "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-articleInline-v2.jpg",
-               "height" : 190,
-               "type" : "image",
-               "caption" : ""
-            }
-         ],
-         "created_date" : "2020-10-02T05:00:39-04:00",
-         "updated_date" : "2020-10-02T07:30:57-04:00",
-         "org_facet" : [
-            "Luna Park (Brooklyn, NY)"
-         ],
-         "byline" : "",
-         "published_date" : "2020-10-02T05:00:39-04:00",
-         "short_url" : "https://nyti.ms/30sjbsf",
-         "title" : "They Keep An Iconic Roller Coaster Ready for When Crowds Return",
-         "item_type" : "Interactive",
-         "url" : "https://www.nytimes.com/interactive/2020/10/02/nyregion/coney-island-reopening.html",
-         "subsection" : "",
          "geo_facet" : [
             "Coney Island (Brooklyn, NY)"
          ],
-         "uri" : "nyt://interactive/d6db05d7-c835-5255-8cff-6fc844a8cc25"
+         "title" : "They Keep An Iconic Roller Coaster Ready for When Crowds Return",
+         "multimedia" : [
+            {
+               "caption" : "",
+               "copyright" : "",
+               "format" : "superJumbo",
+               "url" : "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-superJumbo-v2.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "width" : 2048,
+               "height" : 2047
+            },
+            {
+               "url" : "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-thumbStandard.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "height" : 75,
+               "width" : 75,
+               "caption" : "",
+               "copyright" : "",
+               "format" : "Standard Thumbnail"
+            },
+            {
+               "caption" : "",
+               "format" : "thumbLarge",
+               "copyright" : "",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-thumbLarge.jpg",
+               "height" : 150,
+               "width" : 150,
+               "subtype" : "photo"
+            },
+            {
+               "caption" : "",
+               "copyright" : "",
+               "format" : "mediumThreeByTwo210",
+               "url" : "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-mediumThreeByTwo210-v2.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "height" : 140,
+               "width" : 210
+            },
+            {
+               "subtype" : "photo",
+               "width" : 190,
+               "height" : 190,
+               "url" : "https://static01.nyt.com/images/2020/10/02/nyregion/coneyisland-burst-08/coneyisland-burst-08-articleInline-v2.jpg",
+               "type" : "image",
+               "copyright" : "",
+               "format" : "Normal",
+               "caption" : ""
+            }
+         ],
+         "subsection" : "",
+         "material_type_facet" : ""
       },
       {
-         "kicker" : "",
-         "per_facet" : [],
+         "subsection" : "asia",
+         "title" : "Covid-19 Upends South Korea’s Thanksgiving, and Its Rituals",
+         "multimedia" : [
+            {
+               "caption" : "People in traditional Korean formal attire outside the Gyeongbokgung Palace in Seoul on Wednesday, the start of the Chuseok holiday.",
+               "format" : "superJumbo",
+               "copyright" : "Jun Michael Park for The New York Times",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/02/world/02korea-holiday-2/02korea-holiday-2-superJumbo-v2.jpg",
+               "height" : 1365,
+               "width" : 2048,
+               "subtype" : "photo"
+            },
+            {
+               "subtype" : "photo",
+               "width" : 75,
+               "height" : 75,
+               "url" : "https://static01.nyt.com/images/2020/10/02/world/02korea-holiday-2/02korea-holiday-2-thumbStandard-v2.jpg",
+               "type" : "image",
+               "copyright" : "Jun Michael Park for The New York Times",
+               "format" : "Standard Thumbnail",
+               "caption" : "People in traditional Korean formal attire outside the Gyeongbokgung Palace in Seoul on Wednesday, the start of the Chuseok holiday."
+            },
+            {
+               "subtype" : "photo",
+               "height" : 150,
+               "width" : 150,
+               "url" : "https://static01.nyt.com/images/2020/10/02/world/02korea-holiday-2/02korea-holiday-2-thumbLarge-v2.jpg",
+               "type" : "image",
+               "copyright" : "Jun Michael Park for The New York Times",
+               "format" : "thumbLarge",
+               "caption" : "People in traditional Korean formal attire outside the Gyeongbokgung Palace in Seoul on Wednesday, the start of the Chuseok holiday."
+            },
+            {
+               "caption" : "People in traditional Korean formal attire outside the Gyeongbokgung Palace in Seoul on Wednesday, the start of the Chuseok holiday.",
+               "format" : "mediumThreeByTwo210",
+               "copyright" : "Jun Michael Park for The New York Times",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/02/world/02korea-holiday-2/02korea-holiday-2-mediumThreeByTwo210-v3.jpg",
+               "width" : 210,
+               "height" : 140,
+               "subtype" : "photo"
+            },
+            {
+               "copyright" : "Jun Michael Park for The New York Times",
+               "format" : "Normal",
+               "caption" : "People in traditional Korean formal attire outside the Gyeongbokgung Palace in Seoul on Wednesday, the start of the Chuseok holiday.",
+               "subtype" : "photo",
+               "width" : 190,
+               "height" : 127,
+               "url" : "https://static01.nyt.com/images/2020/10/02/world/02korea-holiday-2/02korea-holiday-2-articleInline-v2.jpg",
+               "type" : "image"
+            }
+         ],
          "material_type_facet" : "",
-         "abstract" : "Millions have canceled family gatherings during this year’s Chuseok harvest festival at the government’s request. The anxiety is palpable.",
+         "section" : "world",
          "des_facet" : [
             "Politics and Government",
             "Coronavirus (2019-nCoV)",
@@ -1298,80 +1347,95 @@
             "Quarantines",
             "Quarantine (Life and Culture)"
          ],
-         "section" : "world",
-         "multimedia" : [
-            {
-               "type" : "image",
-               "height" : 1365,
-               "caption" : "People in traditional Korean formal attire outside the Gyeongbokgung Palace in Seoul on Wednesday, the start of the Chuseok holiday.",
-               "subtype" : "photo",
-               "format" : "superJumbo",
-               "copyright" : "Jun Michael Park for The New York Times",
-               "width" : 2048,
-               "url" : "https://static01.nyt.com/images/2020/10/02/world/02korea-holiday-2/02korea-holiday-2-superJumbo-v2.jpg"
-            },
-            {
-               "format" : "Standard Thumbnail",
-               "subtype" : "photo",
-               "width" : 75,
-               "copyright" : "Jun Michael Park for The New York Times",
-               "url" : "https://static01.nyt.com/images/2020/10/02/world/02korea-holiday-2/02korea-holiday-2-thumbStandard-v2.jpg",
-               "type" : "image",
-               "height" : 75,
-               "caption" : "People in traditional Korean formal attire outside the Gyeongbokgung Palace in Seoul on Wednesday, the start of the Chuseok holiday."
-            },
-            {
-               "type" : "image",
-               "height" : 150,
-               "caption" : "People in traditional Korean formal attire outside the Gyeongbokgung Palace in Seoul on Wednesday, the start of the Chuseok holiday.",
-               "format" : "thumbLarge",
-               "subtype" : "photo",
-               "width" : 150,
-               "copyright" : "Jun Michael Park for The New York Times",
-               "url" : "https://static01.nyt.com/images/2020/10/02/world/02korea-holiday-2/02korea-holiday-2-thumbLarge-v2.jpg"
-            },
-            {
-               "caption" : "People in traditional Korean formal attire outside the Gyeongbokgung Palace in Seoul on Wednesday, the start of the Chuseok holiday.",
-               "height" : 140,
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2020/10/02/world/02korea-holiday-2/02korea-holiday-2-mediumThreeByTwo210-v3.jpg",
-               "width" : 210,
-               "copyright" : "Jun Michael Park for The New York Times",
-               "subtype" : "photo",
-               "format" : "mediumThreeByTwo210"
-            },
-            {
-               "type" : "image",
-               "height" : 127,
-               "caption" : "People in traditional Korean formal attire outside the Gyeongbokgung Palace in Seoul on Wednesday, the start of the Chuseok holiday.",
-               "subtype" : "photo",
-               "format" : "Normal",
-               "copyright" : "Jun Michael Park for The New York Times",
-               "width" : 190,
-               "url" : "https://static01.nyt.com/images/2020/10/02/world/02korea-holiday-2/02korea-holiday-2-articleInline-v2.jpg"
-            }
-         ],
-         "org_facet" : [],
-         "created_date" : "2020-10-02T02:01:35-04:00",
-         "updated_date" : "2020-10-04T05:31:40-04:00",
-         "published_date" : "2020-10-02T02:01:35-04:00",
          "byline" : "By Jun Michael Park and Mike Ives",
          "item_type" : "Article",
          "short_url" : "https://nyti.ms/3jpJmr3",
-         "title" : "Covid-19 Upends South Korea’s Thanksgiving, and Its Rituals",
-         "url" : "https://www.nytimes.com/2020/10/02/world/asia/covid-south-korea-chuseok.html",
-         "subsection" : "asia",
          "geo_facet" : [
             "Seoul (South Korea)",
             "South Korea"
          ],
-         "uri" : "nyt://article/1d29a14a-8aca-5629-8c21-df2f2f683d1e"
+         "published_date" : "2020-10-02T02:01:35-04:00",
+         "abstract" : "Millions have canceled family gatherings during this year’s Chuseok harvest festival at the government’s request. The anxiety is palpable.",
+         "updated_date" : "2020-10-04T05:31:40-04:00",
+         "org_facet" : [],
+         "kicker" : "",
+         "created_date" : "2020-10-02T02:01:35-04:00",
+         "url" : "https://www.nytimes.com/2020/10/02/world/asia/covid-south-korea-chuseok.html",
+         "uri" : "nyt://article/1d29a14a-8aca-5629-8c21-df2f2f683d1e",
+         "per_facet" : []
       },
       {
-         "material_type_facet" : "",
+         "updated_date" : "2020-10-02T10:38:25-04:00",
+         "abstract" : "With few people traveling and lawmakers deadlocked on a stimulus package, American Airlines and United Airlines are cutting more than 30,000 jobs.",
+         "published_date" : "2020-10-01T16:56:49-04:00",
+         "url" : "https://www.nytimes.com/2020/10/01/business/airline-furloughs-coronavirus-united-american.html",
+         "uri" : "nyt://article/47603d9e-fd93-5393-afc1-67e87bc5a653",
          "per_facet" : [],
+         "org_facet" : [
+            "United Airlines",
+            "American Airlines",
+            "Delta Air Lines Inc",
+            "Southwest Airlines Company",
+            "Treasury Department"
+         ],
+         "created_date" : "2020-10-01T16:56:49-04:00",
          "kicker" : "",
-         "section" : "business",
+         "material_type_facet" : "",
+         "subsection" : "",
+         "title" : "Airlines, Facing a Painfully Slow Recovery, Begin Furloughing Thousands",
+         "multimedia" : [
+            {
+               "copyright" : "Stephanie Keith for The New York Times",
+               "format" : "superJumbo",
+               "caption" : "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
+               "subtype" : "photo",
+               "width" : 2048,
+               "height" : 1367,
+               "url" : "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/merlin_177910275_7532e868-f622-44bb-8b3f-a729707c70fa-superJumbo.jpg",
+               "type" : "image"
+            },
+            {
+               "format" : "Standard Thumbnail",
+               "copyright" : "Stephanie Keith for The New York Times",
+               "caption" : "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
+               "height" : 75,
+               "width" : 75,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/01virus-airlines3-thumbStandard.jpg"
+            },
+            {
+               "caption" : "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
+               "format" : "thumbLarge",
+               "copyright" : "Stephanie Keith for The New York Times",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/01virus-airlines3-thumbLarge.jpg",
+               "width" : 150,
+               "height" : 150,
+               "subtype" : "photo"
+            },
+            {
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/01virus-airlines3-mediumThreeByTwo210.jpg",
+               "width" : 210,
+               "height" : 140,
+               "subtype" : "photo",
+               "caption" : "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
+               "format" : "mediumThreeByTwo210",
+               "copyright" : "Stephanie Keith for The New York Times"
+            },
+            {
+               "format" : "Normal",
+               "copyright" : "Stephanie Keith for The New York Times",
+               "caption" : "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
+               "height" : 127,
+               "width" : 190,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/merlin_177910275_7532e868-f622-44bb-8b3f-a729707c70fa-articleInline.jpg"
+            }
+         ],
+         "geo_facet" : [],
          "des_facet" : [
             "Airlines and Airplanes",
             "Layoffs and Job Reductions",
@@ -1383,227 +1447,151 @@
             "Stimulus (Economic)",
             "Travel and Vacations"
          ],
-         "abstract" : "With few people traveling and lawmakers deadlocked on a stimulus package, American Airlines and United Airlines are cutting more than 30,000 jobs.",
+         "section" : "business",
          "byline" : "By Niraj Chokshi",
-         "published_date" : "2020-10-01T16:56:49-04:00",
-         "short_url" : "https://nyti.ms/30GUY1N",
-         "title" : "Airlines, Facing a Painfully Slow Recovery, Begin Furloughing Thousands",
          "item_type" : "Article",
-         "multimedia" : [
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/merlin_177910275_7532e868-f622-44bb-8b3f-a729707c70fa-superJumbo.jpg",
-               "subtype" : "photo",
-               "format" : "superJumbo",
-               "copyright" : "Stephanie Keith for The New York Times",
-               "width" : 2048,
-               "caption" : "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
-               "type" : "image",
-               "height" : 1367
-            },
-            {
-               "height" : 75,
-               "type" : "image",
-               "caption" : "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
-               "width" : 75,
-               "copyright" : "Stephanie Keith for The New York Times",
-               "format" : "Standard Thumbnail",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/01virus-airlines3-thumbStandard.jpg"
-            },
-            {
-               "type" : "image",
-               "height" : 150,
-               "caption" : "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
-               "subtype" : "photo",
-               "format" : "thumbLarge",
-               "width" : 150,
-               "copyright" : "Stephanie Keith for The New York Times",
-               "url" : "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/01virus-airlines3-thumbLarge.jpg"
-            },
-            {
-               "format" : "mediumThreeByTwo210",
-               "subtype" : "photo",
-               "copyright" : "Stephanie Keith for The New York Times",
-               "width" : 210,
-               "url" : "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/01virus-airlines3-mediumThreeByTwo210.jpg",
-               "type" : "image",
-               "height" : 140,
-               "caption" : "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry."
-            },
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/merlin_177910275_7532e868-f622-44bb-8b3f-a729707c70fa-articleInline.jpg",
-               "format" : "Normal",
-               "subtype" : "photo",
-               "copyright" : "Stephanie Keith for The New York Times",
-               "width" : 190,
-               "caption" : "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
-               "type" : "image",
-               "height" : 127
-            }
-         ],
-         "updated_date" : "2020-10-02T10:38:25-04:00",
-         "created_date" : "2020-10-01T16:56:49-04:00",
-         "org_facet" : [
-            "United Airlines",
-            "American Airlines",
-            "Delta Air Lines Inc",
-            "Southwest Airlines Company",
-            "Treasury Department"
-         ],
-         "uri" : "nyt://article/47603d9e-fd93-5393-afc1-67e87bc5a653",
-         "url" : "https://www.nytimes.com/2020/10/01/business/airline-furloughs-coronavirus-united-american.html",
-         "subsection" : "",
-         "geo_facet" : []
+         "short_url" : "https://nyti.ms/30GUY1N"
       },
       {
-         "material_type_facet" : "",
+         "url" : "https://www.nytimes.com/2020/10/01/t-magazine/jw-anderson-moncler-moringa.html",
+         "uri" : "nyt://article/ca17e312-b207-5307-9768-20ce1443986b",
          "per_facet" : [],
+         "org_facet" : [
+            "Moncler (Fashion Label)"
+         ],
          "kicker" : "",
-         "section" : "t-magazine",
+         "created_date" : "2020-10-01T09:00:06-04:00",
+         "updated_date" : "2020-10-01T09:00:06-04:00",
+         "published_date" : "2020-10-01T09:00:06-04:00",
          "abstract" : "JW Anderson x Moncler, perfume for the home — and more.",
+         "geo_facet" : [
+            "Paris (France)"
+         ],
+         "byline" : "",
          "des_facet" : [
             "Art",
             "Sculpture",
             "Perfumes and Fragrances",
             "Hotels and Travel Lodgings"
          ],
-         "published_date" : "2020-10-01T09:00:06-04:00",
-         "byline" : "",
-         "item_type" : "Article",
+         "section" : "t-magazine",
          "short_url" : "https://nyti.ms/36lCQOj",
-         "title" : "The T List: Five Things We Recommend This Week",
+         "item_type" : "Article",
+         "material_type_facet" : "",
+         "subsection" : "",
          "multimedia" : [
             {
-               "caption" : "From left: a bedroom at Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
                "type" : "image",
-               "height" : 1365,
                "url" : "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-superJumbo.jpg",
+               "height" : 1365,
+               "width" : 2048,
                "subtype" : "photo",
+               "caption" : "From left: a bedroom at Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
                "format" : "superJumbo",
-               "copyright" : "Benoit Linero",
-               "width" : 2048
+               "copyright" : "Benoit Linero"
             },
             {
-               "width" : 75,
-               "copyright" : "Benoit Linero",
-               "format" : "Standard Thumbnail",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-thumbStandard.jpg",
                "height" : 75,
+               "width" : 75,
+               "subtype" : "photo",
                "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-thumbStandard.jpg",
+               "format" : "Standard Thumbnail",
+               "copyright" : "Benoit Linero",
                "caption" : "From left: a bedroom at Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite."
             },
             {
-               "height" : 150,
+               "url" : "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-thumbLarge.jpg",
                "type" : "image",
-               "caption" : "From left: a bedroom at Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
-               "width" : 150,
-               "copyright" : "Benoit Linero",
-               "format" : "thumbLarge",
                "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-thumbLarge.jpg"
+               "height" : 150,
+               "width" : 150,
+               "caption" : "From left: a bedroom at Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
+               "copyright" : "Benoit Linero",
+               "format" : "thumbLarge"
             },
             {
-               "format" : "mediumThreeByTwo210",
-               "subtype" : "photo",
+               "caption" : "From left: a bedroom at Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
                "copyright" : "Benoit Linero",
-               "width" : 210,
+               "format" : "mediumThreeByTwo210",
                "url" : "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-mediumThreeByTwo210.jpg",
                "type" : "image",
+               "subtype" : "photo",
                "height" : 140,
-               "caption" : "From left: a bedroom at Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite."
+               "width" : 210
             },
             {
-               "type" : "image",
-               "height" : 127,
-               "caption" : "From left: a bedroom at Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
-               "subtype" : "photo",
                "format" : "Normal",
-               "width" : 190,
                "copyright" : "Benoit Linero",
+               "caption" : "From left: a bedroom at Hotel Les Deux Gares in Paris with a vividly contrasting palette; a showy hotel bathroom in a bright 1930s-era suite.",
+               "height" : 127,
+               "width" : 190,
+               "subtype" : "photo",
+               "type" : "image",
                "url" : "https://static01.nyt.com/images/2020/09/30/t-magazine/30tmag-newsletter-slide-KMTA/30tmag-newsletter-slide-KMTA-articleInline.jpg"
             }
          ],
-         "org_facet" : [
-            "Moncler (Fashion Label)"
-         ],
-         "updated_date" : "2020-10-01T09:00:06-04:00",
-         "created_date" : "2020-10-01T09:00:06-04:00",
-         "uri" : "nyt://article/ca17e312-b207-5307-9768-20ce1443986b",
-         "url" : "https://www.nytimes.com/2020/10/01/t-magazine/jw-anderson-moncler-moringa.html",
-         "geo_facet" : [
-            "Paris (France)"
-         ],
-         "subsection" : ""
+         "title" : "The T List: Five Things We Recommend This Week"
       },
       {
-         "subsection" : "",
-         "geo_facet" : [
-            "Sag Harbor (NY)"
-         ],
-         "url" : "https://www.nytimes.com/2020/10/01/t-magazine/sag-harbor.html",
-         "uri" : "nyt://article/f6599037-56c4-5a4f-8374-c9312fbe4208",
-         "org_facet" : [],
-         "updated_date" : "2020-10-02T22:28:37-04:00",
-         "created_date" : "2020-10-01T08:00:21-04:00",
+         "title" : "On Long Island, a Beachfront Haven for Black Families",
          "multimedia" : [
             {
                "url" : "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-superJumbo.jpg",
-               "format" : "superJumbo",
+               "type" : "image",
                "subtype" : "photo",
+               "height" : 1091,
                "width" : 1637,
-               "copyright" : "Jon Henry",
                "caption" : "William Pickens III with his son John on their private beach.",
-               "type" : "image",
-               "height" : 1091
+               "copyright" : "Jon Henry",
+               "format" : "superJumbo"
             },
             {
-               "height" : 75,
-               "type" : "image",
-               "caption" : "William Pickens III with his son John on their private beach.",
-               "copyright" : "Jon Henry",
                "width" : 75,
-               "format" : "Standard Thumbnail",
+               "height" : 75,
                "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-thumbStandard.jpg"
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-thumbStandard.jpg",
+               "format" : "Standard Thumbnail",
+               "copyright" : "Jon Henry",
+               "caption" : "William Pickens III with his son John on their private beach."
             },
             {
-               "caption" : "William Pickens III with his son John on their private beach.",
-               "type" : "image",
                "height" : 150,
+               "width" : 150,
+               "subtype" : "photo",
+               "type" : "image",
                "url" : "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-thumbLarge.jpg",
                "format" : "thumbLarge",
-               "subtype" : "photo",
                "copyright" : "Jon Henry",
-               "width" : 150
+               "caption" : "William Pickens III with his son John on their private beach."
             },
             {
-               "url" : "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-mediumThreeByTwo210-v2.jpg",
-               "subtype" : "photo",
-               "format" : "mediumThreeByTwo210",
-               "copyright" : "Jon Henry",
-               "width" : 210,
                "caption" : "William Pickens III with his son John on their private beach.",
+               "copyright" : "Jon Henry",
+               "format" : "mediumThreeByTwo210",
+               "url" : "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-mediumThreeByTwo210-v2.jpg",
                "type" : "image",
+               "subtype" : "photo",
+               "width" : 210,
                "height" : 140
             },
             {
-               "caption" : "William Pickens III with his son John on their private beach.",
                "type" : "image",
-               "height" : 127,
                "url" : "https://static01.nyt.com/images/2020/10/01/t-magazine/01tmag-sagharbor-slide-K9P0/01tmag-sagharbor-slide-K9P0-articleInline.jpg",
-               "format" : "Normal",
-               "subtype" : "photo",
                "width" : 190,
+               "height" : 127,
+               "subtype" : "photo",
+               "caption" : "William Pickens III with his son John on their private beach.",
+               "format" : "Normal",
                "copyright" : "Jon Henry"
             }
          ],
-         "item_type" : "Article",
-         "title" : "On Long Island, a Beachfront Haven for Black Families",
+         "subsection" : "",
+         "material_type_facet" : "",
          "short_url" : "",
-         "published_date" : "2020-10-01T08:00:21-04:00",
+         "item_type" : "Article",
          "byline" : "By Sandra E. Garcia",
-         "abstract" : "In the 1930s, a group of trailblazing African-Americans bought plots for themselves in Sag Harbor, establishing a close-knit community that’s spanned multiple generations.",
          "des_facet" : [
             "Black People",
             "Families and Family Life",
@@ -1611,322 +1599,261 @@
             "Real Estate and Housing (Residential)"
          ],
          "section" : "t-magazine",
+         "geo_facet" : [
+            "Sag Harbor (NY)"
+         ],
+         "published_date" : "2020-10-01T08:00:21-04:00",
+         "abstract" : "In the 1930s, a group of trailblazing African-Americans bought plots for themselves in Sag Harbor, establishing a close-knit community that’s spanned multiple generations.",
+         "updated_date" : "2020-10-02T22:28:37-04:00",
+         "org_facet" : [],
          "kicker" : "",
+         "created_date" : "2020-10-01T08:00:21-04:00",
          "per_facet" : [],
-         "material_type_facet" : ""
+         "uri" : "nyt://article/f6599037-56c4-5a4f-8374-c9312fbe4208",
+         "url" : "https://www.nytimes.com/2020/10/01/t-magazine/sag-harbor.html"
       },
       {
-         "uri" : "nyt://article/a886e2b4-ab8c-583b-b40b-e993adbe00ae",
-         "geo_facet" : [
-            "China"
-         ],
-         "subsection" : "asia",
-         "url" : "https://www.nytimes.com/2020/10/01/world/asia/china-tourism-covid.html",
-         "title" : "China’s ‘Golden Week’ Kicks Off in Boost to Battered Tourism Industry",
-         "short_url" : "https://nyti.ms/3cNHaHm",
-         "item_type" : "Article",
-         "byline" : "By Vivian Wang",
          "published_date" : "2020-10-01T07:38:07-04:00",
+         "abstract" : "Chinese travelers are expected to fan out across the country in droves, even as anxiety about the virus and the economy lingers.",
          "updated_date" : "2020-10-02T02:45:17-04:00",
-         "created_date" : "2020-10-01T07:38:07-04:00",
          "org_facet" : [],
+         "created_date" : "2020-10-01T07:38:07-04:00",
+         "kicker" : "",
+         "per_facet" : [],
+         "url" : "https://www.nytimes.com/2020/10/01/world/asia/china-tourism-covid.html",
+         "uri" : "nyt://article/a886e2b4-ab8c-583b-b40b-e993adbe00ae",
+         "title" : "China’s ‘Golden Week’ Kicks Off in Boost to Battered Tourism Industry",
          "multimedia" : [
             {
-               "url" : "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-superJumbo-v2.jpg",
-               "copyright" : "Kevin Frayer/Getty Images",
                "width" : 2048,
-               "format" : "superJumbo",
-               "subtype" : "photo",
-               "caption" : "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China’s recovery from the pandemic.",
                "height" : 1364,
-               "type" : "image"
-            },
-            {
-               "url" : "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-thumbStandard-v2.jpg",
-               "format" : "Standard Thumbnail",
                "subtype" : "photo",
-               "copyright" : "Kevin Frayer/Getty Images",
-               "width" : 75,
-               "caption" : "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China’s recovery from the pandemic.",
                "type" : "image",
-               "height" : 75
-            },
-            {
-               "width" : 150,
+               "url" : "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-superJumbo-v2.jpg",
+               "format" : "superJumbo",
                "copyright" : "Kevin Frayer/Getty Images",
-               "format" : "thumbLarge",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-thumbLarge-v2.jpg",
-               "height" : 150,
-               "type" : "image",
                "caption" : "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China’s recovery from the pandemic."
             },
             {
-               "url" : "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-mediumThreeByTwo210-v2.jpg",
-               "width" : 210,
-               "copyright" : "Kevin Frayer/Getty Images",
+               "height" : 75,
+               "width" : 75,
                "subtype" : "photo",
-               "format" : "mediumThreeByTwo210",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-thumbStandard-v2.jpg",
+               "format" : "Standard Thumbnail",
+               "copyright" : "Kevin Frayer/Getty Images",
+               "caption" : "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China’s recovery from the pandemic."
+            },
+            {
+               "copyright" : "Kevin Frayer/Getty Images",
+               "format" : "thumbLarge",
                "caption" : "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China’s recovery from the pandemic.",
-               "height" : 140,
+               "subtype" : "photo",
+               "height" : 150,
+               "width" : 150,
+               "url" : "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-thumbLarge-v2.jpg",
                "type" : "image"
             },
             {
                "type" : "image",
-               "height" : 127,
-               "caption" : "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China’s recovery from the pandemic.",
-               "format" : "Normal",
+               "url" : "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-mediumThreeByTwo210-v2.jpg",
+               "height" : 140,
+               "width" : 210,
                "subtype" : "photo",
-               "copyright" : "Kevin Frayer/Getty Images",
+               "caption" : "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China’s recovery from the pandemic.",
+               "format" : "mediumThreeByTwo210",
+               "copyright" : "Kevin Frayer/Getty Images"
+            },
+            {
+               "subtype" : "photo",
+               "height" : 127,
                "width" : 190,
-               "url" : "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-articleInline-v2.jpg"
+               "url" : "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-articleInline-v2.jpg",
+               "type" : "image",
+               "copyright" : "Kevin Frayer/Getty Images",
+               "format" : "Normal",
+               "caption" : "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China’s recovery from the pandemic."
             }
          ],
+         "subsection" : "asia",
+         "material_type_facet" : "",
+         "item_type" : "Article",
+         "short_url" : "https://nyti.ms/3cNHaHm",
          "section" : "world",
-         "abstract" : "Chinese travelers are expected to fan out across the country in droves, even as anxiety about the virus and the economy lingers.",
          "des_facet" : [
             "Travel and Vacations",
             "Coronavirus (2019-nCoV)",
             "Shopping and Retail"
          ],
-         "material_type_facet" : "",
-         "per_facet" : [],
-         "kicker" : ""
+         "byline" : "By Vivian Wang",
+         "geo_facet" : [
+            "China"
+         ]
       },
       {
+         "title" : "Now at the Boarding Gate: Coronavirus Tests",
          "multimedia" : [
             {
-               "url" : "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-superJumbo.jpg",
                "copyright" : "Marco Garcia/Reuters",
-               "width" : 2048,
                "format" : "superJumbo",
-               "subtype" : "photo",
                "caption" : "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines.",
+               "subtype" : "photo",
+               "width" : 2048,
                "height" : 1365,
+               "url" : "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-superJumbo.jpg",
                "type" : "image"
             },
             {
-               "caption" : "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines.",
-               "height" : 75,
-               "type" : "image",
                "url" : "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-thumbStandard.jpg",
-               "copyright" : "Marco Garcia/Reuters",
+               "type" : "image",
+               "subtype" : "photo",
                "width" : 75,
-               "format" : "Standard Thumbnail",
-               "subtype" : "photo"
-            },
-            {
+               "height" : 75,
                "caption" : "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines.",
-               "height" : 150,
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-thumbLarge.jpg",
-               "width" : 150,
                "copyright" : "Marco Garcia/Reuters",
-               "format" : "thumbLarge",
-               "subtype" : "photo"
+               "format" : "Standard Thumbnail"
             },
             {
+               "format" : "thumbLarge",
+               "copyright" : "Marco Garcia/Reuters",
                "caption" : "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines.",
+               "width" : 150,
+               "height" : 150,
+               "subtype" : "photo",
                "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-thumbLarge.jpg"
+            },
+            {
+               "subtype" : "photo",
+               "width" : 210,
                "height" : 140,
                "url" : "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-mediumThreeByTwo210.jpg",
-               "subtype" : "photo",
-               "format" : "mediumThreeByTwo210",
+               "type" : "image",
                "copyright" : "Marco Garcia/Reuters",
-               "width" : 210
+               "format" : "mediumThreeByTwo210",
+               "caption" : "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines."
             },
             {
-               "copyright" : "Marco Garcia/Reuters",
-               "width" : 190,
-               "format" : "Normal",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-articleInline.jpg",
-               "height" : 127,
                "type" : "image",
-               "caption" : "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines."
+               "url" : "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-articleInline.jpg",
+               "width" : 190,
+               "height" : 127,
+               "subtype" : "photo",
+               "caption" : "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines.",
+               "format" : "Normal",
+               "copyright" : "Marco Garcia/Reuters"
             }
          ],
-         "created_date" : "2020-09-30T19:10:35-04:00",
-         "updated_date" : "2020-10-02T14:39:50-04:00",
-         "org_facet" : [
-            "United Airlines",
-            "Hawaiian Airlines Incorporated"
-         ],
-         "byline" : "By Tariro Mzezewa",
-         "published_date" : "2020-09-30T19:10:35-04:00",
-         "title" : "Now at the Boarding Gate: Coronavirus Tests",
-         "short_url" : "https://nyti.ms/36kbuIz",
-         "item_type" : "Article",
-         "url" : "https://www.nytimes.com/2020/09/30/travel/coronavirus-airlines-test.html",
          "subsection" : "",
-         "geo_facet" : [
-            "Hawaii"
-         ],
-         "uri" : "nyt://article/3040392c-eb5c-582a-bc04-1d6c223225e6",
-         "kicker" : "",
-         "per_facet" : [],
          "material_type_facet" : "",
-         "abstract" : "Airlines and airports are offering the tests as a way for travelers whose results are negative to avoid quarantines at their destinations, and to revive travelers’ faith in flying.",
+         "item_type" : "Article",
+         "short_url" : "https://nyti.ms/36kbuIz",
          "des_facet" : [
             "Coronavirus (2019-nCoV)",
             "Travel and Vacations",
             "Quarantine (Life and Culture)",
             "Airlines and Airplanes"
          ],
-         "section" : "travel"
+         "section" : "travel",
+         "byline" : "By Tariro Mzezewa",
+         "geo_facet" : [
+            "Hawaii"
+         ],
+         "abstract" : "Airlines and airports are offering the tests as a way for travelers whose results are negative to avoid quarantines at their destinations, and to revive travelers’ faith in flying.",
+         "published_date" : "2020-09-30T19:10:35-04:00",
+         "updated_date" : "2020-10-02T14:39:50-04:00",
+         "org_facet" : [
+            "United Airlines",
+            "Hawaiian Airlines Incorporated"
+         ],
+         "kicker" : "",
+         "created_date" : "2020-09-30T19:10:35-04:00",
+         "per_facet" : [],
+         "uri" : "nyt://article/3040392c-eb5c-582a-bc04-1d6c223225e6",
+         "url" : "https://www.nytimes.com/2020/09/30/travel/coronavirus-airlines-test.html"
       },
       {
-         "abstract" : "In and around the capital of Santiago, social unrest and the coronavirus pandemic have created a buyer’s market, with developers competing for clients.",
-         "des_facet" : [
-            "Real Estate and Housing (Residential)"
-         ],
-         "section" : "realestate",
          "per_facet" : [],
+         "uri" : "nyt://article/c0ba9d25-890c-5c9c-9338-95204b57a360",
+         "url" : "https://www.nytimes.com/2020/09/30/realestate/santiago-chile-house-hunting.html",
+         "org_facet" : [],
+         "created_date" : "2020-09-30T09:30:25-04:00",
          "kicker" : "International real estate",
-         "material_type_facet" : "",
-         "subsection" : "",
+         "updated_date" : "2020-10-01T22:29:48-04:00",
+         "published_date" : "2020-09-30T09:30:25-04:00",
+         "abstract" : "In and around the capital of Santiago, social unrest and the coronavirus pandemic have created a buyer’s market, with developers competing for clients.",
          "geo_facet" : [
             "Chile",
             "Santiago (Chile)"
          ],
-         "url" : "https://www.nytimes.com/2020/09/30/realestate/santiago-chile-house-hunting.html",
-         "uri" : "nyt://article/c0ba9d25-890c-5c9c-9338-95204b57a360",
-         "created_date" : "2020-09-30T09:30:25-04:00",
-         "updated_date" : "2020-10-01T22:29:48-04:00",
-         "org_facet" : [],
+         "item_type" : "Article",
+         "short_url" : "https://nyti.ms/34fHsTL",
+         "des_facet" : [
+            "Real Estate and Housing (Residential)"
+         ],
+         "section" : "realestate",
+         "byline" : "By Roxana Popescu",
+         "material_type_facet" : "",
          "multimedia" : [
             {
-               "height" : 1383,
-               "type" : "image",
-               "caption" : "An open staircase to the left of the front door ascends to the second floor. ",
+               "subtype" : "photo",
                "width" : 2048,
+               "height" : 1383,
+               "url" : "https://static01.nyt.com/images/2020/09/30/realestate/30IHH-Chile-slide-KWAP/30IHH-Chile-slide-KWAP-superJumbo.jpg",
+               "type" : "image",
                "copyright" : "Chile Sotheby’s International Realty",
-               "subtype" : "photo",
                "format" : "superJumbo",
-               "url" : "https://static01.nyt.com/images/2020/09/30/realestate/30IHH-Chile-slide-KWAP/30IHH-Chile-slide-KWAP-superJumbo.jpg"
-            },
-            {
-               "type" : "image",
-               "height" : 75,
-               "caption" : "An open staircase to the left of the front door ascends to the second floor. ",
-               "subtype" : "photo",
-               "format" : "Standard Thumbnail",
-               "width" : 75,
-               "copyright" : "Chile Sotheby’s International Realty",
-               "url" : "https://static01.nyt.com/images/2020/09/30/realestate/30IHH-Chile-slide-KWAP/30IHH-Chile-slide-KWAP-thumbStandard.jpg"
-            },
-            {
-               "copyright" : "Chile Sotheby’s International Realty",
-               "width" : 150,
-               "subtype" : "photo",
-               "format" : "thumbLarge",
-               "url" : "https://static01.nyt.com/images/2020/09/30/realestate/30IHH-Chile-slide-KWAP/30IHH-Chile-slide-KWAP-thumbLarge.jpg",
-               "height" : 150,
-               "type" : "image",
                "caption" : "An open staircase to the left of the front door ascends to the second floor. "
             },
             {
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/09/30/realestate/30IHH-Chile-slide-KWAP/30IHH-Chile-slide-KWAP-thumbStandard.jpg",
+               "height" : 75,
+               "width" : 75,
+               "subtype" : "photo",
                "caption" : "An open staircase to the left of the front door ascends to the second floor. ",
-               "height" : 140,
+               "format" : "Standard Thumbnail",
+               "copyright" : "Chile Sotheby’s International Realty"
+            },
+            {
+               "caption" : "An open staircase to the left of the front door ascends to the second floor. ",
+               "format" : "thumbLarge",
+               "copyright" : "Chile Sotheby’s International Realty",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/09/30/realestate/30IHH-Chile-slide-KWAP/30IHH-Chile-slide-KWAP-thumbLarge.jpg",
+               "width" : 150,
+               "height" : 150,
+               "subtype" : "photo"
+            },
+            {
+               "caption" : "An open staircase to the left of the front door ascends to the second floor. ",
+               "format" : "mediumThreeByTwo210",
+               "copyright" : "Chile Sotheby’s International Realty",
                "type" : "image",
                "url" : "https://static01.nyt.com/images/2020/09/30/realestate/30IHH-Chile-slide-KWAP/30IHH-Chile-slide-KWAP-mediumThreeByTwo210.jpg",
+               "height" : 140,
                "width" : 210,
-               "copyright" : "Chile Sotheby’s International Realty",
-               "subtype" : "photo",
-               "format" : "mediumThreeByTwo210"
+               "subtype" : "photo"
             },
             {
-               "url" : "https://static01.nyt.com/images/2020/09/30/realestate/30IHH-Chile-slide-KWAP/30IHH-Chile-slide-KWAP-articleInline.jpg",
-               "format" : "Normal",
-               "subtype" : "photo",
-               "width" : 190,
-               "copyright" : "Chile Sotheby’s International Realty",
                "caption" : "An open staircase to the left of the front door ascends to the second floor. ",
+               "format" : "Normal",
+               "copyright" : "Chile Sotheby’s International Realty",
                "type" : "image",
-               "height" : 128
+               "url" : "https://static01.nyt.com/images/2020/09/30/realestate/30IHH-Chile-slide-KWAP/30IHH-Chile-slide-KWAP-articleInline.jpg",
+               "height" : 128,
+               "width" : 190,
+               "subtype" : "photo"
             }
          ],
-         "short_url" : "https://nyti.ms/34fHsTL",
          "title" : "House Hunting in Chile: A Bright, Modern Villa in the Andes for $1.3 Million",
-         "item_type" : "Article",
-         "byline" : "By Roxana Popescu",
-         "published_date" : "2020-09-30T09:30:25-04:00"
+         "subsection" : ""
       },
       {
-         "updated_date" : "2020-09-30T18:05:30-04:00",
-         "created_date" : "2020-09-30T03:00:12-04:00",
-         "org_facet" : [
-            "American Airlines",
-            "Delta Air Lines Inc",
-            "US Airways Group Inc"
-         ],
-         "multimedia" : [
-            {
-               "url" : "https://static01.nyt.com/images/2020/09/30/business/00airlineprofiles1a/merlin_177103398_a50cd36e-352b-4fc9-b8b5-b11b60d9dc9f-superJumbo.jpg",
-               "subtype" : "photo",
-               "format" : "superJumbo",
-               "width" : 2048,
-               "copyright" : "Horatio Baltz for The New York Times",
-               "caption" : "Steven Ray Littles II left his job as a Delta Air Lines flight attendant and plans to pursue a hobby in drone photography as a business.",
-               "type" : "image",
-               "height" : 1365
-            },
-            {
-               "caption" : "Steven Ray Littles II left his job as a Delta Air Lines flight attendant and plans to pursue a hobby in drone photography as a business.",
-               "type" : "image",
-               "height" : 75,
-               "url" : "https://static01.nyt.com/images/2020/09/30/business/00airlineprofiles1a/merlin_177103398_a50cd36e-352b-4fc9-b8b5-b11b60d9dc9f-thumbStandard.jpg",
-               "subtype" : "photo",
-               "format" : "Standard Thumbnail",
-               "copyright" : "Horatio Baltz for The New York Times",
-               "width" : 75
-            },
-            {
-               "height" : 150,
-               "type" : "image",
-               "caption" : "Steven Ray Littles II left his job as a Delta Air Lines flight attendant and plans to pursue a hobby in drone photography as a business.",
-               "copyright" : "Horatio Baltz for The New York Times",
-               "width" : 150,
-               "subtype" : "photo",
-               "format" : "thumbLarge",
-               "url" : "https://static01.nyt.com/images/2020/09/30/business/00airlineprofiles1a/merlin_177103398_a50cd36e-352b-4fc9-b8b5-b11b60d9dc9f-thumbLarge.jpg"
-            },
-            {
-               "type" : "image",
-               "height" : 140,
-               "caption" : "Steven Ray Littles II left his job as a Delta Air Lines flight attendant and plans to pursue a hobby in drone photography as a business.",
-               "subtype" : "photo",
-               "format" : "mediumThreeByTwo210",
-               "width" : 210,
-               "copyright" : "Horatio Baltz for The New York Times",
-               "url" : "https://static01.nyt.com/images/2020/09/30/business/00airlineprofiles1a/merlin_177103398_a50cd36e-352b-4fc9-b8b5-b11b60d9dc9f-mediumThreeByTwo210.jpg"
-            },
-            {
-               "height" : 127,
-               "type" : "image",
-               "caption" : "Steven Ray Littles II left his job as a Delta Air Lines flight attendant and plans to pursue a hobby in drone photography as a business.",
-               "width" : 190,
-               "copyright" : "Horatio Baltz for The New York Times",
-               "format" : "Normal",
-               "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/09/30/business/00airlineprofiles1a/merlin_177103398_a50cd36e-352b-4fc9-b8b5-b11b60d9dc9f-articleInline.jpg"
-            }
-         ],
-         "title" : "Pandemic Convinces Airline Workers It’s Time for New Horizons",
-         "short_url" : "https://nyti.ms/2HM7Kp7",
-         "item_type" : "Article",
-         "byline" : "By Niraj Chokshi",
-         "published_date" : "2020-09-30T03:00:12-04:00",
          "geo_facet" : [
             "United States"
          ],
-         "subsection" : "",
-         "url" : "https://www.nytimes.com/2020/09/30/business/airline-worker-furloughs-coronavirus.html",
-         "uri" : "nyt://article/625bc55f-c4d1-5722-b302-c34621bccf29",
-         "per_facet" : [],
-         "kicker" : "",
-         "material_type_facet" : "",
-         "abstract" : "Pilots, flight attendants and other staff are retiring early or taking buyouts and leaves of absence in anticipation of a slow recovery.",
+         "section" : "business",
          "des_facet" : [
             "Airlines and Airplanes",
             "Layoffs and Job Reductions",
@@ -1938,90 +1865,163 @@
             "Recession and Depression",
             "Seniority Systems"
          ],
-         "section" : "business"
-      },
-      {
-         "uri" : "nyt://article/db7b7323-5863-5770-9436-6bfd88e21ef4",
-         "url" : "https://www.nytimes.com/2020/09/29/business/disney-theme-park-workers-layoffs.html",
-         "geo_facet" : [
-            "Orlando (Fla)",
-            "Anaheim (Calif)"
-         ],
-         "subsection" : "",
-         "published_date" : "2020-09-29T18:11:16-04:00",
-         "byline" : "By Brooks Barnes",
+         "byline" : "By Niraj Chokshi",
          "item_type" : "Article",
-         "short_url" : "https://nyti.ms/3jrwSiw",
-         "title" : "Disney Lays Off 28,000, Mostly at Its 2 U.S. Theme Parks",
+         "short_url" : "https://nyti.ms/2HM7Kp7",
+         "material_type_facet" : "",
+         "subsection" : "",
+         "title" : "Pandemic Convinces Airline Workers It’s Time for New Horizons",
          "multimedia" : [
             {
-               "subtype" : "photo",
+               "caption" : "Steven Ray Littles II left his job as a Delta Air Lines flight attendant and plans to pursue a hobby in drone photography as a business.",
                "format" : "superJumbo",
-               "copyright" : "Eve Edelheit for The New York Times",
+               "copyright" : "Horatio Baltz for The New York Times",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/09/30/business/00airlineprofiles1a/merlin_177103398_a50cd36e-352b-4fc9-b8b5-b11b60d9dc9f-superJumbo.jpg",
                "width" : 2048,
-               "url" : "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/merlin_174472296_32307c27-5349-40c0-b271-a6d7e6cda24a-superJumbo.jpg",
-               "type" : "image",
                "height" : 1365,
-               "caption" : "Attendance has been weaker than the company anticipated."
+               "subtype" : "photo"
             },
             {
-               "type" : "image",
-               "height" : 75,
-               "caption" : "Attendance has been weaker than the company anticipated.",
                "format" : "Standard Thumbnail",
-               "subtype" : "photo",
+               "copyright" : "Horatio Baltz for The New York Times",
+               "caption" : "Steven Ray Littles II left his job as a Delta Air Lines flight attendant and plans to pursue a hobby in drone photography as a business.",
+               "height" : 75,
                "width" : 75,
-               "copyright" : "Eve Edelheit for The New York Times",
-               "url" : "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/25virus-disneyparks-3-thumbStandard.jpg"
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/09/30/business/00airlineprofiles1a/merlin_177103398_a50cd36e-352b-4fc9-b8b5-b11b60d9dc9f-thumbStandard.jpg"
             },
             {
-               "copyright" : "Eve Edelheit for The New York Times",
-               "width" : 150,
+               "copyright" : "Horatio Baltz for The New York Times",
                "format" : "thumbLarge",
+               "caption" : "Steven Ray Littles II left his job as a Delta Air Lines flight attendant and plans to pursue a hobby in drone photography as a business.",
                "subtype" : "photo",
-               "url" : "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/25virus-disneyparks-3-thumbLarge.jpg",
+               "width" : 150,
                "height" : 150,
-               "type" : "image",
-               "caption" : "Attendance has been weaker than the company anticipated."
+               "url" : "https://static01.nyt.com/images/2020/09/30/business/00airlineprofiles1a/merlin_177103398_a50cd36e-352b-4fc9-b8b5-b11b60d9dc9f-thumbLarge.jpg",
+               "type" : "image"
             },
             {
-               "type" : "image",
-               "height" : 140,
-               "caption" : "Attendance has been weaker than the company anticipated.",
-               "subtype" : "photo",
+               "caption" : "Steven Ray Littles II left his job as a Delta Air Lines flight attendant and plans to pursue a hobby in drone photography as a business.",
                "format" : "mediumThreeByTwo210",
+               "copyright" : "Horatio Baltz for The New York Times",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/09/30/business/00airlineprofiles1a/merlin_177103398_a50cd36e-352b-4fc9-b8b5-b11b60d9dc9f-mediumThreeByTwo210.jpg",
                "width" : 210,
-               "copyright" : "Eve Edelheit for The New York Times",
-               "url" : "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/merlin_174472296_32307c27-5349-40c0-b271-a6d7e6cda24a-mediumThreeByTwo210.jpg"
+               "height" : 140,
+               "subtype" : "photo"
             },
             {
-               "url" : "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/merlin_174472296_32307c27-5349-40c0-b271-a6d7e6cda24a-articleInline.jpg",
-               "width" : 190,
-               "copyright" : "Eve Edelheit for The New York Times",
+               "copyright" : "Horatio Baltz for The New York Times",
                "format" : "Normal",
+               "caption" : "Steven Ray Littles II left his job as a Delta Air Lines flight attendant and plans to pursue a hobby in drone photography as a business.",
                "subtype" : "photo",
-               "caption" : "Attendance has been weaker than the company anticipated.",
                "height" : 127,
+               "width" : 190,
+               "url" : "https://static01.nyt.com/images/2020/09/30/business/00airlineprofiles1a/merlin_177103398_a50cd36e-352b-4fc9-b8b5-b11b60d9dc9f-articleInline.jpg",
                "type" : "image"
             }
          ],
+         "uri" : "nyt://article/625bc55f-c4d1-5722-b302-c34621bccf29",
+         "url" : "https://www.nytimes.com/2020/09/30/business/airline-worker-furloughs-coronavirus.html",
+         "per_facet" : [],
+         "kicker" : "",
+         "org_facet" : [
+            "American Airlines",
+            "Delta Air Lines Inc",
+            "US Airways Group Inc"
+         ],
+         "created_date" : "2020-09-30T03:00:12-04:00",
+         "updated_date" : "2020-09-30T18:05:30-04:00",
+         "abstract" : "Pilots, flight attendants and other staff are retiring early or taking buyouts and leaves of absence in anticipation of a slow recovery.",
+         "published_date" : "2020-09-30T03:00:12-04:00"
+      },
+      {
+         "per_facet" : [],
+         "uri" : "nyt://article/db7b7323-5863-5770-9436-6bfd88e21ef4",
+         "url" : "https://www.nytimes.com/2020/09/29/business/disney-theme-park-workers-layoffs.html",
          "org_facet" : [
             "Walt Disney Company",
             "Disney, Walt, World (Lake Buena Vista, Fla)",
             "Disneyland (Anaheim, Calif)"
          ],
+         "kicker" : "",
          "created_date" : "2020-09-29T18:11:16-04:00",
          "updated_date" : "2020-09-30T12:19:55-04:00",
-         "section" : "business",
          "abstract" : "The company said it would eliminate thousands of jobs at its resorts in Florida and California, which have been hit hard by the pandemic.",
+         "published_date" : "2020-09-29T18:11:16-04:00",
+         "geo_facet" : [
+            "Orlando (Fla)",
+            "Anaheim (Calif)"
+         ],
+         "item_type" : "Article",
+         "short_url" : "https://nyti.ms/3jrwSiw",
          "des_facet" : [
             "Amusement and Theme Parks",
             "Layoffs and Job Reductions",
             "Coronavirus (2019-nCoV)"
          ],
+         "section" : "business",
+         "byline" : "By Brooks Barnes",
          "material_type_facet" : "",
-         "per_facet" : [],
-         "kicker" : ""
+         "title" : "Disney Lays Off 28,000, Mostly at Its 2 U.S. Theme Parks",
+         "multimedia" : [
+            {
+               "caption" : "Attendance has been weaker than the company anticipated.",
+               "copyright" : "Eve Edelheit for The New York Times",
+               "format" : "superJumbo",
+               "url" : "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/merlin_174472296_32307c27-5349-40c0-b271-a6d7e6cda24a-superJumbo.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "height" : 1365,
+               "width" : 2048
+            },
+            {
+               "caption" : "Attendance has been weaker than the company anticipated.",
+               "format" : "Standard Thumbnail",
+               "copyright" : "Eve Edelheit for The New York Times",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/25virus-disneyparks-3-thumbStandard.jpg",
+               "height" : 75,
+               "width" : 75,
+               "subtype" : "photo"
+            },
+            {
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/25virus-disneyparks-3-thumbLarge.jpg",
+               "height" : 150,
+               "width" : 150,
+               "subtype" : "photo",
+               "caption" : "Attendance has been weaker than the company anticipated.",
+               "format" : "thumbLarge",
+               "copyright" : "Eve Edelheit for The New York Times"
+            },
+            {
+               "height" : 140,
+               "width" : 210,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/merlin_174472296_32307c27-5349-40c0-b271-a6d7e6cda24a-mediumThreeByTwo210.jpg",
+               "format" : "mediumThreeByTwo210",
+               "copyright" : "Eve Edelheit for The New York Times",
+               "caption" : "Attendance has been weaker than the company anticipated."
+            },
+            {
+               "url" : "https://static01.nyt.com/images/2020/09/25/business/25virus-disneyparks-3/merlin_174472296_32307c27-5349-40c0-b271-a6d7e6cda24a-articleInline.jpg",
+               "type" : "image",
+               "subtype" : "photo",
+               "height" : 127,
+               "width" : 190,
+               "caption" : "Attendance has been weaker than the company anticipated.",
+               "copyright" : "Eve Edelheit for The New York Times",
+               "format" : "Normal"
+            }
+         ],
+         "subsection" : ""
       }
-   ]
+   ],
+   "last_updated" : "2020-10-09T06:19:11-04:00",
+   "status" : "OK",
+   "num_results" : 25
 }
