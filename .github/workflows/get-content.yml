@@ -80,13 +80,13 @@ jobs:
 
       - name: Get NYT Top Stories
         run: |
-          OUTPUT_FILE=us.json
+          OUTPUT_FILE=travel.json
           mkdir -p nyt && cd nyt
 
           curl -X GET \
             --silent \
             -H 'content-type: application/json' \
-            https://api.nytimes.com/svc/topstories/v2/us.json?api-key=${{secrets.NYT_API_KEY}} | json_pp > $OUTPUT_FILE
+            https://api.nytimes.com/svc/topstories/v2/travel.json?api-key=${{secrets.NYT_API_KEY}} | json_pp > $OUTPUT_FILE
 
           git config --global user.name $GITHUB_ACTOR
-          git add . && git commit -am "Updated NYT Top Stories" && git push
+          git add . && git commit -am "Updated NYT Top Stories on Travel" && git push
