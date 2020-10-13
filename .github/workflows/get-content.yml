@@ -91,4 +91,4 @@ jobs:
             https://api.nytimes.com/svc/topstories/v2/movies.json?api-key=${{secrets.NYT_API_KEY}} | json_pp > $OUTPUT_FILE
             
           git config --global user.name $GITHUB_ACTOR
-          git add . && git commit -am "Updated Top Stories on Travel" && git push
+          git add . && git commit -am "Updated Top Stories on Movies" && git push
