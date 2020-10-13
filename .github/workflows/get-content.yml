@@ -87,6 +87,12 @@ jobs:
             --silent \
             -H 'content-type: application/json' \
             https://api.nytimes.com/svc/topstories/v2/travel.json?api-key=${{secrets.NYT_API_KEY}} | json_pp > $OUTPUT_FILE
-
+            
+            
+          curl -X GET \
+            --silent \
+            -H 'content-type: application/json' \
+            https://api.nytimes.com/svc/topstories/v2/movies.json?api-key=${{secrets.NYT_API_KEY}} | json_pp > movies.json
+            
           git config --global user.name $GITHUB_ACTOR
           git add . && git commit -am "Updated NYT Top Stories on Travel" && git push
