@@ -82,8 +82,6 @@ jobs:
         run: |
           OUTPUT_FILE=movies.json
           mkdir -p nyt && cd nyt
-          git rm movies.json
-          git commit -m "only one copy at a time" && git push
           
           curl -X GET \
             --silent \
