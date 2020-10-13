@@ -78,21 +78,17 @@ jobs:
           git config --global user.name $GITHUB_ACTOR
           git add . && git commit -am "Updated USD exchange rates" && git push
 
-      - name: Get NYT Top Stories
+      - name: Get Top Stories
         run: |
-          OUTPUT_FILE=travel.json
+          OUTPUT_FILE=movies.json
           mkdir -p nyt && cd nyt
-
+          git rm movies.json
+          git commit -m "only one copy at a time" && git push
+          
           curl -X GET \
             --silent \
             -H 'content-type: application/json' \
-            https://api.nytimes.com/svc/topstories/v2/travel.json?api-key=${{secrets.NYT_API_KEY}} | json_pp > $OUTPUT_FILE
-            
-            
-          curl -X GET \
-            --silent \
-            -H 'content-type: application/json' \
-            https://api.nytimes.com/svc/topstories/v2/movies.json?api-key=${{secrets.NYT_API_KEY}} | json_pp > movies.json
+            https://api.nytimes.com/svc/topstories/v2/movies.json?api-key=${{secrets.NYT_API_KEY}} | json_pp >$(OUTPUT_FILE)
             
           git config --global user.name $GITHUB_ACTOR
-          git add . && git commit -am "Updated NYT Top Stories on Travel" && git push
+          git add . && git commit -am "Updated Top Stories on Travel" && git push
