@@ -1,51 +1,91 @@
 {
+   "status" : "ok",
    "articles" : [
       {
-         "author" : "Lucas Manfredi",
-         "publishedAt" : "2020-10-21T01:12:32Z",
-         "description" : "Amazon is looking to take the suburbs of \"The Windy City\" by storm with its latest grocery concept and wants to hire 1,500 people to help do it.",
-         "title" : "Amazon has 1,500 'fresh' jobs to be filled for new grocery stores in Chicago suburbs - Fox Business",
-         "url" : "https://www.foxbusiness.com/lifestyle/amazon-has-1500-fresh-jobs-to-be-filled-for-new-grocery-stores-in-chicago-suburbs",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Welcome-to-Amazon-Fresh.jpg?ve=1&tl=1",
+         "urlToImage" : "https://i.ytimg.com/vi/r1dEOFB0MCk/maxresdefault.jpg",
+         "content" : null,
+         "description" : "The DOJ accuses the tech giant of illegally controlling search and stifling competition, saying they are the “monopoly gatekeeper for the internet.”",
+         "author" : null,
+         "title" : "US Justice Department files antitrust lawsuit against Google - ABC News",
+         "url" : "https://www.youtube.com/watch?v=r1dEOFB0MCk",
+         "publishedAt" : "2020-10-21T02:12:43Z",
          "source" : {
             "id" : null,
-            "name" : "Fox Business"
+            "name" : "YouTube"
+         }
+      },
+      {
+         "source" : {
+            "name" : "Ars Technica",
+            "id" : "ars-technica"
          },
-         "content" : "Amazon is looking to take the suburbs of \"The Windy City\" by storm with its latest grocery concept and wants to hire 1,500 people to help do it.\r\nWHOLE FOODS' CUSTOMERS, EMPLOYEES UNHAPPY WITH STRICT… [+2138 chars]"
+         "publishedAt" : "2020-10-21T02:02:12Z",
+         "url" : "https://arstechnica.com/information-technology/2020/10/trickbot-the-for-hire-botnet-microsoft-attacked-is-scrambling-to-stay-alive/",
+         "title" : "Trickbot—the for-hire botnet Microsoft attacked—is scrambling to stay alive - Ars Technica",
+         "description" : "It's still not dead, but thanks to an industrywide effort, it's currently dormant.",
+         "author" : "Dan Goodin",
+         "content" : "People outside of Microsoft agreed that the takedown appears to be achieving results. Marcus Hutchins, a researcher who closely follows botnets, said that Trickbot has two classes of servers. Command… [+1500 chars]",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2019/09/botnet5-760x380.jpg"
+      },
+      {
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/AP20291592090212.jpg?ve=1&tl=1",
+         "author" : "Lucas Manfredi",
+         "description" : "\"In the event the company determines that these sources of liquidity will not be available to it or will not allow it to meet its obligations as they become due, it would likely seek an in-court or out-of-court restructuring of its liabilities,\" AMC said in a…",
+         "content" : "AMC Theatres announced its latest effort Tuesday to raise capital as the struggling cinema chain looks to stay afloat as movie theatres across the globe continue to be slammed by the coronavirus pand… [+3549 chars]",
+         "url" : "https://www.foxbusiness.com/markets/amc-warns-investors-of-potential-bankruptcy-as-company-looks-to-raise-cash-through-sale-of-15-million-shares",
+         "title" : "AMC warns investors of potential bankruptcy as company looks to raise cash through sale of 15 million shares - Fox Business",
+         "publishedAt" : "2020-10-21T02:00:29Z",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         }
+      },
+      {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106437525-1583960270288gettyimages-1211670444.jpeg?v=1583960342",
+         "publishedAt" : "2020-10-21T01:59:00Z",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "content" : "Amazon will allow employees who can work from home to do so through June 2021, CNBC confirmed Tuesday. \r\n\"We continue to prioritize the health of our employees and follow local government guidance,\" … [+1209 chars]",
+         "author" : "Annie Palmer",
+         "description" : "Amazon follows in the footsteps of several tech companies that have extended their work from home policies until at least early 2021.",
+         "title" : "Amazon employees can work remotely through June 2021 - CNBC",
+         "url" : "https://www.cnbc.com/2020/10/21/amazon-coronavirus-work-from-home-policy-extended-through-june-2021.html"
       },
       {
          "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-coronavirus-stimulus-deadline-netflix-earnings-snap-earnings/",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/12/Stock-Whitehouse-01-adobe.jpg",
+         "title" : "Dow Jones Futures Jump 100 Points On Stimulus News; Netflix Plunges, While Snap Soars 24% On Earnings - Investor's Business Daily",
+         "author" : "Investor's Business Daily",
+         "description" : "Dow Jones futures jumped 100 points on coronavirus stimulus news late Tuesday. Netflix plunged 7%, while Snap soared 24% on earnings.",
+         "content" : "Dow Jones futures were higher, along with S&amp;P 500 and Nasdaq 100 futures, late Tuesday, as the stock market rally hits the coronavirus stimulus deadline. Tech giants Apple, Nvidia, PayPal, Shopif… [+8427 chars]",
          "source" : {
             "id" : null,
             "name" : "Investor's Business Daily"
          },
-         "content" : "Dow Jones futures were higher, along with S&amp;P 500 and Nasdaq 100 futures, late Tuesday, as the stock market rally hits the coronavirus stimulus deadline. Tech giants Apple, Nvidia, PayPal, Shopif… [+8427 chars]",
-         "author" : "Investor's Business Daily",
          "publishedAt" : "2020-10-21T01:01:00Z",
-         "title" : "Dow Jones Futures Jump 100 Points On Stimulus News; Netflix Plunges, While Snap Soars 24% On Earnings - Investor's Business Daily",
-         "description" : "Dow Jones futures jumped 100 points on coronavirus stimulus news late Tuesday. Netflix plunged 7%, while Snap soared 24% on earnings."
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/12/Stock-Whitehouse-01-adobe.jpg"
       },
       {
+         "title" : "2022 GMC Hummer EV revealed: photos, features, and specs - Business Insider - Business Insider",
+         "url" : "https://www.businessinsider.com/gmc-hummer-ev-electric-pickup-truck-photos-features-specs-2020-10",
+         "content" : "General Motors shut down the Hummer brand back in 2010, but now the nameplate — which calls to mind excessively large, gas-gulping, CO2-spewing SUVs — is back for an unexpected second go. \r\nGMC unvei… [+1026 chars]",
+         "author" : "Tim Levin",
+         "description" : "GMC just showed off its new electric pickup that'll take on Tesla's Cybertruck, Rivian's R1T, and Ford's battery-powered F-150.",
          "source" : {
             "name" : "Business Insider",
             "id" : "business-insider"
          },
-         "urlToImage" : "https://i.insider.com/5f8f8012dace450018a3e58b?width=1200&format=jpeg",
-         "content" : "General Motors shut down the Hummer brand back in 2010, but now the nameplate — which calls to mind excessively large, gas-gulping, CO2-spewing SUVs — is back for an unexpected second go. \r\nGMC unvei… [+1026 chars]",
-         "url" : "https://www.businessinsider.com/gmc-hummer-ev-electric-pickup-truck-photos-features-specs-2020-10",
          "publishedAt" : "2020-10-21T00:54:10Z",
-         "title" : "2022 GMC Hummer EV revealed: photos, features, and specs - Business Insider - Business Insider",
-         "description" : "GMC just showed off its new electric pickup that'll take on Tesla's Cybertruck, Rivian's R1T, and Ford's battery-powered F-150.",
-         "author" : "Tim Levin"
+         "urlToImage" : "https://i.insider.com/5f8f8012dace450018a3e58b?width=1200&format=jpeg"
       },
       {
+         "content" : "A group of Apollo Global Management Inc.s independent board members will review Chief Executive Leon Blacks relationship with disgraced financier Jeffrey Epstein, according to people familiar with th… [+1069 chars]",
+         "description" : "Law firm Dechert is selected to examine private-equity firm CEO’s dealings with disgraced financier",
          "author" : "Miriam Gottfried",
          "title" : "Apollo Board Panel to Review Leon Black’s Ties With Jeffrey Epstein - The Wall Street Journal",
-         "description" : "Law firm Dechert is selected to examine private-equity firm CEO’s dealings with disgraced financier",
-         "publishedAt" : "2020-10-21T00:33:00Z",
          "url" : "https://www.wsj.com/articles/apollo-board-panel-to-review-leon-blacks-ties-with-jeffrey-epstein-11603240418",
-         "content" : "A group of Apollo Global Management Inc.s independent board members will review Chief Executive Leon Blacks relationship with disgraced financier Jeffrey Epstein, according to people familiar with th… [+1069 chars]",
+         "publishedAt" : "2020-10-21T00:33:00Z",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
@@ -53,116 +93,103 @@
          "urlToImage" : "https://images.wsj.net/im-247313/social"
       },
       {
-         "content" : "Elon Musk announced that Tesla’s Full Self-Driving beta test will indeed be rolled out tonight. The Full Self-Driving beta will feature improvements from Tesla’s Autopilot rewrite. Musk has described… [+2925 chars]",
-         "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2019/09/Tesla-full-self-driving-visual.jpg",
+         "description" : "The departure \"was not voluntary,\" said Lacey Mase, one of several senior aides who said Attorney General Ken Paxton used his office to serve the interests of a donor.",
+         "author" : "Emma Platoff",
+         "content" : "Lacey Mase, one of the top aides who accused Texas Attorney General Ken Paxton of crimes including bribery and abuse of office, has been fired, she told The Texas Tribune on Tuesday evening.\r\nIt was … [+2679 chars]",
+         "url" : "https://www.texastribune.org/2020/10/20/texas-attorney-general-ken-paxton-aide-fired/",
+         "title" : "Aide in Texas AG Ken Paxton's office fired after accusing him of bribery - The Texas Tribune",
+         "publishedAt" : "2020-10-21T00:24:00Z",
          "source" : {
-            "name" : "Teslarati",
-            "id" : null
+            "id" : null,
+            "name" : "The Texas Tribune"
          },
-         "url" : "https://www.teslarati.com/tesla-fsd-beta-release-date-confirmed-elon-musk/",
-         "title" : "Tesla’s limited Full Self-Driving beta is rolling out tonight, confirms Elon Musk - Teslarati",
-         "description" : "Elon Musk announced that Tesla’s Full Self-Driving beta test will indeed be rolled out tonight. The Full Self-Driving beta will feature improvements from Tesla’s Autopilot rewrite. Musk has described the upcoming FSD beta as “profound,” which has only fueled …",
-         "publishedAt" : "2020-10-21T00:11:31Z",
-         "author" : "Maria Merano"
+         "urlToImage" : "https://thumbnails.texastribune.org/_G3sPxBFBYP-Bp4ckIPr5uaW7PU=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/0a9a66d482dfdd179dddc39f64c5c0e9/Lacey%20Mase%20TT.jpg"
       },
       {
-         "publishedAt" : "2020-10-21T00:01:00Z",
-         "description" : null,
-         "title" : "Cathay to Cut Over 5,000 Hong Kong Jobs; Close Dragon Brand - Bloomberg",
-         "author" : null,
+         "urlToImage" : null,
          "source" : {
             "id" : "bloomberg",
             "name" : "Bloomberg"
          },
-         "urlToImage" : null,
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
-         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=030b3aa0-1349-11eb-b523-9f8edb66c2d2&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMC0yMS9jYXRoYXktcGFjaWZpYy10by1zbGFzaC04LTUwMC1qb2JzLXNodXQtZHJhZ29uLXVuaXQtYW1pZC12aXJ1cw=="
+         "publishedAt" : "2020-10-21T00:01:00Z",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=030b3aa0-1349-11eb-b523-9f8edb66c2d2&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMC0yMS9jYXRoYXktcGFjaWZpYy10by1zbGFzaC04LTUwMC1qb2JzLXNodXQtZHJhZ29uLXVuaXQtYW1pZC12aXJ1cw==",
+         "title" : "Cathay to Cut Over 5,000 Hong Kong Jobs; Close Dragon Brand - Bloomberg",
+         "author" : null,
+         "description" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot."
       },
       {
-         "author" : "Clare Duffy, CNN Business",
-         "description" : "If you've ever wanted to wear a T-shirt made of discarded crab shells, now's your chance.",
-         "title" : "Maker of insanely popular shoes moves into eco-friendly clothing - CNN",
+         "description" : "Elon Musk confirmed that Tesla is starting the rollout of its Full Self-Driving Beta update, which the CEO says “will be extremely slow and cautious.” We have been expecting the update for a while now. Over the last few months, Elon Musk has been talking abou…",
+         "author" : null,
+         "content" : "Elon Musk confirmed that Tesla is starting the rollout of its Full Self-Driving Beta update, which the CEO says “will be extremely slow and cautious.”\r\nWe have been expecting the update for a while n… [+1966 chars]",
+         "url" : "https://electrek.co/2020/10/20/tesla-full-self-driving-beta-rollout-elon-musk-slow-cautious/",
+         "title" : "Tesla starts Full Self-Driving Beta rollout, Elon Musk says it ‘will be extremely slow and cautious’ - Electrek",
+         "publishedAt" : "2020-10-20T23:54:00Z",
+         "source" : {
+            "name" : "Electrek",
+            "id" : null
+         },
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all"
+      },
+      {
          "publishedAt" : "2020-10-20T23:49:00Z",
-         "url" : "https://www.cnn.com/2020/10/20/business/allbirds-sustainable-apparel/index.html",
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201020115724-02-allbirds-apparel-super-tease.jpg",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         }
+         },
+         "description" : "If you've ever wanted to wear a T-shirt made of discarded crab shells, now's your chance.",
+         "author" : "Clare Duffy, CNN Business",
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/10/20/business/allbirds-sustainable-apparel/index.html",
+         "title" : "Maker of insanely popular shoes moves into eco-friendly clothing - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201020115724-02-allbirds-apparel-super-tease.jpg"
       },
       {
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         },
+         "publishedAt" : "2020-10-20T23:06:01Z",
+         "title" : "Ford will use its Escape SUV to power a self-driving car service - Engadget",
+         "url" : "https://www.engadget.com/ford-fourth-generation-self-driving-car-223830133.html",
+         "content" : "As for the vehicle itself, it builds on the company’s Escape SUV, instead of the Fusion sedan Ford had used for its previous generation testbeds. New to the fourth-generation model is a high-resoluti… [+916 chars]",
+         "description" : "Ford believes it’s one step closer to offering a commercial self-driving car service.",
+         "author" : "",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F9c0f4620-1320-11eb-afb1-ac6b58ef64e0&client=amp-blogside-v2&signature=2eef1478837c7990561a022fe8cca1f902966d03"
+      },
+      {
+         "url" : "https://www.youtube.com/watch?v=WbXUblJl4iY",
+         "title" : "Jim Cramer on the best marijuana plays on a Democratic sweep - CNBC Television",
+         "description" : "Stick to the picks and shovels plays or the vertically integrated operators that are actually profitable, the \"Mad Money\" host said.",
+         "author" : null,
+         "content" : null,
          "source" : {
             "name" : "YouTube",
             "id" : null
          },
-         "urlToImage" : "https://i.ytimg.com/vi/lcH-AWr8nwg/hqdefault.jpg",
-         "content" : null,
-         "url" : "https://www.youtube.com/watch?v=lcH-AWr8nwg",
-         "publishedAt" : "2020-10-20T23:05:35Z",
-         "description" : "Most stocks that work under Trump will also work under Biden, and vice versa, the \"Mad Money\" host said.",
-         "title" : "Cramer on building a Biden portfolio: China, solar and cannabis stocks - CNBC Television",
-         "author" : null
+         "publishedAt" : "2020-10-20T23:02:43Z",
+         "urlToImage" : "https://i.ytimg.com/vi/WbXUblJl4iY/hqdefault.jpg"
       },
       {
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "publishedAt" : "2020-10-20T22:53:00Z",
+         "title" : "Netflix shares fall after it reports slowing subscriber growth - CNN",
          "url" : "https://www.cnn.com/2020/10/20/media/netflix-q3-earnings/index.html",
          "content" : "New York (CNN Business)Netflix stock fell around 5% in after-hours trading Tuesday after the company posted slowing growth in new subscriptions and lower-than-expected profits, a sign that the stream… [+5219 chars]",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201020150544-03-netflix---stock-super-tease.jpg",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "author" : "Clare Duffy, CNN Business",
          "description" : "Netflix stock fell around 5% in after-hours trading Tuesday after the company posted slowing growth in new subscriptions and lower-than-expected profits, a sign that the streaming giant's pandemic bump may be petering out.",
-         "title" : "Netflix shares fall after it reports slowing subscriber growth - CNN",
-         "publishedAt" : "2020-10-20T22:53:00Z"
-      },
-      {
-         "content" : "Lockheed CFO: We now have a price point that will allow ULA to get its fair share of awards over SpaceX.\"\r\nWASHINGTON — United Launch Alliance has seen its business threatened by the industry’s incre… [+2046 chars]",
-         "source" : {
-            "name" : "SpaceNews",
-            "id" : null
-         },
-         "urlToImage" : "https://spacenews.com/wp-content/uploads/2020/10/50373185686_ba67f3f8f5_k.jpg",
-         "url" : "https://spacenews.com/lockheed-martin-executives-commend-ula-for-fighting-back-against-spacex/",
-         "description" : "Lockheed CFO Ken Possenriede: “We now have a price point that will allow ULA to get its fair share of awards over SpaceX\"",
-         "title" : "Lockheed Martin executives commend ULA for fighting back against SpaceX - SpaceNews",
-         "publishedAt" : "2020-10-20T22:39:56Z",
-         "author" : "Sandra Erwin"
-      },
-      {
-         "url" : "https://www.businessinsider.com/microsoft-azure-modular-portable-data-center-connected-by-satellites-2020-10",
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
-         "urlToImage" : "https://i.insider.com/5f8f2fc6dace450018a3e415?width=1200&format=jpeg",
-         "content" : "Microsoft Azure just announced a new design for modular, portable data centers. Azure is the company's cloud computing service, used by big names including Boeing, eBay, and Samsung.\r\nThe Azure Modul… [+656 chars]",
-         "author" : "Mary Meisenzahl",
-         "publishedAt" : "2020-10-20T22:29:43Z",
-         "description" : "The new data center doesn't need a traditional internet connection and can be located anywhere with a satellite signal.",
-         "title" : "Microsoft Azure modular portable data center connected by satellites - Business Insider - Business Insider"
-      },
-      {
-         "author" : null,
-         "publishedAt" : "2020-10-20T22:19:58Z",
-         "title" : "DOJ files antitrust lawsuit against Google - Fox News",
-         "description" : "Justice Department sues Google over search dominance; Fox News' Gillian Turner reports. #FoxNews Subscribe to Fox News! https://bit.ly/2vBUvAS Watch more Fox...",
-         "url" : "https://www.youtube.com/watch?v=bb6jvorVF7w",
-         "source" : {
-            "id" : null,
-            "name" : "YouTube"
-         },
-         "urlToImage" : "https://i.ytimg.com/vi/bb6jvorVF7w/maxresdefault.jpg",
-         "content" : null
+         "author" : "Clare Duffy, CNN Business",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201020150544-03-netflix---stock-super-tease.jpg"
       },
       {
          "author" : "Clifford Colby",
          "description" : "CNET's stimulus payment calculator estimates how much you, your family and your dependents could receive in a second economic payment -- once a new bill passes -- or with your first check if you're still waiting for it to arrive.",
+         "content" : "If the IRS sends a second check, your household's exact total may be something other than the $1,200 cap per person. We'll help you calculate.\r\nSarah Tew/CNET\r\nHow much money could you expect to get … [+4433 chars]",
+         "url" : "https://www.cnet.com/personal-finance/how-much-stimulus-check-money-could-you-get-use-our-payment-calculator-to-find-out/",
          "title" : "How much stimulus check money could you get? Use our payment calculator to find out - CNET",
          "publishedAt" : "2020-10-20T22:15:06Z",
-         "url" : "https://www.cnet.com/personal-finance/how-much-stimulus-check-money-could-you-get-use-our-payment-calculator-to-find-out/",
-         "content" : "If the IRS sends a second check, your household's exact total may be something other than the $1,200 cap per person. We'll help you calculate.\r\nSarah Tew/CNET\r\nHow much money could you expect to get … [+4433 chars]",
          "source" : {
             "id" : null,
             "name" : "CNET"
@@ -170,97 +197,70 @@
          "urlToImage" : "https://cnet1.cbsistatic.com/img/NnqVxYRevGzjZ4sdFakW3Mhr818=/1200x630/2020/10/20/2a86b0f6-bae3-4fd6-a76a-8047a103be3b/005-stimulus-2020-october-us-calculator-iphone-2200-dollars.jpg"
       },
       {
-         "url" : "https://www.wsj.com/articles/goldman-sachs-to-pay-2-8-billion-admit-wrongdoing-to-settle-1mdb-charges-11603202983",
-         "content" : "Goldman Sachs Group Inc. will pay about $2.8 billion and admit wrongdoing to end a bribery probe that stretched from Southeast Asia to Hollywood and reinforced a reputation for scandal that the Wall … [+334 chars]",
          "urlToImage" : "https://images.wsj.net/im-242752/social",
+         "publishedAt" : "2020-10-20T22:09:00Z",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
          },
          "author" : "Dave Michaels, Liz Hoffman, Bradley Hope",
          "description" : "A bank subsidiary in Asia tied to the misconduct is expected to plead guilty this week, while the parent company will accept deferred prosecution agreement",
-         "title" : "Goldman Sachs to Pay $2.8 Billion, Admit Wrongdoing to Settle 1MDB Charges - The Wall Street Journal",
-         "publishedAt" : "2020-10-20T22:09:00Z"
+         "content" : "Goldman Sachs Group Inc. will pay about $2.8 billion and admit wrongdoing to end a bribery probe that stretched from Southeast Asia to Hollywood and reinforced a reputation for scandal that the Wall … [+334 chars]",
+         "url" : "https://www.wsj.com/articles/goldman-sachs-to-pay-2-8-billion-admit-wrongdoing-to-settle-1mdb-charges-11603202983",
+         "title" : "Goldman Sachs to Pay $2.8 Billion, Admit Wrongdoing to Settle 1MDB Charges - The Wall Street Journal"
       },
       {
-         "content" : "LONDON Advances in robotics and artificial intelligence will lead to a net increase in jobs over the next five years but the coronavirus pandemic will result in \"double-disruption\" for workers, accor… [+3201 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106414228-1582834322698gettyimages-1202122771.jpeg?v=1583157691",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "url" : "https://www.cnbc.com/2020/10/20/wef-says-machines-will-create-jobs-but-warns-of-pandemic-disruption.html",
-         "title" : "WEF says machines will create more jobs than they destroy but warns of pandemic ‘double-disruption’ - CNBC",
-         "description" : "The World Economic Forum stressed the need for \"reskilling\" and \"upskilling\" to prepare people for the future of work.",
          "publishedAt" : "2020-10-20T22:01:00Z",
-         "author" : "Ryan Browne"
-      },
-      {
-         "url" : "https://www.wral.com/kathryn-brown-to-leave-wral-i-m-going-toward-something-and-that-is-time-with-family/19343920/",
-         "urlToImage" : "https://wwwcache.wral.com/asset/2014/08/27/13930107/kbr-DMID1-5ol14w16v-640x480.jpg",
          "source" : {
-            "name" : "WRAL.com",
-            "id" : null
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "content" : "Raleigh, N.C. — WRAL News anchor Kathryn Brown will be leaving the station and leaving television news later this year.\r\n\"Im not leaving something, so much as Im going toward something, which is time… [+1216 chars]",
-         "author" : "Jodi Leese Glusco",
-         "publishedAt" : "2020-10-20T21:45:00Z",
-         "title" : "Kathryn Brown to leave WRAL: 'I'm going toward something, and that is time with family' - WRAL.com",
-         "description" : "WRAL News anchor Kathryn Brown will be leaving the station and leaving television news later this year."
+         "description" : "Bank tellers are out and robotics engineers are in, according to a new report that says the coronavirus recession is accelerating technological changes that could displace 85 million jobs within the next five years.",
+         "author" : "Hanna Ziady, CNN Business",
+         "content" : "London (CNN Business)Bank tellers are out and robotics engineers are in, according to a new report that says the coronavirus recession is accelerating technological changes that could displace 85 mil… [+4922 chars]",
+         "url" : "https://www.cnn.com/2020/10/20/business/wef-future-of-jobs-report/index.html",
+         "title" : "The pandemic is speeding up automation, and 85 million jobs are on the line - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201020112639-restricted-security-guard-robot-china-1014-super-tease.jpg"
       },
       {
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/KeCmWCWP6k9OF8dbWf9LiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD0xMjgw/https://s.yimg.com/uu/api/res/1.2/mIgyiYXoOdS6Ixiq0O2B_Q--~B/aD01MDAwO3c9NTAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/architectural_digest_422/614bd078996d00fb8107c3d54ff56319",
+         "publishedAt" : "2020-10-20T21:33:00Z",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "New York Daily News"
          },
+         "content" : null,
+         "author" : "Clayton Guse",
+         "description" : "Officials hope the online map will help straphangers avoid the city’s never-ending barrage of track closures. The new wayfinding tool also provides real-time updates on construction-related service changes and train arrival times.",
+         "title" : "MTA's new NYC subway map shows train movements in real time - New York Daily News",
+         "url" : "https://www.nydailynews.com/new-york/ny-mta-digital-subway-map-20201020-5u3lc5bribh2dclntjqb4sldj4-story.html",
+         "urlToImage" : "https://www.nydailynews.com/resizer/2N43OomXRKEKh2l4dqa5rzjYsmk=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IBX3AP26BRBYHMOYK3SHBEZS5A.jpg"
+      },
+      {
+         "author" : "Architectural Digest",
+         "description" : "",
          "content" : "An array of nifty products that are both brand-new and tried-and-true\r\nOriginally Appeared on Architectural Digest",
          "url" : "https://news.yahoo.com/2021-ikea-catalog-finally-213103234.html",
-         "publishedAt" : "2020-10-20T21:31:00Z",
-         "description" : "",
          "title" : "The 2021 IKEA Catalog Is Finally Here! - Yahoo News",
-         "author" : "Architectural Digest"
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/10/20/snap-exec-jeremi-gorman-on-brand-advertising-facebook-impact-on-q3-.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106627212-1595422024211-gettyimages-1249002352-screenshot2020-06-10at114307pm_20200610114309555_202006110.jpeg?v=1595422736",
+         "publishedAt" : "2020-10-20T21:31:00Z",
          "source" : {
-            "name" : "CNBC",
+            "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "content" : "Snap said it's seeing positive momentum in the ad market, including in the brand advertising segment that struggled in the early days of the the coronavirus pandemic. The company also said that Q3 re… [+2704 chars]",
-         "author" : "Megan Graham",
-         "publishedAt" : "2020-10-20T21:18:00Z",
-         "title" : "Snap says brand advertising coming back, hints that Facebook boycott helped Q3 - CNBC",
-         "description" : "Snap Chief Business Officer Jeremi Gorman said that brand advertising is showing momentum, and that advertisers want a platform that shares their values."
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/KeCmWCWP6k9OF8dbWf9LiQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD0xMjgw/https://s.yimg.com/uu/api/res/1.2/mIgyiYXoOdS6Ixiq0O2B_Q--~B/aD01MDAwO3c9NTAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/architectural_digest_422/614bd078996d00fb8107c3d54ff56319"
       },
       {
-         "url" : "https://www.npr.org/2020/10/20/924566058/even-the-most-successful-women-are-sidelining-careers-for-family-in-pandemic",
-         "source" : {
-            "name" : "NPR",
-            "id" : null
-         },
          "urlToImage" : "https://media.npr.org/assets/img/2020/10/20/joyce-chen_07-edit_wide-c6e90cc4397d4a7e6b182e6fed919826ef88512b.jpg?s=1400",
-         "content" : "Joyce Chen, an associate professor of development economics at Ohio State University, has had to put her research on hold this year to oversee her children's virtual schooling. Chen is also teaching … [+5983 chars]",
-         "author" : "",
-         "publishedAt" : "2020-10-20T21:07:00Z",
-         "title" : "Successful Women Are Sidelining Careers For Family In Pandemic - NPR",
-         "description" : "The unequal division of household work leads to the \"mom penalty.\" For highly educated, high-income women, it could mean losing promotions, future earning power and roles as future leaders."
-      },
-      {
-         "url" : "https://www.click2houston.com/news/local/2020/10/20/liquor-licenses-yanked-from-well-known-houston-bars-over-coronavirus-protocol-violations/",
-         "urlToImage" : "https://www.click2houston.com/resizer/6yihqqklTjsoeb6foWSmz_bcsVY=/640x360/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/ROB5XHJ5X5A4RAXYTGY7NAFEQE.jpg",
          "source" : {
             "id" : null,
-            "name" : "KPRC Click2Houston"
+            "name" : "NPR"
          },
-         "content" : "HOUSTON The liquor licenses at four Houston bars have been suspended after the establishments failed to follow the states coronavirus safety rules, according to the Texas Alcoholic Beverage Commissio… [+1181 chars]",
-         "author" : "Aaron Barker",
-         "publishedAt" : "2020-10-20T21:03:00Z",
-         "title" : "TABC: Liquor licenses yanked from well-known Houston bars over coronavirus protocol violations - KPRC Click2Houston",
-         "description" : "The liquor licenses at four Houston bars have been suspended after the establishments failed to follow the state’s coronavirus safety rules, according to the Texas Alcoholic Beverage Commission."
+         "publishedAt" : "2020-10-20T21:07:00Z",
+         "title" : "Successful Women Are Sidelining Careers For Family In Pandemic - NPR",
+         "url" : "https://www.npr.org/2020/10/20/924566058/even-the-most-successful-women-are-sidelining-careers-for-family-in-pandemic",
+         "content" : "Joyce Chen, an associate professor of development economics at Ohio State University, has had to put her research on hold this year to oversee her children's virtual schooling. Chen is also teaching … [+5983 chars]",
+         "description" : "The unequal division of household work leads to the \"mom penalty.\" For highly educated, high-income women, it could mean losing promotions, future earning power and roles as future leaders.",
+         "author" : ""
       }
    ],
-   "status" : "ok",
    "totalResults" : 70
 }
