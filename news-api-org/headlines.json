@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "articles" : [
       {
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "url" : "https://www.cnbc.com/2020/10/21/stock-market-futures-open-to-close-news.html",
-         "title" : "Futures hold steady as investors await progress on stimulus talks - CNBC",
-         "author" : "Thomas Franck",
          "publishedAt" : "2020-10-21T22:08:00Z",
          "content" : "Futures contracts tied to the major U.S. stock indexes held steady at the start of the overnight session Wednesday evening and pointed to muted moves when regular trading resumes on Thursday.\r\nDow fu… [+3635 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106552151-1590506131733gettyimages-1215203899.jpeg?v=1603317097",
-         "description" : "Futures contracts held steady at the start of the overnight session as investors awaited details from stimulus talks."
+         "title" : "Futures hold steady as investors await progress on stimulus talks - CNBC",
+         "url" : "https://www.cnbc.com/2020/10/21/stock-market-futures-open-to-close-news.html",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "author" : "Thomas Franck",
+         "description" : "Futures contracts held steady at the start of the overnight session as investors awaited details from stimulus talks.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106552151-1590506131733gettyimages-1215203899.jpeg?v=1603317097"
       },
       {
-         "description" : "Delivery is soaring in popularity as people order in instead of going to restaurants in the pandemic.",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201021163855-chipotle-bag-restricted-super-tease.jpg",
-         "content" : null,
-         "publishedAt" : "2020-10-21T22:06:00Z",
+         "description" : "Delivery is soaring in popularity as people order in instead of going to restaurants in the pandemic.",
          "author" : "Danielle Wiener-Bronner, CNN Business",
-         "title" : "Delivery gave Chipotle sales a lift. But that's a problem - CNN",
-         "url" : "https://www.cnn.com/2020/10/21/business/chipotle-delivery-earnings/index.html",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         }
+         },
+         "title" : "Delivery gave Chipotle sales a lift. But that's a problem - CNN",
+         "url" : "https://www.cnn.com/2020/10/21/business/chipotle-delivery-earnings/index.html",
+         "content" : null,
+         "publishedAt" : "2020-10-21T22:06:00Z"
       },
       {
-         "description" : "University said there have been no concerns about the safety of the clinical trial",
-         "content" : "SÃO PAULOClinical trials of the Covid-19 vaccine being developed by Oxford University and AstraZeneca PLC will continue in Brazil despite the death a volunteer, Brazilian health regulator Anvisa said… [+254 chars]",
          "urlToImage" : "https://images.wsj.net/im-247963/social",
-         "author" : "Luciana Magalhaes, Samantha Pearson",
-         "publishedAt" : "2020-10-21T21:04:00Z",
+         "description" : "University said there have been no concerns about the safety of the clinical trial",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
+         "author" : "Luciana Magalhaes, Samantha Pearson",
+         "publishedAt" : "2020-10-21T21:04:00Z",
          "url" : "https://www.wsj.com/articles/volunteer-in-astrazeneca-oxford-coronavirus-vaccine-trial-dies-in-brazil-11603306508",
-         "title" : "AstraZeneca/Oxford Coronavirus Vaccine Trial in Brazil to Continue Following Death of Volunteer - The Wall Street Journal"
+         "title" : "AstraZeneca/Oxford Coronavirus Vaccine Trial in Brazil to Continue Following Death of Volunteer - The Wall Street Journal",
+         "content" : "SÃO PAULOClinical trials of the Covid-19 vaccine being developed by Oxford University and AstraZeneca PLC will continue in Brazil despite the death a volunteer, Brazilian health regulator Anvisa said… [+254 chars]"
       },
       {
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/retirement-iStock.jpg?ve=1&tl=1",
-         "content" : "Social Security benefits are an important source of retirement income, but you may not get to keep all the money you receive from this entitlement program. In fact, there's a chance you could be taxe… [+3329 chars]",
          "description" : "There's a chance you could be taxed not once but twice on your retirement benefits.",
-         "title" : "More than 36 million Americans risk double taxation on Social Security benefits - Fox Business",
-         "url" : "https://www.foxbusiness.com/money/millions-americans-risk-double-taxation-on-social-security-benefits",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
+         "author" : "Motley Fool",
          "publishedAt" : "2020-10-21T20:48:24Z",
-         "author" : "Motley Fool"
+         "url" : "https://www.foxbusiness.com/money/millions-americans-risk-double-taxation-on-social-security-benefits",
+         "title" : "More than 36 million Americans risk double taxation on Social Security benefits - Fox Business",
+         "content" : "Social Security benefits are an important source of retirement income, but you may not get to keep all the money you receive from this entitlement program. In fact, there's a chance you could be taxe… [+3329 chars]"
       },
       {
          "description" : "The woman, 38, was flying home to Dallas from Las Vegas. The flight was diverted to Albuquerque when she became unresponsive.",
          "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/25BMN5CPQAI6VFT34B2NGAWH2Q.jpg&w=1440",
-         "content" : "The woman, who was 38, fell unconscious on the flight and stopped breathing, according to a police report documenting the incident. A member of the flights crew tried to administer CPR and passed out… [+3526 chars]",
          "publishedAt" : "2020-10-21T20:32:00Z",
-         "author" : "Ian Duncan",
-         "url" : "https://www.washingtonpost.com/transportation/2020/10/21/texas-woman-died-of-covid-on-spirit-flight/",
          "title" : "Texas woman died of covid-19 on a Spirit Airlines flight from Las Vegas - The Washington Post",
-         "source" : {
-            "name" : "The Washington Post",
-            "id" : "the-washington-post"
-         }
-      },
-      {
-         "description" : "Tesla is forging ahead with “Full Self-Driving” despite skepticism among some safety advocates about whether Tesla’s technology is ready — and whether the rest of the world is ready for cars that drive themselves.",
-         "content" : "Tesla is forging ahead despite skepticism among some safety advocates about whether Teslas technology is ready and whether the rest of the world is ready for cars that drive themselves. An industry c… [+12831 chars]",
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2K7QWACXMI6RBVZREEHIPDZ3U.jpg&w=1440",
-         "author" : "Faiz Siddiqui",
-         "publishedAt" : "2020-10-21T20:23:00Z",
+         "url" : "https://www.washingtonpost.com/transportation/2020/10/21/texas-woman-died-of-covid-on-spirit-flight/",
+         "content" : "The woman, who was 38, fell unconscious on the flight and stopped breathing, according to a police report documenting the incident. A member of the flights crew tried to administer CPR and passed out… [+3526 chars]",
          "source" : {
             "id" : "the-washington-post",
             "name" : "The Washington Post"
          },
-         "url" : "https://www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/",
-         "title" : "Tesla is putting ‘self-driving’ in the hands of drivers amid criticism the tech is not ready - The Washington Post"
+         "author" : "Ian Duncan"
       },
       {
-         "description" : "The Bar rescue host says he's using technology to have safer, cleaner restaurant. The first location is Alpharetta, Georgia; Boston and DC coming soon",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/10/21/USAT/8dbeaf03-f7b4-45c8-bec2-1616fba2afb7-Screen_Shot_2020-10-21_at_11.00.40_AM.jpg?crop=683,385,x0,y102&width=1600&height=800&fit=bounds",
-         "content" : "Jon Taffer is putting his money where his mouth is.\r\nThe host of \"Bar Rescue,\" the cable TV series that features Taffer visiting struggling bars with ideas on how to save their business, is opening a… [+3768 chars]",
-         "publishedAt" : "2020-10-21T20:20:28Z",
+         "description" : "Tesla is forging ahead with “Full Self-Driving” despite skepticism among some safety advocates about whether Tesla’s technology is ready — and whether the rest of the world is ready for cars that drive themselves.",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J2K7QWACXMI6RBVZREEHIPDZ3U.jpg&w=1440",
+         "publishedAt" : "2020-10-21T20:23:00Z",
+         "url" : "https://www.washingtonpost.com/technology/2020/10/21/tesla-self-driving/",
+         "title" : "Tesla is putting ‘self-driving’ in the hands of drivers amid criticism the tech is not ready - The Washington Post",
+         "content" : "Tesla is forging ahead despite skepticism among some safety advocates about whether Teslas technology is ready and whether the rest of the world is ready for cars that drive themselves. An industry c… [+12831 chars]",
+         "source" : {
+            "name" : "The Washington Post",
+            "id" : "the-washington-post"
+         },
+         "author" : "Faiz Siddiqui"
+      },
+      {
          "author" : "Jefferson Graham",
-         "url" : "https://www.usatoday.com/story/money/food/2020/10/21/jon-taffer-bar-rescue-puts-money-where-mouth-new-tavern/5999356002/",
-         "title" : "'The future of food is technology more than chefs': Jon Taffer of 'Bar Rescue' opens new tavern - USA TODAY",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
+         },
+         "content" : "Jon Taffer is putting his money where his mouth is.\r\nThe host of \"Bar Rescue,\" the cable TV series that features Taffer visiting struggling bars with ideas on how to save their business, is opening a… [+3768 chars]",
+         "url" : "https://www.usatoday.com/story/money/food/2020/10/21/jon-taffer-bar-rescue-puts-money-where-mouth-new-tavern/5999356002/",
+         "title" : "'The future of food is technology more than chefs': Jon Taffer of 'Bar Rescue' opens new tavern - USA TODAY",
+         "publishedAt" : "2020-10-21T20:20:28Z",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/10/21/USAT/8dbeaf03-f7b4-45c8-bec2-1616fba2afb7-Screen_Shot_2020-10-21_at_11.00.40_AM.jpg?crop=683,385,x0,y102&width=1600&height=800&fit=bounds",
+         "description" : "The Bar rescue host says he's using technology to have safer, cleaner restaurant. The first location is Alpharetta, Georgia; Boston and DC coming soon"
+      },
+      {
+         "description" : "‘Tesla continues to put the red ink in the rear-view mirror,’ analyst says",
+         "urlToImage" : "https://images.mktw.net/im-247985/social",
+         "url" : "https://www.marketwatch.com/story/tesla-stock-jumps-after-companys-q3-profit-sales-beat-expectations-11603311412",
+         "title" : "Tesla stock higher after 'record quarter' for the Silicon Valley car maker - MarketWatch",
+         "content" : "Tesla Inc. late Wednesday reported quarterly earnings that beat Wall Street expectations, sending the stock higher in the extended session. Tesla \r\n TSLA,\r\n +0.16%\r\nsaid it earned $331 million, or 27… [+3490 chars]",
+         "publishedAt" : "2020-10-21T20:16:00Z",
+         "author" : "Claudia Assis",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
          }
       },
       {
-         "author" : "Claudia Assis",
-         "publishedAt" : "2020-10-21T20:16:00Z",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "title" : "Tesla stock higher after 'record quarter' for the Silicon Valley car maker - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/tesla-stock-jumps-after-companys-q3-profit-sales-beat-expectations-11603311412",
-         "description" : "‘Tesla continues to put the red ink in the rear-view mirror,’ analyst says",
-         "content" : "Tesla Inc. late Wednesday reported quarterly earnings that beat Wall Street expectations, sending the stock higher in the extended session. Tesla \r\n TSLA,\r\n +0.16%\r\nsaid it earned $331 million, or 27… [+3490 chars]",
-         "urlToImage" : "https://images.mktw.net/im-247985/social"
-      },
-      {
+         "url" : "https://www.npr.org/2020/10/21/926244831/google-lawsuit-marks-end-of-washingtons-love-affair-with-big-tech",
+         "title" : "Google Lawsuit Marks End Of Washington's Love Affair With Big Tech - NPR",
+         "content" : "The Justice Department alleges Google has an illegal monopoly in search, setting up the biggest confrontation with a tech giant in more than 20 years.\r\nDon Ryan/AP\r\nThis week could mark the official … [+6622 chars]",
          "publishedAt" : "2020-10-21T20:06:45Z",
          "author" : "",
-         "title" : "Google Lawsuit Marks End Of Washington's Love Affair With Big Tech - NPR",
-         "url" : "https://www.npr.org/2020/10/21/926244831/google-lawsuit-marks-end-of-washingtons-love-affair-with-big-tech",
          "source" : {
             "id" : null,
             "name" : "NPR"
          },
          "description" : "The Justice Department's lawsuit against Google is the clearest sign yet of the \"Techlash\" that has politicians on both sides of the aisle bristling at the power of Silicon Valley.",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/10/21/ap_18240642619350_wide-783513f03491669b5a1875669f5abd9f5c5c02c0.jpg?s=1400",
-         "content" : "The Justice Department alleges Google has an illegal monopoly in search, setting up the biggest confrontation with a tech giant in more than 20 years.\r\nDon Ryan/AP\r\nThis week could mark the official … [+6622 chars]"
+         "urlToImage" : "https://media.npr.org/assets/img/2020/10/21/ap_18240642619350_wide-783513f03491669b5a1875669f5abd9f5c5c02c0.jpg?s=1400"
       },
       {
-         "url" : "https://9to5mac.com/2020/10/21/quibi-video-shutting-down/",
-         "title" : "Quibi video service shuts down 6 months after launch, 1 day after Apple TV app release - 9to5Mac",
+         "urlToImage" : "https://9to5mac.com/wp-content/uploads/sites/6/2020/10/Quibi-Apple-TV.png",
+         "description" : "According to a new report from The Wall Street Journal, the short-form video streaming service Quibi will shut down after less than a year. The report says that Quibi founder Jeffrey Katzenberg has spent the day calling investors to inform them of the shutdow…",
+         "author" : null,
          "source" : {
             "id" : null,
             "name" : "9to5Mac"
          },
-         "publishedAt" : "2020-10-21T20:02:00Z",
-         "author" : null,
-         "urlToImage" : "https://9to5mac.com/wp-content/uploads/sites/6/2020/10/Quibi-Apple-TV.png",
          "content" : "According to a new report from The Wall Street Journal, the short-form video streaming service Quibi will shut down after less than a year. The report says that Quibi founder Jeffrey Katzenberg has s… [+1862 chars]",
-         "description" : "According to a new report from The Wall Street Journal, the short-form video streaming service Quibi will shut down after less than a year. The report says that Quibi founder Jeffrey Katzenberg has spent the day calling investors to inform them of the shutdow…"
+         "title" : "Quibi video service shuts down 6 months after launch, 1 day after Apple TV app release - 9to5Mac",
+         "url" : "https://9to5mac.com/2020/10/21/quibi-video-shutting-down/",
+         "publishedAt" : "2020-10-21T20:02:00Z"
       },
       {
+         "content" : "PayPal is rolling out cryptocurrency support later this year\r\nIllustration by Alex Castro / The Verge\r\nPayPal on Wednesday announced it would begin supporting cryptocurrencies for the first time, all… [+2172 chars]",
          "url" : "https://www.theverge.com/2020/10/21/21527288/paypal-cryptocurrency-support-buy-sell-venmo-bitcoin",
          "title" : "PayPal and Venmo will offer and accept cryptocurrency for all online payments - The Verge",
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
          "publishedAt" : "2020-10-21T19:49:27Z",
          "author" : "Nick Statt",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/altkKN7BnaLUpbAVPi6j4xmC2Ug=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13546110/acastro_181126_1777_bitcoin_0001.jpg",
-         "content" : "PayPal is rolling out cryptocurrency support later this year\r\nIllustration by Alex Castro / The Verge\r\nPayPal on Wednesday announced it would begin supporting cryptocurrencies for the first time, all… [+2172 chars]",
-         "description" : "PayPal is joining the cryptocurrency industry with support for bitcoin and other digital currencies, making the digital payments company one of the most significant adopters of the technology to date. PayPal plans to extend support to its money-sending app Ve…"
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "description" : "PayPal is joining the cryptocurrency industry with support for bitcoin and other digital currencies, making the digital payments company one of the most significant adopters of the technology to date. PayPal plans to extend support to its money-sending app Ve…",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/altkKN7BnaLUpbAVPi6j4xmC2Ug=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13546110/acastro_181126_1777_bitcoin_0001.jpg"
       },
       {
-         "url" : "https://www.cnbc.com/2020/10/21/chipotle-mexican-grill-cmg-earnings-q3-2020.html",
-         "title" : "Chipotle shares fall despite earnings beat, as robust delivery growth weighs on profits - CNBC",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "publishedAt" : "2020-10-21T19:33:00Z",
-         "author" : "Amelia Lucas",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106754430-1603288250217-gettyimages-1227718784-CHIPOTLE_EARNS.jpeg?v=1603288313",
+         "description" : "Shares of Chipotle, which has a market value of $38 billion, have risen 62% so far this year.",
+         "author" : "Amelia Lucas",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "Chipotle shares fall despite earnings beat, as robust delivery growth weighs on profits - CNBC",
+         "url" : "https://www.cnbc.com/2020/10/21/chipotle-mexican-grill-cmg-earnings-q3-2020.html",
          "content" : "Chipotle Mexican Grill on Wednesday reported quarterly same-store sales growth of more than 8%, but a shift to delivery is boosting costs and resulting in fewer drink purchases, which dragged down it… [+2111 chars]",
-         "description" : "Shares of Chipotle, which has a market value of $38 billion, have risen 62% so far this year."
+         "publishedAt" : "2020-10-21T19:33:00Z"
       },
       {
-         "content" : "Whatever benefits Slack saw in the early days of the coronavirus pandemic appear to have dissipated because large companies are choosing rival collaboration products, according to Morgan Stanley.\r\nSl… [+1660 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106112117-1567628750656gettyimages-1151035365.jpeg?v=1567628811",
-         "description" : "In a report on Wednesday, Morgan Stanley said that Slack no longer appears to be a beneficiary of the work-from-home trend.",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
+         "publishedAt" : "2020-10-21T19:05:00Z",
          "url" : "https://www.cnbc.com/2020/10/21/slack-stock-sinks-after-morgan-stanley-says-losing-to-microsoft-zoom.html",
          "title" : "Slack's stock drops after Morgan Stanley says Covid-related spending is going to rivals Microsoft and Zoom - CNBC",
+         "content" : "Whatever benefits Slack saw in the early days of the coronavirus pandemic appear to have dissipated because large companies are choosing rival collaboration products, according to Morgan Stanley.\r\nSl… [+1660 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
          "author" : "Ari Levy",
-         "publishedAt" : "2020-10-21T19:05:00Z"
+         "description" : "In a report on Wednesday, Morgan Stanley said that Slack no longer appears to be a beneficiary of the work-from-home trend.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106112117-1567628750656gettyimages-1151035365.jpeg?v=1567628811"
       },
       {
-         "publishedAt" : "2020-10-21T18:51:00Z",
-         "author" : "Elise Young",
          "title" : "Hospitals Across the U.S. Are Crammed With Covid-19 Patients - Bloomberg",
          "url" : "https://www.bloomberg.com/news/articles/2020-10-21/hospitals-across-the-u-s-are-crammed-with-covid-19-patients",
+         "content" : "U.S. hospitalizations for Covid-19 hit the highest point since Aug. 22, with New York doubling its count from early September and at least 10 other states reporting records.\r\nThe federal Centers for … [+2231 chars]",
+         "publishedAt" : "2020-10-21T18:51:00Z",
+         "author" : "Elise Young",
          "source" : {
-            "name" : "Bloomberg",
-            "id" : "bloomberg"
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
          },
          "description" : "U.S. hospitalizations for Covid-19 hit the highest point since Aug. 22, with New York doubling its count from early September and at least 10 other states reporting records.",
-         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKiQ31R_NLWI/v0/1200x800.jpg",
-         "content" : "U.S. hospitalizations for Covid-19 hit the highest point since Aug. 22, with New York doubling its count from early September and at least 10 other states reporting records.\r\nThe federal Centers for … [+2231 chars]"
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKiQ31R_NLWI/v0/1200x800.jpg"
       },
       {
          "urlToImage" : "https://g.foolcdn.com/editorial/images/595940/3-red-arrows-going-down-and-crashing-through-the-floor.jpg",
-         "content" : "What happened\r\nOn Wednesday, things aren't looking great for investors in the renewable energy sector. At 11:25 a.m., shares of hydrogen fuel-cell companies Bloom Energy(NYSE:BE) and Plug Power(NASDA… [+2294 chars]",
          "description" : "What went up is coming back down.",
-         "title" : "Why Plug Power, Bloom Energy, and JinkoSolar Stocks Are Sinking Wednesday - Motley Fool",
-         "url" : "https://www.fool.com/investing/2020/10/21/why-plug-power-bloom-energy-and-jinkosolar-stocks/",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
+         "author" : "Rich Smith",
          "publishedAt" : "2020-10-21T18:49:00Z",
-         "author" : "Rich Smith"
+         "url" : "https://www.fool.com/investing/2020/10/21/why-plug-power-bloom-energy-and-jinkosolar-stocks/",
+         "title" : "Why Plug Power, Bloom Energy, and JinkoSolar Stocks Are Sinking Wednesday - Motley Fool",
+         "content" : "What happened\r\nOn Wednesday, things aren't looking great for investors in the renewable energy sector. At 11:25 a.m., shares of hydrogen fuel-cell companies Bloom Energy(NYSE:BE) and Plug Power(NASDA… [+2294 chars]"
       },
       {
+         "title" : "Report: Boeing Begins Early Work on New Plane Design - Motley Fool",
+         "url" : "https://www.fool.com/investing/2020/10/21/report-boeing-begins-early-work-on-new-plane-desig/",
+         "content" : "Boeing(NYSE:BA) is reportedly talking to potential customers and suppliers about a new commercial aircraft design, pushing forward with the long-discussed move even as the 737 MAX grounding and coron… [+1862 chars]",
+         "publishedAt" : "2020-10-21T18:40:00Z",
+         "author" : "Lou Whiteman",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "url" : "https://www.fool.com/investing/2020/10/21/report-boeing-begins-early-work-on-new-plane-desig/",
-         "title" : "Report: Boeing Begins Early Work on New Plane Design - Motley Fool",
-         "author" : "Lou Whiteman",
-         "publishedAt" : "2020-10-21T18:40:00Z",
-         "content" : "Boeing(NYSE:BA) is reportedly talking to potential customers and suppliers about a new commercial aircraft design, pushing forward with the long-discussed move even as the 737 MAX grounding and coron… [+1862 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/595968/737-900er-source-ba.JPG",
-         "description" : "The single-aisle plane would slot in between the 737 and 787 models."
+         "description" : "The single-aisle plane would slot in between the 737 and 787 models.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/595968/737-900er-source-ba.JPG"
       },
       {
-         "content" : "The U.S. is bracing for a third wave of COVID-19 infections as it moves into the frigid winter months. The country is only about a week away from a \"rapid acceleration\" in COVID-19 cases, Dr. Scott G… [+2408 chars]",
-         "urlToImage" : "https://cdn.mos.cms.futurecdn.net/xtSZSjJ4mn6e4bKptz74FA-1200-80.jpg",
-         "description" : "Cases are rising quickly.",
+         "author" : "Yasemin Saplakoglu",
          "source" : {
             "id" : null,
             "name" : "Live Science"
          },
-         "title" : "US is a week away from 'rapid acceleration' of COVID-19 cases - Live Science",
+         "content" : "The U.S. is bracing for a third wave of COVID-19 infections as it moves into the frigid winter months. The country is only about a week away from a \"rapid acceleration\" in COVID-19 cases, Dr. Scott G… [+2408 chars]",
          "url" : "https://www.livescience.com/coronavirus-cases-us-nearing-rapid-acceleration.html",
-         "author" : "Yasemin Saplakoglu",
-         "publishedAt" : "2020-10-21T18:31:00Z"
+         "title" : "US is a week away from 'rapid acceleration' of COVID-19 cases - Live Science",
+         "publishedAt" : "2020-10-21T18:31:00Z",
+         "urlToImage" : "https://cdn.mos.cms.futurecdn.net/xtSZSjJ4mn6e4bKptz74FA-1200-80.jpg",
+         "description" : "Cases are rising quickly."
       },
       {
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/07/getty-tweet-760x380.jpg",
+         "description" : "FCC lawyer claims authority to interpret any part of the Communications Act.",
          "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
+            "name" : "Ars Technica",
+            "id" : "ars-technica"
          },
-         "url" : "https://arstechnica.com/tech-policy/2020/10/fcc-defends-helping-trump-claims-authority-over-social-media-law/",
-         "title" : "FCC cites Title II in defense of helping Trump’s attack on social media - Ars Technica",
          "author" : "Jon Brodkin",
          "publishedAt" : "2020-10-21T18:25:00Z",
          "content" : "70 with 58 posters participating\r\nThe Federal Communications Commission's top lawyer today explained the FCC's theory of why it can grant President Donald Trump's request for a new interpretation of … [+4098 chars]",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/07/getty-tweet-760x380.jpg",
-         "description" : "FCC lawyer claims authority to interpret any part of the Communications Act."
+         "url" : "https://arstechnica.com/tech-policy/2020/10/fcc-defends-helping-trump-claims-authority-over-social-media-law/",
+         "title" : "FCC cites Title II in defense of helping Trump’s attack on social media - Ars Technica"
       },
       {
-         "publishedAt" : "2020-10-21T18:11:15Z",
          "author" : null,
-         "url" : "https://spaceflightnow.com/2020/10/21/falcon-9-starlink-14-mission-status-center/",
-         "title" : "Live coverage: SpaceX test fires Falcon 9 ahead of launch tomorrow - Spaceflight Now",
          "source" : {
-            "id" : null,
-            "name" : "Spaceflight Now"
-         },
-         "description" : null,
-         "urlToImage" : null,
-         "content" : "Live coverage of the countdown and launch of a SpaceX Falcon 9 rocket from pad 40 at Cape Canaveral Air Force Station in Florida. The mission will launch SpaceX’s 15th batch of approximately 60 Starl… [+212 chars]"
-      },
-      {
-         "source" : {
-            "name" : "KVUE.com",
+            "name" : "Spaceflight Now",
             "id" : null
          },
-         "url" : "https://www.kvue.com/article/news/local/h-e-b-employees-across-texas-getting-a-500-bonus/269-707d5e6f-5974-4480-9c51-1eb0958a5953",
-         "title" : "H-E-B employees across Texas getting a $500 bonus - KVUE.com",
+         "title" : "Live coverage: SpaceX test fires Falcon 9 ahead of launch tomorrow - Spaceflight Now",
+         "url" : "https://spaceflightnow.com/2020/10/21/falcon-9-starlink-14-mission-status-center/",
+         "content" : "Live coverage of the countdown and launch of a SpaceX Falcon 9 rocket from pad 40 at Cape Canaveral Air Force Station in Florida. The mission will launch SpaceX’s 15th batch of approximately 60 Starl… [+212 chars]",
+         "publishedAt" : "2020-10-21T18:11:15Z",
+         "urlToImage" : null,
+         "description" : null
+      },
+      {
          "author" : "Drew Knight",
-         "publishedAt" : "2020-10-21T18:06:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "KVUE.com"
+         },
+         "title" : "H-E-B employees across Texas getting a $500 bonus - KVUE.com",
+         "url" : "https://www.kvue.com/article/news/local/h-e-b-employees-across-texas-getting-a-500-bonus/269-707d5e6f-5974-4480-9c51-1eb0958a5953",
          "content" : "As employees continue to work hard through the COVID-19 pandemic, Texas grocery chain H-E-B has announced that it is awarding all of its employees with an additional $500 bonus.\r\nA spokesperson with … [+1222 chars]",
+         "publishedAt" : "2020-10-21T18:06:00Z",
          "urlToImage" : "https://media.kvue.com/assets/KVUE/images/05d7c812-6fe2-4d1a-aa09-495ba9621004/05d7c812-6fe2-4d1a-aa09-495ba9621004_1140x641.jpeg",
          "description" : "\"Our Partners continue to raise the bar in pursuit of excellence, uplifting and inspiring people across our great state and beyond.\""
       }
    ],
+   "status" : "ok",
    "totalResults" : 70
 }
