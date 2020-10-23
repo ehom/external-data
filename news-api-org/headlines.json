@@ -1,266 +1,266 @@
 {
    "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "url" : "https://www.cnbc.com/2020/10/22/hummer-ev-assists-gm-shares-reaching-new-c.html",
-         "title" : "GM shares close at new year-to-date high following Hummer EV debut - CNBC",
-         "author" : "Michael Wayland",
          "content" : "Shares of General Motors closed Thursday at their highest price so far this year following the successful debut Tuesday of the new GMC Hummer EV as well as the automaker's announcement earlier in the… [+1673 chars]",
+         "author" : "Michael Wayland",
+         "description" : "GM stock closed at $37.41, up 4.6% – pushing the shares for the year in the black (up 2.2%) for the first time since Jan. 2.",
+         "url" : "https://www.cnbc.com/2020/10/22/hummer-ev-assists-gm-shares-reaching-new-c.html",
          "publishedAt" : "2020-10-22T21:24:00Z",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : null,
+            "name" : "CNBC"
          },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106753397-1603238683283-2022-GMC-HUMMER-EV-003.jpg?v=1603238745",
-         "description" : "GM stock closed at $37.41, up 4.6% – pushing the shares for the year in the black (up 2.2%) for the first time since Jan. 2."
+         "title" : "GM shares close at new year-to-date high following Hummer EV debut - CNBC"
       },
       {
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/01/stock-bull-20-adobe.jpg",
          "title" : "Stock Market Rallies Amid Stimulus News; PayPal, Tesla Near New Buy Points - Investor's Business Daily",
-         "url" : "https://www.investors.com/market-trend/the-big-picture/stock-market-rallies-stimulus-news-chipotle-paypal-tesla-approach-new-buy-points/",
-         "author" : "Investor's Business Daily",
+         "description" : "The stock market reversed higher amid stimulus news Thursday. Chipotle Mexican Grill, PayPal and Tesla are approaching new buy points.",
          "publishedAt" : "2020-10-22T21:18:00Z",
-         "content" : "Notice: Information contained herein is not and should not be construed as an offer, solicitation, or recommendation to buy or sell securities. The information has been obtained from sources we belie… [+476 chars]",
+         "url" : "https://www.investors.com/market-trend/the-big-picture/stock-market-rallies-stimulus-news-chipotle-paypal-tesla-approach-new-buy-points/",
          "source" : {
-            "name" : "Investor's Business Daily",
+            "id" : null,
+            "name" : "Investor's Business Daily"
+         },
+         "author" : "Investor's Business Daily",
+         "content" : "Notice: Information contained herein is not and should not be construed as an offer, solicitation, or recommendation to buy or sell securities. The information has been obtained from sources we belie… [+476 chars]"
+      },
+      {
+         "urlToImage" : null,
+         "title" : "PayPal in Talks to Buy Crypto Firms Including BitGo - Bloomberg",
+         "description" : null,
+         "publishedAt" : "2020-10-22T21:11:00Z",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=e58695c0-14b9-11eb-a384-619b293adeb6&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMC0yMi9wYXlwYWwtc2FpZC10by1iZS1pbi10YWxrcy10by1idXktY3J5cHRvLWZpcm1zLWluY2x1ZGluZy1iaXRnbw==",
+         "source" : {
+            "name" : "Bloomberg",
+            "id" : "bloomberg"
+         },
+         "author" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot."
+      },
+      {
+         "urlToImage" : "https://media.nbcboston.com/2020/10/coronavirus-daily-incidence-rate-map-oct-22.png?resize=1173%2C675",
+         "title" : "Revamped Coronavirus Risk Map: Mass. Up to 77 Communities in the Red - NBC10 Boston",
+         "description" : "The weekly report from the Department of Public Health includes a breakdown of the total number of coronavirus cases in each Massachusetts city and town, and…",
+         "url" : "https://www.nbcboston.com/news/coronavirus/revamped-coronavirus-risk-map-mass-up-to-77-communities-in-the-red/2216477/",
+         "publishedAt" : "2020-10-22T21:10:47Z",
+         "source" : {
+            "name" : "NBC10 Boston",
             "id" : null
          },
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/01/stock-bull-20-adobe.jpg",
-         "description" : "The stock market reversed higher amid stimulus news Thursday. Chipotle Mexican Grill, PayPal and Tesla are approaching new buy points."
-      },
-      {
-         "author" : null,
-         "title" : "PayPal in Talks to Buy Crypto Firms Including BitGo - Bloomberg",
-         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=e58695c0-14b9-11eb-a384-619b293adeb6&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMC0yMi9wYXlwYWwtc2FpZC10by1iZS1pbi10YWxrcy10by1idXktY3J5cHRvLWZpcm1zLWluY2x1ZGluZy1iaXRnbw==",
-         "publishedAt" : "2020-10-22T21:11:00Z",
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
-         "urlToImage" : null,
-         "source" : {
-            "id" : "bloomberg",
-            "name" : "Bloomberg"
-         },
-         "description" : null
-      },
-      {
-         "description" : "The weekly report from the Department of Public Health includes a breakdown of the total number of coronavirus cases in each Massachusetts city and town, and…",
-         "urlToImage" : "https://media.nbcboston.com/2020/10/coronavirus-daily-incidence-rate-map-oct-22.png?resize=1173%2C675",
-         "source" : {
-            "id" : null,
-            "name" : "NBC10 Boston"
-         },
-         "content" : "Massachusetts' latest weekly community-level data on the coronavirus pandemic, including the updated town-by-town risk assessment map, shows 77 communities considered at the highest risk for transmit… [+5570 chars]",
-         "publishedAt" : "2020-10-22T21:10:47Z",
          "author" : "Asher Klein,Mike Pescaro",
-         "title" : "Revamped Coronavirus Risk Map: Mass. Up to 77 Communities in the Red - NBC10 Boston",
-         "url" : "https://www.nbcboston.com/news/coronavirus/revamped-coronavirus-risk-map-mass-up-to-77-communities-in-the-red/2216477/"
+         "content" : "Massachusetts' latest weekly community-level data on the coronavirus pandemic, including the updated town-by-town risk assessment map, shows 77 communities considered at the highest risk for transmit… [+5570 chars]"
       },
       {
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/u30IXPSiEIVo_u4DqZFjHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2020-10/0bbe23c0-0dee-11eb-96ff-8ec991900dd1",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "description" : "The race for a COVID-19 vaccine race doesn't end with emergency use application. Companies are faced with several obstacles, according to the FDA's vaccine...",
+         "content" : "Any coronavirus vaccine that could be authorized for emergency use by the U.S. Food and Drug Administration (FDA) faces several additional hurdles after completing the final stage of clinical trials.… [+6301 chars]",
          "author" : "Anjalee Khemlani",
          "url" : "https://finance.yahoo.com/news/us-faces-major-hurdles-for-covid-19-vaccine-distribution-vaccine-advisory-committee-205158048.html",
-         "title" : "US faces major hurdles for COVID-19 vaccine distribution: Vaccine advisory committee - Yahoo Finance",
          "publishedAt" : "2020-10-22T20:51:00Z",
-         "content" : "Any coronavirus vaccine that could be authorized for emergency use by the U.S. Food and Drug Administration (FDA) faces several additional hurdles after completing the final stage of clinical trials.… [+6301 chars]"
-      },
-      {
-         "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
-         },
-         "urlToImage" : null,
-         "description" : null,
-         "title" : "Tesla Stock Nears Buy Point After Earnings Double - Investor's Business Daily",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vcmVzZWFyY2gvaWJkLXN0b2NrLW9mLXRoZS1kYXkvdGVzbGEtc3RvY2stbmVhci1idXktcG9pbnQtdGVzbGEtZWFybmluZ3Mv0gEA?oc=5",
-         "author" : null,
-         "content" : null,
-         "publishedAt" : "2020-10-22T20:31:00Z"
-      },
-      {
-         "author" : "The Economist",
-         "url" : "https://www.economist.com/business/2020/10/24/meet-nextera-americas-most-valuable-energy-firm",
-         "title" : "Meet NextEra, America’s most valuable energy firm - The Economist",
-         "content" : "TO MANY INVESTORS, backing an American oil company looks only slightly shrewder than stuffing cash in a blender. Facing covid-19 and old concerns over low returns, the industry is scrambling to boost… [+5160 chars]",
-         "publishedAt" : "2020-10-22T20:19:32Z",
-         "urlToImage" : "https://www.economist.com/img/b/1280/720/90/sites/default/files/20201024_WBP502.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "The Economist"
-         },
-         "description" : "The clean-energy utility has surpassed ExxonMobil in market capitalisaion—and shows no signs of slowing"
-      },
-      {
-         "content" : "A previous version of this report listed an incorrect Wall Street revenue consensus estimate. It has been corrected.Intel Corp. data-center sales sank more than expected in the third quarter, sending… [+4281 chars]",
-         "publishedAt" : "2020-10-22T20:16:00Z",
-         "author" : "Wallace Witkowski",
-         "title" : "Intel stock plunges 10% after data-center sales drop more than expected - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/intel-stock-plunges-10-after-earnings-show-bigger-sales-drop-than-expected-11603397818",
-         "description" : "Intel profit drops more than 28%, revenue declines more than 4% as server sales dive 7%",
-         "urlToImage" : "https://images.mktw.net/im-243940/social",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         }
-      },
-      {
-         "description" : "eHealth, Inc. (NASDAQ: EHTH), a leading private online health insurance marketplace, announces today its financial results for the third quarter ended...",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/gWl.pD0Dp3nqdAWnjJgDhw--~B/aD0xMjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/68940017fdd6c43e1f66a4f8e7c8a8a1",
+         "description" : "The race for a COVID-19 vaccine race doesn't end with emergency use application. Companies are faced with several obstacles, according to the FDA's vaccine...",
+         "title" : "US faces major hurdles for COVID-19 vaccine distribution: Vaccine advisory committee - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/u30IXPSiEIVo_u4DqZFjHw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2020-10/0bbe23c0-0dee-11eb-96ff-8ec991900dd1"
+      },
+      {
+         "content" : null,
+         "author" : null,
+         "source" : {
+            "name" : "Google News",
+            "id" : "google-news"
+         },
+         "publishedAt" : "2020-10-22T20:31:00Z",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vcmVzZWFyY2gvaWJkLXN0b2NrLW9mLXRoZS1kYXkvdGVzbGEtc3RvY2stbmVhci1idXktcG9pbnQtdGVzbGEtZWFybmluZ3Mv0gEA?oc=5",
+         "description" : null,
+         "title" : "Tesla Stock Nears Buy Point After Earnings Double - Investor's Business Daily",
+         "urlToImage" : null
+      },
+      {
+         "publishedAt" : "2020-10-22T20:19:32Z",
+         "url" : "https://www.economist.com/business/2020/10/24/meet-nextera-americas-most-valuable-energy-firm",
+         "source" : {
+            "name" : "The Economist",
+            "id" : null
+         },
+         "description" : "The clean-energy utility has surpassed ExxonMobil in market capitalisaion—and shows no signs of slowing",
+         "title" : "Meet NextEra, America’s most valuable energy firm - The Economist",
+         "urlToImage" : "https://www.economist.com/img/b/1280/720/90/sites/default/files/20201024_WBP502.jpg",
+         "content" : "TO MANY INVESTORS, backing an American oil company looks only slightly shrewder than stuffing cash in a blender. Facing covid-19 and old concerns over low returns, the industry is scrambling to boost… [+5160 chars]",
+         "author" : "The Economist"
+      },
+      {
+         "author" : "Wallace Witkowski",
+         "content" : "A previous version of this report listed an incorrect Wall Street revenue consensus estimate. It has been corrected.Intel Corp. data-center sales sank more than expected in the third quarter, sending… [+4281 chars]",
+         "title" : "Intel stock plunges 10% after data-center sales drop more than expected - MarketWatch",
+         "urlToImage" : "https://images.mktw.net/im-243940/social",
+         "publishedAt" : "2020-10-22T20:16:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "url" : "https://www.marketwatch.com/story/intel-stock-plunges-10-after-earnings-show-bigger-sales-drop-than-expected-11603397818",
+         "description" : "Intel profit drops more than 28%, revenue declines more than 4% as server sales dive 7%"
+      },
+      {
+         "author" : "PR Newswire",
          "content" : "Third Quarter 2020 Overview\r\n- Revenue for the third quarter of 2020 was $94.3 million , a 35% increase compared to $69.9 million for the third quarter of 2019.\r\n- GAAP net loss for the third quarter… [+94468 chars]",
-         "publishedAt" : "2020-10-22T20:15:00Z",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/gWl.pD0Dp3nqdAWnjJgDhw--~B/aD0xMjc7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/68940017fdd6c43e1f66a4f8e7c8a8a1",
          "title" : "eHealth, Inc. Announces Third Quarter 2020 Results - Yahoo Finance",
+         "description" : "eHealth, Inc. (NASDAQ: EHTH), a leading private online health insurance marketplace, announces today its financial results for the third quarter ended...",
+         "publishedAt" : "2020-10-22T20:15:00Z",
          "url" : "https://finance.yahoo.com/news/ehealth-inc-announces-third-quarter-201500976.html",
-         "author" : "PR Newswire"
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         }
       },
       {
          "source" : {
-            "id" : null,
-            "name" : "Investing.com"
+            "name" : "Investing.com",
+            "id" : null
          },
-         "urlToImage" : "https://i-invdn-com.akamaized.net/news/LYNXNPEB7N0OT_L.jpg",
+         "publishedAt" : "2020-10-22T20:08:00Z",
+         "url" : "https://www.investing.com/news/stock-market-news/dow-bags-gain-on-value-stocks-fda-approves-gileads-antiviral-drug-2331176",
          "description" : "Dow Bags Gain on Value Stocks; FDA Approves Gilead's Anti-Viral Drug",
          "title" : "Dow Bags Gain on Value Stocks; FDA Approves Gilead's Anti-Viral Drug - Investing.com",
-         "url" : "https://www.investing.com/news/stock-market-news/dow-bags-gain-on-value-stocks-fda-approves-gileads-antiviral-drug-2331176",
-         "author" : null,
-         "publishedAt" : "2020-10-22T20:08:00Z",
-         "content" : "By Yasin Ebrahim\r\nInvesting.com The Dow closed higher Thursday, as value stocks plugged the gap left by a fall in tech stocks on signs of progress on stimulus after House Speaker Nancy Pelosi suggest… [+3442 chars]"
+         "urlToImage" : "https://i-invdn-com.akamaized.net/news/LYNXNPEB7N0OT_L.jpg",
+         "content" : "By Yasin Ebrahim\r\nInvesting.com The Dow closed higher Thursday, as value stocks plugged the gap left by a fall in tech stocks on signs of progress on stimulus after House Speaker Nancy Pelosi suggest… [+3442 chars]",
+         "author" : null
       },
       {
+         "urlToImage" : "https://i.ytimg.com/vi/weqSV8iVgJw/maxresdefault.jpg",
+         "title" : "Tesla Dismisses Giga Berlin's Top Boss Possibly for an Error - Torque News",
+         "description" : "Tesla has dismissed the overall project manager for the construction of the electric car factory in Grünheide, Evan Horetsky. The rbb found out on Thursday f...",
+         "publishedAt" : "2020-10-22T19:58:14Z",
          "source" : {
             "name" : "YouTube",
             "id" : null
          },
-         "urlToImage" : "https://i.ytimg.com/vi/weqSV8iVgJw/maxresdefault.jpg",
-         "description" : "Tesla has dismissed the overall project manager for the construction of the electric car factory in Grünheide, Evan Horetsky. The rbb found out on Thursday f...",
          "url" : "https://www.youtube.com/watch?v=weqSV8iVgJw",
-         "title" : "Tesla Dismisses Giga Berlin's Top Boss Possibly for an Error - Torque News",
          "author" : null,
-         "content" : null,
-         "publishedAt" : "2020-10-22T19:58:14Z"
+         "content" : null
       },
       {
-         "description" : "Starting in mid-November, the chicken chain's sauces will hit retailers around the nation with 100% of retail sales supporting the Chick-fil-A Remarkable Futures Scholarship Initiative, which provides scholarships for Chick-fil-A restaurant employees.",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Chick-fil-A-iStock.jpg?ve=1&tl=1",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
          "publishedAt" : "2020-10-22T19:28:17Z",
-         "content" : "Chick-fil-A found another way to help employees pursue a college education: selling its signature sauces at third-party retailers.\r\nStarting in mid-November, the chicken chain's sauces will hit retai… [+1780 chars]",
-         "author" : "Daniella Genovese",
-         "url" : "https://www.foxbusiness.com/lifestyle/chick-fil-a-sauce-donations",
-         "title" : "Chick-fil-A selling signature sauces to help fund college scholarships for employees - Fox Business"
-      },
-      {
-         "description" : "There will be no miracle on 34th Street this year. Santa Claus won't be visiting any Macy's stores in 2020, ending a 159-year holiday season tradition.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201022152347-santa-claus-macys-herald-square-file-super-tease.jpg",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "name" : "Fox Business",
+            "id" : null
          },
-         "publishedAt" : "2020-10-22T19:27:00Z",
-         "content" : null,
-         "author" : "Alexis Benveniste, CNN Business",
-         "url" : "https://www.cnn.com/2020/10/22/business/santa-macys-coronavirus/index.html",
-         "title" : "Santa is skipping Macy's for the first time in 159 years - CNN"
+         "url" : "https://www.foxbusiness.com/lifestyle/chick-fil-a-sauce-donations",
+         "description" : "Starting in mid-November, the chicken chain's sauces will hit retailers around the nation with 100% of retail sales supporting the Chick-fil-A Remarkable Futures Scholarship Initiative, which provides scholarships for Chick-fil-A restaurant employees.",
+         "title" : "Chick-fil-A selling signature sauces to help fund college scholarships for employees - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Chick-fil-A-iStock.jpg?ve=1&tl=1",
+         "content" : "Chick-fil-A found another way to help employees pursue a college education: selling its signature sauces at third-party retailers.\r\nStarting in mid-November, the chicken chain's sauces will hit retai… [+1780 chars]",
+         "author" : "Daniella Genovese"
       },
       {
-         "description" : "President Trump has blamed Democratic officials’ rules for impeding the recovery. But even where restrictions are few, business is far from normal.",
+         "title" : "Santa is skipping Macy's for the first time in 159 years - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201022152347-santa-claus-macys-herald-square-file-super-tease.jpg",
+         "publishedAt" : "2020-10-22T19:27:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "url" : "https://www.cnn.com/2020/10/22/business/santa-macys-coronavirus/index.html",
+         "description" : "There will be no miracle on 34th Street this year. Santa Claus won't be visiting any Macy's stores in 2020, ending a 159-year holiday season tradition.",
+         "author" : "Alexis Benveniste, CNN Business",
+         "content" : null
+      },
+      {
+         "author" : "Ben Casselman, Jim Tankersley",
+         "content" : "We felt it would be worse for us to reopen, he said.\r\nAt Court Avenue Restaurant &amp; Brewing Company, around the corner from Vaudeville Mews and the Lift, the lack of nightlife is taking a toll on … [+888 chars]",
+         "title" : "Iowa Never Locked Down. Its Economy Is Struggling Anyway. - The New York Times",
          "urlToImage" : "https://static01.nyt.com/images/2020/10/23/business/00virus-recovery1/00virus-recovery1-facebookJumbo.jpg",
+         "url" : "https://www.nytimes.com/2020/10/22/business/economy/economy-coronavirus-lockdown-iowa.html",
+         "publishedAt" : "2020-10-22T19:20:00Z",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
-         "publishedAt" : "2020-10-22T19:20:00Z",
-         "content" : "We felt it would be worse for us to reopen, he said.\r\nAt Court Avenue Restaurant &amp; Brewing Company, around the corner from Vaudeville Mews and the Lift, the lack of nightlife is taking a toll on … [+888 chars]",
-         "author" : "Ben Casselman, Jim Tankersley",
-         "title" : "Iowa Never Locked Down. Its Economy Is Struggling Anyway. - The New York Times",
-         "url" : "https://www.nytimes.com/2020/10/22/business/economy/economy-coronavirus-lockdown-iowa.html"
+         "description" : "President Trump has blamed Democratic officials’ rules for impeding the recovery. But even where restrictions are few, business is far from normal."
       },
       {
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UXMFSUQUJUI6XISYMFFM6K4QNU.jpg&w=1440",
-         "source" : {
-            "id" : "the-washington-post",
-            "name" : "The Washington Post"
-         },
-         "description" : "The bank says it will rescind $174 million in salaries and bonuses from top leadership, as well as attempt to claw back $67 million from former executives.",
          "author" : "Jacob Bogage",
+         "content" : "The Justice Department alleged that Goldman Sachs ignored signs of fraud among some of its senior bankers in a scheme that ultimately led to a Malaysian government-backed economic development corpora… [+4579 chars]",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UXMFSUQUJUI6XISYMFFM6K4QNU.jpg&w=1440",
          "title" : "Goldman Sachs fined record $2.9 billion to resolve 1MDB bribery scheme - The Washington Post",
-         "url" : "https://www.washingtonpost.com/business/2020/10/22/goldman-sachs-1mdb-record-fine/",
+         "description" : "The bank says it will rescind $174 million in salaries and bonuses from top leadership, as well as attempt to claw back $67 million from former executives.",
+         "source" : {
+            "name" : "The Washington Post",
+            "id" : "the-washington-post"
+         },
          "publishedAt" : "2020-10-22T19:15:00Z",
-         "content" : "The Justice Department alleged that Goldman Sachs ignored signs of fraud among some of its senior bankers in a scheme that ultimately led to a Malaysian government-backed economic development corpora… [+4579 chars]"
+         "url" : "https://www.washingtonpost.com/business/2020/10/22/goldman-sachs-1mdb-record-fine/"
       },
       {
-         "description" : "Google plans to hire 10,000 workers in Chicago and three other cities over the next five years, with a focus on recruiting Black talent as part of the company’s racial equity commitment announced in June.",
          "urlToImage" : "https://www.chicagotribune.com/resizer/njJ9zuJbf3wamzpAQT5jLAdPa-o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DXEX24UKKJE4FM2DKZVOZHMQAA.jpg",
+         "title" : "Google hiring 10,000 workers in four cities, including Chicago, by 2025 - Chicago Tribune",
+         "description" : "Google plans to hire 10,000 workers in Chicago and three other cities over the next five years, with a focus on recruiting Black talent as part of the company’s racial equity commitment announced in June.",
          "source" : {
             "name" : "Chicago Tribune",
             "id" : null
          },
          "publishedAt" : "2020-10-22T19:11:00Z",
-         "content" : null,
-         "author" : "Abdel Jimenez, Ryan Ori",
          "url" : "https://www.chicagotribune.com/business/ct-biz-google-hiring-workers-chicago-diversity-workforce-20201022-gveasa5cuvbmtjglbjx3ltqtha-story.html",
-         "title" : "Google hiring 10,000 workers in four cities, including Chicago, by 2025 - Chicago Tribune"
+         "author" : "Abdel Jimenez, Ryan Ori",
+         "content" : null
       },
       {
-         "publishedAt" : "2020-10-22T19:08:00Z",
          "content" : "I have recently argued that AT&amp;T (NYSE:T) stock could be a bond substitute, if portfolio risks are managed properly, in the face of a rock-bottom interest rate environment. At the core of my idea… [+4700 chars]",
-         "title" : "AT&T Earnings: A Rare Killer Quarter - Seeking Alpha",
-         "url" : "https://seekingalpha.com/article/4380678-t-earnings-rare-killer-quarter",
          "author" : "D.M. Martins Research",
          "description" : "AT&T's much better-than-expected third-quarter results make me rethink the stock as solely a high-yield play.",
+         "publishedAt" : "2020-10-22T19:08:00Z",
+         "url" : "https://seekingalpha.com/article/4380678-t-earnings-rare-killer-quarter",
          "source" : {
             "id" : null,
             "name" : "Seeking Alpha"
          },
-         "urlToImage" : "https://static.seekingalpha.com/uploads/2020/10/22/saupload_1900x1068_thumb1.jpg"
+         "urlToImage" : "https://static.seekingalpha.com/uploads/2020/10/22/saupload_1900x1068_thumb1.jpg",
+         "title" : "AT&T Earnings: A Rare Killer Quarter - Seeking Alpha"
       },
       {
-         "publishedAt" : "2020-10-22T19:03:00Z",
-         "content" : "Markets are enjoying a period of relative calm, but investors should prepare for a volatility burst as the U.S. heads toward the 2020 presidential election and while the economy is still dealing with… [+3765 chars]",
-         "author" : "Mark DeCambre",
-         "title" : "Markets are in 'eye of the storm' and mounting turmoil will drive stocks lower and 10-year bonds to negative 0.50% - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/markets-are-in-eye-of-the-storm-and-mounting-turmoil-will-drive-stocks-lower-and-10-year-bonds-to-negative-0-50-11603393405",
          "description" : "‘Do not be mistaken. The relative calm we feel right now isn’t the end of the storm, it is just the eye,’ says Guggenheim’s Minerd",
-         "urlToImage" : "https://images.mktw.net/im-248468/social",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
-         }
-      },
-      {
-         "description" : "Jony Ive is a mythic figure in gadget design. He’s the mastermind behind the aesthetic of Apple’s most iconic products, and is internet famous for his Gwyneth Paltrow-esque descriptive phrasing. He’s also got pretty good taste in shoes. Last year, he consciou…",
-         "source" : {
-            "id" : null,
-            "name" : "Gizmodo.com"
          },
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/i7hnvmaexfugsmkqnicv.jpg",
-         "publishedAt" : "2020-10-22T18:50:00Z",
-         "content" : "Jony Ive is a mythic figure in gadget design. Hes the mastermind behind the aesthetic of Apples most iconic products, and is internet famous for his Gwyneth Paltrow-esque descriptive phrasing. Hes al… [+2201 chars]",
-         "title" : "Jony Ive Will Bring Accessible, Relevant, Incredibly Powerful, Personal, Fluid, and Refined Design Sensibiliti - Gizmodo",
-         "url" : "https://gizmodo.com/jony-ive-will-bring-accessible-relevant-incredibly-po-1845452684",
-         "author" : "Victoria Song"
+         "publishedAt" : "2020-10-22T19:03:00Z",
+         "url" : "https://www.marketwatch.com/story/markets-are-in-eye-of-the-storm-and-mounting-turmoil-will-drive-stocks-lower-and-10-year-bonds-to-negative-0-50-11603393405",
+         "urlToImage" : "https://images.mktw.net/im-248468/social",
+         "title" : "Markets are in 'eye of the storm' and mounting turmoil will drive stocks lower and 10-year bonds to negative 0.50% - MarketWatch",
+         "content" : "Markets are enjoying a period of relative calm, but investors should prepare for a volatility burst as the U.S. heads toward the 2020 presidential election and while the economy is still dealing with… [+3765 chars]",
+         "author" : "Mark DeCambre"
       },
       {
+         "title" : "Jony Ive Will Bring Accessible, Relevant, Incredibly Powerful, Personal, Fluid, and Refined Design Sensibiliti - Gizmodo",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/i7hnvmaexfugsmkqnicv.jpg",
+         "url" : "https://gizmodo.com/jony-ive-will-bring-accessible-relevant-incredibly-po-1845452684",
+         "publishedAt" : "2020-10-22T18:50:00Z",
+         "source" : {
+            "name" : "Gizmodo.com",
+            "id" : null
+         },
+         "description" : "Jony Ive is a mythic figure in gadget design. He’s the mastermind behind the aesthetic of Apple’s most iconic products, and is internet famous for his Gwyneth Paltrow-esque descriptive phrasing. He’s also got pretty good taste in shoes. Last year, he consciou…",
+         "author" : "Victoria Song",
+         "content" : "Jony Ive is a mythic figure in gadget design. Hes the mastermind behind the aesthetic of Apples most iconic products, and is internet famous for his Gwyneth Paltrow-esque descriptive phrasing. Hes al… [+2201 chars]"
+      },
+      {
+         "content" : "McAfees\r\n second trip to the public equity markets didnt continue the recent success of technology IPOs. Shares of the cybersecurity company hit a high of $19.50 Thursday, below its $20 IPO price, an… [+3859 chars]",
+         "author" : "Luisa Beltran",
+         "publishedAt" : "2020-10-22T18:38:00Z",
          "source" : {
             "name" : "Barron's",
             "id" : null
          },
-         "urlToImage" : "https://images.barrons.com/im-248269/social",
-         "description" : "",
          "url" : "https://www.barrons.com/articles/cybersecurity-company-mcafee-set-to-start-trading-after-raising-740-million-51603372462",
+         "description" : "",
          "title" : "McAfee Stock Falls Below $20 IPO Price in Trading Debut - Barron's",
-         "author" : "Luisa Beltran",
-         "content" : "McAfees\r\n second trip to the public equity markets didnt continue the recent success of technology IPOs. Shares of the cybersecurity company hit a high of $19.50 Thursday, below its $20 IPO price, an… [+3859 chars]",
-         "publishedAt" : "2020-10-22T18:38:00Z"
+         "urlToImage" : "https://images.barrons.com/im-248269/social"
       }
-   ],
-   "totalResults" : 70
+   ]
 }
