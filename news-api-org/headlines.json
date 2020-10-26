@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "articles" : [
       {
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "publishedAt" : "2020-10-26T12:18:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106150774-1569512647573gettyimages-843749766.jpeg?v=1603713864",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
          "title" : "Stocks making the biggest moves premarket: Dunkin' Brands, AstraZeneca, Hasbro & more - CNBC",
-         "author" : "Fred Imbert",
          "url" : "https://www.cnbc.com/2020/10/26/stocks-making-the-biggest-moves-premarket-dunkin-brands-astrazeneca-hasbro-more.html",
+         "author" : "Fred Imbert",
+         "description" : "Dunkin' Brands is talking about going private. Bank of America says Winnebago will keep benefiting from the recent RV craze.",
          "content" : "Check out the companies making headlines before the bell Monday:\r\nDunkin' Brands (DNKN) Dunkin' shares rallied more than 15% in the premarket after the company said it was in talks to be acquired by … [+2596 chars]",
-         "description" : "Dunkin' Brands is talking about going private. Bank of America says Winnebago will keep benefiting from the recent RV craze."
+         "publishedAt" : "2020-10-26T12:18:00Z"
       },
       {
-         "publishedAt" : "2020-10-26T12:01:34Z",
+         "title" : "Walmart exclusively nabs KFC's coveted chicken-scented firelogs - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/KFC-Fire-logs.jpg?ve=1&tl=1",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/KFC-Fire-logs.jpg?ve=1&tl=1",
-         "title" : "Walmart exclusively nabs KFC's coveted chicken-scented firelogs - Fox Business",
-         "author" : "Daniella Genovese",
          "content" : "If you can't bear the holidays without the smell of fried chicken roasting in your fireplace, Walmart has you covered.\r\nThe nation's largest retailer is exclusively launching KFC's highly coveted Her… [+1518 chars]",
-         "url" : "https://www.foxbusiness.com/lifestyle/kfc-walmart-chicken-scent-fire-logs",
-         "description" : "The move gives the retailer an edge over competitors due to the fact that the product has sold out two years in a row."
+         "publishedAt" : "2020-10-26T12:01:34Z",
+         "description" : "The move gives the retailer an edge over competitors due to the fact that the product has sold out two years in a row.",
+         "author" : "Daniella Genovese",
+         "url" : "https://www.foxbusiness.com/lifestyle/kfc-walmart-chicken-scent-fire-logs"
       },
       {
-         "content" : "Eugene, Oregon-based Arcimoto’s three-wheeled electric Fun Utility Vehicle (FUV) is marching towards an annual production rate of 50,000 vehicles in two years. And to get all of those FUVs to their n… [+2676 chars]",
          "url" : "https://electrek.co/2020/10/26/arcimoto-fuv-three-wheel-electric-vehicle-dhl-home-delivery/",
          "author" : null,
-         "description" : "Eugene, Oregon-based Arcimoto’s three-wheeled electric Fun Utility Vehicle (FUV) is marching towards an annual production rate of 50,000 vehicles in two years. And to get all of those FUVs to their new owners, Arcimoto has just announced a partnership with DH…",
+         "content" : "Eugene, Oregon-based Arcimoto’s three-wheeled electric Fun Utility Vehicle (FUV) is marching towards an annual production rate of 50,000 vehicles in two years. And to get all of those FUVs to their n… [+2676 chars]",
          "publishedAt" : "2020-10-26T12:00:00Z",
+         "description" : "Eugene, Oregon-based Arcimoto’s three-wheeled electric Fun Utility Vehicle (FUV) is marching towards an annual production rate of 50,000 vehicles in two years. And to get all of those FUVs to their new owners, Arcimoto has just announced a partnership with DH…",
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/02/fuvheader-e1580955365285.jpg?quality=82&strip=all",
          "source" : {
             "name" : "Electrek",
             "id" : null
          },
-         "title" : "Arcimoto’s 3-wheeled electric fun-mobile is headed for mass production, residential delivery - Electrek.co",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/02/fuvheader-e1580955365285.jpg?quality=82&strip=all"
+         "title" : "Arcimoto’s 3-wheeled electric fun-mobile is headed for mass production, residential delivery - Electrek.co"
       },
       {
-         "urlToImage" : "https://static01.nyt.com/images/2020/10/20/world/00ant-ipo/00ant-ipo-facebookJumbo.jpg",
-         "title" : "Ant Group Set to Raise $34 Billion in World’s Biggest I.P.O. - The New York Times",
+         "url" : "https://www.nytimes.com/2020/10/26/technology/ant-group-ipo-valuation.html",
+         "author" : "Raymond Zhong",
+         "description" : "The Alibaba online finance spinoff, which offers people in China a one-stop shop for loans, investments and more, will list shares in Hong Kong and Shanghai.",
+         "content" : "Ant Group, the Chinese financial technology titan, is set to raise around $34 billion when its shares begin trading in Hong Kong and Shanghai in the coming weeks, which would make its initial public … [+1184 chars]",
          "publishedAt" : "2020-10-26T11:53:00Z",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
-         "description" : "The Alibaba online finance spinoff, which offers people in China a one-stop shop for loans, investments and more, will list shares in Hong Kong and Shanghai.",
-         "author" : "Raymond Zhong",
-         "url" : "https://www.nytimes.com/2020/10/26/technology/ant-group-ipo-valuation.html",
-         "content" : "Ant Group, the Chinese financial technology titan, is set to raise around $34 billion when its shares begin trading in Hong Kong and Shanghai in the coming weeks, which would make its initial public … [+1184 chars]"
+         "urlToImage" : "https://static01.nyt.com/images/2020/10/20/world/00ant-ipo/00ant-ipo-facebookJumbo.jpg",
+         "title" : "Ant Group Set to Raise $34 Billion in World’s Biggest I.P.O. - The New York Times"
       },
       {
-         "publishedAt" : "2020-10-26T11:52:54Z",
+         "title" : "The adult amusement park of yesterday, the Holiday Inn Holidome - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201016090432-holidome-3-super-tease.jpg",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201016090432-holidome-3-super-tease.jpg",
-         "title" : "The adult amusement park of yesterday, the Holiday Inn Holidome - CNN",
-         "author" : "By Megan Marples, CNN",
+         "description" : "Do you remember the Holiday Inn Holidome? Take a nostalgic look back at the era when the chain created a covered playground with indoor golf, tiki bars, swimming pools and more.",
          "content" : "Megan Marples, CNNPublished 26th October 2020\r\n(CNN) Indoor pools, recreation facilities and even business centers. \r\nThose are common amenities at many hotels today, but it wasn't too long ago that … [+4488 chars]",
+         "publishedAt" : "2020-10-26T11:52:54Z",
          "url" : "https://www.cnn.com/travel/article/holiday-inn-holidome/index.html",
-         "description" : "Do you remember the Holiday Inn Holidome? Take a nostalgic look back at the era when the chain created a covered playground with indoor golf, tiki bars, swimming pools and more."
+         "author" : "By Megan Marples, CNN"
       },
       {
-         "url" : "https://www.marketwatch.com/story/why-2016-tells-us-the-elections-biggest-surprise-will-bring-a-great-2021-for-investors-strategist-says-11603711798",
-         "content" : "Investors are gearing up for the busiest week of third-quarter earnings season, as October ends with a flurry of corporate results. Apple \r\n AAPL,\r\n -0.61%\r\n,\r\n Google parent Alphabet \r\n GOOG,\r\n +1.5… [+5342 chars]",
-         "author" : "Callum Keown",
-         "description" : "",
+         "title" : "Why 2016 tells us the election’s ‘biggest surprise’ will bring a great 2021 for investors, strategist says - MarketWatch",
+         "urlToImage" : "https://images.mktw.net/im-249579/social",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
+         "content" : "Investors are gearing up for the busiest week of third-quarter earnings season, as October ends with a flurry of corporate results. Apple \r\n AAPL,\r\n -0.61%\r\n,\r\n Google parent Alphabet \r\n GOOG,\r\n +1.5… [+5342 chars]",
          "publishedAt" : "2020-10-26T11:30:44Z",
-         "title" : "Why 2016 tells us the election’s ‘biggest surprise’ will bring a great 2021 for investors, strategist says - MarketWatch",
-         "urlToImage" : "https://images.mktw.net/im-249579/social"
+         "description" : "",
+         "url" : "https://www.marketwatch.com/story/why-2016-tells-us-the-elections-biggest-surprise-will-bring-a-great-2021-for-investors-strategist-says-11603711798",
+         "author" : "Callum Keown"
       },
       {
+         "description" : "Home Depot's Black Friday 2020 sale runs Nov. 6 through Dec. 2 amid the COVID-19 pandemic. The holiday deals will be available while supplies last.",
          "publishedAt" : "2020-10-26T11:05:13Z",
+         "content" : "Retailers are kicking off the holiday season earlier than ever this year in hopes of avoiding big in-store crowds in November and December, creating a potentially dangerous situation during a pandemi… [+4086 chars]",
+         "url" : "https://www.usatoday.com/story/money/holidays/2020/10/26/black-friday-2020-home-depot-ad-doorbusters-savings-coronavirus/3731064001/",
+         "author" : "Kelly Tyko",
+         "title" : "Home Depot releases Black Friday sales ad with deals starting Nov. 6 amid the coronavirus pandemic - USA TODAY",
          "source" : {
             "name" : "USA Today",
             "id" : "usa-today"
          },
-         "title" : "Home Depot releases Black Friday sales ad with deals starting Nov. 6 amid the coronavirus pandemic - USA TODAY",
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/5d0390dc69aa8edd4221775ab28320a75c973f55/c=0-176-3370-2072/local/-/media/2020/10/16/USATODAY/usatsports/MotleyFool-TMOT-81254f95-c785828e.jpg?width=3200&height=1680&fit=crop",
-         "content" : "Retailers are kicking off the holiday season earlier than ever this year in hopes of avoiding big in-store crowds in November and December, creating a potentially dangerous situation during a pandemi… [+4086 chars]",
-         "url" : "https://www.usatoday.com/story/money/holidays/2020/10/26/black-friday-2020-home-depot-ad-doorbusters-savings-coronavirus/3731064001/",
-         "author" : "Kelly Tyko",
-         "description" : "Home Depot's Black Friday 2020 sale runs Nov. 6 through Dec. 2 amid the COVID-19 pandemic. The holiday deals will be available while supplies last."
+         "urlToImage" : "https://www.gannett-cdn.com/-mm-/5d0390dc69aa8edd4221775ab28320a75c973f55/c=0-176-3370-2072/local/-/media/2020/10/16/USATODAY/usatsports/MotleyFool-TMOT-81254f95-c785828e.jpg?width=3200&height=1680&fit=crop"
       },
       {
-         "description" : "Indoor dining and bar service will likely be suspended again in Metro East beginning Wednesday.",
-         "author" : "Erin Heffernan",
-         "content" : "ST. LOUIS State COVID-19 restrictions, including the closure of indoor service at bars and restaurants, are likely to return to the Metro East this week, leaving restaurant owners scrambling to find … [+1105 chars]",
          "url" : "https://www.stltoday.com/news/local/illinois/clamping-down-restrictions-likely-to-return-to-metro-east-cases-surging-again-in-stl-area/article_db73a562-3889-5494-b12a-6f343bda20a3.html",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/28/328aa54d-384f-54b8-a3d3-a6ecd5e3a34c/5f4eb803169e7.image.jpg?crop=1801%2C1013%2C0%2C68&resize=1120%2C630&order=crop%2Cresize",
-         "title" : "Clamping down: Restrictions likely to return to Metro East, cases surging again in STL area - STLtoday.com",
+         "author" : "Erin Heffernan",
+         "description" : "Indoor dining and bar service will likely be suspended again in Metro East beginning Wednesday.",
          "publishedAt" : "2020-10-26T11:00:00Z",
+         "content" : "ST. LOUIS State COVID-19 restrictions, including the closure of indoor service at bars and restaurants, are likely to return to the Metro East this week, leaving restaurant owners scrambling to find … [+1105 chars]",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/28/328aa54d-384f-54b8-a3d3-a6ecd5e3a34c/5f4eb803169e7.image.jpg?crop=1801%2C1013%2C0%2C68&resize=1120%2C630&order=crop%2Cresize",
          "source" : {
             "name" : "STLtoday.com",
+            "id" : null
+         },
+         "title" : "Clamping down: Restrictions likely to return to Metro East, cases surging again in STL area - STLtoday.com"
+      },
+      {
+         "publishedAt" : "2020-10-26T10:43:00Z",
+         "content" : "PayPal has terminated its services to domain registrar Epik, allegedly due to a risk of money laundering through its alternative currency Masterbucks, according to an article on Mashable.\r\nHowever, i… [+1344 chars]",
+         "description" : "Epik domain registrar claims the move is politically motivated to silence conservative voices.",
+         "url" : "https://cointelegraph.com/news/paypal-de-platforms-conservative-domain-registrar-over-alternative-currency",
+         "author" : "Jack Martin",
+         "title" : "PayPal de-platforms conservative domain registrar over ‘alternative currency’ - Cointelegraph",
+         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-10/5ac471e0-2109-4465-b731-c13229d88344.jpg",
+         "source" : {
+            "name" : "Cointelegraph",
             "id" : null
          }
       },
       {
-         "title" : "PayPal de-platforms conservative domain registrar over ‘alternative currency’ - Cointelegraph",
-         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-10/5ac471e0-2109-4465-b731-c13229d88344.jpg",
-         "publishedAt" : "2020-10-26T10:43:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Cointelegraph"
-         },
-         "description" : "Epik domain registrar claims the move is politically motivated to silence conservative voices.",
-         "url" : "https://cointelegraph.com/news/paypal-de-platforms-conservative-domain-registrar-over-alternative-currency",
-         "content" : "PayPal has terminated its services to domain registrar Epik, allegedly due to a risk of money laundering through its alternative currency Masterbucks, according to an article on Mashable.\r\nHowever, i… [+1344 chars]",
-         "author" : "Jack Martin"
-      },
-      {
-         "publishedAt" : "2020-10-26T10:33:19Z",
-         "source" : {
-            "id" : null,
-            "name" : "Endpoints News"
-         },
-         "urlToImage" : "https://endpts.com/wp-content/uploads/2020/10/Gary-Glick-Keith-Flaherty-Scorpion-scaled.jpg",
-         "title" : "What can a biotech entrepreneur and a top scientist come up with on a couple of shared flights? Well... - Endpoints News",
-         "author" : "John Carroll",
-         "url" : "https://endpts.com/what-can-a-biotech-entrepreneur-and-a-top-scientist-come-up-with-on-a-couple-of-shared-flights-well/",
          "content" : "Just weeks be­fore the pan­dem­ic hit the states, Gary Glick and Kei­th Fla­her­ty had a chance to spend 12 hours to­geth­er, talk­ing craft and trade on board shared flights as they head­ed to and f… [+3436 chars]",
-         "description" : "Just weeks before the pandemic hit the states, Gary Glick and Keith Flaherty had a chance to spend 12 hours together, talking craft and trade on board shared flights as they headed to and from a board meeting together. It may have been the most fruitful 12 ho…"
+         "publishedAt" : "2020-10-26T10:33:19Z",
+         "description" : "Just weeks before the pandemic hit the states, Gary Glick and Keith Flaherty had a chance to spend 12 hours together, talking craft and trade on board shared flights as they headed to and from a board meeting together. It may have been the most fruitful 12 ho…",
+         "url" : "https://endpts.com/what-can-a-biotech-entrepreneur-and-a-top-scientist-come-up-with-on-a-couple-of-shared-flights-well/",
+         "author" : "John Carroll",
+         "title" : "What can a biotech entrepreneur and a top scientist come up with on a couple of shared flights? Well... - Endpoints News",
+         "source" : {
+            "name" : "Endpoints News",
+            "id" : null
+         },
+         "urlToImage" : "https://endpts.com/wp-content/uploads/2020/10/Gary-Glick-Keith-Flaherty-Scorpion-scaled.jpg"
       },
       {
-         "title" : "Oxford-AstraZeneca coronavirus vaccine triggers immune response among adults - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106752799-16032167322020-10-20t163915z_956403597_rc2gmj9l007d_rtrmadp_0_health-coronavirus-astrazeneca-usa.jpeg?v=1603216788",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "publishedAt" : "2020-10-26T10:06:00Z",
-         "description" : "The announcement is likely to boost hopes of a Covid vaccine being developed before the end of the year.",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106752799-16032167322020-10-20t163915z_956403597_rc2gmj9l007d_rtrmadp_0_health-coronavirus-astrazeneca-usa.jpeg?v=1603216788",
+         "title" : "Oxford-AstraZeneca coronavirus vaccine triggers immune response among adults - CNBC",
          "url" : "https://www.cnbc.com/2020/10/26/oxford-astrazeneca-coronavirus-vaccine-reportedly-triggers-immune-response-among-adults-.html",
+         "author" : "Sam Meredith",
          "content" : "LONDON British pharmaceutical giant AstraZeneca on Monday said its potential Covid-19 vaccine had produced a similar immune response in both older and younger adults.\r\nAdverse responses to the vaccin… [+1485 chars]",
-         "author" : "Sam Meredith"
+         "publishedAt" : "2020-10-26T10:06:00Z",
+         "description" : "The announcement is likely to boost hopes of a Covid vaccine being developed before the end of the year."
       },
       {
-         "author" : "Kalea Hall",
+         "description" : "Now that Lordstown Motors Corp. has the financial backing it needs, the electric vehicle startup is preparing to deliver its electric truck by next September",
+         "publishedAt" : "2020-10-26T10:01:25Z",
          "content" : "Farmington Hills  Now that Lordstown Motors Corp. has the financial backing it needs, the electric vehicle startup is hoping to beat its competition to market by delivering its electric truck by next… [+5951 chars]",
          "url" : "https://www.detroitnews.com/story/business/autos/general-motors/2020/10/26/lordstown-motors-pushes-forward-endurance-truck/3728164001/",
-         "description" : "Now that Lordstown Motors Corp. has the financial backing it needs, the electric vehicle startup is preparing to deliver its electric truck by next September",
+         "author" : "Kalea Hall",
+         "title" : "Lordstown Motors pushes forward with Endurance electric truck - The Detroit News",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/10/23/PDTN/440c0d70-ae4c-4054-8556-73966428a335-102320-tm-LMC-0377.jpg?crop=4100,2306,x0,y109&width=3200&height=1680&fit=bounds",
          "source" : {
             "name" : "The Detroit News",
             "id" : null
-         },
-         "publishedAt" : "2020-10-26T10:01:25Z",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/10/23/PDTN/440c0d70-ae4c-4054-8556-73966428a335-102320-tm-LMC-0377.jpg?crop=4100,2306,x0,y109&width=3200&height=1680&fit=bounds",
-         "title" : "Lordstown Motors pushes forward with Endurance electric truck - The Detroit News"
+         }
       },
       {
-         "source" : {
-            "id" : "the-washington-post",
-            "name" : "The Washington Post"
-         },
-         "publishedAt" : "2020-10-26T10:00:00Z",
-         "title" : "Big Tech’s biggest critics are racing to raise money for Biden’s campaign - The Washington Post",
          "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSVPYVAWDUI6XISYMFFM6K4QNU.jpg&w=1440",
-         "content" : "Those of us who are trying to reform the technology industry have two choices, McNamee said in an interview. We can scream from the cheap seats, or we can participate in the process. \r\nWere trying to… [+5565 chars]",
+         "source" : {
+            "name" : "The Washington Post",
+            "id" : "the-washington-post"
+         },
+         "title" : "Big Tech’s biggest critics are racing to raise money for Biden’s campaign - The Washington Post",
          "url" : "https://www.washingtonpost.com/technology/2020/10/26/biden-big-tech-fundraiser/",
          "author" : "Tony Romm",
+         "publishedAt" : "2020-10-26T10:00:00Z",
+         "content" : "Those of us who are trying to reform the technology industry have two choices, McNamee said in an interview. We can scream from the cheap seats, or we can participate in the process. \r\nWere trying to… [+5565 chars]",
          "description" : "Some of the staunchest critics of Facebook, Google and other Silicon Valley giants are ramping up their efforts — and their donations — to try to convince former vice president Joe Biden to take a harder line against the tech industry if he wins the 2020 elec…"
       },
       {
-         "author" : "Sam Shead",
-         "content" : "LONDON German enterprise software group SAP saw its market valuation fall by 25 billion euros ($30 billion) on Monday as shares collapsed by over 17% following disappointing third-quarter results.\r\nT… [+937 chars]",
-         "url" : "https://www.cnbc.com/2020/10/26/sap-market-cap-plunges-by-30-billion.html",
          "description" : "SAP saw its valuation fall by $30 billion on Monday as shares collapsed by over 17% following disappointing third quarter results.",
+         "content" : "LONDON German enterprise software group SAP saw its market valuation fall by 25 billion euros ($30 billion) on Monday as shares collapsed by over 17% following disappointing third-quarter results.\r\nT… [+937 chars]",
          "publishedAt" : "2020-10-26T09:53:00Z",
+         "url" : "https://www.cnbc.com/2020/10/26/sap-market-cap-plunges-by-30-billion.html",
+         "author" : "Sam Shead",
+         "title" : "SAP just saw $30 billion wiped off its market cap and it's on track for its worst trading day in 12 years - CNBC",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106192376-1571639765203gettyimages-1090745214.jpeg?v=1571639868",
-         "title" : "SAP just saw $30 billion wiped off its market cap and it's on track for its worst trading day in 12 years - CNBC"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106192376-1571639765203gettyimages-1090745214.jpeg?v=1571639868"
       },
       {
-         "publishedAt" : "2020-10-26T09:51:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/596293/analyzing-stock-market-growth-chart-getty.jpg",
          "source" : {
-            "name" : "Motley Fool",
-            "id" : null
+            "id" : null,
+            "name" : "Motley Fool"
          },
          "title" : "Got $3,000? 4 Proven Stocks to Buy Right Now - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/596293/analyzing-stock-market-growth-chart-getty.jpg",
-         "content" : "It's possible that investors may never see a year as volatile as the one they've experienced in 2020. The unprecedented coronavirus disease 2019 (COVID-19) pandemic led to record levels of uncertaint… [+5643 chars]",
          "url" : "https://www.fool.com/investing/2020/10/26/got-3000-4-proven-stocks-to-buy-right-now/",
          "author" : "Sean Williams",
+         "content" : "It's possible that investors may never see a year as volatile as the one they've experienced in 2020. The unprecedented coronavirus disease 2019 (COVID-19) pandemic led to record levels of uncertaint… [+5643 chars]",
+         "publishedAt" : "2020-10-26T09:51:00Z",
          "description" : "Sometimes, buying bigger can really be better."
       },
       {
-         "description" : null,
-         "author" : null,
-         "content" : null,
          "url" : "https://seekingalpha.com/news/3625557-bayer-to-acquire-asklepios-bio-for-4b",
+         "author" : null,
+         "description" : null,
+         "content" : null,
+         "publishedAt" : "2020-10-26T09:25:00Z",
          "urlToImage" : null,
-         "title" : "Bayer to acquire Asklepios Bio for $4B - Seeking Alpha",
          "source" : {
             "id" : null,
             "name" : "Seeking Alpha"
          },
-         "publishedAt" : "2020-10-26T09:25:00Z"
+         "title" : "Bayer to acquire Asklepios Bio for $4B - Seeking Alpha"
       },
       {
-         "title" : "Tesla is reportedly shipping 7,000 made-in-China cars to Europe - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106189709-1571404474978rts2roc3.jpg?v=1571404544",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "publishedAt" : "2020-10-26T09:25:00Z",
          "description" : "Tesla will begin sending made-in-China Model 3 electric cars to Europe on Tuesday, according to Chinese media reports.",
-         "url" : "https://www.cnbc.com/2020/10/26/tesla-is-reportedly-shipping-7000-made-in-china-cars-to-europe.html",
+         "publishedAt" : "2020-10-26T09:25:00Z",
          "content" : "BEIJING Tesla will begin shipping made-in-China electric cars to Europe on Tuesday, according to Chinese media reports.\r\nAbout 7,000 Model 3s made at the Shanghai gigafactory are set for arrival in B… [+1389 chars]",
-         "author" : "Evelyn Cheng"
-      },
-      {
-         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-10/64e43dcd-175f-44cf-aa7f-31d87ddacc9e.jpg",
-         "title" : "Highest weekly close since early 2018: 5 Bitcoin price tips this week - Cointelegraph",
-         "publishedAt" : "2020-10-26T09:21:49Z",
+         "url" : "https://www.cnbc.com/2020/10/26/tesla-is-reportedly-shipping-7000-made-in-china-cars-to-europe.html",
+         "author" : "Evelyn Cheng",
+         "title" : "Tesla is reportedly shipping 7,000 made-in-China cars to Europe - CNBC",
          "source" : {
-            "name" : "Cointelegraph",
+            "name" : "CNBC",
             "id" : null
          },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106189709-1571404474978rts2roc3.jpg?v=1571404544"
+      },
+      {
          "description" : "Another bullish start to the week comes as macro markets falter and one analyst says price growth will go “vertical” in early 2021",
-         "author" : "William Suberg",
          "content" : "Bitcoin (BTC) starts a new week still at $13,000 and wholly unfazed by problems in the global economy whats in store next?\r\nCointelegraph takes a look at the potential issues at stake for Bitcoin in … [+6456 chars]",
-         "url" : "https://cointelegraph.com/news/highest-weekly-close-since-early-2018-5-bitcoin-price-tips-this-week"
+         "publishedAt" : "2020-10-26T09:21:49Z",
+         "url" : "https://cointelegraph.com/news/highest-weekly-close-since-early-2018-5-bitcoin-price-tips-this-week",
+         "author" : "William Suberg",
+         "title" : "Highest weekly close since early 2018: 5 Bitcoin price tips this week - Cointelegraph",
+         "source" : {
+            "id" : null,
+            "name" : "Cointelegraph"
+         },
+         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-10/64e43dcd-175f-44cf-aa7f-31d87ddacc9e.jpg"
       },
       {
          "title" : "European stocks slump after SAP profit warning and new COVID-19 restrictions - MarketWatch",
-         "urlToImage" : "https://images.mktw.net/im-249561/social",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
+         "urlToImage" : "https://images.mktw.net/im-249561/social",
          "publishedAt" : "2020-10-26T09:12:00Z",
+         "content" : "European stocks traded lower on Monday on a combination of worries, including a profit warning from business software giant SAP, new restrictions on activity in response to COVID-19, and difficulties… [+2996 chars]",
          "description" : "",
          "url" : "https://www.marketwatch.com/story/european-stocks-slump-after-sap-profit-warning-and-new-covid-19-restrictions-11603699951",
-         "content" : "European stocks traded lower on Monday on a combination of worries, including a profit warning from business software giant SAP, new restrictions on activity in response to COVID-19, and difficulties… [+2996 chars]",
          "author" : "Steve Goldstein"
       },
       {
-         "title" : "How the Virus Slowed the Booming Wind Energy Business - The New York Times",
-         "urlToImage" : "https://static01.nyt.com/images/2020/10/07/business/00wind-farm1a/00wind-farm1a-facebookJumbo.jpg",
+         "url" : "https://www.nytimes.com/2020/10/26/business/energy-environment/coronavirus-renewable-energy-wind.html",
+         "author" : "Ivan Penn, Walker Pickering",
+         "description" : "Renewable energy developers have struggled to finish projects as the pandemic disrupts construction and global supply chains.",
+         "content" : "On March 13, EDF was preparing the site to receive three dozen blades that harness the wind. These are some of the first components the company had expected to arrive in the village of Milligan, Neb.… [+1016 chars]",
          "publishedAt" : "2020-10-26T09:00:00Z",
          "source" : {
             "id" : null,
             "name" : "New York Times"
          },
-         "description" : "Renewable energy developers have struggled to finish projects as the pandemic disrupts construction and global supply chains.",
-         "url" : "https://www.nytimes.com/2020/10/26/business/energy-environment/coronavirus-renewable-energy-wind.html",
-         "content" : "On March 13, EDF was preparing the site to receive three dozen blades that harness the wind. These are some of the first components the company had expected to arrive in the village of Milligan, Neb.… [+1016 chars]",
-         "author" : "Ivan Penn, Walker Pickering"
+         "urlToImage" : "https://static01.nyt.com/images/2020/10/07/business/00wind-farm1a/00wind-farm1a-facebookJumbo.jpg",
+         "title" : "How the Virus Slowed the Booming Wind Energy Business - The New York Times"
       }
    ],
+   "status" : "ok",
    "totalResults" : 70
 }
