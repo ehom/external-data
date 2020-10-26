@@ -1,31 +1,30 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
-         "author" : "Jazmin Goodwin, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201025171847-dunkin-donuts-0731-file-super-tease.jpg",
-         "publishedAt" : "2020-10-26T00:22:43Z",
-         "description" : "Dunkin Brands', the parent company of Dunkin' and Baskin-Robbins, is in \"preliminary discussions\" to be acquired by private equity-backed Inspire Brands.",
-         "title" : "Dunkin' Brands in talks to go private - CNN",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
          "url" : "https://www.cnn.com/2020/10/25/business/dunkin-brands-acquisition-talks-inspire-brands/index.html",
          "content" : null,
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         }
+         "author" : "Jazmin Goodwin, CNN Business",
+         "description" : "Dunkin Brands', the parent company of Dunkin' and Baskin-Robbins, is in \"preliminary discussions\" to be acquired by private equity-backed Inspire Brands.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201025171847-dunkin-donuts-0731-file-super-tease.jpg",
+         "publishedAt" : "2020-10-26T00:22:43Z",
+         "title" : "Dunkin' Brands in talks to go private - CNN"
       },
       {
-         "url" : "https://gizmodo.com/trump-administration-reportedly-offered-santa-claus-per-1845478215",
-         "title" : "Trump Administration Reportedly Offered Santa Claus Performers Coronavirus Vaccine Quid Pro Quo - Gizmodo",
-         "description" : "Although by now it’s clear that the Trump administration holds nothing sacred, there are still some things it can do to shock our tired brains. Apparently, it has tried to get Santa Claus—Santa!—to participate in its crazy pandemic response plans.",
          "publishedAt" : "2020-10-25T23:33:35Z",
          "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/tgmlikohfutzvsudttpw.jpg",
+         "description" : "Although by now it’s clear that the Trump administration holds nothing sacred, there are still some things it can do to shock our tired brains. Apparently, it has tried to get Santa Claus—Santa!—to participate in its crazy pandemic response plans.",
          "author" : "Jody Serrano",
+         "title" : "Trump Administration Reportedly Offered Santa Claus Performers Coronavirus Vaccine Quid Pro Quo - Gizmodo",
          "source" : {
-            "name" : "Gizmodo.com",
-            "id" : null
+            "id" : null,
+            "name" : "Gizmodo.com"
          },
+         "url" : "https://gizmodo.com/trump-administration-reportedly-offered-santa-claus-per-1845478215",
          "content" : "Although by now its clear that the Trump administration holds nothing sacred, there are still some things it can do to shock our tired brains. Apparently, it has tried to get Santa ClausSanta!to part… [+5239 chars]"
       },
       {
@@ -33,234 +32,235 @@
             "name" : "Investing.com",
             "id" : null
          },
-         "content" : "(Reuters) - Coca-Cola Amatil Ltd (AX:CCL) said on Monday that Coca-Cola European Partners (L:CCEPC) offered to buy the Australian bottler for A$9.23 billion ($6.58 billion), in what would be the coun… [+1431 chars]",
          "url" : "https://www.investing.com/news/stock-market-news/cocacola-amatil-gets-66-billion-takeover-offer-from-cocacola-european-partners-2332601",
-         "description" : "Coca-Cola European Partners makes $6.6 billion takeover offer for Coca-Cola Amatil",
-         "title" : "Coca-Cola European Partners makes $6.6 billion takeover offer for Coca-Cola Amatil - Investing.com",
-         "publishedAt" : "2020-10-25T23:20:00Z",
+         "content" : "(Reuters) - Coca-Cola Amatil Ltd (AX:CCL) said on Monday that Coca-Cola European Partners (L:CCEPC) offered to buy the Australian bottler for A$9.23 billion ($6.58 billion), in what would be the coun… [+1431 chars]",
+         "author" : null,
          "urlToImage" : "https://i-invdn-com.akamaized.net/trkd-images/LYNXMPEG9O0LZ_L.jpg",
-         "author" : null
+         "publishedAt" : "2020-10-25T23:20:00Z",
+         "description" : "Coca-Cola European Partners makes $6.6 billion takeover offer for Coca-Cola Amatil",
+         "title" : "Coca-Cola European Partners makes $6.6 billion takeover offer for Coca-Cola Amatil - Investing.com"
       },
       {
+         "url" : "https://www.nydailynews.com/new-york/ny-omny-refund-nyc-subway-service-20201025-2rkc5m567vfllkw4a7d5xygmii-story.html",
          "content" : null,
          "source" : {
             "id" : null,
             "name" : "New York Daily News"
          },
-         "author" : "Clayton Guse",
-         "urlToImage" : "https://www.nydailynews.com/resizer/oBkS8DDkYIO08yo1YKKpjQEZXBk=/1200x0/left/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/Z6LTCYPSPZBITJTHXMNI4VP7XY.JPG",
-         "publishedAt" : "2020-10-25T22:57:00Z",
-         "description" : "Christopher Volpe, 28, used his Chase bank card programmed onto his smartphone to enter the turnstiles at Columbus Circle on Sept. 18. when he found trains on the A and C lines were delayed by more than 15 minutes.",
          "title" : "MTA’s OMNY system allows refund for poor NYC subway service - New York Daily News",
-         "url" : "https://www.nydailynews.com/new-york/ny-omny-refund-nyc-subway-service-20201025-2rkc5m567vfllkw4a7d5xygmii-story.html"
+         "urlToImage" : "https://www.nydailynews.com/resizer/oBkS8DDkYIO08yo1YKKpjQEZXBk=/1200x0/left/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/Z6LTCYPSPZBITJTHXMNI4VP7XY.JPG",
+         "description" : "Christopher Volpe, 28, used his Chase bank card programmed onto his smartphone to enter the turnstiles at Columbus Circle on Sept. 18. when he found trains on the A and C lines were delayed by more than 15 minutes.",
+         "publishedAt" : "2020-10-25T22:57:00Z",
+         "author" : "Clayton Guse"
       },
       {
-         "author" : "Miriam Gottfried",
-         "urlToImage" : "https://images.wsj.net/im-249286/social",
-         "publishedAt" : "2020-10-25T21:01:00Z",
-         "description" : "Private-equity firm says self-storage is resilient as coronavirus crisis leads people to move",
-         "title" : "Blackstone to Buy Simply Self Storage for About $1.2 Billion - The Wall Street Journal",
-         "url" : "https://www.wsj.com/articles/blackstone-to-buy-simply-self-storage-for-about-1-2-billion-11603656073",
-         "content" : "Blackstone Group Inc. has struck a deal to buy Simply Self Storage from Brookfield Asset Management Inc., making a bet on a sector that has remained strong throughout the coronavirus pandemic.\r\nThe p… [+243 chars]",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
-         }
+         },
+         "content" : "Blackstone Group Inc. has struck a deal to buy Simply Self Storage from Brookfield Asset Management Inc., making a bet on a sector that has remained strong throughout the coronavirus pandemic.\r\nThe p… [+243 chars]",
+         "url" : "https://www.wsj.com/articles/blackstone-to-buy-simply-self-storage-for-about-1-2-billion-11603656073",
+         "author" : "Miriam Gottfried",
+         "description" : "Private-equity firm says self-storage is resilient as coronavirus crisis leads people to move",
+         "urlToImage" : "https://images.wsj.net/im-249286/social",
+         "publishedAt" : "2020-10-25T21:01:00Z",
+         "title" : "Blackstone to Buy Simply Self Storage for About $1.2 Billion - The Wall Street Journal"
       },
       {
-         "url" : "https://www.bloomberg.com/news/articles/2020-10-25/dollar-rises-asia-stocks-set-for-muted-open-markets-wrap",
-         "description" : "U.S. equity futures started the week on the back foot as a stimulus deal remained elusive and coronavirus infections hit a record for a second day. Asian stocks saw modest gains.",
-         "title" : "U.S. Futures Slip; Asian Stocks See Muted Gains: Markets Wrap - Bloomberg",
-         "publishedAt" : "2020-10-25T20:59:00Z",
          "author" : "Andreea Papuc",
+         "description" : "U.S. equity futures started the week on the back foot as a stimulus deal remained elusive and coronavirus infections hit a record for a second day. Asian stocks saw modest gains.",
          "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igYL5tFimvi0/v0/1200x661.jpg",
+         "publishedAt" : "2020-10-25T20:59:00Z",
+         "title" : "U.S. Futures Slip; Asian Stocks See Muted Gains: Markets Wrap - Bloomberg",
          "source" : {
             "name" : "Bloomberg",
             "id" : "bloomberg"
          },
+         "url" : "https://www.bloomberg.com/news/articles/2020-10-25/dollar-rises-asia-stocks-set-for-muted-open-markets-wrap",
          "content" : "Photographer: Nicolas Asfouri/AFP via Getty Images\r\nU.S. equity futures started the week on the back foot as a stimulus deal remained elusive and coronavirus infections hit a record for a second day.… [+3565 chars]"
       },
       {
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coroanvirus-cases-stock-market-rally-microsoft-tesla-buy-points/",
-         "description" : "Dow Jones futures: The stock market rally could go either way. So are leaders like Microsoft and Tesla. It's peak earnings week as coronavirus cases soar.",
-         "title" : "Dow Jones Futures: Coronavirus Cases Soar In Pivotal Week For Stock Market Rally; Microsoft, Tesla Near Buy Points - Investor's Business Daily",
-         "publishedAt" : "2020-10-25T20:36:02Z",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/07/stock-bull-19-shutter.jpg",
-         "author" : "Investor's Business Daily",
          "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
-         "content" : "Dow Jones futures will open for trading Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. It's a pivotal week for the stock market rally. New coronavirus cases are soaring. Vice Pres… [+12200 chars]"
-      },
-      {
-         "url" : "https://simpleflying.com/southwest-aircraft-surplus-advantage/",
-         "description" : "In Southwest Airlines’ third-quarter earnings call, the airline’s executives presented the current crisis as an opportunity. After over…",
-         "title" : "Southwest Is Taking Advantage Of Its Aircraft Surplus Position - Simple Flying",
-         "publishedAt" : "2020-10-25T20:31:13Z",
-         "author" : "",
-         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/10/GettyImages-1228552675-scaled.jpg",
-         "source" : {
-            "name" : "Simple Flying",
+            "name" : "Investor's Business Daily",
             "id" : null
          },
-         "content" : "In Southwest Airlines’ third-quarter earnings call, the airline’s executives presented the current crisis as an opportunity. After over a year in an aircraft-deficit position, the airline now finds i… [+4230 chars]"
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coroanvirus-cases-stock-market-rally-microsoft-tesla-buy-points/",
+         "content" : "Dow Jones futures will open for trading Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. It's a pivotal week for the stock market rally. New coronavirus cases are soaring. Vice Pres… [+12200 chars]",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2018/07/stock-bull-19-shutter.jpg",
+         "description" : "Dow Jones futures: The stock market rally could go either way. So are leaders like Microsoft and Tesla. It's peak earnings week as coronavirus cases soar.",
+         "publishedAt" : "2020-10-25T20:36:02Z",
+         "author" : "Investor's Business Daily",
+         "title" : "Dow Jones Futures: Coronavirus Cases Soar In Pivotal Week For Stock Market Rally; Microsoft, Tesla Near Buy Points - Investor's Business Daily"
       },
       {
+         "title" : "Southwest Is Taking Advantage Of Its Aircraft Surplus Position - Simple Flying",
+         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/10/GettyImages-1228552675-scaled.jpg",
+         "description" : "In Southwest Airlines’ third-quarter earnings call, the airline’s executives presented the current crisis as an opportunity. After over…",
+         "publishedAt" : "2020-10-25T20:31:13Z",
+         "author" : "",
+         "content" : "In Southwest Airlines’ third-quarter earnings call, the airline’s executives presented the current crisis as an opportunity. After over a year in an aircraft-deficit position, the airline now finds i… [+4230 chars]",
+         "url" : "https://simpleflying.com/southwest-aircraft-surplus-advantage/",
+         "source" : {
+            "id" : null,
+            "name" : "Simple Flying"
+         }
+      },
+      {
+         "url" : "https://www.marketwatch.com/story/heres-why-the-u-s-could-be-looking-at-severely-limited-economic-growth-even-after-the-pandemic-11603653917",
+         "content" : "Thats Bob Prince, co-chief investment officer of the worlds largest hedge fund at Bridgewater Associates, explaining to Bloomberg in a recent interview why the U.S. is looking at severely limited eco… [+2181 chars]",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "content" : "Thats Bob Prince, co-chief investment officer of the worlds largest hedge fund at Bridgewater Associates, explaining to Bloomberg in a recent interview why the U.S. is looking at severely limited eco… [+2181 chars]",
-         "description" : "",
          "title" : "The U.S. could be looking at 'severely' limited growth even after the pandemic, warns top hedge-fund exec - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/heres-why-the-u-s-could-be-looking-at-severely-limited-economic-growth-even-after-the-pandemic-11603653917",
-         "author" : "Shawn Langlois",
          "urlToImage" : "https://images.mktw.net/im-249486/horizontal",
-         "publishedAt" : "2020-10-25T20:25:00Z"
+         "publishedAt" : "2020-10-25T20:25:00Z",
+         "description" : "",
+         "author" : "Shawn Langlois"
+      },
+      {
+         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-10/667f5661-cb6d-420f-8e56-67970a069b84.jpg",
+         "description" : "Bitcoin remains in an uptrend but is facing signs of exhaustion above $13,200, suggesting that a minor correction could drag altcoins lower.",
+         "publishedAt" : "2020-10-25T20:24:34Z",
+         "author" : "Rakesh Upadhyay",
+         "title" : "Top 5 cryptocurrencies to watch this week: BTC, ETH, XRP, LTC, XLM - Cointelegraph",
+         "source" : {
+            "id" : null,
+            "name" : "Cointelegraph"
+         },
+         "url" : "https://cointelegraph.com/news/top-5-cryptocurrencies-to-watch-this-week-btc-eth-xrp-ltc-xlm",
+         "content" : "Hot on the heels of Paypals crypto adoption, JPMorgans Global Markets Strategy division released a report detailing how Bitcoin (BTC) could offer considerable upside if it competes more intensely wit… [+8486 chars]"
       },
       {
          "source" : {
-            "name" : "Cointelegraph",
+            "name" : "FOX 4 News",
             "id" : null
          },
-         "content" : "Hot on the heels of Paypals crypto adoption, JPMorgans Global Markets Strategy division released a report detailing how Bitcoin (BTC) could offer considerable upside if it competes more intensely wit… [+8486 chars]",
-         "description" : "Bitcoin remains in an uptrend but is facing signs of exhaustion above $13,200, suggesting that a minor correction could drag altcoins lower.",
-         "title" : "Top 5 cryptocurrencies to watch this week: BTC, ETH, XRP, LTC, XLM - Cointelegraph",
-         "url" : "https://cointelegraph.com/news/top-5-cryptocurrencies-to-watch-this-week-btc-eth-xrp-ltc-xlm",
-         "urlToImage" : "https://s3.eu-central-1.amazonaws.com/s3.cointelegraph.com/uploads/2020-10/667f5661-cb6d-420f-8e56-67970a069b84.jpg",
-         "author" : "Rakesh Upadhyay",
-         "publishedAt" : "2020-10-25T20:24:34Z"
-      },
-      {
-         "content" : "A Winter Weather Advisory has been issued for western portions of North Texas.\r\nThe advisory was put in place for Eastland, Jack, Palo Pinto, Stephens, and Young counties until 1 p.m. Tuesday.\r\nFreez… [+189 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "FOX 4 News"
-         },
-         "publishedAt" : "2020-10-25T20:01:10Z",
-         "author" : "Alberto Romero",
-         "urlToImage" : "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/10/1280/720/1025winterwx.jpg?ve=1&tl=1",
          "url" : "https://www.fox4news.com/news/winter-weather-advisory-issued-for-western-portions-of-north-texas-until-tuesday",
-         "title" : "Winter Weather Advisory issued for western portions of North Texas until Tuesday - FOX 4 Dallas",
-         "description" : "A Winter Weather Advisory has been issued for western portions of North Texas."
+         "content" : "A Winter Weather Advisory has been issued for western portions of North Texas.\r\nThe advisory was put in place for Eastland, Jack, Palo Pinto, Stephens, and Young counties until 1 p.m. Tuesday.\r\nFreez… [+189 chars]",
+         "author" : "Alberto Romero",
+         "publishedAt" : "2020-10-25T20:01:10Z",
+         "description" : "A Winter Weather Advisory has been issued for western portions of North Texas.",
+         "urlToImage" : "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/10/1280/720/1025winterwx.jpg?ve=1&tl=1",
+         "title" : "Winter Weather Advisory issued for western portions of North Texas until Tuesday - FOX 4 Dallas"
       },
       {
+         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/02/tesla-solarglass-solar-roof.jpg?quality=82&strip=all",
+         "description" : "Elon Musk says that Tesla’s next ‘killer product’ is its Solar Roof and that it will become “obvious” next year. It looks like Tesla is getting ready for it by hiring an army of roofers. During a conference call following Tesla’s Q3 2020 earnings results this…",
+         "publishedAt" : "2020-10-25T19:16:00Z",
+         "author" : null,
+         "title" : "Elon Musk: Tesla’s next ‘killer product’ is Solar Roof - Electrek.co",
          "source" : {
-            "id" : null,
-            "name" : "Electrek"
+            "name" : "Electrek",
+            "id" : null
          },
          "content" : "Elon Musk says that Tesla’s next ‘killer product’ is its Solar Roof and that it will become “obvious” next year.\r\nIt looks like Tesla is getting ready for it by hiring an army of roofers.\r\nDuring a c… [+3354 chars]",
-         "description" : "Elon Musk says that Tesla’s next ‘killer product’ is its Solar Roof and that it will become “obvious” next year. It looks like Tesla is getting ready for it by hiring an army of roofers. During a conference call following Tesla’s Q3 2020 earnings results this…",
-         "title" : "Elon Musk: Tesla’s next ‘killer product’ is Solar Roof - Electrek.co",
-         "url" : "https://electrek.co/2020/10/25/tesla-next-killer-product-solar-roof-elon-musk/",
-         "author" : null,
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/02/tesla-solarglass-solar-roof.jpg?quality=82&strip=all",
-         "publishedAt" : "2020-10-25T19:16:00Z"
+         "url" : "https://electrek.co/2020/10/25/tesla-next-killer-product-solar-roof-elon-musk/"
       },
       {
+         "title" : "Reliance says its $3.4 billion deal with Future Group ‘fully enforceable under Indian law’ despite Amazon winning an arbitration order - TechCrunch",
+         "author" : "Manish Singh",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2019/08/getty_ambani_fynd.jpg?w=761",
+         "description" : "Reliance Retail, India’s largest retail chain, said on Sunday evening that its proposed deal to acquire Future Group’s assets for a whopping $3.4 billion — against which Amazon has filed a legal proceeding — is fully enforceable under the Indian law and it in…",
+         "publishedAt" : "2020-10-25T18:33:26Z",
+         "content" : "Reliance Retail, India’s largest retail chain, said on Sunday evening that its proposed deal to acquire Future Group’s assets for a whopping $3.4 billion — against which Amazon has filed a legal proc… [+4155 chars]",
+         "url" : "http://techcrunch.com/2020/10/25/reliance-says-its-3-4-billion-deal-with-future-group-fully-enforceable-under-indian-law-despite-amazon-winning-an-arbitration-order/",
          "source" : {
             "name" : "TechCrunch",
             "id" : "techcrunch"
-         },
-         "content" : "Reliance Retail, India’s largest retail chain, said on Sunday evening that its proposed deal to acquire Future Group’s assets for a whopping $3.4 billion — against which Amazon has filed a legal proc… [+4155 chars]",
-         "url" : "http://techcrunch.com/2020/10/25/reliance-says-its-3-4-billion-deal-with-future-group-fully-enforceable-under-indian-law-despite-amazon-winning-an-arbitration-order/",
-         "title" : "Reliance says its $3.4 billion deal with Future Group ‘fully enforceable under Indian law’ despite Amazon winning an arbitration order - TechCrunch",
-         "description" : "Reliance Retail, India’s largest retail chain, said on Sunday evening that its proposed deal to acquire Future Group’s assets for a whopping $3.4 billion — against which Amazon has filed a legal proceeding — is fully enforceable under the Indian law and it in…",
-         "publishedAt" : "2020-10-25T18:33:26Z",
-         "author" : "Manish Singh",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2019/08/getty_ambani_fynd.jpg?w=761"
+         }
       },
       {
          "source" : {
             "id" : null,
             "name" : "Forbes"
          },
-         "content" : "The logo of online payment company PayPal is pictured during LeWeb 2013 event in Saint-Denis near ... [+] Paris on December 10, 2013. AFP PHOTO ERIC PIERMONT (Photo by Eric PIERMONT / AFP) (Photo cre… [+5092 chars]",
          "url" : "https://www.forbes.com/sites/ronshevlin/2020/10/25/paypals-new-service-is-a-50-billion-stimulus-check-for-bitcoin/",
-         "description" : "Americans purchased $31.2 billion worth of products and services in the past year using Bitcoin. PayPal users accounted for 74%, or $23.1 billion, of that amount. The company's new service will help to double that amount.",
-         "title" : "PayPal’s New Service Is A $50 Billion Stimulus Check For Bitcoin - Forbes",
+         "content" : "The logo of online payment company PayPal is pictured during LeWeb 2013 event in Saint-Denis near ... [+] Paris on December 10, 2013. AFP PHOTO ERIC PIERMONT (Photo by Eric PIERMONT / AFP) (Photo cre… [+5092 chars]",
+         "author" : "Ron Shevlin",
          "publishedAt" : "2020-10-25T18:00:00Z",
          "urlToImage" : "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f947a418c6714f66068ff58%2F0x0.jpg",
-         "author" : "Ron Shevlin"
+         "description" : "Americans purchased $31.2 billion worth of products and services in the past year using Bitcoin. PayPal users accounted for 74%, or $23.1 billion, of that amount. The company's new service will help to double that amount.",
+         "title" : "PayPal’s New Service Is A $50 Billion Stimulus Check For Bitcoin - Forbes"
       },
       {
-         "publishedAt" : "2020-10-25T18:00:00Z",
-         "author" : null,
-         "urlToImage" : "https://www.carscoops.com/wp-content/uploads/2020/10/2022-GMC-Hummer-EV-vs-2009-Hummer-H3T-visual-comparison-0.jpg",
-         "url" : "https://www.carscoops.com/2020/10/old-meets-new-as-we-compare-2009-hummer-h3t-to-2022-gmc-hummer-ev/",
          "title" : "Old Meets New As We Compare 2009 Hummer H3T To 2022 GMC Hummer EV - CarScoops",
+         "author" : null,
+         "publishedAt" : "2020-10-25T18:00:00Z",
+         "urlToImage" : "https://www.carscoops.com/wp-content/uploads/2020/10/2022-GMC-Hummer-EV-vs-2009-Hummer-H3T-visual-comparison-0.jpg",
          "description" : "The Hummer H3T marked the demise of the brand; the Hummer EV signals its rebirth.",
          "content" : "With the unveiling of the 2022 GMC Hummer EV, one could say Hummer has picked up where it left off in 2010, when the final H3T truck rolled off the assembly line and put an end to the brand as we kno… [+3673 chars]",
+         "url" : "https://www.carscoops.com/2020/10/old-meets-new-as-we-compare-2009-hummer-h3t-to-2022-gmc-hummer-ev/",
          "source" : {
-            "name" : "CarScoops",
-            "id" : null
+            "id" : null,
+            "name" : "CarScoops"
          }
       },
       {
+         "title" : "Delta adds 460 people to no-fly list for refusing to wear masks - ABC News",
+         "author" : "Bill Hutchinson",
+         "urlToImage" : "https://s.abcnews.com/images/US/ed-bastain-file-gty-jef-200408_hpMain_2_16x9_992.jpg",
+         "description" : "",
+         "publishedAt" : "2020-10-25T17:31:06Z",
+         "url" : "https://abcnews.go.com/Business/delta-adds-460-people-fly-list-refusing-wear/story?id=73815553",
          "content" : "Usually reserved for suspected terrorists, Delta Airlines has added the names of 460 people to its no-fly lists for refusing to comply with a requirement to wear masks during flights, according to a … [+3289 chars]",
          "source" : {
             "id" : "abc-news",
             "name" : "ABC News"
-         },
-         "publishedAt" : "2020-10-25T17:31:06Z",
-         "urlToImage" : "https://s.abcnews.com/images/US/ed-bastain-file-gty-jef-200408_hpMain_2_16x9_992.jpg",
-         "author" : "Bill Hutchinson",
-         "url" : "https://abcnews.go.com/Business/delta-adds-460-people-fly-list-refusing-wear/story?id=73815553",
-         "description" : "",
-         "title" : "Delta adds 460 people to no-fly list for refusing to wear masks - ABC News"
+         }
       },
       {
-         "title" : "It Took 12 Years To Complete New Target Store Opening In Hollywood Sunday - CBS Los Angeles",
-         "description" : "The store, located on Sunset Boulevard and N. Western Avenue, took 12 years for completion.",
-         "url" : "https://losangeles.cbslocal.com/2020/10/25/it-took-12-years-to-complete-new-target-store-opening-in-hollywood-sunday/",
-         "urlToImage" : "https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2020/10/Target-store-opens.jpg?w=1262",
-         "author" : "CBSLA Staff",
-         "publishedAt" : "2020-10-25T16:54:00Z",
          "source" : {
             "id" : null,
             "name" : "Cbslocal.com"
          },
-         "content" : "HOLLYWOOD (CBSLA) A new Target store is opening in Hollywood Sunday.\r\nThe store, located on Sunset Boulevard and N. Western Avenue, took 12 years for completion.\r\nThe store was first approved in 2008… [+305 chars]"
+         "content" : "HOLLYWOOD (CBSLA) A new Target store is opening in Hollywood Sunday.\r\nThe store, located on Sunset Boulevard and N. Western Avenue, took 12 years for completion.\r\nThe store was first approved in 2008… [+305 chars]",
+         "url" : "https://losangeles.cbslocal.com/2020/10/25/it-took-12-years-to-complete-new-target-store-opening-in-hollywood-sunday/",
+         "author" : "CBSLA Staff",
+         "description" : "The store, located on Sunset Boulevard and N. Western Avenue, took 12 years for completion.",
+         "urlToImage" : "https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2020/10/Target-store-opens.jpg?w=1262",
+         "publishedAt" : "2020-10-25T16:54:00Z",
+         "title" : "It Took 12 Years To Complete New Target Store Opening In Hollywood Sunday - CBS Los Angeles"
       },
       {
+         "url" : "https://www.cnn.com/2020/10/25/business/holiday-package-delivery-crunch-fedex-ups-post-office/index.html",
          "content" : null,
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201024144332-fedex-delivery-0331-super-tease.jpg",
-         "author" : "Chris Isidore, CNN Business",
-         "publishedAt" : "2020-10-25T16:18:00Z",
-         "description" : "Good luck getting your holiday gifts delivered on time this year. You'll need it.",
          "title" : "Want something delivered by Christmas? Order way in advance - CNN",
-         "url" : "https://www.cnn.com/2020/10/25/business/holiday-package-delivery-crunch-fedex-ups-post-office/index.html"
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201024144332-fedex-delivery-0331-super-tease.jpg",
+         "description" : "Good luck getting your holiday gifts delivered on time this year. You'll need it.",
+         "publishedAt" : "2020-10-25T16:18:00Z",
+         "author" : "Chris Isidore, CNN Business"
       },
       {
-         "description" : "Wall Street is hell-bent on living up to all of its stereotypes.",
-         "title" : "Wall Street is living up to its bad reputation - Axios",
          "url" : "https://www.axios.com/wall-street-bad-reputation-850a515e-f03b-4026-b0b4-29cdee6dc0d8.html",
+         "content" : "Recent headlineswill have you convinced that Wall Street is hell-bent on living up to all of its stereotypes.\r\nDriving the news: Goldman Sachs is the biggest and the boldest, paying more than $5 bill… [+2389 chars]",
+         "source" : {
+            "name" : "Axios",
+            "id" : "axios"
+         },
+         "title" : "Wall Street is living up to its bad reputation - Axios",
          "author" : "Felix Salmon",
          "urlToImage" : "https://images.axios.com/iItndKWNMwBfXozG-l11CChYLXI=/fit-in/1366x1366/2020/10/25/1603641791713.jpg",
-         "publishedAt" : "2020-10-25T16:06:34Z",
-         "source" : {
-            "id" : "axios",
-            "name" : "Axios"
-         },
-         "content" : "Recent headlineswill have you convinced that Wall Street is hell-bent on living up to all of its stereotypes.\r\nDriving the news: Goldman Sachs is the biggest and the boldest, paying more than $5 bill… [+2389 chars]"
+         "description" : "Wall Street is hell-bent on living up to all of its stereotypes.",
+         "publishedAt" : "2020-10-25T16:06:34Z"
       },
       {
-         "content" : "It’s finally happening. The US Department of Justice has taken on the antitrust case of our time, accusing Google of illegally protecting its 92 per cent share of the global search market. Key eviden… [+5300 chars]",
-         "source" : {
-            "id" : "financial-times",
-            "name" : "Financial Times"
-         },
-         "author" : null,
+         "title" : "Big Tech collaborates to conquer - Financial Times",
          "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F961447db-cb22-4e5f-a6b0-1bb5d11c6f0a.jpg?source=next-opengraph&fit=scale-down&width=900",
          "publishedAt" : "2020-10-25T16:00:00Z",
-         "title" : "Big Tech collaborates to conquer - Financial Times",
          "description" : "Google, Apple and other Silicon Valley groups have a history of teaming up to lock in market dominance",
-         "url" : "https://www.ft.com/content/eacb3e89-59fa-4251-bc5c-8137774022c2"
+         "author" : null,
+         "url" : "https://www.ft.com/content/eacb3e89-59fa-4251-bc5c-8137774022c2",
+         "content" : "It’s finally happening. The US Department of Justice has taken on the antitrust case of our time, accusing Google of illegally protecting its 92 per cent share of the global search market. Key eviden… [+5300 chars]",
+         "source" : {
+            "name" : "Financial Times",
+            "id" : "financial-times"
+         }
       }
-   ]
+   ],
+   "status" : "ok"
 }
