@@ -1,16 +1,17 @@
 {
+   "status" : "ok",
    "articles" : [
       {
          "url" : "https://www.cnbc.com/2020/11/02/us-mall-owners-cbl-pennsylvania-reit-file-for-bankruptcy.html",
-         "title" : "America's malls under pressure: CBL, Pennsylvania REIT, file for bankruptcy - CNBC",
          "content" : "Mall owner CBL &amp; Associates filed for Chapter 11 bankruptcy protection late Sunday, after its business was pressured by the coronavirus pandemic, highlighting the stresses the retail real estate … [+2054 chars]",
          "publishedAt" : "2020-11-02T12:04:00Z",
-         "description" : "Mall owner CBL filed for Chapter 11 bankruptcy protection, after its business was pressured by the coronavirus pandemic.",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "CNBC",
+            "id" : null
          },
+         "description" : "Mall owner CBL filed for Chapter 11 bankruptcy protection, after its business was pressured by the coronavirus pandemic.",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104761040-mall.jpg?v=1593602617",
+         "title" : "America's malls under pressure: CBL, Pennsylvania REIT, file for bankruptcy - CNBC",
          "author" : "Lauren Thomas"
       },
       {
@@ -18,249 +19,248 @@
             "id" : null,
             "name" : "Motley Fool"
          },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/597500/hourglass-coins-cash-bills-money-invest-rich-retirement-compound-getty.jpg",
          "author" : "Sean Williams",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/597500/hourglass-coins-cash-bills-money-invest-rich-retirement-compound-getty.jpg",
          "description" : "Growth? Value? There's an attractive bargain for every investor,",
-         "publishedAt" : "2020-11-02T11:05:00Z",
-         "content" : "It's been a turbulent year for Wall Street, and it doesn't appear as if stock market volatility will ebb anytime soon. Numerous records have been broken this year, including the fastest bear market d… [+6183 chars]",
          "title" : "3 Top Stocks That'll Make You Richer in November (and Beyond) - Motley Fool",
-         "url" : "https://www.fool.com/investing/2020/11/02/3-top-stocks-thatll-make-you-richer-in-november-an/"
+         "content" : "It's been a turbulent year for Wall Street, and it doesn't appear as if stock market volatility will ebb anytime soon. Numerous records have been broken this year, including the fastest bear market d… [+6183 chars]",
+         "url" : "https://www.fool.com/investing/2020/11/02/3-top-stocks-thatll-make-you-richer-in-november-an/",
+         "publishedAt" : "2020-11-02T11:05:00Z"
       },
       {
+         "publishedAt" : "2020-11-02T10:48:00Z",
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/11/02/investing/oil-prices-coronavirus-lockdowns/index.html",
          "author" : "Hanna Ziady, CNN Business",
+         "description" : "Oil prices fell sharply on Monday as new lockdowns across Europe and record coronavirus cases in the United States slammed the outlook for energy demand.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201102040321-total-petroleum-refinery-france-super-tease.jpg",
+         "title" : "Oil prices tumble as lockdowns stoke recession fears - CNN",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
-         },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201102040321-total-petroleum-refinery-france-super-tease.jpg",
-         "description" : "Oil prices fell sharply on Monday as new lockdowns across Europe and record coronavirus cases in the United States slammed the outlook for energy demand.",
-         "publishedAt" : "2020-11-02T10:48:00Z",
-         "content" : null,
-         "title" : "Oil prices tumble as lockdowns stoke recession fears - CNN",
-         "url" : "https://www.cnn.com/2020/11/02/investing/oil-prices-coronavirus-lockdowns/index.html"
+         }
       },
       {
          "publishedAt" : "2020-11-02T10:41:34Z",
          "content" : "Transportation fuel demand rose to where it had been in … 1997. \r\nWhile the overall S&amp;P 500 Index is down 2.7% in October, about flat for the three-month period, and up 2.8% for the year, the S&a… [+5756 chars]",
-         "title" : "What Oil Companies Face: The WTF-Collapse of Consumption of Gasoline & Jet Fuel from Long-Term Weakness - WOLF STREET",
          "url" : "https://wolfstreet.com/2020/11/01/what-us-oil-companies-face-the-wtf-collapse-of-consumption-of-gasoline-jet-fuel-from-long-term-weakness/",
          "author" : null,
          "urlToImage" : "https://wolfstreet.com/wp-content/uploads/2020/11/US-fuel-demand-2020-10-31-gasoline.png",
+         "title" : "What Oil Companies Face: The WTF-Collapse of Consumption of Gasoline & Jet Fuel from Long-Term Weakness - WOLF STREET",
+         "description" : "Transportation fuel demand rose to where it had been in … 1997.",
          "source" : {
             "name" : "WOLF STREET",
             "id" : null
-         },
-         "description" : "Transportation fuel demand rose to where it had been in … 1997."
+         }
       },
       {
+         "publishedAt" : "2020-11-02T10:39:00Z",
+         "content" : "Friendly's, the iconic East Coast restaurant chain known for its ice cream, has filed for bankruptcy again. It's the latest company in the restaurant industry to go that route during the coronavirus … [+2130 chars]",
+         "url" : "https://www.cbsnews.com/news/friendlys-files-for-bankruptcy/",
+         "author" : "CBS News",
+         "urlToImage" : "https://cbsnews3.cbsistatic.com/hub/i/r/2011/10/05/94b54d86-a643-11e2-a3f0-029118418759/thumbnail/1200x630/6c38d1dc26b6ed80344ec537220cb47e/Friendlys.jpg",
          "description" : "Iconic chain known for its ice cream will sell most of its assets to an investor group and restaurant operator.",
+         "title" : "Friendly's files for bankruptcy - CBS News",
          "source" : {
             "id" : "cbs-news",
             "name" : "CBS News"
-         },
-         "urlToImage" : "https://cbsnews3.cbsistatic.com/hub/i/r/2011/10/05/94b54d86-a643-11e2-a3f0-029118418759/thumbnail/1200x630/6c38d1dc26b6ed80344ec537220cb47e/Friendlys.jpg",
-         "author" : "CBS News",
-         "url" : "https://www.cbsnews.com/news/friendlys-files-for-bankruptcy/",
-         "title" : "Friendly's files for bankruptcy - CBS News",
-         "content" : "Friendly's, the iconic East Coast restaurant chain known for its ice cream, has filed for bankruptcy again. It's the latest company in the restaurant industry to go that route during the coronavirus … [+2130 chars]",
-         "publishedAt" : "2020-11-02T10:39:00Z"
+         }
       },
       {
-         "description" : "The event, known for deep discounts, is intended to juice consumer spending.",
-         "author" : "Eamon Barrett",
-         "urlToImage" : "https://content.fortune.com/wp-content/uploads/2020/11/GettyImages-1187179324.jpg?resize=1200,600",
+         "content" : null,
+         "url" : "https://fortune.com/2020/11/02/alibaba-singles-day-2020-largest-shopping-event/",
+         "publishedAt" : "2020-11-02T10:04:37Z",
          "source" : {
             "name" : "Fortune",
             "id" : "fortune"
          },
-         "title" : "The world’s largest shopping event is taking place not once—but twice—this year - Fortune",
-         "url" : "https://fortune.com/2020/11/02/alibaba-singles-day-2020-largest-shopping-event/",
-         "publishedAt" : "2020-11-02T10:04:37Z",
-         "content" : null
+         "author" : "Eamon Barrett",
+         "urlToImage" : "https://content.fortune.com/wp-content/uploads/2020/11/GettyImages-1187179324.jpg?resize=1200,600",
+         "description" : "The event, known for deep discounts, is intended to juice consumer spending.",
+         "title" : "The world’s largest shopping event is taking place not once—but twice—this year - Fortune"
       },
       {
-         "description" : "UPI, a four-year-old payments infrastructure built by India’s largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone. Driving the transactions for UPI — which has become the most p…",
-         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-868500396.jpg?w=600",
          "source" : {
             "name" : "TechCrunch",
             "id" : "techcrunch"
          },
-         "author" : "Manish Singh",
+         "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-868500396.jpg?w=600",
          "title" : "Walmart’s PhonePe zips past Google Pay in India as UPI tops 2B monthly transactions - TechCrunch",
+         "description" : "UPI, a four-year-old payments infrastructure built by India’s largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone. Driving the transactions for UPI — which has become the most p…",
+         "author" : "Manish Singh",
          "url" : "http://techcrunch.com/2020/11/02/walmarts-phonepe-zips-past-google-pay-in-india-as-upi-tops-2-billion-monthly-transactions/",
-         "publishedAt" : "2020-11-02T09:00:53Z",
-         "content" : "UPI, a four-year-old payments infrastructure built by Indias largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone.\r\nDr… [+4396 chars]"
+         "content" : "UPI, a four-year-old payments infrastructure built by Indias largest banks, surpassed 2 billion transactions last month, exactly a year after hitting the 1 billion monthly transactions milestone.\r\nDr… [+4396 chars]",
+         "publishedAt" : "2020-11-02T09:00:53Z"
       },
       {
-         "url" : "https://cointelegraph.com/news/get-ready-for-us-elections-5-things-to-watch-in-bitcoin-this-week",
-         "title" : "Get ready for US elections: 5 things to watch in Bitcoin this week - Cointelegraph",
-         "content" : "Bitcoin (BTC) starts a new week and month just dollars away from its highest monthly close in history whats in store next?\r\nCointelegraph takes a look at five price factors which may influence BTC/US… [+5792 chars]",
          "publishedAt" : "2020-11-02T09:00:10Z",
-         "description" : "Crunch time in the U.S. comes as coronavirus sparks more lockdowns and money printing plans in Europe",
+         "content" : "Bitcoin (BTC) starts a new week and month just dollars away from its highest monthly close in history whats in store next?\r\nCointelegraph takes a look at five price factors which may influence BTC/US… [+5792 chars]",
+         "url" : "https://cointelegraph.com/news/get-ready-for-us-elections-5-things-to-watch-in-bitcoin-this-week",
          "author" : "William Suberg",
+         "title" : "Get ready for US elections: 5 things to watch in Bitcoin this week - Cointelegraph",
+         "urlToImage" : "https://s3.cointelegraph.com/uploads/2020-10/51813402-cd98-4df1-bb2c-8ea32e92bc76.jpg",
+         "description" : "Crunch time in the U.S. comes as coronavirus sparks more lockdowns and money printing plans in Europe",
          "source" : {
-            "id" : null,
-            "name" : "Cointelegraph"
-         },
-         "urlToImage" : "https://s3.cointelegraph.com/uploads/2020-10/51813402-cd98-4df1-bb2c-8ea32e92bc76.jpg"
+            "name" : "Cointelegraph",
+            "id" : null
+         }
       },
       {
-         "description" : "Compared to other technologies, fintech is the equivalent of a new industrial revolution, Christopher Hui told CNBC.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106624538-1595303491678-gettyimages-620747960-HK_WIRELESS_PAYMENT.jpeg?v=1604302650",
-         "author" : "Saheli Roy Choudhury",
+         "description" : "Compared to other technologies, fintech is the equivalent of a new industrial revolution, Christopher Hui told CNBC.",
          "title" : "Hong Kong's fintech development could push city's position as global financial center, official says - CNBC",
-         "url" : "https://www.cnbc.com/2020/11/02/hong-kong-official-explains-citys-role-in-fintech-development.html",
+         "author" : "Saheli Roy Choudhury",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
          "publishedAt" : "2020-11-02T08:45:00Z",
+         "url" : "https://www.cnbc.com/2020/11/02/hong-kong-official-explains-citys-role-in-fintech-development.html",
          "content" : "SINGAPORE For Hong Kong's financial technology ecosystem to grow further, the city needs more measures in the areas of funding, talent and regulation, according to a top official from the Chinese cit… [+2541 chars]"
       },
       {
-         "title" : "SpaceX will livestream Starship’s harrowing launch debut, says Elon Musk - Teslarati",
+         "content" : "CEO Elon Musk says that SpaceX will livestream Starship’s harrowing high-altitude launch and landing debut “warts and all,” offering a rare glimpse behind the scenes of a high-risk aerospace endeavor… [+3094 chars]",
          "url" : "https://www.teslarati.com/spacex-starship-high-altitude-launch-debut-webcast/",
          "publishedAt" : "2020-11-02T08:15:00Z",
-         "content" : "CEO Elon Musk says that SpaceX will livestream Starship’s harrowing high-altitude launch and landing debut “warts and all,” offering a rare glimpse behind the scenes of a high-risk aerospace endeavor… [+3094 chars]",
-         "description" : "CEO Elon Musk says that SpaceX will livestream Starship’s harrowing high-altitude launch and landing debut “warts and all,” offering a rare glimpse behind the scenes of a high-risk aerospace endeavor. As of November 1st, Starship prototype serial number 8 (SN…",
          "source" : {
-            "id" : null,
-            "name" : "Teslarati"
+            "name" : "Teslarati",
+            "id" : null
          },
+         "author" : "https://www.facebook.com/13ericralph31",
          "urlToImage" : "https://www.teslarati.com/wp-content/uploads/2020/11/Starship-Boca-Chica-103120-NASASpaceflight-bocachicagal-SN8-sunrise-2-crop-1-c-1024x492.jpg",
-         "author" : "https://www.facebook.com/13ericralph31"
+         "description" : "CEO Elon Musk says that SpaceX will livestream Starship’s harrowing high-altitude launch and landing debut “warts and all,” offering a rare glimpse behind the scenes of a high-risk aerospace endeavor. As of November 1st, Starship prototype serial number 8 (SN…",
+         "title" : "SpaceX will livestream Starship’s harrowing launch debut, says Elon Musk - Teslarati"
       },
       {
-         "description" : "Ryanair sees a \"significantly reduced flying scheduled\" in the next six months amid tougher social restrictions in Europe.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106533221-1589281873519gettyimages-1211438129.jpeg?v=1589778875",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "author" : "Silvia Amaro",
-         "title" : "Ryanair CEO Michael O'Leary blasts government lockdowns as traffic falls 80% - CNBC",
          "url" : "https://www.cnbc.com/2020/11/02/ryanair-earnings-q2-2020.html",
+         "content" : "LONDON Ryanair said Monday it will operate a \"significantly reduced flying scheduled\" in the next six months compared to its original expectations as governments across Europe tighten social restrict… [+2305 chars]",
          "publishedAt" : "2020-11-02T07:01:00Z",
-         "content" : "LONDON Ryanair said Monday it will operate a \"significantly reduced flying scheduled\" in the next six months compared to its original expectations as governments across Europe tighten social restrict… [+2305 chars]"
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106533221-1589281873519gettyimages-1211438129.jpeg?v=1589778875",
+         "description" : "Ryanair sees a \"significantly reduced flying scheduled\" in the next six months amid tougher social restrictions in Europe.",
+         "title" : "Ryanair CEO Michael O'Leary blasts government lockdowns as traffic falls 80% - CNBC",
+         "author" : "Silvia Amaro"
       },
       {
-         "description" : "Lufax started trading on the New York Stock Exchange on Friday raising around $2.36 billion.",
-         "author" : "Arjun Kharpal",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106773363-1604296897427-Lufax_IPO_.jpg?v=1604297003",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
+         "author" : "Arjun Kharpal",
          "title" : "Chinese fintech giant Lufax plans international push as $2.36 billion U.S. IPO gets off to a rocky start - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106773363-1604296897427-Lufax_IPO_.jpg?v=1604297003",
+         "description" : "Lufax started trading on the New York Stock Exchange on Friday raising around $2.36 billion.",
+         "content" : "SHANGHAI Chinese fintech giant Lufax is laying the groundwork for international expansion over the next five years, following a cash injection from its U.S. IPO, the company's chief executive told CN… [+4569 chars]",
          "url" : "https://www.cnbc.com/2020/11/02/lufax-plans-international-push-as-us-ipo-gets-off-to-a-rocky-start.html",
-         "publishedAt" : "2020-11-02T06:58:00Z",
-         "content" : "SHANGHAI Chinese fintech giant Lufax is laying the groundwork for international expansion over the next five years, following a cash injection from its U.S. IPO, the company's chief executive told CN… [+4569 chars]"
+         "publishedAt" : "2020-11-02T06:58:00Z"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/02/0/0/AP20051046468856-e1582716026328.jpg?ve=1&tl=1",
-         "author" : "Associated Press",
-         "description" : "The Justice Department sued Google saying the company’s dominance in online search and advertising harms rivals and consumers",
-         "content" : "When asked about Google, Bryan Clayton voices a familiar lament among small business owners.\r\n“You keep getting squeezed further and further down the search results page,” says Clayton, CEO of GreenP… [+6222 chars]",
          "publishedAt" : "2020-11-02T06:41:02Z",
+         "content" : "When asked about Google, Bryan Clayton voices a familiar lament among small business owners.\r\n“You keep getting squeezed further and further down the search results page,” says Clayton, CEO of GreenP… [+6222 chars]",
          "url" : "https://www.foxbusiness.com/markets/google-ad-costs-not-its-alleged-monopoly-irks-businesses",
-         "title" : "Google ad costs, not its alleged monopoly, irks businesses - Fox Business"
+         "author" : "Associated Press",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/02/0/0/AP20051046468856-e1582716026328.jpg?ve=1&tl=1",
+         "description" : "The Justice Department sued Google saying the company’s dominance in online search and advertising harms rivals and consumers",
+         "title" : "Google ad costs, not its alleged monopoly, irks businesses - Fox Business",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         }
       },
       {
-         "content" : "All aboard! Well, maybe not yet, but soon.The cruise industry was one of the first and hardest hit when COVID-19 hit America. Passengers were stranded on vessels and outbreaks became frequent. For mo… [+1801 chars]",
          "publishedAt" : "2020-11-02T06:36:12Z",
+         "content" : "All aboard! Well, maybe not yet, but soon.The cruise industry was one of the first and hardest hit when COVID-19 hit America. Passengers were stranded on vessels and outbreaks became frequent. For mo… [+1801 chars]",
          "url" : "https://abc13.com/cruise-ships-cdc-rules-are-back-open-going-on-a-pandemic-can-you-go-in-houston-covid-19/7551145/",
-         "title" : "CDC issues new guidelines for resuming safe and cruise ship passenger operations - KTRK-TV",
          "author" : "Erica Simon",
          "urlToImage" : "https://cdn.abcotvs.com/dip/images/7562144_110120-ktrk-ewn-9pm-ESI-cruise-industry-CDC-opening-soon-pkg-monica-vid.jpg?w=1600",
+         "description" : "For months, major cruise lines have sat dormant, waiting for Americans to get a hold on COVID-19. Experts said we're not there yet, but the Centers for Disease Control and Prevention (CDC) said its willing to let ships set sail with the right precautions.",
+         "title" : "CDC issues new guidelines for resuming safe and cruise ship passenger operations - KTRK-TV",
          "source" : {
             "name" : "KTRK-TV",
             "id" : null
-         },
-         "description" : "For months, major cruise lines have sat dormant, waiting for Americans to get a hold on COVID-19. Experts said we're not there yet, but the Centers for Disease Control and Prevention (CDC) said its willing to let ships set sail with the right precautions."
+         }
       },
       {
-         "description" : "(Kitco News) - Heading into the European cash open gold (0.32%) and silver (1.33%) are trading higher. There are lots of key data points this week but the main event has to be the US election. At the moment Joe Biden (Democrat) is leading in the polls but som…",
-         "urlToImage" : "https://www.kitco.com/news/images/Kitco_News_Default_V1.jpg",
+         "url" : "https://www.kitco.com/news/2020-11-02/Gold-and-silver-both-trade-higher-heading-into-the-European-open.html",
+         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+2179 chars]",
+         "publishedAt" : "2020-11-02T06:34:00Z",
          "source" : {
             "name" : "Kitco NEWS",
             "id" : null
          },
-         "author" : "http://www.facebook.com/kitconews",
-         "url" : "https://www.kitco.com/news/2020-11-02/Gold-and-silver-both-trade-higher-heading-into-the-European-open.html",
+         "urlToImage" : "https://www.kitco.com/news/images/Kitco_News_Default_V1.jpg",
+         "description" : "(Kitco News) - Heading into the European cash open gold (0.32%) and silver (1.33%) are trading higher. There are lots of key data points this week but the main event has to be the US election. At the moment Joe Biden (Democrat) is leading in the polls but som…",
          "title" : "Gold and silver both trade higher heading into the European open - Kitco NEWS",
-         "content" : "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+2179 chars]",
-         "publishedAt" : "2020-11-02T06:34:00Z"
+         "author" : "http://www.facebook.com/kitconews"
       },
       {
-         "description" : "European stocks advanced on Monday as promising manufacturing data out of the euro zone and China boosted sentiment.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106772356-1604154163014-gettyimages-1229366689-AFP_8U943J.jpeg?v=1604268727",
-         "author" : "Elliot Smith",
-         "title" : "European markets mostly higher as China data offsets U.S. election uncertainty - CNBC",
-         "url" : "https://www.cnbc.com/2020/11/02/european-stock-futures-us-election-coronavirus-weighs.html",
          "publishedAt" : "2020-11-02T06:06:00Z",
-         "content" : "LONDON European stocks advanced on Monday as promising manufacturing data out of the euro zone and China boosted sentiment.The pan-European Stoxx 600 gained 1.3% by late morning. Construction and mat… [+1996 chars]"
-      },
-      {
-         "description" : "Many companies are still laying off workers, freezing hiring and cutting bonuses in the fourth quarter amid the COVID-19 pandemic. Others are hiring.",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/07/12/USAT/4feb2ab3-0945-44b8-b868-78ee2908b28f-AP_Virus_Outbreak_Disney.jpg?crop=5165,2905,x1,y328&width=3200&height=1680&fit=bounds",
+         "url" : "https://www.cnbc.com/2020/11/02/european-stock-futures-us-election-coronavirus-weighs.html",
+         "content" : "LONDON European stocks advanced on Monday as promising manufacturing data out of the euro zone and China boosted sentiment.The pan-European Stoxx 600 gained 1.3% by late morning. Construction and mat… [+1996 chars]",
+         "title" : "European markets mostly higher as China data offsets U.S. election uncertainty - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106772356-1604154163014-gettyimages-1229366689-AFP_8U943J.jpeg?v=1604268727",
+         "description" : "European stocks advanced on Monday as promising manufacturing data out of the euro zone and China boosted sentiment.",
+         "author" : "Elliot Smith",
          "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "author" : "Paul Davidson",
-         "title" : "'It's certainly going to get worse': Businesses plan more layoffs, hiring freezes in 2020 as COVID-19 escalates - USA TODAY",
-         "url" : "https://www.usatoday.com/story/money/2020/11/02/unemployment-2020-many-businesses-still-plan-layoffs-hiring-freezes/6094411002/",
-         "publishedAt" : "2020-11-02T05:01:13Z",
-         "content" : "Tens of thousands of airline industry workers are bracing for layoffs and furloughs on Thursday if Congress fails to pass a relief package aimed at alleviating the economic impact of the coronavirus … [+7723 chars]"
+            "name" : "CNBC",
+            "id" : null
+         }
       },
       {
+         "publishedAt" : "2020-11-02T05:01:13Z",
+         "content" : "Tens of thousands of airline industry workers are bracing for layoffs and furloughs on Thursday if Congress fails to pass a relief package aimed at alleviating the economic impact of the coronavirus … [+7723 chars]",
+         "url" : "https://www.usatoday.com/story/money/2020/11/02/unemployment-2020-many-businesses-still-plan-layoffs-hiring-freezes/6094411002/",
+         "author" : "Paul Davidson",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/07/12/USAT/4feb2ab3-0945-44b8-b868-78ee2908b28f-AP_Virus_Outbreak_Disney.jpg?crop=5165,2905,x1,y328&width=3200&height=1680&fit=bounds",
+         "title" : "'It's certainly going to get worse': Businesses plan more layoffs, hiring freezes in 2020 as COVID-19 escalates - USA TODAY",
+         "description" : "Many companies are still laying off workers, freezing hiring and cutting bonuses in the fourth quarter amid the COVID-19 pandemic. Others are hiring.",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         }
+      },
+      {
+         "publishedAt" : "2020-11-02T04:47:00Z",
+         "url" : "https://www.investing.com/news/commodities-news/gold-rises-as-investors-hedge-2338304",
+         "content" : "By Adam Claringbull\r\nInvesting.com Gold was up slightly on Monday morning in Asia despite a stronger dollar. Investors are wary of a possible contested U.S. election, and further European COVID-19 lo… [+1698 chars]",
+         "urlToImage" : "https://i-invdn-com.akamaized.net/news/LYNXNPEC861HW_L.jpg",
+         "title" : "Gold Rises as Investors Hedge By Investing.com - Investing.com",
          "description" : "Gold Rises as Investors Hedge",
          "author" : null,
-         "urlToImage" : "https://i-invdn-com.akamaized.net/news/LYNXNPEC861HW_L.jpg",
          "source" : {
-            "name" : "Investing.com",
-            "id" : null
-         },
-         "url" : "https://www.investing.com/news/commodities-news/gold-rises-as-investors-hedge-2338304",
-         "title" : "Gold Rises as Investors Hedge By Investing.com - Investing.com",
-         "content" : "By Adam Claringbull\r\nInvesting.com Gold was up slightly on Monday morning in Asia despite a stronger dollar. Investors are wary of a possible contested U.S. election, and further European COVID-19 lo… [+1698 chars]",
-         "publishedAt" : "2020-11-02T04:47:00Z"
+            "id" : null,
+            "name" : "Investing.com"
+         }
       },
       {
          "description" : "The company said it plans to open the shop in the Laotian capital Vientiane by next summer",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/iStock-1163480253.jpg?ve=1&tl=1",
+         "title" : "Starbucks targets new market, in coffee exporting Laos - Fox Business",
+         "author" : "Associated Press",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/iStock-1163480253.jpg?ve=1&tl=1",
-         "author" : "Associated Press",
+         "publishedAt" : "2020-11-02T04:16:09Z",
          "url" : "https://www.foxbusiness.com/markets/starbucks-targets-new-market-in-coffee-exporting-laos",
-         "title" : "Starbucks targets new market, in coffee exporting Laos - Fox Business",
-         "content" : "Starbucks said Monday it plans to open an outlet in Laos as it expands its network of more than 10,000 stores in Asian countries.\r\nThe company said it plans to open the shop in the Laotian capital Vi… [+2400 chars]",
-         "publishedAt" : "2020-11-02T04:16:09Z"
+         "content" : "Starbucks said Monday it plans to open an outlet in Laos as it expands its network of more than 10,000 stores in Asian countries.\r\nThe company said it plans to open the shop in the Laotian capital Vi… [+2400 chars]"
       },
       {
-         "url" : "https://www.bloomberg.com/news/articles/2020-11-02/pension-fund-rest-settles-climate-change-lawsuit-in-australia",
-         "title" : "$41 Pension Fund Settles Australian Climate Change Lawsuit - msnNOW",
          "content" : "(Bloomberg) -- A $41 billion pension fund sued in Australia over its disclosure of climate change risks settled the lawsuit on Monday with a commitment to net zero emissions in its portfolio by 2050 … [+4235 chars]",
+         "url" : "https://www.bloomberg.com/news/articles/2020-11-02/pension-fund-rest-settles-climate-change-lawsuit-in-australia",
          "publishedAt" : "2020-11-02T03:31:00Z",
-         "description" : "A $41 billion pension fund sued in Australia over its disclosure of climate change risks settled the lawsuit on Monday with a commitment to net zero emissions in its portfolio by 2050 -- a case that may spur more litigation around the world.",
          "source" : {
             "id" : "bloomberg",
             "name" : "Bloomberg"
          },
+         "author" : null,
          "urlToImage" : "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1aBxFo.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-         "author" : null
+         "description" : "A $41 billion pension fund sued in Australia over its disclosure of climate change risks settled the lawsuit on Monday with a commitment to net zero emissions in its portfolio by 2050 -- a case that may spur more litigation around the world.",
+         "title" : "$41 Pension Fund Settles Australian Climate Change Lawsuit - msnNOW"
       }
    ],
-   "totalResults" : 70,
-   "status" : "ok"
+   "totalResults" : 70
 }
