@@ -1,83 +1,84 @@
 {
+   "totalResults" : 70,
    "status" : "ok",
    "articles" : [
       {
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201104025947-trump-biden-eln-night-1104-split-super-tease.jpg",
+         "author" : "Julia Horowitz, CNN Business",
+         "description" : "Investors hoped a clear outcome from the US election would quickly materialize Tuesday night, eliminating a key source of uncertainty in a tumultuous year. Their wish didn't come true.",
+         "url" : "https://www.cnn.com/2020/11/04/investing/premarket-stocks-trading/index.html",
          "publishedAt" : "2020-11-04T12:04:00Z",
          "title" : "Wall Street got the election night it feared the most - CNN",
-         "content" : "A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here.\r\nLondon (CNN Business)Investors hoped a clear outcome from the US ele… [+5447 chars]",
-         "author" : "Julia Horowitz, CNN Business",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201104025947-trump-biden-eln-night-1104-split-super-tease.jpg",
-         "description" : "Investors hoped a clear outcome from the US election would quickly materialize Tuesday night, eliminating a key source of uncertainty in a tumultuous year. Their wish didn't come true.",
-         "url" : "https://www.cnn.com/2020/11/04/investing/premarket-stocks-trading/index.html"
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "content" : "A version of this story first appeared in CNN Business' Before the Bell newsletter. Not a subscriber? You can sign up right here.\r\nLondon (CNN Business)Investors hoped a clear outcome from the US ele… [+5447 chars]"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106712974-1600806715637-zhouse.jpg?v=1604439121",
-         "description" : "Record low rates for both larger loans and low down-payment loans drove an increase in mortgage demand last week.",
-         "author" : "Diana Olick",
-         "url" : "https://www.cnbc.com/2020/11/04/jumbo-and-fha-mortgage-rates-set-record-lows-juicing-refinance-demand-.html",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
          "publishedAt" : "2020-11-04T12:00:00Z",
          "title" : "Jumbo and FHA mortgage rates set record lows, juicing refinance demand - CNBC",
-         "content" : "Record low rates for both larger loans and low down-payment loans drove an increase in mortgage demand last week. Total mortgage application volume rose 3.8% compared with the previous week, accordin… [+1799 chars]"
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "content" : "Record low rates for both larger loans and low down-payment loans drove an increase in mortgage demand last week. Total mortgage application volume rose 3.8% compared with the previous week, accordin… [+1799 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106712974-1600806715637-zhouse.jpg?v=1604439121",
+         "author" : "Diana Olick",
+         "description" : "Record low rates for both larger loans and low down-payment loans drove an increase in mortgage demand last week.",
+         "url" : "https://www.cnbc.com/2020/11/04/jumbo-and-fha-mortgage-rates-set-record-lows-juicing-refinance-demand-.html"
       },
       {
-         "author" : "Myles Udland",
-         "description" : "Top news and what to watch in the markets on Wednesday, November 4, 2020.",
-         "urlToImage" : "https://s.yimg.com/os/creatr-uploaded-images/2020-11/f46f8ca0-1e45-11eb-bffb-230125e35a49",
-         "url" : "https://finance.yahoo.com/news/election-2020-presents-investors-as-many-questions-as-answers-morning-brief-113831274.html",
+         "content" : "Wednesday, November 4, 2020\r\nGet the Morning Brief sent directly to your inbox every Monday to Friday by 6:30 a.m. ET. Subscribe\r\nElection night turns into election week.\r\nElection Day 2020 has come … [+6136 chars]",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
-         "content" : "Wednesday, November 4, 2020\r\nGet the Morning Brief sent directly to your inbox every Monday to Friday by 6:30 a.m. ET. Subscribe\r\nElection night turns into election week.\r\nElection Day 2020 has come … [+6136 chars]",
          "title" : "The election presents investors as many questions as answers: Morning Brief - Yahoo Finance",
-         "publishedAt" : "2020-11-04T11:38:00Z"
+         "publishedAt" : "2020-11-04T11:38:00Z",
+         "url" : "https://finance.yahoo.com/news/election-2020-presents-investors-as-many-questions-as-answers-morning-brief-113831274.html",
+         "description" : "Top news and what to watch in the markets on Wednesday, November 4, 2020.",
+         "author" : "Myles Udland",
+         "urlToImage" : "https://s.yimg.com/os/creatr-uploaded-images/2020-11/f46f8ca0-1e45-11eb-bffb-230125e35a49"
       },
       {
          "url" : "https://electrek.co/2020/11/04/tesla-full-self-driving-beta-detect-avoid-road-debris-video/",
+         "description" : "Tesla’s Full Self-Driving Beta has impressed with its capacity to navigate city streets and it now looks like it can also detect and avoid road debris, according to a new video. Like Tesla Autopilot, the automaker’s new Full Self-Driving Beta requires driver …",
          "author" : null,
          "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?quality=82&strip=all",
-         "description" : "Tesla’s Full Self-Driving Beta has impressed with its capacity to navigate city streets and it now looks like it can also detect and avoid road debris, according to a new video. Like Tesla Autopilot, the automaker’s new Full Self-Driving Beta requires driver …",
          "content" : "Tesla’s Full Self-Driving Beta has impressed with its capacity to navigate city streets and it now looks like it can also detect and avoid road debris, according to a new video.\r\nLike Tesla Autopilot… [+1946 chars]",
-         "publishedAt" : "2020-11-04T11:19:00Z",
-         "title" : "Tesla Full Self-Driving Beta appears to detect and avoid road debris in video - Electrek.co",
          "source" : {
             "id" : null,
             "name" : "Electrek"
-         }
+         },
+         "title" : "Tesla Full Self-Driving Beta appears to detect and avoid road debris in video - Electrek.co",
+         "publishedAt" : "2020-11-04T11:19:00Z"
       },
       {
+         "title" : "5 things to know before the stock market opens Wednesday - CNBC",
+         "publishedAt" : "2020-11-04T11:11:00Z",
+         "content" : "1. Stock futures set to rise as election remains unsettled\r\nA woman rides past the New York Stock Exchange (NYSE) on July 13, 2020 at Wall Street in New York City.\r\nU.S. stock futures were volatile o… [+5148 chars]",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "publishedAt" : "2020-11-04T11:11:00Z",
-         "title" : "5 things to know before the stock market opens Wednesday - CNBC",
-         "content" : "1. Stock futures set to rise as election remains unsettled\r\nA woman rides past the New York Stock Exchange (NYSE) on July 13, 2020 at Wall Street in New York City.\r\nU.S. stock futures were volatile o… [+5148 chars]",
-         "author" : "Matthew J. Belvedere",
-         "description" : "U.S. stock futures were volatile overnight and early Wednesday morning with the presidential election still unsettled.",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106615081-1594725929587gettyimages-1226959196.jpeg?v=1600983714",
-         "url" : "https://www.cnbc.com/2020/11/04/5-things-to-know-before-the-stock-market-opens-november-4-2020.html"
+         "url" : "https://www.cnbc.com/2020/11/04/5-things-to-know-before-the-stock-market-opens-november-4-2020.html",
+         "author" : "Matthew J. Belvedere",
+         "description" : "U.S. stock futures were volatile overnight and early Wednesday morning with the presidential election still unsettled."
       },
       {
-         "publishedAt" : "2020-11-04T10:56:45Z",
-         "title" : "Nearly $1B in Bitcoin Moves From Wallet Linked to Silk Road - CoinDesk",
-         "content" : "A wallet possibly belonging to early darknet market Silk Road moved almost $1 billion-worth of bitcoin early on Wednesday, according to blockchain intelligence firm Elliptic. \r\n<ul><li>Bitcoin addres… [+2096 chars]",
-         "source" : {
-            "name" : "CoinDesk",
-            "id" : null
-         },
-         "url" : "https://www.coindesk.com/nearly-1b-in-bitcoin-moves-from-wallet-linked-to-silk-road",
          "description" : "A wallet possibly belonging to early darknet market Silk Road moved almost $1 billion-worth of bitcoin early on Wednesday.",
+         "author" : "Omkar Godbole",
+         "url" : "https://www.coindesk.com/nearly-1b-in-bitcoin-moves-from-wallet-linked-to-silk-road",
          "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/11/Ross_Ulbricht-1200x628.jpg",
-         "author" : "Omkar Godbole"
+         "source" : {
+            "id" : null,
+            "name" : "CoinDesk"
+         },
+         "content" : "A wallet possibly belonging to early darknet market Silk Road moved almost $1 billion-worth of bitcoin early on Wednesday, according to blockchain intelligence firm Elliptic. \r\n<ul><li>Bitcoin addres… [+2096 chars]",
+         "publishedAt" : "2020-11-04T10:56:45Z",
+         "title" : "Nearly $1B in Bitcoin Moves From Wallet Linked to Silk Road - CoinDesk"
       },
       {
          "source" : {
@@ -85,182 +86,181 @@
             "id" : "the-wall-street-journal"
          },
          "content" : "Markets often get politics wrong, but it is rare to see them price in all three of the plausible results of a presidential electionRepublican, Democrat and long-drawn-out legal battlein one night. La… [+4252 chars]",
-         "title" : "What Markets Are Telling Us as Election Results Roll In - The Wall Street Journal",
          "publishedAt" : "2020-11-04T10:40:00Z",
-         "urlToImage" : "https://images.wsj.net/im-254761/social",
+         "title" : "What Markets Are Telling Us as Election Results Roll In - The Wall Street Journal",
          "description" : "In one way markets did what they should: As the probabilities shifted, prices responded in the direction one would expect.",
          "author" : "James Mackintosh",
-         "url" : "https://www.wsj.com/articles/what-markets-are-telling-us-as-election-results-roll-in-11604486448"
+         "url" : "https://www.wsj.com/articles/what-markets-are-telling-us-as-election-results-roll-in-11604486448",
+         "urlToImage" : "https://images.wsj.net/im-254761/social"
       },
       {
-         "title" : "Elections 2020: Stock futures whipsawed as election outcome hangs in balance - Yahoo Finance",
-         "publishedAt" : "2020-11-04T10:02:00Z",
-         "content" : "Stock futures fluctuated between gains and losses early Wednesday morning as investors took in the flow of results for the 2020 election, which has so far produced no clear signs of a victor for the … [+5342 chars]",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
+         "content" : "Stock futures fluctuated between gains and losses early Wednesday morning as investors took in the flow of results for the 2020 election, which has so far produced no clear signs of a victor for the … [+5342 chars]",
+         "title" : "Elections 2020: Stock futures whipsawed as election outcome hangs in balance - Yahoo Finance",
+         "publishedAt" : "2020-11-04T10:02:00Z",
          "url" : "https://finance.yahoo.com/news/election-2020-stock-market-news-updates-november-4-2020-100242013.html",
          "author" : "Emily McCormick",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/ERuMWKHqlMbgPGiKLYMFEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjQ3/https://s.yimg.com/os/creatr-uploaded-images/2020-11/ca73c5e0-1e1a-11eb-a3ff-606cede991e0",
-         "description" : "Stock futures fluctuated between gains and losses early Wednesday morning as investors took in the flow of results for the 2020 election, which has so far..."
+         "description" : "Stock futures fluctuated between gains and losses early Wednesday morning as investors took in the flow of results for the 2020 election, which has so far...",
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/ERuMWKHqlMbgPGiKLYMFEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjQ3/https://s.yimg.com/os/creatr-uploaded-images/2020-11/ca73c5e0-1e1a-11eb-a3ff-606cede991e0"
       },
       {
-         "source" : {
-            "name" : "Seeking Alpha",
-            "id" : null
-         },
+         "urlToImage" : "https://static.seekingalpha.com/uploads/2020/10/27/35657635-16038287340233092_origin.png",
+         "url" : "https://seekingalpha.com/article/4384756-believe-pandemic-will-end-q1-2021-get-ready-to-fly",
+         "description" : "Vaccine approvals in the EU and US are anticipated before year-end. Drug manufacturers have already begun manufacturing the vaccines at risk for months and hundreds of millions of doses available by year-end.",
+         "author" : "Open Square Capital",
          "title" : "We Believe The Pandemic Will End By Q1 2021, Get Ready To Fly - Seeking Alpha",
          "publishedAt" : "2020-11-04T08:43:00Z",
-         "content" : "The global economy is currently a tale of two recoveries, one East and one West.\r\nThe East\r\nChinas economy continues its full-throttled recovery after successfully suppressing COVID, and travel, mobi… [+13121 chars]",
-         "description" : "Vaccine approvals in the EU and US are anticipated before year-end. Drug manufacturers have already begun manufacturing the vaccines at risk for months and hundreds of millions of doses available by year-end.",
-         "urlToImage" : "https://static.seekingalpha.com/uploads/2020/10/27/35657635-16038287340233092_origin.png",
-         "author" : "Open Square Capital",
-         "url" : "https://seekingalpha.com/article/4384756-believe-pandemic-will-end-q1-2021-get-ready-to-fly"
+         "source" : {
+            "id" : null,
+            "name" : "Seeking Alpha"
+         },
+         "content" : "The global economy is currently a tale of two recoveries, one East and one West.\r\nThe East\r\nChinas economy continues its full-throttled recovery after successfully suppressing COVID, and travel, mobi… [+13121 chars]"
       },
       {
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "publishedAt" : "2020-11-04T07:57:00Z",
-         "title" : "California Voters Exempt Uber, Lyft, DoorDash From Having to Reclassify Drivers - The Wall Street Journal",
-         "content" : "Uber Technologies Inc.,Lyft Inc.\r\nand DoorDash Inc. won a pivotal vote in California that exempts them from having to reclassify their drivers as employees, according to Associated Press race calls.T… [+3599 chars]",
+         "url" : "https://www.wsj.com/articles/california-voters-exempt-uber-lyft-doordash-from-having-to-reclassify-drivers-11604476276",
          "description" : "Ballot measure lets ride-hailing and food-delivery companies sidestep state labor law",
-         "urlToImage" : "https://images.wsj.net/im-254722/social",
          "author" : "Preetika Rana",
-         "url" : "https://www.wsj.com/articles/california-voters-exempt-uber-lyft-doordash-from-having-to-reclassify-drivers-11604476276"
+         "urlToImage" : "https://images.wsj.net/im-254722/social",
+         "content" : "Uber Technologies Inc.,Lyft Inc.\r\nand DoorDash Inc. won a pivotal vote in California that exempts them from having to reclassify their drivers as employees, according to Associated Press race calls.T… [+3599 chars]",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "title" : "California Voters Exempt Uber, Lyft, DoorDash From Having to Reclassify Drivers - The Wall Street Journal",
+         "publishedAt" : "2020-11-04T07:57:00Z"
       },
       {
          "title" : "Stocks swing higher as US vote goes to the wire, Alibaba tumbles - Aljazeera.com",
-         "content" : "Share markets swung between losses and gains in wild Asian trading on Wednesday as results from the United States presidential election proved far closer than polls had predicted, leaving the outcome… [+3468 chars]",
          "publishedAt" : "2020-11-04T05:53:33Z",
+         "content" : "Share markets swung between losses and gains in wild Asian trading on Wednesday as results from the United States presidential election proved far closer than polls had predicted, leaving the outcome… [+3468 chars]",
          "source" : {
             "name" : "Al Jazeera English",
             "id" : "al-jazeera-english"
          },
-         "url" : "https://www.aljazeera.com/economy/2020/11/4/stocks-swing-higher-as-us-vote-goes-to-the-wire-alibaba-tumbles",
-         "author" : "Al Jazeera",
          "urlToImage" : "https://www.aljazeera.com/wp-content/uploads/2020/11/365757863.jpg?resize=1200%2C630",
-         "description" : "Investors remain cautious about more volatility in the event that the result of the US election is contested."
+         "url" : "https://www.aljazeera.com/economy/2020/11/4/stocks-swing-higher-as-us-vote-goes-to-the-wire-alibaba-tumbles",
+         "description" : "Investors remain cautious about more volatility in the event that the result of the US election is contested.",
+         "author" : "Al Jazeera"
       },
       {
+         "urlToImage" : "https://mynorthwest.com/wp-content/uploads/2020/05/algona-restaurant-620-ap.jpg",
+         "url" : "https://mynorthwest.com/2281266/covid-19-updates-washington-state-18/?",
+         "author" : "",
+         "description" : "The state Department of Health says there have been over 110,000 coronavirus cases in Washington state, and 2,400 people have died from the virus statewide.",
          "title" : "COVID-19 updates: 657 new cases, 22 new deaths reported - MyNorthwest.com",
          "publishedAt" : "2020-11-04T05:42:02Z",
-         "content" : "The state Department of Health says there have been over 110,000 coronavirus cases in Washington state, and 2,400 people have died from the virus statewide. Check below for more updates.\r\nConfirmed c… [+5968 chars]",
          "source" : {
             "name" : "MyNorthwest.com",
             "id" : null
          },
-         "url" : "https://mynorthwest.com/2281266/covid-19-updates-washington-state-18/?",
-         "urlToImage" : "https://mynorthwest.com/wp-content/uploads/2020/05/algona-restaurant-620-ap.jpg",
-         "description" : "The state Department of Health says there have been over 110,000 coronavirus cases in Washington state, and 2,400 people have died from the virus statewide.",
-         "author" : ""
+         "content" : "The state Department of Health says there have been over 110,000 coronavirus cases in Washington state, and 2,400 people have died from the virus statewide. Check below for more updates.\r\nConfirmed c… [+5968 chars]"
       },
       {
          "author" : null,
-         "urlToImage" : null,
          "description" : null,
          "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=66c90180-1e9d-11eb-97ae-73733371b191&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMS0wNC9oZXJlLXMtd2hhdC1zb21lLW1hcmtldC13YXRjaGVycy1hcmUtc2F5aW5nLWFib3V0LXRoZS1lbGVjdGlvbg==",
+         "urlToImage" : null,
          "source" : {
             "id" : "bloomberg",
             "name" : "Bloomberg"
          },
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
          "publishedAt" : "2020-11-04T04:53:00Z",
-         "title" : "Here’s What Some Market Watchers Are Saying About the Election - Bloomberg",
-         "content" : "To continue, please click the box below to let us know you're not a robot."
+         "title" : "Here’s What Some Market Watchers Are Saying About the Election - Bloomberg"
       },
       {
-         "url" : "https://www.ketv.com/article/nebraskans-vote-to-allow-expanded-gambling/34567276",
-         "author" : "KETV Staff Report",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-18-1604464646.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "description" : "Expanded gambling is headed to Nebraska.",
-         "publishedAt" : "2020-11-04T04:52:00Z",
          "title" : "Nebraskans vote to allow expanded gambling - KETV Omaha",
+         "publishedAt" : "2020-11-04T04:52:00Z",
          "content" : "Expanded gambling is headed to Nebraska. \r\nThere are three initiatives, 429, 430 and 431, all linked to a plan to provide casino-style gambling at Nebraska horse racing tracks.\r\nInitiative 429 suppor… [+1105 chars]",
          "source" : {
             "id" : null,
             "name" : "KETV Omaha"
-         }
-      },
-      {
-         "content" : "The Mega Millions jackpot for Tuesdays lottery drawing has increased to an estimated $129 million with a cash option of $99.5 million.\r\nThe numbers were: 7, 31, 44, 45 and 55. The Mega Ball drawn was… [+1630 chars]",
-         "publishedAt" : "2020-11-04T04:12:00Z",
-         "title" : "Mega Millions lottery: Did you win Tuesday’s $129M Mega Millions drawing? Results, winning numbers (11/3/2020) - nj.com",
-         "source" : {
-            "name" : "nj.com",
-            "id" : null
          },
-         "url" : "https://www.nj.com/lottery/2020/11/mega-millions-lottery-did-you-win-tuesdays-129m-mega-millions-drawing-results-winning-numbers-1132020.html",
-         "urlToImage" : "https://www.nj.com/resizer/ihTjm5RzpxdLc181qwddv1ZrVao=/1280x0/filters:focal(312x185:322x175)/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KPVO7YWAIZDBJMU6ZUALVREK3Y.jpg",
-         "description" : "The winning Mega Millions lottery numbers were drawn Tuesday, Nov. 3, 2020, at 11 p.m. The Mega Millions jackpot drawing for (11/3/2020) was worth an estimated $129 million for a single winner.",
-         "author" : "Jeff Goldman | NJ Advance Media for NJ.com, Chris Sheldon | NJ Advance Media for NJ.com"
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-18-1604464646.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "url" : "https://www.ketv.com/article/nebraskans-vote-to-allow-expanded-gambling/34567276",
+         "author" : "KETV Staff Report",
+         "description" : "Expanded gambling is headed to Nebraska."
       },
       {
-         "url" : "https://www.benzinga.com/news/20/11/18200574/jack-ma-loses-3b-in-a-day-after-alibabas-stock-crash",
+         "source" : {
+            "id" : null,
+            "name" : "nj.com"
+         },
+         "content" : "The Mega Millions jackpot for Tuesdays lottery drawing has increased to an estimated $129 million with a cash option of $99.5 million.\r\nThe numbers were: 7, 31, 44, 45 and 55. The Mega Ball drawn was… [+1630 chars]",
+         "title" : "Mega Millions lottery: Did you win Tuesday’s $129M Mega Millions drawing? Results, winning numbers (11/3/2020) - nj.com",
+         "publishedAt" : "2020-11-04T04:12:00Z",
+         "url" : "https://www.nj.com/lottery/2020/11/mega-millions-lottery-did-you-win-tuesdays-129m-mega-millions-drawing-results-winning-numbers-1132020.html",
+         "description" : "The winning Mega Millions lottery numbers were drawn Tuesday, Nov. 3, 2020, at 11 p.m. The Mega Millions jackpot drawing for (11/3/2020) was worth an estimated $129 million for a single winner.",
+         "author" : "Jeff Goldman | NJ Advance Media for NJ.com, Chris Sheldon | NJ Advance Media for NJ.com",
+         "urlToImage" : "https://www.nj.com/resizer/ihTjm5RzpxdLc181qwddv1ZrVao=/1280x0/filters:focal(312x185:322x175)/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KPVO7YWAIZDBJMU6ZUALVREK3Y.jpg"
+      },
+      {
          "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/jack_ma.jpg",
-         "description" : "Alibaba Group Holding Ltd (NYSE: BABA) co-founder Jack Ma’s wealth eroded by nearly $3 billion as the Chinese conglomerate’s shares fell more ...",
          "author" : "Shivdeep Dhaliwal",
-         "title" : "Jack Ma Loses $3B In A Day After Alibaba's Stock Crash - Benzinga",
-         "content" : "Alibaba Group Holding Ltd (NYSE: BABA) co-founder Jack Ma’s wealth eroded by nearly $3 billion as the Chinese conglomerate’s shares fell more than 8% in New York after its Ant Group’s dual listings i… [+1015 chars]",
+         "description" : "Alibaba Group Holding Ltd (NYSE: BABA) co-founder Jack Ma’s wealth eroded by nearly $3 billion as the Chinese conglomerate’s shares fell more ...",
+         "url" : "https://www.benzinga.com/news/20/11/18200574/jack-ma-loses-3b-in-a-day-after-alibabas-stock-crash",
          "publishedAt" : "2020-11-04T04:11:43Z",
+         "title" : "Jack Ma Loses $3B In A Day After Alibaba's Stock Crash - Benzinga",
          "source" : {
             "id" : null,
             "name" : "Benzinga"
-         }
-      },
-      {
-         "author" : "Bram de Haas",
-         "urlToImage" : "https://static.seekingalpha.com/uploads/2020/11/2/11236431-16043688724796138_origin.png",
-         "description" : "U.S. elections can have a profound impact on markets.",
-         "url" : "https://seekingalpha.com/article/4384726-15-companies-should-rip-based-on-election-outcome",
-         "source" : {
-            "name" : "Seeking Alpha",
-            "id" : null
          },
-         "publishedAt" : "2020-11-04T04:08:00Z",
-         "content" : "I've analyzed the beta of U.S.-listed companies to President Trump's chances in prediction markets. As I'm writing this, the betting market I keep an eye on, which has a lot of liquidity, has Biden a… [+16174 chars]",
-         "title" : "15 Companies That Should Rip Based On Election Outcome - Seeking Alpha"
+         "content" : "Alibaba Group Holding Ltd (NYSE: BABA) co-founder Jack Ma’s wealth eroded by nearly $3 billion as the Chinese conglomerate’s shares fell more than 8% in New York after its Ant Group’s dual listings i… [+1015 chars]"
       },
       {
-         "author" : "Reuters",
-         "description" : "President Trump has maintained a slim lead in key battleground states with the Chinese yuan and Mexican peso hit hardest by the idea of four more years of his aggressive trade policy",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/03/0/0/usa_money.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/markets/dollar-climbs-chinas-yuan-mexican-peso-dives-as-us-presidential-race-too-close-to-call",
          "source" : {
-            "name" : "Fox Business",
-            "id" : null
+            "id" : null,
+            "name" : "Seeking Alpha"
+         },
+         "content" : "I've analyzed the beta of U.S.-listed companies to President Trump's chances in prediction markets. As I'm writing this, the betting market I keep an eye on, which has a lot of liquidity, has Biden a… [+16174 chars]",
+         "title" : "15 Companies That Should Rip Based On Election Outcome - Seeking Alpha",
+         "publishedAt" : "2020-11-04T04:08:00Z",
+         "url" : "https://seekingalpha.com/article/4384726-15-companies-should-rip-based-on-election-outcome",
+         "description" : "U.S. elections can have a profound impact on markets.",
+         "author" : "Bram de Haas",
+         "urlToImage" : "https://static.seekingalpha.com/uploads/2020/11/2/11236431-16043688724796138_origin.png"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
          },
          "content" : "The U.S. dollar jumped and risk-sensitive currencies weakened on Wednesday as early results in the U.S. presidential election showed a very tight race, prompting a wind-back of bets on a victory by D… [+2644 chars]",
+         "publishedAt" : "2020-11-04T04:07:38Z",
          "title" : "Dollar climbs, China's yuan, Mexican peso dives as US presidential race too close to call - Fox Business",
-         "publishedAt" : "2020-11-04T04:07:38Z"
+         "description" : "President Trump has maintained a slim lead in key battleground states with the Chinese yuan and Mexican peso hit hardest by the idea of four more years of his aggressive trade policy",
+         "author" : "Reuters",
+         "url" : "https://www.foxbusiness.com/markets/dollar-climbs-chinas-yuan-mexican-peso-dives-as-us-presidential-race-too-close-to-call",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/03/0/0/usa_money.jpg?ve=1&tl=1"
       },
       {
-         "description" : "Thai Airways is offering a one-off flight over some of Thailand's holiest Buddhist religious sites, with passengers reciting mantras along the way.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201104093926-01-thai-airways-file-photo-super-tease.jpg",
-         "author" : "By Lilit Marcus, CNN",
-         "url" : "https://www.cnn.com/travel/article/thai-airways-buddhist-flight-to-nowhere-intl-hnk/index.html",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "publishedAt" : "2020-11-04T03:09:01Z",
+         "content" : "Lilit Marcus, CNNUpdated 4th November 2020\r\n(CNN) Nervous travelers have often found themselves praying on board a plane.\r\nBut a new flight offering from Thai Airways plans to feature in-flight spiri… [+1874 chars]",
          "title" : "Thai Airways launches 'flight to nowhere' for religious worshippers - CNN",
-         "content" : "Lilit Marcus, CNNUpdated 4th November 2020\r\n(CNN) Nervous travelers have often found themselves praying on board a plane.\r\nBut a new flight offering from Thai Airways plans to feature in-flight spiri… [+1874 chars]"
+         "publishedAt" : "2020-11-04T03:09:01Z",
+         "url" : "https://www.cnn.com/travel/article/thai-airways-buddhist-flight-to-nowhere-intl-hnk/index.html",
+         "author" : "By Lilit Marcus, CNN",
+         "description" : "Thai Airways is offering a one-off flight over some of Thailand's holiest Buddhist religious sites, with passengers reciting mantras along the way.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201104093926-01-thai-airways-file-photo-super-tease.jpg"
       },
       {
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/3053b1e7-American-Airlines-flight.jpg",
+         "url" : "https://www.foxnews.com/travel/american-airlines-cuts-december-flight-schedule",
+         "description" : "American Airlines has cut its December flight schedule in half because of low demand during the coronavirus pandemic.",
+         "author" : "Ann Schmidt",
+         "title" : "American Airlines cuts 100,000 December flights over low demand during pandemic - Fox News",
+         "publishedAt" : "2020-11-04T02:03:48Z",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "title" : "American Airlines cuts 100,000 December flights over low demand during pandemic - Fox News",
-         "content" : "Despite the upcoming holiday season, American Airlines has cut down its December flight schedule because of “low demand” during the coronavirus pandemic. \r\nIn fact, the airline will have about 50% fe… [+2394 chars]",
-         "publishedAt" : "2020-11-04T02:03:48Z",
-         "author" : "Ann Schmidt",
-         "description" : "American Airlines has cut its December flight schedule in half because of low demand during the coronavirus pandemic.",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/3053b1e7-American-Airlines-flight.jpg",
-         "url" : "https://www.foxnews.com/travel/american-airlines-cuts-december-flight-schedule"
+         "content" : "Despite the upcoming holiday season, American Airlines has cut down its December flight schedule because of “low demand” during the coronavirus pandemic. \r\nIn fact, the airline will have about 50% fe… [+2394 chars]"
       }
-   ],
-   "totalResults" : 70
+   ]
 }
