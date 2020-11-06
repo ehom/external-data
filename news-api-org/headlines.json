@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
    "articles" : [
       {
+         "url" : "https://www.nytimes.com/2020/11/05/technology/facebook-twitter-election.html",
+         "title" : "On Election Day, Facebook and Twitter Did Better by Making Their Products Worse - The New York Times",
+         "author" : "Kevin Roose",
+         "publishedAt" : "2020-11-06T01:30:00Z",
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
+            "id" : null,
+            "name" : "New York Times"
          },
-         "publishedAt" : "2020-11-05T23:57:38Z",
-         "description" : null,
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9a0hNaTZwMFR6ZkXSAQA?oc=5",
+         "urlToImage" : "https://static01.nyt.com/images/2020/11/06/business/05JProose-print/merlin_174655152_fb9f6965-2486-4291-9bc6-c599cf8f59be-facebookJumbo.jpg",
+         "content" : "Nowhere was this shift more apparent than at Facebook, which for years envisioned itself as a kind of post-human communication platform. Mark Zuckerberg, the companys chief executive, often spoke abo… [+2247 chars]",
+         "description" : "New rules put in place by the companies over the last four years have helped them avert their greatest fears."
+      },
+      {
+         "description" : "Elon Musk’s electric car company has put out a tequila, at $250 a bottle. Tequila, like Champagne, is subject strict denomination of origin rules; in the case of tequila, it must be manufactured in one of five Mexican states. It must also be made from blue ag…",
+         "content" : "Elon Musk has branched out from rockets and cars into booze as Tesla has launched Tesla Tequila on its website today. If you have $250 burning a hole in your pocket, you can pick up your very own lig… [+2189 chars]",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/MWglToNmoeQ3hPsXORO9oHGHTIs=/0x115:1602x954/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22015776/tesla_tequila_3_2.jpg",
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "publishedAt" : "2020-11-06T01:21:03Z",
+         "author" : "Elizabeth Lopatto",
+         "title" : "Tesla’s Tequila exists, pricily - The Verge",
+         "url" : "https://www.theverge.com/tldr/2020/11/5/21551970/teslas-tequila-exists-website"
+      },
+      {
+         "publishedAt" : "2020-11-06T00:45:17Z",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "title" : "Bulls keep running as Bitcoin price notches a new 2020 high at $15,950 - Cointelegraph",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vY29pbnRlbGVncmFwaC5jb20vbmV3cy9idWxscy1rZWVwLXJ1bm5pbmctYXMtYml0Y29pbi1wcmljZS1ub3RjaGVzLWEtbmV3LTIwMjAtaGlnaC1hdC0xNS03NTDSAWhodHRwczovL2NvaW50ZWxlZ3JhcGguY29tL25ld3MvYnVsbHMta2VlcC1ydW5uaW5nLWFzLWJpdGNvaW4tcHJpY2Utbm90Y2hlcy1hLW5ldy0yMDIwLWhpZ2gtYXQtMTUtNzUwL2FtcA?oc=5",
          "author" : null,
-         "content" : null,
-         "title" : "Jim Cramer: Facebook, Apple, Amazon and Microsoft are the 'Fort Knoxes of our era - CNBC Television",
-         "urlToImage" : null
+         "description" : null,
+         "urlToImage" : null,
+         "content" : null
+      },
+      {
+         "description" : "Stocks closed higher after Thursday’s trading session, with the Dow Jones Industrial Average and the S&P 500 each adding nearly 2%, marking the fourth consecutive day of gains.",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/NYSE-911-Getty.jpg?ve=1&tl=1",
+         "content" : "Stocks on Wall Street are surging higher despite extraordinary political uncertainty and a very real possibility that Democrat Joe Biden could win the 2020 election as several battleground states rem… [+2956 chars]",
+         "publishedAt" : "2020-11-06T00:38:15Z",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "title" : "Wall Street ‘euphoric’ as blue wave seen as unlikely, making progressive change more difficult - Fox Business",
+         "url" : "https://www.foxbusiness.com/politics/wall-street-euphoric-blue-wave-election",
+         "author" : "Brittany De Lea"
+      },
+      {
+         "author" : "Tyler Clifford",
+         "title" : "Coronavirus testing stocks have 'a lot more room to run,' Jim Cramer says - CNBC",
+         "url" : "https://www.cnbc.com/2020/11/05/jim-cramer-coronavirus-testing-stocks-have-a-lot-more-room-to-run.html",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "publishedAt" : "2020-11-06T00:31:00Z",
+         "content" : "CNBC's Jim Cramer on Thursday recommended investors take a look at buying stock in diagnostic companies as the coronavirus pandemic rages on.\r\n\"With Covid spiking and a very good chance that Joe Bide… [+3484 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106615114-1594727196798gettyimages-1225987642.jpeg?v=1602754142",
+         "description" : "\"The pandemic is once again out of control,\" the \"Mad Money\" host said."
       },
       {
          "author" : "Ryan Gaydos",
-         "url" : "https://www.foxnews.com/sports/espn-bob-ley-reported-layoffs-job-cuts",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Bob-Ley-GETTY.jpg",
          "title" : "Ex-ESPN star Bob Ley rips former employer over reported layoffs, job cuts - Fox News",
-         "content" : "A former ESPN star ripped the company he used to work for Thursday as it was announced that’s it was reportedly cutting 500 jobs.\r\nBob Ley, who was widely considered to be the pinnacle of sports jour… [+2100 chars]",
+         "url" : "https://www.foxnews.com/sports/espn-bob-ley-reported-layoffs-job-cuts",
          "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
+            "name" : "Fox News",
+            "id" : "fox-news"
          },
          "publishedAt" : "2020-11-05T23:57:18Z",
+         "content" : "A former ESPN star ripped the company he used to work for Thursday as it was announced that’s it was reportedly cutting 500 jobs.\r\nBob Ley, who was widely considered to be the pinnacle of sports jour… [+2100 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Bob-Ley-GETTY.jpg",
          "description" : "A former ESPN star ripped the company he used to work for Thursday as it was announced that’s it was reportedly cutting 500 jobs."
       },
       {
+         "title" : "FDA could move closer to approving first new Alzheimer's drug in nearly 20 years - CNN",
+         "url" : "https://www.cnn.com/2020/11/05/health/alzheimers-disease-drug-fda-meeting-wellness/index.html",
+         "author" : "Jacqueline Howard and Shelby Lin Erdman, CNN",
          "publishedAt" : "2020-11-05T23:53:00Z",
-         "description" : "The US Food and Drug Administration soon will consider whether to approve a new Alzheimer's drug for the first time in almost two decades.",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201023052623-alzheimers-file-super-tease.jpg",
-         "title" : "FDA could move closer to approving first new Alzheimer's drug in nearly 20 years - CNN",
          "content" : null,
-         "author" : "Jacqueline Howard and Shelby Lin Erdman, CNN",
-         "url" : "https://www.cnn.com/2020/11/05/health/alzheimers-disease-drug-fda-meeting-wellness/index.html"
+         "description" : "The US Food and Drug Administration soon will consider whether to approve a new Alzheimer's drug for the first time in almost two decades."
       },
       {
-         "title" : "Tesla launches own tequila with crazy-looking bottle and high price tag - Electrek.co",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-Tequila-hero-2.jpg?quality=82&strip=all",
-         "content" : "Tesla has finally launched its tequila with a crazy-looking bottle and a very high price tag.\r\nYet another Elon Musk joke that becomes reallity.\r\nFrom a fart machine inside Tesla vehicles to flamethr… [+2067 chars]",
-         "url" : "https://electrek.co/2020/11/05/tesla-launches-tequila-price/",
-         "author" : null,
-         "publishedAt" : "2020-11-05T23:18:00Z",
-         "description" : "Tesla has finally launched its tequila with a crazy-looking bottle and a very high price tag. Yet another Elon Musk joke that becomes reallity. From a fart machine inside Tesla vehicles to flamethrowers, Elon Musk had plenty of strange ideas that sounded like…",
+         "description" : "Fed Chair Jerome Powell doesn't see a full economic recovery until people are confident COVID-19 is under control.",
+         "content" : "Federal ReserveChairman Jerome Powell reiterated on Wednesday that the economic recovery is dependant on how the country handles the coronavirus pandemic.\r\n\"As we have emphasized throughout the pande… [+2824 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/09/0/0/powell-and-mnuchin.jpg?ve=1&tl=1",
          "source" : {
             "id" : null,
-            "name" : "Electrek"
-         }
+            "name" : "Fox Business"
+         },
+         "publishedAt" : "2020-11-05T23:32:59Z",
+         "author" : "Lucas Manfredi",
+         "title" : "Fed Chair Powell: Wearing masks will help bring U.S. economy back - Fox Business",
+         "url" : "https://www.foxbusiness.com/economy/fed-chair-powell-says-wearing-masks-social-distancing-will-help-bring-economy-back-to-full-strength"
       },
       {
-         "author" : "Dan Caplinger",
-         "url" : "https://www.fool.com/investing/2020/11/05/are-stock-markets-headed-for-record-highs-or-a-cra/",
-         "title" : "Are Stock Markets Headed for Record Highs -- or a Crash? - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/599069/fireworks-gettyimages-868481630.jpg",
-         "content" : "Thursday was another strong day for the stock market, extending the upward streak for major market benchmarks to four consecutive days. In stark contrast to the dour mood heading into the weekend bef… [+3242 chars]",
+         "url" : "https://www.cnbc.com/2020/11/05/peloton-says-recent-spike-in-covid-19-cases-lockdowns-boosting-sales.html",
+         "title" : "Peloton says recent spike in Covid-19 cases, lockdowns are boosting sales - CNBC",
+         "author" : "Lauren Thomas",
          "source" : {
-            "name" : "Motley Fool",
+            "name" : "CNBC",
             "id" : null
          },
-         "publishedAt" : "2020-11-05T23:03:44Z",
-         "description" : "After this week's big move higher, we're a lot closer to all-time highs."
+         "publishedAt" : "2020-11-05T22:58:00Z",
+         "content" : "Peloton is seeing demand for its high-end exercise bikes and treadmills spike again, as Covid-19 cases are rising at a record clip in America, and consumers are hunkering down at home ahead of the wi… [+1628 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106477464-1586217175875gettyimages-1217247349.jpeg?v=1588703775",
+         "description" : "\"The recent spikes in Covid cases and newly imposed lockdowns ... have had a significant positive impact on sales,\" Peloton CFO Jill Woodworth said."
       },
       {
-         "author" : "Joseph Zeballos-Roig",
-         "url" : "https://www.businessinsider.com/biden-democrats-proposed-plans-for-extra-cash-your-wallet-2020-11",
-         "urlToImage" : "https://i.insider.com/5f99a65e69331a0011bc5c7d?width=1200&format=jpeg",
-         "title" : "The 7 plans Biden has proposed that could put extra cash in your wallet - Business Insider - Business Insider",
-         "content" : null,
-         "source" : {
-            "id" : "business-insider",
-            "name" : "Business Insider"
-         },
-         "description" : "Measures include hazard pay for essential workers, a child allowance, a possible wave of stimulus checks, and boosted unemployment benefits.",
-         "publishedAt" : "2020-11-05T22:45:00Z"
-      },
-      {
+         "publishedAt" : "2020-11-05T22:41:09Z",
          "source" : {
             "name" : "INSIDER",
             "id" : null
          },
-         "publishedAt" : "2020-11-05T22:41:09Z",
-         "description" : "Investigators believe that the postal service employee had stolen mail more than four times since September.",
          "author" : "Haven Orecchio-Egresitz",
+         "title" : "USPS driver arrested at Canada border with 800 pieces of mail in trunk - Insider - INSIDER",
          "url" : "https://www.insider.com/usps-driver-arrested-canada-mail-in-trunk-2020-11",
-         "content" : "A 27-year-old postal service employee was arrested at the Canadian border Tuesday after investigators found that he had more than 800 pieces of undelivered mail — including absentee ballots — in his … [+2461 chars]",
+         "description" : "Investigators believe that the postal service employee had stolen mail more than four times since September.",
          "urlToImage" : "https://i.insider.com/5fa476721df1d500182192ef?width=1200&format=jpeg",
-         "title" : "USPS driver arrested at Canada border with 800 pieces of mail in trunk - Insider - INSIDER"
+         "content" : "A 27-year-old postal service employee was arrested at the Canadian border Tuesday after investigators found that he had more than 800 pieces of undelivered mail — including absentee ballots — in his … [+2461 chars]"
       },
       {
-         "publishedAt" : "2020-11-05T22:30:00Z",
+         "content" : "Zillow shares climbed more than 8% in extended trading on Thursday after the digital real estate company reported third-quarter estimates that blew past analysts estimates and offered a better-than-e… [+1635 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105753836-1550783800780barton.jpg?v=1596836143",
          "description" : "Zillow continues to benefit from the movement towards remote work and low interest rates.",
+         "author" : "Ari Levy",
+         "title" : "Zillow shares jump after online real estate company blows past estimates and provides optimistic forecast - CNBC",
+         "url" : "https://www.cnbc.com/2020/11/05/zillow-z-stock-jumps-on-q3-earnings.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "content" : "Zillow shares climbed more than 8% in extended trading on Thursday after the digital real estate company reported third-quarter estimates that blew past analysts estimates and offered a better-than-e… [+1635 chars]",
-         "title" : "Zillow shares jump after online real estate company blows past estimates and provides optimistic forecast - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105753836-1550783800780barton.jpg?v=1596836143",
-         "author" : "Ari Levy",
-         "url" : "https://www.cnbc.com/2020/11/05/zillow-z-stock-jumps-on-q3-earnings.html"
+         "publishedAt" : "2020-11-05T22:30:00Z"
       },
       {
-         "url" : "https://finance.yahoo.com/news/powell-vows-fed-not-out-of-ammo-to-boost-covid-19-hit-economy-222643982.html",
-         "author" : "Brian Cheung",
-         "title" : "Powell: Fed not 'out of ammo' to boost COVID-19 hit economy, can expand balance sheet, liquidity - Yahoo Finance",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/RCC0m9mmy6KJdDi47JF2sQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2020-09/25229740-fd01-11ea-afe2-38b071e06ba2",
-         "content" : "Federal Reserve Chairman Jay Powell said Thursday that the central bank has several tools it could use to continue providing accommodation if the U.S. economic recovery lags including an expansion of… [+3724 chars]",
+         "author" : "Investor's Business Daily",
+         "url" : "https://www.investors.com/news/technology/cloudflare-earnings-net-stock-q3-2020/",
+         "title" : "Cloudflare Earnings Guidance Tops Expectations, NET Stock Jumps - Investor's Business Daily",
+         "publishedAt" : "2020-11-05T22:22:00Z",
          "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
+            "id" : null,
+            "name" : "Investor's Business Daily"
          },
-         "description" : "Fed Chairman Jay Powell said Thursday that the central bank can expand its quantitative easing program and extend its various liquidity facilities.",
-         "publishedAt" : "2020-11-05T22:26:00Z"
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/09/stock-cloudflare-01-shutter.jpg",
+         "content" : "Cloudflare earnings and revenue handily beat September-quarter analyst estimates on Thursday while revenue guidance came in above Wall Street targets. Cloudflare stock jumped in extended trading on t… [+1861 chars]",
+         "description" : "Cloudflare earnings and revenue handily beat Q3 estimates while revenue guidance came in above Wall Street targets. Cloudflare stock jumped on the news."
       },
       {
          "publishedAt" : "2020-11-05T22:20:00Z",
-         "description" : "People spent the summer freaking out and subscribing to the paper of record.",
          "source" : {
-            "id" : null,
-            "name" : "Vox"
+            "name" : "Vox",
+            "id" : null
          },
-         "content" : "We are living, the cliche goes, in unprecedented times. The New York Times, however, seems to be in a very familiar Groundhog Day scenario: The news goes nuts, and more people subscribe to the New Yo… [+4216 chars]",
          "title" : "New York Times has record Q3 subscriber numbers - Vox.com",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/q_zZB3tAH8TI4r4t1Vl4yCYy7fw=/0x145:3964x2220/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22014885/625075950.jpg",
          "url" : "https://www.vox.com/recode/2020/11/5/21551379/new-york-times-subscribers-q3-2020-trump-election-pandemic",
-         "author" : "Peter Kafka"
+         "author" : "Peter Kafka",
+         "description" : "People spent the summer freaking out and subscribing to the paper of record.",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/q_zZB3tAH8TI4r4t1Vl4yCYy7fw=/0x145:3964x2220/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22014885/625075950.jpg",
+         "content" : "We are living, the cliche goes, in unprecedented times. The New York Times, however, seems to be in a very familiar Groundhog Day scenario: The news goes nuts, and more people subscribe to the New Yo… [+4216 chars]"
       },
       {
+         "author" : "James Leggate",
+         "title" : "Cruise lines will need volunteer guests before they can resume sailing - Fox News",
+         "url" : "https://www.foxnews.com/travel/cruise-lines-need-volunteer-guests-before-resume-sailing",
+         "publishedAt" : "2020-11-05T22:11:42Z",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "publishedAt" : "2020-11-05T22:11:42Z",
-         "description" : "Would you test COVID-19 safety protocols if it meant going on a cruise?",
-         "author" : "James Leggate",
-         "url" : "https://www.foxnews.com/travel/cruise-lines-need-volunteer-guests-before-resume-sailing",
-         "title" : "Cruise lines will need volunteer guests before they can resume sailing - Fox News",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Royal-Caribbean-iStock.jpg",
-         "content" : "Would you test COVID-19 safety protocols if it meant going on a cruise?\r\nRoyal Caribbean will be looking for volunteer passengers as the company prepares to return its ships to service, Vicki Freed, … [+3405 chars]"
+         "content" : "Would you test COVID-19 safety protocols if it meant going on a cruise?\r\nRoyal Caribbean will be looking for volunteer passengers as the company prepares to return its ships to service, Vicki Freed, … [+3405 chars]",
+         "description" : "Would you test COVID-19 safety protocols if it meant going on a cruise?"
       },
       {
-         "content" : "A long-awaited coronavirus vaccine could be available in roughly two months, according to drugmaker AstraZeneca, which is developing a treatment.\r\nThe Anglo-Swedish drugmaker is working with the Univ… [+3378 chars]",
-         "title" : "AstraZeneca says COVID-19 vaccine could arrive in January of next year - CBS News",
-         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/07/66f72eb9-03c2-4769-afef-c8e499a4f04e/thumbnail/1200x630/7a25f9438f823946756608900da957aa/cbsn-fusion-covid-fda-coronavirus-vaccine-guidelines-debate-safety-thumbnail-561289-640x360.jpg",
-         "author" : "Khristopher J. Brooks",
          "url" : "https://www.cbsnews.com/news/covid-vaccine-astrazeneca-ceo-says-december-january/",
-         "description" : "A possible vaccine shot could come just as the U.S. is setting record highs for COVID-19 cases and hospitalizations.",
+         "title" : "AstraZeneca says COVID-19 vaccine could arrive in January of next year - CBS News",
+         "author" : "Khristopher J. Brooks",
          "publishedAt" : "2020-11-05T22:08:00Z",
          "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
-         }
+            "name" : "CBS News",
+            "id" : "cbs-news"
+         },
+         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/07/66f72eb9-03c2-4769-afef-c8e499a4f04e/thumbnail/1200x630/7a25f9438f823946756608900da957aa/cbsn-fusion-covid-fda-coronavirus-vaccine-guidelines-debate-safety-thumbnail-561289-640x360.jpg",
+         "content" : "A long-awaited coronavirus vaccine could be available in roughly two months, according to drugmaker AstraZeneca, which is developing a treatment.\r\nThe Anglo-Swedish drugmaker is working with the Univ… [+3378 chars]",
+         "description" : "A possible vaccine shot could come just as the U.S. is setting record highs for COVID-19 cases and hospitalizations."
       },
       {
-         "author" : null,
-         "url" : "https://electrek.co/2020/11/05/bentley-all-electric-within-10-years/",
-         "content" : "Bentley announced a significant expansion of its electrification plans, including only selling battery-electric vehicles starting in 2030.\r\nAs part of the Volkswagen Group, Bentley has been somewhat … [+2136 chars]",
-         "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2019/12/bentley-ev-2.jpg?quality=82&strip=all",
-         "title" : "Bentley plans to go all-electric within 10 years - Electrek.co",
+         "publishedAt" : "2020-11-05T22:03:03Z",
          "source" : {
             "id" : null,
-            "name" : "Electrek"
+            "name" : "Hollywood Reporter"
          },
-         "publishedAt" : "2020-11-05T22:06:00Z",
-         "description" : "Bentley announced a significant expansion of its electrification plans, including only selling battery-electric vehicles starting in 2030. As part of the Volkswagen Group, Bentley has been somewhat lagging behind its sister brands when it comes to electrifica…"
+         "title" : "'NBA 2K21' Fuels Take-Two Interactive's Second Quarter - Hollywood Reporter",
+         "url" : "https://www.hollywoodreporter.com/news/nba-2k21-fuels-take-two-interactives-second-quarter",
+         "author" : "Trilby Beresford",
+         "description" : "CEO Strauss Zelnick says the latest basketball simulation game has sold over five million units while the series has grown 28 percent in net bookings.",
+         "urlToImage" : null,
+         "content" : "NBA 2K and other flagship titles from Rockstar Games and 2k Games fueled revenue for parent company Take-Two Interactive during its most recent quarter.\r\nNet revenue reached $841.4 million for the th… [+2758 chars]"
       },
       {
-         "content" : null,
-         "title" : "Cloudflare +9% after Q3 beats, raised full-year outlook - Seeking Alpha",
-         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
-         "author" : null,
-         "url" : "https://seekingalpha.com/news/3632716-cloudflareplus-9-after-q3-beats-raised-full-year-outlook",
-         "description" : null,
-         "publishedAt" : "2020-11-05T22:01:00Z",
-         "source" : {
-            "name" : "Seeking Alpha",
-            "id" : null
-         }
-      },
-      {
-         "url" : "https://www.cordcuttersnews.com/nbc-and-viacomcbs-join-discovery-in-expressing-concern-over-t-mobile-content-distribution/",
-         "author" : null,
-         "content" : "Skip to content\r\nEarlier today, Discovery CEO David Zaslav mentioned during the company’s Q3 earnings call that he took issue with the way T-Mobile designed the channel lineups for its new streaming … [+1069 chars]",
+         "description" : "Earlier today, Discovery CEO David Zaslav mentioned during the company’s Q3 earnings call that he took issue with the way T-Mobile designed the channel lineups for its new streaming services. Zaslav was “very surprised” to see Discovery owned channels on the …",
          "urlToImage" : "https://www.cordcuttersnews.com/wp-content/uploads/2020/10/TMobile-TVision-Logo.png",
-         "title" : "NBC and ViacomCBS Join Discovery in Expressing Concern Over T-Mobile Content Distribution - Cord Cutters News",
+         "content" : "Skip to content\r\nEarlier today, Discovery CEO David Zaslav mentioned during the company’s Q3 earnings call that he took issue with the way T-Mobile designed the channel lineups for its new streaming … [+1069 chars]",
+         "publishedAt" : "2020-11-05T21:58:22Z",
          "source" : {
             "id" : null,
             "name" : "Cord Cutters News, LLC"
          },
-         "description" : "Earlier today, Discovery CEO David Zaslav mentioned during the company’s Q3 earnings call that he took issue with the way T-Mobile designed the channel lineups for its new streaming services. Zaslav was “very surprised” to see Discovery owned channels on the …",
-         "publishedAt" : "2020-11-05T21:58:22Z"
+         "author" : null,
+         "url" : "https://www.cordcuttersnews.com/nbc-and-viacomcbs-join-discovery-in-expressing-concern-over-t-mobile-content-distribution/",
+         "title" : "NBC and ViacomCBS Join Discovery in Expressing Concern Over T-Mobile Content Distribution - Cord Cutters News"
       },
       {
+         "content" : "Yesterday, the FCC announced that T-Mobile would have to pay $200 million in civil penalties. The cellular carrier's bad week isn't stopping yet, though — the National Advertising Division of the Bet… [+1272 chars]",
+         "urlToImage" : "https://www.androidpolice.com/wp-content/uploads/2020/11/05/TMobile5GStopHero-01.png",
+         "description" : "Yesterday, the FCC announced that T-Mobile would have to pay $200 million in civil penalties. The cellular carrier's bad week isn't stopping yet,",
          "author" : null,
          "url" : "https://www.androidpolice.com/2020/11/05/t-mobile-agrees-to-tone-down-misleading-5g-claims/",
-         "content" : "Yesterday, the FCC announced that T-Mobile would have to pay $200 million in civil penalties. The cellular carrier's bad week isn't stopping yet, though — the National Advertising Division of the Bet… [+1272 chars]",
          "title" : "T-Mobile agrees to tone down misleading 5G claims - Android Police",
-         "urlToImage" : "https://www.androidpolice.com/wp-content/uploads/2020/11/05/TMobile5GStopHero-01.png",
          "source" : {
             "id" : null,
             "name" : "Android Police"
          },
-         "publishedAt" : "2020-11-05T21:58:00Z",
-         "description" : "Yesterday, the FCC announced that T-Mobile would have to pay $200 million in civil penalties. The cellular carrier's bad week isn't stopping yet,"
+         "publishedAt" : "2020-11-05T21:58:00Z"
       },
       {
-         "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
-         },
-         "description" : "Agency says a hacker stole funds in 2012, 2013 from drug website, left untouched for years",
-         "publishedAt" : "2020-11-05T21:55:00Z",
-         "url" : "https://www.wsj.com/articles/justice-department-seizes-1-billion-of-bitcoin-tied-to-silk-road-website-11604612072",
-         "author" : "Paul Vigna",
-         "urlToImage" : "https://images.wsj.net/im-255769/social",
-         "title" : "Justice Department Seizes $1 Billion of Bitcoin Tied to Silk Road Website - The Wall Street Journal",
-         "content" : "U.S. Department of Justice officials seized more than $1 billion of bitcoins and other digital currencies this week that had been associated with the Silk Road online drug bazaar, the largest seizure… [+295 chars]"
-      },
-      {
+         "url" : "https://www.nbcnews.com/business/business-news/san-francisco-voters-pass-overpaid-executive-tax-n1246644",
+         "title" : "San Francisco voters pass 'Overpaid Executive Tax' - NBC News",
+         "author" : "Cyrus Farivar",
+         "publishedAt" : "2020-11-05T21:51:00Z",
          "source" : {
             "id" : "nbc-news",
             "name" : "NBC News"
          },
-         "description" : "San Francisco is one of nation's first cities to try to crack down on outsize CEO pay.",
-         "publishedAt" : "2020-11-05T21:51:00Z",
-         "url" : "https://www.nbcnews.com/business/business-news/san-francisco-voters-pass-overpaid-executive-tax-n1246644",
-         "author" : "Cyrus Farivar",
-         "content" : "Trying to address the growing wage gap between chief executives and workers, San Francisco voters overwhelmingly approved what is believed to be the nations first tax aimed at combatting pay inequity… [+2299 chars]",
          "urlToImage" : "https://media2.s-nbcnews.com/j/newscms/2020_45/3350061/200514-san-francisco-al-1446_e5e042815c55291b838fce0a7a11459f.nbcnews-fp-1200-630.jpg",
-         "title" : "San Francisco voters pass 'Overpaid Executive Tax' - NBC News"
+         "content" : "Trying to address the growing wage gap between chief executives and workers, San Francisco voters overwhelmingly approved what is believed to be the nations first tax aimed at combatting pay inequity… [+2299 chars]",
+         "description" : "San Francisco is one of nation's first cities to try to crack down on outsize CEO pay."
       },
       {
-         "author" : "MarketWatch Automation",
-         "url" : "https://www.marketwatch.com/story/apple-inc-stock-outperforms-market-on-strong-trading-day-01604611830",
-         "content" : "Shares of Apple Inc. \r\n AAPL,\r\n +3.54%\r\nrallied 3.55% to $119.03 Thursday, on what proved to be an all-around positive trading session for the stock market, with the NASDAQ Composite Index \r\n COMP,\r\n… [+771 chars]",
-         "urlToImage" : "https://images.mktw.net/im-213861/social",
-         "title" : "Apple Inc. stock outperforms market on strong trading day - MarketWatch",
+         "description" : "The LEGO adaptation picks up where \"Star Wars: The Rise of Skywalker\" left off, bringing a galaxy from far, far away to your living room on Disney+.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201105163534-lego-star-wars-thumbnail-super-tease.jpg",
+         "content" : "",
+         "publishedAt" : "2020-11-05T21:44:46Z",
          "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "publishedAt" : "2020-11-05T21:30:00Z",
-         "description" : ""
-      },
-      {
-         "url" : "https://www.cnbc.com/2020/11/05/virgin-galactic-spce-earnings-q3-2020.html",
-         "author" : "Michael Sheetz",
-         "title" : "Virgin Galactic's quarterly loss increases, plans next spaceflight test for late November - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106781944-1604600341995-SpaceshipTwo_Unity_flying_free_in_the_New_Mexico_Airspace_for_the_first_time.jpg?v=1604600400",
-         "content" : "Space tourism company Virgin Galactic reported third quarter results on Thursday with an increased loss as the company looks to fly two more test spaceflights to finish its development program.\r\n\"Dur… [+3377 chars]",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "description" : "Space tourism company Virgin Galactic reported third quarter results on Thursday with an increased loss as the company looks to finish its development program.",
-         "publishedAt" : "2020-11-05T21:27:00Z"
+         "author" : null,
+         "title" : "'The LEGO Star Wars Holiday Special' reimagines fan favorites as toys - CNN",
+         "url" : "https://www.cnn.com/videos/business-videos/2020/11/05/lego-star-wars-holiday-special-disney-orig-kj.cnn"
       }
    ],
-   "totalResults" : 70
+   "totalResults" : 70,
+   "status" : "ok"
 }
