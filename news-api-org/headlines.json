@@ -1,266 +1,266 @@
 {
+   "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201107161915-jamie-dimon-file-restricted-super-tease.jpg",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
+         "author" : "Bridget O'Brian, CNN Business",
          "publishedAt" : "2020-11-07T22:45:00Z",
          "description" : "Business leaders and industry groups took to Twitter and released statements Saturday congratulating President-elect Joe Biden on his victory, while calling for the country to come together after a hard-fought and sometimes bitter campaign.",
+         "title" : "Business leaders congratulate Biden on victory - CNN",
+         "content" : null,
          "url" : "https://www.cnn.com/2020/11/07/business/business-leaders-react-biden-win/index.html",
-         "author" : "Bridget O'Brian, CNN Business",
-         "content" : null,
-         "title" : "Business leaders congratulate Biden on victory - CNN"
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201107161915-jamie-dimon-file-restricted-super-tease.jpg"
       },
       {
-         "publishedAt" : "2020-11-07T21:44:09Z",
-         "description" : "Check out this week’s Bad Crypto podcast",
          "urlToImage" : "https://s3.cointelegraph.com/uploads/2020-11/f9184927-540b-4241-8b32-74775be76a96.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "Cointelegraph"
-         },
-         "title" : "Amid election throes, Bitcoin goes: Bad Crypto news of the week - Cointelegraph",
-         "content" : "Its been a week. Whether the politics made it good or bad week depends on your view but if youre holding Bitcoin, it was certainly good. The price is up more than 8.5 percent over the last seven days… [+2620 chars]",
          "url" : "https://cointelegraph.com/news/amid-election-throes-bitcoin-goes-bad-crypto-news-of-the-week",
-         "author" : "Joel Comm"
-      },
-      {
-         "url" : "https://abc3340.com/news/nation-world/books-hairdressers-europeans-split-on-lockdown-essentials",
-         "author" : "RAF CASERT, Associated Press",
-         "title" : "Books? Hairdressers? Europeans split on lockdown essentials - Alabama's News Leader",
-         "content" : null,
+         "content" : "Its been a week. Whether the politics made it good or bad week depends on your view but if youre holding Bitcoin, it was certainly good. The price is up more than 8.5 percent over the last seven days… [+2620 chars]",
+         "title" : "Amid election throes, Bitcoin goes: Bad Crypto news of the week - Cointelegraph",
+         "description" : "Check out this week’s Bad Crypto podcast",
+         "publishedAt" : "2020-11-07T21:44:09Z",
+         "author" : "Joel Comm",
          "source" : {
-            "name" : "Alabama's News Leader",
-            "id" : null
-         },
-         "urlToImage" : "https://static-34.sinclairstoryline.com/resources/media/0cdd68fe-e93d-4118-a6c6-dbc5f39fd9d7-large16x9_AP20311683241306.jpg?1604779782613",
-         "description" : "HALLE, Belgium (AP) &mdash; The concept of what is essential to keep a society functioning during coronavirus lockdowns is gripping Europe as the pandemic unleashes death, poverty, illness and isolation. Beyond obvious candidates like food stores and pharmaci…",
-         "publishedAt" : "2020-11-07T20:25:00Z"
-      },
-      {
-         "title" : "Deadly Airbags Force Volvo to Recall Older S60 and S80, One Fatality Confirmed - autoevolution",
-         "content" : "The Part 573 Safety Recall Report published on the National Highway Traffic Safety Administration puts the affected population at precisely 54,124 vehicles built between the 2001 and 2003 model years… [+1524 chars]",
-         "url" : "https://www.autoevolution.com/news/deadly-airbags-force-volvo-to-recall-older-s60-and-s80-one-fatality-confirmed-151199.html",
-         "author" : "Mircea Panait",
-         "publishedAt" : "2020-11-07T20:22:00Z",
-         "description" : "Remember the Takata airbag recall, namely the reason those inflators had to be replaced by the millions? As it happens, safety systems supplier ZF-TRW has a similar problem with a batch of airbags that equip 54,000 older Volvo sedans.",
-         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/deadly-airbags-force-volvo-to-recall-older-s60-and-s80-one-fatality-confirmed-151199-7.jpg",
-         "source" : {
-            "name" : "autoevolution",
+            "name" : "Cointelegraph",
             "id" : null
          }
       },
       {
+         "url" : "https://abc3340.com/news/nation-world/books-hairdressers-europeans-split-on-lockdown-essentials",
+         "urlToImage" : "https://static-34.sinclairstoryline.com/resources/media/0cdd68fe-e93d-4118-a6c6-dbc5f39fd9d7-large16x9_AP20311683241306.jpg?1604779782613",
+         "title" : "Books? Hairdressers? Europeans split on lockdown essentials - Alabama's News Leader",
+         "content" : null,
+         "publishedAt" : "2020-11-07T20:25:00Z",
+         "description" : "HALLE, Belgium (AP) &mdash; The concept of what is essential to keep a society functioning during coronavirus lockdowns is gripping Europe as the pandemic unleashes death, poverty, illness and isolation. Beyond obvious candidates like food stores and pharmaci…",
+         "source" : {
+            "name" : "Alabama's News Leader",
+            "id" : null
+         },
+         "author" : "RAF CASERT, Associated Press"
+      },
+      {
+         "url" : "https://www.autoevolution.com/news/deadly-airbags-force-volvo-to-recall-older-s60-and-s80-one-fatality-confirmed-151199.html",
+         "urlToImage" : "https://s1.cdn.autoevolution.com/images/news/deadly-airbags-force-volvo-to-recall-older-s60-and-s80-one-fatality-confirmed-151199-7.jpg",
+         "title" : "Deadly Airbags Force Volvo to Recall Older S60 and S80, One Fatality Confirmed - autoevolution",
+         "content" : "The Part 573 Safety Recall Report published on the National Highway Traffic Safety Administration puts the affected population at precisely 54,124 vehicles built between the 2001 and 2003 model years… [+1524 chars]",
+         "publishedAt" : "2020-11-07T20:22:00Z",
+         "description" : "Remember the Takata airbag recall, namely the reason those inflators had to be replaced by the millions? As it happens, safety systems supplier ZF-TRW has a similar problem with a batch of airbags that equip 54,000 older Volvo sedans.",
+         "source" : {
+            "name" : "autoevolution",
+            "id" : null
+         },
+         "author" : "Mircea Panait"
+      },
+      {
          "description" : "The Tesla brand has shown its strength this week with its new Tesla Tequilla selling out even before Elon Musk could tweet about it. Now the bottles are already getting listed for 4 times the original price. As we reported earlier this week, Tesla launched it…",
          "publishedAt" : "2020-11-07T19:23:00Z",
+         "author" : null,
          "source" : {
             "name" : "Electrek",
             "id" : null
          },
          "urlToImage" : "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-Tequila-hero-2-1.jpg?quality=82&strip=all",
-         "title" : "Tesla Tequilla shows brand strength, selling out before Elon Musk could even tweet about it - Electrek.co",
-         "content" : "The Tesla brand has shown its strength this week with its new Tesla Tequilla selling out even before Elon Musk could tweet about it.\r\nNow the bottles are already getting listed for 4 times the origin… [+1921 chars]",
          "url" : "https://electrek.co/2020/11/07/tesla-tequilla-brand-strenght-selling-out-before-elon-musk-could-tweet/",
-         "author" : null
+         "content" : "The Tesla brand has shown its strength this week with its new Tesla Tequilla selling out even before Elon Musk could tweet about it.\r\nNow the bottles are already getting listed for 4 times the origin… [+1921 chars]",
+         "title" : "Tesla Tequilla shows brand strength, selling out before Elon Musk could even tweet about it - Electrek.co"
       },
       {
          "urlToImage" : "https://pagesix.com/wp-content/uploads/sites/3/2020/02/jeff-bezos-lauren-sanchez-michael-sanchez.jpg?quality=90&strip=all&w=1200",
+         "url" : "https://pagesix.com/2020/11/07/jeff-bezos-gets-defamation-suit-by-girlfriends-brother-tossed/",
+         "content" : "Jeff Bezos has something else to be thankful for this Thanksgiving, besides his billions.\r\nThe Amazon overlord won’t be facing a defamation lawsuit filed against him by Michael Sanchez, brother of gi… [+1258 chars]",
+         "title" : "Jeff Bezos gets defamation suit by girlfriend Lauren Sanchez’s brother tossed - Page Six",
+         "description" : "Jeff Bezos has something else to be thankful for this Thanksgiving, besides his billions.",
+         "publishedAt" : "2020-11-07T18:42:00Z",
+         "author" : "Paula Froelich",
          "source" : {
             "name" : "Page Six",
             "id" : null
-         },
-         "publishedAt" : "2020-11-07T18:42:00Z",
-         "description" : "Jeff Bezos has something else to be thankful for this Thanksgiving, besides his billions.",
-         "author" : "Paula Froelich",
-         "url" : "https://pagesix.com/2020/11/07/jeff-bezos-gets-defamation-suit-by-girlfriends-brother-tossed/",
-         "title" : "Jeff Bezos gets defamation suit by girlfriend Lauren Sanchez’s brother tossed - Page Six",
-         "content" : "Jeff Bezos has something else to be thankful for this Thanksgiving, besides his billions.\r\nThe Amazon overlord won’t be facing a defamation lawsuit filed against him by Michael Sanchez, brother of gi… [+1258 chars]"
+         }
       },
       {
-         "description" : "Cash App, a mobile payment service of Square Inc., generated more than $1.63 billion in bitcoin revenue in Q3 2020, which is an increase of more than 1,000% over the same period last year. The company recently invested 1% of its total assets, or $50 million, …",
-         "publishedAt" : "2020-11-07T18:39:34Z",
-         "source" : {
-            "id" : null,
-            "name" : "Bitcoin.com"
-         },
+         "url" : "https://news.bitcoin.com/cash-app-bitcoin-revenue-billion-square/",
          "urlToImage" : "https://news.bitcoin.com/wp-content/uploads/2019/04/square-bitcoin-q3.jpg",
          "title" : "Cash App's Bitcoin Revenue Soars 1,000% to $1.63 Billion in Q3, Square Announces | News - Bitcoin News",
          "content" : "Cash App, a mobile payment service of Square Inc., generated more than $1.63 billion in bitcoin revenue in Q3 2020, which is an increase of more than 1,000% over the same period last year. The compan… [+3067 chars]",
-         "url" : "https://news.bitcoin.com/cash-app-bitcoin-revenue-billion-square/",
+         "publishedAt" : "2020-11-07T18:39:34Z",
+         "description" : "Cash App, a mobile payment service of Square Inc., generated more than $1.63 billion in bitcoin revenue in Q3 2020, which is an increase of more than 1,000% over the same period last year. The company recently invested 1% of its total assets, or $50 million, …",
+         "source" : {
+            "name" : "Bitcoin.com",
+            "id" : null
+         },
          "author" : null
       },
       {
-         "publishedAt" : "2020-11-07T18:01:15Z",
-         "description" : "It was initially hoped that the highly-anticipated Boeing 777X was would join fleets as early as next year.…",
-         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/11/5C4F5F2E-338C-47EA-A9F0-C3C8070BFE40-scaled.jpeg",
          "source" : {
             "name" : "Simple Flying",
             "id" : null
          },
-         "content" : "It was initially hoped that the highly-anticipated Boeing 777X was would join fleets as early as next year. However, the twinjet’s manufacturer now expects the first delivery to take place in 2022. W… [+6330 chars]",
+         "author" : "",
+         "publishedAt" : "2020-11-07T18:01:15Z",
+         "description" : "It was initially hoped that the highly-anticipated Boeing 777X was would join fleets as early as next year.…",
          "title" : "The Two Engine Jumbo Jet: What’s The Latest With The Boeing 777X? - Simple Flying",
+         "content" : "It was initially hoped that the highly-anticipated Boeing 777X was would join fleets as early as next year. However, the twinjet’s manufacturer now expects the first delivery to take place in 2022. W… [+6330 chars]",
          "url" : "https://simpleflying.com/the-two-engine-jumbo-jet-whats-the-latest-with-the-boeing-777x/",
-         "author" : ""
+         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2020/11/5C4F5F2E-338C-47EA-A9F0-C3C8070BFE40-scaled.jpeg"
       },
       {
-         "url" : "https://decrypt.co/47550/bitcoins-price-reacts-to-biden-presidential-win",
-         "author" : "Robert Stevens",
-         "title" : "Bitcoin's Price Reacts to Biden Presidential Win - Decrypt",
-         "content" : "Bye bye, Trump! Fake news media Decrypt was one of several media outlets to call the win for Democratic candidate Joe Biden today after he cinched the vote in Pennsylvania.\r\nTrump argues that he won … [+1024 chars]",
-         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/11/america-voted-gID_5.jpg",
-         "source" : {
-            "name" : "Decrypt",
-            "id" : null
-         },
          "publishedAt" : "2020-11-07T17:35:00Z",
-         "description" : "Traders are split over whether Biden's win is good or bad for Bitcoin."
-      },
-      {
+         "description" : "Traders are split over whether Biden's win is good or bad for Bitcoin.",
          "source" : {
             "id" : null,
-            "name" : "Investor's Business Daily"
+            "name" : "Decrypt"
          },
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/11/BIZ91_buffett_110620_news.jpg",
+         "author" : "Robert Stevens",
+         "url" : "https://decrypt.co/47550/bitcoins-price-reacts-to-biden-presidential-win",
+         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/11/america-voted-gID_5.jpg",
+         "title" : "Bitcoin's Price Reacts to Biden Presidential Win - Decrypt",
+         "content" : "Bye bye, Trump! Fake news media Decrypt was one of several media outlets to call the win for Democratic candidate Joe Biden today after he cinched the vote in Pennsylvania.\r\nTrump argues that he won … [+1024 chars]"
+      },
+      {
+         "author" : "Investor's Business Daily",
+         "source" : {
+            "name" : "Investor's Business Daily",
+            "id" : null
+         },
          "description" : "Warren Buffett jumped back into the stock market again in Q3, after net selling in Q2, and spent a record amount buying back Berkshire Hathaway stock.",
          "publishedAt" : "2020-11-07T17:12:00Z",
-         "url" : "https://www.investors.com/news/warren-buffett-doubles-down-major-reversal-investing-strategy-berkshire-hathaway-earnings-q3-2020/",
-         "author" : "Investor's Business Daily",
+         "content" : "Warren Buffett jumped back into the stock market again in Q3, after net selling in Q2, and spent a record amount buying back Berkshire Hathaway (BRKB) shares.\r\nXIn quarterly results released Saturday… [+3658 chars]",
          "title" : "Warren Buffett Doubles Down On Major Reversal In Investing - Investor's Business Daily",
-         "content" : "Warren Buffett jumped back into the stock market again in Q3, after net selling in Q2, and spent a record amount buying back Berkshire Hathaway (BRKB) shares.\r\nXIn quarterly results released Saturday… [+3658 chars]"
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/11/BIZ91_buffett_110620_news.jpg",
+         "url" : "https://www.investors.com/news/warren-buffett-doubles-down-major-reversal-investing-strategy-berkshire-hathaway-earnings-q3-2020/"
       },
       {
+         "description" : "Albany County Executive Daniel P. McCoy held a press briefing on what he calls the alarming increase in numbers of positive COVID-19 cases.  McCoy was joined by Albany Mayor Kathy Sheehan at the Albany Colonie Hockey Facility adjacent to Albany International …",
+         "publishedAt" : "2020-11-07T17:04:00Z",
          "author" : "WRGB Staff",
-         "url" : "https://cbs6albany.com/news/local/albany-leaders-discuss-covid-19-on-the-rise",
-         "title" : "Albany leaders discuss COVID-19 on the rise - WRGB",
-         "content" : null,
          "source" : {
-            "id" : null,
-            "name" : "WRGB"
+            "name" : "WRGB",
+            "id" : null
          },
          "urlToImage" : "https://static-13.sinclairstoryline.com/resources/media/ba5fc650-2fb3-49a8-accb-0163353b0ced-large16x9_109043065_300312024488238_6088803377241106778_n.jpg?1604761902870",
-         "description" : "Albany County Executive Daniel P. McCoy held a press briefing on what he calls the alarming increase in numbers of positive COVID-19 cases.  McCoy was joined by Albany Mayor Kathy Sheehan at the Albany Colonie Hockey Facility adjacent to Albany International …",
-         "publishedAt" : "2020-11-07T17:04:00Z"
+         "url" : "https://cbs6albany.com/news/local/albany-leaders-discuss-covid-19-on-the-rise",
+         "content" : null,
+         "title" : "Albany leaders discuss COVID-19 on the rise - WRGB"
       },
       {
-         "content" : "BOSTON —The Food and Drug Administration is putting out a recall alert for romaine lettuce in 19 states, including Massachusetts.\r\nThe FDA reports that California produce company Tanimura &amp; Antle… [+726 chars]",
-         "title" : "Massachusetts among states included in latest romaine lettuce recall - WCVB Boston",
-         "url" : "https://www.wcvb.com/article/massachusetts-among-states-included-in-latest-romaine-lettuce-recall-fda-says/34607293",
          "author" : null,
+         "source" : {
+            "id" : null,
+            "name" : "WCVB Boston"
+         },
          "description" : "According to the FDA, nearly 4,000 cartons of single-packaged heads of lettuce may be contaminated with E. coli.",
          "publishedAt" : "2020-11-07T17:03:00Z",
-         "source" : {
-            "name" : "WCVB Boston",
-            "id" : null
-         },
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wcvb/26423568-26423568.jpg?crop=1xw:0.84269662921348309xh;center,top&resize=1200:*"
+         "content" : "BOSTON —The Food and Drug Administration is putting out a recall alert for romaine lettuce in 19 states, including Massachusetts.\r\nThe FDA reports that California produce company Tanimura &amp; Antle… [+726 chars]",
+         "title" : "Massachusetts among states included in latest romaine lettuce recall - WCVB Boston",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wcvb/26423568-26423568.jpg?crop=1xw:0.84269662921348309xh;center,top&resize=1200:*",
+         "url" : "https://www.wcvb.com/article/massachusetts-among-states-included-in-latest-romaine-lettuce-recall-fda-says/34607293"
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/597883/older-woman-holding-cash.jpg",
-         "source" : {
-            "name" : "Motley Fool",
-            "id" : null
-         },
-         "publishedAt" : "2020-11-07T17:01:00Z",
-         "description" : "Here's how to work the Social Security rules to your advantage.",
-         "url" : "https://www.fool.com/retirement/social-security/2020/11/07/2-ways-to-increase-your-social-security-income-by/",
          "author" : "Catherine Brock",
-         "content" : "Maximizing your Social Security benefit from the get-go is a smart move to protect the longevity of your savings. After all, the more you collect from the feds, the less you have to pull from your re… [+4786 chars]",
-         "title" : "2 Ways to Increase Your Social Security Income by $814+ Monthly - Motley Fool"
-      },
-      {
-         "publishedAt" : "2020-11-07T16:13:00Z",
-         "description" : "These companies are great ways to play the explosive growth in solar energy.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/598196/rows-of-solar-panels.jpg",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "content" : "Investments in solar energy are accelerating. The sector is on track to add 10 gigawatts (GW) of new capacity per year through 2022, with that growing to an average annual pace of 18 to 20 GW from 20… [+3702 chars]",
-         "title" : "Got $3,000? Here Are 3 Solar Stocks to Buy and Hold for the Long Term - Motley Fool",
-         "url" : "https://www.fool.com/investing/2020/11/07/got-3000-here-are-3-solar-stocks-to-buy-and-hold-f/",
-         "author" : "Matthew DiLallo"
+         "description" : "Here's how to work the Social Security rules to your advantage.",
+         "publishedAt" : "2020-11-07T17:01:00Z",
+         "content" : "Maximizing your Social Security benefit from the get-go is a smart move to protect the longevity of your savings. After all, the more you collect from the feds, the less you have to pull from your re… [+4786 chars]",
+         "title" : "2 Ways to Increase Your Social Security Income by $814+ Monthly - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/597883/older-woman-holding-cash.jpg",
+         "url" : "https://www.fool.com/retirement/social-security/2020/11/07/2-ways-to-increase-your-social-security-income-by/"
       },
       {
+         "author" : "Matthew DiLallo",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
+            "name" : "Motley Fool",
+            "id" : null
          },
-         "urlToImage" : "https://images.wsj.net/im-256735/social",
+         "description" : "These companies are great ways to play the explosive growth in solar energy.",
+         "publishedAt" : "2020-11-07T16:13:00Z",
+         "content" : "Investments in solar energy are accelerating. The sector is on track to add 10 gigawatts (GW) of new capacity per year through 2022, with that growing to an average annual pace of 18 to 20 GW from 20… [+3702 chars]",
+         "title" : "Got $3,000? Here Are 3 Solar Stocks to Buy and Hold for the Long Term - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/598196/rows-of-solar-panels.jpg",
+         "url" : "https://www.fool.com/investing/2020/11/07/got-3000-here-are-3-solar-stocks-to-buy-and-hold-f/"
+      },
+      {
          "description" : "Dismissal comes after weeks of the Turkish lira selling off",
          "publishedAt" : "2020-11-07T14:38:00Z",
          "author" : "David Gauthier-Villars",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "urlToImage" : "https://images.wsj.net/im-256735/social",
          "url" : "https://www.wsj.com/articles/turkeys-president-erdogan-ousts-central-bank-governor-11604741520",
-         "title" : "Turkey’s President Erdogan Ousts Central Bank Governor - The Wall Street Journal",
-         "content" : "ISTANBULTurkeys President Recep Tayyip Erdogan dismissed the central bank governor as the country is beset by its second currency crisis in two years.\r\nIn a decree published in the early hours of Sat… [+171 chars]"
+         "content" : "ISTANBULTurkeys President Recep Tayyip Erdogan dismissed the central bank governor as the country is beset by its second currency crisis in two years.\r\nIn a decree published in the early hours of Sat… [+171 chars]",
+         "title" : "Turkey’s President Erdogan Ousts Central Bank Governor - The Wall Street Journal"
       },
       {
-         "url" : "https://www.androidcentral.com/hisense-75-inch-4k-android-tv-now-400-early-black-friday-deal",
-         "author" : "Alex Smith",
-         "title" : "This Hisense 75-inch 4K Android TV is now $400 off as an early Black Friday deal - Android Central",
-         "content" : "Cutting the cord is easier than ever these days especially with smart Android TVs now available that let you access all the latest streaming apps without the help of any additional devices. Connect a… [+2712 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Android Central"
-         },
          "urlToImage" : "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2020/11/hisense-4k-android-tv-h6510g-series-hero.jpg",
+         "url" : "https://www.androidcentral.com/hisense-75-inch-4k-android-tv-now-400-early-black-friday-deal",
+         "content" : "Cutting the cord is easier than ever these days especially with smart Android TVs now available that let you access all the latest streaming apps without the help of any additional devices. Connect a… [+2712 chars]",
+         "title" : "This Hisense 75-inch 4K Android TV is now $400 off as an early Black Friday deal - Android Central",
          "description" : "Today only, Best Buy is offering the Hisense H6510G Series 4K Android TV on sale at a $400 discount. This early Black Friday deal brings this model down to one of its best prices yet.",
-         "publishedAt" : "2020-11-07T14:23:47Z"
+         "publishedAt" : "2020-11-07T14:23:47Z",
+         "author" : "Alex Smith",
+         "source" : {
+            "name" : "Android Central",
+            "id" : null
+         }
       },
       {
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/7732451_110720-ktrk-heb-kroger-supply-limits-ext-haldeman-vid.jpg?w=1600",
-         "source" : {
-            "id" : null,
-            "name" : "KTRK-TV"
-         },
          "publishedAt" : "2020-11-07T13:56:59Z",
          "description" : "Texas grocer H-E-B and the Kroger supermarket chain are limiting purchases again in hopes of preventing a resurgence of hoarding.",
-         "url" : "https://abc13.com/heb-coronavirus-hours-limits-restrictions/7733779/",
+         "source" : {
+            "name" : "KTRK-TV",
+            "id" : null
+         },
          "author" : null,
-         "content" : "Two grocery store chains with a large presence in the Houston area are placing limits on some purchases again.Kroger and H-E-B have placed restrictions on items like toilet paper, paper towels, disin… [+477 chars]",
-         "title" : "Coronavirus Texas: New purchasing limits return to H-E-B, Kroger grocery stores - KTRK-TV"
+         "url" : "https://abc13.com/heb-coronavirus-hours-limits-restrictions/7733779/",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/7732451_110720-ktrk-heb-kroger-supply-limits-ext-haldeman-vid.jpg?w=1600",
+         "title" : "Coronavirus Texas: New purchasing limits return to H-E-B, Kroger grocery stores - KTRK-TV",
+         "content" : "Two grocery store chains with a large presence in the Houston area are placing limits on some purchases again.Kroger and H-E-B have placed restrictions on items like toilet paper, paper towels, disin… [+477 chars]"
       },
       {
-         "urlToImage" : "https://i-invdn-com.akamaized.net/news/WeeklyComic_800x533_L_1604757037.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "Investing.com"
-         },
          "publishedAt" : "2020-11-07T13:53:00Z",
          "description" : "Comic: Election Results, Covid-19 Surge To Drive Sentiment In The Week Ahead",
-         "url" : "https://www.investing.com/news/economy/comic-election-results-covid19-surge-to-drive-sentiment-in-the-week-ahead-2342952",
+         "source" : {
+            "name" : "Investing.com",
+            "id" : null
+         },
          "author" : "Investing.com",
+         "url" : "https://www.investing.com/news/economy/comic-election-results-covid19-surge-to-drive-sentiment-in-the-week-ahead-2342952",
+         "urlToImage" : "https://i-invdn-com.akamaized.net/news/WeeklyComic_800x533_L_1604757037.jpg",
          "title" : "Comic: Election Results, Covid-19 Surge To Drive Sentiment In The Week Ahead - Investing.com",
          "content" : "By Jesse Cohen\r\nInvesting.com - Stocks on Wall Street ended mostly flat on Friday, but still scored their best weekly performance in seven months as traders looked for further clarity around the pres… [+1890 chars]"
       },
       {
-         "publishedAt" : "2020-11-07T13:48:00Z",
-         "description" : "Everyone but... Maine. 🧐",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/Sh5pznffNZc22Af_GZOKsg--~B/aD02NjY7dz0xMzI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/good_housekeeping_561/e61040645fc4432c17e5b55975ee34da",
+         "author" : "Kristin Salaky",
          "source" : {
-            "name" : "GoodHousekeeping.com",
-            "id" : null
+            "id" : null,
+            "name" : "GoodHousekeeping.com"
          },
+         "description" : "Everyone but... Maine. 🧐",
+         "publishedAt" : "2020-11-07T13:48:00Z",
          "content" : "From Good Housekeeping\r\nThe turkey is the most iconic part of Thanksgiving dinner, and not to take away its shine or anything, but it's definitely not the best part of the meal. My friends, as we all… [+1360 chars]",
          "title" : "This Map Shows Americans' Favorite Thanksgiving Side By State and It Turns Out People Love Carbs - Yahoo Lifestyle",
-         "url" : "https://www.goodhousekeeping.com/life/a34606751/thanksgiving-favorite-side-dishes/",
-         "author" : "Kristin Salaky"
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/Sh5pznffNZc22Af_GZOKsg--~B/aD02NjY7dz0xMzI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/good_housekeeping_561/e61040645fc4432c17e5b55975ee34da",
+         "url" : "https://www.goodhousekeeping.com/life/a34606751/thanksgiving-favorite-side-dishes/"
       },
       {
-         "url" : "https://www.foxbusiness.com/markets/berkshire-operating-results-fall-even-as-apple-boosts-profit",
-         "author" : "Reuters",
-         "title" : "Buffett's Berkshire hurt by pandemic even as Apple boosts profit - Fox Business",
-         "content" : "Warren Buffett’s Berkshire Hathaway Inc on Saturday posted a lower operating profit as the coronavirus pandemic weighed on some of its businesses, though gains in stocks such as Apple Inc fueled a bi… [+2594 chars]",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/02/0/0/Warren-Buffet-AP-2.jpg?ve=1&tl=1",
+         "author" : "Reuters",
+         "publishedAt" : "2020-11-07T13:34:04Z",
          "description" : "Berkshire Hathaway Inc on Saturday posted a lower operating profit as the coronavirus pandemic was expected to weigh on some of its businesses, though gains in stocks such as Apple Inc fueled a big quarterly net profit.",
-         "publishedAt" : "2020-11-07T13:34:04Z"
+         "title" : "Buffett's Berkshire hurt by pandemic even as Apple boosts profit - Fox Business",
+         "content" : "Warren Buffett’s Berkshire Hathaway Inc on Saturday posted a lower operating profit as the coronavirus pandemic weighed on some of its businesses, though gains in stocks such as Apple Inc fueled a bi… [+2594 chars]",
+         "url" : "https://www.foxbusiness.com/markets/berkshire-operating-results-fall-even-as-apple-boosts-profit",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/02/0/0/Warren-Buffet-AP-2.jpg?ve=1&tl=1"
       }
    ],
-   "totalResults" : 70,
-   "status" : "ok"
+   "totalResults" : 70
 }
