@@ -2,55 +2,55 @@
    "status" : "ok",
    "articles" : [
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201118113502-norwegian-airlines-file-restricted-super-tease.jpg",
-         "title" : "Norwegian Air has filed for bankruptcy - CNN",
-         "content" : null,
          "description" : "Norwegian Air is seeking protection from its creditors as it attempts to restructure its business and survive the coronavirus pandemic.",
+         "url" : "https://www.cnn.com/2020/11/18/business/norwegian-air-bankruptcy-protection/index.html",
+         "publishedAt" : "2020-11-18T17:47:00Z",
+         "author" : "Hanna Ziady, CNN Business",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "publishedAt" : "2020-11-18T17:47:00Z",
-         "url" : "https://www.cnn.com/2020/11/18/business/norwegian-air-bankruptcy-protection/index.html",
-         "author" : "Hanna Ziady, CNN Business"
+         "content" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201118113502-norwegian-airlines-file-restricted-super-tease.jpg",
+         "title" : "Norwegian Air has filed for bankruptcy - CNN"
       },
       {
-         "title" : "Google moves into Venmo, banks' territory with checking accounts and updated payment app - CNBC",
-         "content" : "Google is moving deeper into consumer finance.\r\nThe tech giant will let users open bank accounts, pay friends and manage budgets through a new version of its Google Pay app rolling out Wednesday. \r\nT… [+3609 chars]",
          "description" : "Google will let you open a bank account, or pay friends through the new version of its app rolling out Wednesday.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106798966-1605722382277-GettyImages-1184040121.jpg?v=1605722401",
+         "publishedAt" : "2020-11-18T17:45:00Z",
          "author" : "Kate Rooney",
+         "url" : "https://www.cnbc.com/2020/11/18/google-moves-into-venmo-and-banking-turf-with-checking-account-app.html",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "publishedAt" : "2020-11-18T17:45:00Z",
-         "url" : "https://www.cnbc.com/2020/11/18/google-moves-into-venmo-and-banking-turf-with-checking-account-app.html"
+         "content" : "Google is moving deeper into consumer finance.\r\nThe tech giant will let users open bank accounts, pay friends and manage budgets through a new version of its Google Pay app rolling out Wednesday. \r\nT… [+3609 chars]",
+         "title" : "Google moves into Venmo, banks' territory with checking accounts and updated payment app - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106798966-1605722382277-GettyImages-1184040121.jpg?v=1605722401"
       },
       {
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "url" : "https://www.foxnews.com/health/live-updates-pfizer-coronavirus-vaccine-11-18-2020",
-         "publishedAt" : "2020-11-18T17:44:44Z",
-         "author" : "Alexandria Hein",
-         "urlToImage" : "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b501fc7b-6cad-4f24-a229-647429be09e1/4ee2b4b5-dd44-4171-a090-99566a8b3fcb/1280x720/match/image.jpg",
-         "content" : "In a series of tweets on Wednesday, Pfizer said it’s coronavirus vaccine candidate, which is being developed in conjunction with BioNTech, was found to be safe and 95% effective in elderly study part… [+668 chars]",
          "description" : "Pfizer and BioNTech said its vaccine was found to be safe and 95% effective in phase 3 clinical trial, clearing the way for the companies to file for emergency use authorization with the FDA.",
+         "url" : "https://www.foxnews.com/health/live-updates-pfizer-coronavirus-vaccine-11-18-2020",
+         "author" : "Alexandria Hein",
+         "publishedAt" : "2020-11-18T17:44:44Z",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "content" : "In a series of tweets on Wednesday, Pfizer said it’s coronavirus vaccine candidate, which is being developed in conjunction with BioNTech, was found to be safe and 95% effective in elderly study part… [+668 chars]",
+         "urlToImage" : "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b501fc7b-6cad-4f24-a229-647429be09e1/4ee2b4b5-dd44-4171-a090-99566a8b3fcb/1280x720/match/image.jpg",
          "title" : "Live Updates: Pfizer coronavirus vaccine 95% effective, company says - Fox News"
       },
       {
+         "description" : "SUMATRA, Indonesia (AP) — With his hand clamped tightly over her mouth, she could not scream, the 16-year-old girl recalls – and no one was around to hear her anyway. She describes how her boss...",
          "author" : "Margie Mason",
-         "source" : {
-            "id" : "associated-press",
-            "name" : "Associated Press"
-         },
          "publishedAt" : "2020-11-18T17:34:21Z",
          "url" : "https://apnews.com/article/palm-oil-abuse-investigation-cosmetics-2a209d60c42bf0e8fcc6f8ea6daa11c7",
-         "title" : "Rape, abuses in palm oil fields linked to top beauty brands - Associated Press",
+         "source" : {
+            "name" : "Associated Press",
+            "id" : "associated-press"
+         },
          "content" : "SUMATRA, Indonesia (AP) With his hand clamped tightly over her mouth, she could not scream, the 16-year-old girl recalls and no one was around to hear her anyway. She describes how her boss raped her… [+24004 chars]",
-         "description" : "SUMATRA, Indonesia (AP) — With his hand clamped tightly over her mouth, she could not scream, the 16-year-old girl recalls – and no one was around to hear her anyway. She describes how her boss...",
+         "title" : "Rape, abuses in palm oil fields linked to top beauty brands - Associated Press",
          "urlToImage" : "https://storage.googleapis.com/afs-prod/media/684538978a99494c9d7a6cfeafe4b129/3000.jpeg"
       },
       {
@@ -58,208 +58,208 @@
             "id" : null,
             "name" : "New York Post"
          },
-         "url" : "https://nypost.com/2020/11/18/mtas-proposed-doomsday-service-cuts-could-start-in-may-2021/",
-         "publishedAt" : "2020-11-18T17:32:00Z",
          "author" : "David Meyer",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/11/201118-mta-cuts.jpg?quality=90&strip=all&w=1200",
-         "content" : "The MTA’s proposed doomsday cuts won’t go into effect until next May if enacted and would still leave the agency billions in the red, transit officials said Wednesday.\r\nThe drastic proposals to cut s… [+1547 chars]",
+         "publishedAt" : "2020-11-18T17:32:00Z",
+         "url" : "https://nypost.com/2020/11/18/mtas-proposed-doomsday-service-cuts-could-start-in-may-2021/",
          "description" : "The MTA’s proposed doomsday cuts won’t go into effect until next May if enacted — and would still leave the agency billions in the red, transit officials said Wednesday. The drastic pro…",
-         "title" : "MTA's proposed 40 percent doomsday service cuts could start in May 2021 - New York Post "
+         "title" : "MTA's proposed 40 percent doomsday service cuts could start in May 2021 - New York Post ",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/11/201118-mta-cuts.jpg?quality=90&strip=all&w=1200",
+         "content" : "The MTA’s proposed doomsday cuts won’t go into effect until next May if enacted and would still leave the agency billions in the red, transit officials said Wednesday.\r\nThe drastic proposals to cut s… [+1547 chars]"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103770773-Gulfstream_G650_outside.jpg?v=1529472063",
-         "description" : "Elon Musk's SpaceX would like to further expanded testing of its Starlink satellite internet by connecting the network to aircraft.",
-         "content" : "A Gulfstream G650 in flight\r\nSpaceX would like to further expand testing of its Starlink satellite internet by connecting the network to aircraft, the company revealed in a recent request to the Fede… [+1546 chars]",
          "title" : "SpaceX wants to test its Starlink satellite internet network inflight with a Gulfstream jet - CNBC",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103770773-Gulfstream_G650_outside.jpg?v=1529472063",
+         "content" : "A Gulfstream G650 in flight\r\nSpaceX would like to further expand testing of its Starlink satellite internet by connecting the network to aircraft, the company revealed in a recent request to the Fede… [+1546 chars]",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "author" : "Michael Sheetz",
          "publishedAt" : "2020-11-18T17:23:00Z",
          "url" : "https://www.cnbc.com/2020/11/18/spacex-asks-to-test-starlink-satellite-internet-with-a-gulfstream-jet.html",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "author" : "Michael Sheetz"
+         "description" : "Elon Musk's SpaceX would like to further expanded testing of its Starlink satellite internet by connecting the network to aircraft."
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/601436/why-is-tesla-stock-up.png",
          "content" : "What happened\r\nShares of Tesla(NASDAQ:TSLA) are rising sharply again, following an 8% gain on Tuesday. The electric-car maker's stock is up following Morgan Stanley analyst Adam Jonas' decision to in… [+1442 chars]",
-         "description" : "It's time to start pricing in the potential for Tesla's high-margin software sales, one analyst believes.",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/601436/why-is-tesla-stock-up.png",
          "title" : "Why Tesla Stock Is Rising Sharply Again - Motley Fool",
+         "description" : "It's time to start pricing in the potential for Tesla's high-margin software sales, one analyst believes.",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "publishedAt" : "2020-11-18T17:14:00Z",
          "url" : "https://www.fool.com/investing/2020/11/18/why-tesla-stock-is-rising-sharply-again/",
-         "author" : "Daniel Sparks"
+         "author" : "Daniel Sparks",
+         "publishedAt" : "2020-11-18T17:14:00Z"
       },
       {
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2014/01/bitcoin-cash-640x215.jpg",
-         "description" : "Until this week, bitcoin was above $18,000 for only four days in December  2017.",
-         "content" : "54 with 42 posters participating\r\nBitcoin rose above $18,000 on Tuesday evening, reaching its highest value since December 2017. Indeed, prior to this week bitcoin has only been worth more than $18,0… [+1798 chars]",
-         "title" : "Bitcoin price soars above $18,000, the highest level since 2017 - Ars Technica",
-         "url" : "https://arstechnica.com/tech-policy/2020/11/bitcoin-price-soars-above-18000-the-highest-level-since-2017/",
-         "publishedAt" : "2020-11-18T17:12:00Z",
          "source" : {
-            "name" : "Ars Technica",
-            "id" : "ars-technica"
+            "id" : "ars-technica",
+            "name" : "Ars Technica"
          },
-         "author" : "Timothy B. Lee"
+         "publishedAt" : "2020-11-18T17:12:00Z",
+         "author" : "Timothy B. Lee",
+         "url" : "https://arstechnica.com/tech-policy/2020/11/bitcoin-price-soars-above-18000-the-highest-level-since-2017/",
+         "description" : "Until this week, bitcoin was above $18,000 for only four days in December  2017.",
+         "title" : "Bitcoin price soars above $18,000, the highest level since 2017 - Ars Technica",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2014/01/bitcoin-cash-640x215.jpg",
+         "content" : "54 with 42 posters participating\r\nBitcoin rose above $18,000 on Tuesday evening, reaching its highest value since December 2017. Indeed, prior to this week bitcoin has only been worth more than $18,0… [+1798 chars]"
       },
       {
+         "description" : "The Dow Jones Industrial Average rallied 125 points after coronavirus vaccine news. Tesla jumped above a buy point following an upgrade, Nio shares dived.",
+         "publishedAt" : "2020-11-18T17:07:00Z",
          "author" : "Investor's Business Daily",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-pfizer-coronavirus-vaccine-tesla-stock-upgrade-nio-earnings/",
          "source" : {
             "name" : "Investor's Business Daily",
             "id" : null
          },
-         "publishedAt" : "2020-11-18T17:07:00Z",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-stock-market-rally-pfizer-coronavirus-vaccine-tesla-stock-upgrade-nio-earnings/",
-         "title" : "Dow Jones Rallies On Pfizer Coronavirus Vaccine News; Tesla Surges Above New Buy Point - Investor's Business Daily",
          "content" : "The Dow Jones Industrial Average rallied 125 points after Pfizer provided updated coronavirus vaccine news early Wednesday. Boeing soared on 737 Max jet FAA approval. Tech giant Tesla surged above a … [+7491 chars]",
-         "description" : "The Dow Jones Industrial Average rallied 125 points after coronavirus vaccine news. Tesla jumped above a buy point following an upgrade, Nio shares dived.",
+         "title" : "Dow Jones Rallies On Pfizer Coronavirus Vaccine News; Tesla Surges Above New Buy Point - Investor's Business Daily",
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/06/Stock-coronavirus-18-adobe-1.jpg"
       },
       {
-         "publishedAt" : "2020-11-18T16:46:19Z",
-         "url" : "https://www.foxbusiness.com/lifestyle/fda-approves-first-covid-19-test-kit-for-home-use",
          "source" : {
-            "name" : "Fox Business",
-            "id" : null
+            "id" : null,
+            "name" : "Fox Business"
          },
+         "url" : "https://www.foxbusiness.com/lifestyle/fda-approves-first-covid-19-test-kit-for-home-use",
+         "publishedAt" : "2020-11-18T16:46:19Z",
          "author" : "Reuters",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20211606943791.jpg?ve=1&tl=1",
          "description" : "The U.S. Food and Drug Administration said on Tuesday it had approved the first COVID-19 self-testing kit for home use that provides results within 30 minutes.",
-         "content" : "(Reuters) - The U.S. Food and Drug Administration said on Tuesday it had approved the first COVID-19 self-testing kit for home use that provides results within 30 minutes.\r\nLISTERINE SAYS IT IS NOT C… [+1380 chars]",
-         "title" : "FDA approves first COVID-19 test kit for home use - Fox Business"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/AP20211606943791.jpg?ve=1&tl=1",
+         "title" : "FDA approves first COVID-19 test kit for home use - Fox Business",
+         "content" : "(Reuters) - The U.S. Food and Drug Administration said on Tuesday it had approved the first COVID-19 self-testing kit for home use that provides results within 30 minutes.\r\nLISTERINE SAYS IT IS NOT C… [+1380 chars]"
       },
       {
-         "publishedAt" : "2020-11-18T16:38:00Z",
-         "url" : "https://www.marketwatch.com/story/why-tesla-partner-panasonic-is-betting-big-on-the-european-electric-vehicle-market-11605717533",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
          "author" : "Jack Denton",
-         "urlToImage" : "https://images.mktw.net/im-261656/social",
-         "title" : "Why this Tesla partner is betting big on the European electric-vehicle market - MarketWatch",
+         "publishedAt" : "2020-11-18T16:38:00Z",
+         "url" : "https://www.marketwatch.com/story/why-tesla-partner-panasonic-is-betting-big-on-the-european-electric-vehicle-market-11605717533",
          "description" : "The Japanese electronics giant Panasonic is powering into Norway with two industry partners",
+         "title" : "Why this Tesla partner is betting big on the European electric-vehicle market - MarketWatch",
+         "urlToImage" : "https://images.mktw.net/im-261656/social",
          "content" : "Panasonic is the latest company making a big bet on the European electric-vehicle market, powering into the region with plans to establish a lithium-ion battery business in Norway with two industry p… [+3652 chars]"
       },
       {
-         "urlToImage" : "https://static01.nyt.com/images/2020/11/17/business/17victoriassecret-3/17victoriassecret-3-facebookJumbo-v2.jpg",
-         "description" : "An internal review started after Jeffrey Epstein’s ties to the company were revealed has not produced any public findings. Some employees question whether workplace issues have been properly addressed.",
-         "content" : "Mr. Wexner, 83, has sought to distance himself from Mr. Epstein, who died in prison last August in what was ruled a suicide. But L Brands has also faced intense scrutiny about its workplace environme… [+2076 chars]",
          "title" : "Second Epstein Investigation Begins at Victoria’s Secret, but What’s Changed? - The New York Times",
-         "publishedAt" : "2020-11-18T16:36:00Z",
-         "url" : "https://www.nytimes.com/2020/11/18/business/victorias-secret-internal-culture-les-wexner.html",
+         "urlToImage" : "https://static01.nyt.com/images/2020/11/17/business/17victoriassecret-3/17victoriassecret-3-facebookJumbo-v2.jpg",
+         "content" : "Mr. Wexner, 83, has sought to distance himself from Mr. Epstein, who died in prison last August in what was ruled a suicide. But L Brands has also faced intense scrutiny about its workplace environme… [+2076 chars]",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
-         "author" : "Sapna Maheshwari, Katherine Rosman, Jessica Silver-Greenberg, James B. Stewart"
+         "publishedAt" : "2020-11-18T16:36:00Z",
+         "author" : "Sapna Maheshwari, Katherine Rosman, Jessica Silver-Greenberg, James B. Stewart",
+         "url" : "https://www.nytimes.com/2020/11/18/business/victorias-secret-internal-culture-les-wexner.html",
+         "description" : "An internal review started after Jeffrey Epstein’s ties to the company were revealed has not produced any public findings. Some employees question whether workplace issues have been properly addressed."
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Credible-daily-mortgage-refi-rates-thumbnail-140396198.jpg?ve=1&tl=1",
-         "title" : "Today's mortgage refinance rates hold firm at 42-day low | November 18, 2020 - Fox Business",
-         "content" : "Based on data compiled by Credible Operations, Inc., NMLS Number 1681276, current mortgage refinance rates have held steady since yesterday. Mortgage and refinance rates have remained historically lo… [+4218 chars]",
          "description" : "Check out the mortgage refinancing rates for November 18, 2020, which are unchanged from yesterday.",
+         "url" : "https://www.foxbusiness.com/money/todays-mortgage-refinance-rates-november-18-2020",
+         "publishedAt" : "2020-11-18T16:23:17Z",
+         "author" : "Chris Jennings",
          "source" : {
             "id" : null,
             "name" : "Fox Business"
          },
-         "publishedAt" : "2020-11-18T16:23:17Z",
-         "url" : "https://www.foxbusiness.com/money/todays-mortgage-refinance-rates-november-18-2020",
-         "author" : "Chris Jennings"
+         "content" : "Based on data compiled by Credible Operations, Inc., NMLS Number 1681276, current mortgage refinance rates have held steady since yesterday. Mortgage and refinance rates have remained historically lo… [+4218 chars]",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/Credible-daily-mortgage-refi-rates-thumbnail-140396198.jpg?ve=1&tl=1",
+         "title" : "Today's mortgage refinance rates hold firm at 42-day low | November 18, 2020 - Fox Business"
       },
       {
-         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTY4NjUxMTUyNzA2NDQ3MjU1/jim-cramer-lowes-results-should-be-good.jpg",
-         "description" : "Lowe's said it sees holiday quarter profits in the region of $1.10 to $1.20 per share, a muted outlook that followed a narrow third quarter earnings miss.",
-         "content" : "Lowe's Companies Inc.  (LOW) - Get Report posted modestly softer-than-expected third quarter earnings Wednesday, but a muted holiday season outlook sent shares sharply lower in early trading.\r\nLowe's… [+2184 chars]",
          "title" : "Lowe's Shares Tumble On Narrow Q3 Earnings Miss, 2020 Outlook - TheStreet",
-         "publishedAt" : "2020-11-18T16:12:00Z",
-         "url" : "https://www.thestreet.com/investing/lowes-shares-fall-on-narrow-q3-earnings-miss-2020-outlook",
+         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTY4NjUxMTUyNzA2NDQ3MjU1/jim-cramer-lowes-results-should-be-good.jpg",
+         "content" : "Lowe's Companies Inc.  (LOW) - Get Report posted modestly softer-than-expected third quarter earnings Wednesday, but a muted holiday season outlook sent shares sharply lower in early trading.\r\nLowe's… [+2184 chars]",
          "source" : {
-            "id" : null,
-            "name" : "TheStreet"
-         },
-         "author" : "Martin Baccardax"
-      },
-      {
-         "content" : null,
-         "description" : "Kentucky Fried Chicken is the latest fast food chain to redesign its restaurants for the Covid-19 era, with a revamp that emphasizes the drive-thru and limits human contact.",
-         "title" : "This is what the KFC of the future will look like - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201118080558-02-kfc-redesign-rendering-super-tease.jpg",
-         "author" : "Jordan Valinsky, CNN Business",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
-         },
-         "url" : "https://www.cnn.com/2020/11/18/business/kfc-restaurant-redesign/index.html",
-         "publishedAt" : "2020-11-18T15:34:00Z"
-      },
-      {
-         "author" : "Lawrence C. Strauss",
-         "source" : {
-            "name" : "Barron's",
+            "name" : "TheStreet",
             "id" : null
          },
-         "url" : "https://www.barrons.com/articles/carnival-and-norwegian-cruise-line-are-selling-more-stock-51605713303",
-         "publishedAt" : "2020-11-18T15:28:00Z",
-         "title" : "Carnival and Norwegian Cruise Line Are Selling More Stock - Barron's",
-         "content" : "Two of the three major U.S. cruise operators announced capital raises this week, the latest in a series of similar moves in recent months as theyve been largely sidelined by the pandemic since March.… [+2204 chars]",
+         "publishedAt" : "2020-11-18T16:12:00Z",
+         "author" : "Martin Baccardax",
+         "url" : "https://www.thestreet.com/investing/lowes-shares-fall-on-narrow-q3-earnings-miss-2020-outlook",
+         "description" : "Lowe's said it sees holiday quarter profits in the region of $1.10 to $1.20 per share, a muted outlook that followed a narrow third quarter earnings miss."
+      },
+      {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201118080558-02-kfc-redesign-rendering-super-tease.jpg",
+         "title" : "This is what the KFC of the future will look like - CNN",
+         "content" : null,
+         "url" : "https://www.cnn.com/2020/11/18/business/kfc-restaurant-redesign/index.html",
+         "publishedAt" : "2020-11-18T15:34:00Z",
+         "author" : "Jordan Valinsky, CNN Business",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "description" : "Kentucky Fried Chicken is the latest fast food chain to redesign its restaurants for the Covid-19 era, with a revamp that emphasizes the drive-thru and limits human contact."
+      },
+      {
          "description" : "",
-         "urlToImage" : "https://images.barrons.com/im-261608/social"
+         "source" : {
+            "id" : null,
+            "name" : "Barron's"
+         },
+         "url" : "https://www.barrons.com/articles/carnival-and-norwegian-cruise-line-are-selling-more-stock-51605713303",
+         "author" : "Lawrence C. Strauss",
+         "publishedAt" : "2020-11-18T15:28:00Z",
+         "content" : "Two of the three major U.S. cruise operators announced capital raises this week, the latest in a series of similar moves in recent months as theyve been largely sidelined by the pandemic since March.… [+2204 chars]",
+         "urlToImage" : "https://images.barrons.com/im-261608/social",
+         "title" : "Carnival and Norwegian Cruise Line Are Selling More Stock - Barron's"
       },
       {
          "title" : "'Not My Cup of Tea': Jamie Dimon Is Still Not a Bitcoin Fan - CoinDesk",
-         "content" : "JPMorgan Chase CEO Jamie Dimon said blockchain will have a pivotal role in the future of finance even if bitcoin, the market-leading cryptocurrency that made blockchain famous, is not his “cup of tea… [+944 chars]",
-         "description" : "Dimon said blockchain will have a pivotal role in the future of finance even if he's still wary of bitcoin.",
          "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/11/jamie-dimon-1200x628.jpg",
-         "author" : "Danny Nelson",
+         "content" : "JPMorgan Chase CEO Jamie Dimon said blockchain will have a pivotal role in the future of finance even if bitcoin, the market-leading cryptocurrency that made blockchain famous, is not his “cup of tea… [+944 chars]",
          "source" : {
-            "name" : "CoinDesk",
-            "id" : null
+            "id" : null,
+            "name" : "CoinDesk"
          },
+         "author" : "Danny Nelson",
          "publishedAt" : "2020-11-18T15:18:56Z",
-         "url" : "https://www.coindesk.com/jamie-dimon-bitcoin-blockchain-dealbook-event"
+         "url" : "https://www.coindesk.com/jamie-dimon-bitcoin-blockchain-dealbook-event",
+         "description" : "Dimon said blockchain will have a pivotal role in the future of finance even if he's still wary of bitcoin."
       },
       {
-         "urlToImage" : null,
-         "content" : null,
-         "description" : null,
-         "title" : "Cramer: Travelers won't be worried about flying Boeing 737 Max - CNBC Television",
+         "publishedAt" : "2020-11-18T14:53:24Z",
+         "author" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N0VaWXNMakN0dXPSAQA?oc=5",
          "source" : {
             "name" : "Google News",
             "id" : "google-news"
          },
-         "publishedAt" : "2020-11-18T14:53:24Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N0VaWXNMakN0dXPSAQA?oc=5",
-         "author" : null
+         "description" : null,
+         "title" : "Cramer: Travelers won't be worried about flying Boeing 737 Max - CNBC Television",
+         "urlToImage" : null,
+         "content" : null
       },
       {
-         "content" : "NEW YORK (AP) Looking for toilet paper? Good luck.\r\nA surge of new coronavirus cases in the U.S. is sending people back to stores to stockpile again, leaving shelves bare and forcing retailers to put… [+2484 chars]",
          "description" : "A surge of new coronavirus cases in the U.S. is sending people back to stores to stockpile again, leaving shelves bare and forcing retailers to put limits on purchases.",
-         "title" : "Toilet paper limits, empty shelves are back as virus surges - WOODTV.com",
-         "urlToImage" : "https://www.woodtv.com/wp-content/uploads/sites/51/2020/11/toliet-paper-shortage-AP-111820.jpg?w=1280",
-         "author" : "JOSEPH PISANI and ANNE D'INNOCENZIO AP Retail Writers",
          "source" : {
             "name" : "WOODTV.com",
             "id" : null
          },
          "publishedAt" : "2020-11-18T14:32:00Z",
-         "url" : "https://www.woodtv.com/health/coronavirus/toilet-paper-limits-empty-shelves-are-back-as-virus-surges/"
+         "author" : "JOSEPH PISANI and ANNE D'INNOCENZIO AP Retail Writers",
+         "url" : "https://www.woodtv.com/health/coronavirus/toilet-paper-limits-empty-shelves-are-back-as-virus-surges/",
+         "content" : "NEW YORK (AP) Looking for toilet paper? Good luck.\r\nA surge of new coronavirus cases in the U.S. is sending people back to stores to stockpile again, leaving shelves bare and forcing retailers to put… [+2484 chars]",
+         "title" : "Toilet paper limits, empty shelves are back as virus surges - WOODTV.com",
+         "urlToImage" : "https://www.woodtv.com/wp-content/uploads/sites/51/2020/11/toliet-paper-shortage-AP-111820.jpg?w=1280"
       },
       {
-         "urlToImage" : "https://api.thedrive.com/wp-content/uploads/2020/11/22MY-BRZ-13.jpg?quality=85",
          "title" : "2022 Subaru BRZ: Finally More Power and a Slick New Design, But Still No Turbo - The Drive",
-         "description" : "Subaru has taken the BRZ and made it torquier, lower, stiffer, and better looking. What's not to like?",
+         "urlToImage" : "https://api.thedrive.com/wp-content/uploads/2020/11/22MY-BRZ-13.jpg?quality=85",
          "content" : "It's here, folks. The 2022 Subaru BRZ cat is officially out of the bag and in the interest of getting to the good stuff early, here's what's lurking under the hood of Subie's second-gen BRZ: it's a 2… [+4821 chars]",
-         "publishedAt" : "2020-11-18T14:00:25Z",
-         "url" : "https://www.thedrive.com/news/37656/2022-subaru-brz-finally-more-power-and-a-slick-new-design-but-still-no-turbo",
          "source" : {
             "id" : null,
             "name" : "The Drive"
          },
-         "author" : "Chris Tsui"
+         "publishedAt" : "2020-11-18T14:00:25Z",
+         "author" : "Chris Tsui",
+         "url" : "https://www.thedrive.com/news/37656/2022-subaru-brz-finally-more-power-and-a-slick-new-design-but-still-no-turbo",
+         "description" : "Subaru has taken the BRZ and made it torquier, lower, stiffer, and better looking. What's not to like?"
       }
    ],
    "totalResults" : 70
