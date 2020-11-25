@@ -1,24 +1,22 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
    "articles" : [
       {
-         "url" : "https://www.marketwatch.com/story/hospital-workers-called-exhausted-as-us-records-highest-number-of-covid-deaths-since-may-2020-11-25",
          "description" : "Parts of Europe are reporting declining cases and Sicily has asked Cuba to send doctors and nurses",
          "author" : "Ciara Linnane",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
          "content" : "The U.S. recorded the highest number of deaths from the coronavirus illness COVID-19 since May on Tuesday, and continues to average close to 200,000 new cases a day, with hospitals across the nation … [+14633 chars]",
-         "title" : "Hospital workers called exhausted as U.S. records highest number of COVID deaths since May - MarketWatch",
          "urlToImage" : "https://s.marketwatch.com/public/resources/images/MW-IU665_doctor_ZG_20201125113441.jpg",
-         "publishedAt" : "2020-11-25T19:55:00Z"
+         "publishedAt" : "2020-11-25T19:55:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "title" : "Hospital workers called exhausted as U.S. records highest number of COVID deaths since May - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/hospital-workers-called-exhausted-as-us-records-highest-number-of-covid-deaths-since-may-2020-11-25"
       },
       {
          "publishedAt" : "2020-11-25T19:05:00Z",
-         "urlToImage" : "https://images.wsj.net/im-264659/social",
-         "content" : "Salesforce.com Inc. is in advanced talks to buy Slack Technologies Inc., according to people familiar with the matter, a deal that would unite a giant in business software with a buzzy newcomer on a … [+335 chars]",
+         "url" : "https://www.wsj.com/articles/salesforce-has-held-talks-to-buy-slack-technologies-11606326392",
          "title" : "Salesforce Is in Advanced Talks to Buy Slack Technologies - The Wall Street Journal",
          "source" : {
             "id" : "the-wall-street-journal",
@@ -26,241 +24,243 @@
          },
          "author" : "Cara Lombardo, Liz Hoffman, Dana Cimilluca",
          "description" : "A deal would likely value Slack at more than $17 billion and mark Salesforce’s largest acquisition ever",
-         "url" : "https://www.wsj.com/articles/salesforce-has-held-talks-to-buy-slack-technologies-11606326392"
+         "urlToImage" : "https://images.wsj.net/im-264659/social",
+         "content" : "Salesforce.com Inc. is in advanced talks to buy Slack Technologies Inc., according to people familiar with the matter, a deal that would unite a giant in business software with a buzzy newcomer on a … [+335 chars]"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106802522-1606332376850-jerome.jpg?v=1606332437",
-         "title" : "Fed weighed adjusting bond purchases to provide more help to economy 'fairly soon,' minutes show - CNBC",
          "content" : "Federal Reserve officials indicated at their last meeting that adjustments could be made soon to their bond-buying program as the central bank looks to alternate ways it can support the economy.\r\nThe… [+3586 chars]",
-         "publishedAt" : "2020-11-25T19:00:00Z",
+         "author" : "Jeff Cox",
          "description" : "Officials at the meeting voted to keep benchmark short-term borrowing rates anchored near zero.",
          "url" : "https://www.cnbc.com/2020/11/25/fed-releases-minutes-from-november-meeting.html",
-         "author" : "Jeff Cox"
-      },
-      {
-         "publishedAt" : "2020-11-25T18:41:00Z",
-         "urlToImage" : "https://static01.nyt.com/images/2020/11/23/us/politics/00dc-perdue/00dc-perdue-facebookJumbo.jpg",
-         "content" : "Mr. Grimes wrote back the next morning to apologize.\r\nDavid, Sorry. That email was not meant for you. Wrong David! he wrote.\r\nMr. Perdue then contacted his wealth manager at Goldman Sachs, Robert Hut… [+2359 chars]",
-         "title" : "Stock Trades by Senator Perdue Said to Have Prompted Justice Dept. Inquiry - The New York Times",
-         "source" : {
-            "name" : "New York Times",
-            "id" : null
-         },
-         "author" : "Katie Benner, Adam Goldman, Nicholas Fandos, Kate Kelly",
-         "url" : "https://www.nytimes.com/2020/11/25/us/politics/david-perdue-cardlytics.html",
-         "description" : "Investigators focused on a sale of at least $1 million of stock in Cardlytics, a financial firm whose board the senator once sat on. They closed the case this summer without charges."
-      },
-      {
-         "author" : "",
-         "url" : "https://www.npr.org/2020/11/25/938863818/amazon-warehouse-workers-in-alabama-petition-to-unionize",
-         "description" : "Warehouse workers in Bessemer, Ala., notify federal labor authorities of plans to hold a unionization vote, teeing up a major labor battle at the retail giant known for its opposition to unionizing.",
-         "publishedAt" : "2020-11-25T18:30:22Z",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/11/25/gettyimages-1124819745_wide-a37144cdbb2963c8cd59e5744c509fac2948195f.jpg?s=1400",
-         "title" : "Amazon Warehouse Workers In Alabama Petition To Form A Union - NPR",
-         "content" : "Some workers at Amazon warehouses such as this one in the Staten Island borough of New York City have been trying to organize, facing stiff opposition from the company. Amazon workers in Alabama have… [+2928 chars]",
-         "source" : {
-            "name" : "NPR",
-            "id" : null
-         }
-      },
-      {
-         "author" : "Niv Elis",
-         "url" : "https://thehill.com/policy/finance/527575-mnuchin-puts-455b-in-covid-19-relief-funds-beyond-successors-reach",
-         "description" : "Treasury Secretary Steven Mnuchin signaled that he will move $455 billion in COVID-19 relief...",
-         "publishedAt" : "2020-11-25T18:20:32Z",
-         "content" : "Treasury Secretary Steven MnuchinSteven Terner MnuchinThe Hill's Morning Report - Presented by the UAE Embassy in Washington, DC - Trump OKs transition; Biden taps Treasury, State experienceOn The Mo… [+4161 chars]",
-         "title" : "Mnuchin puts $455B in COVID-19 relief funds beyond successor's reach | TheHill - The Hill",
-         "urlToImage" : "https://thehill.com/sites/default/files/mnuchinsteven_093020gn_lead.jpg",
-         "source" : {
-            "id" : "the-hill",
-            "name" : "The Hill"
-         }
-      },
-      {
+         "title" : "Fed weighed adjusting bond purchases to provide more help to economy 'fairly soon,' minutes show - CNBC",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "title" : "Cornish hens and restaurant meals: What Thanksgiving looks like in a pandemic - CNBC",
-         "content" : "This year, instead of the traditional turkey, Nicole Beckler's Thanksgiving table will feature two Cornish hens: the perfect sized birds for a dinner for two.\r\nBeckler, a travel agent based in Florid… [+4151 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106802492-1606329866903-corn.jpg?v=1606329897",
-         "publishedAt" : "2020-11-25T18:17:00Z",
-         "description" : "The coronavirus pandemic means consumers will be celebrating Thanksgiving differently this year.",
-         "url" : "https://www.cnbc.com/2020/11/25/what-thanksgiving-looks-like-in-a-pandemic-cornish-hens-and-take-out.html",
-         "author" : "Amelia Lucas"
+         "publishedAt" : "2020-11-25T19:00:00Z"
+      },
+      {
+         "publishedAt" : "2020-11-25T18:41:00Z",
+         "title" : "Stock Trades by Senator Perdue Said to Have Prompted Justice Dept. Inquiry - The New York Times",
+         "url" : "https://www.nytimes.com/2020/11/25/us/politics/david-perdue-cardlytics.html",
+         "source" : {
+            "id" : null,
+            "name" : "New York Times"
+         },
+         "description" : "Investigators focused on a sale of at least $1 million of stock in Cardlytics, a financial firm whose board the senator once sat on. They closed the case this summer without charges.",
+         "author" : "Katie Benner, Adam Goldman, Nicholas Fandos, Kate Kelly",
+         "urlToImage" : "https://static01.nyt.com/images/2020/11/23/us/politics/00dc-perdue/00dc-perdue-facebookJumbo.jpg",
+         "content" : "Mr. Grimes wrote back the next morning to apologize.\r\nDavid, Sorry. That email was not meant for you. Wrong David! he wrote.\r\nMr. Perdue then contacted his wealth manager at Goldman Sachs, Robert Hut… [+2359 chars]"
       },
       {
          "source" : {
             "id" : null,
-            "name" : "Detroit Free Press"
+            "name" : "NPR"
          },
-         "publishedAt" : "2020-11-25T18:15:38Z",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/05/16/PDTF/7677c99e-885e-4bed-aecd-f27dcb072e01-DSC_1451.jpg?crop=2931,1649,x0,y534&width=1600&height=800&fit=bounds",
-         "content" : "Henry Ford Hospital\r\n (Photo: Henry Ford Health System)\r\nThe Henry Ford Health System announced Wednesday that five of its hospitals have been approved to distribute two promising COVID-19 vaccines t… [+3644 chars]",
-         "title" : "Pfizer COVID-19 vaccine may be in Michigan by Dec. 12; Henry Ford will distribute - Detroit Free Press",
-         "author" : "Tresa Baldas",
-         "url" : "https://www.freep.com/story/news/local/michigan/detroit/2020/11/25/henry-ford-hospitals-approved-distribute-covid-19-vaccine/6422283002/",
-         "description" : "Henry Ford says it may receive Pfizer's COVID-19 vaccine as early as Dec. 12. It will be stored in freezers with temps as low as minus -85 degrees."
+         "url" : "https://www.npr.org/2020/11/25/938863818/amazon-warehouse-workers-in-alabama-petition-to-unionize",
+         "title" : "Amazon Warehouse Workers In Alabama Petition To Form A Union - NPR",
+         "publishedAt" : "2020-11-25T18:30:22Z",
+         "content" : "Some workers at Amazon warehouses such as this one in the Staten Island borough of New York City have been trying to organize, facing stiff opposition from the company. Amazon workers in Alabama have… [+2928 chars]",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/11/25/gettyimages-1124819745_wide-a37144cdbb2963c8cd59e5744c509fac2948195f.jpg?s=1400",
+         "author" : "",
+         "description" : "Warehouse workers in Bessemer, Ala., notify federal labor authorities of plans to hold a unionization vote, teeing up a major labor battle at the retail giant known for its opposition to unionizing."
       },
       {
-         "author" : "Madeline Farber",
-         "description" : "Doctors recommended to federal health officials this week that those who eventually receive the long-awaited coronavirus vaccine should be wary of the side effects — such as body aches and bad headaches — so they will return for the second dose.",
+         "content" : "Treasury Secretary Steven MnuchinSteven Terner MnuchinThe Hill's Morning Report - Presented by the UAE Embassy in Washington, DC - Trump OKs transition; Biden taps Treasury, State experienceOn The Mo… [+4161 chars]",
+         "urlToImage" : "https://thehill.com/sites/default/files/mnuchinsteven_093020gn_lead.jpg",
+         "description" : "Treasury Secretary Steven Mnuchin signaled that he will move $455 billion in COVID-19 relief...",
+         "author" : "Niv Elis",
+         "source" : {
+            "name" : "The Hill",
+            "id" : "the-hill"
+         },
+         "title" : "Mnuchin puts $455B in COVID-19 relief funds beyond successor's reach | TheHill - The Hill",
+         "url" : "https://thehill.com/policy/finance/527575-mnuchin-puts-455b-in-covid-19-relief-funds-beyond-successors-reach",
+         "publishedAt" : "2020-11-25T18:20:32Z"
+      },
+      {
+         "description" : "The coronavirus pandemic means consumers will be celebrating Thanksgiving differently this year.",
+         "author" : "Amelia Lucas",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106802492-1606329866903-corn.jpg?v=1606329897",
+         "content" : "This year, instead of the traditional turkey, Nicole Beckler's Thanksgiving table will feature two Cornish hens: the perfect sized birds for a dinner for two.\r\nBeckler, a travel agent based in Florid… [+4151 chars]",
+         "publishedAt" : "2020-11-25T18:17:00Z",
+         "title" : "Cornish hens and restaurant meals: What Thanksgiving looks like in a pandemic - CNBC",
+         "url" : "https://www.cnbc.com/2020/11/25/what-thanksgiving-looks-like-in-a-pandemic-cornish-hens-and-take-out.html",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         }
+      },
+      {
+         "description" : "Henry Ford says it may receive Pfizer's COVID-19 vaccine as early as Dec. 12. It will be stored in freezers with temps as low as minus -85 degrees.",
+         "author" : "Tresa Baldas",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/05/16/PDTF/7677c99e-885e-4bed-aecd-f27dcb072e01-DSC_1451.jpg?crop=2931,1649,x0,y534&width=1600&height=800&fit=bounds",
+         "content" : "Henry Ford Hospital\r\n (Photo: Henry Ford Health System)\r\nThe Henry Ford Health System announced Wednesday that five of its hospitals have been approved to distribute two promising COVID-19 vaccines t… [+3644 chars]",
+         "publishedAt" : "2020-11-25T18:15:38Z",
+         "url" : "https://www.freep.com/story/news/local/michigan/detroit/2020/11/25/henry-ford-hospitals-approved-distribute-covid-19-vaccine/6422283002/",
+         "title" : "Pfizer COVID-19 vaccine may be in Michigan by Dec. 12; Henry Ford will distribute - Detroit Free Press",
+         "source" : {
+            "id" : null,
+            "name" : "Detroit Free Press"
+         }
+      },
+      {
+         "publishedAt" : "2020-11-25T18:14:23Z",
          "url" : "https://www.foxnews.com/health/americans-should-be-warned-coronavirus-vaccine-side-effects",
+         "title" : "Americans should be warned of coronavirus vaccine side effects, medical experts say - Fox News",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "publishedAt" : "2020-11-25T18:14:23Z",
+         "author" : "Madeline Farber",
+         "description" : "Doctors recommended to federal health officials this week that those who eventually receive the long-awaited coronavirus vaccine should be wary of the side effects — such as body aches and bad headaches — so they will return for the second dose.",
          "urlToImage" : "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3329b98-59e2-46af-aa0f-6740982d1336/32e400d8-f586-463e-a832-59a61cb6a72c/1280x720/match/image.jpg",
-         "title" : "Americans should be warned of coronavirus vaccine side effects, medical experts say - Fox News",
          "content" : "While promising coronavirus vaccine candidates could aid in bringing the pandemic to its heels, doctors recommended to federal health officials this week that those who eventually receive the long-aw… [+3646 chars]"
       },
       {
+         "title" : "How Cholula plans to get more Americans hooked on its hot sauce - CNN",
+         "url" : "https://www.cnn.com/2020/11/25/business/cholula-hot-sauce-restaurants/index.html",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
          "publishedAt" : "2020-11-25T18:08:00Z",
-         "content" : null,
-         "title" : "How Cholula plans to get more Americans hooked on its hot sauce - CNN",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201124143154-01-cholula-hot-sauce---stock-super-tease.jpg",
+         "content" : null,
          "author" : "Danielle Wiener-Bronner, CNN Business",
-         "url" : "https://www.cnn.com/2020/11/25/business/cholula-hot-sauce-restaurants/index.html",
          "description" : "For the $800 million it's spending to buy it, Cholula's new owner needs it to punch above its weight."
       },
       {
+         "description" : "",
+         "author" : "Avi Salzman",
+         "content" : "Oil prices rose once again on Wednesday, continuing a bullish pattern this month that has returned prices to March levelsjust before Covid-19 began to damage the U.S. economy. The latest rally appear… [+4379 chars]",
+         "urlToImage" : "https://images.barrons.com/im-264683/social",
+         "publishedAt" : "2020-11-25T18:05:00Z",
          "source" : {
             "name" : "Barron's",
             "id" : null
          },
-         "publishedAt" : "2020-11-25T18:05:00Z",
-         "urlToImage" : "https://images.barrons.com/im-264683/social",
-         "content" : "Oil prices rose once again on Wednesday, continuing a bullish pattern this month that has returned prices to March levelsjust before Covid-19 began to damage the U.S. economy. The latest rally appear… [+4379 chars]",
          "title" : "The New Move in Oil Has ‘Enormous’ Implications for Investors - Barron's",
-         "author" : "Avi Salzman",
-         "url" : "https://www.barrons.com/articles/the-new-move-in-oil-has-enormous-implications-for-investors-51606327555",
-         "description" : ""
+         "url" : "https://www.barrons.com/articles/the-new-move-in-oil-has-enormous-implications-for-investors-51606327555"
       },
       {
          "author" : "Reuters",
-         "url" : "https://www.nbcnews.com/tech/tech-news/france-orders-tech-giants-pay-digital-tax-rcna185",
          "description" : "The French Finance Ministry has sent out notices to big tech companies liable for its digital service tax to pay the levy as planned in December.",
+         "urlToImage" : "https://media1.s-nbcnews.com/j/rockcms/2020-11/212/201125-amazon-distribution-center-jm-1246-8d8afb_ca4ffd2c5e62b6e4f4f89fefb2e0ab296b0f08b8.nbcnews-fp-1200-630.jpg",
+         "content" : "The French Finance Ministry has sent out notices to big tech companies liable for its digital service tax to pay the levy as planned in December, the ministry said on Wednesday.\r\nFrance suspended col… [+2000 chars]",
+         "publishedAt" : "2020-11-25T17:51:00Z",
+         "url" : "https://www.nbcnews.com/tech/tech-news/france-orders-tech-giants-pay-digital-tax-rcna185",
+         "title" : "France orders tech giants to pay digital tax - NBC News",
          "source" : {
             "name" : "NBC News",
             "id" : "nbc-news"
-         },
-         "publishedAt" : "2020-11-25T17:51:00Z",
-         "urlToImage" : "https://media1.s-nbcnews.com/j/rockcms/2020-11/212/201125-amazon-distribution-center-jm-1246-8d8afb_ca4ffd2c5e62b6e4f4f89fefb2e0ab296b0f08b8.nbcnews-fp-1200-630.jpg",
-         "content" : "The French Finance Ministry has sent out notices to big tech companies liable for its digital service tax to pay the levy as planned in December, the ministry said on Wednesday.\r\nFrance suspended col… [+2000 chars]",
-         "title" : "France orders tech giants to pay digital tax - NBC News"
+         }
       },
       {
          "content" : "Amazon Web Services is currently having an outage, taking a chunk of the internet down with it.\r\nSeveral AWS services were experiencing problems as of early Wednesday, according to its status page. T… [+1597 chars]",
-         "title" : "Amazon Web Services outage takes a portion of the internet down with it - TechCrunch",
          "urlToImage" : "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1211125072.jpg?w=601",
-         "publishedAt" : "2020-11-25T17:37:30Z",
+         "description" : "Companies that rely on AWS, like Adobe, Roku, and Shipt, are also experiencing outages.",
+         "author" : "Zack Whittaker",
          "source" : {
-            "name" : "TechCrunch",
-            "id" : "techcrunch"
+            "id" : "techcrunch",
+            "name" : "TechCrunch"
          },
          "url" : "http://techcrunch.com/2020/11/25/amazon-web-services-outage-takes-a-portion-of-the-internet-down-with-it/",
-         "description" : "Companies that rely on AWS, like Adobe, Roku, and Shipt, are also experiencing outages.",
-         "author" : "Zack Whittaker"
+         "title" : "Amazon Web Services outage takes a portion of the internet down with it - TechCrunch",
+         "publishedAt" : "2020-11-25T17:37:30Z"
       },
       {
-         "author" : "Kate Gibson",
-         "url" : "https://www.cbsnews.com/news/crockpot-recall-sunbeam-walmart-target-amazon/",
+         "content" : "Sunbeam Products is recalling almost a million crockpots sold by retailers including Amazon, Target and Walmart after roughly 100 consumers were burned — some seriously — when the lids blew off in us… [+1655 chars]",
+         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/25/23061481-2037-4e2f-872a-44693f9b9121/thumbnail/1200x630/344daa56807edffa28720f451599e844/1-94401am.png",
          "description" : "Sunbeam product linked to 99 consumers sustaining first- to third-degree burns from spewing hot food and liquid.",
+         "author" : "Kate Gibson",
          "source" : {
             "id" : "cbs-news",
             "name" : "CBS News"
          },
-         "publishedAt" : "2020-11-25T17:34:00Z",
          "title" : "Nearly 1 million crockpots sold by Amazon, Target and Walmart recalled for burn risk - CBS News",
-         "content" : "Sunbeam Products is recalling almost a million crockpots sold by retailers including Amazon, Target and Walmart after roughly 100 consumers were burned — some seriously — when the lids blew off in us… [+1655 chars]",
-         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/25/23061481-2037-4e2f-872a-44693f9b9121/thumbnail/1200x630/344daa56807edffa28720f451599e844/1-94401am.png"
+         "url" : "https://www.cbsnews.com/news/crockpot-recall-sunbeam-walmart-target-amazon/",
+         "publishedAt" : "2020-11-25T17:34:00Z"
       },
       {
-         "description" : "Jewelers will try to drive holiday sales by encouraging purchases as a romantic gesture, a Zoom accessory or a way to brighten a very challenging year.",
-         "url" : "https://www.cnbc.com/2020/11/25/holiday-2020-retailers-tout-jewelry-as-way-to-add-sparkle-to-challenging-year.html",
          "author" : "Melissa Repko",
+         "description" : "Jewelers will try to drive holiday sales by encouraging purchases as a romantic gesture, a Zoom accessory or a way to brighten a very challenging year.",
          "content" : "Tiffany &amp; Co. gift boxes seen in a store window.\r\nMany Americans are spending their days working from home in leggings and casualwear during the coronavirus pandemic. They have few, if any, parti… [+7377 chars]",
-         "title" : "Jewelry sales staging a holiday comeback as shoppers look to add sparkle to challenging year - CNBC",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106800970-1606147164350-gettyimages-1228903403-a_tai_szx_191004_7r306016.jpeg?v=1606147269",
          "publishedAt" : "2020-11-25T17:25:00Z",
          "source" : {
             "id" : null,
             "name" : "CNBC"
-         }
+         },
+         "title" : "Jewelry sales staging a holiday comeback as shoppers look to add sparkle to challenging year - CNBC",
+         "url" : "https://www.cnbc.com/2020/11/25/holiday-2020-retailers-tout-jewelry-as-way-to-add-sparkle-to-challenging-year.html"
       },
       {
+         "author" : "Jacqueline Howard, CNN",
+         "description" : "The US Food and Drug Administration has issued an emergency use authorization for Kantaro Bioscience's Covid-19 antibody test kit, the group announced on Wednesday. The newly authorized antibody test, called COVID-SeroKlir, identifies and measures precise lev…",
+         "content" : "(CNN)The US Food and Drug Administration has issued an emergency use authorization for Kantaro Bioscience's Covid-19 antibody test kit, the group announced on Wednesday. The newly authorized antibody… [+4138 chars]",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200713142436-coronavirus-antibody-testing-california-0505-super-tease.jpg",
+         "publishedAt" : "2020-11-25T17:14:00Z",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200713142436-coronavirus-antibody-testing-california-0505-super-tease.jpg",
-         "content" : "(CNN)The US Food and Drug Administration has issued an emergency use authorization for Kantaro Bioscience's Covid-19 antibody test kit, the group announced on Wednesday. The newly authorized antibody… [+4138 chars]",
-         "title" : "FDA authorizes new Covid-19 antibody test that quantifies specific levels of antibodies - CNN",
-         "publishedAt" : "2020-11-25T17:14:00Z",
-         "description" : "The US Food and Drug Administration has issued an emergency use authorization for Kantaro Bioscience's Covid-19 antibody test kit, the group announced on Wednesday. The newly authorized antibody test, called COVID-SeroKlir, identifies and measures precise lev…",
          "url" : "https://www.cnn.com/2020/11/25/health/covid-19-antibody-test-kantaro-fda-authorization-bn/index.html",
-         "author" : "Jacqueline Howard, CNN"
+         "title" : "FDA authorizes new Covid-19 antibody test that quantifies specific levels of antibodies - CNN"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "publishedAt" : "2020-11-25T17:12:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106092594-1566506492325img_6647rr.jpg?v=1583440105",
-         "title" : "Stocks making the biggest moves midday: Gap, Square, Nikola, Nordstrom & more - CNBC",
          "content" : "Check out the companies making headlines in midday trading. \r\nDeere Shares of the equipment maker slipped more than 1% despite the company betting top and bottom line estimates during the fourth quar… [+3484 chars]",
-         "author" : "Pippa Stevens",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106092594-1566506492325img_6647rr.jpg?v=1583440105",
          "description" : "Check out the companies making headlines in midday trading.",
-         "url" : "https://www.cnbc.com/2020/11/25/stocks-making-the-biggest-moves-midday-gap-square-nikola-nordstrom-more.html"
+         "author" : "Pippa Stevens",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "url" : "https://www.cnbc.com/2020/11/25/stocks-making-the-biggest-moves-midday-gap-square-nikola-nordstrom-more.html",
+         "title" : "Stocks making the biggest moves midday: Gap, Square, Nikola, Nordstrom & more - CNBC",
+         "publishedAt" : "2020-11-25T17:12:00Z"
       },
       {
-         "author" : "Michael Wayland",
          "url" : "https://www.cnbc.com/2020/11/25/jpmorgan-skeptical-about-gm-producing-nikola-badger-pickup.html",
-         "description" : "JPMorgan is \"skeptical\" about Nikola finalizing a deal with GM to produce an electric pickup called the Badger for the embattled vehicle start-up.",
+         "title" : "JPMorgan 'skeptical' about GM producing Nikola badger pickup - CNBC",
          "source" : {
-            "id" : null,
-            "name" : "CNBC"
+            "name" : "CNBC",
+            "id" : null
          },
          "publishedAt" : "2020-11-25T17:04:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106587109-1592834759853nikola_badger1.jpg?v=1592835057",
          "content" : "JPMorgan is \"skeptical\" about Nikola finalizing a deal with General Motors to produce an electric pickup truck called the Badger for the embattled vehicle start-up.\r\nInstead, JPM analyst Paul Coster … [+2693 chars]",
-         "title" : "JPMorgan 'skeptical' about GM producing Nikola badger pickup - CNBC"
+         "author" : "Michael Wayland",
+         "description" : "JPMorgan is \"skeptical\" about Nikola finalizing a deal with GM to produce an electric pickup called the Badger for the embattled vehicle start-up."
       },
       {
-         "url" : "https://earther.gizmodo.com/secret-exxon-documents-show-the-firm-may-never-recover-1845755377",
-         "description" : "The economic fallout of the covid-19 pandemic has hit the oil industry hard, and Exxon in particular is feeling it. Internal documents show the company’s not expecting to make a grand recovery any time soon despite putting on a good face for shareholders.",
-         "author" : "Dharna Noor",
          "source" : {
             "id" : null,
             "name" : "Gizmodo.com"
          },
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/gxbujwgdfxtrczwwqmfh.jpg",
+         "url" : "https://earther.gizmodo.com/secret-exxon-documents-show-the-firm-may-never-recover-1845755377",
          "title" : "Secret Exxon Documents Show the Firm May Never Recover - Gizmodo",
+         "publishedAt" : "2020-11-25T16:35:00Z",
          "content" : "The economic fallout of the covid-19 pandemic has hit the oil industry hard, and Exxon in particular is feeling it. Internal documents show the companys not expecting to make a grand recovery any tim… [+3642 chars]",
-         "publishedAt" : "2020-11-25T16:35:00Z"
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/gxbujwgdfxtrczwwqmfh.jpg",
+         "description" : "The economic fallout of the covid-19 pandemic has hit the oil industry hard, and Exxon in particular is feeling it. Internal documents show the company’s not expecting to make a grand recovery any time soon despite putting on a good face for shareholders.",
+         "author" : "Dharna Noor"
       },
       {
-         "url" : "https://www.fool.com/investing/2020/11/25/why-gap-is-tumbling-today/",
-         "description" : "Rising cases of COVID-19 are weighing heavily on the retailer.",
-         "author" : "Rich Duprey",
+         "publishedAt" : "2020-11-25T16:22:00Z",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "content" : "What happened\r\nShares of Gap(NYSE:GPS) were plunging 18% lower in morning trading Wednesday after the apparel retailer posted disappointing third-quarter earnings.\r\nSo what\r\nThe strides Gap had been … [+1232 chars]",
          "title" : "Why Gap Is Tumbling Today - The Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/602381/gap-athleta-source-gps.jpg",
-         "publishedAt" : "2020-11-25T16:22:00Z"
+         "url" : "https://www.fool.com/investing/2020/11/25/why-gap-is-tumbling-today/",
+         "description" : "Rising cases of COVID-19 are weighing heavily on the retailer.",
+         "author" : "Rich Duprey",
+         "content" : "What happened\r\nShares of Gap(NYSE:GPS) were plunging 18% lower in morning trading Wednesday after the apparel retailer posted disappointing third-quarter earnings.\r\nSo what\r\nThe strides Gap had been … [+1232 chars]",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/602381/gap-athleta-source-gps.jpg"
       }
-   ]
+   ],
+   "totalResults" : 70
 }
