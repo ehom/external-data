@@ -1,45 +1,45 @@
 [
    {
-      "updated" : "2020-11-30 22:02:31",
       "state" : "New York",
+      "updated" : "2020-11-30 22:02:31",
       "death" : 34281,
       "case" : 653691
    },
    {
+      "case" : 339128,
       "state" : "New Jersey",
       "updated" : "2020-11-30 22:02:31",
-      "death" : 17118,
-      "case" : 339128
+      "death" : 17118
    },
    {
       "case" : 1208614,
-      "state" : "California",
       "updated" : "2020-11-30 22:02:31",
+      "state" : "California",
       "death" : 19152
    },
    {
       "case" : 388951,
-      "death" : 9568,
       "updated" : "2020-11-30 22:02:31",
-      "state" : "Michigan"
+      "state" : "Michigan",
+      "death" : 9568
    },
    {
-      "death" : 18601,
+      "case" : 999319,
       "state" : "Florida",
       "updated" : "2020-11-30 22:02:31",
-      "case" : 999319
+      "death" : 18601
    },
    {
-      "case" : 217163,
-      "updated" : "2020-11-30 22:02:31",
       "state" : "Massachusetts",
-      "death" : 10722
+      "updated" : "2020-11-30 22:02:31",
+      "death" : 10722,
+      "case" : 217163
    },
    {
       "case" : 162700,
-      "state" : "Washington",
+      "death" : 2703,
       "updated" : "2020-11-30 22:02:31",
-      "death" : 2703
+      "state" : "Washington"
    },
    {
       "case" : 232414,
@@ -48,58 +48,58 @@
       "state" : "Louisiana"
    },
    {
-      "case" : 726531,
+      "death" : 12278,
       "updated" : "2020-11-30 22:02:31",
       "state" : "Illinois",
-      "death" : 12278
+      "case" : 726531
    },
    {
-      "case" : 366972,
       "death" : 10383,
+      "state" : "Pennsylvania",
       "updated" : "2020-11-30 22:02:31",
-      "state" : "Pennsylvania"
+      "case" : 366972
    },
    {
+      "case" : 471566,
+      "updated" : "2020-11-30 22:02:31",
       "state" : "Georgia",
-      "updated" : "2020-11-30 22:02:31",
-      "death" : 9471,
-      "case" : 471566
+      "death" : 9471
    },
    {
+      "death" : 21617,
       "updated" : "2020-11-30 22:02:31",
       "state" : "Texas",
-      "death" : 21617,
       "case" : 1187169
    },
    {
       "case" : 228772,
+      "death" : 3006,
       "state" : "Colorado",
-      "updated" : "2020-11-30 22:02:31",
-      "death" : 3006
+      "updated" : "2020-11-30 22:02:31"
    },
    {
-      "state" : "Connecticut",
-      "updated" : "2020-11-30 22:02:31",
       "death" : 4962,
+      "updated" : "2020-11-30 22:02:31",
+      "state" : "Connecticut",
       "case" : 112581
    },
    {
-      "case" : 421064,
-      "state" : "Ohio",
       "updated" : "2020-11-30 22:02:31",
-      "death" : 6430
+      "state" : "Ohio",
+      "death" : 6430,
+      "case" : 421064
    },
    {
-      "case" : 338977,
-      "death" : 5685,
+      "updated" : "2020-11-30 22:02:31",
       "state" : "Indiana",
-      "updated" : "2020-11-30 22:02:31"
+      "death" : 5685,
+      "case" : 338977
    },
    {
       "case" : 374493,
       "death" : 4609,
-      "state" : "Tennessee",
-      "updated" : "2020-11-30 22:02:31"
+      "updated" : "2020-11-30 22:02:31",
+      "state" : "Tennessee"
    },
    {
       "death" : 4641,
@@ -108,117 +108,117 @@
       "case" : 198370
    },
    {
-      "updated" : "2020-11-30 22:02:31",
-      "state" : "North Carolina",
+      "case" : 364510,
       "death" : 5266,
-      "case" : 364510
-   },
-   {
-      "updated" : "2020-11-30 22:02:31",
-      "state" : "Wisconsin",
-      "death" : 3310,
-      "case" : 384702
-   },
-   {
-      "state" : "Arizona",
-      "updated" : "2020-11-30 22:02:31",
-      "death" : 6635,
-      "case" : 325997
-   },
-   {
-      "updated" : "2020-11-30 22:02:31",
-      "state" : "Virginia",
-      "death" : 4076,
-      "case" : 237839
-   },
-   {
-      "state" : "Missouri",
-      "updated" : "2020-11-30 22:02:31",
-      "death" : 4074,
-      "case" : 314994
-   },
-   {
-      "case" : 152204,
-      "death" : 2144,
-      "state" : "Nevada",
+      "state" : "North Carolina",
       "updated" : "2020-11-30 22:02:31"
    },
    {
-      "death" : 3585,
+      "case" : 384702,
+      "state" : "Wisconsin",
       "updated" : "2020-11-30 22:02:31",
+      "death" : 3310
+   },
+   {
+      "death" : 6635,
+      "state" : "Arizona",
+      "updated" : "2020-11-30 22:02:31",
+      "case" : 325997
+   },
+   {
+      "death" : 4076,
+      "updated" : "2020-11-30 22:02:31",
+      "state" : "Virginia",
+      "case" : 237839
+   },
+   {
+      "case" : 314994,
+      "death" : 4074,
+      "updated" : "2020-11-30 22:02:31",
+      "state" : "Missouri"
+   },
+   {
+      "death" : 2144,
+      "updated" : "2020-11-30 22:02:31",
+      "state" : "Nevada",
+      "case" : 152204
+   },
+   {
+      "case" : 249524,
       "state" : "Alabama",
-      "case" : 249524
+      "updated" : "2020-11-30 22:02:31",
+      "death" : 3585
    },
    {
-      "case" : 152703,
+      "updated" : "2020-11-30 22:02:31",
+      "state" : "Mississippi",
       "death" : 3788,
-      "updated" : "2020-11-30 22:02:31",
-      "state" : "Mississippi"
+      "case" : 152703
    },
    {
-      "updated" : "2020-11-30 22:02:31",
-      "state" : "South Carolina",
+      "case" : 217487,
       "death" : 4382,
-      "case" : 217487
+      "state" : "South Carolina",
+      "updated" : "2020-11-30 22:02:31"
    },
    {
       "case" : 195706,
       "death" : 871,
-      "updated" : "2020-11-30 22:02:31",
-      "state" : "Utah"
-   },
-   {
-      "case" : 318763,
-      "death" : 3593,
-      "updated" : "2020-11-30 22:02:31",
-      "state" : "Minnesota"
-   },
-   {
-      "updated" : "2020-11-30 22:02:31",
-      "state" : "Oregon",
-      "death" : 882,
-      "case" : 70832
-   },
-   {
-      "case" : 197750,
-      "death" : 1743,
-      "state" : "Oklahoma",
+      "state" : "Utah",
       "updated" : "2020-11-30 22:02:31"
    },
    {
-      "death" : 2483,
+      "case" : 318763,
       "updated" : "2020-11-30 22:02:31",
-      "state" : "Arkansas",
-      "case" : 156247
+      "state" : "Minnesota",
+      "death" : 3593
+   },
+   {
+      "case" : 70832,
+      "updated" : "2020-11-30 22:02:31",
+      "state" : "Oregon",
+      "death" : 882
    },
    {
       "updated" : "2020-11-30 22:02:31",
-      "state" : "Iowa",
+      "state" : "Oklahoma",
+      "death" : 1743,
+      "case" : 197750
+   },
+   {
+      "case" : 156247,
+      "updated" : "2020-11-30 22:02:31",
+      "state" : "Arkansas",
+      "death" : 2483
+   },
+   {
       "death" : 2403,
+      "state" : "Iowa",
+      "updated" : "2020-11-30 22:02:31",
       "case" : 229472
    },
    {
-      "case" : 21552,
-      "death" : 680,
       "updated" : "2020-11-30 22:02:31",
-      "state" : "Washington, D.C."
+      "state" : "Washington, D.C.",
+      "death" : 680,
+      "case" : 21552
    },
    {
       "case" : 176926,
-      "updated" : "2020-11-30 22:02:31",
       "state" : "Kentucky",
+      "updated" : "2020-11-30 22:02:31",
       "death" : 1902
    },
    {
+      "case" : 100484,
       "death" : 923,
       "state" : "Idaho",
-      "updated" : "2020-11-30 22:02:31",
-      "case" : 100484
+      "updated" : "2020-11-30 22:02:31"
    },
    {
-      "updated" : "2020-11-30 22:02:31",
-      "state" : "Rhode Island",
       "death" : 1373,
+      "state" : "Rhode Island",
+      "updated" : "2020-11-30 22:02:31",
       "case" : 56723
    },
    {
@@ -228,64 +228,64 @@
       "case" : 145062
    },
    {
-      "case" : 20480,
       "death" : 526,
       "state" : "New Hampshire",
-      "updated" : "2020-11-30 22:02:31"
+      "updated" : "2020-11-30 22:02:31",
+      "case" : 20480
    },
    {
-      "case" : 11757,
       "state" : "Maine",
       "updated" : "2020-11-30 22:02:31",
-      "death" : 194
+      "death" : 194,
+      "case" : 11757
    },
    {
+      "case" : 4172,
+      "updated" : "2020-11-30 22:02:31",
       "state" : "Vermont",
-      "updated" : "2020-11-30 22:02:31",
-      "death" : 68,
-      "case" : 4172
+      "death" : 68
    },
    {
-      "updated" : "2020-11-30 22:02:31",
-      "state" : "New Mexico",
+      "case" : 95417,
       "death" : 1540,
-      "case" : 95417
+      "state" : "New Mexico",
+      "updated" : "2020-11-30 22:02:31"
    },
    {
       "case" : 35251,
-      "updated" : "2020-11-30 22:02:31",
+      "death" : 770,
       "state" : "Delaware",
-      "death" : 770
+      "updated" : "2020-11-30 22:02:31"
    },
    {
+      "death" : 1106,
       "state" : "Puerto Rico",
       "updated" : "2020-11-30 22:02:31",
-      "death" : 1106,
       "case" : 91885
    },
    {
-      "death" : 244,
-      "state" : "Hawaii",
       "updated" : "2020-11-30 22:02:31",
+      "state" : "Hawaii",
+      "death" : 244,
       "case" : 17840
    },
    {
-      "case" : 62198,
-      "updated" : "2020-11-30 22:02:31",
       "state" : "Montana",
-      "death" : 681
+      "updated" : "2020-11-30 22:02:31",
+      "death" : 681,
+      "case" : 62198
    },
    {
+      "case" : 126470,
       "state" : "Nebraska",
       "updated" : "2020-11-30 22:02:31",
-      "death" : 1023,
-      "case" : 126470
+      "death" : 1023
    },
    {
-      "case" : 16427,
       "death" : 653,
+      "updated" : "2020-11-30 22:02:31",
       "state" : "Navajo Nation",
-      "updated" : "2020-11-30 22:02:31"
+      "case" : 16427
    },
    {
       "case" : 47843,
@@ -295,26 +295,26 @@
    },
    {
       "case" : 79252,
+      "death" : 928,
       "updated" : "2020-11-30 22:02:31",
-      "state" : "North Dakota",
-      "death" : 928
+      "state" : "North Dakota"
    },
    {
-      "state" : "Alaska",
-      "updated" : "2020-11-30 22:02:31",
+      "case" : 31324,
       "death" : 120,
-      "case" : 31324
+      "updated" : "2020-11-30 22:02:31",
+      "state" : "Alaska"
    },
    {
       "case" : 32489,
-      "death" : 155,
       "state" : "Wyoming",
-      "updated" : "2020-11-30 22:02:31"
+      "updated" : "2020-11-30 22:02:31",
+      "death" : 155
    },
    {
-      "death" : 946,
       "updated" : "2020-11-30 22:02:31",
       "state" : "South Dakota",
+      "death" : 946,
       "case" : 80464
    },
    {
@@ -324,16 +324,16 @@
       "death" : 3
    },
    {
-      "case" : 6768,
       "state" : "Guam",
       "updated" : "2020-11-30 22:02:31",
-      "death" : 112
+      "death" : 112,
+      "case" : 6768
    },
    {
       "case" : 49,
+      "death" : 0,
       "updated" : "2020-11-30 22:02:31",
-      "state" : "Diamond Princess",
-      "death" : 0
+      "state" : "Diamond Princess"
    },
    {
       "case" : 1544,
@@ -342,33 +342,33 @@
       "state" : "US Virgin Islands"
    },
    {
-      "state" : "Wuhan Evacuee",
-      "updated" : "2020-11-30 22:02:31",
+      "case" : 4,
       "death" : 0,
-      "case" : 4
+      "state" : "Wuhan Evacuee",
+      "updated" : "2020-11-30 22:02:31"
    },
    {
-      "case" : 31,
-      "updated" : "2020-11-30 22:02:31",
+      "death" : 2,
       "state" : "Northern Mariana Islands",
-      "death" : 2
+      "updated" : "2020-11-30 22:02:31",
+      "case" : 31
    },
    {
       "death" : 124,
-      "state" : "US Military",
       "updated" : "2020-11-30 22:02:31",
+      "state" : "US Military",
       "case" : 110982
    },
    {
-      "state" : "Federal Bureau of Prisons",
-      "updated" : "2020-11-30 22:02:31",
+      "case" : 28290,
       "death" : 147,
-      "case" : 28290
+      "state" : "Federal Bureau of Prisons",
+      "updated" : "2020-11-30 22:02:31"
    },
    {
-      "case" : 109716,
       "death" : 4900,
+      "updated" : "2020-11-30 22:02:31",
       "state" : "Veteran Affair",
-      "updated" : "2020-11-30 22:02:31"
+      "case" : 109716
    }
 ]
