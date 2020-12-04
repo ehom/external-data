@@ -1,266 +1,266 @@
 {
    "status" : "ok",
-   "totalResults" : 70,
    "articles" : [
       {
          "source" : {
-            "name" : "The Washington Post",
-            "id" : "the-washington-post"
+            "id" : "the-washington-post",
+            "name" : "The Washington Post"
          },
-         "author" : "Drew Harwell, Nitasha Tiku",
          "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OA5YUVRVUYI6XFUZADJRD4J5FU.jpg&w=1440",
-         "content" : "Google officials did not respond to requests for comment. Gebru also did not respond to requests, but in an interview Thursday with Bloomberg said Googles actions represented the most fundamental sil… [+8183 chars]",
-         "url" : "https://www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/",
          "publishedAt" : "2020-12-03T22:41:20Z",
+         "title" : "Google’s star AI ethics researcher, one of a few Black women in the field, says she was fired for a critical email - The Washington Post",
          "description" : "Timnit Gebru, a star researcher who has criticized the company’s lack of diversity, emailed co-workers that she felt “constantly dehumanized.\" Her managers, she said, abruptly fired her shortly after.",
-         "title" : "Google’s star AI ethics researcher, one of a few Black women in the field, says she was fired for a critical email - The Washington Post"
+         "author" : "Drew Harwell, Nitasha Tiku",
+         "content" : "Google officials did not respond to requests for comment. Gebru also did not respond to requests, but in an interview Thursday with Bloomberg said Googles actions represented the most fundamental sil… [+8183 chars]",
+         "url" : "https://www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/"
       },
       {
-         "url" : "https://in.reuters.com/article/us-health-coronavirus-pfizer-vaccine-idUSKBN28D3B9",
+         "author" : "Reuters Staff",
          "content" : "By Reuters Staff\r\nFILE PHOTO: Vials with a sticker reading, \"COVID-19 / Coronavirus vaccine / Injection only\" and a medical syringe are seen in front of a displayed Pfizer logo in this illustration t… [+1498 chars]",
-         "publishedAt" : "2020-12-03T21:40:00Z",
+         "url" : "https://in.reuters.com/article/us-health-coronavirus-pfizer-vaccine-idUSKBN28D3B9",
+         "title" : "Pfizer supply chain challenges led to slashing COVID-19 vaccine production target: WSJ - Reuters",
          "description" : "Challenges in Pfizer Inc's supply chain for its COVID-19 vaccine played a role in its decision to slash its 2020 production target, the Wall Street Journal reported on Thursday.",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20201203&t=2&i=1543383872&r=LYNXMPEGB21UU&w=800",
+         "publishedAt" : "2020-12-03T21:40:00Z",
          "source" : {
             "id" : "reuters",
             "name" : "Reuters"
          },
-         "author" : "Reuters Staff",
-         "title" : "Pfizer supply chain challenges led to slashing COVID-19 vaccine production target: WSJ - Reuters"
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20201203&t=2&i=1543383872&r=LYNXMPEGB21UU&w=800"
       },
       {
          "title" : "Moderna Inc. stock outperforms market on strong trading day - MarketWatch",
-         "urlToImage" : "https://images.mktw.net/im-228778/social",
+         "description" : "",
+         "author" : "MarketWatch Automation",
          "content" : "Shares of Moderna Inc. \r\n MRNA,\r\n +9.97%\r\nrallied 9.97% to $157.26 Thursday, on what proved to be an all-around favorable trading session for the stock market, with the NASDAQ Composite Index \r\n COMP… [+281 chars]",
          "url" : "https://www.marketwatch.com/story/moderna-inc-stock-outperforms-market-on-strong-trading-day-01607031047",
-         "description" : "",
-         "publishedAt" : "2020-12-03T21:30:00Z",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "author" : "MarketWatch Automation"
+         "urlToImage" : "https://images.mktw.net/im-228778/social",
+         "publishedAt" : "2020-12-03T21:30:00Z"
       },
       {
-         "title" : "Vaccine Cards And Second-Dose Reminders Are Part Of Warp Speed's Immunization Plan - NPR",
-         "author" : "Bill Chappell",
-         "source" : {
-            "id" : null,
-            "name" : "NPR"
-         },
-         "publishedAt" : "2020-12-03T21:14:00Z",
-         "description" : "The U.S. government says it will issue a vaccine card and use other tools to help millions of Americans follow through with their immunizations against COVID-19.",
-         "content" : "People getting the COVID-19 vaccine will receive a special vaccine card to record their doses, Operation Warp Speed officials say. Here, a Department of Health and Human Services employee holds a sam… [+4379 chars]",
          "url" : "https://www.npr.org/2020/12/03/942294593/vaccine-cards-and-second-dose-reminders-are-part-of-warp-speeds-immunization-pla",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/12/03/covid-19-vaccine-card_wide-ffefb88a5602ec326e967b28806244223dcf29ad.jpg?s=1400"
+         "content" : "People getting the COVID-19 vaccine will receive a special vaccine card to record their doses, Operation Warp Speed officials say. Here, a Department of Health and Human Services employee holds a sam… [+4379 chars]",
+         "author" : "Bill Chappell",
+         "description" : "The U.S. government says it will issue a vaccine card and use other tools to help millions of Americans follow through with their immunizations against COVID-19.",
+         "title" : "Vaccine Cards And Second-Dose Reminders Are Part Of Warp Speed's Immunization Plan - NPR",
+         "publishedAt" : "2020-12-03T21:14:00Z",
+         "urlToImage" : "https://media.npr.org/assets/img/2020/12/03/covid-19-vaccine-card_wide-ffefb88a5602ec326e967b28806244223dcf29ad.jpg?s=1400",
+         "source" : {
+            "name" : "NPR",
+            "id" : null
+         }
       },
       {
+         "description" : "The decision came just a week after the California Restaurant Association's initial request to block the measure was denied.",
+         "title" : "Judge rules LA County must show cause for ban on outdoor dining - Fox News",
+         "author" : "Daniella Genovese",
+         "content" : "A California judge reversed course Wednesday and ordered health officials in Los Angeles to show scientific evidence to justify the recently enacted three-week ban on dine-in service. \r\nThe decision … [+2434 chars]",
+         "url" : "https://www.foxnews.com/politics/judge-rules-la-county-must-show-cause-for-its-order-to-ban-outdoor-dining",
          "source" : {
             "name" : "Fox News",
             "id" : "fox-news"
          },
-         "author" : "Daniella Genovese",
-         "content" : "A California judge reversed course Wednesday and ordered health officials in Los Angeles to show scientific evidence to justify the recently enacted three-week ban on dine-in service. \r\nThe decision … [+2434 chars]",
-         "url" : "https://www.foxnews.com/politics/judge-rules-la-county-must-show-cause-for-its-order-to-ban-outdoor-dining",
-         "publishedAt" : "2020-12-03T21:09:15Z",
-         "description" : "The decision came just a week after the California Restaurant Association's initial request to block the measure was denied.",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/GettyImages-1229758108.jpg",
-         "title" : "Judge rules LA County must show cause for ban on outdoor dining - Fox News"
+         "publishedAt" : "2020-12-03T21:09:15Z"
       },
       {
-         "content" : "Corporate America has long been criticized for its lack of gender and racial diversity, with underrepresented racial groups making up just 12.5% of board seats at the 3,000 largest publicly traded co… [+7358 chars]",
-         "url" : "https://www.cnbc.com/2020/12/03/will-nasdaqs-diversity-mandates-be-key-to-changing-corporate-america.html",
-         "publishedAt" : "2020-12-03T21:05:00Z",
-         "description" : "\"Companies have had more than ample opportunities to diversify their boards.\"",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105158877-GettyImages-947774858.jpg?v=1532563649",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "author" : "Courtney Connley",
-         "title" : "Could Nasdaq's proposed diversity mandates be the key to changing corporate America? - CNBC"
+         "publishedAt" : "2020-12-03T21:05:00Z",
+         "description" : "\"Companies have had more than ample opportunities to diversify their boards.\"",
+         "title" : "Could Nasdaq's proposed diversity mandates be the key to changing corporate America? - CNBC",
+         "url" : "https://www.cnbc.com/2020/12/03/will-nasdaqs-diversity-mandates-be-key-to-changing-corporate-america.html",
+         "content" : "Corporate America has long been criticized for its lack of gender and racial diversity, with underrepresented racial groups making up just 12.5% of board seats at the 3,000 largest publicly traded co… [+7358 chars]",
+         "author" : "Courtney Connley"
       },
       {
-         "title" : "Hackers are trying to disrupt the COVID-19 vaccine supply chain - Engadget",
-         "description" : "IBM says it recently uncovered a highly coordinated global phishing campaign focused on the companies and organizations involved with the upcoming “cold chain” distribution of COVID-19 vaccines.",
-         "publishedAt" : "2020-12-03T20:51:17Z",
-         "url" : "https://www.engadget.com/ibm-covid-19-cold-chain-201727810.html",
          "content" : "The hackers impersonated an executive with Haier Biomedical, a Chinese company that styles itself as “the world’s only complete cold chain provider.” They sent meticulously researched phishing emails… [+1145 chars]",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F7aa35270-35a2-11eb-b7fc-92061413f253&client=amp-blogside-v2&signature=03866ef66bfa401b197ad3c212539163a7799cb4",
+         "url" : "https://www.engadget.com/ibm-covid-19-cold-chain-201727810.html",
          "author" : "",
+         "description" : "IBM says it recently uncovered a highly coordinated global phishing campaign focused on the companies and organizations involved with the upcoming “cold chain” distribution of COVID-19 vaccines.",
+         "title" : "Hackers are trying to disrupt the COVID-19 vaccine supply chain - Engadget",
+         "publishedAt" : "2020-12-03T20:51:17Z",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F7aa35270-35a2-11eb-b7fc-92061413f253&client=amp-blogside-v2&signature=03866ef66bfa401b197ad3c212539163a7799cb4",
          "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
+            "id" : "engadget",
+            "name" : "Engadget"
          }
       },
       {
+         "description" : "The Labor Department is expected to report Friday a sharp slowdown in job growth in November as a surge in coronavirus cases weighs on many businesses.",
+         "title" : "'We're All Just In A Mess': Jobs Growth To Slow Sharply Amid Pandemic Hit - NPR",
          "url" : "https://www.npr.org/2020/12/03/942109335/were-all-just-in-a-mess-jobs-growth-to-slow-sharply-amid-pandemic-hit",
          "content" : "Empty patio tables are seen at a diner in West Hollywood, Calif. on Nov. 30, 2020, after Los Angeles County banned outdoor dining amid the pandemic. The struggles being experienced by restaurants and… [+4304 chars]",
-         "publishedAt" : "2020-12-03T20:40:46Z",
-         "description" : "The Labor Department is expected to report Friday a sharp slowdown in job growth in November as a surge in coronavirus cases weighs on many businesses.",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/12/03/gettyimages-1229880231_wide-d10c44ed0f7fc88c3464dda92422602d1297bdff.jpg?s=1400",
-         "source" : {
-            "name" : "NPR",
-            "id" : null
-         },
          "author" : "",
-         "title" : "'We're All Just In A Mess': Jobs Growth To Slow Sharply Amid Pandemic Hit - NPR"
+         "source" : {
+            "id" : null,
+            "name" : "NPR"
+         },
+         "urlToImage" : "https://media.npr.org/assets/img/2020/12/03/gettyimages-1229880231_wide-d10c44ed0f7fc88c3464dda92422602d1297bdff.jpg?s=1400",
+         "publishedAt" : "2020-12-03T20:40:46Z"
       },
       {
+         "description" : "Utah's number of COVID-19 cases has increased by 3,945 on Thursday, with 11 more deaths reported, according to the Utah Department of Health.",
          "title" : "Gov. Herbert provides Utah COVID-19 update as state sees 3945 new cases, 11 deaths - KSL.com",
+         "author" : "https://www.facebook.com/kslcom/",
+         "content" : "SALT LAKE CITY Utah Gov. Gary Herbert said Thursday he isn't surprised to see an uptick in COVID-19 cases following the Thanksgiving holiday.\r\nThe Utah Department of Health reported 3,945 new cases T… [+8268 chars]",
+         "url" : "https://www.ksl.com/article/50060441/gov-herbert-provides-utah-covid-19-update-as-state-sees-3945-new-cases-11-deaths",
          "source" : {
             "name" : "KSL.com",
             "id" : null
          },
-         "author" : "https://www.facebook.com/kslcom/",
          "urlToImage" : "https://img.ksl.com/slc/2802/280269/28026928.jpeg?filter=ksl/responsive_story_lg",
-         "content" : "SALT LAKE CITY Utah Gov. Gary Herbert said Thursday he isn't surprised to see an uptick in COVID-19 cases following the Thanksgiving holiday.\r\nThe Utah Department of Health reported 3,945 new cases T… [+8268 chars]",
-         "url" : "https://www.ksl.com/article/50060441/gov-herbert-provides-utah-covid-19-update-as-state-sees-3945-new-cases-11-deaths",
-         "description" : "Utah's number of COVID-19 cases has increased by 3,945 on Thursday, with 11 more deaths reported, according to the Utah Department of Health.",
          "publishedAt" : "2020-12-03T20:37:30Z"
       },
       {
+         "description" : "Nicholas Thompson is leaving Condé Nast for the top business job at the venerable publication owned by Laurene Powell Jobs’s Emerson Collective.",
+         "title" : "The Atlantic Plucks Wired Magazine’s Top Editor as Its New C.E.O. - The New York Times",
          "author" : "Marc Tracy",
+         "content" : "In a 2019 article for Wired, Mr. Thompson argued that persuading readers to pay for articles was good for journalism, as well as a publications chances at making money. When your business depends on … [+1859 chars]",
+         "url" : "https://www.nytimes.com/2020/12/03/business/media/the-atlantic-nicholas-thompson-ceo.html",
          "source" : {
             "id" : null,
             "name" : "New York Times"
          },
-         "description" : "Nicholas Thompson is leaving Condé Nast for the top business job at the venerable publication owned by Laurene Powell Jobs’s Emerson Collective.",
-         "publishedAt" : "2020-12-03T20:19:00Z",
-         "content" : "In a 2019 article for Wired, Mr. Thompson argued that persuading readers to pay for articles was good for journalism, as well as a publications chances at making money. When your business depends on … [+1859 chars]",
-         "url" : "https://www.nytimes.com/2020/12/03/business/media/the-atlantic-nicholas-thompson-ceo.html",
          "urlToImage" : "https://static01.nyt.com/images/2020/12/03/business/03Thompson-01/03Thompson-01-facebookJumbo.jpg",
-         "title" : "The Atlantic Plucks Wired Magazine’s Top Editor as Its New C.E.O. - The New York Times"
+         "publishedAt" : "2020-12-03T20:19:00Z"
       },
       {
          "title" : "The Bloomberg 50: The People Who Changed Global Business in 2020 - Bloomberg",
-         "author" : null,
-         "source" : {
-            "name" : "Bloomberg",
-            "id" : "bloomberg"
-         },
-         "publishedAt" : "2020-12-03T20:15:26Z",
          "description" : null,
          "content" : "To continue, please click the box below to let us know you're not a robot.",
          "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=df300ef0-35ba-11eb-8877-7de1cf67621c&url=L2ZlYXR1cmVzLzIwMjAtYmxvb21iZXJnLTUwLw==",
-         "urlToImage" : null
+         "author" : null,
+         "source" : {
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "urlToImage" : null,
+         "publishedAt" : "2020-12-03T20:15:26Z"
       },
       {
-         "url" : "https://www.foxbusiness.com/lifestyle/journalists-board-boeings-737-max-with-american-airlines-in-first-public-flight-since-grounding",
          "content" : "American Airlines flew one of its long-grounded Boeing 737 Max jets on Wednesday with a slew of journalists on board for a test flight to demonstrate its confidence in the plane’s safety.\r\nThe moment… [+3479 chars]",
-         "publishedAt" : "2020-12-03T20:08:54Z",
+         "url" : "https://www.foxbusiness.com/lifestyle/journalists-board-boeings-737-max-with-american-airlines-in-first-public-flight-since-grounding",
+         "author" : "Daniella Genovese",
+         "title" : "Journalists board American Airlines Boeing 737 Max in first public flight since grounding - Fox Business",
          "description" : "The moment marked the first time the plane has flown the public since a pair of fatal crashes involving the aircraft less than five months apart forced U.S. regulators to ground the plane in March 2019.",
+         "publishedAt" : "2020-12-03T20:08:54Z",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/10/0/0/AmericanAirlinesBoeing737MaxPatrick-T.-FallonBloomberg-via-Getty-Images.jpg?ve=1&tl=1",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "author" : "Daniella Genovese",
-         "title" : "Journalists board American Airlines Boeing 737 Max in first public flight since grounding - Fox Business"
+            "name" : "Fox Business",
+            "id" : null
+         }
       },
       {
-         "title" : "DOJ sues Facebook, alleging it improperly hired foreign workers and discriminated against Americans - msnNOW",
+         "source" : {
+            "id" : "the-washington-post",
+            "name" : "The Washington Post"
+         },
          "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LS7VVZRVRII6XFUZADJRD4J5FU.jpg&w=1440",
-         "content" : "Facebooks practices violated federal laws that require employers to demonstrate that there are no qualified U.S. workers available before it offers positions to temporary foreign workers it is sponso… [+3785 chars]",
-         "url" : "https://www.washingtonpost.com/technology/2020/12/03/facebook-doj-immigration-lawsuit/",
          "publishedAt" : "2020-12-03T20:07:00Z",
+         "title" : "DOJ sues Facebook, alleging it improperly hired foreign workers and discriminated against Americans - msnNOW",
          "description" : "The Justice Department on Thursday sued Facebook over allegations that it discriminated against Americans in the way it hired temporary foreign workers for thousands of well-paid positions.",
-         "source" : {
-            "name" : "The Washington Post",
-            "id" : "the-washington-post"
-         },
-         "author" : "Tony Romm, Abigail Hauslohner"
+         "author" : "Tony Romm, Abigail Hauslohner",
+         "url" : "https://www.washingtonpost.com/technology/2020/12/03/facebook-doj-immigration-lawsuit/",
+         "content" : "Facebooks practices violated federal laws that require employers to demonstrate that there are no qualified U.S. workers available before it offers positions to temporary foreign workers it is sponso… [+3785 chars]"
       },
       {
-         "author" : "Pete Muntean and Gregory Wallace, CNN",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201203132049-southwest-airlines-restricted-super-tease.jpg",
-         "description" : "Southwest Airlines warned 6,800 employees Thursday they may be furloughed in the spring, the airline told CNN.",
          "publishedAt" : "2020-12-03T19:49:00Z",
-         "content" : "New York (CNN Business)Southwest Airlines warned 6,800 employees Thursday they may be furloughed in the spring, the airline told CNN. \r\nIf the layoffs do take place, they would be the first in the ca… [+1059 chars]",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201203132049-southwest-airlines-restricted-super-tease.jpg",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
          "url" : "https://www.cnn.com/2020/12/03/business/southwest-layoffs/index.html",
-         "title" : "Southwest warns 6,800 employees of impending layoffs, a first for the airline - CNN"
+         "content" : "New York (CNN Business)Southwest Airlines warned 6,800 employees Thursday they may be furloughed in the spring, the airline told CNN. \r\nIf the layoffs do take place, they would be the first in the ca… [+1059 chars]",
+         "author" : "Pete Muntean and Gregory Wallace, CNN",
+         "title" : "Southwest warns 6,800 employees of impending layoffs, a first for the airline - CNN",
+         "description" : "Southwest Airlines warned 6,800 employees Thursday they may be furloughed in the spring, the airline told CNN."
       },
       {
-         "description" : "After much debate, the OPEC group has finally reached an agreement on oil production for next year",
-         "publishedAt" : "2020-12-03T19:45:00Z",
-         "url" : "https://oilprice.com/Energy/Crude-Oil/OPEC-Finally-Reaches-Deal-On-2021-Oil-Output-Cuts.html",
-         "content" : "Crude oil prices hesitated today…\r\nReports that suggest that Chinas…\r\nThe oil industry is more…\r\nBy Julianne Geiger - Dec 03, 2020, 1:45 PM CSTAfter much debate, the OPEC+ group has finally reached a… [+2245 chars]",
          "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-12-03_drflbp8kgd.jpg",
-         "author" : "Julianne Geiger",
          "source" : {
             "id" : null,
             "name" : "OilPrice.com"
          },
-         "title" : "OPEC Finally Reaches Deal On 2021 Oil Output Cuts - OilPrice.com"
+         "publishedAt" : "2020-12-03T19:45:00Z",
+         "description" : "After much debate, the OPEC group has finally reached an agreement on oil production for next year",
+         "title" : "OPEC Finally Reaches Deal On 2021 Oil Output Cuts - OilPrice.com",
+         "url" : "https://oilprice.com/Energy/Crude-Oil/OPEC-Finally-Reaches-Deal-On-2021-Oil-Output-Cuts.html",
+         "content" : "Crude oil prices hesitated today…\r\nReports that suggest that Chinas…\r\nThe oil industry is more…\r\nBy Julianne Geiger - Dec 03, 2020, 1:45 PM CSTAfter much debate, the OPEC+ group has finally reached a… [+2245 chars]",
+         "author" : "Julianne Geiger"
       },
       {
-         "title" : "Google illegally spied on and retaliated against workers, feds say - Ars Technica",
-         "publishedAt" : "2020-12-03T19:30:00Z",
          "description" : "Employees are allowed to talk amongst themselves about their workplace.",
-         "url" : "https://arstechnica.com/tech-policy/2020/12/google-illegally-spied-on-and-retaliated-against-workers-feds-say/",
-         "content" : "Enlarge/ Sunset, by the Google empire.\r\n41 with 25 posters participating\r\nGoogle's actions amid workplace organizing efforts, including the high-profile firings of several employees, were illegal vio… [+3897 chars]",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/10/GettyImages-1181484873-760x380.jpg",
+         "title" : "Google illegally spied on and retaliated against workers, feds say - Ars Technica",
          "author" : "Kate Cox",
+         "content" : "Enlarge/ Sunset, by the Google empire.\r\n41 with 25 posters participating\r\nGoogle's actions amid workplace organizing efforts, including the high-profile firings of several employees, were illegal vio… [+3897 chars]",
+         "url" : "https://arstechnica.com/tech-policy/2020/12/google-illegally-spied-on-and-retaliated-against-workers-feds-say/",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/10/GettyImages-1181484873-760x380.jpg",
          "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
-         }
+            "name" : "Ars Technica",
+            "id" : "ars-technica"
+         },
+         "publishedAt" : "2020-12-03T19:30:00Z"
       },
       {
-         "author" : "Lou Whiteman",
+         "publishedAt" : "2020-12-03T19:04:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/603414/tourist-with-luggage-wearing-mask-to-prevent-during-travel-time-at-the-airport-terminal-for-protect-from-the-new-coronavirus-2019-infection-outbreak-situation.jpg",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/603414/tourist-with-luggage-wearing-mask-to-prevent-during-travel-time-at-the-airport-terminal-for-protect-from-the-new-coronavirus-2019-infection-outbreak-situation.jpg",
-         "publishedAt" : "2020-12-03T19:04:00Z",
-         "description" : "New evidence suggests conditions are beginning to normalize.",
+         "author" : "Lou Whiteman",
          "content" : "What happened\r\nThe airline industry, though still troubled, is showing signs of a rebound, and that has investors buying in on Thursday.\r\nShares of American Airlines Group(NASDAQ:AAL) led the push hi… [+3058 chars]",
          "url" : "https://www.fool.com/investing/2020/12/03/why-airline-shares-are-higher-today/",
-         "title" : "Why Airline Shares Are Higher Today - Motley Fool"
+         "title" : "Why Airline Shares Are Higher Today - Motley Fool",
+         "description" : "New evidence suggests conditions are beginning to normalize."
       },
       {
-         "title" : "Can You Bring Your Emotional Support Animal on Your Next Flight? - Lifehacker",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/vajki5rnhobm0s5bxxxa.jpg",
-         "content" : "The era of emotional support squirrel on flights is over, as the Department of Transportation (DOT) ruled Wednesday that only dogs can be defined as service animals. Other animal companions used for … [+2690 chars]",
          "url" : "https://twocents.lifehacker.com/can-you-bring-your-emotional-support-animal-on-your-nex-1845800941",
-         "publishedAt" : "2020-12-03T19:00:00Z",
+         "content" : "The era of emotional support squirrel on flights is over, as the Department of Transportation (DOT) ruled Wednesday that only dogs can be defined as service animals. Other animal companions used for … [+2690 chars]",
+         "author" : "Mike Winters",
          "description" : "The era of emotional support squirrel on flights is over, as the Department of Transportation (DOT) ruled Wednesday that only dogs can be defined as service animals. Other animal companions used for emotional support will either have to be checked into the ca…",
+         "title" : "Can You Bring Your Emotional Support Animal on Your Next Flight? - Lifehacker",
+         "publishedAt" : "2020-12-03T19:00:00Z",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/vajki5rnhobm0s5bxxxa.jpg",
          "source" : {
-            "id" : null,
-            "name" : "Lifehacker.com"
-         },
-         "author" : "Mike Winters"
-      },
-      {
-         "title" : "Dow Rallies As McConnell Sees 'Hopeful Signs' On Stimulus - Investor's Business Daily",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/12/SMT1030_mcconell_120320_news.jpg",
-         "publishedAt" : "2020-12-03T18:53:00Z",
-         "description" : "The Dow Jones rallied after Senate Majority Leader Mitch McConnell said he sees hopeful signs a coronavirus stimulus deal can be struck.",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-rallies-mitch-mcconnell-hopeful-signs-coronavirus-stimulus-tesla-stock-rises/",
-         "content" : "The Dow Jones Industrial Average rallied around 0.4% in midafternoon trade after Senate Majority Leader Mitch McConnell said he sees \"hopeful signs\" a coronavirus stimulus deal can be struck. Tesla (… [+5712 chars]",
-         "author" : "Investor's Business Daily",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
+            "name" : "Lifehacker.com",
+            "id" : null
          }
       },
       {
-         "urlToImage" : "https://thehill.com/sites/default/files/walmart_123114getty.jpg",
-         "description" : "Retail giant Walmart on Thursday announced it will give $700 mill...",
+         "author" : "Investor's Business Daily",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-rallies-mitch-mcconnell-hopeful-signs-coronavirus-stimulus-tesla-stock-rises/",
+         "content" : "The Dow Jones Industrial Average rallied around 0.4% in midafternoon trade after Senate Majority Leader Mitch McConnell said he sees \"hopeful signs\" a coronavirus stimulus deal can be struck. Tesla (… [+5712 chars]",
+         "description" : "The Dow Jones rallied after Senate Majority Leader Mitch McConnell said he sees hopeful signs a coronavirus stimulus deal can be struck.",
+         "title" : "Dow Rallies As McConnell Sees 'Hopeful Signs' On Stimulus - Investor's Business Daily",
+         "publishedAt" : "2020-12-03T18:53:00Z",
+         "source" : {
+            "name" : "Investor's Business Daily",
+            "id" : null
+         },
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/12/SMT1030_mcconell_120320_news.jpg"
+      },
+      {
          "publishedAt" : "2020-12-03T18:47:05Z",
-         "url" : "https://thehill.com/homenews/news/528607-walmart-to-pay-out-700-million-in-special-bonuses-ahead-of-holidays",
-         "content" : "Retail giant Walmart on Thursday announced it will give $700 million in bonuses to its 1.5 million U.S. employees amidst calls from retail workers to have hazard pay reinstated.\r\nThe Washington Post … [+1662 chars]",
-         "author" : "Joseph Choi",
          "source" : {
             "name" : "The Hill",
             "id" : "the-hill"
          },
+         "urlToImage" : "https://thehill.com/sites/default/files/walmart_123114getty.jpg",
+         "author" : "Joseph Choi",
+         "content" : "Retail giant Walmart on Thursday announced it will give $700 million in bonuses to its 1.5 million U.S. employees amidst calls from retail workers to have hazard pay reinstated.\r\nThe Washington Post … [+1662 chars]",
+         "url" : "https://thehill.com/homenews/news/528607-walmart-to-pay-out-700-million-in-special-bonuses-ahead-of-holidays",
+         "description" : "Retail giant Walmart on Thursday announced it will give $700 mill...",
          "title" : "Walmart to pay out $700 million in special bonuses ahead of holidays | TheHill - The Hill"
       }
-   ]
+   ],
+   "totalResults" : 70
 }
