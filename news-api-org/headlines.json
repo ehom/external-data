@@ -1,186 +1,187 @@
 {
+   "status" : "ok",
    "articles" : [
       {
-         "content" : "MARC BENIOFF got the idea for the ohana corporate culture on a sabbatical in Hawaii. The term refers to a network of families bound together. He likes to think of Salesforce, the worlds third-biggest… [+5622 chars]",
-         "description" : "Marc Benioff has his sights set on tech’s big league",
-         "publishedAt" : "2020-12-04T16:28:13Z",
-         "url" : "https://www.economist.com/business/2020/12/05/salesforce-gets-some-slack",
-         "title" : "Salesforce gets some Slack - The Economist",
          "author" : "The Economist",
+         "title" : "Salesforce gets some Slack - The Economist",
+         "url" : "https://www.economist.com/business/2020/12/05/salesforce-gets-some-slack",
+         "description" : "Marc Benioff has his sights set on tech’s big league",
          "urlToImage" : "https://www.economist.com/img/b/1280/720/90/sites/default/files/20201205_WBP503.jpg",
          "source" : {
             "id" : null,
             "name" : "The Economist"
-         }
+         },
+         "content" : "MARC BENIOFF got the idea for the ohana corporate culture on a sabbatical in Hawaii. The term refers to a network of families bound together. He likes to think of Salesforce, the worlds third-biggest… [+5622 chars]",
+         "publishedAt" : "2020-12-04T16:28:13Z"
       },
       {
-         "title" : "Glencore CEO Ivan Glasenberg to Retire After 18 Years at the Helm - The Wall Street Journal",
-         "url" : "https://www.wsj.com/articles/glencore-ceo-ivan-glasenberg-to-retire-in-2021-11607091758",
-         "author" : "Joe Wallace",
          "publishedAt" : "2020-12-04T16:04:00Z",
-         "description" : "Longtime chief executive to be replaced by Gary Nagle",
          "content" : "LONDONIvan Glasenberg, the longtime chief executive of Glencore PLC, is handing over the reins of the global mining and trading giant he built, saying Friday he would retire in the first half of next… [+937 chars]",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
          },
-         "urlToImage" : "https://images.wsj.net/im-268331/social"
+         "urlToImage" : "https://images.wsj.net/im-268331/social",
+         "description" : "Longtime chief executive to be replaced by Gary Nagle",
+         "url" : "https://www.wsj.com/articles/glencore-ceo-ivan-glasenberg-to-retire-in-2021-11607091758",
+         "author" : "Joe Wallace",
+         "title" : "Glencore CEO Ivan Glasenberg to Retire After 18 Years at the Helm - The Wall Street Journal"
       },
       {
+         "publishedAt" : "2020-12-04T16:02:00Z",
+         "content" : "Google struggled on Thursday to limit the fallout from the departure of a top artificial intelligence researcher after the internet group blocked the publication of a paper on an important AI ethics … [+4012 chars]",
          "source" : {
             "name" : "Financial Times",
             "id" : "financial-times"
          },
          "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa084a6d9-af19-4c17-a4da-f510d7b390d6.jpg?source=next-opengraph&fit=scale-down&width=900",
-         "author" : null,
+         "description" : "Exit of researcher Timnit Gebru reignites debate over diversity and free speech at tech group",
          "url" : "https://www.ft.com/content/995c62ab-26b1-4eed-b1fb-cb4846023ed2",
-         "title" : "Google parts with top AI researcher after blocking paper, faces blowback - Ars Technica",
-         "publishedAt" : "2020-12-04T16:02:00Z",
-         "content" : "Google struggled on Thursday to limit the fallout from the departure of a top artificial intelligence researcher after the internet group blocked the publication of a paper on an important AI ethics … [+4012 chars]",
-         "description" : "Exit of researcher Timnit Gebru reignites debate over diversity and free speech at tech group"
+         "author" : null,
+         "title" : "Google parts with top AI researcher after blocking paper, faces blowback - Ars Technica"
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201203103245-restricted-food-distribution-usa-1114-super-tease.jpg",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "content" : "New York (CNN Business)The job market recovery is at risk of stalling out as the pandemic intensifies. The rapid loss of momentum in the economy raises the pressure on Washington to do what should be… [+8273 chars]",
-         "description" : "The job market recovery is at risk of stalling out as the pandemic intensifies. The rapid loss of momentum in the economy raises the pressure on Washington to do what should be a no-brainer: provide more fiscal relief.",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201203103245-restricted-food-distribution-usa-1114-super-tease.jpg",
          "publishedAt" : "2020-12-04T15:46:00Z",
-         "url" : "https://www.cnn.com/2020/12/04/economy/unemployment-jobs-stimulus/index.html",
+         "content" : "New York (CNN Business)The job market recovery is at risk of stalling out as the pandemic intensifies. The rapid loss of momentum in the economy raises the pressure on Washington to do what should be… [+8273 chars]",
+         "author" : "Analysis by Matt Egan, CNN Business",
          "title" : "Here we go again: The US could start losing jobs very soon - CNN",
-         "author" : "Analysis by Matt Egan, CNN Business"
+         "description" : "The job market recovery is at risk of stalling out as the pandemic intensifies. The rapid loss of momentum in the economy raises the pressure on Washington to do what should be a no-brainer: provide more fiscal relief.",
+         "url" : "https://www.cnn.com/2020/12/04/economy/unemployment-jobs-stimulus/index.html"
       },
       {
+         "title" : "£50 billion in UK banknotes is 'missing.' Nobody has an explanation - CNN",
+         "author" : "Hanna Ziady, CNN Business",
+         "url" : "https://www.cnn.com/2020/12/04/business/missing-cash-bank-of-england-50-billion/index.html",
+         "description" : "Here's a head-scratcher: The use of cash has been declining for years in Britain, but demand for banknotes is skyrocketing. Nobody is quite sure where the money is going.",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201204111059-british-pound-stock-super-tease.jpg",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
-         "description" : "Here's a head-scratcher: The use of cash has been declining for years in Britain, but demand for banknotes is skyrocketing. Nobody is quite sure where the money is going.",
          "content" : null,
-         "title" : "£50 billion in UK banknotes is 'missing.' Nobody has an explanation - CNN",
-         "url" : "https://www.cnn.com/2020/12/04/business/missing-cash-bank-of-england-50-billion/index.html",
-         "author" : "Hanna Ziady, CNN Business",
          "publishedAt" : "2020-12-04T15:28:00Z"
       },
       {
          "publishedAt" : "2020-12-04T15:16:00Z",
-         "url" : "https://www.wsj.com/articles/the-covid-crisis-taught-david-farr-the-power-and-limits-of-leadership-11607094974",
-         "title" : "The Covid Crisis Taught David Farr the Power and Limits of Leadership - The Wall Street Journal",
-         "author" : "Thomas Gryta, Whitney Curtis for The Wall Street Journal",
-         "description" : "Nine months with Emerson Electric, a manufacturing giant, show the firm knocked off course by the pandemic. The CEO insisted on moving forward anyway.",
          "content" : "David Farr looked down at the empty parking lot and blew up. It was March 20, a cloudy day with a chill in the air. The coronavirus and lockdowns were grinding the U.S. economy to a halt, sending muc… [+767 chars]",
          "source" : {
             "id" : "the-wall-street-journal",
             "name" : "The Wall Street Journal"
          },
-         "urlToImage" : "https://images.wsj.net/im-267991/social"
+         "urlToImage" : "https://images.wsj.net/im-267991/social",
+         "description" : "Nine months with Emerson Electric, a manufacturing giant, show the firm knocked off course by the pandemic. The CEO insisted on moving forward anyway.",
+         "url" : "https://www.wsj.com/articles/the-covid-crisis-taught-david-farr-the-power-and-limits-of-leadership-11607094974",
+         "title" : "The Covid Crisis Taught David Farr the Power and Limits of Leadership - The Wall Street Journal",
+         "author" : "Thomas Gryta, Whitney Curtis for The Wall Street Journal"
       },
       {
-         "content" : "Oil demand isnt going to…\r\nSix months after oil prices…\r\nThe oil market is riding…\r\nBy Tsvetana Paraskova - Dec 04, 2020, 9:00 AM CSTOil prices rose early on Friday, headed for a fifth week of gains,… [+1911 chars]",
-         "description" : "Oil prices rose early on Friday, headed for a fifth week of gains, after OPEC managed to seal a compromise deal over its oil production policy early next year",
-         "publishedAt" : "2020-12-04T15:00:00Z",
-         "url" : "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Inch-Towards-50-On-OPEC-Agreement.html",
-         "title" : "Oil Prices Inch Towards $50 On OPEC Agreement - OilPrice.com",
-         "author" : "Tsvetana Paraskova",
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-12-04_ek5xcomldu.jpg",
          "source" : {
             "name" : "OilPrice.com",
             "id" : null
+         },
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2020-12-04_ek5xcomldu.jpg",
+         "publishedAt" : "2020-12-04T15:00:00Z",
+         "content" : "Oil demand isnt going to…\r\nSix months after oil prices…\r\nThe oil market is riding…\r\nBy Tsvetana Paraskova - Dec 04, 2020, 9:00 AM CSTOil prices rose early on Friday, headed for a fifth week of gains,… [+1911 chars]",
+         "author" : "Tsvetana Paraskova",
+         "title" : "Oil Prices Inch Towards $50 On OPEC Agreement - OilPrice.com",
+         "description" : "Oil prices rose early on Friday, headed for a fifth week of gains, after OPEC managed to seal a compromise deal over its oil production policy early next year",
+         "url" : "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Inch-Towards-50-On-OPEC-Agreement.html"
+      },
+      {
+         "url" : "https://www.reuters.com/article/global-markets-int-idUSKBN28D3K9",
+         "description" : null,
+         "author" : null,
+         "title" : "Hopes for stimulus drive risky assets higher despite weak US jobs report - Reuters",
+         "content" : "Middle East &amp; Africa\r\nDavid Randall\r\nNEW YORK (Reuters) - Growing prospects for a U.S. coronavirus relief package after a grim employment report helped boost demand for riskier assets on Friday, … [+3411 chars]",
+         "publishedAt" : "2020-12-04T14:57:00Z",
+         "urlToImage" : null,
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
          }
       },
       {
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "urlToImage" : null,
-         "publishedAt" : "2020-12-04T14:57:00Z",
-         "author" : null,
-         "url" : "https://www.reuters.com/article/global-markets-int-idUSKBN28D3K9",
-         "title" : "Hopes for stimulus drive risky assets higher despite weak US jobs report - Reuters",
-         "content" : "Middle East &amp; Africa\r\nDavid Randall\r\nNEW YORK (Reuters) - Growing prospects for a U.S. coronavirus relief package after a grim employment report helped boost demand for riskier assets on Friday, … [+3411 chars]",
-         "description" : null
-      },
-      {
+         "title" : "Elon Musk will love this: Tesla short sellers lost more than the US airline industry this year - CNN",
+         "author" : "Chris Isidore, CNN Business",
+         "description" : "The incredible year for Tesla stock has created a bloodbath for those shorting its shares.",
+         "url" : "https://www.cnn.com/2020/12/04/investing/tesla-short-sellers-elon-musk/index.html",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201204093944-elon-musk-1201-restricted-super-tease.jpg",
          "publishedAt" : "2020-12-04T14:56:00Z",
-         "title" : "Elon Musk will love this: Tesla short sellers lost more than the US airline industry this year - CNN",
-         "url" : "https://www.cnn.com/2020/12/04/investing/tesla-short-sellers-elon-musk/index.html",
-         "author" : "Chris Isidore, CNN Business",
-         "description" : "The incredible year for Tesla stock has created a bloodbath for those shorting its shares.",
          "content" : null
       },
       {
+         "source" : {
+            "id" : "the-washington-post",
+            "name" : "The Washington Post"
+         },
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2EM2IRWEMI6XKMXD5GFHUVHI4.jpg&w=1440",
          "publishedAt" : "2020-12-04T14:35:15Z",
-         "author" : "Florian Elabdi, Rick Noack",
-         "url" : "https://www.washingtonpost.com/world/europe/denmark-phaseout-oil-production/2020/12/04/c5559eb4-35b0-11eb-9699-00d311f13d2d_story.html",
-         "title" : "Denmark becomes first major oil-producing nation to set deadline to end extraction - The Washington Post",
          "content" : "Denmarks new rules mean that companies will be almost completely barred from receiving new licenses to search for and extract oil and gas resources. Previously issued licenses will remain valid until… [+5235 chars]",
+         "title" : "Denmark becomes first major oil-producing nation to set deadline to end extraction - The Washington Post",
+         "author" : "Florian Elabdi, Rick Noack",
          "description" : "Environmental activists celebrated the decision as a “watershed moment.”",
-         "source" : {
-            "name" : "The Washington Post",
-            "id" : "the-washington-post"
-         },
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X2EM2IRWEMI6XKMXD5GFHUVHI4.jpg&w=1440"
+         "url" : "https://www.washingtonpost.com/world/europe/denmark-phaseout-oil-production/2020/12/04/c5559eb4-35b0-11eb-9699-00d311f13d2d_story.html"
       },
       {
-         "author" : "Jamie Goldberg | The Oregonian/OregonLive, David Cansler | The Oregonian/OregonLive, Jeff Manning | The Oregonian/OregonLive",
          "url" : "https://www.oregonlive.com/business/2020/12/a-third-of-oregons-paycheck-protection-program-money-went-to-16-of-loan-recipients.html",
-         "title" : "A third of Oregon’s Paycheck Protection Program money went to 1.6% of loan recipients - OregonLive",
-         "publishedAt" : "2020-12-04T14:35:00Z",
          "description" : "Even though the federal program was supposed to be geared toward struggling small businesses, much of the money ended up in the hands of larger companies.",
+         "title" : "A third of Oregon’s Paycheck Protection Program money went to 1.6% of loan recipients - OregonLive",
+         "author" : "Jamie Goldberg | The Oregonian/OregonLive, David Cansler | The Oregonian/OregonLive, Jeff Manning | The Oregonian/OregonLive",
          "content" : "Nearly a third of the $7 billion that Oregon businesses received through the Paycheck Protection Program went to 1,054 companies who account for just 1.6% of the states loan recipients, according to … [+7664 chars]",
+         "publishedAt" : "2020-12-04T14:35:00Z",
+         "urlToImage" : "https://www.oregonlive.com/resizer/a7hnIFFBvrvKbgXxYoeFCZm3AVM=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EBXKP64YMJDPHN6OK6KHE5BMGI.JPG",
          "source" : {
-            "name" : "OregonLive",
-            "id" : null
-         },
-         "urlToImage" : "https://www.oregonlive.com/resizer/a7hnIFFBvrvKbgXxYoeFCZm3AVM=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EBXKP64YMJDPHN6OK6KHE5BMGI.JPG"
+            "id" : null,
+            "name" : "OregonLive"
+         }
       },
       {
-         "publishedAt" : "2020-12-04T14:34:06Z",
          "url" : "https://www.foxbusiness.com/economy/november-jobs-report-2020-coronavirus-pandemic",
-         "author" : "Megan Henney",
-         "title" : "US job growth slows in November as coronavirus surge threatens economic recovery - Fox Business",
-         "content" : "The U.S. economy added just 245,000 jobs in November, sharply missing expectations and pointing to a slowdown in the labor market's recovery from the coronavirus pandemic as a surge of new infections… [+3990 chars]",
          "description" : "The Labor Department's monthly payroll report shows how the nation's job market is recovering from the coronavirus pandemic.",
+         "title" : "US job growth slows in November as coronavirus surge threatens economic recovery - Fox Business",
+         "author" : "Megan Henney",
+         "content" : "The U.S. economy added just 245,000 jobs in November, sharply missing expectations and pointing to a slowdown in the labor market's recovery from the coronavirus pandemic as a surge of new infections… [+3990 chars]",
+         "publishedAt" : "2020-12-04T14:34:06Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/Jobs-22.jpg?ve=1&tl=1",
          "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/Jobs-22.jpg?ve=1&tl=1"
+            "id" : null,
+            "name" : "Fox Business"
+         }
       },
       {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103436397-GettyImages-142585668.jpg?v=1607091155",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103436397-GettyImages-142585668.jpg?v=1607091155",
+         "content" : "The Securities and Exchange Commission has charged and settled with the Cheesecake Factory for misleading investors with its Covid-19 disclosures.\r\nThis is the first time that the regulator has charg… [+1689 chars]",
          "publishedAt" : "2020-12-04T14:19:00Z",
+         "title" : "Cheesecake Factory settles with SEC over misleading Covid risk disclosures, a first for a public company - CNBC",
          "author" : "Amelia Lucas",
          "url" : "https://www.cnbc.com/2020/12/04/cheesecake-factory-settles-with-sec-over-misleading-covid-risk-disclosures.html",
-         "title" : "Cheesecake Factory settles with SEC over misleading Covid risk disclosures, a first for a public company - CNBC",
-         "description" : "The Securities and Exchange Commission has charged and settled with the Cheesecake Factory for misleading investors with its Covid-19 disclosures.",
-         "content" : "The Securities and Exchange Commission has charged and settled with the Cheesecake Factory for misleading investors with its Covid-19 disclosures.\r\nThis is the first time that the regulator has charg… [+1689 chars]"
+         "description" : "The Securities and Exchange Commission has charged and settled with the Cheesecake Factory for misleading investors with its Covid-19 disclosures."
       },
       {
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/2012-Hyundai-Santa-Fe-.2..jpg?ve=1&tl=1",
-         "source" : {
-            "name" : "Fox Business",
-            "id" : null
-         },
-         "description" : "Hyundai is recalling 130,000 vehicles due to a possible engine failure issue. The action comes days after it was fined for delaying safey recalls.",
-         "content" : "A week after being fined by regulators for delaying safety recalls, Hyundai is recalling about 130,000 vehicles in the U.S. because the engines could fail.\r\nThe recall covers certain 2012 Santa Fe SU… [+2131 chars]",
          "url" : "https://www.foxbusiness.com/lifestyle/hyundai-recalling-130000-vehicles-engine-failure",
+         "description" : "Hyundai is recalling 130,000 vehicles due to a possible engine failure issue. The action comes days after it was fined for delaying safey recalls.",
          "title" : "Hyundai recalling 130,000 vehicles for potential engine failure - Fox Business",
          "author" : "Associated Press",
-         "publishedAt" : "2020-12-04T14:10:20Z"
+         "content" : "A week after being fined by regulators for delaying safety recalls, Hyundai is recalling about 130,000 vehicles in the U.S. because the engines could fail.\r\nThe recall covers certain 2012 Santa Fe SU… [+2131 chars]",
+         "publishedAt" : "2020-12-04T14:10:20Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/2012-Hyundai-Santa-Fe-.2..jpg?ve=1&tl=1",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         }
       },
       {
          "source" : {
@@ -189,78 +190,77 @@
          },
          "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/12/Austin_Russell_Luminar.jpg?quality=90&strip=all&w=1200",
          "publishedAt" : "2020-12-04T14:10:00Z",
-         "url" : "https://nypost.com/2020/12/04/luminar-chief-austin-russell-25-is-billionaire-after-ipo/",
+         "content" : "The founder of a startup that helps cars drive themselves just became a billionaire and he’s barely old enough to rent a car on his own.\r\nLuminar Technologies CEO Austin Russell, 25, secured a hefty … [+2319 chars]",
          "title" : "Luminar's 25-year-old founder Austin Russell becomes billionaire after IPO - New York Post ",
          "author" : "Noah Manskar",
          "description" : "The founder of a startup that helps cars drive themselves just became a billionaire — and he’s barely old enough to rent a car on his own. Luminar Technologies CEO Austin Russell, 25, secured…",
-         "content" : "The founder of a startup that helps cars drive themselves just became a billionaire and he’s barely old enough to rent a car on his own.\r\nLuminar Technologies CEO Austin Russell, 25, secured a hefty … [+2319 chars]"
+         "url" : "https://nypost.com/2020/12/04/luminar-chief-austin-russell-25-is-billionaire-after-ipo/"
       },
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106806358-1607089460691-gettyimages-1228437568-PETCO_IPO.jpeg?v=1607093596",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "description" : "Petco Health and Wellness has filed an S-1 to go public again.",
          "content" : "Petco Health and Wellness has filed an S-1 for an initial public offering as consumer spending on pets rises during the coronavirus pandemic.\r\nThe retailer has not yet shared the number of shares ava… [+1429 chars]",
          "publishedAt" : "2020-12-04T14:06:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106806358-1607089460691-gettyimages-1228437568-PETCO_IPO.jpeg?v=1607093596",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
          "url" : "https://www.cnbc.com/2020/12/04/petco-s-1-ipo-filing-drops.html",
+         "description" : "Petco Health and Wellness has filed an S-1 to go public again.",
          "author" : "Amelia Lucas",
          "title" : "Petco has filed to go public as consumers adopt more pets during the pandemic - CNBC"
       },
       {
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "publishedAt" : "2020-12-04T13:56:00Z",
+         "content" : "Sundial Growers Inc. \r\n SNDL,\r\n -10.32%\r\nhas filed a shelf registration to issue up to $200 million in securities. The Canadian cannabis company said it has also filed a preliminary prospectus supple… [+490 chars]",
          "source" : {
             "name" : "MarketWatch",
             "id" : null
          },
-         "content" : "Sundial Growers Inc. \r\n SNDL,\r\n -10.32%\r\nhas filed a shelf registration to issue up to $200 million in securities. The Canadian cannabis company said it has also filed a preliminary prospectus supple… [+490 chars]",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
          "description" : "",
          "url" : "https://www.marketwatch.com/story/canadian-cannabis-company-sundial-growers-files-shelf-for-up-to-200-million-in-securities-2020-12-04",
-         "author" : "Ciara Linnane",
          "title" : "Canadian cannabis company Sundial Growers files shelf for up to $200 million in securities, stock slides - MarketWatch",
-         "publishedAt" : "2020-12-04T13:56:00Z"
+         "author" : "Ciara Linnane"
       },
       {
-         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTcyODczMzEyNTIxNjkyMzU4/nyse.jpg",
+         "description" : "U.S. equity futures bumped higher Friday ahead of a key reading of the U.S. labor market later this morning that could influence both stimulus talks in Washington and the Federal Reserve's rate-setting meeting later this month.",
+         "url" : "https://www.thestreet.com/investing/dow-futures-higher-into-november-jobs-report-dollar-steady",
+         "title" : "Dow Futures Higher After November Jobs Report; COVID Hospitalizations Hit Record High - TheStreet",
+         "author" : "Martin Baccardax",
+         "publishedAt" : "2020-12-04T13:47:00Z",
+         "content" : "<ul><li>Global stocks near record highs as risk appetite improves amid stimulus talk progress in Washington and expected central bank support.</li><li>Lawmakers inch closer to a bi-partisan deal that… [+4535 chars]",
          "source" : {
             "name" : "TheStreet",
             "id" : null
          },
-         "content" : "<ul><li>Global stocks near record highs as risk appetite improves amid stimulus talk progress in Washington and expected central bank support.</li><li>Lawmakers inch closer to a bi-partisan deal that… [+4535 chars]",
-         "description" : "U.S. equity futures bumped higher Friday ahead of a key reading of the U.S. labor market later this morning that could influence both stimulus talks in Washington and the Federal Reserve's rate-setting meeting later this month.",
-         "publishedAt" : "2020-12-04T13:47:00Z",
-         "url" : "https://www.thestreet.com/investing/dow-futures-higher-into-november-jobs-report-dollar-steady",
-         "author" : "Martin Baccardax",
-         "title" : "Dow Futures Higher After November Jobs Report; COVID Hospitalizations Hit Record High - TheStreet"
+         "urlToImage" : "https://www.thestreet.com/.image/t_share/MTcyODczMzEyNTIxNjkyMzU4/nyse.jpg"
       },
       {
-         "publishedAt" : "2020-12-04T13:42:00Z",
+         "author" : "Jeffry Bartash",
          "title" : "The 245,000 new jobs added last month is smallest since U.S. recovery began in May - MarketWatch",
          "url" : "https://www.marketwatch.com/story/the-245-000-new-jobs-added-last-month-is-smallest-since-u-s-recovery-began-in-may-11607089342",
-         "author" : "Jeffry Bartash",
-         "content" : "The numbers: The U.S. regained 245,000 jobs in November and the unemployment rate declined again, but hiring fell to a seven-month low in a clear sign the record rise in coronavirus cases is damaging… [+4872 chars]",
          "description" : "U.S. unemployment rate falls to 6.7% from 6.9%",
+         "urlToImage" : "https://images.mktw.net/im-268325/social",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         },
+         "content" : "The numbers: The U.S. regained 245,000 jobs in November and the unemployment rate declined again, but hiring fell to a seven-month low in a clear sign the record rise in coronavirus cases is damaging… [+4872 chars]",
+         "publishedAt" : "2020-12-04T13:42:00Z"
+      },
+      {
+         "publishedAt" : "2020-12-04T13:36:00Z",
+         "content" : "Moderna Inc. \r\n MRNA,\r\n -2.13%\r\nsaid Friday it is amending its supply agreement with the Israeli health ministry and will provide an additional 4 million doses of its experimental COVID-19 vaccine mR… [+1127 chars]",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "urlToImage" : "https://images.mktw.net/im-268325/social"
-      },
-      {
-         "content" : "Moderna Inc. \r\n MRNA,\r\n -2.13%\r\nsaid Friday it is amending its supply agreement with the Israeli health ministry and will provide an additional 4 million doses of its experimental COVID-19 vaccine mR… [+1127 chars]",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
          "description" : "",
-         "publishedAt" : "2020-12-04T13:36:00Z",
          "url" : "https://www.marketwatch.com/story/moderna-to-provide-israel-health-ministry-with-additional-4-million-doses-of-its-covid-19-vaccine-candidate-2020-12-04",
          "author" : "Ciara Linnane",
-         "title" : "Moderna to provide Israel health ministry with additional 4 million doses of its COVID-19 vaccine candidate - MarketWatch",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         }
+         "title" : "Moderna to provide Israel health ministry with additional 4 million doses of its COVID-19 vaccine candidate - MarketWatch"
       }
    ],
-   "totalResults" : 70,
-   "status" : "ok"
+   "totalResults" : 70
 }
