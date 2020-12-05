@@ -1,143 +1,235 @@
 {
+   "status" : "ok",
    "articles" : [
       {
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtc3RvY2stbWFya2V0LXJhbGx5LW91dGxvb2stYXBwbGUtc3RvY2stZ29vZ2xlLXBheXBhbC1idXktem9uZXMv0gEA?oc=5",
-         "content" : null,
-         "publishedAt" : "2020-12-05T18:17:00Z",
-         "urlToImage" : null,
-         "author" : null,
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
+            "id" : null,
+            "name" : "KSL.com"
          },
+         "description" : "There are 3,674 new test-confirmed cases of COVID-19 and 14 new deaths from the disease Saturday in Utah, according to statistics released by the Utah Department of Health.",
+         "title" : "3674 new COVID-19 cases and 14 deaths reported by Utah health department Saturday - KSL.com",
+         "urlToImage" : "https://img.ksl.com/slc/2802/280287/28028703.jpeg?filter=ksl/responsive_story_lg",
+         "url" : "https://www.ksl.com/article/50061665/3674-new-covid-19-cases-and-14-deaths-reported-by-utah-health-department-saturday",
+         "publishedAt" : "2020-12-05T20:08:21Z",
+         "content" : "SALT LAKE CITY There are 3,674 new test-confirmed cases of COVID-19 and 14 new deaths from the disease Saturday in Utah, according to statistics released by the Utah Department of Health.\r\nThe health… [+4298 chars]",
+         "author" : "https://www.facebook.com/kslcom/"
+      },
+      {
+         "description" : "The father and brother of recently deceased Zappos founder Tony Hsieh have been appointed co-special administrators and legal representatives of the multimillionaire magnate’s fortune.",
+         "source" : {
+            "name" : "Fox Business",
+            "id" : null
+         },
+         "title" : "Zappos founder Tony Hsieh's family granted control of estate, massive fortune - Fox Business",
+         "url" : "https://www.foxbusiness.com/lifestyle/zappos-tony-hsiehs-estate-massive-fortune",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2017/11/0/0/Tony-Hsieh-Zappos.jpg?ve=1&tl=1",
+         "publishedAt" : "2020-12-05T18:56:33Z",
+         "content" : "The father and brother of recently deceased Zappos founder Tony Hsieh have been appointed co-special administrators and legal representatives of the multimillionaire magnate’s fortune, court papers s… [+1917 chars]",
+         "author" : "Stephanie Pagones"
+      },
+      {
+         "author" : "Rachel Koning Beals",
+         "content" : "Tesla Inc. has published its first-ever diversity report, promoting a majority minority U.S. workforce, but the releases details show that 83% of leadership roles are held by men and 59% of those in … [+4057 chars]",
+         "publishedAt" : "2020-12-05T18:48:00Z",
+         "url" : "https://www.marketwatch.com/story/tesla-boasts-a-majority-minority-workforce-but-leadership-is-predominantly-white-and-male-11607194084",
+         "urlToImage" : "https://images.mktw.net/im-268922/social",
+         "title" : "Tesla boasts a 'majority minority' workforce but leadership is predominantly white and male - MarketWatch",
+         "description" : "Elon Musk’s EV and renewable-energy company issues inaugural diversity report, says it will increase recruitment at historically Black schools",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         }
+      },
+      {
+         "description" : "For four years, the Taihuttu family has only used bitcoin to pay for everything from groceries, to car repairs. Here's how they did it.",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "How this family survived 40 countries living solely off bitcoin for four years - CNBC",
+         "publishedAt" : "2020-12-05T18:31:00Z",
+         "url" : "https://www.cnbc.com/2020/12/05/bitcoin-price-buying-bitcoin-how-this-family-buys-sells-everything-in-cryptocurrency.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106806848-1607138396319-istanbul.jpeg?v=1607188485",
+         "author" : "MacKenzie Sigalos",
+         "content" : "At the Kapkule border crossing between Bulgaria and Turkey, bitcoin is not accepted as a form of payment for the mandatory visa application fee. The Taihuttus, however, were not deterred. \r\nThe Dutch… [+5451 chars]"
+      },
+      {
+         "publishedAt" : "2020-12-05T18:21:00Z",
+         "urlToImage" : "https://images.wsj.net/im-268553/social",
+         "url" : "https://www.wsj.com/articles/gene-editing-shows-promise-in-sickle-cell-disease-11607189442",
+         "author" : "Amy Dockser Marcus",
+         "content" : "Drug development for sickle-cell disease, largely overlooked for decades, is becoming a crowded field: Two papers published Saturday in the New England Journal of Medicine report promising results fr… [+1254 chars]",
+         "source" : {
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "description" : "Companies investigate how therapies including Crispr might treat a debilitating genetic disease",
+         "title" : "Gene Editing Shows Promise in Sickle-Cell Disease - The Wall Street Journal"
+      },
+      {
+         "source" : {
+            "id" : null,
+            "name" : "Investor's Business Daily"
+         },
+         "description" : "Dow Jones futures: After another strong week, there are reasons to bullish or cautious about the stock market rally outlook. Apple stock is in a buy zone.",
          "title" : "Market Rally Outlook Pros And Cons; 5 Stocks That Are Buys Now - Investor's Business Daily",
-         "description" : null
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/07/Stock-LadderRisingChart-01-shutt.jpg",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-outlook-apple-stock-google-paypal-buy-zones/",
+         "publishedAt" : "2020-12-05T18:17:00Z",
+         "content" : "Dow Jones futures will begin trading Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally continued last week, with broad-based gains and many leaders delivering … [+8932 chars]",
+         "author" : "Investor's Business Daily"
       },
       {
-         "url" : "https://www.businessinsider.com/bitcoin-all-time-high-5-crypto-experts-digital-asset-bullish-2020-12",
-         "content" : "Jordan Mansfield/Getty Images\r\nBitcoin, the world's most popular cryptocurrency, hit an all-time high of $19,857 this week.\r\nSurging interest in the digital token brought its year-to-date gain to 177… [+3763 chars]",
-         "publishedAt" : "2020-12-05T18:00:00Z",
-         "urlToImage" : "https://images2.markets.businessinsider.com/5fc8022f037cbd001861373f?format=jpeg",
-         "author" : "Shalini Nagarajan",
-         "title" : "'Bet on bitcoin's inevitability': Here's what 5 crypto experts say about its price hitting an all-time high near $20000 this week - Business Insider",
          "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
+            "name" : "Associated Press",
+            "id" : "associated-press"
          },
-         "description" : "Five crypto experts weighed in on its rally, explaining why Bitcoin has room to go higher and how the dollar's weakness will fuel it further."
+         "description" : "INDIANAPOLIS (AP) — Tina Morton recently faced a choice: Pay bills — or buy a birthday gift for a child? Derrisa Green is falling further behind on rent. Sylvia Soliz has had her electricity cut...",
+         "title" : "A bleak outlook for millions facing cutoff of US jobless aid - Associated Press",
+         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/43296553c39a40e9a7142427205c8475/3000.jpeg",
+         "url" : "https://apnews.com/article/ap-top-news-epidemics-coronavirus-pandemic-indiana-restaurants-4df3b250a283043e128124838b39f43d",
+         "publishedAt" : "2020-12-05T18:05:53Z",
+         "content" : "INDIANAPOLIS (AP) Tina Morton recently faced a choice: Pay bills or buy a birthday gift for a child? Derrisa Green is falling further behind on rent. Sylvia Soliz has had her electricity cut off. \r\nU… [+7246 chars]",
+         "author" : "Christopher Rugaber"
       },
       {
+         "content" : "Fresh off of bitcoins record high in late November, leverage funds trading bitcoin futures on the Chicago Mercantile Exchange continue adding to their short positions as the leading cryptocurrency tr… [+1596 chars]",
+         "author" : "Zack Voell",
+         "url" : "https://www.coindesk.com/cme-leveraged-funds-cot-open-interest-bitcoin",
+         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/12/cme-oi-dec.png",
+         "publishedAt" : "2020-12-05T17:37:30Z",
+         "title" : "CME Leveraged Funds Double Down on Shorts as Bitcoin Maintains $19,000 - CoinDesk - CoinDesk",
+         "description" : "Short open interest for leveraged funds grows on CME as likely hedge trades continue to increase.",
+         "source" : {
+            "id" : null,
+            "name" : "CoinDesk"
+         }
+      },
+      {
+         "publishedAt" : "2020-12-05T17:08:56Z",
+         "url" : "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
+         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/zrxtfs0w2gbmty1jqgis.jpg",
+         "author" : "Brianna Provenzano",
+         "content" : "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial in… [+3812 chars]",
          "description" : "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial intelligence ethicist.",
          "source" : {
             "name" : "Gizmodo.com",
             "id" : null
          },
-         "title" : "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru - Gizmodo",
-         "author" : "Brianna Provenzano",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/zrxtfs0w2gbmty1jqgis.jpg",
-         "url" : "https://gizmodo.com/more-than-1-500-google-employees-sign-petition-condemni-1845816400",
-         "content" : "More than 1,500 Google employees and some 2,000 academic, industry, and civil society supporters have signed a petition protesting the termination of Timnit Gebru, a Black scientist and artificial in… [+3812 chars]",
-         "publishedAt" : "2020-12-05T17:08:56Z"
+         "title" : "More Than 1,500 Google Employees Sign Petition Condemning Firing of Black AI Ethicist Timnit Gebru - Gizmodo"
       },
       {
-         "description" : "HARRISBURG, Pa. (WTAJ) — The Pennsylvania Department of Health has confirmed 12,884 new cases of COVID-19 since yesterday’s update, bringing state totals to 411,484 known cases. According to the DOH, 149 additional COVID-19 related deaths have been reported, …",
-         "author" : "WTAJ Staff",
-         "title" : "12,884 new COVID cases reported, 1,089 in our central region on Dec. 5 - WTAJ - www.wearecentralpa.com",
-         "source" : {
-            "name" : "WTAJ - www.wearecentralpa.com",
-            "id" : null
-         },
-         "urlToImage" : "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2020/12/Coronavirus-report-daily.png?w=1280",
          "url" : "https://www.wearecentralpa.com/health/coronavirus/12884-new-covid-cases-reported-1089-in-our-central-region-on-dec-5/",
+         "urlToImage" : "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2020/12/Coronavirus-report-daily.png?w=1280",
          "publishedAt" : "2020-12-05T17:02:00Z",
-         "content" : "HARRISBURG, Pa. (WTAJ) The Pennsylvania Department of Health has confirmed 12,884 new cases of COVID-19 since yesterdays update, bringing state totals to 411,484 known cases.\r\nAccording to the DOH, 1… [+2253 chars]"
+         "content" : "HARRISBURG, Pa. (WTAJ) The Pennsylvania Department of Health has confirmed 12,884 new cases of COVID-19 since yesterdays update, bringing state totals to 411,484 known cases.\r\nAccording to the DOH, 1… [+2253 chars]",
+         "author" : "WTAJ Staff",
+         "description" : "HARRISBURG, Pa. (WTAJ) — The Pennsylvania Department of Health has confirmed 12,884 new cases of COVID-19 since yesterday’s update, bringing state totals to 411,484 known cases. According to the DOH, 149 additional COVID-19 related deaths have been reported, …",
+         "source" : {
+            "id" : null,
+            "name" : "WTAJ - www.wearecentralpa.com"
+         },
+         "title" : "12,884 new COVID cases reported, 1,089 in our central region on Dec. 5 - WTAJ - www.wearecentralpa.com"
       },
       {
-         "publishedAt" : "2020-12-05T16:56:00Z",
-         "url" : "https://www.dailymail.co.uk/news/article-9021137/Elon-Musk-tells-friends-Texas-clashing-California-lawmakers-COVID.html",
-         "content" : "Billionaire tech mogul Elon Musk has reportedly told friends that he plans to move to Texas, after growing weary of high taxes and regulations in California. \r\nThe 49-year-old has been hinting for mo… [+6621 chars]",
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/12/05/15/36480366-0-image-a-12_1607181604803.jpg",
          "title" : "Elon Musk 'tells friends he will move to Texas' after clashing with California lawmakers over COVID - Daily Mail",
+         "description" : "Tesla and SpaceX CEO Elon Musk is said to eyeing a move to Texas that could save him billions in taxes. The 49-year-old fought California lawmakers over Covid19 restrictions",
          "source" : {
             "name" : "Daily Mail",
             "id" : null
          },
+         "content" : "Billionaire tech mogul Elon Musk has reportedly told friends that he plans to move to Texas, after growing weary of high taxes and regulations in California. \r\nThe 49-year-old has been hinting for mo… [+6621 chars]",
          "author" : "By Dailymail.com Reporter",
-         "description" : "Tesla and SpaceX CEO Elon Musk is said to eyeing a move to Texas that could save him billions in taxes. The 49-year-old fought California lawmakers over Covid19 restrictions"
+         "url" : "https://www.dailymail.co.uk/news/article-9021137/Elon-Musk-tells-friends-Texas-clashing-California-lawmakers-COVID.html",
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/12/05/15/36480366-0-image-a-12_1607181604803.jpg",
+         "publishedAt" : "2020-12-05T16:56:00Z"
       },
       {
-         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/12/shutterstock_741025945-gID_1.jpg",
+         "url" : "https://thehill.com/policy/healthcare/528893-fda-vaccine-adviser-says-approval-decision-could-come-within-the-week",
+         "urlToImage" : "https://thehill.com/sites/default/files/coronavirus_vaccine_081320getty_vaccine-q-a.jpg",
+         "publishedAt" : "2020-12-05T16:41:01Z",
+         "content" : "A top vaccine adviser at the Food and Drug Administration (FDA) said the decision on whether to approve a coronavirus vaccine candidate from Pfizer could come within the week.\r\nJames Hildreth, a memb… [+1356 chars]",
+         "author" : "Tal Axelrod",
+         "description" : "A top vaccine adviser at the Food and Drug Administration (FDA) said the decision on whether to a...",
+         "source" : {
+            "id" : "the-hill",
+            "name" : "The Hill"
+         },
+         "title" : "FDA vaccine adviser says approval decision could come within the week | TheHill - The Hill"
+      },
+      {
+         "url" : "https://www.usatoday.com/story/money/cars/2020/12/05/kia-optima-sorento-soul-recall-2020-engine-fire-risk/3838833001/",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/10/20/USAT/247146d4-9675-4649-80cd-193353715284-money-tech-icons_recall_notices.png?crop=1079,607,x0,y228&width=1600&height=800&fit=bounds",
+         "publishedAt" : "2020-12-05T16:31:33Z",
+         "content" : "Don't get stuck in an emergency this winter. Check out these seven essential items for your car.\r\nUSA TODAY\r\nDETROIT   Kia is recalling nearly 295,000 vehicles in the U.S. because the engines can sta… [+2426 chars]",
+         "author" : null,
+         "description" : "Kia is recalling nearly 295,000 vehicles – select Sorento, Forte, Optima Hybrid, Soul and Sportage SUVs – because the engines can stall or catch fire.",
+         "source" : {
+            "name" : "USA Today",
+            "id" : "usa-today"
+         },
+         "title" : "Car recall: Kia recalling nearly 295,000 vehicles due to engine fire risk, including select Sorento, Soul SUVs - USA TODAY"
+      },
+      {
+         "author" : "Will Gottsegen",
          "content" : "In brief\r\n<ul><li>Apple co-founder Steve Wozniak has launched a new company called Efforce.</li><li>Its focused on energy-efficient tech and decentralized networks.</li><li>It's launched a new token:… [+1334 chars]",
-         "url" : "https://decrypt.co/50553/wozniak-efforce-launch",
          "publishedAt" : "2020-12-05T16:09:00Z",
-         "description" : "Apple co-founder Steve Wozniak's new blockchain business has launched a cryptocurrency.",
+         "url" : "https://decrypt.co/50553/wozniak-efforce-launch",
+         "urlToImage" : "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/12/shutterstock_741025945-gID_1.jpg",
          "title" : "Apple Co-Founder Steve Wozniak's Cryptocurrency Takes Off - Decrypt",
+         "description" : "Apple co-founder Steve Wozniak's new blockchain business has launched a cryptocurrency.",
          "source" : {
             "name" : "Decrypt",
             "id" : null
-         },
-         "author" : "Will Gottsegen"
+         }
       },
       {
-         "author" : "Jen Chung",
+         "title" : "Valley region falls below 15% ICU capacity, likely triggering COVID lockdown starting Sunday - Fresno Bee",
+         "description" : null,
          "source" : {
-            "id" : null,
-            "name" : "Gothamist"
+            "id" : "google-news",
+            "name" : "Google News"
          },
-         "title" : "Coronavirus Updates: CDC Recommends Universal Mask Wearing, Even Inside Vulnerable Homes - Gothamist",
-         "description" : "The agency says that there should be state and local mask mandates.",
-         "content" : "This is our daily update of breaking COVID-19 news for Saturday, December 5th, 2020. Previous daily updatescan be found here, andup-to-date statistics are here.\r\nNew York City is inPhase 4 of reopeni… [+3905 chars]",
-         "url" : "http://gothamist.com/news/coronavirus-updates-dec-05-2020",
+         "content" : null,
+         "author" : null,
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiQGh0dHBzOi8vd3d3LmZyZXNub2JlZS5jb20vbmV3cy9jb3JvbmF2aXJ1cy9hcnRpY2xlMjQ3NjI3MTcwLmh0bWzSAUBodHRwczovL2FtcC5mcmVzbm9iZWUuY29tL25ld3MvY29yb25hdmlydXMvYXJ0aWNsZTI0NzYyNzE3MC5odG1s?oc=5",
+         "urlToImage" : null,
+         "publishedAt" : "2020-12-05T15:57:00Z"
+      },
+      {
          "publishedAt" : "2020-12-05T15:45:00Z",
-         "urlToImage" : "https://cms.prod.nypr.digital/images/315359/fill-1200x650/"
-      },
-      {
-         "description" : "The recall comes just a week after Kia and affiliated Korean automaker Hyundai were fined by the U.S. government for allegedly delaying recalls.",
+         "url" : "http://gothamist.com/news/coronavirus-updates-dec-05-2020",
+         "urlToImage" : "https://cms.prod.nypr.digital/images/315359/fill-1200x650/",
+         "author" : "Jen Chung",
+         "content" : "This is our daily update of breaking COVID-19 news for Saturday, December 5th, 2020. Previous daily updatescan be found here, andup-to-date statistics are here.\r\nNew York City is inPhase 4 of reopeni… [+3905 chars]",
+         "description" : "The agency says that there should be state and local mask mandates.",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Gothamist",
+            "id" : null
          },
-         "title" : "Kia recalling 295,000 vehicles due to risk of engine fires - Fox Business",
-         "author" : "Associated Press",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/2746_2012_Sorento.jpg?ve=1&tl=1",
-         "url" : "https://www.foxbusiness.com/lifestyle/kia-recalling-295000-vehicles-due-to-risk-of-engine-fires",
-         "content" : "DETROIT — Kia is recalling nearly 295,000 vehicles in the U.S. because the engines can stall or catch fire.\r\nThe recall comes just a week after Kia and affiliated Korean automaker Hyundai were fined … [+1868 chars]",
-         "publishedAt" : "2020-12-05T15:43:15Z"
+         "title" : "Coronavirus Updates: CDC Recommends Universal Mask Wearing, Even Inside Vulnerable Homes - Gothamist"
       },
       {
-         "content" : "I dont know how it could be as unexpected as it appears to have been, said Tom Nolan, the brands president. We are not getting what we were told we would get when we embarked on our holiday season.\r\n… [+1633 chars]",
-         "url" : "https://www.nytimes.com/2020/12/05/business/ecommerce-shipping-holiday-season.html",
-         "publishedAt" : "2020-12-05T15:32:00Z",
-         "urlToImage" : "https://static01.nyt.com/images/2020/12/06/business/00shipaggedon1/merlin_180465789_21605cd7-748f-4813-9ab2-cfafa0e7f6cb-facebookJumbo.jpg",
-         "author" : "Michael Corkery, Sapna Maheshwari",
-         "title" : "With 3 Billion Packages to Go, Online Shopping Faces Tough Holiday Test - The New York Times",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
-         "description" : "The season is adding pressure on retailers, strained by a pandemic surge in e-commerce and limited by shippers, to deliver gifts on time."
-      },
-      {
-         "description" : "A new study in monkeys suggests that a blood test could predict the effectiveness of a COVID-19 vaccine -- and perhaps speed up the clinical trials needed to...",
-         "title" : "Could a Blood Test Show if a COVID-19 Vaccine Works? - Yahoo News",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
-         "author" : "Carl Zimmer",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/heF0ecXb0kJNKSvhaccpZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2020-12/cf09ff50-3712-11eb-beee-c854a835d6aa",
-         "publishedAt" : "2020-12-05T15:26:00Z",
-         "url" : "https://news.yahoo.com/could-blood-test-show-covid-152621373.html",
-         "content" : "A new study in monkeys suggests that a blood test could predict the effectiveness of a COVID-19 vaccine — and perhaps speed up the clinical trials needed to get a working vaccine to billions of peopl… [+5801 chars]"
+         "description" : "The season is adding pressure on retailers, strained by a pandemic surge in e-commerce and limited by shippers, to deliver gifts on time.",
+         "title" : "With 3 Billion Packages to Go, Online Shopping Faces Tough Holiday Test - The New York Times",
+         "urlToImage" : "https://static01.nyt.com/images/2020/12/06/business/00shipaggedon1/merlin_180465789_21605cd7-748f-4813-9ab2-cfafa0e7f6cb-facebookJumbo.jpg",
+         "url" : "https://www.nytimes.com/2020/12/05/business/ecommerce-shipping-holiday-season.html",
+         "publishedAt" : "2020-12-05T15:32:00Z",
+         "content" : "I dont know how it could be as unexpected as it appears to have been, said Tom Nolan, the brands president. We are not getting what we were told we would get when we embarked on our holiday season.\r\n… [+1633 chars]",
+         "author" : "Michael Corkery, Sapna Maheshwari"
       },
       {
          "title" : "Johns Hopkins Professor Says U.S. COVID Response is Like 'Operation Turtle Speed' - TMZ",
+         "description" : "Operation Warp Speed is a misnomer, according to a Johns Hopkins doctor ... the frustrated doc says it's more like Operation Turtle Speed.",
          "source" : {
             "id" : null,
             "name" : "TMZ"
          },
          "author" : "TMZ Staff",
-         "description" : "Operation Warp Speed is a misnomer, according to a Johns Hopkins doctor ... the frustrated doc says it's more like Operation Turtle Speed.",
          "content" : "Operation Warp Speed is a misnomer, according to a Johns Hopkins doctor ... the frustrated doc says it's more like Operation Turtle Speed.\r\nProfessor Marty Makary is angry the FDA hasn't gone the rou… [+1455 chars]",
          "publishedAt" : "2020-12-05T15:22:00Z",
          "url" : "https://www.tmz.com/2020/12/05/johns-hopkins-professor-marty-makary-slams-fda-operation-turtle-speed-covid-vaccine-slow/",
@@ -145,122 +237,30 @@
       },
       {
          "description" : "Corporate disasters connected to deregulation and undue reliance on self-regulation are depressingly frequent",
-         "title" : "Boeing 737 Max crashes were not isolated events. They're the result of deregulation - Salon",
-         "source" : {
-            "name" : "Salon",
-            "id" : null
-         },
-         "author" : "Joel Bakan",
-         "urlToImage" : "https://media.salon.com/2020/12/boeing-737-max-grounded-1203201.jpg",
-         "url" : "https://www.salon.com/2020/12/05/boeing-737-max-crashes-were-not-isolated-events-theyre-the-result-of-deregulation/",
-         "publishedAt" : "2020-12-05T15:00:00Z",
-         "content" : "The Federal Aviation Administration recently declared the Boeing 737 Max is safe to fly. Still, American consumers are nervous. And they should be. International regulators – from Canada, Europe, Bra… [+4898 chars]"
-      },
-      {
-         "urlToImage" : "https://www.nj.com/resizer/O5UFhpXfrHcRYZC-dkt_SeHlSjs=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GZTW5OSEY5G3FCXC7K4QOHHYCQ.JPG",
-         "url" : "https://www.nj.com/news/2020/12/fbi-is-urging-retests-for-anyone-who-got-coronavirus-tests-at-nj-lab.html",
-         "content" : "If you received a coronavirus test at a certain laboratory in Atlantic County, the FBI is asking that you get retested and to contact the federal agency. But it is not explaining why.\r\nIn a statement… [+1589 chars]",
-         "publishedAt" : "2020-12-05T14:02:00Z",
-         "description" : "Officials have not said why the tests need to be redone.",
          "source" : {
             "id" : null,
-            "name" : "nj.com"
+            "name" : "Salon"
          },
-         "title" : "FBI is urging retests for anyone who got coronavirus tests at N.J. lab - NJ.com",
-         "author" : "The Associated Press"
+         "title" : "Boeing 737 Max crashes were not isolated events. They're the result of deregulation - Salon",
+         "url" : "https://www.salon.com/2020/12/05/boeing-737-max-crashes-were-not-isolated-events-theyre-the-result-of-deregulation/",
+         "urlToImage" : "https://media.salon.com/2020/12/boeing-737-max-grounded-1203201.jpg",
+         "publishedAt" : "2020-12-05T15:00:00Z",
+         "content" : "The Federal Aviation Administration recently declared the Boeing 737 Max is safe to fly. Still, American consumers are nervous. And they should be. International regulators – from Canada, Europe, Bra… [+4898 chars]",
+         "author" : "Joel Bakan"
       },
       {
-         "description" : "Jared Kushner has a month left in the White House. But for some real-estate companies, any association with the Trump advisor or his family is risky.",
-         "author" : "Daniel Geiger, Alex Nicoll",
-         "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
-         },
-         "title" : "Kushner Companies' partners avoid past and present ties - Business Insider",
-         "urlToImage" : "https://i.insider.com/5fcaaebab6a3a800199b6cbf?width=1200&format=jpeg",
-         "url" : "https://www.businessinsider.com/jared-kushner-real-estate-asher-abehsera-cadre-brookfield-kushner-companies-2020-12",
-         "content" : "Asher Abehsera made a name for himself buying and building major real-estate projects in New York City during the past decade, some of them alongside Jared Kushner.\r\nNow that association with Preside… [+7951 chars]",
-         "publishedAt" : "2020-12-05T13:17:26Z"
-      },
-      {
-         "publishedAt" : "2020-12-05T12:14:00Z",
-         "url" : "https://www.cbsnews.com/news/new-stimulus-package-unemployment-benefits/",
-         "content" : "With major federal jobless aid programs slated to expire by year-end, the question is what could replace them as high unemployment continues to afflict the U.S. economy and millions of Americans stru… [+5603 chars]",
-         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/04/9c02944f-e705-4dff-8d92-c1d86502c415/thumbnail/1200x630/b064be23c676c559821ee6a8c739169a/gettyimages-85702602.jpg",
-         "author" : "Aimee Picchi",
-         "title" : "A new stimulus deal is brewing — here's what that could mean for unemployment benefits - CBS News",
-         "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
-         },
-         "description" : "Two bills would offer markedly different levels of support for the 12 million jobless workers about to lose benefits."
-      },
-      {
-         "publishedAt" : "2020-12-05T12:00:00Z",
-         "url" : "https://www.politico.com/news/2020/12/05/covid-19-anti-vaxxers-442984",
-         "content" : "Those likely to confront the issue during the first weeks that vaccines are available include hospitals and health care systems whose high-risk workers will be given priority access to the shots.\r\nTh… [+2765 chars]",
-         "urlToImage" : "https://static.politico.com/48/6b/90da9ea845cc87e8ffa8159017d9/ap20119768412330-1.jpg",
-         "title" : "Vaccine opponents rebrand as rollout of Covid-19 shots looms - POLITICO",
-         "source" : {
-            "id" : "politico",
-            "name" : "Politico"
-         },
-         "author" : "Susannah Luthi",
-         "description" : "Vaccine opponents have forged alliances with religious and civil liberties groups to protest stay-at-home orders, business closures and mask mandates in recent months."
-      },
-      {
-         "publishedAt" : "2020-12-05T12:00:00Z",
-         "content" : "Among other less savory things, 2020 will go down as the year 5G mobility became available to the masses. U.S. telecoms' next-gen networks made nationwide debuts, setting off a new smartphone upgrade… [+6402 chars]",
-         "url" : "https://www.fool.com/investing/2020/12/05/3-5g-stocks-to-buy-in-december/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/603432/semiconductor.jpg",
-         "author" : "Nicholas Rossolillo, Anders Bylund, and Billy Duberstein",
+         "author" : "Katie Brockman",
+         "content" : "Saving for the future is crucial if you want a financially secure retirement. A 401(k) is an incredibly powerful investing tool, and if you have access to one, it can help you build a robust nest egg… [+3101 chars]",
+         "publishedAt" : "2020-12-05T14:15:00Z",
+         "url" : "https://www.fool.com/retirement/2020/12/05/how-do-your-401k-contributions-stack-up-to-the-ave/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/603134/woman-finance-calculator-laptop-notebook.jpg",
+         "title" : "How Do Your 401(k) Contributions Stack Up to the Average Worker in 2020? - The Motley Fool",
+         "description" : "See how your savings compare.",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
-         },
-         "title" : "3 5G Stocks to Buy in December - Motley Fool",
-         "description" : "'Tis the season for 5G upgrading."
-      },
-      {
-         "author" : null,
-         "title" : "Even Before Covid 2,600 People a Week Were Leaving New York City - Bloomberg",
-         "source" : {
-            "id" : "bloomberg",
-            "name" : "Bloomberg"
-         },
-         "description" : null,
-         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=fb105100-371a-11eb-97a7-1d6b8b40c15e&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMi0wNS9ldmVuLWJlZm9yZS1jb3ZpZC0yLTYwMC1wZW9wbGUtYS13ZWVrLXdlcmUtbGVhdmluZy1uZXcteW9yay1jaXR5",
-         "publishedAt" : "2020-12-05T11:00:00Z",
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
-         "urlToImage" : null
-      },
-      {
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "title" : "Tesla publishes its first-ever diversity report revealing leadership is 83% male and 59% White - CNBC",
-         "author" : "Lora Kolodny",
-         "description" : "Tesla published its first-ever diversity report revealing the electric car and renewable energy company's leadership is 83% male and 59% White.",
-         "publishedAt" : "2020-12-05T10:33:00Z",
-         "url" : "https://www.cnbc.com/2020/12/04/tesla-publishes-its-first-diversity-report-here-are-the-key-numbers.html",
-         "content" : "Elon Musk's electric car and renewable energy company published its first-ever diversity report late Friday. It said that Tesla has a \"majority minority\" U.S. workforce overall, but 83% of employees … [+4040 chars]",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106533378-1589287496945gettyimages-1212731006.jpeg?v=1589287555"
-      },
-      {
-         "title" : "Hawaii is offering free round trips to remote workers who want to live there temporarily - CNN",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "author" : "Alaa Elassar, CNN",
-         "description" : "What better way to survive a pandemic than to do it on a beach in Hawaii?",
-         "url" : "https://www.cnn.com/2020/12/05/business/hawaii-free-trip-remote-workers-trnd/index.html",
-         "publishedAt" : "2020-12-05T08:11:00Z",
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201204140319-01-ala-moana-beach-honolulu-july2020-super-tease.jpg"
+         }
       }
    ],
-   "status" : "ok",
    "totalResults" : 70
 }
