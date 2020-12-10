@@ -1,173 +1,253 @@
 {
+   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
+         "publishedAt" : "2020-12-10T01:17:02Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201209191351-spacex-sn8-crash-12-9-super-tease.jpg",
+         "author" : null,
+         "title" : "See this SpaceX rocket's fiery crash landing - CNN",
+         "description" : "SpaceX's Starship prototype crash landed after a test flight. The company hopes the rocket will one day carry people to Mars.",
+         "url" : "https://www.cnn.com/videos/business/2020/12/09/spacex-crash-starship-prototype-gr-orig.cnn",
          "content" : null,
-         "title" : "Over 900 cars paid for each other's meals at a Dairy Queen drive-thru in Minnesota - CNN",
-         "url" : "https://www.cnn.com/2020/12/09/us/pay-it-forward-dairy-queen-trnd/index.html",
-         "description" : "What started as a random act of kindness from one man paying for the car behind him in a Dairy Queen drive-through resulted in over 900 cars also taking part in the pay it forward chain.",
-         "publishedAt" : "2020-12-10T00:25:00Z",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201209113548-pay-it-forward-dairy-queen-trnd-super-tease.jpg",
-         "author" : "Alisha Ebrahimji, CNN"
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         }
       },
       {
-         "author" : null,
-         "urlToImage" : "https://i.ytimg.com/vi/jB7vkLWAO4E/hqdefault.jpg",
-         "publishedAt" : "2020-12-10T00:02:55Z",
-         "description" : "\"It's true that people using market orders took DoorDash to levels that maybe ... were far higher than they thought they'd have paid,\" the \"Mad Money\" host said",
-         "url" : "https://www.youtube.com/watch?v=jB7vkLWAO4E",
-         "title" : "DoorDash debut is a lesson in placing market orders, Jim Cramer says - CNBC Television",
+         "publishedAt" : "2020-12-10T00:57:00Z",
+         "urlToImage" : "https://cnet1.cbsistatic.com/img/Ioh02XXlH6jPxgRPeFZ837bive0=/1200x630/2019/05/16/d158cb95-047a-4d91-8885-c16d9bcb8028/facebook-logo-fingerprints-magnifying-glass.jpg",
+         "author" : "Queenie Wong",
+         "description" : "The social network is under pressure to spin off Instagram and WhatsApp.",
+         "title" : "Facebook should be broken up, FTC and states allege in twin lawsuits - CNET",
+         "url" : "https://www.cnet.com/news/facebook-should-be-broken-up-ftc-and-states-allege-in-twin-lawsuits/",
+         "content" : "Facebook has been facing more scrutiny from US lawmakers and regulators.\r\nGraphic by Pixabay; illustration by CNET\r\nFacebook's purchases of photo-service Instagram and messaging app WhatsApp have hel… [+7274 chars]",
+         "source" : {
+            "name" : "CNET",
+            "id" : null
+         }
+      },
+      {
+         "description" : "This weekend, someone broke into one of the recently-deceased entrepreneur's homes in Park City, Utah.",
+         "url" : "https://www.businessinsider.com/tony-hsieh-emergency-logs-show-concerned-calls-in-park-city-2020-12",
+         "title" : "Tony Hsieh emergency logs show multiple concerned calls in Park City - Business Insider",
+         "content" : "Newly-obtained emergency call logs help fill out the last months of Tony Hsieh's life in Park City, Utah, where the tech entrepreneur had relocated during this summer amid the pandemic, surrounding b… [+4587 chars]",
+         "publishedAt" : "2020-12-10T00:45:00Z",
+         "urlToImage" : "https://i.insider.com/5fd1645e30f2740018b0ef90?width=1200&format=jpeg",
+         "author" : "Meghan Morris",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         }
+      },
+      {
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "publishedAt" : "2020-12-10T00:25:00Z",
+         "author" : "Alisha Ebrahimji, CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201209113548-pay-it-forward-dairy-queen-trnd-super-tease.jpg",
+         "title" : "Over 900 cars paid for each other's meals at a Dairy Queen drive-thru in Minnesota - CNN",
+         "description" : "What started as a random act of kindness from one man paying for the car behind him in a Dairy Queen drive-through resulted in over 900 cars also taking part in the pay it forward chain.",
+         "url" : "https://www.cnn.com/2020/12/09/us/pay-it-forward-dairy-queen-trnd/index.html",
+         "content" : null
+      },
+      {
+         "title" : "Jim Cramer: Is the market just one big game of Jenga? - CNBC Television",
+         "url" : "https://www.youtube.com/watch?v=bR1UaBEfcXg",
+         "description" : "\"After a remarkable, borderline miraculous run for the broader market, a piece had been pulled that sent the a big chunk of the thing tumbling down,\" the \"Ma...",
          "content" : null,
+         "publishedAt" : "2020-12-10T00:11:58Z",
+         "urlToImage" : "https://i.ytimg.com/vi/bR1UaBEfcXg/hqdefault.jpg",
+         "author" : null,
+         "source" : {
+            "id" : null,
+            "name" : "YouTube"
+         }
+      },
+      {
+         "publishedAt" : "2020-12-10T00:08:08Z",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/DBbClGN2dGCiY_8N_RcOBUWltT4=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22031704/jbareham_201112_0906_sony_crunchyroll.jpg",
+         "author" : "D. M. Moore",
+         "description" : "The anime industry has changed forever, with the acquisition of Crunchyroll, originally an AT&T and WarnerMedia property, by Sony’s anime simulcast destination Funimation. Here’s what it could mean for watching anime in America and beyond.",
+         "title" : "Sony’s Funimation buys Crunchyroll for $1.2 billion — what happens now? - Polygon",
+         "url" : "https://www.polygon.com/2020/12/9/21547657/sonys-funimation-acquires-crunchyroll-deal-price-watching-anime",
+         "content" : "On Wednesday, Sony Pictures Entertainment Inc. announced that AT&amp;T and WarnerMedia agreed to sell Crunchyroll to Funimation. Though there had been rumblings of the acquisition for a few weeks, it… [+6706 chars]",
+         "source" : {
+            "id" : "polygon",
+            "name" : "Polygon"
+         }
+      },
+      {
+         "author" : "Salvador Rodriguez",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106794062-1605189154285-gettyimages-652988834-AIRBNB_CHESKY.jpeg?v=1607557141",
+         "publishedAt" : "2020-12-09T23:59:00Z",
+         "content" : "Airbnb, the company that allows users to book short-term rentals and experiences while traveling, sold shares in its IPO at $68, pricing above its range, according to people familiar with the matter.… [+2037 chars]",
+         "description" : "Airbnb, the company that allows users to book short-term rentals and experiences while traveling, sold shares in its IPO at $68, pricing above its range, according to people familiar with the matter.",
+         "title" : "Airbnb sells shares at $68 in IPO, pricing above range - CNBC",
+         "url" : "https://www.cnbc.com/2020/12/09/airbnb-sells-shares-at-68-in-ipo-pricing-above-range.html",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         }
+      },
+      {
+         "urlToImage" : "https://i.ytimg.com/vi/0S0B3hnOh-U/hqdefault.jpg",
+         "author" : null,
+         "publishedAt" : "2020-12-09T23:41:58Z",
+         "content" : null,
+         "title" : "SpaceX prototype Starship rocket SN8 explodes during test flight - CNBC Television",
+         "description" : "The SpaceX prototype Starship rocket SN8 exploded today on impact after a high-altitude test flight.",
+         "url" : "https://www.youtube.com/watch?v=0S0B3hnOh-U",
+         "source" : {
+            "id" : null,
+            "name" : "YouTube"
+         }
+      },
+      {
+         "publishedAt" : "2020-12-09T23:41:53Z",
+         "author" : "associated-press",
+         "urlToImage" : "https://www.boston.com/wp-content/uploads/2020/12/maine-5fd15e34a9d69-850x478.jpg",
+         "title" : "A Maine farm no one has heard of received $1.2 million PPP loan - Boston.com",
+         "url" : "https://www.boston.com/news/coronavirus/2020/12/09/a-maine-farm-no-one-has-heard-of-received-1-2-million-ppp-loan",
+         "description" : "The loan raised suspicion when it was discovered in a database of Maine companies that received loans larger than $150,000.",
+         "content" : "BRIDGTON, Maine (AP) A Paycheck Protection Program loan for nearly $1.2 million issued to an organic farm operator allegedly located in western Maine has raised suspicion after a massive disclosure o… [+2212 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Boston.com"
+         }
+      },
+      {
+         "title" : "Dr. Fauci Warns Those With Underlying Allergic Tendencies Prone To Covid Vaccine Reactions - NBC News",
+         "description" : "The nation’s leading infectious disease expert Dr. Fauci spoke about reactions to the Covid-19 vaccine after two people in the U.K. received the Pfizer vacci...",
+         "url" : "https://www.youtube.com/watch?v=Ozk594EtwcE",
+         "content" : null,
+         "publishedAt" : "2020-12-09T23:29:48Z",
+         "urlToImage" : "https://i.ytimg.com/vi/Ozk594EtwcE/maxresdefault.jpg",
+         "author" : null,
          "source" : {
             "name" : "YouTube",
             "id" : null
          }
       },
       {
-         "author" : "Patrick Thomas",
-         "publishedAt" : "2020-12-09T23:04:00Z",
-         "urlToImage" : "https://images.wsj.net/im-270121/social",
-         "description" : "Tesla’s chief executive blames business schools for lack of innovation; deans are firing back",
-         "url" : "https://www.wsj.com/articles/elon-musk-decries-m-b-a-ization-of-america-11607548589",
-         "title" : "Elon Musk Decries ‘M.B.A.-ization’ of America - The Wall Street Journal",
-         "content" : "What is wrong with American corporations? Elon Musk says too many M.B.A.s. are polluting companies ability to think creatively and give customers what they really want.\r\nHis comments criticizing M.B.… [+1144 chars]",
+         "url" : "https://www.cnbc.com/2020/12/09/stock-market-futures-open-to-close-news.html",
+         "title" : "U.S. stock futures rise slightly after falling from record highs as stimulus talks stall - CNBC",
+         "description" : "U.S. stock futures were little changed in overnight trading on Wednesday.",
+         "content" : "U.S. stock index futures were slightly higher in overnight trading on Wednesday as investors continued to assess progress on additional stimulus measures, as well as developments on the Covid-19 vacc… [+2792 chars]",
+         "publishedAt" : "2020-12-09T23:03:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106790022-1605019111795-Trading_Floor-Photo-201106-099.jpg?v=1605098531",
+         "author" : "Pippa Stevens",
          "source" : {
-            "name" : "The Wall Street Journal",
-            "id" : "the-wall-street-journal"
+            "name" : "CNBC",
+            "id" : null
          }
       },
       {
-         "publishedAt" : "2020-12-09T23:03:00Z",
-         "urlToImage" : "https://media.wired.com/photos/5fce82441bc4cd1b8770ad89/191:100/w_1280,c_limit/Science_starship_RTX8DC9D.jpg",
-         "author" : "Daniel Oberhaus",
-         "description" : "The test flight didn’t come close to the edge of space, but the prototype was a big step toward the rocket’s first orbital mission.",
-         "url" : "https://www.wired.com/story/spacex-launches-and-crashes-its-starship-mars-rocket/",
-         "content" : "The Raptor engines operate at extremely high pressures, and managing these extraordinary operating conditions has been a challenge for SpaceX. Over the past year, the company has lost several Starshi… [+2730 chars]",
+         "description" : "<p>“Unfortunately yet again, Tahoe is closed,” said Chris Fiore, communications manager for the city of South Lake Tahoe. “If we can get things under control in the next three weeks, we can reopen just in time for New Year’s.”</p>",
+         "title" : "Lake Tahoe is shutting down to tourists on Friday - San Francisco Chronicle",
+         "url" : "https://www.sfchronicle.com/travel/article/Lake-Tahoe-is-shutting-down-to-tourists-on-Friday-15789381.php",
+         "content" : "For more stories like this, check out The Chronicle’s weekly Travel newsletter!Sign up here.\r\nVacation travel to Lake Tahoe will be banned for at least three weeks starting Friday due to a regional r… [+5609 chars]",
+         "publishedAt" : "2020-12-09T22:46:00Z",
+         "author" : "Gregory Thomas",
+         "urlToImage" : "https://s.hdnux.com/photos/01/15/31/60/20290618/14/rawImage.jpg",
          "source" : {
-            "id" : "wired",
-            "name" : "Wired"
-         },
-         "title" : "SpaceX Launches—and Crashes—Its Starship Mars Rocket - WIRED"
+            "name" : "San Francisco Chronicle",
+            "id" : null
+         }
       },
       {
-         "url" : "https://www.cnbc.com/2020/12/09/stock-market-futures-open-to-close-news.html",
-         "content" : "U.S. stock index futures were slightly higher in overnight trading on Wednesday as investors continued to assess progress on additional stimulus measures, as well as developments on the Covid-19 vacc… [+2792 chars]",
+         "content" : "Orlando International Airport will soon offer COVID-19 testing on-site as part of increased measures to ensure traveler safety during the ongoing pandemic.\r\nThe pilot program is part of a collaborati… [+518 chars]",
+         "url" : "https://wdwnt.com/2020/12/orlando-international-airport-mco-to-begin-offering-on-site-covid-19-testing-later-this-month/",
+         "title" : "Orlando International Airport (MCO) to Begin Offering On-Site COVID-19 Testing Later This Month - wdwnt.com",
+         "description" : "A daily-updated resource for news and information on the Disney resort around the world.",
+         "author" : null,
+         "urlToImage" : "https://sir.wdwnt.com/wdwnt.com/2020/12/orlando-international-airport-mco-2995966.jpg",
+         "publishedAt" : "2020-12-09T22:23:52Z",
+         "source" : {
+            "id" : null,
+            "name" : "wdwnt.com"
+         }
+      },
+      {
+         "urlToImage" : "https://images.mktw.net/im-269891/social",
+         "author" : "Chris Matthews",
+         "publishedAt" : "2020-12-09T22:13:00Z",
+         "content" : "The Securities and Exchange Commission announced Wednesday that General Electric Co. \r\n GE,\r\n +3.92%\r\nhas agreed to pay a $200 million penalty to settle charges for misleading investors regarding the… [+835 chars]",
+         "title" : "General Electric agrees to pay $200 million fine for misleading investors, SEC says - MarketWatch",
+         "description" : "",
+         "url" : "https://www.marketwatch.com/story/general-electric-agrees-to-pay-200-million-fine-for-misleading-investors-sec-says-11607552028",
+         "source" : {
+            "name" : "MarketWatch",
+            "id" : null
+         }
+      },
+      {
+         "url" : "https://www.marketwatch.com/story/starbucks-stock-rises-after-retailers-guidance-calls-for-significant-2021-rebound-2020-12-09",
+         "title" : "Starbucks stock rises after retailer's guidance calls for 'significant' 2021 rebound - MarketWatch",
+         "description" : "",
+         "content" : "Shares of Starbucks Corp. \r\n SBUX,\r\n -0.80%\r\nrose more than 4% in the extended session Wednesday after the retailer reiterated its guidance for next year and said that it is counting on a \"significan… [+855 chars]",
+         "publishedAt" : "2020-12-09T21:51:00Z",
+         "author" : "Claudia Assis",
+         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         }
+      },
+      {
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "url" : "https://www.fool.com/investing/2020/12/09/why-tesla-stock-fell-sharply-on-wednesday/",
+         "title" : "Why Tesla Stock Fell Sharply on Wednesday - Motley Fool",
+         "description" : "The electric-car maker's shares pulled back after hitting record highs earlier this week.",
+         "content" : "What happened\r\nShares of electric-car maker Tesla(NASDAQ:TSLA) took a hit on Wednesday, falling 7% by the time the market closed.\r\nThe stock's decline was likely driven primarily by a bearish day in … [+1440 chars]",
+         "publishedAt" : "2020-12-09T21:48:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/604399/why-tesla-stock-is-down.jpg",
+         "author" : "Daniel Sparks"
+      },
+      {
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "title" : "Boeing’s 737 Max is back in service - The Verge",
+         "description" : "Brazil’s Gol Airlines became the first airline to put the troubled 737 Max into commercial service in more than 20 months. The Federal Aviation Administration cleared the plane to fly again in November 2020. The 737 Max had been grounded since March 2019 foll…",
+         "url" : "https://www.theverge.com/2020/12/9/22165956/boeing-737-max-flight-brazil-gol-airlines",
+         "content" : "The troubled plane returns to the skies nearly two years after a pair of deadly crashes\r\nPhoto by Silvio Avila / AFP via Getty Images\r\nBoeings troubled 737 Max made its first commercial flight since … [+2182 chars]",
+         "publishedAt" : "2020-12-09T21:40:28Z",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/0xPS5Si7I7rn1oIHhRsKwb3APYI=/0x206:2518x1524/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22157975/1230028671.jpg",
+         "author" : "Sean O'Kane"
+      },
+      {
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
+         "content" : "What happened\r\nThe waters were placid in early morning trading on Wednesday. Then, seemingly out of nowhere, shares of Carnival Corporation(NYSE:CCL)(NYSE:CUK), Royal Caribbean(NYSE:RCL), and Norwegi… [+4676 chars]",
+         "title" : "Why Carnival, Royal Caribbean, and Norwegian Cruise Line Stocks Suddenly Dropped Today - Motley Fool",
+         "description" : "There was bad news for the cruise industry today, but cruise ship stocks didn't start falling until this happened.",
+         "url" : "https://www.fool.com/investing/2020/12/09/why-carnival-royal-caribbean-and-norwegian-cruise/",
+         "author" : "Jon Quast",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/604361/broken-red-down-arrow.jpg",
+         "publishedAt" : "2020-12-09T21:40:00Z"
+      },
+      {
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "title" : "U.S. stock futures rise slightly after falling from record highs as stimulus talks stall - CNBC",
-         "publishedAt" : "2020-12-09T23:03:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106790022-1605019111795-Trading_Floor-Photo-201106-099.jpg?v=1605098531",
-         "author" : "Pippa Stevens",
-         "description" : "U.S. stock futures were little changed in overnight trading on Wednesday."
-      },
-      {
-         "description" : "The food delivery company (virtually) rings the opening bell on Wall Street with an 85% jump in share price.",
-         "author" : "Dara Kerr",
-         "urlToImage" : "https://cnet4.cbsistatic.com/img/v4k1BTNpui6cw8f2t_7ati76wgI=/1200x630/2020/12/09/823187dc-5bcc-46c2-8166-dadf762291f1/gettyimages-1229911277.jpg",
-         "publishedAt" : "2020-12-09T22:29:00Z",
-         "title" : "DoorDash IPO sees stock take off on first day of trading - CNET",
-         "content" : "DoorDash, the biggest US food delivery company, began trading on Wall Street on Wednesday.\r\nGabby Jones/Getty Images\r\nDoorDash saw its share price skyrocket by more than 85% on the New York Stock Exc… [+2843 chars]",
-         "source" : {
-            "name" : "CNET",
-            "id" : null
-         },
-         "url" : "https://www.cnet.com/news/doordash-ipo-sees-stock-take-off-on-first-day-of-trading/"
-      },
-      {
-         "description" : "The allergic reactions reported by U.K. health-care workers vaccinated against Covid-19 shouldn't be a surprise, some medical experts said on Wednesday.",
-         "publishedAt" : "2020-12-09T22:29:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106807763-16074332922020-12-08t123316z_1123259786_rc20jk91l78u_rtrmadp_0_health-coronavirus-britain-rollout.jpeg?v=1607433330",
-         "author" : "Noah Higgins-Dunn",
-         "content" : "The two allergic reactions reported by U.K. health-care workers vaccinated against Covid-19 will likely be scrutinized by the Food and Drug Administration as it decides whether to authorize Pfizer's … [+4395 chars]",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "title" : "FDA will likely scrutinize allergic reactions to Pfizer's Covid vaccine in UK before clearing use in U.S., Trump vaccine chief says - CNBC",
-         "url" : "https://www.cnbc.com/2020/12/09/covid-vaccine-fda-will-likely-scrutinize-allergic-reactions-to-pfizers-vaccine-in-uk-before-clearing-use-in-us.html"
-      },
-      {
-         "urlToImage" : "https://images.mktw.net/im-269891/social",
-         "publishedAt" : "2020-12-09T22:13:00Z",
-         "author" : "Chris Matthews",
-         "description" : "",
-         "url" : "https://www.marketwatch.com/story/general-electric-agrees-to-pay-200-million-fine-for-misleading-investors-sec-says-11607552028",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "content" : "The Securities and Exchange Commission announced Wednesday that General Electric Co. \r\n GE,\r\n +3.92%\r\nhas agreed to pay a $200 million penalty to settle charges for misleading investors regarding the… [+835 chars]",
-         "title" : "General Electric agrees to pay $200 million fine for misleading investors, SEC says - MarketWatch"
-      },
-      {
-         "title" : "Starbucks stock rises after retailer's guidance calls for 'significant' 2021 rebound - MarketWatch",
-         "content" : "Shares of Starbucks Corp. \r\n SBUX,\r\n -0.80%\r\nrose more than 4% in the extended session Wednesday after the retailer reiterated its guidance for next year and said that it is counting on a \"significan… [+855 chars]",
-         "source" : {
-            "name" : "MarketWatch",
-            "id" : null
-         },
-         "url" : "https://www.marketwatch.com/story/starbucks-stock-rises-after-retailers-guidance-calls-for-significant-2021-rebound-2020-12-09",
-         "description" : "",
-         "author" : "Claudia Assis",
-         "urlToImage" : "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-         "publishedAt" : "2020-12-09T21:51:00Z"
-      },
-      {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/604399/why-tesla-stock-is-down.jpg",
-         "publishedAt" : "2020-12-09T21:48:00Z",
-         "author" : "Daniel Sparks",
-         "description" : "The electric-car maker's shares pulled back after hitting record highs earlier this week.",
-         "url" : "https://www.fool.com/investing/2020/12/09/why-tesla-stock-fell-sharply-on-wednesday/",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "content" : "What happened\r\nShares of electric-car maker Tesla(NASDAQ:TSLA) took a hit on Wednesday, falling 7% by the time the market closed.\r\nThe stock's decline was likely driven primarily by a bearish day in … [+1440 chars]",
-         "title" : "Why Tesla Stock Fell Sharply on Wednesday - Motley Fool"
-      },
-      {
-         "publishedAt" : "2020-12-09T21:40:28Z",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/0xPS5Si7I7rn1oIHhRsKwb3APYI=/0x206:2518x1524/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22157975/1230028671.jpg",
-         "author" : "Sean O'Kane",
-         "description" : "Brazil’s Gol Airlines became the first airline to put the troubled 737 Max into commercial service in more than 20 months. The Federal Aviation Administration cleared the plane to fly again in November 2020. The 737 Max had been grounded since March 2019 foll…",
-         "url" : "https://www.theverge.com/2020/12/9/22165956/boeing-737-max-flight-brazil-gol-airlines",
-         "source" : {
-            "name" : "The Verge",
-            "id" : "the-verge"
-         },
-         "content" : "The troubled plane returns to the skies nearly two years after a pair of deadly crashes\r\nPhoto by Silvio Avila / AFP via Getty Images\r\nBoeings troubled 737 Max made its first commercial flight since … [+2182 chars]",
-         "title" : "Boeing’s 737 Max is back in service - The Verge"
-      },
-      {
-         "description" : "There was bad news for the cruise industry today, but cruise ship stocks didn't start falling until this happened.",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/604361/broken-red-down-arrow.jpg",
-         "publishedAt" : "2020-12-09T21:40:00Z",
-         "author" : "Jon Quast",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "content" : "What happened\r\nThe waters were placid in early morning trading on Wednesday. Then, seemingly out of nowhere, shares of Carnival Corporation(NYSE:CCL)(NYSE:CUK), Royal Caribbean(NYSE:RCL), and Norwegi… [+4676 chars]",
-         "title" : "Why Carnival, Royal Caribbean, and Norwegian Cruise Line Stocks Suddenly Dropped Today - Motley Fool",
-         "url" : "https://www.fool.com/investing/2020/12/09/why-carnival-royal-caribbean-and-norwegian-cruise/"
-      },
-      {
+         "title" : "PubMatic, a 14-year-old ad tech company, pops nearly 50% on IPO - CNBC",
+         "description" : "Ad-tech company PubMatic shares popped after the company launched its initial public offering Wednesday. Here's why the company went public now.",
          "url" : "https://www.cnbc.com/2020/12/09/pubmatic-an-ad-tech-company-pops-nearly-50percent-on-debut-.html",
          "content" : "Ad-tech company PubMatic shares popped after the company launched its initial public offering Wednesday.\r\nPubMatic, which runs a sell-side advertising platform that runs real-time programmatic ad tra… [+6099 chars]",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "title" : "PubMatic, a 14-year-old ad tech company, pops nearly 50% on IPO - CNBC",
          "publishedAt" : "2020-12-09T21:33:00Z",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106808936-1607551167987-Eoz2VRBXIAEbDgb.jpg?v=1607551252",
-         "author" : "Megan Graham",
-         "description" : "Ad-tech company PubMatic shares popped after the company launched its initial public offering Wednesday. Here's why the company went public now."
+         "author" : "Megan Graham"
       },
       {
          "source" : {
@@ -175,92 +255,12 @@
             "name" : "Ars Technica"
          },
          "content" : "19 with 16 posters participating\r\nView more stories\r\nInformation relating to the one of the most promising coronavirus vaccines has been unlawfully accessed following a hack on the European regulator… [+3233 chars]",
+         "description" : "Hack of the European Medicines Agency affects vaccine from Pfizer and BioNTech.",
          "title" : "COVID-19 vaccine data has been unlawfully accessed in hack of EU regulator - Ars Technica",
          "url" : "https://arstechnica.com/information-technology/2020/12/hackers-unlawfully-access-data-related-to-promising-covid-19-vaccines/",
-         "description" : "Hack of the European Medicines Agency affects vaccine from Pfizer and BioNTech.",
          "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/12/vaccine-research-760x380.jpg",
-         "publishedAt" : "2020-12-09T21:19:00Z",
-         "author" : "Dan Goodin"
-      },
-      {
-         "description" : "Starbucks said Wednesday that it expects to hit its long-term growth targets in 2023 and 2024, with adjusted earnings per share growth of 10% to 12%.",
-         "publishedAt" : "2020-12-09T21:14:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106768131-1603970796640-gettyimages-1277493259-nng_9052_20200929114256841.jpeg?v=1607542553",
-         "author" : "Amelia Lucas",
-         "content" : "As the world prepares to distribute coronavirus vaccines, Starbucks is projecting a strong rebound to demand for its coffee by 2022.\r\nCFO Pat Grismer reiterated the company's fiscal 2021 forecast of … [+2320 chars]",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "title" : "Starbucks shares jump as coffee chain predicts strong rebound next year - CNBC",
-         "url" : "https://www.cnbc.com/2020/12/09/starbucks-sees-long-term-adjusted-earnings-per-share-rising-10percent-to-12percent.html"
-      },
-      {
-         "urlToImage" : "https://deadline.com/wp-content/uploads/2020/12/AP_20276429296664.jpg?w=1024",
-         "publishedAt" : "2020-12-09T21:02:00Z",
-         "author" : "Tom Tapp",
-         "description" : "The long talked about “surge on top of a surge” seems to have arrived in California. For weeks state, local and national health officials such as Dr. Anthony Fauci had warned about already elevated Covid-19 numbers could be overtopped by a surge related to Th…",
-         "url" : "https://deadline.com/2020/12/california-counties-out-of-icu-capacity-covid-19-surge-on-top-of-a-surge-deaths-spike-record-case-numbers-1234653232/",
-         "content" : "The long talked about “surge on top of a surge” seems to have arrived in California.\r\nFor weeks state, local and national health officials such as Dr. Anthony Fauci had warned about already elevated … [+2328 chars]",
-         "source" : {
-            "name" : "Deadline",
-            "id" : null
-         },
-         "title" : "California Counties Run Out Of ICU Capacity; Predicted Covid-19 “Surge On Top Of A Surge” Hits; Deaths Spike Dramatically - Deadline"
-      },
-      {
-         "author" : "James Leggate",
-         "publishedAt" : "2020-12-09T21:01:41Z",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Delta-Airlines-iStock-2.jpg",
-         "description" : "Airlines are taking their mask requirements seriously, even if some passengers don’t get it.",
-         "url" : "https://www.foxnews.com/travel/delta-air-lines-passengers-no-fly-list-covid-19-mask-rules",
-         "title" : "Delta Air Lines puts 700 passengers on no-fly list over COVID-19 mask rules - Fox News",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "content" : "Airlines are taking their mask requirements seriously, even if some passengers don’t get it.\r\nDelta Air Lines has added nearly 700 passengers to its no-fly list for refusing to comply with its mandat… [+2768 chars]"
-      },
-      {
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/stay-at-home-order-map-1607091318.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-         "publishedAt" : "2020-12-09T20:50:00Z",
-         "author" : "KCRA Staff",
-         "description" : "Here are answers to some questions, based on what we know so far about the states latest system for COVID-19 restrictions.",
-         "url" : "https://www.kcra.com/article/california-regional-stay-at-home-shutdown-covid-restrictions/34921174",
-         "source" : {
-            "name" : "KCRA Sacramento",
-            "id" : null
-         },
-         "content" : "SACRAMENTO, Calif. —California Gov. Gavin Newsoms new stay-at-home order affects five regions with less than 15% availability at intensive care units. The new COVID restrictions last for three weeks … [+3620 chars]",
-         "title" : "California regional stay-at-home order restrictions: What's open, what's closed - KCRA Sacramento"
-      },
-      {
-         "content" : null,
-         "source" : {
-            "id" : null,
-            "name" : "YouTube"
-         },
-         "title" : "A former NSA hacker breaks down the FireEye hack - CNBC Television",
-         "url" : "https://www.youtube.com/watch?v=StdlrqB86bw",
-         "description" : "Cybersecurity firm FireEye is down more than 12 percent today after it announced a hack of its data and tools. David Kennedy, TrustedSec founder and CEO and ...",
-         "urlToImage" : "https://i.ytimg.com/vi/StdlrqB86bw/hqdefault.jpg",
-         "publishedAt" : "2020-12-09T20:32:57Z",
-         "author" : null
-      },
-      {
-         "title" : "Supreme Court: Alito is a voice of reason in Fannie Mae housing case - Vox.com",
-         "source" : {
-            "id" : null,
-            "name" : "Vox"
-         },
-         "content" : "Its hard to exaggerate just how much is at stake in Collins v. Mnuchin, a case that the Supreme Court heard on Wednesday. The plaintiffs in that case raise a $124 billion claim against the federal go… [+13066 chars]",
-         "url" : "https://www.vox.com/2020/12/9/22165338/supreme-court-collins-mnuchin-samuel-alito-housing-fhfa-unitary-executive",
-         "description" : "The Court’s most loyal Republican appears to recognize that throwing the economy into chaos would be bad.",
-         "author" : "Ian Millhiser",
-         "publishedAt" : "2020-12-09T20:30:00Z",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-pK3JT5OIUCrO3pTw1rj9xBWdtY=/0x392:5472x3257/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22158057/1134321311.jpg"
+         "author" : "Dan Goodin",
+         "publishedAt" : "2020-12-09T21:19:00Z"
       }
-   ],
-   "totalResults" : 70,
-   "status" : "ok"
+   ]
 }
