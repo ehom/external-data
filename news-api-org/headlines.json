@@ -3,263 +3,263 @@
    "articles" : [
       {
          "description" : "Elon Musk revealed he had moved to Texas earlier this week.",
-         "url" : "https://arstechnica.com/tech-policy/2020/12/oracle-joins-silicon-valleys-texas-exodus/",
-         "publishedAt" : "2020-12-12T15:30:00Z",
+         "source" : {
+            "name" : "Ars Technica",
+            "id" : "ars-technica"
+         },
+         "title" : "Oracle joins Silicon Valley’s Texas exodus - Ars Technica",
          "author" : "Timothy B. Lee",
-         "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
-         },
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1228096101-760x380.jpg",
          "content" : "Enlarge/ Oracle's previous headquarters in Redwood City, California.\r\n47 with 31 posters participating\r\nOracle is moving its global headquarters from Silicon Valley to Austin, Texas, the company anno… [+1950 chars]",
-         "title" : "Oracle joins Silicon Valley’s Texas exodus - Ars Technica"
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1228096101-760x380.jpg",
+         "url" : "https://arstechnica.com/tech-policy/2020/12/oracle-joins-silicon-valleys-texas-exodus/",
+         "publishedAt" : "2020-12-12T15:30:00Z"
       },
       {
-         "title" : "Will Elon Musk's move to Texas affect Tesla brand? - CNN",
-         "content" : null,
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201208234855-elon-musk-file-super-tease.jpg",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "author" : null,
-         "publishedAt" : "2020-12-12T15:07:51Z",
-         "url" : "https://www.cnn.com/videos/business/2020/12/12/will-elon-musks-move-to-texas-affect-tesla-brand.cnn",
-         "description" : "Could Elon Musk's relocation from California to Texas impact his brand? Will he lose his progressive base or win over conservatives?"
-      },
-      {
-         "publishedAt" : "2020-12-12T15:00:00Z",
-         "author" : "Charlie Wood",
-         "url" : "https://www.cnbc.com/2020/12/12/amazon-panasonic-preparing-for-demand-of-battery-recycling.html",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "description" : "Amazon, Panasonic and recycling start-ups are preparing for a tsunami of demand for battery recycling as the electric car market grows.",
-         "title" : "Amazon, Panasonic, and recycling start-ups prepare for battery wave tsunami - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106810159-1607713771736-RedwoodMaterials-5776.jpg?v=1607714319",
-         "content" : "Inside every smartphone and tablet lies a dense brick with a dark and complex history: its battery. The lithium that ferries charge back and forth likely started out in South American salt flats, whe… [+8715 chars]"
-      },
-      {
-         "title" : "The 30 retailers and restaurant chains that filed for bankruptcy in 2020 - CNN",
-         "content" : "By Jordan Valinsky, CNN Business\r\nUpdated 9:27 AM ET, Sat December 12, 2020\r\nNew York (CNN Business)There's no way to sugarcoat it: 2020 was a brutal year for restaurants and stores. The pandemic, ma… [+10071 chars]",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200519095110-pier-1-imports-closing-0218-super-tease.jpg",
          "source" : {
             "name" : "CNN",
             "id" : "cnn"
          },
+         "title" : "Will Elon Musk's move to Texas affect Tesla brand? - CNN",
+         "content" : null,
+         "author" : null,
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201208234855-elon-musk-file-super-tease.jpg",
+         "url" : "https://www.cnn.com/videos/business/2020/12/12/will-elon-musks-move-to-texas-affect-tesla-brand.cnn",
+         "publishedAt" : "2020-12-12T15:07:51Z",
+         "description" : "Could Elon Musk's relocation from California to Texas impact his brand? Will he lose his progressive base or win over conservatives?"
+      },
+      {
+         "description" : "Amazon, Panasonic and recycling start-ups are preparing for a tsunami of demand for battery recycling as the electric car market grows.",
+         "publishedAt" : "2020-12-12T15:00:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106810159-1607713771736-RedwoodMaterials-5776.jpg?v=1607714319",
+         "url" : "https://www.cnbc.com/2020/12/12/amazon-panasonic-preparing-for-demand-of-battery-recycling.html",
+         "author" : "Charlie Wood",
+         "content" : "Inside every smartphone and tablet lies a dense brick with a dark and complex history: its battery. The lithium that ferries charge back and forth likely started out in South American salt flats, whe… [+8715 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "Amazon, Panasonic, and recycling start-ups prepare for battery wave tsunami - CNBC"
+      },
+      {
          "publishedAt" : "2020-12-12T14:27:00Z",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200519095110-pier-1-imports-closing-0218-super-tease.jpg",
          "url" : "https://www.cnn.com/2020/12/12/business/retailers-restaurants-bankrupt-2020/index.html",
          "author" : "Jordan Valinsky, CNN Business",
+         "content" : "By Jordan Valinsky, CNN Business\r\nUpdated 9:27 AM ET, Sat December 12, 2020\r\nNew York (CNN Business)There's no way to sugarcoat it: 2020 was a brutal year for restaurants and stores. The pandemic, ma… [+10071 chars]",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "title" : "The 30 retailers and restaurant chains that filed for bankruptcy in 2020 - CNN",
          "description" : "There's no way to sugarcoat it: 2020 was a brutal year for restaurants and stores. The pandemic, massive amounts of debt and a shift in shopping as well as dining habits created a lethal cocktail of bankruptcies and closures."
       },
       {
-         "content" : "The deal for Alexion will help AstraZeneca expand in another sector: immunology, where treatments can be highly lucrative for their makers. Alexion, which is based in Boston, is known for focusing on… [+1297 chars]",
+         "publishedAt" : "2020-12-12T14:06:00Z",
          "urlToImage" : "https://static01.nyt.com/images/2020/12/12/multimedia/12ASTRAZENECA-image/12ASTRAZENECA-image-facebookJumbo.png",
-         "title" : "AstraZeneca to Buy Alexion for $39 Billion - The New York Times",
-         "description" : "The deal for the biopharmaceutical company is the latest big takeover this year, even amid the pandemic.",
+         "url" : "https://www.nytimes.com/2020/12/12/business/dealbook/astrazeneca-alexion-deal.html",
+         "author" : "Michael J. de la Merced",
+         "content" : "The deal for Alexion will help AstraZeneca expand in another sector: immunology, where treatments can be highly lucrative for their makers. Alexion, which is based in Boston, is known for focusing on… [+1297 chars]",
          "source" : {
             "name" : "New York Times",
             "id" : null
          },
-         "publishedAt" : "2020-12-12T14:06:00Z",
-         "author" : "Michael J. de la Merced",
-         "url" : "https://www.nytimes.com/2020/12/12/business/dealbook/astrazeneca-alexion-deal.html"
+         "title" : "AstraZeneca to Buy Alexion for $39 Billion - The New York Times",
+         "description" : "The deal for the biopharmaceutical company is the latest big takeover this year, even amid the pandemic."
       },
       {
          "description" : "The U.S. has given the final go-ahead to the nation's first COVID-19 vaccine, launching emergency vaccinations in a bid to end the pandemic. Shots will begin in a few days.",
-         "author" : "By Lauran Neergaard, Matthew Perrone and Jonathan Lemire",
-         "publishedAt" : "2020-12-12T13:31:43Z",
-         "url" : "https://abc7.com/covid-vaccine-pfizer-authorization-us-fda-coronavirus/8713441",
-         "source" : {
-            "name" : "KABC-TV",
-            "id" : null
-         },
-         "urlToImage" : "https://cdn.abcotvs.com/dip/images/8711540_1212020-wabc-pfizer-vaccine-img.jpg?w=1600",
          "content" : "WASHINGTON -- The U.S. gave the final go-ahead Friday to the nation's first COVID-19 vaccine, marking what could be the beginning of the end of an outbreak that has killed nearly 300,000 Americans.Sh… [+6727 chars]",
-         "title" : "COVID vaccine update: FDA grants emergency use authorization for Pfizer shot | WATCH LIVE UPDATES - KABC-TV"
+         "author" : "By Lauran Neergaard, Matthew Perrone and Jonathan Lemire",
+         "source" : {
+            "id" : null,
+            "name" : "KABC-TV"
+         },
+         "title" : "COVID vaccine update: FDA grants emergency use authorization for Pfizer shot | WATCH LIVE UPDATES - KABC-TV",
+         "publishedAt" : "2020-12-12T13:31:43Z",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/8711540_1212020-wabc-pfizer-vaccine-img.jpg?w=1600",
+         "url" : "https://abc7.com/covid-vaccine-pfizer-authorization-us-fda-coronavirus/8713441"
       },
       {
          "content" : "Time is running out on 2020. It is a point that some Wall Street investors might find some comfort in ahead of a what could be a crucial meeting of the Federal Reserve next week. This weeks Fed meeti… [+7092 chars]",
-         "urlToImage" : "https://images.mktw.net/im-272258/social",
+         "author" : "Mark DeCambre",
          "title" : "Stock-market uncertainty runs high headed into Fed's final meeting of 2020 - MarketWatch",
-         "description" : "",
          "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
+            "name" : "MarketWatch",
+            "id" : null
          },
          "publishedAt" : "2020-12-12T13:01:00Z",
          "url" : "https://www.marketwatch.com/story/stock-market-uncertainty-runs-high-headed-into-feds-final-meeting-of-2020-11607728112",
-         "author" : "Mark DeCambre"
+         "urlToImage" : "https://images.mktw.net/im-272258/social",
+         "description" : ""
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/604138/gettyimages-1275873441.jpg",
          "content" : "2020 has been a year for the history books. In March, the stock market suffered its worst month since the Great Depression, but by August, the S&amp;P 500index had set a new record high -- and it rec… [+8325 chars]",
+         "author" : "Keith Noonan, James Brumley, and David Butler",
          "title" : "Successful Investors: What Would You Do in 2021 With a Blank Slate and $5,000? - Motley Fool",
-         "description" : "These strategies could help you orient your portfolio for success next year and beyond.",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         },
          "publishedAt" : "2020-12-12T12:30:00Z",
          "url" : "https://www.fool.com/investing/2020/12/12/successful-investors-in-2021-with-blank-slate-5000/",
-         "author" : "Keith Noonan, James Brumley, and David Butler",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         }
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/604138/gettyimages-1275873441.jpg",
+         "description" : "These strategies could help you orient your portfolio for success next year and beyond."
       },
       {
-         "title" : "IPO Mania Sweeps Over Robinhood Crowd and Stokes a 111% Rally - Bloomberg",
-         "urlToImage" : null,
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
          "publishedAt" : "2020-12-12T12:00:00Z",
-         "author" : null,
+         "urlToImage" : null,
          "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=20b19070-3c9a-11eb-b9d9-19f3db64e3a5&url=L25ld3MvYXJ0aWNsZXMvMjAyMC0xMi0xMi9pcG8tbWFuaWEtc3dlZXBzLW92ZXItcm9iaW5ob29kLWNyb3dkLWFuZC1zdG9rZXMtYS0xMTEtcmFsbHk=",
+         "author" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
          "source" : {
-            "name" : "Bloomberg",
-            "id" : "bloomberg"
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
          },
+         "title" : "IPO Mania Sweeps Over Robinhood Crowd and Stokes a 111% Rally - Bloomberg",
          "description" : null
       },
       {
-         "content" : "The federal government is doubling down on its purchases of a COVID-19 vaccine from Moderna. The Trump administration plans to buy an additional 100 million doses of the vaccine, the Department of He… [+1041 chars]",
-         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/be7ba157-f2a2-41b5-96e6-c73508f7e3ce/thumbnail/1200x630/c6cc8f89a7fc3d2575c5504da8288c72/covid-vaccine-gettyimages-1229760024.jpg",
-         "title" : "Trump administration buying another 100 million doses of Moderna's COVID-19 vaccine - CBS News",
          "description" : "Government promises that the vaccine, which still needs FDA approval, will be free to patients.",
+         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/11/be7ba157-f2a2-41b5-96e6-c73508f7e3ce/thumbnail/1200x630/c6cc8f89a7fc3d2575c5504da8288c72/covid-vaccine-gettyimages-1229760024.jpg",
+         "url" : "https://www.cbsnews.com/news/moderna-covid-vaccine-trump-administration-to-buy-additional-100-million-doses/",
+         "publishedAt" : "2020-12-12T11:55:00Z",
          "source" : {
             "name" : "CBS News",
             "id" : "cbs-news"
          },
+         "title" : "Trump administration buying another 100 million doses of Moderna's COVID-19 vaccine - CBS News",
          "author" : "Irina Ivanova",
-         "publishedAt" : "2020-12-12T11:55:00Z",
-         "url" : "https://www.cbsnews.com/news/moderna-covid-vaccine-trump-administration-to-buy-additional-100-million-doses/"
+         "content" : "The federal government is doubling down on its purchases of a COVID-19 vaccine from Moderna. The Trump administration plans to buy an additional 100 million doses of the vaccine, the Department of He… [+1041 chars]"
       },
       {
-         "title" : "Covid-19 took the personal out of personal training. Here's how trainers adapted - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200331185439-covid-19-corona-virus-fitness-industry-super-tease.jpg",
-         "content" : null,
-         "author" : "Amir Vera, CNN",
-         "publishedAt" : "2020-12-12T11:10:00Z",
+         "description" : "The coronavirus pandemic has flipped the fitness industry on its head.",
          "url" : "https://www.cnn.com/2020/12/12/us/personal-trainers-adapt-covid-19/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200331185439-covid-19-corona-virus-fitness-industry-super-tease.jpg",
+         "publishedAt" : "2020-12-12T11:10:00Z",
+         "title" : "Covid-19 took the personal out of personal training. Here's how trainers adapted - CNN",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "description" : "The coronavirus pandemic has flipped the fitness industry on its head."
+         "author" : "Amir Vera, CNN",
+         "content" : null
       },
       {
          "description" : "Retail giant Walmart plans to administer coronavirus vaccines following approval from the U.S. Food and Drug Administration, the company announced this week. It plans to enter i…",
+         "url" : "https://nypost.com/2020/12/12/walmart-to-give-covid-19-vaccine-following-fda-approval/",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/12/Walmart.jpg?quality=90&strip=all&w=1200",
+         "publishedAt" : "2020-12-12T07:27:00Z",
+         "title" : "Walmart to give COVID-19 vaccine following FDA approval - New York Post ",
          "source" : {
             "name" : "New York Post",
             "id" : null
          },
-         "url" : "https://nypost.com/2020/12/12/walmart-to-give-covid-19-vaccine-following-fda-approval/",
-         "publishedAt" : "2020-12-12T07:27:00Z",
-         "author" : "Fox Business",
          "content" : "Retail giant Walmart plans to administer coronavirus vaccines following approval from the U.S. Food and Drug Administration, the company announced this week.\r\nIt plans to enter into agreements with t… [+1751 chars]",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/12/Walmart.jpg?quality=90&strip=all&w=1200",
-         "title" : "Walmart to give COVID-19 vaccine following FDA approval - New York Post "
+         "author" : "Fox Business"
       },
       {
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/821f8d5a-9099-4a8b-a5e5-701c64664959/821f8d5a-9099-4a8b-a5e5-701c64664959_image.jpg?crop=0.766xw:0.766xh;0.151xw,0&resize=1200:*",
-         "content" : "SAN JOSE, Calif. —An outbreak of 77 coronavirus cases in Santa Clara County has been traced to an illegal youth basketball tournament held last month in Placer County, public health officials said Fr… [+1143 chars]",
-         "title" : "California virus outbreak linked to illegal basketball event - KCRA Sacramento",
          "description" : "An outbreak of 77 coronavirus cases in Santa Clara County has been traced to an illegal youth basketball tournament held last month in Placer County, public health officials said Friday.",
          "publishedAt" : "2020-12-12T05:43:00Z",
-         "author" : null,
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/821f8d5a-9099-4a8b-a5e5-701c64664959/821f8d5a-9099-4a8b-a5e5-701c64664959_image.jpg?crop=0.766xw:0.766xh;0.151xw,0&resize=1200:*",
          "url" : "https://www.kcra.com/article/california-virus-outbreak-linked-to-illegal-basketball-event/34948966",
+         "author" : null,
+         "content" : "SAN JOSE, Calif. —An outbreak of 77 coronavirus cases in Santa Clara County has been traced to an illegal youth basketball tournament held last month in Placer County, public health officials said Fr… [+1143 chars]",
          "source" : {
             "name" : "KCRA Sacramento",
             "id" : null
-         }
+         },
+         "title" : "California virus outbreak linked to illegal basketball event - KCRA Sacramento"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "KCRA Sacramento"
-         },
-         "author" : "Vicki Gonzalez",
-         "publishedAt" : "2020-12-12T04:29:00Z",
-         "url" : "https://www.kcra.com/article/san-joaquin-county-covid-19-hospitalizations-new-record/34948234",
-         "description" : "More than half of ICU patients are being treated for COVID-19",
-         "title" : "San Joaquin County COVID-19 hospitalizations reach new record - KCRA Sacramento",
          "content" : "SACRAMENTO, Calif. —COVID-19 hospitalizations in San Joaquin County have reached a new record, as the entire 12-county San Joaquin Region reports 4.5% ICU capacity. \r\nSan Joaquin County health offici… [+2823 chars]",
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/b88d3896-95f2-43fa-a9d8-8f4c272354bd/b88d3896-95f2-43fa-a9d8-8f4c272354bd_image.jpg?crop=0.784xw:0.783xh;0.122xw,0&resize=1200:*"
+         "author" : "Vicki Gonzalez",
+         "source" : {
+            "name" : "KCRA Sacramento",
+            "id" : null
+         },
+         "title" : "San Joaquin County COVID-19 hospitalizations reach new record - KCRA Sacramento",
+         "publishedAt" : "2020-12-12T04:29:00Z",
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/b88d3896-95f2-43fa-a9d8-8f4c272354bd/b88d3896-95f2-43fa-a9d8-8f4c272354bd_image.jpg?crop=0.784xw:0.783xh;0.122xw,0&resize=1200:*",
+         "url" : "https://www.kcra.com/article/san-joaquin-county-covid-19-hospitalizations-new-record/34948234",
+         "description" : "More than half of ICU patients are being treated for COVID-19"
       },
       {
          "description" : "The person suspected of killing a gas station clerk in Centennial last month is in custody, the Arapahoe County Sheriff’s Office announced Friday night.",
-         "publishedAt" : "2020-12-12T04:27:00Z",
-         "author" : "Eric Ruble",
-         "url" : "https://kdvr.com/news/local/suspect-accused-of-killing-centennial-gas-station-clerk-on-thanksgiving-arrested/",
-         "source" : {
-            "id" : null,
-            "name" : "FOX 31 Denver"
-         },
-         "urlToImage" : "https://kdvr.com/wp-content/uploads/sites/11/2020/11/mugshot-37.png?w=1280",
          "content" : "CENTENNIAL, Colo. (KDVR) — The person suspected of killing a gas station clerk in Centennial last month is in custody, the Arapahoe County Sheriff’s Office announced Friday night.\r\nThe shooting occur… [+941 chars]",
-         "title" : "Suspect accused of killing Centennial gas station clerk on Thanksgiving arrested - FOX 31 Denver"
+         "author" : "Eric Ruble",
+         "source" : {
+            "name" : "FOX 31 Denver",
+            "id" : null
+         },
+         "title" : "Suspect accused of killing Centennial gas station clerk on Thanksgiving arrested - FOX 31 Denver",
+         "publishedAt" : "2020-12-12T04:27:00Z",
+         "urlToImage" : "https://kdvr.com/wp-content/uploads/sites/11/2020/11/mugshot-37.png?w=1280",
+         "url" : "https://kdvr.com/news/local/suspect-accused-of-killing-centennial-gas-station-clerk-on-thanksgiving-arrested/"
       },
       {
-         "description" : "Tesla CEO Elon Musk wrote to employees in an email obtained by Electrek tonight that they are seeing strong demand, but the automaker needs to increase production fast in order to capitalize on it. As we previously reported, Tesla is currently in the middle o…",
-         "source" : {
-            "id" : null,
-            "name" : "Electrek"
-         },
+         "content" : "Tesla CEO Elon Musk wrote to employees in an email obtained by Electrek tonight that they are seeing strong demand, but the automaker needs to increase production fast in order to capitalize on it.\r\n… [+2284 chars]",
          "author" : null,
+         "title" : "Tesla is seeing strong demand but needs to increase production fast, says Elon Musk in leak email - Electrek.co",
+         "source" : {
+            "name" : "Electrek",
+            "id" : null
+         },
          "publishedAt" : "2020-12-12T02:43:00Z",
          "url" : "https://electrek.co/2020/12/11/tesla-strong-demand-but-increase-production-fast-elon-musk-leak-email/",
-         "content" : "Tesla CEO Elon Musk wrote to employees in an email obtained by Electrek tonight that they are seeing strong demand, but the automaker needs to increase production fast in order to capitalize on it.\r\n… [+2284 chars]",
          "urlToImage" : "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/08/Tesla-Elon-Musk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-         "title" : "Tesla is seeing strong demand but needs to increase production fast, says Elon Musk in leak email - Electrek.co"
+         "description" : "Tesla CEO Elon Musk wrote to employees in an email obtained by Electrek tonight that they are seeing strong demand, but the automaker needs to increase production fast in order to capitalize on it. As we previously reported, Tesla is currently in the middle o…"
       },
       {
-         "urlToImage" : "https://i.ytimg.com/vi/3Cql3jN1N9Q/maxresdefault.jpg",
-         "content" : null,
-         "title" : "Serum Institute, Bharat Biotech vaccines applied for emergency use in India | Covishield | COVID-19 - WION",
          "description" : "In India, the head of the Serum Institute which has tasked to develop the AstraZeneca based Covishield vaccine in the country now says, that the positive lat...",
-         "author" : null,
-         "publishedAt" : "2020-12-12T02:36:31Z",
-         "url" : "https://www.youtube.com/watch?v=3Cql3jN1N9Q",
-         "source" : {
-            "id" : null,
-            "name" : "YouTube"
-         }
-      },
-      {
-         "description" : "State files papers to join suit alleging company is engaged in unlawful monopolization",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "url" : "https://www.wsj.com/articles/california-seeks-to-join-justice-department-antitrust-case-against-google-11607719192",
-         "publishedAt" : "2020-12-12T02:04:00Z",
-         "author" : "John D. McKinnon, Brent Kendall",
-         "content" : "WASHINGTONCalifornia on Friday filed court papers seeking to join the Justice Departments antitrust lawsuit against Alphabet Inc.s Google.\r\nThe Justice Department and a group of 11 state attorneys ge… [+646 chars]",
-         "urlToImage" : "https://images.wsj.net/im-272400/social",
-         "title" : "California Seeks to Join Justice Department Antitrust Case Against Google - The Wall Street Journal"
-      },
-      {
-         "content" : null,
-         "urlToImage" : "https://i.ytimg.com/vi/myCOBWgO0oA/maxresdefault.jpg",
-         "title" : "Confused about COVID-19 vaccines? Here's your guide to vaccine vocabulary - Los Angeles Times",
-         "description" : "When people talk about COVID-19 vaccines, they can sound like they're speaking a foreign language. Don't worry! Here's your guide to vaccine vocabulary.READ ...",
+         "title" : "Serum Institute, Bharat Biotech vaccines applied for emergency use in India | Covishield | COVID-19 - WION",
          "source" : {
             "name" : "YouTube",
             "id" : null
          },
-         "publishedAt" : "2020-12-12T01:45:03Z",
-         "url" : "https://www.youtube.com/watch?v=myCOBWgO0oA",
-         "author" : null
+         "content" : null,
+         "author" : null,
+         "url" : "https://www.youtube.com/watch?v=3Cql3jN1N9Q",
+         "urlToImage" : "https://i.ytimg.com/vi/3Cql3jN1N9Q/maxresdefault.jpg",
+         "publishedAt" : "2020-12-12T02:36:31Z"
       },
       {
-         "content" : "By Jonathan Amos and Victoria GillScience correspondents, BBC News\r\nimage copyrightVirgin Galactic\r\nVirgin Galactic is set to carry out a milestone test flight of its rocket-powered tourist plane on … [+3065 chars]",
-         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/2929/production/_113673501_vp01-2_gliding_home.jpg_cmyk.jpg",
-         "title" : "Space tourism: Virgin space plane to fly above new base - BBC News",
-         "description" : "Sir Richard Branson's tourist rocket plane will make a first flight above its new spaceport home.",
+         "description" : "State files papers to join suit alleging company is engaged in unlawful monopolization",
+         "content" : "WASHINGTONCalifornia on Friday filed court papers seeking to join the Justice Departments antitrust lawsuit against Alphabet Inc.s Google.\r\nThe Justice Department and a group of 11 state attorneys ge… [+646 chars]",
+         "author" : "John D. McKinnon, Brent Kendall",
+         "title" : "California Seeks to Join Justice Department Antitrust Case Against Google - The Wall Street Journal",
          "source" : {
-            "name" : "BBC News",
-            "id" : null
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
+         },
+         "publishedAt" : "2020-12-12T02:04:00Z",
+         "url" : "https://www.wsj.com/articles/california-seeks-to-join-justice-department-antitrust-case-against-google-11607719192",
+         "urlToImage" : "https://images.wsj.net/im-272400/social"
+      },
+      {
+         "url" : "https://www.youtube.com/watch?v=myCOBWgO0oA",
+         "urlToImage" : "https://i.ytimg.com/vi/myCOBWgO0oA/maxresdefault.jpg",
+         "publishedAt" : "2020-12-12T01:45:03Z",
+         "title" : "Confused about COVID-19 vaccines? Here's your guide to vaccine vocabulary - Los Angeles Times",
+         "source" : {
+            "id" : null,
+            "name" : "YouTube"
+         },
+         "author" : null,
+         "content" : null,
+         "description" : "When people talk about COVID-19 vaccines, they can sound like they're speaking a foreign language. Don't worry! Here's your guide to vaccine vocabulary.READ ..."
+      },
+      {
+         "title" : "Space tourism: Virgin space plane to fly above new base - BBC News",
+         "source" : {
+            "id" : null,
+            "name" : "BBC News"
          },
          "author" : "https://www.facebook.com/bbcnews",
+         "content" : "By Jonathan Amos and Victoria GillScience correspondents, BBC News\r\nimage copyrightVirgin Galactic\r\nVirgin Galactic is set to carry out a milestone test flight of its rocket-powered tourist plane on … [+3065 chars]",
+         "url" : "https://www.bbc.com/news/science-environment-55279067",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/2929/production/_113673501_vp01-2_gliding_home.jpg_cmyk.jpg",
          "publishedAt" : "2020-12-12T00:50:00Z",
-         "url" : "https://www.bbc.com/news/science-environment-55279067"
+         "description" : "Sir Richard Branson's tourist rocket plane will make a first flight above its new spaceport home."
       }
    ],
    "status" : "ok"
