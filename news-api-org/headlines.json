@@ -1,24 +1,60 @@
 {
-   "totalResults" : 70,
    "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "content" : "By Natalie ShermanBusiness reporter, New York\r\nimage copyrightStormee James\r\nimage captionStormee James became active on Poshmark in May\r\nSchool cleaner Stormee James has made about $1,700 (£1,265) f… [+7357 chars]",
-         "publishedAt" : "2020-12-11T23:29:00Z",
-         "title" : "'I made £1,265 selling my clothes second-hand' - BBC News",
-         "url" : "https://www.bbc.com/news/business-55224461",
-         "author" : "https://www.facebook.com/bbcnews",
-         "description" : "Resale clothing and accessories sites like Depop, Poshmark and ThredUp say activity is up due to the pandemic.",
+         "content" : "Electric vehicles are the future of the auto industry, so its no surprise they have captured Wall Streets imagination, especially in this pandemic-plagued year when so many other businesses are starv… [+326 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "Barron's"
+         },
+         "publishedAt" : "2020-12-12T00:37:00Z",
+         "urlToImage" : "https://images.barrons.com/im-272266/social",
+         "title" : "NIO, Xpeng, and Li Auto Are Not the Next Tesla. Why It’s Time to Unplug From Chinese EV Stocks. - Barron's",
+         "url" : "https://www.barrons.com/articles/nio-xpeng-and-li-auto-are-not-the-next-tesla-why-its-time-to-unplug-from-chinese-ev-stocks-51607733438",
+         "description" : "",
+         "author" : "Al Root"
+      },
+      {
+         "urlToImage" : "https://i.ytimg.com/vi/4giZKEAt7vs/maxresdefault.jpg",
+         "publishedAt" : "2020-12-12T00:00:38Z",
+         "source" : {
+            "id" : null,
+            "name" : "YouTube"
+         },
+         "content" : null,
+         "author" : null,
+         "description" : "Subscribe to our YouTube channel for free here: https://sc.mp/subscribe-youtubeHong Kong is struggling to contain its fourth wave of Covid-19 infections, wit...",
+         "url" : "https://www.youtube.com/watch?v=4giZKEAt7vs",
+         "title" : "Departures for mainland China increase amid Hong Kong's fourth wave of Covid-19 infections - South China Morning Post"
+      },
+      {
          "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/106FA/production/_116022376_2354a337-118f-4785-a3db-b06f787a581a.png",
+         "publishedAt" : "2020-12-11T23:29:00Z",
+         "content" : "By Natalie ShermanBusiness reporter, New York\r\nimage copyrightStormee James\r\nimage captionStormee James became active on Poshmark in May\r\nSchool cleaner Stormee James has made about $1,700 (£1,265) f… [+7357 chars]",
          "source" : {
             "id" : null,
             "name" : "BBC News"
-         }
+         },
+         "description" : "Resale clothing and accessories sites like Depop, Poshmark and ThredUp say activity is up due to the pandemic.",
+         "author" : "https://www.facebook.com/bbcnews",
+         "title" : "'I made £1,265 selling my clothes second-hand' - BBC News",
+         "url" : "https://www.bbc.com/news/business-55224461"
       },
       {
-         "author" : "Melody Hahm",
-         "url" : "https://finance.yahoo.com/news/from-elon-musk-to-oracle-the-coronavirus-california-exodus-231553156.html",
-         "description" : "The coronavirus is accelerating a significant tech exodus out of California, with Oracle (ORCL) announcing Friday that it has moved its headquarters from...",
+         "title" : "CDC will monitor for Bell’s palsy among Pfizer vaccine recipients, but sees no causal relationship - CNBC",
+         "url" : "https://www.cnbc.com/2020/12/11/cdc-monitors-for-bells-palsy-among-pfizer-vaccine-recipients-sees-no-causal-relationship.html",
+         "description" : "There is \"no known or expected causal relationship between the vaccine and Bell's palsy,\" the Centers for Disease Control and Prevention said Friday.",
+         "author" : "Noah Higgins-Dunn",
+         "content" : "The U.S. federal government will continue to monitor occurrences of Bell's palsy a partial paralysis in the face among people who receive Pfizer's Covid-19 vaccine after four cases were reported amon… [+2703 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "publishedAt" : "2020-12-11T23:19:00Z",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106807760-1607433123297-gettyimages-1230009194-AFP_8WP4Z2.jpeg?v=1607433164"
+      },
+      {
          "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/i.JKsY6sqf7l5y4VtfT2Rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xNDU1/https://s.yimg.com/os/creatr-uploaded-images/2020-12/a6196fc0-3c05-11eb-89bf-41b694847f4e",
          "source" : {
             "id" : null,
@@ -26,241 +62,205 @@
          },
          "content" : "The coronavirus is accelerating a significant tech exodus out of California, with Oracle (ORCL) announcing Friday that it has moved its headquarters from Redwood City to Austin, Texas. The move came … [+6207 chars]",
          "publishedAt" : "2020-12-11T23:15:00Z",
-         "title" : "From Elon Musk to Oracle — the coronavirus accelerates California exodus - Yahoo Finance"
+         "title" : "From Elon Musk to Oracle — the coronavirus accelerates California exodus - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/from-elon-musk-to-oracle-the-coronavirus-california-exodus-231553156.html",
+         "author" : "Melody Hahm",
+         "description" : "The coronavirus is accelerating a significant tech exodus out of California, with Oracle (ORCL) announcing Friday that it has moved its headquarters from..."
+      },
+      {
+         "author" : "ArLuther Lee",
+         "description" : "McDonald’s is spreading some holiday cheer this season, offering select menu items free for 11 days beginning next week. The promotional giveaway starts Monday and lasts through Christmas Eve.",
+         "title" : "McDonald’s to give away free food for the holiday - Atlanta Journal Constitution",
+         "url" : "https://www.ajc.com/news/mcdonalds-to-give-away-free-food-for-the-holiday/ANYBPQCBTJGOHIR3UXMB2ID7LA/",
+         "publishedAt" : "2020-12-11T23:05:21Z",
+         "source" : {
+            "id" : null,
+            "name" : "Atlanta Journal Constitution"
+         },
+         "content" : "The promotion ends the night before Christmas with free chocolate chip cookies in honor of Santa Claus.\r\nThe idea for free snacks was born out of the restaurants crowd-pleasing celebrity meal deals, … [+208 chars]",
+         "urlToImage" : "https://www.ajc.com/resizer/Jg_nBnvHbic6vGZXiDJgsxXX_L8=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-26-2020/t_2b0191e25614466898f55fa534021ea7_name_a7468e8a137541fa96c2f497414cd474.jpg"
       },
       {
          "source" : {
-            "name" : "MarketWatch",
-            "id" : null
+            "id" : null,
+            "name" : "MarketWatch"
          },
-         "description" : "Tesla also joins S&P 100, replacing Occidental Petroleum",
+         "content" : "The mystery is over: The company leaving the S&amp;P 500 index to make room for Silicon Valley juggernaut Tesla Inc. is Apartment Investment and Management Co.\r\nTesla \r\n TSLA,\r\n -2.72%\r\nis set to joi… [+1478 chars]",
+         "publishedAt" : "2020-12-11T22:52:00Z",
          "urlToImage" : "https://images.mktw.net/im-271543/social",
-         "author" : "Claudia Assis",
          "url" : "https://www.marketwatch.com/story/tesla-to-replace-apartment-investment-and-management-in-s-p-500-11607727153",
          "title" : "Tesla to replace Apartment Investment and Management in S&P 500 - MarketWatch",
-         "publishedAt" : "2020-12-11T22:52:00Z",
-         "content" : "The mystery is over: The company leaving the S&amp;P 500 index to make room for Silicon Valley juggernaut Tesla Inc. is Apartment Investment and Management Co.\r\nTesla \r\n TSLA,\r\n -2.72%\r\nis set to joi… [+1478 chars]"
+         "author" : "Claudia Assis",
+         "description" : "Tesla also joins S&P 100, replacing Occidental Petroleum"
       },
       {
-         "publishedAt" : "2020-12-11T22:30:00Z",
-         "content" : "After over four decades, Oracle is moving its headquarters from Silicon Valley to Austin, Texas.\r\nIn a statement to Business Insider, Oracle spokesperson Deborah Hellinger confirmed that the database… [+2016 chars]",
-         "title" : "Oracle moving HQ from Silicon Valley to Austin, Texas - Business Insider - Business Insider",
+         "author" : "EMILY WOODRUFF | Staff writer",
+         "description" : "As the first coronavirus vaccine authorization in the U.S. draws near, Ochsner Health officials said Friday they are preparing to inoculate thousands of frontline workers in their 40-hospital system while",
+         "title" : "Ochsner, state's largest hospital system, to receive coronavirus vaccines for frontline workers in coming days - NOLA.com",
+         "url" : "https://www.nola.com/news/coronavirus/article_c2019e38-3bc9-11eb-a300-27c08d72b0ff.html",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/b/cf/bcf825ea-3bd0-11eb-90a1-a3f1ddf306c0/5fc928cedff90.image.jpg?resize=946%2C630",
+         "publishedAt" : "2020-12-11T22:45:00Z",
+         "source" : {
+            "name" : "NOLA.com",
+            "id" : null
+         },
+         "content" : "As the first coronavirus vaccine authorization in the U.S. draws near, Ochsner Health officials said Friday they are preparing to inoculate thousands of frontline workers in their 40-hospital system … [+6325 chars]"
+      },
+      {
          "url" : "https://www.businessinsider.com/oracle-moving-to-austin-hq-silicon-valley-texas-2020-12",
+         "title" : "Oracle moving HQ from Silicon Valley to Austin, Texas - Business Insider - Business Insider",
          "author" : "Katie Canales",
-         "urlToImage" : "https://i.insider.com/5d41fc8e100a24590978c602?width=1200&format=jpeg",
          "description" : "Oracle's move to Austin is just the latest example of Silicon Valley tech talent leaving the San Francisco Bay Area for the city.",
+         "urlToImage" : "https://i.insider.com/5d41fc8e100a24590978c602?width=1200&format=jpeg",
          "source" : {
             "name" : "Business Insider",
             "id" : "business-insider"
-         }
-      },
-      {
-         "author" : "Leah Nylen",
-         "url" : "https://www.politico.com/news/2020/12/11/google-california-antitrust-lawsuit-444623",
-         "source" : {
-            "name" : "Politico",
-            "id" : "politico"
          },
-         "description" : "The filing comes two days after the U.S. government sued Facebook for antitrust violations.",
-         "urlToImage" : "https://static.politico.com/2c/5a/89cb15544815a666810cbb3ba77e/200430-google-gty-773.jpg",
-         "content" : "Background: The DOJ and 11 states sued Google for antitrust violations on Oct. 20, two weeks before the presidential election. \r\nThe majority of U.S. states, who have been investigating Google over a… [+1035 chars]",
-         "publishedAt" : "2020-12-11T22:25:00Z",
-         "title" : "California asks to join DOJ’s Google suit - POLITICO"
+         "content" : "After over four decades, Oracle is moving its headquarters from Silicon Valley to Austin, Texas.\r\nIn a statement to Business Insider, Oracle spokesperson Deborah Hellinger confirmed that the database… [+2016 chars]",
+         "publishedAt" : "2020-12-11T22:30:00Z"
       },
       {
-         "url" : "https://www.wsj.com/articles/tech-ipo-bonanza-yields-riches-for-venture-capital-firms-11607714745",
-         "author" : "Heather Somerville",
-         "description" : "Sequoia Capital and others prosper as the debuts of DoorDash and Airbnb cap the most lucrative year on record for new listings",
+         "urlToImage" : "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=f7deccb2-ca2d-4d42-b391-115a1a6d54db&SiteName=Newsmax",
+         "publishedAt" : "2020-12-11T22:16:00Z",
+         "source" : {
+            "name" : "Newsmax",
+            "id" : null
+         },
+         "content" : "Some public health officials are expressing concern that individuals will be able to bypass guidance by the Centers for Disease Control and Prevention in order to obtain the COVID-19 vaccine early, w… [+2275 chars]",
+         "author" : null,
+         "description" : "Some public health officials are expressing concern that individuals will be able to bypass guidance by the Centers for Disease Control and Prevention in order to obtain the COVID-19 vaccine early, while others don't see it as a problem worth fretting over.Fr…",
+         "url" : "https://www.newsmax.com/newsfront/covid-vaccine-priority-line/2020/12/11/id/1001152/",
+         "title" : "Possible Vaccine Line Jumping Worries Some Health Officials, Not Others - Newsmax"
+      },
+      {
          "urlToImage" : "https://images.wsj.net/im-272243/social",
+         "publishedAt" : "2020-12-11T22:09:00Z",
          "source" : {
             "name" : "The Wall Street Journal",
             "id" : "the-wall-street-journal"
          },
          "content" : "More than $157 billion has been raised as of Thursday, according to data provider Dealogicover a third of that in the past 11 weeksand the number of listings is the largest since the final hurrah of … [+6643 chars]",
-         "publishedAt" : "2020-12-11T22:09:00Z",
-         "title" : "Tech IPO Bonanza Yields Riches for Venture-Capital Firms - The Wall Street Journal"
+         "author" : "Heather Somerville",
+         "description" : "Sequoia Capital and others prosper as the debuts of DoorDash and Airbnb cap the most lucrative year on record for new listings",
+         "title" : "Tech IPO Bonanza Yields Riches for Venture-Capital Firms - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/tech-ipo-bonanza-yields-riches-for-venture-capital-firms-11607714745"
       },
       {
-         "title" : "Dad who died from cancer left son $10 to buy first beer on 21st birthday - New York Post ",
-         "content" : "Raise a glass to his pop.\r\nA Massachusetts man learned on his 21st birthday that his late father left him a $10 bill to buy his first legal beer   so he celebrated with a heartfelt toast to his old m… [+1778 chars]",
-         "publishedAt" : "2020-12-11T21:35:00Z",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/12/Matt-Goodman-ten-dollars.jpg?quality=90&strip=all&w=1200",
-         "description" : "Raise a glass to his pop. A Massachusetts man learned on his 21st birthday that his late father left him a $10 bill to buy his first legal beer —  so he celebrated with a heartfelt toast …",
-         "source" : {
-            "name" : "New York Post",
-            "id" : null
-         },
          "author" : "Natalie O'Neill",
-         "url" : "https://nypost.com/2020/12/11/dead-dad-left-son-10-to-buy-first-beer-on-21st-birthday/"
+         "description" : "Raise a glass to his pop. A Massachusetts man learned on his 21st birthday that his late father left him a $10 bill to buy his first legal beer —  so he celebrated with a heartfelt toast …",
+         "title" : "Dad who died from cancer left son $10 to buy first beer on 21st birthday - New York Post ",
+         "url" : "https://nypost.com/2020/12/11/dead-dad-left-son-10-to-buy-first-beer-on-21st-birthday/",
+         "publishedAt" : "2020-12-11T21:35:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "New York Post"
+         },
+         "content" : "Raise a glass to his pop.\r\nA Massachusetts man learned on his 21st birthday that his late father left him a $10 bill to buy his first legal beer   so he celebrated with a heartfelt toast to his old m… [+1778 chars]",
+         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2020/12/Matt-Goodman-ten-dollars.jpg?quality=90&strip=all&w=1200"
       },
       {
-         "title" : "Microsoft Corp. stock outperforms competitors on strong trading day - MarketWatch",
-         "content" : "Shares of Microsoft Corp. \r\n MSFT,\r\n +1.30%\r\nrose 1.30% to $213.26 Friday, on what proved to be an all-around mixed trading session for the stock market, with the Dow Jones Industrial Average \r\n DJIA… [+266 chars]",
+         "description" : "",
+         "author" : "MarketWatch Automation",
+         "url" : "https://www.marketwatch.com/story/pfizer-inc-stock-underperforms-friday-when-compared-to-competitors-01607722240",
+         "title" : "Pfizer Inc. stock underperforms Friday when compared to competitors - MarketWatch",
          "publishedAt" : "2020-12-11T21:30:00Z",
+         "content" : "Shares of Pfizer Inc. \r\n PFE,\r\n -1.46%\r\nshed 1.46% to $41.12 Friday, on what proved to be an all-around mixed trading session for the stock market, with the Dow Jones Industrial Average \r\n DJIA,\r\n +0… [+734 chars]",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "urlToImage" : "https://images.mktw.net/im-220105/social",
-         "description" : "",
-         "author" : "MarketWatch Automation",
-         "url" : "https://www.marketwatch.com/story/microsoft-corp-stock-outperforms-competitors-on-strong-trading-day-01607722240"
+         "urlToImage" : "https://images.mktw.net/im-220105/social"
       },
       {
          "author" : "Kate Gibson",
-         "url" : "https://www.cbsnews.com/news/clorox-wipes-not-available-mid-2021/",
-         "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
-         },
          "description" : "Consumer products company ships a million packages of disinfecting wipes to retailers every day — it's not enough.",
+         "url" : "https://www.cbsnews.com/news/clorox-wipes-not-available-mid-2021/",
+         "title" : "Clorox wipes won't return to store shelves until mid-2021 - CBS News",
          "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/08/04/f8bae93f-0579-4479-8d6b-2a0f1fe6cd1a/thumbnail/1200x630/69c7aa5d04b32fce4f3f6fc950fbef3d/cbsn-fusion-clorox-wipes-shortage-to-last-until-next-year-2021-thumbnail-524959-640x360.jpg",
-         "content" : "Clorox ships nearly a million packages of disinfecting wipes to stores across the U.S. every day, and the company expects to boost output 50% to 1.5 million by February. Despite stepping up its produ… [+2428 chars]",
          "publishedAt" : "2020-12-11T21:00:00Z",
-         "title" : "Clorox wipes won't return to store shelves until mid-2021 - CBS News"
+         "source" : {
+            "name" : "CBS News",
+            "id" : "cbs-news"
+         },
+         "content" : "Clorox ships nearly a million packages of disinfecting wipes to stores across the U.S. every day, and the company expects to boost output 50% to 1.5 million by February. Despite stepping up its produ… [+2428 chars]"
       },
       {
-         "publishedAt" : "2020-12-11T20:59:00Z",
-         "content" : "Gov. Jim Justice said his call today with a deeply-rooted pharmaceutical company planning to shut down its Morgantown plant didn’t reverse the decision, but did result in a promise to try to find ano… [+4305 chars]",
-         "title" : "Justice: No chance to reverse plant closure; company will try to help find a new operator - West Virginia MetroNews",
          "url" : "https://wvmetronews.com/2020/12/11/justice-no-chance-to-reverse-course-on-plant-closure-company-will-try-to-help-find-a-new-operator/",
-         "author" : null,
+         "title" : "Justice: No chance to reverse plant closure; company will try to help find a new operator - West Virginia MetroNews",
          "description" : "The closure would affect 1,500 jobs.",
+         "author" : null,
          "urlToImage" : "https://wvmetronews.com/wp-content/uploads/2020/12/50706132333_4296ba7402_c.jpg",
+         "content" : "Gov. Jim Justice said his call today with a deeply-rooted pharmaceutical company planning to shut down its Morgantown plant didn’t reverse the decision, but did result in a promise to try to find ano… [+4305 chars]",
          "source" : {
             "name" : "West Virginia MetroNews",
             "id" : null
-         }
+         },
+         "publishedAt" : "2020-12-11T20:59:00Z"
       },
       {
-         "urlToImage" : "https://img.ksl.com/slc/2803/280321/28032111.jpeg?filter=ksl/responsive_story_lg",
-         "description" : "Utah's number of COVID-19 cases has increased by 2,183 on Friday, with nine more deaths reported, according to the Utah Department of Health.",
-         "source" : {
-            "name" : "KSL.com",
-            "id" : null
-         },
-         "author" : "Jacob Klopfenstein, KSL.com",
          "url" : "https://www.ksl.com/article/50065507/2183-more-covid-19-cases-9-deaths-reported-friday-in-utah-but-count-may-be-artificially-low",
          "title" : "2183 more COVID-19 cases, 9 deaths reported Friday in Utah, but count may be artificially low - KSL.com",
+         "description" : "Utah's number of COVID-19 cases has increased by 2,183 on Friday, with nine more deaths reported, according to the Utah Department of Health.",
+         "author" : "Jacob Klopfenstein, KSL.com",
+         "urlToImage" : "https://img.ksl.com/slc/2803/280321/28032111.jpeg?filter=ksl/responsive_story_lg",
          "content" : "SALT LAKE CITY Utah's number of COVID-19 cases has increased by 2,183 on Friday, with nine more deaths reported, according to the Utah Department of Health.\r\nThe health department performed some serv… [+4418 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "KSL.com"
+         },
          "publishedAt" : "2020-12-11T20:37:20Z"
       },
       {
-         "publishedAt" : "2020-12-11T20:34:00Z",
-         "content" : "Itll be tough to disentangle these services.Lionel Bonaventure/AFP via Getty Images\r\nOn Wednesday, the Federal Trade Commission filed a lawsuit against Facebook alleging that the company had engaged … [+6985 chars]",
-         "title" : "How to Break Up Facebook - Slate",
-         "url" : "https://slate.com/technology/2020/12/facebook-breakup-antitrust-instagram-whatsapp.html",
-         "author" : "Aaron Mak",
          "urlToImage" : "https://compote.slate.com/images/1624927d-db0d-493d-94b5-376c7eda1730.jpeg?width=780&height=520&rect=5739x3826&offset=12x0",
-         "description" : "If the government gets its way, here’s what will happen next.",
+         "publishedAt" : "2020-12-11T20:34:00Z",
          "source" : {
             "id" : null,
             "name" : "Slate Magazine"
-         }
-      },
-      {
-         "title" : "White House orders FDA chief to authorize Pfizer-BioNTech vaccine Friday or submit his resignation - The Washington Post",
-         "publishedAt" : "2020-12-11T20:14:00Z",
-         "content" : "The threat came on the same day that President Trump tweeted that the FDA is a big, old, slow turtle in its handling of vaccines, while exhorting Commissioner Stephen Hahn to get the dam vaccines out… [+3386 chars]",
-         "source" : {
-            "name" : "The Washington Post",
-            "id" : "the-washington-post"
          },
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/64LSN5B3XQI6XKWZRFMSE4UAYQ.jpg&w=1440",
-         "description" : "The message from a top Trump aide prompted the agency to accelerate its announcement, which had been planned for early Saturday.",
-         "url" : "https://www.washingtonpost.com/health/2020/12/11/trump-stephen-hahn-fda-covid-vaccine/",
-         "author" : "Josh Dawsey, Laurie McGinley"
+         "content" : "Itll be tough to disentangle these services.Lionel Bonaventure/AFP via Getty Images\r\nOn Wednesday, the Federal Trade Commission filed a lawsuit against Facebook alleging that the company had engaged … [+6985 chars]",
+         "author" : "Aaron Mak",
+         "description" : "If the government gets its way, here’s what will happen next.",
+         "url" : "https://slate.com/technology/2020/12/facebook-breakup-antitrust-instagram-whatsapp.html",
+         "title" : "How to Break Up Facebook - Slate"
       },
       {
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20201211&t=2&i=1544291001&r=LYNXMPEGBA1GH&w=800",
+         "publishedAt" : "2020-12-11T20:21:00Z",
          "source" : {
-            "id" : null,
-            "name" : "YouTube"
+            "id" : "reuters",
+            "name" : "Reuters"
          },
-         "urlToImage" : "https://i.ytimg.com/vi/d7DCiG1o3Hc/maxresdefault.jpg",
-         "description" : "While the U.S. waits for the Food and Drug Administration's decision to give Pfizer's COVID-19 vaccine emergency-use authorization, the wheels are already tu...",
-         "author" : null,
-         "url" : "https://www.youtube.com/watch?v=d7DCiG1o3Hc",
-         "title" : "COVID-19 vaccine distribution plans in motion ahead of FDA's authorization - CBS News",
-         "publishedAt" : "2020-12-11T20:08:55Z",
-         "content" : null
+         "content" : "WASHINGTON (Reuters) - California asked to join the U.S. Department of Justices antitrust lawsuit against Google on Friday, making the states attorney general the first Democrat to openly support the… [+1890 chars]",
+         "author" : "David Shepardson, Nandita Bose",
+         "description" : "California asked to join the U.S. Department of Justice's antitrust lawsuit against Google on Friday, making the state's attorney general the first Democrat to openly support the litigation.",
+         "title" : "California files to join U.S. antitrust lawsuit against Google - Reuters",
+         "url" : "https://www.reuters.com/article/us-tech-antitrust-google-idUSKBN28L2OQ"
       },
       {
-         "content" : "Sign up for the Guardian Today US newsletter\r\nThe coronavirus continues to shatter grim records across California, as the surge in the fast-spreading virus fills hospital beds close to capacity.\r\nCal… [+4752 chars]",
-         "publishedAt" : "2020-12-11T19:56:00Z",
-         "title" : "California's ICU beds near capacity as Covid hospitalizations hit record levels - The Guardian",
-         "author" : "Gabrielle Canon",
-         "url" : "https://www.theguardian.com/us-news/2020/dec/11/california-covid-19-cases-deaths-hospital-beds",
-         "description" : "The state has recorded more than 1.4m cases and close to 20,500 deaths, and numbers are expected to keep rising",
-         "urlToImage" : "https://i.guim.co.uk/img/media/f334fde11479ef01421158d59cfbf82d63e9d785/0_130_3900_2340/master/3900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=464f9f0e21a265609fa4fbbf9a61ef3f",
          "source" : {
-            "id" : null,
-            "name" : "The Guardian"
-         }
-      },
-      {
-         "publishedAt" : "2020-12-11T19:44:00Z",
-         "content" : "New modeling from the Centers for the Disease Control and Prevention paints a grim outlook for the near-term future of the covid-19 pandemic in the U.S., even as Americans are poised to receive the f… [+3106 chars]",
-         "title" : "The Winter Peak of the U.S. Covid-19 Pandemic Will Be Its Deadliest Yet - Gizmodo",
-         "url" : "https://gizmodo.com/the-winter-peak-of-the-u-s-covid-19-pandemic-will-be-i-1845863199",
-         "author" : "Ed Cara",
-         "source" : {
-            "id" : null,
-            "name" : "Gizmodo.com"
-         },
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b8snhugazcbt0gijzsuy.jpg",
-         "description" : "New modeling from the Centers for the Disease Control and Prevention paints a grim outlook for the near-term future of the covid-19 pandemic in the U.S., even as Americans are poised to receive the first doses of two highly effective vaccines soon."
-      },
-      {
-         "title" : "Boston Dynamics sells to Hyundai Motor Group in $1.1 billion deal - Ars Technica",
-         "content" : "40 with 31 posters participating\r\n<ul><li>\r\n</li><li>\r\n</li><li>\r\n A clear front and back view of the robot (Spot is upside-down right now). I count eight cameras on the front. \r\n</li><li>\r\n Everythi… [+6098 chars]",
-         "publishedAt" : "2020-12-11T19:17:00Z",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/06/12-760x380.jpg",
-         "description" : "Boston Dynamics gets access to Hyundai's serious manufacturing supply chain.",
-         "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
-         },
-         "url" : "https://arstechnica.com/gadgets/2020/12/boston-dynamics-sells-to-hyundai-motor-group-in-1-1-billion-deal/",
-         "author" : "Ron Amadeo"
-      },
-      {
-         "content" : "Shares of Walt Disney and Honeywell International Inc. are seeing strong returns Friday afternoon, sending the Dow Jones Industrial Average into positive territory. Shares of Walt Disney \r\n DIS,\r\n +1… [+735 chars]",
-         "publishedAt" : "2020-12-11T19:14:00Z",
-         "title" : "Walt Disney, Honeywell International Inc. share gains lead the way, but Dow flat - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/walt-disney-honeywell-international-inc-share-gains-lead-the-way-but-dow-flat-2020-12-11",
-         "author" : "MarketWatch Automation",
-         "source" : {
-            "name" : "MarketWatch",
+            "name" : "Motley Fool",
             "id" : null
          },
-         "description" : "",
-         "urlToImage" : "https://images.mktw.net/im-220108"
+         "content" : "What happened\r\nAirline shares have been strong performers in the weeks since news about progress toward a COVID-19 vaccine began to flow in, with the U.S. Global Jets ETF(NYSEMKT:JETS) up 35% since t… [+2690 chars]",
+         "publishedAt" : "2020-12-11T20:20:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/604674/air-traffic-controller-signaling-airplane-at-airport-getty.jpg",
+         "url" : "https://www.fool.com/investing/2020/12/11/why-airline-shares-are-falling-today/",
+         "title" : "Why Airline Shares Are Falling Today - Motley Fool",
+         "author" : "Lou Whiteman",
+         "description" : "Airline stocks have been flying high on vaccine news. One Wall Street analyst is tapping the brakes."
       },
       {
-         "description" : "Just days after Alabama surpassed 2,000 coronavirus hospitalizations for the first time since the pandemic began, one hospital official in the state said that less than 10% of intensive care unit (ICU) beds remain available to those in need.",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/emergency-room.jpg",
          "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
-         "url" : "https://www.foxnews.com/health/coronavirus-surge-icu-bed-shortage-alabama",
-         "author" : "Madeline Farber",
-         "title" : "Coronavirus surge leaves only 7% of ICU beds open in this state, hospital official says - Fox News",
-         "content" : "Just days after Alabama surpassed 2,000 coronavirus hospitalizations for the first time since the pandemic began, one hospital official in the state said that fewer than 10% of intensive care unit (I… [+1643 chars]",
-         "publishedAt" : "2020-12-11T19:08:01Z"
-      },
-      {
-         "author" : "Kevin Stankiewicz",
-         "url" : "https://www.cnbc.com/2020/12/11/walgreens-may-begin-covid-vaccinations-at-nursing-homes-before-christmas.html",
-         "source" : {
-            "name" : "CNBC",
+            "name" : "Slate Magazine",
             "id" : null
          },
-         "description" : "The start of vaccinations at nursing homes represents a significant milestone in the pandemic, because long-term care facilities have been particularly hard hit.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105281491-GettyImages-181192899.jpg?v=1565124431",
-         "content" : "A pharmacist helps a customer at a Walgreens pharmacy in Wheeling, Illinois.\r\nWalgreens said it expects to get its first doses of the Covid-19 vaccine on Dec. 21 and start giving shots to nursing hom… [+5701 chars]",
-         "publishedAt" : "2020-12-11T19:02:00Z",
-         "title" : "Walgreens may begin Covid vaccinations at nursing homes before Christmas - CNBC"
+         "content" : "A staff nurse at the Royal Cornwall Hospital in the United Kingdom prepares to administer COVID-19 vaccinations.Hugh Hastings/Getty Images\r\nVaccine Diaries is a series of dispatches exploring the rol… [+6625 chars]",
+         "publishedAt" : "2020-12-11T20:07:00Z",
+         "urlToImage" : "https://compote.slate.com/images/c75974e0-070b-4de1-928b-2aab36eac341.jpeg?width=780&height=520&rect=1560x1040&offset=0x0",
+         "url" : "https://slate.com/technology/2020/12/should-doctors-get-the-vaccine-first.html",
+         "title" : "Should ER Doctors Like Me Really Get the COVID-19 Vaccine First? - Slate",
+         "author" : "Amita Sudhir",
+         "description" : "Are ER doctors like me really the people who need it most?"
       }
    ]
 }
