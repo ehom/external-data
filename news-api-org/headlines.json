@@ -1,158 +1,157 @@
 {
    "status" : "ok",
-   "totalResults" : 70,
    "articles" : [
       {
-         "source" : {
-            "id" : "associated-press",
-            "name" : "Associated Press"
-         },
-         "url" : "https://apnews.com/article/coronavirus-vaccine-florida-coronavirus-pandemic-california-nursing-homes-d042fd93c4d9f65f39f255fa3ca03b7f",
          "description" : "POMPANO BEACH, Fla. (AP) — The first COVID-19 vaccinations are underway at U.S. nursing homes, where the virus has killed more than 110,000 people, even as the nation struggles to contain a surge...",
-         "publishedAt" : "2020-12-17T03:58:29Z",
-         "title" : "Vaccinations reach nursing homes as California faces crisis - The Associated Press",
+         "source" : {
+            "name" : "Associated Press",
+            "id" : "associated-press"
+         },
          "author" : "Adam Geller",
+         "content" : "POMPANO BEACH, Fla. (AP) The first COVID-19 vaccinations are underway at U.S. nursing homes, where the virus has killed more than 110,000 people, even as the nation struggles to contain a surge so al… [+5797 chars]",
+         "url" : "https://apnews.com/article/coronavirus-vaccine-florida-coronavirus-pandemic-california-nursing-homes-d042fd93c4d9f65f39f255fa3ca03b7f",
          "urlToImage" : "https://storage.googleapis.com/afs-prod/media/b09e3eda802541a18ce9e9c003216743/3000.jpeg",
-         "content" : "POMPANO BEACH, Fla. (AP) The first COVID-19 vaccinations are underway at U.S. nursing homes, where the virus has killed more than 110,000 people, even as the nation struggles to contain a surge so al… [+5797 chars]"
+         "publishedAt" : "2020-12-17T03:58:29Z",
+         "title" : "Vaccinations reach nursing homes as California faces crisis - The Associated Press"
       },
       {
          "description" : "The FDA has authorized hospital pharmacists to use the extra doses while the agency works with Pfizer officials to \"determine the best path forward.\"",
-         "url" : "https://www.usatoday.com/story/news/health/2020/12/16/pfizer-covid-vaccine-vials-extra-doses-fda/3935042001/",
+         "content" : "Gov. Andrew Cuomo watches ICU nurse in New York City be among the first people to receive the first dose of the Pfizer/BioNTech COVID-19 vaccine.\r\nStoryful\r\nThe U.S. might have more doses of Pfizer's… [+2932 chars]",
          "source" : {
-            "name" : "USA Today",
-            "id" : "usa-today"
+            "id" : "usa-today",
+            "name" : "USA Today"
          },
          "author" : "Jessica Flores, Karen Weintraub",
-         "title" : "FDA says Pfizer's COVID-19 vaccine vials may hold extra 'obtainable' doses, adding to US supply - USA TODAY",
-         "content" : "Gov. Andrew Cuomo watches ICU nurse in New York City be among the first people to receive the first dose of the Pfizer/BioNTech COVID-19 vaccine.\r\nStoryful\r\nThe U.S. might have more doses of Pfizer's… [+2932 chars]",
+         "url" : "https://www.usatoday.com/story/news/health/2020/12/16/pfizer-covid-vaccine-vials-extra-doses-fda/3935042001/",
          "urlToImage" : "https://www.gannett-cdn.com/presto/2020/12/17/USAT/30f1e0d4-244c-4490-b380-8e14bc2ba249-AP20351760766153.jpg?crop=1999,1125,x0,y0&width=1600&height=800&fit=bounds",
+         "title" : "FDA says Pfizer's COVID-19 vaccine vials may hold extra 'obtainable' doses, adding to US supply - USA TODAY",
          "publishedAt" : "2020-12-17T03:28:08Z"
       },
       {
-         "publishedAt" : "2020-12-17T03:21:00Z",
-         "author" : "Rachel Metz, CNN Business",
-         "title" : "Tensions in Google's ethical AI group increase as it sends demands to CEO - CNN",
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201209162431-01-timnit-gebru-file-super-tease.jpg",
-         "content" : null,
+         "publishedAt" : "2020-12-17T03:21:00Z",
+         "title" : "Tensions in Google's ethical AI group increase as it sends demands to CEO - CNN",
          "url" : "https://www.cnn.com/2020/12/16/tech/google-timnit-gebru-ethical-ai-letter/index.html",
+         "description" : "Tension between Google's Ethical AI group and executives at the company rose on Wednesday, as employees sent a list of demands regarding the recent departure of one of the team's leaders — a prominent Black woman in a field that's largely White and male.",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "description" : "Tension between Google's Ethical AI group and executives at the company rose on Wednesday, as employees sent a list of demands regarding the recent departure of one of the team's leaders — a prominent Black woman in a field that's largely White and male."
+         "author" : "Rachel Metz, CNN Business",
+         "content" : null
       },
       {
-         "url" : "https://gizmodo.com/genius-media-group-is-suing-google-for-antitrust-1845900480",
+         "description" : "Joining the national pile-on of entities suing Google for antitrust is Genius Media Group, which announced a lawsuit on Wednesday night related to the search giant’s ad exchange practices.",
+         "content" : "Joining the national pile-on of entities suing Google for antitrust is Genius Media Group, which announced a lawsuit on Wednesday night related to the search giants ad exchange practices.\r\nIn the fil… [+2285 chars]",
+         "author" : "Brianna Provenzano",
          "source" : {
             "id" : null,
             "name" : "Gizmodo.com"
          },
-         "description" : "Joining the national pile-on of entities suing Google for antitrust is Genius Media Group, which announced a lawsuit on Wednesday night related to the search giant’s ad exchange practices.",
-         "publishedAt" : "2020-12-17T02:31:00Z",
+         "url" : "https://gizmodo.com/genius-media-group-is-suing-google-for-antitrust-1845900480",
          "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ypnqxj71rbidkcxe6zcq.jpg",
-         "content" : "Joining the national pile-on of entities suing Google for antitrust is Genius Media Group, which announced a lawsuit on Wednesday night related to the search giants ad exchange practices.\r\nIn the fil… [+2285 chars]",
-         "author" : "Brianna Provenzano",
-         "title" : "Genius Media Group Is Suing Google For Antitrust - Gizmodo"
+         "title" : "Genius Media Group Is Suing Google For Antitrust - Gizmodo",
+         "publishedAt" : "2020-12-17T02:31:00Z"
       },
       {
-         "publishedAt" : "2020-12-17T01:28:10Z",
          "urlToImage" : "https://i.ytimg.com/vi/4rBtn-zOj7E/maxresdefault.jpg",
-         "content" : null,
+         "publishedAt" : "2020-12-17T01:28:10Z",
          "title" : "First nursing home residents get COVID vaccine as rollout expands - CBS Evening News",
+         "url" : "https://www.youtube.com/watch?v=4rBtn-zOj7E",
+         "description" : "Although coronavirus vaccines have made their way across the U.S., there have been some hiccups. David Begnaud takes a look.Subscribe to the \"CBS Evening New...",
          "author" : null,
          "source" : {
             "id" : null,
             "name" : "YouTube"
          },
-         "url" : "https://www.youtube.com/watch?v=4rBtn-zOj7E",
-         "description" : "Although coronavirus vaccines have made their way across the U.S., there have been some hiccups. David Begnaud takes a look.Subscribe to the \"CBS Evening New..."
+         "content" : null
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "YouTube"
-         },
          "url" : "https://www.youtube.com/watch?v=BzBiTYwSP2A",
-         "description" : "A health worker in Juneau, Alaska, who had no history of allergies, suffered an allergic reaction during the 15-minute observation period following the shot.",
          "publishedAt" : "2020-12-17T01:25:41Z",
          "title" : "First US report of serious adverse vaccine reaction - ABC News",
+         "urlToImage" : "https://i.ytimg.com/vi/BzBiTYwSP2A/maxresdefault.jpg",
+         "source" : {
+            "name" : "YouTube",
+            "id" : null
+         },
          "author" : null,
          "content" : null,
-         "urlToImage" : "https://i.ytimg.com/vi/BzBiTYwSP2A/maxresdefault.jpg"
+         "description" : "A health worker in Juneau, Alaska, who had no history of allergies, suffered an allergic reaction during the 15-minute observation period following the shot."
       },
       {
-         "publishedAt" : "2020-12-17T01:11:58Z",
          "urlToImage" : "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2020/12/chattanooga-tennessee-skyline-worst-covid-surge.jpg?fit=1365%2C768&ssl=1",
-         "content" : "As the first doses of coronavirus vaccines begin to ship across the U.S., a grim reality remains: many states continue to break newly reported COVID case, hospitalization, and death records on an alm… [+3135 chars]",
          "title" : "Tennessee Now Has the Worst COVID Outbreak in the US - Best Life",
-         "author" : "Zachary Mack",
+         "publishedAt" : "2020-12-17T01:11:58Z",
          "url" : "http://bestlifeonline.com/tennessee-covid-2/",
+         "description" : "As numbers continue to skyrocket everywhere, one state has become the site of the worst COVID outbreak in the U.S.: Tennessee.",
+         "content" : "As the first doses of coronavirus vaccines begin to ship across the U.S., a grim reality remains: many states continue to break newly reported COVID case, hospitalization, and death records on an alm… [+3135 chars]",
+         "author" : "Zachary Mack",
          "source" : {
-            "id" : null,
-            "name" : "Best Life"
-         },
-         "description" : "As numbers continue to skyrocket everywhere, one state has become the site of the worst COVID outbreak in the U.S.: Tennessee."
+            "name" : "Best Life",
+            "id" : null
+         }
       },
       {
-         "description" : "RALEIGH, N.C. (WNCN) – With people receiving the first COVID-19 vaccine doses this week, Gov. Roy Cooper (D) said Wednesday it could be spring until “things can begin to get significantly better” as the state grapples with rising case numbers. He recently ins…",
          "url" : "https://myfox8.com/news/gov-cooper-not-ruling-out-additional-restrictions-as-state-grapples-with-rising-covid-19-cases-hospitalizations/",
+         "title" : "Gov. Cooper not ruling out additional restrictions as state grapples with rising COVID-19 cases, hospitalizations - WGHP FOX 8 Greensboro",
+         "publishedAt" : "2020-12-17T01:00:00Z",
+         "urlToImage" : "https://myfox8.com/wp-content/uploads/sites/17/2020/12/CooperInterview00000000.jpg?w=1280",
+         "content" : "RALEIGH, N.C. (WNCN) With people receiving the first COVID-19 vaccine doses this week, Gov. Roy Cooper (D) said Wednesday it could be spring until things can begin to get significantly better as the … [+4716 chars]",
+         "author" : "Michael Hyland",
+         "source" : {
+            "name" : "WGHP FOX 8 Greensboro",
+            "id" : null
+         },
+         "description" : "RALEIGH, N.C. (WNCN) – With people receiving the first COVID-19 vaccine doses this week, Gov. Roy Cooper (D) said Wednesday it could be spring until “things can begin to get significantly better” as the state grapples with rising case numbers. He recently ins…"
+      },
+      {
+         "author" : "Dade Hayes",
          "source" : {
             "id" : null,
-            "name" : "WGHP FOX 8 Greensboro"
+            "name" : "Deadline"
          },
-         "title" : "Gov. Cooper not ruling out additional restrictions as state grapples with rising COVID-19 cases, hospitalizations - WGHP FOX 8 Greensboro",
-         "author" : "Michael Hyland",
-         "content" : "RALEIGH, N.C. (WNCN) With people receiving the first COVID-19 vaccine doses this week, Gov. Roy Cooper (D) said Wednesday it could be spring until things can begin to get significantly better as the … [+4716 chars]",
-         "urlToImage" : "https://myfox8.com/wp-content/uploads/sites/17/2020/12/CooperInterview00000000.jpg?w=1280",
-         "publishedAt" : "2020-12-17T01:00:00Z"
-      },
-      {
-         "publishedAt" : "2020-12-17T00:58:00Z",
-         "author" : "Dade Hayes",
-         "title" : "Netflix Adds Zimbabwean Billionaire Strive Masiyiwa To Board Of Directors - Deadline",
          "content" : "Zimbabwean billionaire Strive Masiyiwa, who founded telecom giant Econet Global, has joined the board of directors at Netflix.\r\nThe move follow’s last week’s news that Susan Rice left her board post … [+1397 chars]",
-         "urlToImage" : "https://deadline.com/wp-content/uploads/2020/12/Strive-Masiyiwa.jpg?w=1024",
+         "description" : "Zimbabwean billionaire Strive Masiyiwa, who founded telecom giant Econet Global, has joined the board of directors at Netflix. The move follow’s last week’s news that Susan Rice left her board post in preparation to take a role in the Joe Biden administration…",
          "url" : "https://deadline.com/2020/12/netflix-zimbabwe-billionaire-strive-masiyiwa-to-board-of-directors-1234658079/",
-         "source" : {
-            "name" : "Deadline",
-            "id" : null
-         },
-         "description" : "Zimbabwean billionaire Strive Masiyiwa, who founded telecom giant Econet Global, has joined the board of directors at Netflix. The move follow’s last week’s news that Susan Rice left her board post in preparation to take a role in the Joe Biden administration…"
+         "publishedAt" : "2020-12-17T00:58:00Z",
+         "title" : "Netflix Adds Zimbabwean Billionaire Strive Masiyiwa To Board Of Directors - Deadline",
+         "urlToImage" : "https://deadline.com/wp-content/uploads/2020/12/Strive-Masiyiwa.jpg?w=1024"
       },
       {
-         "description" : "\"Guy who named his kid X Æ A-12 cannot fathom using 3 different pronouns,\" one critic tweeted.",
-         "url" : "https://www.huffpost.com/entry/elon-musk-pronouns-reaction_n_5fda9048c5b6102009874312",
+         "content" : "Telsa founder Elon Musk was widely panned on social media Wednesday after he appeared to complain that displaying preferred pronouns in online bios is not visually appealing.\r\n“I absolutely support t… [+1280 chars]",
          "source" : {
-            "name" : "HuffPost",
-            "id" : null
+            "id" : null,
+            "name" : "HuffPost"
          },
          "author" : "Josephine Harvey",
+         "description" : "\"Guy who named his kid X Æ A-12 cannot fathom using 3 different pronouns,\" one critic tweeted.",
          "title" : "Elon Musk Skewered For Tweet Complaining About Pronouns In Bios - HuffPost",
-         "content" : "Telsa founder Elon Musk was widely panned on social media Wednesday after he appeared to complain that displaying preferred pronouns in online bios is not visually appealing.\r\n“I absolutely support t… [+1280 chars]",
+         "publishedAt" : "2020-12-17T00:55:00Z",
          "urlToImage" : "https://img.huffingtonpost.com/asset/5fdaa1be2400006a259fa603.jpeg?cache=5O3hsXzyyS&ops=1200_630",
-         "publishedAt" : "2020-12-17T00:55:00Z"
+         "url" : "https://www.huffpost.com/entry/elon-musk-pronouns-reaction_n_5fda9048c5b6102009874312"
       },
       {
+         "url" : "https://www.cbsnews.com/news/tyson-foods-fires-7-managers-waterloo-iowa-betting-allegations-coronavirus-employees/",
+         "title" : "Tyson Foods fires 7 managers at Iowa meat plant over COVID-19 betting allegations - CBS News",
          "publishedAt" : "2020-12-17T00:41:00Z",
          "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/17/6a322453-8e89-4365-aea4-a10d5f19cc8c/thumbnail/1200x630/18120ccbfe1be41989c2d1cc542a7efd/ap-20191657317230.jpg",
          "content" : "Tyson Foods has fired seven plant management employees after an independent investigation into claims that leaders at the company bet on how many workers would become infected with COVID-19, the comp… [+2799 chars]",
          "author" : "Victoria Albert",
-         "title" : "Tyson Foods fires 7 managers at Iowa meat plant over COVID-19 betting allegations - CBS News",
-         "url" : "https://www.cbsnews.com/news/tyson-foods-fires-7-managers-waterloo-iowa-betting-allegations-coronavirus-employees/",
          "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
+            "name" : "CBS News",
+            "id" : "cbs-news"
          },
          "description" : "The allegations against managers at the Waterloo, Iowa, plant were part of a lawsuit from the son of an employee who died of the coronavirus in April."
       },
       {
-         "author" : null,
-         "title" : "Bitcoin Blasts Past $21000 for First Time - Bloomberg Technology",
-         "content" : null,
          "urlToImage" : "https://i.ytimg.com/vi/OBQdNK9RAyQ/maxresdefault.jpg",
+         "title" : "Bitcoin Blasts Past $21000 for First Time - Bloomberg Technology",
          "publishedAt" : "2020-12-17T00:38:20Z",
-         "description" : "Dec.16 -- Bitcoin surpassed $21,000 for the first time, another milestone in what’s been an eye-popping rally for the controversial digital asset this year. ...",
          "url" : "https://www.youtube.com/watch?v=OBQdNK9RAyQ",
+         "description" : "Dec.16 -- Bitcoin surpassed $21,000 for the first time, another milestone in what’s been an eye-popping rally for the controversial digital asset this year. ...",
+         "content" : null,
+         "author" : null,
          "source" : {
             "name" : "YouTube",
             "id" : null
@@ -160,107 +159,108 @@
       },
       {
          "url" : "https://cointelegraph.com/news/bitcoin-price-hits-21-569-as-dave-portnoy-misses-out-on-160k",
+         "urlToImage" : "https://s3.cointelegraph.com/uploads/2020-12/73c295df-df01-4b9f-b7e5-26bf0a95b4dd.jpg",
+         "publishedAt" : "2020-12-17T00:20:05Z",
+         "title" : "Bitcoin price hits $21,569 as Dave Portnoy misses out on $160K - Cointelegraph",
+         "description" : "Bitcoin surged more than 9% today to reach an all-time high of more than $21,569.",
          "source" : {
             "id" : null,
             "name" : "Cointelegraph"
          },
-         "description" : "Bitcoin surged more than 9% today to reach an all-time high of more than $21,569.",
-         "publishedAt" : "2020-12-17T00:20:05Z",
-         "content" : "The Bitcoin price passed $21,000 for the first time in history on Dec. 16, not long after the crypto asset broke the psychological $20,000 threshold.\r\nBTC/USD weekly chart. Source: Tradingview\r\nThe r… [+1870 chars]",
-         "urlToImage" : "https://s3.cointelegraph.com/uploads/2020-12/73c295df-df01-4b9f-b7e5-26bf0a95b4dd.jpg",
          "author" : "Turner Wright",
-         "title" : "Bitcoin price hits $21,569 as Dave Portnoy misses out on $160K - Cointelegraph"
+         "content" : "The Bitcoin price passed $21,000 for the first time in history on Dec. 16, not long after the crypto asset broke the psychological $20,000 threshold.\r\nBTC/USD weekly chart. Source: Tradingview\r\nThe r… [+1870 chars]"
       },
       {
          "description" : "\"I'm actually thrilled by all the negativity because it means stocks can still go higher,\" the \"Mad Money\" host said.",
-         "source" : {
-            "name" : "YouTube",
-            "id" : null
-         },
-         "url" : "https://www.youtube.com/watch?v=VH_LZfNr3qk",
-         "title" : "Jim Cramer: This is a great moment for the stock market - CNBC Television",
          "author" : null,
+         "source" : {
+            "id" : null,
+            "name" : "YouTube"
+         },
          "content" : null,
+         "url" : "https://www.youtube.com/watch?v=VH_LZfNr3qk",
          "urlToImage" : "https://i.ytimg.com/vi/VH_LZfNr3qk/hqdefault.jpg",
-         "publishedAt" : "2020-12-17T00:11:28Z"
+         "publishedAt" : "2020-12-17T00:11:28Z",
+         "title" : "Jim Cramer: This is a great moment for the stock market - CNBC Television"
       },
       {
-         "title" : "Health care worker has allergic reaction to Pfizer’s COVID vaccine - KRON4",
-         "author" : "Liz Jassin, The Associated Press",
-         "urlToImage" : "https://www.kron4.com/wp-content/uploads/sites/11/2020/12/2020-12-09T084957Z_833418967_RC2KJK9O7E3S_RTRMADP_3_HEALTH-CORONAVIRUS-EUROPE-VACCINES-1.jpg?w=1280",
-         "content" : "JUNEAU, Alaska (KRON/AP) – An Alaska health care worker was hospitalized after experiencing a serious allergic reaction to Pfizer’s coronavirus vaccine on Tuesday. \r\nTwo similar instances happened in… [+876 chars]",
          "publishedAt" : "2020-12-17T00:06:00Z",
-         "description" : "JUNEAU, Alaska (KRON/AP) – An Alaska health care worker was hospitalized after experiencing a serious allergic reaction to Pfizer’s coronavirus vaccine on Tuesday. Two similar instances happened in Britain last week. The worker experienced shortness of breath…",
+         "title" : "Health care worker has allergic reaction to Pfizer’s COVID vaccine - KRON4",
+         "urlToImage" : "https://www.kron4.com/wp-content/uploads/sites/11/2020/12/2020-12-09T084957Z_833418967_RC2KJK9O7E3S_RTRMADP_3_HEALTH-CORONAVIRUS-EUROPE-VACCINES-1.jpg?w=1280",
+         "url" : "https://www.kron4.com/health/coronavirus/health-care-worker-has-allergic-reaction-to-pfizers-covid-vaccine/",
          "source" : {
             "name" : "KRON4",
             "id" : null
          },
-         "url" : "https://www.kron4.com/health/coronavirus/health-care-worker-has-allergic-reaction-to-pfizers-covid-vaccine/"
+         "author" : "Liz Jassin, The Associated Press",
+         "content" : "JUNEAU, Alaska (KRON/AP) – An Alaska health care worker was hospitalized after experiencing a serious allergic reaction to Pfizer’s coronavirus vaccine on Tuesday. \r\nTwo similar instances happened in… [+876 chars]",
+         "description" : "JUNEAU, Alaska (KRON/AP) – An Alaska health care worker was hospitalized after experiencing a serious allergic reaction to Pfizer’s coronavirus vaccine on Tuesday. Two similar instances happened in Britain last week. The worker experienced shortness of breath…"
       },
       {
          "description" : "Honda is recalling over 1.4 million vehicles in the U.S. to repair drive shafts that can break, window switches that can overheat and a software flaw.",
-         "url" : "https://www.nbcnews.com/business/consumer/honda-recalls-1-4m-u-s-vehicles-software-other-problems-n1251496",
-         "source" : {
-            "name" : "NBC News",
-            "id" : "nbc-news"
-         },
-         "urlToImage" : "https://media1.s-nbcnews.com/j/newscms/2020_51/3436298/201216-ohio-honda-factory-2017-ac-641p_5efb8e19fa12c739afccc378f9ff5a70.nbcnews-fp-1200-630.jpg",
          "content" : "Honda is recalling over 1.4 million vehicles in the U.S. to repair drive shafts that can break, window switches that can overheat and a software flaw.\r\nThe software recall includes 737,000 Accords fr… [+1424 chars]",
+         "source" : {
+            "id" : "nbc-news",
+            "name" : "NBC News"
+         },
          "author" : "The Associated Press",
+         "urlToImage" : "https://media1.s-nbcnews.com/j/newscms/2020_51/3436298/201216-ohio-honda-factory-2017-ac-641p_5efb8e19fa12c739afccc378f9ff5a70.nbcnews-fp-1200-630.jpg",
          "title" : "Honda recalls 1.4M U.S. vehicles for software, other problems - NBC News",
-         "publishedAt" : "2020-12-16T23:51:00Z"
+         "publishedAt" : "2020-12-16T23:51:00Z",
+         "url" : "https://www.nbcnews.com/business/consumer/honda-recalls-1-4m-u-s-vehicles-software-other-problems-n1251496"
       },
       {
-         "publishedAt" : "2020-12-16T23:43:00Z",
-         "author" : "Megan Sadler",
-         "title" : "Tenn. identified as worst location in the nation for COVID-19 infections - WVLT",
-         "urlToImage" : "https://gray-wvlt-prod.cdn.arcpublishing.com/resizer/d709mMcXoISKK0oL-rzHuALcZsw=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CL6QF4H5LVE2FNYBHE44PXL34Q.PNG",
-         "content" : "KNOXVILLE, Tenn. (WVLT) - The State of Tennessee has been identified as the location with the highest rate of COVID-19 infections per capita in the country, according to officials.\r\nDr. Patrick OBrie… [+1422 chars]",
          "source" : {
             "name" : "WVLT.TV",
             "id" : null
          },
-         "url" : "https://www.wvlt.tv/2020/12/16/tenn-identified-as-worst-location-in-the-world-for-covid-19-infections/",
-         "description" : "The State of Tennessee has been identified as the location with the highest rate of COVID-19 infections per capita in the nation."
+         "author" : "Megan Sadler",
+         "content" : "KNOXVILLE, Tenn. (WVLT) - The State of Tennessee has been identified as the location with the highest rate of COVID-19 infections per capita in the country, according to officials.\r\nDr. Patrick OBrie… [+1422 chars]",
+         "description" : "The State of Tennessee has been identified as the location with the highest rate of COVID-19 infections per capita in the nation.",
+         "publishedAt" : "2020-12-16T23:43:00Z",
+         "title" : "Tenn. identified as worst location in the nation for COVID-19 infections - WVLT",
+         "urlToImage" : "https://gray-wvlt-prod.cdn.arcpublishing.com/resizer/d709mMcXoISKK0oL-rzHuALcZsw=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/CL6QF4H5LVE2FNYBHE44PXL34Q.PNG",
+         "url" : "https://www.wvlt.tv/2020/12/16/tenn-identified-as-worst-location-in-the-world-for-covid-19-infections/"
       },
       {
          "description" : "<p>While most Bay Area counties had already enacted their own shelter-in-place restrictions, holdout counties like San Mateo, Napa and Solano will now have to join in shutting down certain activities, including outdoor dining, by midnight Thursday.</p>",
+         "content" : "Intensive care availability plummeted in the Bay Area on Wednesday to fall under 15% for the first time, forcing the entire 11-county region under the state stay-at-home order. And as of Thursday nig… [+7724 chars]",
+         "author" : "Aidin Vaziri, Erin Allday",
          "source" : {
-            "name" : "San Francisco Chronicle",
-            "id" : null
+            "id" : null,
+            "name" : "San Francisco Chronicle"
          },
          "url" : "https://www.sfchronicle.com/bayarea/article/Bay-Area-falls-to-12-9-ICU-capacity-triggering-15808974.php",
-         "content" : "Intensive care availability plummeted in the Bay Area on Wednesday to fall under 15% for the first time, forcing the entire 11-county region under the state stay-at-home order. And as of Thursday nig… [+7724 chars]",
          "urlToImage" : "https://s.hdnux.com/photos/01/15/63/15/20394828/5/rawImage.jpg",
-         "author" : "Aidin Vaziri, Erin Allday",
          "title" : "Bay Area falls to 12.9% ICU availability, triggering state’s stay-at-home order in San Mateo, Napa, Solano counties - San Francisco Chronicle",
          "publishedAt" : "2020-12-16T23:36:36Z"
       },
       {
-         "publishedAt" : "2020-12-16T23:35:00Z",
-         "urlToImage" : "https://media.tegna-media.com/assets/WTHR/images/95302692-445d-4af5-978a-aa906a4bf163/95302692-445d-4af5-978a-aa906a4bf163_1140x641.jpg",
-         "content" : "INDIANAPOLIS If you are sending or waiting to receive a package for the holidays, you might be waiting a while longer. In fact, it is possible millions of packages wont arrive before Christmas.\r\n13Ne… [+6111 chars]",
-         "author" : "Bob Segall",
-         "title" : "Huge backlog at U.S. Post Office means millions of holiday packages might not arrive by Christmas - WTHR",
-         "url" : "https://www.wthr.com/article/news/verify/huge-backlog-at-us-post-office-means-millions-of-holiday-packages-might-not-arrive-by-christmas/531-5998b7c8-e2ad-4db1-8355-67a9f74858b1",
-         "source" : {
-            "name" : "WTHR",
-            "id" : null
-         },
-         "description" : "Several USPS customers tell 13News they've been left wondering if their packages will be delivered in time for the holiday."
-      },
-      {
-         "publishedAt" : "2020-12-16T23:28:06Z",
-         "author" : "Joseph S. Pete joseph.pete@nwi.com, 219-933-3316",
-         "title" : "WATCH NOW: 3 Floyds permanently closing Munster brewpub - The Times of Northwest Indiana",
-         "content" : "There was often a wait to get into the hip dining spot that was eclectically decorated with murals, art, soccer scarves, bottles of various 3 Floyds beers from over the years, stickers from craft bre… [+1227 chars]",
-         "urlToImage" : "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/2e/62e5cb85-9670-5387-a025-d4ee5a83040d/5fdaa7b888b80.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+         "description" : "Several USPS customers tell 13News they've been left wondering if their packages will be delivered in time for the holiday.",
          "source" : {
             "id" : null,
-            "name" : "nwitimes.com"
+            "name" : "WTHR"
          },
+         "author" : "Bob Segall",
+         "content" : "INDIANAPOLIS If you are sending or waiting to receive a package for the holidays, you might be waiting a while longer. In fact, it is possible millions of packages wont arrive before Christmas.\r\n13Ne… [+6111 chars]",
+         "urlToImage" : "https://media.tegna-media.com/assets/WTHR/images/95302692-445d-4af5-978a-aa906a4bf163/95302692-445d-4af5-978a-aa906a4bf163_1140x641.jpg",
+         "publishedAt" : "2020-12-16T23:35:00Z",
+         "title" : "Huge backlog at U.S. Post Office means millions of holiday packages might not arrive by Christmas - WTHR",
+         "url" : "https://www.wthr.com/article/news/verify/huge-backlog-at-us-post-office-means-millions-of-holiday-packages-might-not-arrive-by-christmas/531-5998b7c8-e2ad-4db1-8355-67a9f74858b1"
+      },
+      {
+         "content" : "There was often a wait to get into the hip dining spot that was eclectically decorated with murals, art, soccer scarves, bottles of various 3 Floyds beers from over the years, stickers from craft bre… [+1227 chars]",
+         "author" : "Joseph S. Pete joseph.pete@nwi.com, 219-933-3316",
+         "source" : {
+            "name" : "nwitimes.com",
+            "id" : null
+         },
+         "description" : "3 Floyds told investors it is permanently closing its landmark brewpub in Munster, which has been a major draw to Northwest Indiana.",
          "url" : "https://www.nwitimes.com/business/local/watch-now-3-floyds-permanently-closing-munster-brewpub/article_62e5cb85-9670-5387-a025-d4ee5a83040d.html",
-         "description" : "3 Floyds told investors it is permanently closing its landmark brewpub in Munster, which has been a major draw to Northwest Indiana."
+         "title" : "WATCH NOW: 3 Floyds permanently closing Munster brewpub - The Times of Northwest Indiana",
+         "publishedAt" : "2020-12-16T23:28:06Z",
+         "urlToImage" : "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/2e/62e5cb85-9670-5387-a025-d4ee5a83040d/5fdaa7b888b80.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
       }
-   ]
+   ],
+   "totalResults" : 70
 }
