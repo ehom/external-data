@@ -1,12 +1,14 @@
 {
+   "status" : "ok",
+   "totalResults" : 70,
    "articles" : [
       {
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VVZCYYCGGQI6XF242F5YQFNGNU.jpg&w=1440",
+         "title" : "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk - The Washington Post",
+         "publishedAt" : "2020-12-25T00:21:00Z",
+         "content" : "Microsoft hasnt publicly commented on the intrusions. On Thursday, an executive with the tech giant sought to downplay the issues significance.\r\nOur investigation of recent attacks has found incident… [+7517 chars]",
          "author" : "Ellen Nakashima",
          "url" : "https://www.washingtonpost.com/national-security/russia-hack-microsoft-cloud/2020/12/24/dbfaa9c6-4590-11eb-975c-d17b8815a66d_story.html",
-         "title" : "Russian hackers compromised Microsoft cloud customers through third party, putting emails and other data at risk - The Washington Post",
-         "content" : "Microsoft hasnt publicly commented on the intrusions. On Thursday, an executive with the tech giant sought to downplay the issues significance.\r\nOur investigation of recent attacks has found incident… [+7517 chars]",
-         "publishedAt" : "2020-12-25T00:21:00Z",
+         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VVZCYYCGGQI6XF242F5YQFNGNU.jpg&w=1440",
          "source" : {
             "name" : "The Washington Post",
             "id" : "the-washington-post"
@@ -14,253 +16,251 @@
          "description" : "The intrusions appear to have occurred via a Microsoft corporate partner. The tech giant insists none of its products have been compromised."
       },
       {
-         "content" : "SALT LAKE CITY In the middle of downtown Salt Lake City, three friends reunited on the sidewalk in front of City Creek Mall. It's actually the spot where they first met under remarkable circumstances… [+4454 chars]",
+         "url" : "https://www.ksl.com/article/50073130/utah-man-discovers-friend-living-homeless-helps-him-return-home",
          "source" : {
-            "name" : "KSL.com",
-            "id" : null
+            "id" : null,
+            "name" : "KSL.com"
          },
-         "publishedAt" : "2020-12-25T00:04:11Z",
          "description" : "In the middle of downtown Salt Lake City, three friends reunited on the sidewalk in front of City Creek Mall.",
          "urlToImage" : "https://img.ksl.com/slc/2804/280495/28049572.jpeg?filter=ksl/responsive_story_lg",
+         "title" : "Utah man discovers friend living homeless, helps him return home - KSL.com",
+         "publishedAt" : "2020-12-25T00:04:11Z",
          "author" : "Candice Madsen, KSL TV",
-         "url" : "https://www.ksl.com/article/50073130/utah-man-discovers-friend-living-homeless-helps-him-return-home",
-         "title" : "Utah man discovers friend living homeless, helps him return home - KSL.com"
+         "content" : "SALT LAKE CITY In the middle of downtown Salt Lake City, three friends reunited on the sidewalk in front of City Creek Mall. It's actually the spot where they first met under remarkable circumstances… [+4454 chars]"
       },
       {
-         "description" : "GoDaddy sent a phishing test to its employees promising them a $650 holiday bonus. Too bad it was fake.",
-         "publishedAt" : "2020-12-24T23:27:19Z",
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
-         "content" : "The domain registrar tricked employees into thinking they earned a bonus\r\nWhats the cruelest prank you can make on employees who are struggling during a global pandemic when millions of people have l… [+1240 chars]",
          "url" : "https://www.theverge.com/2020/12/24/22199406/godaddy-wins-2020-stupidity-award",
+         "description" : "GoDaddy sent a phishing test to its employees promising them a $650 holiday bonus. Too bad it was fake.",
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/Ur4rKccSRou_6RYBvo1Q0kosA1s=/14x0:789x406/fit-in/1200x630/cdn.vox-cdn.com/assets/834985/godaddy-logo.jpeg",
+         "publishedAt" : "2020-12-24T23:27:19Z",
          "title" : "GoDaddy wins our 2020 award for most evil company email - The Verge",
          "author" : "T.C. Sottek",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/Ur4rKccSRou_6RYBvo1Q0kosA1s=/14x0:789x406/fit-in/1200x630/cdn.vox-cdn.com/assets/834985/godaddy-logo.jpeg"
+         "content" : "The domain registrar tricked employees into thinking they earned a bonus\r\nWhats the cruelest prank you can make on employees who are struggling during a global pandemic when millions of people have l… [+1240 chars]"
       },
       {
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201224161221-united-airlines-heathrow-file-0316-restricted-super-tease.jpg",
-         "author" : "By Steve Almasy, CNN",
-         "title" : "United Airlines latest to require negative coronavirus test for flights from London - CNN",
-         "url" : "https://www.cnn.com/travel/article/united-airlines-uk-coronavirus-test-intl/index.html",
-         "content" : "(CNN) United Airlines on Thursday became the fourth major airline with routes between London and the New York metropolitan area to require passengers show proof they have been tested negative recentl… [+2335 chars]",
          "publishedAt" : "2020-12-24T22:04:38Z",
+         "title" : "United Airlines latest to require negative coronavirus test for flights from London - CNN",
+         "author" : "By Steve Almasy, CNN",
+         "content" : "(CNN) United Airlines on Thursday became the fourth major airline with routes between London and the New York metropolitan area to require passengers show proof they have been tested negative recentl… [+2335 chars]",
+         "url" : "https://www.cnn.com/travel/article/united-airlines-uk-coronavirus-test-intl/index.html",
+         "description" : "United Airlines on Thursday became the fourth major airline with routes between London and the New York metropolitan area to require passengers show proof they have been tested negative recently for the novel coronavirus.",
          "source" : {
             "id" : "cnn",
             "name" : "CNN"
          },
-         "description" : "United Airlines on Thursday became the fourth major airline with routes between London and the New York metropolitan area to require passengers show proof they have been tested negative recently for the novel coronavirus."
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201224161221-united-airlines-heathrow-file-0316-restricted-super-tease.jpg"
       },
       {
-         "description" : "Over the last 14 days, there have 1,733 cases in Hawaii.",
-         "publishedAt" : "2020-12-24T22:04:00Z",
+         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/cG0KoaY2-tB0-vow1lFH3lGnkrY=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/WHSD2256QBFVJLVDDAWUCXAPWI.jpg",
          "source" : {
-            "name" : "Hawaii News Now",
-            "id" : null
+            "id" : null,
+            "name" : "Hawaii News Now"
          },
-         "content" : "HONOLULU, Hawaii (HawaiiNewsNow) - Hawaii reported 129 new COVID-19 infections on Christmas Eve, pushing the statewide total for cases since the pandemic began to 20,650.\r\nOver the last 14 days, ther… [+171 chars]",
+         "description" : "Over the last 14 days, there have 1,733 cases in Hawaii.",
          "url" : "https://www.hawaiinewsnow.com/2020/12/24/hawaii-reports-new-covid-infections-pushing-statewide-total/",
-         "title" : "Hawaii reports 129 new COVID-19 infections, pushing statewide total to 20,650 - Hawaii News Now",
+         "content" : "HONOLULU, Hawaii (HawaiiNewsNow) - Hawaii reported 129 new COVID-19 infections on Christmas Eve, pushing the statewide total for cases since the pandemic began to 20,650.\r\nOver the last 14 days, ther… [+171 chars]",
          "author" : "HNN Staff",
-         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/cG0KoaY2-tB0-vow1lFH3lGnkrY=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/WHSD2256QBFVJLVDDAWUCXAPWI.jpg"
+         "title" : "Hawaii reports 129 new COVID-19 infections, pushing statewide total to 20,650 - Hawaii News Now",
+         "publishedAt" : "2020-12-24T22:04:00Z"
       },
       {
+         "author" : "finanzen.net GmbH",
+         "content" : "\"Shark Tank\"/ABC\r\n<ul><li>Kevin O'Leary told CNBC on Thursday bitcoin is irrelevant to financial markets and at risk of regulation. </li><li>His comments come as an increasing number of institutions … [+2770 chars]",
+         "title" : "Bitcoin is irrelevant and investors 'are going to weep' if regulators come down hard on crypto, says Kevin O'Leary - Business Insider",
          "publishedAt" : "2020-12-24T21:45:00Z",
          "source" : {
-            "name" : "Business Insider",
-            "id" : "business-insider"
+            "id" : "business-insider",
+            "name" : "Business Insider"
          },
-         "content" : "\"Shark Tank\"/ABC\r\n<ul><li>Kevin O'Leary told CNBC on Thursday bitcoin is irrelevant to financial markets and at risk of regulation. </li><li>His comments come as an increasing number of institutions … [+2770 chars]",
          "description" : "'Is this a nothing burger? It's not even a single cell amoeba,' Kevin O'Leary said about bitcoin in a Thursday CNBC interview.",
-         "url" : "https://www.businessinsider.com/bitcoin-price-kevin-oleary-regulations-institutional-investors-weep-cryptocurrency-2020-12",
-         "title" : "Bitcoin is irrelevant and investors 'are going to weep' if regulators come down hard on crypto, says Kevin O'Leary - Business Insider",
          "urlToImage" : "https://images2.markets.businessinsider.com/5fe4a133edf8920018093a42?format=jpeg",
-         "author" : "finanzen.net GmbH"
+         "url" : "https://www.businessinsider.com/bitcoin-price-kevin-oleary-regulations-institutional-investors-weep-cryptocurrency-2020-12"
       },
       {
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/12/nikola_tre_1-760x380.jpg",
+         "description" : "Nikola has been on the defensive since fraud allegations surfaced in September.",
          "source" : {
             "id" : "ars-technica",
             "name" : "Ars Technica"
          },
-         "publishedAt" : "2020-12-24T21:20:00Z",
+         "url" : "https://arstechnica.com/cars/2020/12/nikola-stock-craters-after-cancellation-of-major-garbage-truck-order/",
          "content" : "Enlarge/ The garbage truck was supposed to be based on the same platform as the forthcoming Nikola Tre battery electric semi truck.\r\n50 with 31 posters participating\r\nAnother established company has … [+2519 chars]",
-         "description" : "Nikola has been on the defensive since fraud allegations surfaced in September.",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/12/nikola_tre_1-760x380.jpg",
          "author" : "Timothy B. Lee",
-         "title" : "Nikola stock craters after cancellation of major garbage truck order - Ars Technica",
-         "url" : "https://arstechnica.com/cars/2020/12/nikola-stock-craters-after-cancellation-of-major-garbage-truck-order/"
+         "publishedAt" : "2020-12-24T21:20:00Z",
+         "title" : "Nikola stock craters after cancellation of major garbage truck order - Ars Technica"
       },
       {
-         "urlToImage" : "https://thehill.com/sites/default/files/mail-in-ballots_wa_031020getty.jpg",
+         "content" : "A federal judge on Thursday approved an agreement between the U.S. Postal Service (USPS) and civil rights groups that would implement measures to ensure that absentee ballots in Georgia are delivered… [+2772 chars]",
          "author" : "Harper Neidig",
          "title" : "Judge approves deal to expedite Georgia runoff ballots | TheHill - The Hill",
-         "url" : "https://thehill.com/regulation/court-battles/531623-judge-approves-deal-to-expedite-georgia-runoff-ballots",
-         "content" : "A federal judge on Thursday approved an agreement between the U.S. Postal Service (USPS) and civil rights groups that would implement measures to ensure that absentee ballots in Georgia are delivered… [+2772 chars]",
          "publishedAt" : "2020-12-24T20:45:58Z",
+         "urlToImage" : "https://thehill.com/sites/default/files/mail-in-ballots_wa_031020getty.jpg",
          "source" : {
             "id" : "the-hill",
             "name" : "The Hill"
          },
-         "description" : "A federal judge on Thursday approved an agreement between the U.S. Postal Service (USPS) and civi..."
+         "description" : "A federal judge on Thursday approved an agreement between the U.S. Postal Service (USPS) and civi...",
+         "url" : "https://thehill.com/regulation/court-battles/531623-judge-approves-deal-to-expedite-georgia-runoff-ballots"
       },
       {
-         "url" : "https://www.cnbc.com/2020/12/24/ceo-says-hawaiian-airlines-is-optimistic-on-2021-new-flight-routes.html",
-         "title" : "Hawaiian Airlines CEO says airline is optimistic about 2021 travel, three new routes - CNBC",
-         "author" : "Tyler Clifford",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106756016-1603359402844-gettyimages-1203425528-f_gandolfo_n384halax0815.jpeg?v=1603431323",
          "description" : "Hawaiian Airlines plans to add nonstop routes to Austin, Texas, and Orlando, Florida, in the spring to capitalize on population shifts, CEO Peter Ingram said.",
-         "publishedAt" : "2020-12-24T20:45:00Z",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "content" : "After a bruising year for the airline industry, Hawaiian Airlines CEO Peter Ingram told CNBC he believes it's only up from here.\r\nAirlines spent much of 2020 cutting routes and reducing flights due t… [+3126 chars]"
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106756016-1603359402844-gettyimages-1203425528-f_gandolfo_n384halax0815.jpeg?v=1603431323",
+         "url" : "https://www.cnbc.com/2020/12/24/ceo-says-hawaiian-airlines-is-optimistic-on-2021-new-flight-routes.html",
+         "author" : "Tyler Clifford",
+         "content" : "After a bruising year for the airline industry, Hawaiian Airlines CEO Peter Ingram told CNBC he believes it's only up from here.\r\nAirlines spent much of 2020 cutting routes and reducing flights due t… [+3126 chars]",
+         "publishedAt" : "2020-12-24T20:45:00Z",
+         "title" : "Hawaiian Airlines CEO says airline is optimistic about 2021 travel, three new routes - CNBC"
       },
       {
-         "description" : "Rosen Law Firm, a global investor rights law firm, announces it has filed a class action lawsuit on behalf of purchasers of the securities of CD Proje",
-         "content" : "NEW YORK--(BUSINESS WIRE)--Rosen Law Firm, a global investor rights law firm, announces it has filed a class action lawsuit on behalf of purchasers of the securities of CD Projekt S.A. (OTC: OTGLY, O… [+3007 chars]",
-         "publishedAt" : "2020-12-24T20:14:00Z",
+         "url" : "https://www.businesswire.com/news/home/20201224005214/en/EQUITY-ALERT-Rosen-Law-Firm-Files-Securities-Class-Action-Lawsuit-Against-CD-Projekt-S.A.-%E2%80%93-OTGLY-OTGLF",
          "source" : {
             "id" : null,
             "name" : "Business Wire"
          },
-         "author" : null,
+         "description" : "Rosen Law Firm, a global investor rights law firm, announces it has filed a class action lawsuit on behalf of purchasers of the securities of CD Proje",
          "urlToImage" : "https://mms.businesswire.com/media/20201224005214/en/841157/23/Firm_Logo_November_2020.jpg",
-         "url" : "https://www.businesswire.com/news/home/20201224005214/en/EQUITY-ALERT-Rosen-Law-Firm-Files-Securities-Class-Action-Lawsuit-Against-CD-Projekt-S.A.-%E2%80%93-OTGLY-OTGLF",
-         "title" : "EQUITY ALERT: Rosen Law Firm Files Securities Class Action Lawsuit Against CD Projekt S.A. – OTGLY, OTGLF - Business Wire"
+         "title" : "EQUITY ALERT: Rosen Law Firm Files Securities Class Action Lawsuit Against CD Projekt S.A. – OTGLY, OTGLF - Business Wire",
+         "publishedAt" : "2020-12-24T20:14:00Z",
+         "author" : null,
+         "content" : "NEW YORK--(BUSINESS WIRE)--Rosen Law Firm, a global investor rights law firm, announces it has filed a class action lawsuit on behalf of purchasers of the securities of CD Projekt S.A. (OTC: OTGLY, O… [+3007 chars]"
       },
       {
-         "author" : "Harley Tamplin",
-         "urlToImage" : "https://www.kxan.com/wp-content/uploads/sites/40/2020/02/cedar-park-police-1.jpg?w=1280",
-         "title" : "Suspects arrested after USPS letter carrier robbed and master key stolen in Cedar Park - KXAN.com",
-         "url" : "https://www.kxan.com/news/crime/suspects-arrested-after-usps-letter-carrier-robbed-and-master-key-stolen-in-cedar-park/",
-         "description" : "A man and a woman have been arrested in connection with a robbery of a USPS letter carrier in Cedar Park last month.",
-         "content" : "AUSTIN (KXAN) A man and a woman have been arrested in connection with a robbery of a USPS letter carrier in Cedar Park last month.\r\nThe Cedar Park Police Department said Alejandro Julian Garza, 29, a… [+841 chars]",
-         "publishedAt" : "2020-12-24T19:56:00Z",
          "source" : {
             "name" : "KXAN.com",
             "id" : null
-         }
+         },
+         "description" : "A man and a woman have been arrested in connection with a robbery of a USPS letter carrier in Cedar Park last month.",
+         "urlToImage" : "https://www.kxan.com/wp-content/uploads/sites/40/2020/02/cedar-park-police-1.jpg?w=1280",
+         "url" : "https://www.kxan.com/news/crime/suspects-arrested-after-usps-letter-carrier-robbed-and-master-key-stolen-in-cedar-park/",
+         "author" : "Harley Tamplin",
+         "content" : "AUSTIN (KXAN) A man and a woman have been arrested in connection with a robbery of a USPS letter carrier in Cedar Park last month.\r\nThe Cedar Park Police Department said Alejandro Julian Garza, 29, a… [+841 chars]",
+         "title" : "Suspects arrested after USPS letter carrier robbed and master key stolen in Cedar Park - KXAN.com",
+         "publishedAt" : "2020-12-24T19:56:00Z"
       },
       {
-         "content" : "Taco Bells Nacho Fries seem to be the secret ingredient to fast food success.\r\nTaco Bell has an early  and cheesy  Christmas gift for fans of its Nacho Fries.\r\nThe seasoned fries that come with nacho… [+1884 chars]",
-         "publishedAt" : "2020-12-24T19:41:15Z",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/12/16/USAT/47fa2c28-7293-4af8-bbbd-8716c49033dc-Taco_Bell_Nacho_Fries_5_Box_Supreme_A_la_Carte_1.jpg?crop=3416,1922,x1,y541&width=3200&height=1680&fit=bounds",
          "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
+            "name" : "USA Today",
+            "id" : "usa-today"
          },
          "description" : "Taco Bell is bringing back Nacho Fries Christmas Eve along Bacon Club Chalupa for a limited time after cutting its menu amid the coronavirus pandemic.",
-         "title" : "Taco Bell adds Nacho Fries, Bacon Club Chalupa starting Christmas Eve after making menu cuts amid COVID-19 - USA TODAY",
          "url" : "https://www.usatoday.com/story/money/food/2020/12/24/taco-bell-menu-additions-nacho-fries-limited-time/4018816001/",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/12/16/USAT/47fa2c28-7293-4af8-bbbd-8716c49033dc-Taco_Bell_Nacho_Fries_5_Box_Supreme_A_la_Carte_1.jpg?crop=3416,1922,x1,y541&width=3200&height=1680&fit=bounds",
-         "author" : "Kelly Tyko"
+         "content" : "Taco Bells Nacho Fries seem to be the secret ingredient to fast food success.\r\nTaco Bell has an early  and cheesy  Christmas gift for fans of its Nacho Fries.\r\nThe seasoned fries that come with nacho… [+1884 chars]",
+         "author" : "Kelly Tyko",
+         "title" : "Taco Bell adds Nacho Fries, Bacon Club Chalupa starting Christmas Eve after making menu cuts amid COVID-19 - USA TODAY",
+         "publishedAt" : "2020-12-24T19:41:15Z"
       },
       {
+         "author" : "Tariq Malik",
+         "content" : "SpaceX dropped an early Christmas present for space fans everywhere this week with an amazing video recap of its first major test launch of a Starship rocket.\r\nThe video, which SpaceX unveiled Wednes… [+3335 chars]",
+         "publishedAt" : "2020-12-24T19:29:00Z",
+         "title" : "Relive SpaceX's Starship SN8 test launch with this epic recap video - Space.com",
          "description" : "Watch the giant Starship launch, flip over and yes, explode.",
          "source" : {
-            "id" : null,
-            "name" : "Space.com"
+            "name" : "Space.com",
+            "id" : null
          },
-         "publishedAt" : "2020-12-24T19:29:00Z",
-         "content" : "SpaceX dropped an early Christmas present for space fans everywhere this week with an amazing video recap of its first major test launch of a Starship rocket.\r\nThe video, which SpaceX unveiled Wednes… [+3335 chars]",
-         "author" : "Tariq Malik",
          "urlToImage" : "https://cdn.mos.cms.futurecdn.net/3TcX6aZYX9H8uNuLcNwjDe-1200-80.jpg",
-         "url" : "https://www.space.com/spacex-starship-sn8-test-launch-recap-video",
-         "title" : "Relive SpaceX's Starship SN8 test launch with this epic recap video - Space.com"
+         "url" : "https://www.space.com/spacex-starship-sn8-test-launch-recap-video"
       },
       {
+         "url" : "https://www.cnbc.com/2020/12/24/holiday-gift-card-buying-could-help-boost-retail-sales-in-2021-bill-simon.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106816268-1608832783140-gettyimages-1280324505-1006_32_fl200924206.jpeg?v=1608832896",
          "description" : "\"They might not redeem their cards until the second quarter, and it may trickle in during the course of the year,\" former Walmart U.S. CEO Bill Simon said.",
-         "publishedAt" : "2020-12-24T19:27:00Z",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "content" : "There may be increased spending on gift cards this holiday season, and that may help boost retail sales next year, former Walmart U.S. President and CEO Bill Simon told CNBC on Thursday.\r\nPayment ser… [+2054 chars]",
-         "author" : "Kevin Stankiewicz",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106816268-1608832783140-gettyimages-1280324505-1006_32_fl200924206.jpeg?v=1608832896",
+         "publishedAt" : "2020-12-24T19:27:00Z",
          "title" : "Holiday gift-card buying could help boost retail sales in 2021, ex-Walmart exec says - CNBC",
-         "url" : "https://www.cnbc.com/2020/12/24/holiday-gift-card-buying-could-help-boost-retail-sales-in-2021-bill-simon.html"
+         "content" : "There may be increased spending on gift cards this holiday season, and that may help boost retail sales next year, former Walmart U.S. President and CEO Bill Simon told CNBC on Thursday.\r\nPayment ser… [+2054 chars]",
+         "author" : "Kevin Stankiewicz"
       },
       {
-         "description" : "The plane redirected to New Orleans after the passenger went into cardiac arrest.",
+         "author" : "Peter Aitken",
+         "content" : "A Los Angeles EMT on an LAX-bound flight tested negative for coronavirus after providing CPR to a man who had died of COVID-19, according to reports. \r\nEMT Tony Aldapa was on an LAX inbound flight wh… [+1114 chars]",
          "publishedAt" : "2020-12-24T19:22:43Z",
+         "title" : "Los Angeles EMT tests negative for coronavirus after providing CPR to man who died of COVID-19 - Fox News",
+         "description" : "The plane redirected to New Orleans after the passenger went into cardiac arrest.",
          "source" : {
             "id" : "fox-news",
             "name" : "Fox News"
          },
-         "content" : "A Los Angeles EMT on an LAX-bound flight tested negative for coronavirus after providing CPR to a man who had died of COVID-19, according to reports. \r\nEMT Tony Aldapa was on an LAX inbound flight wh… [+1114 chars]",
-         "author" : "Peter Aitken",
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/swab_istock.jpg",
-         "url" : "https://www.foxnews.com/us/los-angeles-emt-tests-negative-after-providing-cpr-to-man-who-died-of-covid",
-         "title" : "Los Angeles EMT tests negative for coronavirus after providing CPR to man who died of COVID-19 - Fox News"
+         "url" : "https://www.foxnews.com/us/los-angeles-emt-tests-negative-after-providing-cpr-to-man-who-died-of-covid"
       },
       {
-         "author" : "Audrey Conklin",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/Dave-Portnoy-Chris-Sacca.jpg?ve=1&tl=1",
-         "title" : "Barstool's Portnoy slams investor who warned new traders are 'not actually that good at it' - Fox Business",
-         "url" : "https://www.foxbusiness.com/markets/barstool-portnoy-response-chris-sacca-warning-new-traders",
          "description" : "Barstool Sports founder Dave Portnoy called venture capital investor Chris Sacca \"an idiot\" after Sacca shared \"a little hard truth\" for new investors.",
-         "publishedAt" : "2020-12-24T19:02:27Z",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Fox Business",
+            "id" : null
          },
-         "content" : "Barstool Sports founder Dave Portnoy called venture capital investor Chris Sacca \"an idiot\" after Sacca shared \"a little hard truth\" for new investors.\r\n\"To everyone who got into trading stocks this … [+2347 chars]"
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/Dave-Portnoy-Chris-Sacca.jpg?ve=1&tl=1",
+         "url" : "https://www.foxbusiness.com/markets/barstool-portnoy-response-chris-sacca-warning-new-traders",
+         "author" : "Audrey Conklin",
+         "content" : "Barstool Sports founder Dave Portnoy called venture capital investor Chris Sacca \"an idiot\" after Sacca shared \"a little hard truth\" for new investors.\r\n\"To everyone who got into trading stocks this … [+2347 chars]",
+         "publishedAt" : "2020-12-24T19:02:27Z",
+         "title" : "Barstool's Portnoy slams investor who warned new traders are 'not actually that good at it' - Fox Business"
       },
       {
-         "content" : "The Dow Jones Industrial Average rose 70.04 points, or 0.2%, to 30,199.87 and the Nasdaq composite rose 33.62 points, or 0.3%, to 12,804.73.\r\nInvestors remain focused on Washington, where Democrats i… [+1226 chars]",
-         "publishedAt" : "2020-12-24T18:54:00Z",
+         "urlToImage" : "https://static.politico.com/e0/1b/82285caf4c14afed3aff142f422b/201224-ny-stock-exchange-ap-773.jpg",
          "source" : {
-            "id" : "politico",
-            "name" : "Politico"
+            "name" : "Politico",
+            "id" : "politico"
          },
          "description" : "Trading was extremely light in the abbreviated session ahead of the Christmas holiday.",
          "url" : "https://www.politico.com/news/2020/12/24/stocks-close-higher-christmas-eve-450369",
+         "content" : "The Dow Jones Industrial Average rose 70.04 points, or 0.2%, to 30,199.87 and the Nasdaq composite rose 33.62 points, or 0.3%, to 12,804.73.\r\nInvestors remain focused on Washington, where Democrats i… [+1226 chars]",
+         "author" : "Associated Press",
          "title" : "Stocks close higher in holiday shortened week - POLITICO",
-         "urlToImage" : "https://static.politico.com/e0/1b/82285caf4c14afed3aff142f422b/201224-ny-stock-exchange-ap-773.jpg",
-         "author" : "Associated Press"
+         "publishedAt" : "2020-12-24T18:54:00Z"
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/606249/alibaba-office.png",
-         "author" : "Jeremy Bowman",
-         "title" : "Why Alibaba Just Lost $100 Billion in Market Value - Motley Fool",
          "url" : "https://www.fool.com/investing/2020/12/24/why-alibaba-just-lost-100-billion-in-market-value/",
-         "content" : "What happened\r\nShares of Alibaba (NYSE:BABA) took a dive today after the Chinese government said it would open up an antitrust investigation into the tech giant. The news comes just weeks after Beiji… [+2277 chars]",
-         "publishedAt" : "2020-12-24T18:39:00Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/606249/alibaba-office.png",
          "source" : {
             "id" : null,
             "name" : "Motley Fool"
          },
-         "description" : "A new investigation by the Chinese government sent the stock tumbling."
+         "description" : "A new investigation by the Chinese government sent the stock tumbling.",
+         "title" : "Why Alibaba Just Lost $100 Billion in Market Value - Motley Fool",
+         "publishedAt" : "2020-12-24T18:39:00Z",
+         "content" : "What happened\r\nShares of Alibaba (NYSE:BABA) took a dive today after the Chinese government said it would open up an antitrust investigation into the tech giant. The news comes just weeks after Beiji… [+2277 chars]",
+         "author" : "Jeremy Bowman"
       },
       {
-         "content" : "A CDC advisory panel has changed its recommendations to prioritize those aged over 75 in the next stage of the COVID-19 vaccine distribution after facing backlash for suggesting essential workers, wh… [+9225 chars]",
-         "publishedAt" : "2020-12-24T18:23:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Daily Mail"
-         },
-         "description" : "The Advisory Committee on Immunization Practices voted earlier this week that about 20 million people 75 and older and 30 million front-line workers like firefighters and teachers should be next in line.",
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/12/24/18/37233452-0-image-a-6_1608833799884.jpg",
-         "author" : "Emily Crane",
          "url" : "https://www.dailymail.co.uk/news/article-9086303/CDC-advisory-panel-changes-guidelines-prioritize-75s-COVID-vaccine.html",
-         "title" : "COVID US: CDC changes guidelines to prioritize over 75s for vaccine - Daily Mail"
+         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/12/24/18/37233452-0-image-a-6_1608833799884.jpg",
+         "description" : "The Advisory Committee on Immunization Practices voted earlier this week that about 20 million people 75 and older and 30 million front-line workers like firefighters and teachers should be next in line.",
+         "source" : {
+            "name" : "Daily Mail",
+            "id" : null
+         },
+         "publishedAt" : "2020-12-24T18:23:00Z",
+         "title" : "COVID US: CDC changes guidelines to prioritize over 75s for vaccine - Daily Mail",
+         "content" : "A CDC advisory panel has changed its recommendations to prioritize those aged over 75 in the next stage of the COVID-19 vaccine distribution after facing backlash for suggesting essential workers, wh… [+9225 chars]",
+         "author" : "Emily Crane"
       },
       {
+         "author" : "Lindsey Grewe",
          "content" : "COLORADO SPRINGS, Colo. (KKTV) - Sixty COVID-19 cases have been confirmed at the In-n-Out in Colorado Springs.\r\nAccording to the El Paso County COVID-19 website, the outbreak was first reported on De… [+3001 chars]",
+         "title" : "60 COVID-19 cases confirmed at Colorado Springs In-n-Out - KKTV",
          "publishedAt" : "2020-12-24T17:56:00Z",
          "source" : {
-            "name" : "KKTV 11 News",
-            "id" : null
+            "id" : null,
+            "name" : "KKTV 11 News"
          },
          "description" : "According to the El Paso County COVID-19 website, the outbreak was first reported on Dec. 6 and remains active as of Christmas Eve.",
          "urlToImage" : "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/TA9ayXuTSCh8g2_hq2E4cGiQEYk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/A3YGG2XGNBAQ3JDN4QWAILOPKI.JPG",
-         "author" : "Lindsey Grewe",
-         "url" : "https://www.kktv.com/2020/12/24/60-covid-19-cases-confirmed-at-colorado-springs-in-n-out/",
-         "title" : "60 COVID-19 cases confirmed at Colorado Springs In-n-Out - KKTV"
+         "url" : "https://www.kktv.com/2020/12/24/60-covid-19-cases-confirmed-at-colorado-springs-in-n-out/"
       }
-   ],
-   "status" : "ok",
-   "totalResults" : 70
+   ]
 }
