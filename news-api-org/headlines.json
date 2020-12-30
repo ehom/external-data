@@ -1,266 +1,266 @@
 {
-   "status" : "ok",
-   "totalResults" : 70,
    "articles" : [
       {
          "description" : "The United Kingdom has approved another coronavirus vaccine for use, weeks after the country became the first in the world to start inoculating its citizens.",
-         "author" : "Mick Krever and Emma Reynolds, CNN",
-         "publishedAt" : "2020-12-30T08:02:00Z",
-         "title" : "UK regulator approves Oxford/AstraZeneca coronavirus vaccine - CNN",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200813172225-oxford-astra-zeneca-vacuna-mexico-slim-argentina-aplicarse-sin-fines-de-lucro-gatell-amlo-ebrard-perspectivas-mexico-pkg-digital-oirginal-00000000-super-tease.jpg",
+         "publishedAt" : "2020-12-30T08:02:00Z",
+         "url" : "https://www.cnn.com/2020/12/30/uk/uk-oxford-coronavirus-vaccine-intl-hnk/index.html",
+         "title" : "UK regulator approves Oxford/AstraZeneca coronavirus vaccine - CNN",
+         "author" : "Mick Krever and Emma Reynolds, CNN",
          "content" : null,
-         "url" : "https://www.cnn.com/2020/12/30/uk/uk-oxford-coronavirus-vaccine-intl-hnk/index.html"
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/200813172225-oxford-astra-zeneca-vacuna-mexico-slim-argentina-aplicarse-sin-fines-de-lucro-gatell-amlo-ebrard-perspectivas-mexico-pkg-digital-oirginal-00000000-super-tease.jpg"
       },
       {
-         "title" : "A Chinese Covid-19 Vaccine Has Proved Effective, Its Maker Says - The New York Times",
-         "publishedAt" : "2020-12-30T05:17:00Z",
          "description" : "Sinopharm, a state-controlled company, said its candidate had a 79 percent efficacy rate in interim late-stage trials, bringing a China-made vaccine a step closer to approval for mass use.",
-         "author" : "Sui-Lee Wee",
-         "url" : "https://www.nytimes.com/2020/12/30/business/china-vaccine.html",
-         "content" : "The Sinopharm vaccines results show that it is less effective than others that have been approved in other countries. Still, the results are well above the 50 percent threshold that makes a vaccine e… [+1269 chars]",
-         "urlToImage" : "https://static01.nyt.com/images/2020/12/09/business/00china-vaccine-HFO3/00china-vaccine-HFO3-facebookJumbo.jpg",
          "source" : {
             "id" : null,
             "name" : "New York Times"
-         }
+         },
+         "url" : "https://www.nytimes.com/2020/12/30/business/china-vaccine.html",
+         "publishedAt" : "2020-12-30T05:17:00Z",
+         "urlToImage" : "https://static01.nyt.com/images/2020/12/09/business/00china-vaccine-HFO3/00china-vaccine-HFO3-facebookJumbo.jpg",
+         "content" : "The Sinopharm vaccines results show that it is less effective than others that have been approved in other countries. Still, the results are well above the 50 percent threshold that makes a vaccine e… [+1269 chars]",
+         "title" : "A Chinese Covid-19 Vaccine Has Proved Effective, Its Maker Says - The New York Times",
+         "author" : "Sui-Lee Wee"
       },
       {
-         "title" : "Somerset police officer buys Christmas dinner for family after shoplifting call - WCVB Boston",
+         "source" : {
+            "id" : null,
+            "name" : "WCVB Boston"
+         },
          "description" : "A Massachusetts police officer is being recognized for giving and forgiving this holiday season after responding to a call for shoplifting at a local supermarket.",
-         "author" : "Julie Loncich",
-         "publishedAt" : "2020-12-30T03:38:00Z",
          "url" : "https://www.wcvb.com/article/somerset-massachusetts-police-officer-buys-christmas-dinner-family-shoplifting-call/35093606",
+         "publishedAt" : "2020-12-30T03:38:00Z",
          "content" : "SOMERSET, Mass. —A Massachusetts police officer is being recognized for giving and forgiving this holiday season, after responding to a call for shoplifting at a local supermarket. \r\nSomerset Police … [+1995 chars]",
-         "source" : {
-            "name" : "WCVB Boston",
-            "id" : null
-         },
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/somerset-police-officer-matthew-lima-1609298065.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/somerset-police-officer-matthew-lima-1609298065.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "title" : "Somerset police officer buys Christmas dinner for family after shoplifting call - WCVB Boston",
+         "author" : "Julie Loncich"
       },
       {
-         "publishedAt" : "2020-12-30T03:14:00Z",
-         "author" : "Jacob Sonenshine",
-         "description" : "",
-         "title" : "Japanese Stocks Are Soaring. What’s Behind the Surge. - Barron's",
          "source" : {
-            "name" : "Barron's",
-            "id" : null
+            "id" : null,
+            "name" : "Barron's"
          },
+         "description" : "",
          "urlToImage" : "https://images.barrons.com/im-278973/social",
          "content" : "Japanese stocks hit their highest levels in 31 years on Tuesday. Sure, global markets are in a good mood as investors continue to be bullish about the continued economic recovery. But the global econ… [+3208 chars]",
-         "url" : "https://www.barrons.com/articles/japanese-stocks-are-soaring-whats-behind-the-surge-51609270941"
+         "title" : "Japanese Stocks Are Soaring. What’s Behind the Surge. - Barron's",
+         "author" : "Jacob Sonenshine",
+         "url" : "https://www.barrons.com/articles/japanese-stocks-are-soaring-whats-behind-the-surge-51609270941",
+         "publishedAt" : "2020-12-30T03:14:00Z"
       },
       {
+         "description" : "Looks like the Boston Dynamics robots can now learn choreography. And you thought you were a good dancer?",
          "source" : {
             "name" : "CNET",
             "id" : null
          },
-         "urlToImage" : "https://cnet2.cbsistatic.com/img/i--x9KVWD_JW3RC0DAidoNgAOd0=/1200x630/2020/12/30/b4c5a07d-c6a5-4376-ab62-4664ba928838/dancebig.jpg",
          "url" : "https://www.cnet.com/news/see-boston-dynamics-robots-show-off-some-impressive-dance-moves/",
-         "content" : "These Boston Dynamics robots could teach humans a thing or two on the dance floor.\r\nVideo screenshot by Bonnie Burton/CNET\r\nBoston Dynamics robots can climb rough terrain, help doctors and remind hum… [+1389 chars]",
-         "description" : "Looks like the Boston Dynamics robots can now learn choreography. And you thought you were a good dancer?",
-         "author" : "Bonnie Burton",
          "publishedAt" : "2020-12-30T02:37:00Z",
-         "title" : "See Boston Dynamics robots show off seriously impressive dance moves - CNET"
+         "urlToImage" : "https://cnet2.cbsistatic.com/img/i--x9KVWD_JW3RC0DAidoNgAOd0=/1200x630/2020/12/30/b4c5a07d-c6a5-4376-ab62-4664ba928838/dancebig.jpg",
+         "content" : "These Boston Dynamics robots could teach humans a thing or two on the dance floor.\r\nVideo screenshot by Bonnie Burton/CNET\r\nBoston Dynamics robots can climb rough terrain, help doctors and remind hum… [+1389 chars]",
+         "title" : "See Boston Dynamics robots show off seriously impressive dance moves - CNET",
+         "author" : "Bonnie Burton"
       },
       {
+         "publishedAt" : "2020-12-30T02:36:00Z",
+         "url" : "https://www.wavy.com/news/local-news/virginia-beach/man-handcuffed-wrongfully-detained-by-virginia-beach-police-at-a-mall-tests-positive-for-coronavirus/",
+         "title" : "Man handcuffed, wrongfully detained by Virginia Beach police at a mall tests positive for coronavirus - WAVY.com",
+         "author" : "WAVY Web Staff, Regina Mobley",
+         "content" : "VIRGINIA BEACH, Va. (WAVY) A man who was wrongfully detained at a mall in Virginia Beach has tested positive for the coronavirus.\r\nIt is unclear where the man was exposed and how long he has had the … [+3103 chars]",
          "urlToImage" : "https://www.wavy.com/wp-content/uploads/sites/3/2020/12/thumbnail_IMG_2549-e1609295447158.jpg?w=1280",
+         "description" : "VIRGINIA BEACH, Va. (WAVY) — A man who was wrongfully detained at a mall in Virginia Beach has tested positive for the coronavirus. It is unclear where the man was exposed and how long he has had the virus. Jamar Mackey was the innocent man seen in a viral vi…",
          "source" : {
             "name" : "WAVY.com",
             "id" : null
-         },
-         "content" : "VIRGINIA BEACH, Va. (WAVY) A man who was wrongfully detained at a mall in Virginia Beach has tested positive for the coronavirus.\r\nIt is unclear where the man was exposed and how long he has had the … [+3103 chars]",
-         "url" : "https://www.wavy.com/news/local-news/virginia-beach/man-handcuffed-wrongfully-detained-by-virginia-beach-police-at-a-mall-tests-positive-for-coronavirus/",
-         "description" : "VIRGINIA BEACH, Va. (WAVY) — A man who was wrongfully detained at a mall in Virginia Beach has tested positive for the coronavirus. It is unclear where the man was exposed and how long he has had the virus. Jamar Mackey was the innocent man seen in a viral vi…",
-         "author" : "WAVY Web Staff, Regina Mobley",
-         "publishedAt" : "2020-12-30T02:36:00Z",
-         "title" : "Man handcuffed, wrongfully detained by Virginia Beach police at a mall tests positive for coronavirus - WAVY.com"
+         }
       },
       {
-         "publishedAt" : "2020-12-30T01:58:00Z",
-         "description" : "Since September 2020, the MLCC has suspended the liquor licenses of 31 establishments throughout the state.",
-         "author" : "Amy McNeel (WZZM13)",
          "title" : "Liquor licenses yanked from 5 more Michigan restaurants - WZZM13.com",
+         "author" : "Amy McNeel (WZZM13)",
+         "urlToImage" : "https://media.wzzm13.com/assets/WZZM/images/65a7562c-ee65-4345-a10e-ed8bb50be464/65a7562c-ee65-4345-a10e-ed8bb50be464_1140x641.jpg",
+         "content" : "MICHIGAN, USA The Michigan Liquor Control Commission (MLCC) has issued emergency suspensions of liquor licenses and permits for five more Michigan restaurants.\r\nThe suspensions were announced Tuesday… [+1613 chars]",
+         "publishedAt" : "2020-12-30T01:58:00Z",
+         "url" : "https://www.wzzm13.com/article/news/local/liquor-licenses-yanked-from-5-more-michigan-restaurants/69-5863a21f-4461-4a0a-b05c-68ca220809fa",
          "source" : {
             "id" : null,
             "name" : "WZZM13.com"
          },
-         "urlToImage" : "https://media.wzzm13.com/assets/WZZM/images/65a7562c-ee65-4345-a10e-ed8bb50be464/65a7562c-ee65-4345-a10e-ed8bb50be464_1140x641.jpg",
-         "url" : "https://www.wzzm13.com/article/news/local/liquor-licenses-yanked-from-5-more-michigan-restaurants/69-5863a21f-4461-4a0a-b05c-68ca220809fa",
-         "content" : "MICHIGAN, USA The Michigan Liquor Control Commission (MLCC) has issued emergency suspensions of liquor licenses and permits for five more Michigan restaurants.\r\nThe suspensions were announced Tuesday… [+1613 chars]"
+         "description" : "Since September 2020, the MLCC has suspended the liquor licenses of 31 establishments throughout the state."
       },
       {
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Ffa7d8220-4a3a-11eb-9faf-2c885b46bd4b&client=amp-blogside-v2&signature=405ee5dab3ed87c3549700d58e45750f09b38b5d",
          "source" : {
-            "id" : "engadget",
-            "name" : "Engadget"
+            "name" : "Engadget",
+            "id" : "engadget"
          },
-         "url" : "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html",
-         "content" : "<ul><li>Navigate on Autopilot: automatic driving from highway on-ramp to off-ramp including interchanges and overtaking slower cars.\r\n</li><li>Auto Lane Change: automatic lane changes while driving o… [+1169 chars]",
-         "publishedAt" : "2020-12-30T01:40:43Z",
          "description" : "The “Full Self-Driving” system that Tesla sells as a $10,000 option isn’t available in subscription form yet, but the car company is already using that idea to boost sales.  Reported earlier by Electrek and confirmed in a tweet by Elon Musk, “All Tesla cars d…",
          "author" : "",
-         "title" : "Tesla uses three free months of 'Full Self-Driving' to push year-end sales - Engadget"
+         "title" : "Tesla uses three free months of 'Full Self-Driving' to push year-end sales - Engadget",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Ffa7d8220-4a3a-11eb-9faf-2c885b46bd4b&client=amp-blogside-v2&signature=405ee5dab3ed87c3549700d58e45750f09b38b5d",
+         "content" : "<ul><li>Navigate on Autopilot: automatic driving from highway on-ramp to off-ramp including interchanges and overtaking slower cars.\r\n</li><li>Auto Lane Change: automatic lane changes while driving o… [+1169 chars]",
+         "publishedAt" : "2020-12-30T01:40:43Z",
+         "url" : "https://www.engadget.com/tesla-fsd-3-month-offer-011341156.html"
       },
       {
-         "title" : "Intel soars 8% after activist hedge fund Third Point urges chipmaker to explore strategic alternatives - Business Insider",
-         "description" : "Third Point, run by billionaire investor Daniel Loeb, has amassed a near $1 billion stake in Intel, Reuters said, citing people familiar with the matter.",
-         "author" : "Matthew Fox",
          "publishedAt" : "2020-12-30T01:39:00Z",
-         "content" : "FILE PHOTO: Loeb, founder of Third Point LLC, participates in a panel discussion during the Skybridge Alternatives Conference in Las Vegas\r\nReuters\r\n<ul><li>Intel soared 8% on Tuesday after activist … [+2760 chars]",
          "url" : "https://www.businessinsider.com/intel-stock-price-third-point-urges-chipmaker-explore-strategic-alternatives-2020-12",
+         "title" : "Intel soars 8% after activist hedge fund Third Point urges chipmaker to explore strategic alternatives - Business Insider",
+         "author" : "Matthew Fox",
          "urlToImage" : "https://images2.markets.businessinsider.com/5feb7ba6b7ab82001943e740?format=jpeg",
+         "content" : "FILE PHOTO: Loeb, founder of Third Point LLC, participates in a panel discussion during the Skybridge Alternatives Conference in Las Vegas\r\nReuters\r\n<ul><li>Intel soared 8% on Tuesday after activist … [+2760 chars]",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
-         }
+         },
+         "description" : "Third Point, run by billionaire investor Daniel Loeb, has amassed a near $1 billion stake in Intel, Reuters said, citing people familiar with the matter."
       },
       {
          "description" : null,
-         "author" : null,
-         "publishedAt" : "2020-12-30T01:26:24Z",
-         "title" : "Stressed Phoenix hospitals close doors to ambulances, divert patients to other facilities - The Arizona Republic",
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
+         "content" : null,
          "urlToImage" : null,
+         "title" : "Stressed Phoenix hospitals close doors to ambulances, divert patients to other facilities - The Arizona Republic",
+         "author" : null,
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMimgFodHRwczovL3d3dy5hemNlbnRyYWwuY29tL3N0b3J5L25ld3MvbG9jYWwvYXJpem9uYS1oZWFsdGgvMjAyMC8xMi8yOS9waG9lbml4LWhvc3BpdGFscy1jbG9zZS1kb29ycy1hbWJ1bGFuY2VzLWRpdmVydC1wYXRpZW50cy1vdGhlci1mYWNpbGl0aWVzLzQwNzk4MzIwMDEv0gEoaHR0cHM6Ly9hbXAuYXpjZW50cmFsLmNvbS9hbXAvNDA3OTgzMjAwMQ?oc=5",
-         "content" : null
+         "publishedAt" : "2020-12-30T01:26:24Z"
       },
       {
-         "author" : "TipRanks",
-         "description" : "The old axiom of what goes up must come down, is particularly fitting right now for fuboTV (FUBO). The sports-focused streaming platform came hurtling out of...",
-         "publishedAt" : "2020-12-30T01:13:00Z",
-         "title" : "Time to Buy the Dip in fuboTV Stock? Analyst Weighs In - Yahoo Finance",
          "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/gc7Jo5Ae3MHMegn4aApVEg--~B/aD0zMjY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-US/tipranks_452/bb0ecd719f2c1019a51930cc79dc518f",
-         "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
-         },
+         "content" : "The old axiom of what goes up must come down, is particularly fitting right now for fuboTV (FUBO). The sports-focused streaming platform came hurtling out of the gates following its public debut in O… [+2559 chars]",
+         "title" : "Time to Buy the Dip in fuboTV Stock? Analyst Weighs In - Yahoo Finance",
+         "author" : "TipRanks",
          "url" : "https://finance.yahoo.com/news/time-buy-dip-fubotv-stock-011354424.html",
-         "content" : "The old axiom of what goes up must come down, is particularly fitting right now for fuboTV (FUBO). The sports-focused streaming platform came hurtling out of the gates following its public debut in O… [+2559 chars]"
+         "publishedAt" : "2020-12-30T01:13:00Z",
+         "description" : "The old axiom of what goes up must come down, is particularly fitting right now for fuboTV (FUBO). The sports-focused streaming platform came hurtling out of...",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         }
       },
       {
-         "content" : "More than 190,000 ceiling fans sold by Home Depot are being recalled because the blades could spin off while in use, possibly injuring those nearby. \r\nThe Hampton Bay 54-inch Mara Indoor/Outdoor fans… [+1489 chars]",
+         "publishedAt" : "2020-12-30T00:58:00Z",
          "url" : "https://www.cbsnews.com/news/home-depot-fan-recall-blades-spin-off/",
+         "title" : "Ceiling fans sold at Home Depot recalled because blades may spin off - CBS News",
+         "author" : "Kate Gibson",
+         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/28/8cd7fcf7-7725-44e7-aa7b-ad0380aef88d/thumbnail/1200x630/cff241782251457f489fe67eca9fb78d/1-113711am.png",
+         "content" : "More than 190,000 ceiling fans sold by Home Depot are being recalled because the blades could spin off while in use, possibly injuring those nearby. \r\nThe Hampton Bay 54-inch Mara Indoor/Outdoor fans… [+1489 chars]",
          "source" : {
             "id" : "cbs-news",
             "name" : "CBS News"
          },
-         "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2020/12/28/8cd7fcf7-7725-44e7-aa7b-ad0380aef88d/thumbnail/1200x630/cff241782251457f489fe67eca9fb78d/1-113711am.png",
-         "title" : "Ceiling fans sold at Home Depot recalled because blades may spin off - CBS News",
-         "description" : "King of Fans has received 47 reports of its blades detaching, hitting two people and damaging property in four cases.",
-         "author" : "Kate Gibson",
-         "publishedAt" : "2020-12-30T00:58:00Z"
+         "description" : "King of Fans has received 47 reports of its blades detaching, hitting two people and damaging property in four cases."
       },
       {
-         "title" : "Coronavirus update San Antonio, Dec. 29: 975 new COVID-19 cases reported; 11 deaths confirmed - KSAT San Antonio",
-         "publishedAt" : "2020-12-30T00:46:15Z",
-         "description" : "As the year’s end inches closer, San Antonio Mayor Ron Nirenberg confirmed 975 new COVID-19 cases Tuesday night.",
-         "author" : "Fares Sabawi",
          "url" : "https://www.ksat.com/news/local/2020/12/30/coronavirus-update-san-antonio-dec-29-975-new-covid-19-cases-reported-11-deaths-confirmed/",
-         "content" : "SAN ANTONIO As the years end inches closer, San Antonio Mayor Ron Nirenberg confirmed 975 new COVID-19 cases Tuesday night.\r\nIn Bexar County, there are now 114,362 total COVID-19 cases and 1,521 tota… [+851 chars]",
+         "publishedAt" : "2020-12-30T00:46:15Z",
          "urlToImage" : "https://www.ksat.com/resizer/DZwfeGFtnvquYUfZXfkh4-LF_Fw=/1600x900/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/12-30-2020/t_db0d24c4adc64ab7887ac7982210c949_name_covid_19_briefing_VOD.jpg",
+         "content" : "SAN ANTONIO As the years end inches closer, San Antonio Mayor Ron Nirenberg confirmed 975 new COVID-19 cases Tuesday night.\r\nIn Bexar County, there are now 114,362 total COVID-19 cases and 1,521 tota… [+851 chars]",
+         "title" : "Coronavirus update San Antonio, Dec. 29: 975 new COVID-19 cases reported; 11 deaths confirmed - KSAT San Antonio",
+         "author" : "Fares Sabawi",
+         "description" : "As the year’s end inches closer, San Antonio Mayor Ron Nirenberg confirmed 975 new COVID-19 cases Tuesday night.",
          "source" : {
             "id" : null,
             "name" : "KSAT San Antonio"
          }
       },
       {
-         "urlToImage" : "https://static01.nyt.com/images/2020/12/29/lens/29xp-alaska-planes/29xp-alaska-planes-facebookJumbo.jpg",
          "source" : {
             "id" : null,
             "name" : "New York Times"
          },
-         "url" : "https://www.nytimes.com/2020/12/29/business/alaska-airlines-emotional-support-animals.html",
-         "content" : "The airline said that starting Jan. 11, it would permit only service dogs that are trained to do work or perform tasks for people with disabilities.\r\nA Dec. 2 ruling from the U.S. Department of Trans… [+1138 chars]",
          "description" : "The airline says it will permit service dogs only, following a move by the U.S. Department of Transportation to reclassify the types of service animals allowed on flights.",
+         "urlToImage" : "https://static01.nyt.com/images/2020/12/29/lens/29xp-alaska-planes/29xp-alaska-planes-facebookJumbo.jpg",
+         "content" : "The airline said that starting Jan. 11, it would permit only service dogs that are trained to do work or perform tasks for people with disabilities.\r\nA Dec. 2 ruling from the U.S. Department of Trans… [+1138 chars]",
          "author" : "Allyson Waller",
-         "publishedAt" : "2020-12-30T00:30:00Z",
-         "title" : "Alaska Airlines Clamps Down on Emotional Support Animals on Flights - The New York Times"
+         "title" : "Alaska Airlines Clamps Down on Emotional Support Animals on Flights - The New York Times",
+         "url" : "https://www.nytimes.com/2020/12/29/business/alaska-airlines-emotional-support-animals.html",
+         "publishedAt" : "2020-12-30T00:30:00Z"
       },
       {
          "content" : "TOKYO (Reuters) -Asian shares hit a record high on Wednesday with investors betting on a strong economic recovery next year, as there is little sign policymakers wind back massive stimulus efforts ai… [+3831 chars]",
-         "url" : "https://www.reuters.com/article/global-markets-int-idUSKBN294012",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20201230&t=2&i=1546102867&r=LYNXMPEGBT00D&w=800",
          "title" : "Asian shares pause recent rally, euro near 2-1/2-year high - Reuters",
+         "author" : "Hideyuki Sano",
+         "url" : "https://www.reuters.com/article/global-markets-int-idUSKBN294012",
          "publishedAt" : "2020-12-30T00:28:00Z",
-         "description" : "Asian shares hit a record high on Wednesday with investors betting on a strong economic recovery next year, as there is little sign policymakers wind back massive stimulus efforts aimed at staving off coronavirus-fuelled downturns.",
-         "author" : "Hideyuki Sano"
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
+         },
+         "description" : "Asian shares hit a record high on Wednesday with investors betting on a strong economic recovery next year, as there is little sign policymakers wind back massive stimulus efforts aimed at staving off coronavirus-fuelled downturns."
       },
       {
-         "title" : "Here are new laws that go into effect in Oregon and Portland in 2021 - KGW.com",
-         "publishedAt" : "2020-12-30T00:25:00Z",
          "description" : "Here's a look at some changes that will take effect in 2021.",
-         "author" : "KGW Staff",
-         "url" : "https://www.kgw.com/article/news/local/oregon-portland-new-laws-2021/283-8fcb3051-ece3-4bb8-af8b-50e5b2343817",
-         "content" : "PORTLAND, Ore. The new year is right around the corner and with every new year comes new laws. Heres a look at a few changes coming in 2021 in Oregon and Portland.\r\nCigarette, tobacco tax increase\r\nT… [+5584 chars]",
-         "urlToImage" : "https://media.kgw.com/assets/KGW/images/dc62bf64-946a-436c-a863-454c5a3f8e3c/dc62bf64-946a-436c-a863-454c5a3f8e3c_1140x641.jpg",
          "source" : {
             "id" : null,
             "name" : "KGW.com"
-         }
+         },
+         "url" : "https://www.kgw.com/article/news/local/oregon-portland-new-laws-2021/283-8fcb3051-ece3-4bb8-af8b-50e5b2343817",
+         "publishedAt" : "2020-12-30T00:25:00Z",
+         "urlToImage" : "https://media.kgw.com/assets/KGW/images/dc62bf64-946a-436c-a863-454c5a3f8e3c/dc62bf64-946a-436c-a863-454c5a3f8e3c_1140x641.jpg",
+         "content" : "PORTLAND, Ore. The new year is right around the corner and with every new year comes new laws. Heres a look at a few changes coming in 2021 in Oregon and Portland.\r\nCigarette, tobacco tax increase\r\nT… [+5584 chars]",
+         "author" : "KGW Staff",
+         "title" : "Here are new laws that go into effect in Oregon and Portland in 2021 - KGW.com"
       },
       {
-         "url" : "https://hackaday.com/2020/12/29/federal-aviation-administration-announces-major-drone-rule-changes/",
-         "content" : "If new rules from the FAA regarding unmanned aircraft operations in the US are any indication, drones are becoming less of a niche hobby and more integrated into everyday life. Of course, the devil i… [+2626 chars]",
-         "urlToImage" : "https://hackaday.com/wp-content/uploads/2020/12/quad_main.jpeg",
+         "description" : "If new rules from the FAA regarding unmanned aircraft operations in the US are any indication, drones are becoming less of a niche hobby and more integrated into everyday life. Of course, the devil…",
          "source" : {
-            "name" : "Hackaday",
-            "id" : null
+            "id" : null,
+            "name" : "Hackaday"
          },
          "title" : "Federal Aviation Administration Announces Major Drone Rule Changes - Hackaday",
          "author" : "Dan Maloney",
-         "description" : "If new rules from the FAA regarding unmanned aircraft operations in the US are any indication, drones are becoming less of a niche hobby and more integrated into everyday life. Of course, the devil…",
-         "publishedAt" : "2020-12-30T00:01:00Z"
+         "content" : "If new rules from the FAA regarding unmanned aircraft operations in the US are any indication, drones are becoming less of a niche hobby and more integrated into everyday life. Of course, the devil i… [+2626 chars]",
+         "urlToImage" : "https://hackaday.com/wp-content/uploads/2020/12/quad_main.jpeg",
+         "publishedAt" : "2020-12-30T00:01:00Z",
+         "url" : "https://hackaday.com/2020/12/29/federal-aviation-administration-announces-major-drone-rule-changes/"
       },
       {
+         "description" : "The new stimulus package’s end-of-year timing also has tax implications for charitable donors.",
          "source" : {
             "name" : "Tampa Bay Times",
             "id" : null
          },
+         "author" : "Jay Cridlin",
+         "title" : "Here’s when new $600 stimulus checks, PPP loans could arrive - Tampa Bay Times",
          "urlToImage" : "https://www.tampabay.com/resizer/KyflQfTkY5NEdxRFejKjMM5g0os=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/AUHYGYBBOFG6JLWDUKVKE5FZVI.jpg",
          "content" : "Hours after President Donald Trump signed a new COVID-19 stimulus package Sunday night, Brock Blake started seeing a wave of new interest in Paycheck Protection Program loans.\r\nTheres definitely appe… [+4074 chars]",
-         "url" : "https://www.tampabay.com/news/business/2020/12/29/heres-when-new-600-stimulus-checks-ppp-loans-could-arrive/",
          "publishedAt" : "2020-12-29T23:47:30Z",
-         "description" : "The new stimulus package’s end-of-year timing also has tax implications for charitable donors.",
-         "author" : "Jay Cridlin",
-         "title" : "Here’s when new $600 stimulus checks, PPP loans could arrive - Tampa Bay Times"
+         "url" : "https://www.tampabay.com/news/business/2020/12/29/heres-when-new-600-stimulus-checks-ppp-loans-could-arrive/"
       },
       {
-         "publishedAt" : "2020-12-29T23:40:00Z",
-         "description" : "The new rules were included in an emergency proclamation, approved by the governor Tuesday.",
-         "author" : "HNN Staff",
-         "title" : "Essential workers traveling to Oahu now subject to mandatory COVID-19 testing - Hawaii News Now",
-         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/G0igFW2XM-QFMoTkLBq_4V3FE3E=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/7YYRAT55UNCOJHUBJPB4EDVIKM.JPG",
          "source" : {
-            "name" : "Hawaii News Now",
-            "id" : null
+            "id" : null,
+            "name" : "Hawaii News Now"
          },
+         "description" : "The new rules were included in an emergency proclamation, approved by the governor Tuesday.",
+         "url" : "https://www.hawaiinewsnow.com/2020/12/29/essential-workers-traveling-oahu-now-subject-mandatory-covid-testing/",
+         "publishedAt" : "2020-12-29T23:40:00Z",
+         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/G0igFW2XM-QFMoTkLBq_4V3FE3E=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/7YYRAT55UNCOJHUBJPB4EDVIKM.JPG",
          "content" : "HONOLULU, Hawaii (HawaiiNewsNow) - Essential workers traveling to Oahu who get exemptions to the states quarantine rules will now be subject to new testing requirements.\r\nThe new rules were included … [+389 chars]",
-         "url" : "https://www.hawaiinewsnow.com/2020/12/29/essential-workers-traveling-oahu-now-subject-mandatory-covid-testing/"
+         "title" : "Essential workers traveling to Oahu now subject to mandatory COVID-19 testing - Hawaii News Now",
+         "author" : "HNN Staff"
       },
       {
-         "description" : "The state's lawsuit alleges the companies violated Proposition 65, which prohibits exposing consumers to chemicals that could cause cancer or reproductive problems without clear warnings.",
-         "author" : null,
-         "publishedAt" : "2020-12-29T23:33:00Z",
-         "title" : "California sues seafood companies over alleged lead, cadmium - KCRA Sacramento",
          "urlToImage" : "https://kubrick.htvapps.com/vidthumb/5d92f334-6a00-4410-84d0-5708d441a9a4/5d92f334-6a00-4410-84d0-5708d441a9a4_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "content" : "SACRAMENTO, Calif. —California Attorney General Xavier Becerra sued five seafood companies on Tuesday, alleging they have sold fish that contains lead and cadmium in the state without legally require… [+814 chars]",
+         "author" : null,
+         "title" : "California sues seafood companies over alleged lead, cadmium - KCRA Sacramento",
+         "url" : "https://www.kcra.com/article/california-sues-seafood-companies-over-alleged-lead-cadmium/35093079",
+         "publishedAt" : "2020-12-29T23:33:00Z",
+         "description" : "The state's lawsuit alleges the companies violated Proposition 65, which prohibits exposing consumers to chemicals that could cause cancer or reproductive problems without clear warnings.",
          "source" : {
             "name" : "KCRA Sacramento",
             "id" : null
-         },
-         "content" : "SACRAMENTO, Calif. —California Attorney General Xavier Becerra sued five seafood companies on Tuesday, alleging they have sold fish that contains lead and cadmium in the state without legally require… [+814 chars]",
-         "url" : "https://www.kcra.com/article/california-sues-seafood-companies-over-alleged-lead-cadmium/35093079"
+         }
       }
-   ]
+   ],
+   "totalResults" : 70,
+   "status" : "ok"
 }
