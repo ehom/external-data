@@ -1,147 +1,226 @@
 {
+   "status" : "ok",
    "articles" : [
       {
-         "url" : "https://www.cnn.com/2020/12/30/business/ticketmaster-plea-passwords-computers/index.html",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2017/01/BIGpic_bull_011017_shutter.jpg",
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-stock-market-rally-bullish-tesla-nio-bitcoin-jump-tsm-visa-buy-zone/",
+         "title" : "Dow Jones Futures: Tesla, Nio, Bitcoin Jump In Quietly Bullish Stock Market Rally; Five Stocks Enter Buy Zones - Investor's Business Daily",
+         "description" : "Dow Jones futures: The stock market rally had a quietly bullish day. Tesla, Nio and Bitcoin jumped. TSM and Visa led stocks entering buy zones.",
+         "publishedAt" : "2020-12-31T00:24:00Z",
+         "author" : "Investor's Business Daily",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "name" : "Investor's Business Daily",
+            "id" : null
          },
-         "content" : "New York (CNN)Ticketmaster entered into a plea agreement with federal prosecutors in Brooklyn, New York and will pay $10 million in fines to resolve charges that it accessed the computer systems of a… [+3077 chars]",
-         "publishedAt" : "2020-12-30T21:49:00Z",
-         "description" : "Ticketmaster entered into a plea agreement with federal prosecutors in Brooklyn, New York and will pay $10 million in fines to resolve charges that it accessed the computer systems of a competitor without authorization.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/201230155332-01-ticketmaster-file-super-tease.jpg",
-         "author" : "Sonia Moghe, CNN Business",
-         "title" : "Ticketmaster to pay $10 million in fines after admitting to illegally accessing competitor's computers - CNN"
+         "content" : "Dow Jones futures edged higher late Wednesday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally had a quietly strong day. The major indexes closed with slim gains Wednesday. … [+9688 chars]"
       },
       {
-         "url" : "https://finance.yahoo.com/video/bitcoin-hits-high-213256915.html",
+         "description" : "The FBI released a statement saying they have determined no threat to public safety",
+         "title" : "Plane from Jackson makes emergency landing after report of possible explosive device - WAPT Jackson",
+         "publishedAt" : "2020-12-30T23:48:45Z",
+         "url" : "https://www.wapt.com/article/plane-from-jackson-makes-emergency-landing-after-report-of-possible-explosive-device/35100888",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wapt/27950298-27950298.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "source" : {
+            "id" : null,
+            "name" : "WAPT Jackson"
+         },
+         "content" : "ALEXANDRIA, La. —The FBI is investigating an incident that caused a plane that took off from Jackson to make an emergency landing.\r\nUnited flight #4344 took off from Jackson Medgar-WileyEvers Interna… [+1206 chars]",
+         "author" : "Mary Grace Eppes"
+      },
+      {
+         "author" : "Thomas Pallini",
+         "content" : "Flights in and out of Dallas are being grounded as the air traffic control center responsible for the region's high-altitude airspace is undergoing a two and a half hour cleaning after one of the fac… [+2771 chars]",
+         "source" : {
+            "name" : "Business Insider",
+            "id" : "business-insider"
+         },
+         "urlToImage" : "https://i.insider.com/5fed0011a18a450018cb655b?width=1200&format=jpeg",
+         "url" : "https://www.businessinsider.com/flights-halted-in-dallas-while-faa-disinfects-atc-facility-2020-12",
+         "publishedAt" : "2020-12-30T23:43:57Z",
+         "description" : "The facility being cleaned has had 22 cases of personnel contracting the novel coronavirus, the most of any in Dallas.",
+         "title" : "Flights are being halted in Dallas while FAA disinfects ATC facility - Business Insider - Business Insider"
+      },
+      {
+         "publishedAt" : "2020-12-30T23:14:00Z",
+         "description" : "\"If we have to make new vaccines, we can make them now that we've done the initial work,\" Sir John Bell of Oxford University told CNBC.",
+         "title" : "Oxford researcher confident Covid vaccines can be adapted to protect against future virus strains - CNBC",
+         "url" : "https://www.cnbc.com/2020/12/30/covid-vaccine-oxford-researcher-says-future-strains-can-be-protected-against.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106800804-1606134593312-gettyimages-1284486045-0073_2020110813213813.jpeg?v=1609160555",
+         "content" : "Sir John Bell, a professor at Oxford University in the U.K., told CNBC on Wednesday he was confident that Covid-19 vaccines could be retooled to provide effective protection against future coronaviru… [+3510 chars]",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "author" : "Kevin Stankiewicz"
+      },
+      {
+         "author" : "Konrad Putzier",
+         "content" : "SoftBank Group Corp. has agreed to invest $200 million more to bail out Katerra, a construction startup that ran into financial problems as it tried to shake up the building industry.\r\nKaterras share… [+1060 chars]",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "urlToImage" : "https://images.wsj.net/im-279416/social",
+         "url" : "https://www.wsj.com/articles/softbank-agrees-to-200-million-bailout-of-katerra-11609366612",
+         "publishedAt" : "2020-12-30T22:37:00Z",
+         "title" : "SoftBank to Get Majority Stake in Katerra With $200 Million Bailout - The Wall Street Journal",
+         "description" : "New funding, which comes on top of $2 billion already invested, allows construction startup to avoid bankruptcy"
+      },
+      {
+         "source" : {
+            "name" : "The Verge",
+            "id" : "the-verge"
+         },
+         "content" : "It used stolen login credentials at a company summit\r\nPhoto by Noam Galai/Getty Images\r\nTicketmaster has agreed to pay $10 million for breaking into a competitors network. The company and its parent … [+2614 chars]",
+         "author" : "Adi Robertson",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/y1rmGyLLC6NbpEcY6ywQaKUwDvg=/0x398:5325x3186/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22205512/1290806319.jpg",
+         "title" : "Ticketmaster will pay $10 million for hacking rival ticket seller - The Verge",
+         "description" : "Ticketmaster will pay $10 million to defer prosecution on charges that it hacked competitor CrowdSurge (which later merged with Songkick) to steal clients and use its analytics.",
+         "publishedAt" : "2020-12-30T22:30:38Z",
+         "url" : "https://www.theverge.com/2020/12/30/22206955/ticketmaster-songkick-crowdsurge-hacking-deferred-prosecution-fine"
+      },
+      {
+         "title" : "Coinbase faces class action lawsuit in California over XRP sale - The Block Crypto",
+         "description" : "A new lawsuit is alleging Coinbase violated the state's unfair competition laws by making commission from the sale of Ripple's XRP.",
+         "publishedAt" : "2020-12-30T22:08:00Z",
+         "url" : "https://www.theblockcrypto.com/linked/89708/coinbase-class-action-lawsuit-xrp-sale",
+         "urlToImage" : "https://www.tbstat.com/wp/uploads/2019/05/Legal-Gen.jpg",
+         "source" : {
+            "id" : null,
+            "name" : "The Block Crypto"
+         },
+         "content" : null,
+         "author" : null
+      },
+      {
+         "content" : "Podcasts have been exploding in popularity, with nearly a third of Americans saying at the beginning of 2019 that they listened to at least one monthly. They offer media companies a fast-growing medi… [+1321 chars]",
+         "source" : {
+            "name" : "New York Times",
+            "id" : null
+         },
+         "author" : "Lauren Hirsch",
+         "urlToImage" : "https://static01.nyt.com/images/2020/12/30/business/30wondery2/30wondery2-facebookJumbo.jpg",
+         "publishedAt" : "2020-12-30T22:01:00Z",
+         "description" : "The deal, valued at $300 million, is the latest in a string of acquisitions as streaming platforms expand beyond music and video.",
+         "title" : "Amazon Buys Wondery as Podcasting Race Continues - The New York Times",
+         "url" : "https://www.nytimes.com/2020/12/30/business/dealbook/wondery-amazon-podcasts.html"
+      },
+      {
+         "url" : "https://arstechnica.com/tech-policy/2020/12/corellium-notches-partial-victory-in-apple-ios-copyright-case/",
+         "publishedAt" : "2020-12-30T21:54:00Z",
+         "title" : "Corellium notches partial victory in Apple iOS copyright case - Ars Technica",
+         "description" : "Security firm's actions both may and may not qualify under fair use, judge held.",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1008621592-760x380.jpg",
+         "author" : "Kate Cox",
+         "content" : "Enlarge/ Just some of the iDevice types that Corellium didn't break one lawbut may still have broken anotherby emulating.\r\n15 with 13 posters participating\r\nSecurity firm Corellium, which develops so… [+3918 chars]",
+         "source" : {
+            "id" : "ars-technica",
+            "name" : "Ars Technica"
+         }
+      },
+      {
+         "author" : "Yahoo Finance Video",
          "source" : {
             "name" : "Yahoo Entertainment",
             "id" : null
          },
          "content" : "Wall Streets investment firms are burning the midnight oil as we approach the end of 2020, publishing their year-end notes and their New Year prognostications, both for investors edification. There i… [+8671 chars]",
-         "publishedAt" : "2020-12-30T21:32:00Z",
-         "description" : "Yahoo Finance’s Jared Blikre joined Yahoo Finance Live to discuss Bitcoin reaching a new high again and if this path will continue into 2021.",
          "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/FyoHc6wAstftYt1441501w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI3/https://s.yimg.com/os/creatr-uploaded-images/2020-12/8f4f8960-4ae6-11eb-b19f-7d4e3292f296",
-         "author" : "Yahoo Finance Video",
-         "title" : "Bitcoin hits new high - Yahoo Finance"
+         "url" : "https://finance.yahoo.com/video/bitcoin-hits-high-213256915.html",
+         "description" : "Yahoo Finance’s Jared Blikre joined Yahoo Finance Live to discuss Bitcoin reaching a new high again and if this path will continue into 2021.",
+         "title" : "Bitcoin hits new high - Yahoo Finance",
+         "publishedAt" : "2020-12-30T21:32:00Z"
       },
       {
-         "title" : "Boston Dynamics' robots bust a move in new viral video, Elon Musk takes notice - Fox Business",
-         "author" : "Lucas Manfredi",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/Screen-Shot-2020-12-30-at-3.34.29-PM.png?ve=1&tl=1",
-         "description" : "The viral video left many Twitter users stunned, including visionary Tesla CEO Elon Musk.",
          "publishedAt" : "2020-12-30T21:29:32Z",
+         "description" : "The viral video left many Twitter users stunned, including visionary Tesla CEO Elon Musk.",
+         "title" : "Boston Dynamics' robots bust a move in new viral video, Elon Musk takes notice - Fox Business",
+         "url" : "https://www.foxbusiness.com/technology/boston-dynamics-robots-bust-a-move-in-new-viral-video-celebrating-the-end-of-2020",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/Screen-Shot-2020-12-30-at-3.34.29-PM.png?ve=1&tl=1",
          "content" : "As 2020 comes to a close, Boston Dynamics'Atlas, Spot and Handle are taking the Internet by storm in a new year-end video showcasing their latest skill: dancing.\r\nThe now-viral \"Do You Love Me?\" vide… [+2256 chars]",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "url" : "https://www.foxbusiness.com/technology/boston-dynamics-robots-bust-a-move-in-new-viral-video-celebrating-the-end-of-2020"
-      },
-      {
-         "content" : "An SUV driver and his mother say they thought they were going to be killed after a gang of teenagers surrounded their car and began smashing it up in New York City. \r\nThe shocking incident occurred i… [+4632 chars]",
-         "source" : {
-            "name" : "Daily Mail",
-            "id" : null
-         },
-         "url" : "https://www.dailymail.co.uk/news/article-9099887/Gang-50-teens-smash-SUV-brazen-daylight-attack-New-Yorks-Fifth-Avenue.html",
-         "title" : "Gang of 50 teens smash up SUV in brazen daylight attack on New York's Fifth Avenue - Daily Mail",
-         "author" : "Andrew Court",
-         "urlToImage" : "https://i.dailymail.co.uk/1s/2020/12/30/20/37423770-0-image-a-35_1609361307553.jpg",
-         "description" : "The shocking incident occurred in broad daylight in the heart of Manhattan on Tuesday - evidence that Big Apple officials are failing to protect residents amid surging rates of violent crime.",
-         "publishedAt" : "2020-12-30T20:49:00Z"
-      },
-      {
-         "publishedAt" : "2020-12-30T20:40:00Z",
-         "description" : "UK officials hope to begin vaccinating as many as 1 million people per week.",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-80qhSdgmjLDb0iW13pY2PEosEw=/0x305:4258x2534/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22205266/1230359489.jpg",
-         "author" : "Umair Irfan",
-         "title" : "UK approves Oxford/AstraZeneca’s cheap, easy-to-store Covid-19 vaccine - Vox.com",
-         "url" : "https://www.vox.com/22206498/uk-approves-astrazeneca-vaccine-oxford-covid-19-coronavirus",
-         "source" : {
-            "name" : "Vox",
-            "id" : null
-         },
-         "content" : "The United Kingdom on Wednesday authorized its second Covid-19 vaccine for distribution. Developed by the University of Oxford and AstraZeneca, the newly approved vaccine costs less and is easier to … [+4747 chars]"
-      },
-      {
-         "title" : "Mo money, Ma problems - Chinese trustbusters' pursuit of Alibaba is only the start | Business | The Economist - The Economist",
-         "author" : "The Economist",
-         "urlToImage" : "https://www.economist.com/img/b/1280/720/90/sites/default/files/20210102_BLP502.jpg",
-         "publishedAt" : "2020-12-30T20:32:16Z",
-         "description" : "Beijing has put online giants on notice",
-         "content" : "ACTING ON INFORMATION, Chinas State Administration for Market Regulation [SAMR] has started investigation [into] Alibaba Group for alleged monopoly conduct including implementing an exclusive dealing… [+3087 chars]",
-         "source" : {
-            "name" : "The Economist",
-            "id" : null
-         },
-         "url" : "https://www.economist.com/business/2021/01/02/chinese-trustbusters-pursuit-of-alibaba-is-only-the-start"
-      },
-      {
-         "urlToImage" : "https://static.politico.com/dd/3b/07479d964edcae04354aa75e8970/201220-moynihan-train-durking-773.jpg",
-         "description" : "“This is a work of art,” said New York Gov. Andrew Cuomo.",
-         "publishedAt" : "2020-12-30T20:26:00Z",
-         "title" : "Moynihan Train Hall set to open in New York - POLITICO",
-         "author" : "ERIN DURKIN",
-         "url" : "https://www.politico.com/states/new-york/albany/story/2020/12/30/moynihan-train-hall-set-to-open-in-new-york-1351732",
-         "content" : "The $1.6 billion hall will serve as a waiting room for Amtrak and Long Island Rail Road passengers. | Erin Durkin/POLITICO\r\nNEW YORK Moynihan Train Hall, an annex to Manhattan's much-reviled Penn Sta… [+4137 chars]",
-         "source" : {
-            "id" : "politico",
-            "name" : "Politico"
-         }
+         "author" : "Lucas Manfredi"
       },
       {
          "url" : "https://www.fool.com/investing/2020/12/30/tesla-shares-rise-on-big-q4-delivery-expectations/",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "content" : "Shares of Tesla(NASDAQ:TSLA) are up more than 4% on Wednesday, nearing all-time highs. The growth stock's move higher comes as several analysts express optimism about the automaker's shot at hitting … [+2912 chars]",
-         "description" : "Two analysts think Tesla may hit its ambitious full-year target for vehicle deliveries after all.",
          "publishedAt" : "2020-12-30T20:25:00Z",
+         "description" : "Two analysts think Tesla may hit its ambitious full-year target for vehicle deliveries after all.",
+         "title" : "Tesla Shares Rise on Big Q4 Delivery Expectations - Motley Fool",
          "urlToImage" : "https://g.foolcdn.com/editorial/images/606686/why-tsla-stock-is-up.jpg",
          "author" : "Daniel Sparks",
-         "title" : "Tesla Shares Rise on Big Q4 Delivery Expectations - Motley Fool"
+         "content" : "Shares of Tesla(NASDAQ:TSLA) are up more than 4% on Wednesday, nearing all-time highs. The growth stock's move higher comes as several analysts express optimism about the automaker's shot at hitting … [+2912 chars]",
+         "source" : {
+            "name" : "Motley Fool",
+            "id" : null
+         }
       },
       {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103984084-GettyImages-72541413.jpg?v=1535559468",
          "url" : "https://www.cnbc.com/2020/12/30/inflation-is-poised-to-rear-its-head-in-2021-but-may-not-stick-around-long.html",
-         "content" : "As the economy picks up speed through 2021, investors could have to wrestle with some unexpected inflation pressures, if only for a little while.\r\nBond market traders and Wall Street experts have bee… [+5064 chars]",
+         "title" : "Inflation is poised to rear its head in 2021 but may not stick around long - CNBC",
+         "description" : "Bond market traders and Wall Street experts have been signaling rising inflation from its current dormant levels.",
+         "publishedAt" : "2020-12-30T20:21:00Z",
+         "author" : "Jeff Cox",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/103984084-GettyImages-72541413.jpg?v=1535559468",
-         "publishedAt" : "2020-12-30T20:21:00Z",
-         "description" : "Bond market traders and Wall Street experts have been signaling rising inflation from its current dormant levels.",
-         "title" : "Inflation is poised to rear its head in 2021 but may not stick around long - CNBC",
-         "author" : "Jeff Cox"
+         "content" : "As the economy picks up speed through 2021, investors could have to wrestle with some unexpected inflation pressures, if only for a little while.\r\nBond market traders and Wall Street experts have bee… [+5064 chars]"
       },
       {
-         "publishedAt" : "2020-12-30T19:13:00Z",
-         "description" : "Morgan Stanley is paying back 2,300 customers invested in high-cost 529 plans, which are tax-advantaged accounts for education.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106817591-1609352065591-gettyimages-1176172903-MORGAN_STANLEY_EARNS.jpeg?v=1609352096",
+         "content" : "Officers responded to the restaurant at 1405 Moreland Avenue around 11:25 a.m. Authorities said the woman lost control of the vehicle and ran into the front of the building.\r\nWhen police arrived, she… [+123 chars]",
+         "source" : {
+            "name" : "Atlanta Journal Constitution",
+            "id" : null
+         },
+         "author" : "Ada Wood",
+         "urlToImage" : "https://www.ajc.com/resizer/xGmInomwu0M4rBnRr1UBElm6FZs=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/WAGWVP2SIZBHFGKXGDCJS5MD5Q.JPG",
+         "publishedAt" : "2020-12-30T19:55:26Z",
+         "title" : "2 injured after car crashes into Church’s restaurant in Atlanta - Atlanta Journal Constitution",
+         "description" : "",
+         "url" : "https://www.ajc.com/news/2-injured-after-car-crashes-into-churchs-restaurant-in-atlanta/OLIHWZRYE5AH7GW7HVDKZCY3T4/"
+      },
+      {
+         "publishedAt" : "2020-12-30T19:46:00Z",
+         "title" : "How the Novavax Covid-19 Vaccine Works - The New York Times",
+         "description" : "Using a coronavirus protein to train the immune system.",
+         "url" : "https://www.nytimes.com/interactive/2020/health/novavax-covid-19-vaccine.html",
+         "urlToImage" : "https://static01.nyt.com/images/2020/12/30/us/novavax-covid-19-vaccine-promo-1609356961216/novavax-covid-19-vaccine-promo-1609356961216-facebookJumbo.png",
+         "content" : "The Maryland-based company Novavax has developed a protein-based coronavirus vaccine called NVX-CoV2373. The vaccine produced strikingly high levels of antibodies in early clinical trials. In Septemb… [+6402 chars]",
+         "source" : {
+            "name" : "New York Times",
+            "id" : null
+         },
+         "author" : "Jonathan Corum, Carl Zimmer"
+      },
+      {
+         "author" : "Daniella Genovese",
+         "source" : {
+            "name" : "Fox News",
+            "id" : "fox-news"
+         },
+         "content" : "A group of teens was caught on camera blocking traffic on a street in downtown Manhattan on Tuesday and attacking an SUV in broad daylight.\r\nThe Twitter account NY Actions on Tuesday afternoon posted… [+1318 chars]",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/NYPD-Generic-iStock.jpg",
+         "url" : "https://www.foxnews.com/us/teens-bicycles-nyc-attack-suv",
+         "title" : "Group of NYC teens block traffic, attack SUV in broad daylight - Fox News",
+         "description" : "The 36-year-old driver -- who wasn't identified -- told police he had stopped at an intersection in the area to allow a large group of bicyclists to pass.",
+         "publishedAt" : "2020-12-30T19:42:50Z"
+      },
+      {
          "author" : "Greg Iacurci",
-         "title" : "Morgan Stanley repays $1.7 million to college savers for high-cost investments - CNBC",
-         "url" : "https://www.cnbc.com/2020/12/30/morgan-stanley-repays-1point7-million-to-529-plan-investors-for-high-fees.html",
+         "content" : "Morgan Stanley will repay $1.7 million to customers who paid high costs on investments earmarked for education expenses like college tuition.\r\nThe brokerage firm is paying the sum, including nearly $… [+2490 chars]",
          "source" : {
             "name" : "CNBC",
             "id" : null
          },
-         "content" : "Morgan Stanley will repay $1.7 million to customers who paid high costs on investments earmarked for education expenses like college tuition.\r\nThe brokerage firm is paying the sum, including nearly $… [+2490 chars]"
-      },
-      {
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fdbace610-4acb-11eb-ab6e-481f1a237940&client=amp-blogside-v2&signature=50ba05d49c3ff6743515e81e93bed0e3c92178ba",
-         "description" : "As expected, Amazon has acquired one of the few remaining large and independent podcast networks in the US.",
-         "publishedAt" : "2020-12-30T19:08:52Z",
-         "title" : "Amazon has purchased podcast network Wondery - Engadget",
-         "author" : "",
-         "url" : "https://www.engadget.com/amazon-acquires-wondery-182737211.html",
-         "content" : "“Amazon Music launched podcasts in September 2020, and together with Wondery, we hope to accelerate the growth and evolution of podcasts by bringing creators, hosts and immersive experiences to even … [+590 chars]",
-         "source" : {
-            "name" : "Engadget",
-            "id" : "engadget"
-         }
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106817591-1609352065591-gettyimages-1176172903-MORGAN_STANLEY_EARNS.jpeg?v=1609352096",
+         "url" : "https://www.cnbc.com/2020/12/30/morgan-stanley-repays-1point7-million-to-529-plan-investors-for-high-fees.html",
+         "publishedAt" : "2020-12-30T19:13:00Z",
+         "description" : "Morgan Stanley is paying back 2,300 customers invested in high-cost 529 plans, which are tax-advantaged accounts for education.",
+         "title" : "Morgan Stanley repays $1.7 million to college savers for high-cost investments - CNBC"
       },
       {
          "source" : {
@@ -149,118 +228,39 @@
             "id" : "the-hill"
          },
          "content" : "Three shipments of Moderna's coronavirus vaccine were delayed from distribution after it was discovered that they did not maintain a stable temperature in transit.\r\nAll three shipments arrived in Tex… [+1629 chars]",
-         "url" : "https://thehill.com/homenews/state-watch/532114-three-moderna-vaccine-shipments-to-texas-held-back-due-to-temperature",
          "author" : "Cameron Jenkins",
+         "description" : "Three shipments of Moderna's coronavirus vaccine were delayed from distribution after it was disc...",
          "title" : "Three Moderna vaccine shipments to Texas held back due to temperature problems | TheHill - The Hill",
          "publishedAt" : "2020-12-30T19:05:40Z",
-         "description" : "Three shipments of Moderna's coronavirus vaccine were delayed from distribution after it was disc...",
+         "url" : "https://thehill.com/homenews/state-watch/532114-three-moderna-vaccine-shipments-to-texas-held-back-due-to-temperature",
          "urlToImage" : "https://thehill.com/sites/default/files/modernavaccine_08132020-gettyimages.jpg"
       },
       {
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105767339-1551372946752gettyimages-830889996.jpeg?v=1604328642",
+         "url" : "https://www.cnbc.com/2020/12/30/jc-penney-ceo-jill-soltau-to-leave-retailer-after-emerging-from-bankruptcy.html",
+         "publishedAt" : "2020-12-30T19:01:00Z",
+         "description" : "The company's new owners are seeking a new leader after the legacy retailer emerged from bankruptcy.",
          "title" : "JC Penney CEO Jill Soltau to leave retailer after it emerged from bankruptcy with new owners - CNBC",
          "author" : "Melissa Repko",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105767339-1551372946752gettyimages-830889996.jpeg?v=1604328642",
-         "description" : "The company's new owners are seeking a new leader after the legacy retailer emerged from bankruptcy.",
-         "publishedAt" : "2020-12-30T19:01:00Z",
          "content" : "J.C. Penney CEO Jill Soltau, who was tapped to turn around the struggling department store, will leave the company Thursday.\r\nThe company's new owners, Simon Property Group and Brookfield Asset Manag… [+1574 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "url" : "https://www.cnbc.com/2020/12/30/jc-penney-ceo-jill-soltau-to-leave-retailer-after-emerging-from-bankruptcy.html"
-      },
-      {
-         "author" : "Investor's Business Daily",
-         "title" : "Dow Jones On Track For New Closing High; McConnell Unveils New Stimulus Bill - Investor's Business Daily",
-         "description" : "The Dow Jones Industrial Average stayed on pace for a new closing high Wednesday afternoon, as the fate of $2,000 stimulus checks remains unclear.",
-         "publishedAt" : "2020-12-30T18:19:00Z",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2020/12/SMT-mitchmcconnell-blockstim-01-news.jpg",
-         "source" : {
-            "name" : "Investor's Business Daily",
-            "id" : null
-         },
-         "content" : "The Dow Jones Industrial Average stayed on pace for a new closing high Wednesday afternoon, as the fate of $2,000 stimulus checks remained unclear.\r\nXThe Dow Jones industrials rose 0.5%, while the Na… [+4201 chars]",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-on-track-new-closing-high-mcconnell-unveils-new-stimulus-bill/"
-      },
-      {
-         "author" : "Tyler Galaskas",
-         "title" : "Gov. Wolf announces all restrictions that began Dec. 12 will end as planned on January 4 - ABC27",
-         "description" : "HARRISBURG, Pa. (WHTM) — Governor Wolf announced during a press conference Wednesday that all new restrictions that were imposed on December 12 will be allowed to end on January 4th, as planned. The new restrictions included no indoor dining, ordered all gyms…",
-         "publishedAt" : "2020-12-30T18:14:00Z",
-         "urlToImage" : "https://www.abc27.com/wp-content/uploads/sites/55/2020/11/Governor-Wolf-pema-1.png?w=1280",
-         "source" : {
-            "id" : null,
-            "name" : "ABC27"
-         },
-         "content" : "HARRISBURG, Pa. (WHTM) — Governor Wolf announced during a press conference Wednesday that all new restrictions that were imposed on December 12 will be allowed to end on January 4th, as planned.\r\nThe… [+636 chars]",
-         "url" : "https://www.abc27.com/news/top-stories/gov-wolf-announces-all-restrictions-that-began-dec-12-will-end-as-planned-on-january-4/"
-      },
-      {
-         "url" : "https://www.npr.org/sections/goatsandsoda/2020/12/30/950880445/even-with-10-million-covid-19-cases-a-doctor-says-india-dodged-a-bullet",
-         "source" : {
-            "name" : "NPR",
-            "id" : null
-         },
-         "content" : "Dr. Gagandeep Kang, an infectious diseases researcher at the Christian Medical College in Vellore, India, says India has \"dodged a bullet\" in the pandemic.\r\nGagandeep Kang \r\nAlthough India's COVID-19… [+5313 chars]",
-         "publishedAt" : "2020-12-30T18:03:36Z",
-         "description" : "Dr. Gagandeep Kang says the pandemic's toll on India has been much less than what she had feared. She reflects on what the country has learned over the past few months.",
-         "urlToImage" : "https://media.npr.org/assets/img/2020/12/29/gk1220_2_wide-90b05dc1952fb773c25d2638262b2bc584be54d1.jpg?s=1400",
-         "author" : "Sushmita Pathak",
-         "title" : "Doctor Says India 'Dodged A Bullet' In The Pandemic : Goats and Soda - NPR"
-      },
-      {
-         "description" : "A handful of states allow big winners to remain completely anonymous. In others, if you plan ahead, you may be able to shield your identity.",
-         "publishedAt" : "2020-12-30T18:02:00Z",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105925949-1558472170797gettyimages-1052548354.jpeg?v=1559070474",
-         "author" : "Sarah O'Brien",
-         "title" : "Mega Millions jackpot jumps to $401 million, Powerball's top prize is $363 million. Here's how to protect your privacy if you win - CNBC",
-         "url" : "https://www.cnbc.com/2020/12/30/how-to-protect-your-privacy-if-you-win-mega-millions-or-powerball.html",
          "source" : {
             "name" : "CNBC",
             "id" : null
-         },
-         "content" : "There's a chance that at least a couple of people will end 2020 far wealthier than most of us.\r\nWith no ticket matching all six numbers drawn Tuesday in Mega Millions, the jackpot has jumped to $401 … [+3169 chars]"
-      },
-      {
-         "description" : "COVID-19 ravaged the world's economies but prompted mainstream financial markets to start taking bitcoin seriously.",
-         "publishedAt" : "2020-12-30T17:49:13Z",
-         "urlToImage" : "https://static.coindesk.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-30-at-11.23.41-AM-1200x628.png",
-         "author" : "Bradley Keoun",
-         "title" : "Bitcoin Prices in 2020: Here's What Happened - CoinDesk - CoinDesk",
-         "url" : "https://www.coindesk.com/index.php?p=558969",
-         "source" : {
-            "name" : "CoinDesk",
-            "id" : null
-         },
-         "content" : "For many reasons 2020 will loom large in future textbooks on financial history. \r\nThis year saw the biggest drop-off in economic output since the Great Depression, the biggest spate of money printing… [+32204 chars]"
-      },
-      {
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/9/1f/91f889b0-3bd1-11eb-a058-4f6b7cf4a690/5fd3a4c64baa4.image.jpg?resize=1018%2C630",
-         "description" : "Bars in New Orleans once again prepared to stop indoor service on Wednesday, as the city's coronavirus test positivity rate tripped over a state-set threshold just a day before New",
-         "publishedAt" : "2020-12-30T17:45:00Z",
-         "title" : "New Orleans bars cannot serve indoors after city crosses coronavirus threshold - NOLA.com",
-         "author" : "JEFF ADELSON | Staff writer",
-         "url" : "https://www.nola.com/news/coronavirus/article_5e9185b6-4ac4-11eb-8566-83059ca60de1.html",
-         "content" : "Bars in New Orleans once again prepared to stop indoor service on Wednesday, as the city's coronavirus test positivity rate tripped over a state-set threshold just a day before New Year's Eve.\r\nThe r… [+6068 chars]",
-         "source" : {
-            "name" : "NOLA.com",
-            "id" : null
          }
       },
       {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/606632/gettyimages-1213574729.jpg",
-         "description" : "The Chinese tech giant just raised its buyback plan -- but the move could be utterly meaningless.",
-         "publishedAt" : "2020-12-30T17:44:51Z",
-         "title" : "Alibaba's $10 Billion Buyback Won't Solve Its Biggest Problems - Motley Fool",
-         "author" : "Leo Sun",
-         "url" : "https://www.fool.com/investing/2020/12/30/alibaba-stock-buyback-wont-solve-biggest-problem/",
-         "content" : "Alibaba(NYSE:BABA) just boosted its current buyback plan, which will last through the end of 2022, from $6 billion to $10 billion. The Chinese tech giant launched the original buyback plan last May, … [+4351 chars]",
+         "description" : "One of the most anticipated electric vehicles has hit the market before the end of 2020 and could be a positive catalyst for a legacy automotive ...",
+         "title" : "Ford Begins Deliveries Of Mustang Mach-E With Competitive Price, 300-Mile Range - Benzinga",
+         "publishedAt" : "2020-12-30T18:29:40Z",
+         "url" : "https://www.benzinga.com/news/20/12/18966572/ford-begins-deliveries-of-mustang-mach-e-with-competitive-price-300-mile-range",
+         "urlToImage" : "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/mustang-mach-e_05_0.jpg",
          "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         }
+            "name" : "Benzinga",
+            "id" : null
+         },
+         "content" : null,
+         "author" : "Chris Katje"
       }
    ],
-   "totalResults" : 70,
-   "status" : "ok"
+   "totalResults" : 70
 }
