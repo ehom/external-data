@@ -1,106 +1,106 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
+   "status" : "ok",
    "articles" : [
       {
+         "content" : null,
+         "author" : null,
          "source" : {
             "id" : null,
             "name" : "YouTube"
          },
-         "url" : "https://www.youtube.com/watch?v=IURjcn2osi4",
-         "author" : null,
-         "urlToImage" : "https://i.ytimg.com/vi/IURjcn2osi4/maxresdefault.jpg",
          "description" : "Across the U.S., nearly 3 million doses of coronavirus vaccines have been administered thus far — nowhere close to Operation Warp Speed’s goal of administeri...",
-         "content" : null,
+         "urlToImage" : "https://i.ytimg.com/vi/IURjcn2osi4/maxresdefault.jpg",
+         "title" : "Vaccinations still lagging as U.S. COVID-19 cases surpass 20 million - CBS Evening News",
          "publishedAt" : "2021-01-03T00:02:59Z",
-         "title" : "Vaccinations still lagging as U.S. COVID-19 cases surpass 20 million - CBS Evening News"
+         "url" : "https://www.youtube.com/watch?v=IURjcn2osi4"
       },
       {
-         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/cf3472eabefa432b87e4e6f4f08b718d/3000.jpeg",
-         "publishedAt" : "2021-01-02T23:58:22Z",
-         "title" : "The Latest: Ariz. gov. rejects call for online learning - The Associated Press",
-         "description" : "PHOENIX — Arizona’s Gov. Doug Ducey has rejected the state’s top education official’s call for Ducey to order public schools to use only online instruction for the next two weeks unless they have...",
          "content" : "PHOENIX Arizonas Gov. Doug Ducey has rejected the states top education officials call for Ducey to order public schools to use only online instruction for the next two weeks unless they have waivers … [+13208 chars]",
          "source" : {
             "name" : "Associated Press",
             "id" : "associated-press"
          },
+         "description" : "PHOENIX — Arizona’s Gov. Doug Ducey has rejected the state’s top education official’s call for Ducey to order public schools to use only online instruction for the next two weeks unless they have...",
          "author" : "The Associated Press",
-         "url" : "https://apnews.com/article/pandemics-tokyo-coronavirus-pandemic-holidays-japan-42ccf933edec14f3ea9ff8407fb0dc7a"
+         "title" : "The Latest: Ariz. gov. rejects call for online learning - The Associated Press",
+         "publishedAt" : "2021-01-02T23:58:22Z",
+         "url" : "https://apnews.com/article/pandemics-tokyo-coronavirus-pandemic-holidays-japan-42ccf933edec14f3ea9ff8407fb0dc7a",
+         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/cf3472eabefa432b87e4e6f4f08b718d/3000.jpeg"
       },
       {
+         "content" : "SACRAMENTO, Calif. —The Greater Sacramento regions stay-at-home order was officially extended on Saturday, state health officials announced. \r\n\"The Greater Sacramento Region remains under the order b… [+2017 chars]",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-california-1585590516.jpg?crop=1.00xw:0.991xh;0,0&resize=1200:*",
+         "publishedAt" : "2021-01-02T23:13:00Z",
          "url" : "https://www.kcra.com/article/stay-at-home-order-greater-sacramento-region-extended/35109168",
+         "title" : "Stay-at-home order for Greater Sacramento region extended - KCRA Sacramento",
          "author" : "KCRA Staff",
          "source" : {
             "name" : "KCRA Sacramento",
             "id" : null
          },
-         "description" : "ICU capacity in region drops to 6.9% on Saturday",
-         "content" : "SACRAMENTO, Calif. —The Greater Sacramento regions stay-at-home order was officially extended on Saturday, state health officials announced. \r\n\"The Greater Sacramento Region remains under the order b… [+2017 chars]",
-         "title" : "Stay-at-home order for Greater Sacramento region extended - KCRA Sacramento",
-         "publishedAt" : "2021-01-02T23:13:00Z",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coronavirus-california-1585590516.jpg?crop=1.00xw:0.991xh;0,0&resize=1200:*"
+         "description" : "ICU capacity in region drops to 6.9% on Saturday"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "The Drive"
-         },
          "author" : "Kristin V. Shaw",
-         "url" : "https://www.thedrive.com/news/38517/theres-a-warehouse-full-of-2m-in-new-old-stock-classic-ford-parts-for-sale-on-ebay",
+         "description" : "For $675,000, you could buy 40,000-plus original parts for your garage or to sell off piece by piece.",
+         "source" : {
+            "name" : "The Drive",
+            "id" : null
+         },
          "urlToImage" : "https://api.thedrive.com/wp-content/uploads/2021/01/NOS-parts-HERO-1.jpg?quality=85",
          "publishedAt" : "2021-01-02T22:42:59Z",
          "title" : "There's a Warehouse Full of $2M in New Old Stock Classic Ford Parts for Sale on eBay - The Drive",
-         "description" : "For $675,000, you could buy 40,000-plus original parts for your garage or to sell off piece by piece.",
+         "url" : "https://www.thedrive.com/news/38517/theres-a-warehouse-full-of-2m-in-new-old-stock-classic-ford-parts-for-sale-on-ebay",
          "content" : "If you have the will and a lot of extra garage space on standby for a large incursion of New Old Stock auto parts, this is a steal. All Classic Motors, located in tiny Velva, North Dakota apparently … [+2120 chars]"
       },
       {
-         "urlToImage" : "https://images.mktw.net/im-280029/social",
-         "title" : "Bitcoin soars to a new record above $33,000 Saturday - MarketWatch",
-         "publishedAt" : "2021-01-02T22:20:00Z",
          "content" : "Bitcoin soared to a new record high above $33,000 on Saturday and has tripled in value in the past year.Investors have been attracted to the cryptocurrency as the US dollar has weakened and with the … [+1645 chars]",
+         "author" : "Clive McKeef",
          "description" : "The cryptocurrency has tripled in value in the past year",
          "source" : {
             "id" : null,
             "name" : "MarketWatch"
          },
-         "author" : "Clive McKeef",
-         "url" : "https://www.marketwatch.com/story/bitcoin-soars-to-a-new-record-above-33-000-saturday-11609626008"
+         "urlToImage" : "https://images.mktw.net/im-280029/social",
+         "publishedAt" : "2021-01-02T22:20:00Z",
+         "url" : "https://www.marketwatch.com/story/bitcoin-soars-to-a-new-record-above-33-000-saturday-11609626008",
+         "title" : "Bitcoin soars to a new record above $33,000 Saturday - MarketWatch"
       },
       {
-         "urlToImage" : null,
-         "title" : "Courage Production, LLC. Recalls Ready-to-Eat, Fully Cooked Polish Sausage Products due to Misbranding and an Undeclared Allergen - USDA.gov",
-         "publishedAt" : "2021-01-02T22:09:26Z",
-         "description" : "Courage Production, LLC., a Fairfield, Calif., establishment is recalling approximately 1,645 pounds of Ready-To-Eat, fully cooked Polish sausage products due to misbranding and an undeclared allergen.",
          "content" : "WASHINGTON, Jan. 2, 2021 Courage Production, LLC., a Fairfield, Calif., establishment is recalling approximately 1,645 pounds of Ready-To-Eat, fully cooked Polish sausage products due to misbranding … [+2626 chars]",
+         "publishedAt" : "2021-01-02T22:09:26Z",
+         "url" : "https://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2021/recall-001-2021-release/!ut/p/a1/jZDdCoJAEIWfpQdYdlZF9FIWLC1XRLJtb2KR9QdMxcSLnr6VQDCSmrmZM3yHwwwWmGPRyqku5Vh3rWxmLewbJGATl0IY-54PATP9zGF7ArGtgesKcMkMZEl8pBQcZv7p3ygPfvnDPwKMIaJRiUUvxwrVbdFhPqhcNg3K5UMhOeRVPSnMl8EAgywMAEHzAg2qUZrHFyzWoUB069DUOoTMhNj6BL585Q1sn93fz_x58oo0KHcvP7dAEw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/",
+         "title" : "Courage Production, LLC. Recalls Ready-to-Eat, Fully Cooked Polish Sausage Products due to Misbranding and an Undeclared Allergen - USDA.gov",
+         "urlToImage" : null,
          "source" : {
-            "id" : null,
-            "name" : "Usda.gov"
+            "name" : "Usda.gov",
+            "id" : null
          },
-         "author" : null,
-         "url" : "https://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts/recall-case-archive/archive/2021/recall-001-2021-release/!ut/p/a1/jZDdCoJAEIWfpQdYdlZF9FIWLC1XRLJtb2KR9QdMxcSLnr6VQDCSmrmZM3yHwwwWmGPRyqku5Vh3rWxmLewbJGATl0IY-54PATP9zGF7ArGtgesKcMkMZEl8pBQcZv7p3ygPfvnDPwKMIaJRiUUvxwrVbdFhPqhcNg3K5UMhOeRVPSnMl8EAgywMAEHzAg2qUZrHFyzWoUB069DUOoTMhNj6BL585Q1sn93fz_x58oo0KHcvP7dAEw!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/"
+         "description" : "Courage Production, LLC., a Fairfield, Calif., establishment is recalling approximately 1,645 pounds of Ready-To-Eat, fully cooked Polish sausage products due to misbranding and an undeclared allergen.",
+         "author" : null
       },
       {
+         "urlToImage" : "https://img.ksl.com/slc/2798/279868/27986809.jpeg?filter=ksl/responsive_story_lg",
+         "title" : "Utah health department reports 5042 new coronavirus cases from past 2 days - KSL.com",
+         "publishedAt" : "2021-01-02T21:45:00Z",
          "url" : "https://www.ksl.com/article/50076651/utah-health-department-reports-5042-new-coronavirus-cases-from-past-2-days",
          "author" : "Graham Dudley, KSL.com",
          "source" : {
-            "name" : "KSL.com",
-            "id" : null
+            "id" : null,
+            "name" : "KSL.com"
          },
-         "content" : "SALT LAKE CITY After taking off New Year's Day, the Utah Department of Health's first report of 2021 shows 5,042 new confirmed cases of COVID-19 and 25 new deaths in the state.\r\nThe department says 3… [+5497 chars]",
          "description" : "The department says 3,110 of the new cases would have been reported on Friday.",
-         "publishedAt" : "2021-01-02T21:45:00Z",
-         "title" : "Utah health department reports 5042 new coronavirus cases from past 2 days - KSL.com",
-         "urlToImage" : "https://img.ksl.com/slc/2798/279868/27986809.jpeg?filter=ksl/responsive_story_lg"
+         "content" : "SALT LAKE CITY After taking off New Year's Day, the Utah Department of Health's first report of 2021 shows 5,042 new confirmed cases of COVID-19 and 25 new deaths in the state.\r\nThe department says 3… [+5497 chars]"
       },
       {
+         "content" : "Now, however, the New York firm with $7.8 trillion in assets under management could face its biggest threat yet, with Democratic control of the White House and influential figures on the left bent on… [+17503 chars]",
          "title" : "Two Biden aides will recuse on BlackRock issues as past ties pose questions - The Washington Post",
          "publishedAt" : "2021-01-02T21:35:00Z",
-         "content" : "Now, however, the New York firm with $7.8 trillion in assets under management could face its biggest threat yet, with Democratic control of the White House and influential figures on the left bent on… [+17503 chars]",
-         "description" : "The world’s largest asset manager has much at stake as the new president’s team takes office.",
+         "url" : "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/",
          "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DHK3LPR2WYI6XKWZRFMSE4UAYQ.jpg&w=1440",
          "author" : "Yeganeh Torbati",
-         "url" : "https://www.washingtonpost.com/business/2021/01/02/blackrock-biden/",
+         "description" : "The world’s largest asset manager has much at stake as the new president’s team takes office.",
          "source" : {
             "id" : "the-washington-post",
             "name" : "The Washington Post"
@@ -108,159 +108,159 @@
       },
       {
          "content" : "While many Americans were economically upended by the coronavirus pandemic, and now await a decision from Congress on whether they'll receive a $2,000 stimulus check soon, the world's richest people … [+2526 chars]",
-         "description" : "The world's richest people increased their net worth by $1.8 trillion in 2020, while experts predicted COVID-19 would thrust millions into poverty.",
+         "urlToImage" : "https://i.insider.com/5ff0c81fa18a450018cb686b?width=1200&format=jpeg",
          "title" : "Jeff Bezos, Elon Musk increased their wealth by $217 billion in 2020 - Business Insider - Business Insider",
          "publishedAt" : "2021-01-02T21:26:22Z",
-         "urlToImage" : "https://i.insider.com/5ff0c81fa18a450018cb686b?width=1200&format=jpeg",
          "url" : "https://www.businessinsider.com/jeff-bezos-elon-musk-increased-wealth-by-217-billion-2021-1",
-         "author" : "Yelena Dzhanova",
          "source" : {
             "id" : "business-insider",
             "name" : "Business Insider"
-         }
+         },
+         "description" : "The world's richest people increased their net worth by $1.8 trillion in 2020, while experts predicted COVID-19 would thrust millions into poverty.",
+         "author" : "Yelena Dzhanova"
       },
       {
+         "urlToImage" : "https://images.wsj.net/im-280026/social",
+         "title" : "Cleared Hurdle Still Leaves Tesla Stock in Ludicrous Mode - The Wall Street Journal",
+         "publishedAt" : "2021-01-02T21:16:00Z",
+         "url" : "https://www.wsj.com/articles/cleared-hurdle-still-leaves-tesla-stock-in-ludicrous-mode-11609622182",
+         "description" : "Tesla meets own guidance for annual production, but valuation still looks hard to justify",
          "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
+            "name" : "The Wall Street Journal",
+            "id" : "the-wall-street-journal"
          },
          "author" : "Charley Grant",
-         "url" : "https://www.wsj.com/articles/cleared-hurdle-still-leaves-tesla-stock-in-ludicrous-mode-11609622182",
-         "urlToImage" : "https://images.wsj.net/im-280026/social",
-         "publishedAt" : "2021-01-02T21:16:00Z",
-         "title" : "Cleared Hurdle Still Leaves Tesla Stock in Ludicrous Mode - The Wall Street Journal",
-         "description" : "Tesla meets own guidance for annual production, but valuation still looks hard to justify",
          "content" : "A record quarter for Tesla isnt as speedy as it seems.\r\nTesla announced on Saturday morning that it delivered 180,570 cars world-wide in the fourth quarter, setting a new company record. That brings … [+1141 chars]"
       },
       {
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F3a24ffb0-4d39-11eb-b777-34987d141c95&client=amp-blogside-v2&signature=00395c93469f32e9fb33a84b4d072507a3d2282b",
          "content" : "The location of the hacking itself may have played a role as well. Investigators are determining whether or not the hack breached SolarWinds’ offices in eastern European countries like Belarus, the C… [+990 chars]",
-         "description" : "The SolarWinds hack may have compromised many more networks than first thought, and might have taken advantage of weaknesses in the US and Europe.",
-         "title" : "SolarWinds hack may have been much wider than first thought - Engadget",
          "publishedAt" : "2021-01-02T21:11:37Z",
+         "url" : "https://www.engadget.com/russia-solarwinds-hack-broader-than-expected-211046098.html",
+         "title" : "SolarWinds hack may have been much wider than first thought - Engadget",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F3a24ffb0-4d39-11eb-b777-34987d141c95&client=amp-blogside-v2&signature=00395c93469f32e9fb33a84b4d072507a3d2282b",
+         "description" : "The SolarWinds hack may have compromised many more networks than first thought, and might have taken advantage of weaknesses in the US and Europe.",
          "source" : {
             "id" : "engadget",
             "name" : "Engadget"
          },
-         "url" : "https://www.engadget.com/russia-solarwinds-hack-broader-than-expected-211046098.html",
          "author" : ""
       },
       {
+         "author" : null,
          "description" : null,
-         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "source" : {
+            "name" : "Bloomberg",
+            "id" : "bloomberg"
+         },
          "publishedAt" : "2021-01-02T21:00:00Z",
          "title" : "Dizzying Valuations, IPO Craze Tick Boxes on Bubble Checklist - Bloomberg",
-         "urlToImage" : null,
          "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=5ec82e50-4d4d-11eb-8d54-ebb9b5b43562&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMS0wMi9kaXp6eWluZy12YWx1YXRpb25zLWlwby1jcmF6ZS10aWNrLWJveGVzLW9uLWJ1YmJsZS1jaGVja2xpc3Q=",
-         "author" : null,
-         "source" : {
-            "id" : "bloomberg",
-            "name" : "Bloomberg"
-         }
+         "urlToImage" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot."
       },
       {
-         "author" : "Associated Press",
-         "url" : "https://www.snopes.com/ap/2021/01/02/after-50-years-hippies-welcome-in-an-indiana-county/",
-         "source" : {
-            "name" : "Snopes.com",
-            "id" : null
-         },
-         "publishedAt" : "2021-01-02T20:39:09Z",
-         "title" : "After 50 Years, Hippies Welcome in an Indiana County - Snopes.com",
          "content" : "This article is republished here with permission from The Associated Press. This content is shared here because the topic may interest Snopes readers; it does not, however, represent the work of Snop… [+958 chars]",
-         "description" : "LaGrange County, Indiana, has repealed a 1971 law that was intended to block huge gatherings like the 1969 Woodstock music festival in New York state.",
-         "urlToImage" : "https://www.snopes.com/tachyon/2021/01/getty_hippies.jpg"
+         "publishedAt" : "2021-01-02T20:39:09Z",
+         "url" : "https://www.snopes.com/ap/2021/01/02/after-50-years-hippies-welcome-in-an-indiana-county/",
+         "title" : "After 50 Years, Hippies Welcome in an Indiana County - Snopes.com",
+         "urlToImage" : "https://www.snopes.com/tachyon/2021/01/getty_hippies.jpg",
+         "author" : "Associated Press",
+         "source" : {
+            "id" : null,
+            "name" : "Snopes.com"
+         },
+         "description" : "LaGrange County, Indiana, has repealed a 1971 law that was intended to block huge gatherings like the 1969 Woodstock music festival in New York state."
       },
       {
-         "url" : "https://www.cnet.com/news/elon-musk-plans-to-catch-the-most-powerful-spacex-rocket-not-land-it/",
-         "author" : "Eric Mack",
+         "description" : "Super Heavy could launch one Starship and return to Earth to launch another one as soon as an hour later.",
          "source" : {
             "id" : null,
             "name" : "CNET"
          },
-         "description" : "Super Heavy could launch one Starship and return to Earth to launch another one as soon as an hour later.",
-         "content" : "A rendering of Starship and Super Heavy.\r\nSpaceX\r\nOne day in the not-too-distant future, Elon Musk envisions blasting off from Earth and sending his next-generation Starship on its way to the moon, M… [+2333 chars]",
+         "author" : "Eric Mack",
          "publishedAt" : "2021-01-02T19:55:00Z",
          "title" : "Elon Musk plans to catch the most powerful SpaceX rocket, not land it - CNET",
-         "urlToImage" : "https://cnet1.cbsistatic.com/img/RAVFzYo_DTdmsVCSgeVoLmRMgJ8=/1200x630/2020/12/07/34248616-b97e-409c-bb4e-9c3a600e16ff/starshipmuskdec2020.jpg"
+         "url" : "https://www.cnet.com/news/elon-musk-plans-to-catch-the-most-powerful-spacex-rocket-not-land-it/",
+         "urlToImage" : "https://cnet1.cbsistatic.com/img/RAVFzYo_DTdmsVCSgeVoLmRMgJ8=/1200x630/2020/12/07/34248616-b97e-409c-bb4e-9c3a600e16ff/starshipmuskdec2020.jpg",
+         "content" : "A rendering of Starship and Super Heavy.\r\nSpaceX\r\nOne day in the not-too-distant future, Elon Musk envisions blasting off from Earth and sending his next-generation Starship on its way to the moon, M… [+2333 chars]"
       },
       {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/YZm09rmYAom4ZvicvpF0jg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/a4c6ddbc1e371f64ded891dab1ca8a2b",
-         "title" : "Dogecoin Sees 125% Increase In Trading On Saturday Following Adult Film Star's Tweet - Yahoo Finance",
-         "publishedAt" : "2021-01-02T19:53:00Z",
          "description" : "The ironic cryptocurrency Dogecoin has taken on a new layer of seriousness today.What Happened: Dogecoin as of time of publication was trading at 0.011 cents...",
-         "content" : "* Benzinga has examined the prospects for many investor favorite stocks over the past week. * The week's bullish calls included the iPhone maker and electric vehicle stocks. * A semiconductor maker a… [+4531 chars]",
          "source" : {
-            "name" : "Yahoo Entertainment",
-            "id" : null
+            "id" : null,
+            "name" : "Yahoo Entertainment"
          },
          "author" : "Gary Anglebrandt",
-         "url" : "https://finance.yahoo.com/news/dogecoin-sees-125-increase-trading-195309825.html"
+         "publishedAt" : "2021-01-02T19:53:00Z",
+         "url" : "https://finance.yahoo.com/news/dogecoin-sees-125-increase-trading-195309825.html",
+         "title" : "Dogecoin Sees 125% Increase In Trading On Saturday Following Adult Film Star's Tweet - Yahoo Finance",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/YZm09rmYAom4ZvicvpF0jg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/a4c6ddbc1e371f64ded891dab1ca8a2b",
+         "content" : "* Benzinga has examined the prospects for many investor favorite stocks over the past week. * The week's bullish calls included the iPhone maker and electric vehicle stocks. * A semiconductor maker a… [+4531 chars]"
       },
       {
-         "author" : "",
+         "content" : "The firm also contended that broadcast IDs made it harder to create large-scale drone traffic control systems. Traffic management will be vital to a drone industry that could use network ID as a “key… [+742 chars]",
+         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F188ae4a0-4d20-11eb-8b37-77c40c59207b&client=amp-blogside-v2&signature=39d6cfb9f85bc517358983339066668b54a292be",
+         "title" : "Alphabet's Wing argues new US drone rules will hurt privacy - Engadget",
+         "publishedAt" : "2021-01-02T19:10:40Z",
          "url" : "https://www.engadget.com/alphabet-wing-on-faa-drone-rule-privacy-181133084.html",
+         "author" : "",
+         "description" : "Alphabet's Wing has criticized the FAA's new rules for drone ID, warning they may have 'unintended consequences' for privacy.",
          "source" : {
             "id" : "engadget",
             "name" : "Engadget"
-         },
-         "title" : "Alphabet's Wing argues new US drone rules will hurt privacy - Engadget",
-         "publishedAt" : "2021-01-02T19:10:40Z",
-         "content" : "The firm also contended that broadcast IDs made it harder to create large-scale drone traffic control systems. Traffic management will be vital to a drone industry that could use network ID as a “key… [+742 chars]",
-         "description" : "Alphabet's Wing has criticized the FAA's new rules for drone ID, warning they may have 'unintended consequences' for privacy.",
-         "urlToImage" : "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F188ae4a0-4d20-11eb-8b37-77c40c59207b&client=amp-blogside-v2&signature=39d6cfb9f85bc517358983339066668b54a292be"
-      },
-      {
-         "publishedAt" : "2021-01-02T18:58:00Z",
-         "title" : "New Year's Eve parties involving hundreds in NYC busted for violating Covid-19 rules - CNN",
-         "content" : null,
-         "description" : "The New York City Sheriff's office raided three large gatherings during New Year's Eve and the early hours of New Year's Day, Sheriff Joseph Fucito told CNN.",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210102114909-01-nye-parties-busted-nyc-super-tease.jpg",
-         "author" : "Lauren Del Valle and Anna Sturla",
-         "url" : "https://www.cnn.com/2021/01/02/us/sheriff-nye-raids/index.html",
-         "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
          }
       },
       {
+         "url" : "https://www.cnn.com/2021/01/02/us/sheriff-nye-raids/index.html",
+         "publishedAt" : "2021-01-02T18:58:00Z",
+         "title" : "New Year's Eve parties involving hundreds in NYC busted for violating Covid-19 rules - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210102114909-01-nye-parties-busted-nyc-super-tease.jpg",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "description" : "The New York City Sheriff's office raided three large gatherings during New Year's Eve and the early hours of New Year's Day, Sheriff Joseph Fucito told CNN.",
+         "author" : "Lauren Del Valle and Anna Sturla",
+         "content" : null
+      },
+      {
+         "content" : "Three states across the U.S. have now identified cases of the new coronavirus strain in people with no travel history, a sign that the variant could already be spreading unknowingly among Americans.\r… [+3714 chars]",
+         "author" : "Noah Higgins-Dunn",
+         "description" : "\"We can be fairly confident this variant is now everywhere,\" Mercedes Carnethon, a professor of medicine at Northwestern University, told MSNBC on Friday.",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106815560-1608726409282-gettyimages-1292633428-2v4a3190_20201222124014530.jpeg?v=1608726440",
          "title" : "More cases of new Covid variant found in the U.S., threatening to worsen nation's outbreak - CNBC",
          "publishedAt" : "2021-01-02T18:46:00Z",
-         "content" : "Three states across the U.S. have now identified cases of the new coronavirus strain in people with no travel history, a sign that the variant could already be spreading unknowingly among Americans.\r… [+3714 chars]",
-         "description" : "\"We can be fairly confident this variant is now everywhere,\" Mercedes Carnethon, a professor of medicine at Northwestern University, told MSNBC on Friday.",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "author" : "Noah Higgins-Dunn",
          "url" : "https://www.cnbc.com/2021/01/02/more-cases-of-new-covid-variant-found-in-the-us-threatening-to-worsen-nations-outbreak-.html"
       },
       {
-         "source" : {
-            "id" : null,
-            "name" : "WFMZ Allentown"
-         },
-         "url" : "https://www.wfmz.com/news/area/pennsylvania/pa-indoor-dining-to-resume-monday-at-25-or-50-capacity-if-self-certified/article_72aee95e-4d2a-11eb-a8d3-7323c5b556ae.html",
-         "author" : "",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/36/c36c5f1e-6777-11ea-9af7-bbe67d9fddcb/5e6f60677103e.image.jpg?resize=1120%2C630",
-         "description" : "According to officials, restaurants are able to open at 50 percent capacity Monday only if they have completed the online self-certification process.",
          "content" : "HARRISBURG, Pa. Restaurants will be able to open their doors once again for indoor dining come Monday, Jan. 4. However, the indoor capacity depends on whether or not the establishment has been self-c… [+1930 chars]",
-         "publishedAt" : "2021-01-02T18:43:00Z",
-         "title" : "Pa. indoor dining to resume Monday at 25%, or 50% capacity if self-certified - 69News WFMZ-TV"
-      },
-      {
-         "url" : "http://gothamist.com/food/communal-fridge-queens-lifeline-needy-families-found-destroyed",
-         "author" : "David Cruz",
+         "author" : "",
          "source" : {
-            "name" : "Gothamist",
+            "name" : "WFMZ Allentown",
             "id" : null
          },
-         "description" : "\"It really hurts that someone would do this.\"",
+         "description" : "According to officials, restaurants are able to open at 50 percent capacity Monday only if they have completed the online self-certification process.",
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/36/c36c5f1e-6777-11ea-9af7-bbe67d9fddcb/5e6f60677103e.image.jpg?resize=1120%2C630",
+         "publishedAt" : "2021-01-02T18:43:00Z",
+         "title" : "Pa. indoor dining to resume Monday at 25%, or 50% capacity if self-certified - 69News WFMZ-TV",
+         "url" : "https://www.wfmz.com/news/area/pennsylvania/pa-indoor-dining-to-resume-monday-at-25-or-50-capacity-if-self-certified/article_72aee95e-4d2a-11eb-a8d3-7323c5b556ae.html"
+      },
+      {
          "content" : "A community refrigerator created for needy families was discovered vandalized and left in disrepair outside the district office of Queens state Senator Jessica Ramos on New Years Day, coming at a mom… [+2493 chars]",
          "publishedAt" : "2021-01-02T18:34:00Z",
          "title" : "Communal Fridge In Queens, Lifeline For Needy Families, Found Destroyed - Gothamist",
-         "urlToImage" : "https://cms.prod.nypr.digital/images/316290/fill-1200x650/"
+         "url" : "http://gothamist.com/food/communal-fridge-queens-lifeline-needy-families-found-destroyed",
+         "urlToImage" : "https://cms.prod.nypr.digital/images/316290/fill-1200x650/",
+         "author" : "David Cruz",
+         "description" : "\"It really hurts that someone would do this.\"",
+         "source" : {
+            "id" : null,
+            "name" : "Gothamist"
+         }
       }
    ]
 }
