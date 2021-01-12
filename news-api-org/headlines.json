@@ -1,53 +1,90 @@
 {
-   "status" : "ok",
-   "totalResults" : 70,
    "articles" : [
       {
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106586583-1592815299358checkout.jpg?v=1592815338",
-         "title" : "Fintech firm Checkout.com crowned Europe’s top unicorn after tripling valuation to $15 billion - CNBC",
-         "description" : "Checkout.com said it's raised $450 million in an investment led by Tiger Global Management.",
+         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/7ed049c2f0f54b38b243a9ca86f1dcf2/3000.jpeg",
+         "content" : "DES MOINES, Iowa (AP) After a long stretch of relatively paltry prizes, U.S. lottery players now have a choice of games that offer combined jackpots of more than $1 billion.\r\nThe jackpot for Mega Mil… [+1774 chars]",
+         "url" : "https://apnews.com/article/mega-millions-powerball-jackpots-e39d36b5c6c5718703e42b3ba6751470",
+         "author" : "Scott Mcfetridge",
          "source" : {
-            "name" : "CNBC",
-            "id" : null
+            "id" : "associated-press",
+            "name" : "Associated Press"
          },
-         "publishedAt" : "2021-01-12T05:01:00Z",
-         "url" : "https://www.cnbc.com/2021/01/12/fintech-firm-checkoutcom-is-europes-top-unicorn-with-15b-valuation.html",
-         "author" : "Ryan Browne",
-         "content" : "The logo for payments start-up Checkout.com.\r\nLONDON Online payments firm Checkout.com is now Europe's top tech unicorn.\r\nCheckout.com said Tuesday that it had raised $450 million in an investment le… [+3960 chars]"
+         "publishedAt" : "2021-01-12T05:21:20Z",
+         "description" : "DES MOINES, Iowa (AP) — After a long stretch of relatively paltry prizes, U.S. lottery players now have a choice of games that offer combined jackpots of more than $1 billion. The jackpot...",
+         "title" : "No more puny prizes: Mega Millions, Powerball jackpots soar - Associated Press"
+      },
+      {
+         "url" : "https://www.cnn.com/2021/01/11/tech/ford-plant-shutdown-computer-chip-shortage/index.html",
+         "author" : "Chris Isidore, CNN Business",
+         "publishedAt" : "2021-01-12T05:20:00Z",
+         "description" : "A computer chip shortage has shut down the Louisville, Kentucky, Ford plant this week, the first shutdown because of an industry-wide problem that is expected to spread to many other auto plants in the coming months.",
+         "title" : "Ford shuts down a plant because it can't find enough computer chips - CNN",
+         "source" : {
+            "name" : "CNN",
+            "id" : "cnn"
+         },
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210111155904-louisville-plant-ford-escape-file-restricted-super-tease.jpg",
+         "content" : "New York (CNN Business)A computer chip shortage has shut down the Louisville, Kentucky, Ford plant this week, the first shutdown because of an industry-wide problem that is expected to spread to many… [+1082 chars]"
       },
       {
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "description" : "Chinese electric car start-up Nio released its first sedan, the et7 with self-driving technology features that it claims surpass that of Tesla.",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106818379-1609762965390-gettyimages-1229949653-CHINA_AUTOS_NIO.jpeg?v=1610425026",
-         "title" : "Carmaker Nio is 'well positioned' to capture a lot of China's electric vehicle market, analyst says - CNBC",
-         "author" : "Saheli Roy Choudhury",
+         "title" : "Fintech firm Checkout.com crowned Europe’s top unicorn after tripling valuation to $15 billion - CNBC",
+         "description" : "Checkout.com said it's raised $450 million in an investment led by Tiger Global Management.",
+         "publishedAt" : "2021-01-12T05:01:00Z",
+         "author" : "Ryan Browne",
+         "url" : "https://www.cnbc.com/2021/01/12/fintech-firm-checkoutcom-is-europes-top-unicorn-with-15b-valuation.html",
+         "content" : "The logo for payments start-up Checkout.com.\r\nLONDON Online payments firm Checkout.com is now Europe's top tech unicorn.\r\nCheckout.com said Tuesday that it had raised $450 million in an investment le… [+3960 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106586583-1592815299358checkout.jpg?v=1592815338"
+      },
+      {
+         "content" : "FILE PHOTO: The logo for the Intel Corporation is seen on a sign outside the Fab 42 microprocessor manufacturing site in Chandler, Arizona, U.S., October 2, 2020. REUTERS/Nathan Frandino\r\n(Reuters) -… [+2050 chars]",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547445390&r=LYNXMPEH0B06U&w=800",
+         "publishedAt" : "2021-01-12T04:31:00Z",
+         "description" : "Intel Corp plans to tap Taiwan Semiconductor Manufacturing Co to make a second generation discrete graphics chip for personal computers that it hopes will help it combat the rise of Nvidia Corp, two sources familiar with the matter told Reuters.",
+         "title" : "Intel graphics chip will tap new version of TSMC 7-nanometer process: sources - Reuters",
+         "source" : {
+            "name" : "Reuters",
+            "id" : "reuters"
+         },
+         "url" : "https://www.reuters.com/article/intel-tsmc/intel-graphics-chip-will-tap-new-version-of-tsmc-7-nanometer-process-sources-idUSL1N2JJ2Y4",
+         "author" : "Stephen Nellis"
+      },
+      {
          "content" : "SINGAPORE As domestic carmakers in China try to position themselves against Tesla in the growing Chinese electric vehicle space, Nio is well-placed to capture a sizeable chunk of the market, an analy… [+3058 chars]",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106818379-1609762965390-gettyimages-1229949653-CHINA_AUTOS_NIO.jpeg?v=1610425026",
+         "source" : {
+            "name" : "CNBC",
+            "id" : null
+         },
+         "title" : "Carmaker Nio is 'well positioned' to capture a lot of China's electric vehicle market, analyst says - CNBC",
          "publishedAt" : "2021-01-12T04:21:00Z",
+         "description" : "Chinese electric car start-up Nio released its first sedan, the et7 with self-driving technology features that it claims surpass that of Tesla.",
+         "author" : "Saheli Roy Choudhury",
          "url" : "https://www.cnbc.com/2021/01/12/china-electric-vehicles-market-nio-tesla-tsla.html"
       },
       {
          "content" : "Carnival Corp. said it is continuing to burn cash and expects to post another sizable loss after almost a year since onboard coronavirus outbreaks brought its voyages to a halt in the U.S.\r\n<table><t… [+2381 chars]",
-         "author" : "The Wall Street Journal",
-         "url" : "https://www.foxbusiness.com/lifestyle/carnival-corp-expecting-to-post-another-sizable-loss-since-coronavirus-outbreaks-wsj",
-         "publishedAt" : "2021-01-12T03:35:41Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/iStock-458109757-1.jpg?ve=1&tl=1",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "name" : "Fox Business",
+            "id" : null
          },
+         "publishedAt" : "2021-01-12T03:35:41Z",
          "description" : "Carnival Corp. said it is continuing to burn cash and expects to post another sizable loss after almost a year since onboard coronavirus outbreaks brought its voyages to a halt in the U.S.",
          "title" : "Carnival bracing for another sizable loss since coronavirus outbreaks: WSJ - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/iStock-458109757-1.jpg?ve=1&tl=1"
+         "url" : "https://www.foxbusiness.com/lifestyle/carnival-corp-expecting-to-post-another-sizable-loss-since-coronavirus-outbreaks-wsj",
+         "author" : "The Wall Street Journal"
       },
       {
-         "url" : "https://www.foxbusiness.com/lifestyle/southwest-airlines-flight-evacuated-written-threat-bwi-airport",
-         "publishedAt" : "2021-01-12T03:16:35Z",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/Southwest-Flight-Grounded.jpg?ve=1&tl=1",
          "content" : "Nearly 100 passengers were evacuated from a Southwest Airlines plane at Baltimore/Washington International Thurgood Marshall Airport after receiving a written threat.\r\nSpokespeople from Southwest and… [+1589 chars]",
          "author" : "Cortney Moore",
+         "url" : "https://www.foxbusiness.com/lifestyle/southwest-airlines-flight-evacuated-written-threat-bwi-airport",
          "title" : "Southwest Airlines flight evacuated due to written threat made at Maryland’s biggest airport - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/Southwest-Flight-Grounded.jpg?ve=1&tl=1",
+         "publishedAt" : "2021-01-12T03:16:35Z",
          "description" : "Nearly 100 passengers were evacuated from a Southwest Airlines in Baltimore.",
          "source" : {
             "name" : "Fox Business",
@@ -55,212 +92,175 @@
          }
       },
       {
-         "url" : "https://www.cnn.com/videos/business/2021/01/12/focus-dial-eyeglasses-moos-pkg-vpx.cnn",
-         "publishedAt" : "2021-01-12T02:05:18Z",
+         "content" : "FILE PHOTO: Jeffrey Gundlach, Chief Executive Officer, DoubleLine Capital, speaks at the Sohn Investment Conference in New York\r\nReuters\r\n<ul><li>\"Bond King\" Jeffrey Gundlach told CNBC on Monday bitc… [+2508 chars]",
+         "urlToImage" : "https://images2.markets.businessinsider.com/5ffcabacbde805001980c39b?format=jpeg",
+         "title" : "Billionaire 'Bond King' Jeff Gundlach says bitcoin appears to be in 'bubble territory' - Business Insider",
+         "publishedAt" : "2021-01-12T02:54:00Z",
+         "description" : "'I don't like bitcoin here, I don't like things that are up on a stilt like that,' Gundlach said of the coin that rallied nearly 300% in 2020.",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "author" : "finanzen.net GmbH",
+         "url" : "https://www.businessinsider.com/bitcoin-price-bubble-commentary-analysis-jeff-gundlach-bond-king-cryptocurrency-2021-1"
+      },
+      {
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210111203506-voy-eyeglasses-moos-pkg-vpx-super-tease.jpg",
          "content" : null,
          "author" : null,
+         "url" : "https://www.cnn.com/videos/business/2021/01/12/focus-dial-eyeglasses-moos-pkg-vpx.cnn",
          "title" : "New glasses use old tech to shape the future - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210111203506-voy-eyeglasses-moos-pkg-vpx-super-tease.jpg",
          "description" : "Who needs reading glasses when you can tune your glasses? CNN's Jeanne Moos reports.",
+         "publishedAt" : "2021-01-12T02:05:18Z",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          }
       },
       {
-         "publishedAt" : "2021-01-12T01:56:00Z",
-         "url" : "https://www.fool.com/investing/2021/01/11/walmart-developing-new-fintech-startup-with-robinh/",
-         "author" : "Eric Volkman",
-         "content" : "If Walmart's (NYSE:WMT) latest plans are realized, the retailing giant will become a presence in the hot fintech industry, too. The company announced Monday that it has created a start-up company to,… [+1447 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/608075/gettyimages-834792042.jpg",
-         "title" : "Walmart Developing New Fintech Startup With Robinhood Backer - Motley Fool",
-         "description" : "The big retailer is no stranger to financial products and services.",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         }
-      },
-      {
-         "author" : "Catalin Cimpanu",
-         "content" : "Cyber-security firm CrowdStrike, one of the companies directly involved in investigating the SolarWinds supply chain attack, said today it identified a third malware strain directly involved in the r… [+4983 chars]",
-         "publishedAt" : "2021-01-12T01:45:00Z",
-         "url" : "https://www.zdnet.com/article/third-malware-strain-discovered-in-solarwinds-supply-chain-attack/",
+         "title" : "Third malware strain discovered in SolarWinds supply chain attack - ZDNet",
          "description" : "CrowdStrike, one of the two security firms formally investigating the hack, sheds some light on how hackers compromised the SolarWinds Orion app build process.",
+         "publishedAt" : "2021-01-12T01:45:00Z",
          "source" : {
             "name" : "ZDNet",
             "id" : null
          },
-         "urlToImage" : "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/21/6b230a37-4a0a-47af-aa19-5404928d1076/thumbnail/770x578/be134d50ecd366798b1c9fcbd416641a/malware.png",
-         "title" : "Third malware strain discovered in SolarWinds supply chain attack - ZDNet"
+         "author" : "Catalin Cimpanu",
+         "url" : "https://www.zdnet.com/article/third-malware-strain-discovered-in-solarwinds-supply-chain-attack/",
+         "content" : "Cyber-security firm CrowdStrike, one of the companies directly involved in investigating the SolarWinds supply chain attack, said today it identified a third malware strain directly involved in the r… [+4983 chars]",
+         "urlToImage" : "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/21/6b230a37-4a0a-47af-aa19-5404928d1076/thumbnail/770x578/be134d50ecd366798b1c9fcbd416641a/malware.png"
       },
       {
-         "title" : "Analysts say Bitcoin price drop to $30K was ‘healthy and necessary’ - Cointelegraph",
-         "urlToImage" : "https://s3.cointelegraph.com/uploads/2021-01/1f5edf47-51af-4a4d-8afe-c2ae0cc2d0c0.jpg",
-         "description" : "The total cryptocurrency market cap fell by more than $200 billion as Bitcoin price dropped to $30,229 and altcoins correctly sharply.",
+         "url" : "https://cointelegraph.com/news/analysts-say-bitcoin-price-drop-to-30k-was-healthy-and-necessary",
+         "author" : "Jordan Finneseth",
          "source" : {
             "id" : null,
             "name" : "Cointelegraph"
          },
-         "url" : "https://cointelegraph.com/news/analysts-say-bitcoin-price-drop-to-30k-was-healthy-and-necessary",
          "publishedAt" : "2021-01-12T01:27:05Z",
-         "content" : "The euphoria in the cryptocurrency market was quelled on Jan.11 as the majority of altcoins saw their prices decline by more than 20% as Bitcoin price sold off sharply. \r\nAfter falling below the $40,… [+3901 chars]",
-         "author" : "Jordan Finneseth"
+         "description" : "The total cryptocurrency market cap fell by more than $200 billion as Bitcoin price dropped to $30,229 and altcoins correctly sharply.",
+         "title" : "Analysts say Bitcoin price drop to $30K was ‘healthy and necessary’ - Cointelegraph",
+         "urlToImage" : "https://s3.cointelegraph.com/uploads/2021-01/1f5edf47-51af-4a4d-8afe-c2ae0cc2d0c0.jpg",
+         "content" : "The euphoria in the cryptocurrency market was quelled on Jan.11 as the majority of altcoins saw their prices decline by more than 20% as Bitcoin price sold off sharply. \r\nAfter falling below the $40,… [+3901 chars]"
       },
       {
+         "urlToImage" : "https://laistassets.scprdev.org/i/3891534fee0e6681f0299da8254aba36/5f46ecf6605cf40008021091-eight.jpg",
+         "content" : "On Monday, January 11, Gov. Gavin Newsom delivered his latest update on California's response to the coronavirus. You can see his full remarks in the livestream above.\r\nTOO SOON TO TELL IF HOSPITALIZ… [+5200 chars]",
+         "author" : null,
+         "url" : "https://laist.com/latest/post/20210111/Dodger-stadium-coronavirus-vaccinations",
+         "title" : "Dodger Stadium To Stop COVID-19 Tests And Become A Mass Vaccination Site - LAist",
+         "publishedAt" : "2021-01-12T01:26:00Z",
+         "description" : "Vaccination efforts ramp up as the post-Christmas surge continues.",
+         "source" : {
+            "name" : "LAist",
+            "id" : null
+         }
+      },
+      {
+         "urlToImage" : "https://static01.nyt.com/images/2021/01/12/business/11JPmaga-online-print/11maga-online-facebookJumbo.jpg",
          "content" : "Just hours after rioters were cleared from the Capitol on Wednesday, there was already discussion about what would happen next on Parler and Gab, another social-media platform that has become popular… [+1727 chars]",
          "author" : "Sheera Frenkel",
          "url" : "https://www.nytimes.com/2021/01/11/technology/fringe-groups-splinter-online-after-facebook-and-twitter-bans.html",
+         "title" : "Fringe Groups Splinter Online After Facebook and Twitter Bans - The New York Times",
          "publishedAt" : "2021-01-12T01:18:00Z",
          "description" : "Tracking what may be planned in the coming days could become even more difficult as the groups take to lesser-known networks and apps that can’t be easily monitored.",
          "source" : {
             "id" : null,
             "name" : "New York Times"
-         },
-         "title" : "Fringe Groups Splinter Online After Facebook and Twitter Bans - The New York Times",
-         "urlToImage" : "https://static01.nyt.com/images/2021/01/12/business/11JPmaga-online-print/11maga-online-facebookJumbo.jpg"
+         }
       },
       {
-         "urlToImage" : null,
-         "title" : "Pro-Trump social media site Parler, booted by Amazon, takes step toward relaunching with Eastside firm - Seattle Times",
+         "title" : "Pitkin County moving to Red-level restrictions, closing indoor dining - Aspen Times",
+         "publishedAt" : "2021-01-12T01:05:00Z",
+         "description" : "With the highest incidence rate of COVID-19 in Colorado, Pitkin County will close indoor dining at restaurants Sunday and move fully into Red-level restrictions.Monday’s unanimous decision by the seven members of the Pitkin County Board of Health also include…",
          "source" : {
-            "name" : "Google News",
-            "id" : "google-news"
+            "name" : "Aspen Times",
+            "id" : null
          },
-         "description" : null,
-         "publishedAt" : "2021-01-12T01:16:00Z",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMilgFodHRwczovL3d3dy5zZWF0dGxldGltZXMuY29tL2J1c2luZXNzL3RlY2hub2xvZ3kvcHJvLXRydW1wLXNvY2lhbC1tZWRpYS1zaXRlLXBhcmxlci1ib290ZWQtYnktYW1hem9uLXRha2VzLXN0ZXAtdG93YXJkLXJlbGF1bmNoaW5nLXdpdGgtYmVsbGV2dWUtZmlybS_SAZwBaHR0cHM6Ly93d3cuc2VhdHRsZXRpbWVzLmNvbS9idXNpbmVzcy90ZWNobm9sb2d5L3Byby10cnVtcC1zb2NpYWwtbWVkaWEtc2l0ZS1wYXJsZXItYm9vdGVkLWJ5LWFtYXpvbi10YWtlcy1zdGVwLXRvd2FyZC1yZWxhdW5jaGluZy13aXRoLWJlbGxldnVlLWZpcm0vP2FtcD0x?oc=5",
-         "author" : null,
-         "content" : null
+         "author" : "Jason Auslander",
+         "url" : "https://www.aspentimes.com/news/pitkin-county-moving-to-red-level-restrictions-closing-indoor-dining/",
+         "content" : "With the highest incidence rate of COVID-19 in Colorado, Pitkin County will close indoor dining at restaurants Sunday and move fully into Red-level restrictions.\r\nMondays unanimous decision by the se… [+8109 chars]",
+         "urlToImage" : "https://imengine.public.prod.sci.navigacloud.com/?uuid=75212d7c-a952-5945-b99a-0900556da13e&type=preview&function=cover&width=1024&q=80"
       },
       {
-         "author" : "Reuters Staff",
-         "content" : "By Reuters Staff\r\nFILE PHOTO: The Amazon logo is pictured outside the company's JFK8 distribution center in Staten Island, New York, U.S. November 25, 2020. REUTERS/Brendan McDermid.\r\n(Reuters) - Ama… [+1443 chars]",
-         "publishedAt" : "2021-01-12T01:06:00Z",
-         "url" : "https://www.reuters.com/article/amazoncom-qanon/amazon-to-remove-qanon-products-from-platform-after-us-capitol-siege-idUSL1N2JN02F",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "description" : "Amazon.com Inc on Monday said it was working to remove some QAnon products from its online marketplace, citing policies that prohibit offensive items or other inappropriate content.",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547430661&r=LYNXMPEH0B01W&w=800",
-         "title" : "Amazon to remove QAnon products from platform after U.S. Capitol siege - Reuters"
-      },
-      {
-         "title" : "Why Novavax Fell by Over 4% Today - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/608059/stethoscope-atop-100-dollar-bills-and-pennies.jpg",
-         "description" : "Investors seem perturbed by some reporting about top managers' recent financial moves.",
+         "author" : "Eric Volkman",
+         "url" : "https://www.fool.com/investing/2021/01/11/why-novavax-fell-by-over-4-today/",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
          },
-         "url" : "https://www.fool.com/investing/2021/01/11/why-novavax-fell-by-over-4-today/",
+         "title" : "Why Novavax Fell by Over 4% Today - Motley Fool",
+         "description" : "Investors seem perturbed by some reporting about top managers' recent financial moves.",
          "publishedAt" : "2021-01-12T00:37:00Z",
-         "content" : "What happened\r\nNovavax(NASDAQ:NVAX) stumbled on Monday, with the stock declining by 4.4%. The key reason for the coronavirus vaccine developer's decline seems to be a set of company stock sales repor… [+1278 chars]",
-         "author" : "Eric Volkman"
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/608059/stethoscope-atop-100-dollar-bills-and-pennies.jpg",
+         "content" : "What happened\r\nNovavax(NASDAQ:NVAX) stumbled on Monday, with the stock declining by 4.4%. The key reason for the coronavirus vaccine developer's decline seems to be a set of company stock sales repor… [+1278 chars]"
       },
       {
-         "description" : "CES 2021: Skyward and UPS Flight Forward announce collaborative efforts to deliver retail products with drones; as well as 5G testing and integration for",
+         "content" : "PORTLAND, Ore. - Skyward, A Verizon company, and UPS Flight Forward today announced collaborative efforts to deliver retail products with drones connected to Verizon 4G LTE, as well as 5G testing and… [+1933 chars]",
+         "urlToImage" : "https://www.verizon.com/about/sites/default/files/2021-01/skyward-video-article-hero-image-1230x690.jpg",
          "source" : {
             "id" : null,
             "name" : "Verizon Communications"
          },
-         "urlToImage" : "https://www.verizon.com/about/sites/default/files/2021-01/skyward-video-article-hero-image-1230x690.jpg",
-         "title" : "UPS, and Skyward announce connected drone delivery at CES 2021 - Verizon News",
-         "author" : "Not Specified",
-         "content" : "PORTLAND, Ore. - Skyward, A Verizon company, and UPS Flight Forward today announced collaborative efforts to deliver retail products with drones connected to Verizon 4G LTE, as well as 5G testing and… [+1933 chars]",
          "publishedAt" : "2021-01-12T00:36:35Z",
-         "url" : "https://www.verizon.com/about/news/verizon-ups-skyward-drone-delivery-ces-2021"
+         "description" : "CES 2021: Skyward and UPS Flight Forward announce collaborative efforts to deliver retail products with drones; as well as 5G testing and integration for",
+         "title" : "UPS, and Skyward announce connected drone delivery at CES 2021 - Verizon News",
+         "url" : "https://www.verizon.com/about/news/verizon-ups-skyward-drone-delivery-ces-2021",
+         "author" : "Not Specified"
       },
       {
          "content" : "Dwayne “The Rock” Johnson just got his hands on another beverage.\r\nThe 48-year-old actor revealed he is getting into the energy drink game to his millions of social media followers on Monday. The bev… [+2597 chars]",
-         "author" : "Cortney Moore",
-         "url" : "https://www.foxbusiness.com/lifestyle/dwayne-johnson-zoa-energy-drink-everyday-warrior",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/John_Selects-20.jpg?ve=1&tl=1",
+         "title" : "Dwayne Johnson to launch ZOA Energy drink line - Fox Business",
          "publishedAt" : "2021-01-12T00:36:17Z",
+         "description" : "Dwayne “The Rock” Johnson just got his hands on another beverage.",
          "source" : {
             "name" : "Fox Business",
             "id" : null
          },
-         "description" : "Dwayne “The Rock” Johnson just got his hands on another beverage.",
-         "title" : "Dwayne Johnson to launch ZOA Energy drink line - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/John_Selects-20.jpg?ve=1&tl=1"
+         "author" : "Cortney Moore",
+         "url" : "https://www.foxbusiness.com/lifestyle/dwayne-johnson-zoa-energy-drink-everyday-warrior"
       },
       {
-         "source" : {
-            "name" : "WBRC",
-            "id" : null
-         },
-         "description" : "The Alabama Alcoholic Beverage Control Board says it is temporarily closing 41 ABC Stores around the state amid the growing number of COVID-19 cases.",
-         "title" : "41 ABC Stores to temporarily close amid pandemic - WBRC",
-         "urlToImage" : "https://www.wbrc.com/resizer/VTkK_i24WR_5zQJuCJ4I4yBGzGo=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/AX7PM6GT3ZDJ7BDUIB5QBQRCHM.jpg",
-         "content" : "MONTGOMERY, Ala. (WSFA) - The Alabama Alcoholic Beverage Control Board says it is temporarily closing 41 ABC Stores around the state amid the growing number of COVID-19 cases.\r\nClosing some of our st… [+2894 chars]",
-         "author" : "WSFA Staff",
          "url" : "https://www.wbrc.com/2021/01/11/abc-stores-temporarily-close-amid-pandemic/",
-         "publishedAt" : "2021-01-12T00:33:45Z"
-      },
-      {
-         "publishedAt" : "2021-01-12T00:19:28Z",
-         "url" : "https://www.youtube.com/watch?v=eJKC9-5Q6Lo",
-         "author" : null,
-         "content" : null,
-         "urlToImage" : "https://i.ytimg.com/vi/eJKC9-5Q6Lo/hqdefault.jpg",
-         "title" : "Jim Cramer: This market refuses to traffic in everything that's going wrong - CNBC Television",
+         "author" : "WSFA Staff",
+         "description" : "The Alabama Alcoholic Beverage Control Board says it is temporarily closing 41 ABC Stores around the state amid the growing number of COVID-19 cases.",
+         "publishedAt" : "2021-01-12T00:33:45Z",
+         "title" : "41 ABC Stores to temporarily close amid pandemic - WBRC",
          "source" : {
             "id" : null,
-            "name" : "YouTube"
+            "name" : "WBRC"
          },
-         "description" : "\"This market refuses to traffic in everything that's going wrong and instead focuses on what could go right,\" the \"Mad Money\" host said."
+         "urlToImage" : "https://www.wbrc.com/resizer/VTkK_i24WR_5zQJuCJ4I4yBGzGo=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/AX7PM6GT3ZDJ7BDUIB5QBQRCHM.jpg",
+         "content" : "MONTGOMERY, Ala. (WSFA) - The Alabama Alcoholic Beverage Control Board says it is temporarily closing 41 ABC Stores around the state amid the growing number of COVID-19 cases.\r\nClosing some of our st… [+2894 chars]"
       },
       {
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/IBI81ertAvey.Lek3xSvPQ--~B/aD00MTI7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-US/tipranks_452/c1e13ee5837b8b267d0e3c4448ef7027",
-         "title" : "Tesla: Impressive Production Mark, But the Stock Needs a Breather - Yahoo Finance",
+         "url" : "https://www.kktv.com/2021/01/12/colorado-labor-department-software-flags-thousands-of-claims/",
+         "author" : "Associated Press",
+         "description" : "A fraud detection program included in upgraded Colorado Department of Labor and Employment software has flagged thousands of unemployment benefits requests as suspicious.",
+         "publishedAt" : "2021-01-12T00:10:00Z",
+         "title" : "Colorado labor department software flags thousands of claims - KKTV",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "KKTV 11 News"
          },
-         "description" : "While the market spent the first trading day of 2021 fretting over whether Tesla (TSLA) met original 2020 delivery targets of 500K EVs, the company actually ...",
-         "publishedAt" : "2021-01-12T00:06:00Z",
-         "url" : "https://finance.yahoo.com/news/tesla-impressive-production-mark-stock-000651954.html",
-         "author" : "TipRanks",
-         "content" : "Markets ended 2020 on a high note, and have started 2021 on a bullish trajectory. All three major indexes have recently surged to all-time highs as investors seemingly looked beyond the pandemic and … [+8406 chars]"
+         "urlToImage" : "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/E6298z4K56Cnls7aFVurX7IC3QU=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/QJGHZRCSWBHJPAB3EHL774T34Y.jpg",
+         "content" : "DENVER (AP) A fraud detection program included in upgraded Colorado Department of Labor and Employment software has flagged thousands of unemployment benefits requests as suspicious.\r\nColorado Public… [+483 chars]"
       },
       {
-         "title" : "Gab, the social network that has welcomed Qanon and extremist figures, explained - The Washington Post",
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LXLHQ4CUIII6XLGFSLJIDGQ4ZM.jpg&w=1440",
+         "urlToImage" : "https://www.tampabay.com/resizer/c4vel6fjsEUXEiyFz8_M0MUCGrQ=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/RTNTH6ZPHVBPBERE6XRZC5UYXE.jpg",
+         "content" : "As Floridas coronavirus pandemic balloons for the second major wave, theres a key difference between now and the summer: Its less of a South Florida-specific problem.\r\nAt their summer peaks, Miami an… [+3043 chars]",
+         "author" : "Langston Taylor",
+         "url" : "https://www.tampabay.com/news/health/2021/01/11/florida-coronavirus-pandemic-more-evenly-spread-now-than-in-summer/",
+         "title" : "Florida coronavirus hospitalizations less concentrated in Miami-Dade, Broward - Tampa Bay Times",
+         "description" : "Places outside South Florida are getting hit harder this winter.",
+         "publishedAt" : "2021-01-11T23:49:31Z",
          "source" : {
-            "name" : "The Washington Post",
-            "id" : "the-washington-post"
-         },
-         "description" : "Since its inception, Gab has welcomed deplatformed social media users, generally attracting those on the far right.",
-         "url" : "https://www.washingtonpost.com/technology/2021/01/11/gab-social-network/",
-         "publishedAt" : "2021-01-11T23:33:00Z",
-         "content" : "The sites generally far-right political discussion can range from memes to baseless conspiracy theories (one typical example reads, What if it can be proven the storming of the Capitol was a Soros-fu… [+4401 chars]",
-         "author" : "Travis Andrews"
-      },
-      {
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/tRa9MO3wpivq1QlB1iMVPGbktRI=/0x408:4500x2764/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21845526/AP20239603839904.jpg",
-         "title" : "North Idaho internet provider blocks Facebook, Twitter over ‘censorship’ - Deseret News",
-         "description" : "North Idaho internet provider blocks Facebook, Twitter due to censorship.",
-         "source" : {
-            "name" : "Deseret News",
+            "name" : "Tampa Bay Times",
             "id" : null
-         },
-         "publishedAt" : "2021-01-11T23:15:00Z",
-         "url" : "https://www.deseret.com/u-s-world/2021/1/11/22225796/north-idaho-internet-provider-blocks-facebook-twitter-censorship",
-         "author" : "Herb Scribner",
-         "content" : "A North Idaho internet provider Your T1 WIFI said it has decided to block Facebook and Twitter for some customers, citing censorship claims, per KGW8.\r\nYour T1 WIFI provides internet to North Idaho a… [+1390 chars]"
-      },
-      {
-         "url" : "https://www.reuters.com/article/health-coronavirus-jpm-moderna/moderna-says-covid-19-vaccine-immunity-to-stay-at-least-a-year-idUSL4N2JM3RG",
-         "publishedAt" : "2021-01-11T23:10:00Z",
-         "content" : "By Reuters Staff\r\nA vial and sryinge are seen in front of a displayed Moderna logo in this illustration taken January 11, 2021. REUTERS/Dado Ruvic/Illustration\r\n(Reuters) - Immunity from Moderna Incs… [+1019 chars]",
-         "author" : "Reuters Staff",
-         "title" : "Moderna says COVID-19 vaccine immunity to stay at least a year - Reuters",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547420351&r=LYNXMPEH0A1KH&w=800",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "description" : "Immunity from Moderna Inc's COVID-19 vaccine should last at least a year, the company said on Monday at the J.P. Morgan Healthcare conference."
+         }
       }
-   ]
+   ],
+   "totalResults" : 70,
+   "status" : "ok"
 }
