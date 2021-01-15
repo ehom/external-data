@@ -1,158 +1,157 @@
 {
-   "status" : "ok",
    "totalResults" : 70,
    "articles" : [
       {
-         "author" : "Fox News",
-         "description" : "Dorsey recently defended Twitter's decision to permanently suspend President Trump's account, saying that it was the \"right decision.\"",
-         "url" : "https://www.foxnews.com/tech/live-updates-big-tech-1-15-2021",
-         "publishedAt" : "2021-01-15T06:05:04Z",
-         "source" : {
-            "name" : "Fox News",
-            "id" : "fox-news"
-         },
          "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Jack-Dorsey-Getty.jpg",
+         "author" : "Fox News",
          "title" : "Live Updates: Leaked recording of Dorsey suggests Twitter policy enforcement actions will go beyond Trump ban - Fox News",
+         "publishedAt" : "2021-01-15T06:05:04Z",
+         "url" : "https://www.foxnews.com/tech/live-updates-big-tech-1-15-2021",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "description" : "Dorsey recently defended Twitter's decision to permanently suspend President Trump's account, saying that it was the \"right decision.\"",
          "content" : "A leaked recording of Twitter CEO Jack Dorsey suggests that the company's policy enforcement actions will go far beyond banning President Trump. \r\nThe right-wing guerilla news outlet Project Veritas … [+838 chars]"
       },
       {
-         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
-         "title" : "TSMC plan for up to $28B in capital spending comes as chip industry frets over capacity - Seeking Alpha",
-         "content" : null,
-         "publishedAt" : "2021-01-15T06:01:00Z",
          "source" : {
             "id" : null,
             "name" : "Seeking Alpha"
          },
          "description" : "Taiwan Semiconductor Manufacturing Co. (NYSE:TSM) came through with an announcement of record capital spending: Up to $28B this year, a sum meant to extend its leadership as well as build the Arizona plant it intends to take care of certain American customers.",
+         "content" : null,
+         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
          "author" : null,
+         "publishedAt" : "2021-01-15T06:01:00Z",
+         "title" : "TSMC plan for up to $28B in capital spending comes as chip industry frets over capacity - Seeking Alpha",
          "url" : "https://seekingalpha.com/news/3651704-tsmc-plan-for-up-to-28b-in-capital-spending-comes-chip-industry-frets-over-capacity"
       },
       {
+         "content" : "Robinhood has taken the investing universe by storm, arming a new generation of investors with the tools they need to start putting money to work in the stock market. Many young adults are getting in… [+5248 chars]",
          "description" : "Ordinary investors are at odds with big institutions on these companies.",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
          "author" : "Dan Caplinger",
          "url" : "https://www.fool.com/investing/2021/01/15/the-4-robinhood-stocks-wall-street-hates-the-most/",
-         "content" : "Robinhood has taken the investing universe by storm, arming a new generation of investors with the tools they need to start putting money to work in the stock market. Many young adults are getting in… [+5248 chars]",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/608440/wall-street-gettyimages-488263377.jpg",
-         "title" : "The 4 Robinhood Stocks Wall Street Hates the Most - Motley Fool",
          "publishedAt" : "2021-01-15T05:35:00Z",
+         "title" : "The 4 Robinhood Stocks Wall Street Hates the Most - Motley Fool",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/608440/wall-street-gettyimages-488263377.jpg"
+      },
+      {
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/608577/man-receiving-a-vaccination-shot.jpg",
+         "url" : "https://www.fool.com/investing/2021/01/14/moderna-to-test-coronavirus-vaccine-booster-shot-i/",
+         "title" : "Moderna to Test Coronavirus Vaccine Booster Shot in New Clinical Trial - Motley Fool",
+         "publishedAt" : "2021-01-15T04:20:46Z",
+         "author" : "Eric Volkman",
+         "content" : "The first jab of Moderna's (NASDAQ:MRNA) two-shot coronavirus vaccine hasn't made it into the arms of the millions who will eventually receive it, but the company is already planning to gauge the eff… [+1369 chars]",
          "source" : {
             "name" : "Motley Fool",
             "id" : null
-         }
-      },
-      {
-         "url" : "https://www.fool.com/investing/2021/01/14/moderna-to-test-coronavirus-vaccine-booster-shot-i/",
-         "author" : "Eric Volkman",
-         "description" : "The company wants to see if it can still produce a sufficient response one year after inoculation.",
-         "title" : "Moderna to Test Coronavirus Vaccine Booster Shot in New Clinical Trial - Motley Fool",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/608577/man-receiving-a-vaccination-shot.jpg",
-         "content" : "The first jab of Moderna's (NASDAQ:MRNA) two-shot coronavirus vaccine hasn't made it into the arms of the millions who will eventually receive it, but the company is already planning to gauge the eff… [+1369 chars]",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
          },
-         "publishedAt" : "2021-01-15T04:20:46Z"
+         "description" : "The company wants to see if it can still produce a sufficient response one year after inoculation."
       },
       {
          "content" : null,
-         "title" : "Xiaomi and other Chinese companies slapped with US restrictions as Trump's term winds down - CNN",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210114222833-xiaomi-0113-restricted-super-tease.jpg",
-         "publishedAt" : "2021-01-15T04:12:00Z",
          "source" : {
-            "name" : "CNN",
-            "id" : "cnn"
+            "id" : "cnn",
+            "name" : "CNN"
          },
-         "author" : "Laura He, CNN Business",
          "description" : "The Trump administration is inflicting even more damage on Chinese businesses — including smartphone maker Xiaomi — with just days to go before President-elect Joe Biden takes office.",
-         "url" : "https://www.cnn.com/2021/01/14/business/us-ban-xiaomi-cnooc-comac-intl-hnk/index.html"
+         "author" : "Laura He, CNN Business",
+         "url" : "https://www.cnn.com/2021/01/14/business/us-ban-xiaomi-cnooc-comac-intl-hnk/index.html",
+         "publishedAt" : "2021-01-15T04:12:00Z",
+         "title" : "Xiaomi and other Chinese companies slapped with US restrictions as Trump's term winds down - CNN",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210114222833-xiaomi-0113-restricted-super-tease.jpg"
       },
       {
-         "url" : "https://www.kcra.com/article/it-s-just-been-a-nightmare-californians-struggle-frozen-edd-accounts/35220969",
-         "author" : "Brian Heap",
-         "description" : "Altogether, the Employment Development Department has nearly 2 million claim filers who are not receiving money at this time.",
          "content" : "SACRAMENTO, Calif. —Altogether, the Employment Development Department has nearly 2 million claim filers who are not receiving money at this time.\r\nThats because of a mass lockdown of accounts as the … [+150 chars]",
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/be43e919-fbde-4fe6-821f-753dcac19f56/be43e919-fbde-4fe6-821f-753dcac19f56_image.jpg?crop=0.761xw:0.761xh;0.0272xw,0&resize=1200:*",
-         "title" : "‘It’s just been a nightmare’: Californians struggle with frozen EDD accounts - KCRA Sacramento",
-         "publishedAt" : "2021-01-15T03:49:00Z",
          "source" : {
-            "name" : "KCRA Sacramento",
+            "id" : null,
+            "name" : "KCRA Sacramento"
+         },
+         "description" : "Altogether, the Employment Development Department has nearly 2 million claim filers who are not receiving money at this time.",
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/be43e919-fbde-4fe6-821f-753dcac19f56/be43e919-fbde-4fe6-821f-753dcac19f56_image.jpg?crop=0.761xw:0.761xh;0.0272xw,0&resize=1200:*",
+         "url" : "https://www.kcra.com/article/it-s-just-been-a-nightmare-californians-struggle-frozen-edd-accounts/35220969",
+         "publishedAt" : "2021-01-15T03:49:00Z",
+         "title" : "‘It’s just been a nightmare’: Californians struggle with frozen EDD accounts - KCRA Sacramento",
+         "author" : "Brian Heap"
+      },
+      {
+         "author" : "Reuters",
+         "url" : "https://www.foxbusiness.com/technology/amazon-slapped-with-class-action-lawsuit-accusing-e-commerce-giant-of-inflation-e-book-prices",
+         "publishedAt" : "2021-01-15T03:36:20Z",
+         "title" : "Amazon slapped with class-action lawsuit accusing e-commerce giant of inflation e-book prices - Fox Business",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/AP20349512815195.jpg?ve=1&tl=1",
+         "content" : "Amazon.com Inc was slapped with a class-action lawsuit on Thursday accusing the e-commerce giant of inflating the prices of ebooks in collusion with some publishers.\r\n<table><tr><th>Ticker</th><th>Se… [+1146 chars]",
+         "description" : "Amazon.com Inc was slapped with a class-action lawsuit on Thursday accusing the e-commerce giant of inflating the prices of ebooks in collusion with some publishers.",
+         "source" : {
+            "name" : "Fox Business",
             "id" : null
          }
       },
       {
-         "publishedAt" : "2021-01-15T03:36:20Z",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/drive-thru-vaccine-1610677588.jpg?crop=1.00xw:0.753xh;0,0.0655xh&resize=1200:*",
+         "author" : "Phil Gomez",
+         "url" : "https://www.ksbw.com/article/health-care-workers-vaccinated-in-santa-cruz-drive-thru-seniors-will-be-next/35220490",
+         "publishedAt" : "2021-01-15T03:17:00Z",
+         "title" : "Health care workers vaccinated in Santa Cruz drive-thru, seniors will be next - KSBW Monterey",
+         "content" : "SANTA CRUZ, Calif. —Sutter Health plans to begin vaccinating seniors ages 75 and older on Friday.\r\n\"The new state guidance that adds 65+ to Phase 1b has some nuance in the language that says to prior… [+2246 chars]",
          "source" : {
             "id" : null,
-            "name" : "Fox Business"
+            "name" : "KSBW The Central Coast"
          },
-         "content" : "Amazon.com Inc was slapped with a class-action lawsuit on Thursday accusing the e-commerce giant of inflating the prices of ebooks in collusion with some publishers.\r\n<table><tr><th>Ticker</th><th>Se… [+1146 chars]",
-         "title" : "Amazon slapped with class-action lawsuit accusing e-commerce giant of inflation e-book prices - Fox Business",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/AP20349512815195.jpg?ve=1&tl=1",
-         "description" : "Amazon.com Inc was slapped with a class-action lawsuit on Thursday accusing the e-commerce giant of inflating the prices of ebooks in collusion with some publishers.",
-         "author" : "Reuters",
-         "url" : "https://www.foxbusiness.com/technology/amazon-slapped-with-class-action-lawsuit-accusing-e-commerce-giant-of-inflation-e-book-prices"
+         "description" : "COVID-19 vaccines are a scarce commodity."
       },
       {
+         "content" : "Image source: The Motley Fool.\r\nDelta Air Lines (NYSE:DAL)Q4 2020 Earnings CallJan 14, 2021, 10:00 a.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants… [+91104 chars]",
          "source" : {
-            "name" : "KSBW The Central Coast",
+            "name" : "Motley Fool",
             "id" : null
          },
-         "publishedAt" : "2021-01-15T03:17:00Z",
-         "content" : "SANTA CRUZ, Calif. —Sutter Health plans to begin vaccinating seniors ages 75 and older on Friday.\r\n\"The new state guidance that adds 65+ to Phase 1b has some nuance in the language that says to prior… [+2246 chars]",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/drive-thru-vaccine-1610677588.jpg?crop=1.00xw:0.753xh;0,0.0655xh&resize=1200:*",
-         "title" : "Health care workers vaccinated in Santa Cruz drive-thru, seniors will be next - KSBW Monterey",
-         "description" : "COVID-19 vaccines are a scarce commodity.",
-         "author" : "Phil Gomez",
-         "url" : "https://www.ksbw.com/article/health-care-workers-vaccinated-in-santa-cruz-drive-thru-seniors-will-be-next/35220490"
-      },
-      {
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
-         "title" : "Delta Air Lines (DAL) Q4 2020 Earnings Call Transcript - Motley Fool",
-         "content" : "Image source: The Motley Fool.\r\nDelta Air Lines (NYSE:DAL)Q4 2020 Earnings CallJan 14, 2021, 10:00 a.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</li><li>Call Participants… [+91104 chars]",
-         "publishedAt" : "2021-01-15T02:30:55Z",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
          "description" : "DAL earnings call for the period ending December 31, 2020.",
+         "author" : "Motley Fool Transcribing",
          "url" : "https://www.fool.com/earnings/call-transcripts/2021/01/14/delta-air-lines-dal-q4-2020-earnings-call-transcri/",
-         "author" : "Motley Fool Transcribing"
+         "title" : "Delta Air Lines (DAL) Q4 2020 Earnings Call Transcript - Motley Fool",
+         "publishedAt" : "2021-01-15T02:30:55Z",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg"
       },
       {
          "content" : "NEW BRITAIN, CT (WFSB) Emergency crews are responding to an underground fire on Thursday evening.\r\nNew Britain Mayor Erin Stewart said the underground fire is happening at the intersection of Lafayet… [+400 chars]",
-         "title" : "Businesses in New Britain being evacuated due to underground fire - WFSB",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/a/a8/aa86bf5f-b6ca-5627-baf6-bb8f1ceb40f5/600116dc30531.image.jpg?resize=1120%2C630",
+         "description" : "NEW BRITAIN, CT (WFSB) – Emergency crews are responding to an underground fire on Thursday evening.",
          "source" : {
-            "id" : null,
-            "name" : "WFSB"
+            "name" : "WFSB",
+            "id" : null
          },
+         "url" : "https://www.wfsb.com/news/businesses-in-new-britain-being-evacuated-due-to-underground-fire/article_589df102-56d7-11eb-93e5-4b49ac4bfdfc.html",
+         "title" : "Businesses in New Britain being evacuated due to underground fire - WFSB",
          "publishedAt" : "2021-01-15T02:14:00Z",
          "author" : "Olivia Lank",
-         "description" : "NEW BRITAIN, CT (WFSB) – Emergency crews are responding to an underground fire on Thursday evening.",
-         "url" : "https://www.wfsb.com/news/businesses-in-new-britain-being-evacuated-due-to-underground-fire/article_589df102-56d7-11eb-93e5-4b49ac4bfdfc.html"
+         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/wfsb.com/content/tncms/assets/v3/editorial/a/a8/aa86bf5f-b6ca-5627-baf6-bb8f1ceb40f5/600116dc30531.image.jpg?resize=1120%2C630"
       },
       {
-         "url" : "https://electrek.co/2021/01/14/toyotas-greenwashing-leads-to-record-180m-fine-for-emissions-lies/",
-         "author" : null,
-         "description" : "Toyota will pay a penalty of $180 million for failing to comply with the Clean Air Act’s emissions-reporting requirements from 2005-2015, according to a filing today by the US Department of Justice. Over that time period, Toyota delayed required filings about…",
+         "content" : "Toyota will pay a penalty of $180 million for failing to comply with the Clean Air Act’s emissions-reporting requirements from 2005-2015, according to a filing today by the US Department of Justice.\r… [+7960 chars]",
          "source" : {
             "id" : null,
             "name" : "Electrek"
          },
-         "publishedAt" : "2021-01-15T01:56:00Z",
+         "description" : "Toyota will pay a penalty of $180 million for failing to comply with the Clean Air Act’s emissions-reporting requirements from 2005-2015, according to a filing today by the US Department of Justice. Over that time period, Toyota delayed required filings about…",
          "urlToImage" : "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2017/11/diesel-pollution-e1509549731879.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+         "author" : null,
+         "url" : "https://electrek.co/2021/01/14/toyotas-greenwashing-leads-to-record-180m-fine-for-emissions-lies/",
          "title" : "Toyota’s greenwashing leads to record $180m fine for emissions lies - Electrek",
-         "content" : "Toyota will pay a penalty of $180 million for failing to comply with the Clean Air Act’s emissions-reporting requirements from 2005-2015, according to a filing today by the US Department of Justice.\r… [+7960 chars]"
+         "publishedAt" : "2021-01-15T01:56:00Z"
       },
       {
-         "description" : "Dr. Scott Gottlieb warned of a potentially dire spring and summer without protective immunity as new, highly transmissible Covid variants appear globally.",
-         "author" : "Emily DeCiccio",
          "url" : "https://www.cnbc.com/2021/01/14/us-potentially-facing-perpetual-infection-of-covid-says-gottlieb.html",
-         "content" : "Dr. Scott Gottlieb emphasized the importance of getting as many people vaccinated as possible, and warned of a potentially dire spring and summer without protective immunity as new Covid variants app… [+2754 chars]",
-         "title" : "U.S. potentially facing ‘perpetual infection’ of Covid in spring as new variants spread, warns Dr. Scott Gottlieb - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105846848-1555007976919img_8979.jpg?v=1555008036",
          "publishedAt" : "2021-01-15T01:52:00Z",
+         "title" : "U.S. potentially facing ‘perpetual infection’ of Covid in spring as new variants spread, warns Dr. Scott Gottlieb - CNBC",
+         "author" : "Emily DeCiccio",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105846848-1555007976919img_8979.jpg?v=1555008036",
+         "content" : "Dr. Scott Gottlieb emphasized the importance of getting as many people vaccinated as possible, and warned of a potentially dire spring and summer without protective immunity as new Covid variants app… [+2754 chars]",
+         "description" : "Dr. Scott Gottlieb warned of a potentially dire spring and summer without protective immunity as new, highly transmissible Covid variants appear globally.",
          "source" : {
             "name" : "CNBC",
             "id" : null
@@ -160,107 +159,108 @@
       },
       {
          "description" : "Houston Methodist is holding a clinic this weekend, but it is only open to patients of the hospital system.",
-         "url" : "https://www.click2houston.com/health/2021/01/15/we-get-it-houston-methodist-ceo-addresses-frustrations-over-vaccine-distribution/",
-         "author" : "Andy Cerota, Aaron Barker",
-         "content" : "HOUSTON Houston Methodist is holding a clinic this weekend, but it is only open to patients of the hospital system.\r\nSimilar invitation only clinics have been rolled out by other hospitals in the Hou… [+1323 chars]",
-         "title" : "‘We get it’: Houston Methodist CEO addresses frustrations over vaccine distribution - KPRC Click2Houston",
-         "urlToImage" : "https://www.click2houston.com/resizer/ASNXO7EYFtk2OUXGu1rqVHbyn1g=/1600x900/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/01-15-2021/t_cdb85b7560ab406ab4b20563648a31fd_name_image.jpg",
          "source" : {
             "name" : "KPRC Click2Houston",
             "id" : null
          },
-         "publishedAt" : "2021-01-15T01:50:09Z"
+         "content" : "HOUSTON Houston Methodist is holding a clinic this weekend, but it is only open to patients of the hospital system.\r\nSimilar invitation only clinics have been rolled out by other hospitals in the Hou… [+1323 chars]",
+         "urlToImage" : "https://www.click2houston.com/resizer/ASNXO7EYFtk2OUXGu1rqVHbyn1g=/1600x900/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/01-15-2021/t_cdb85b7560ab406ab4b20563648a31fd_name_image.jpg",
+         "title" : "‘We get it’: Houston Methodist CEO addresses frustrations over vaccine distribution - KPRC Click2Houston",
+         "publishedAt" : "2021-01-15T01:50:09Z",
+         "url" : "https://www.click2houston.com/health/2021/01/15/we-get-it-houston-methodist-ceo-addresses-frustrations-over-vaccine-distribution/",
+         "author" : "Andy Cerota, Aaron Barker"
       },
       {
-         "url" : "https://www.bbc.com/future/article/20210114-covid-19-how-effective-is-a-single-vaccine-dose",
-         "author" : "Zaria Gorvett",
-         "description" : "Pretend it didn't happen – expert advice on how to behave after receiving a single dose of any of the Covid-19 vaccines.",
-         "content" : "The cases are already beginning to emerge.\r\nWhen 85-year-old Colin Horseman was admitted to Doncaster Royal Infirmary in late December, it was for a suspected kidney infection. But not long afterward… [+2955 chars]",
-         "title" : "How effective is a single vaccine dose against Covid-19? - BBC News",
          "urlToImage" : "https://ychef.files.bbci.co.uk/live/624x351/p09413dd.jpg",
+         "author" : "Zaria Gorvett",
+         "url" : "https://www.bbc.com/future/article/20210114-covid-19-how-effective-is-a-single-vaccine-dose",
+         "title" : "How effective is a single vaccine dose against Covid-19? - BBC News",
          "publishedAt" : "2021-01-15T01:03:20Z",
+         "content" : "The cases are already beginning to emerge.\r\nWhen 85-year-old Colin Horseman was admitted to Doncaster Royal Infirmary in late December, it was for a suspected kidney infection. But not long afterward… [+2955 chars]",
          "source" : {
             "id" : null,
             "name" : "BBC News"
-         }
+         },
+         "description" : "Pretend it didn't happen – expert advice on how to behave after receiving a single dose of any of the Covid-19 vaccines."
       },
       {
-         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-01-14_k0twncevex.jpg",
-         "title" : "Why Oil Will Keep Rising In 2021 - OilPrice.com",
+         "description" : "While new lockdowns around the world are threatening oil demand, there are plenty of reasons to be bullish about oil prices in 2021",
+         "source" : {
+            "name" : "OilPrice.com",
+            "id" : null
+         },
          "content" : "Crude oil prices continued their…\r\nAfter another round of drama…\r\nOil prices rose ahead of…\r\nBy David Messler - Jan 14, 2021, 7:00 PM CSTWe have seen strong moves higher in the key crude oil benchmar… [+6866 chars]",
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-01-14_k0twncevex.jpg",
+         "publishedAt" : "2021-01-15T01:00:00Z",
+         "title" : "Why Oil Will Keep Rising In 2021 - OilPrice.com",
+         "url" : "https://oilprice.com/Energy/Oil-Prices/Why-Oil-Will-Keep-Rising-In-2021.html",
+         "author" : "David Messler"
+      },
+      {
          "source" : {
             "id" : null,
-            "name" : "OilPrice.com"
+            "name" : "Daily Mail"
          },
-         "publishedAt" : "2021-01-15T01:00:00Z",
-         "author" : "David Messler",
-         "url" : "https://oilprice.com/Energy/Oil-Prices/Why-Oil-Will-Keep-Rising-In-2021.html",
-         "description" : "While new lockdowns around the world are threatening oil demand, there are plenty of reasons to be bullish about oil prices in 2021"
-      },
-      {
-         "author" : "Stacy Liberatore",
-         "url" : "https://www.dailymail.co.uk/sciencetech/article-9149521/Tesla-asked-recall-158-000-vehicles-potentially-dangerous-display-failures.html",
          "description" : "NHTSA is asking Tesla to recall 158,000 Model S and Model X vehicles due to touchscreens failures that are impacting rearview mirrors and air conditioners that de-fog and defrost windows.",
-         "publishedAt" : "2021-01-15T00:39:00Z",
-         "source" : {
-            "name" : "Daily Mail",
-            "id" : null
-         },
          "content" : "The National Highway Traffic Safety Administration (NHTSA) is asking Tesla to recall about 158,000 vehicles due to potential dangers from touchscreen failures.\r\nNHTSA recently sent the Elon Musk-owne… [+3518 chars]",
          "urlToImage" : "https://i.dailymail.co.uk/1s/2021/01/15/00/38028082-0-image-a-44_1610671158667.jpg",
-         "title" : "Tesla asked to recall 158000 vehicles due to display failures - Daily Mail"
+         "publishedAt" : "2021-01-15T00:39:00Z",
+         "title" : "Tesla asked to recall 158000 vehicles due to display failures - Daily Mail",
+         "url" : "https://www.dailymail.co.uk/sciencetech/article-9149521/Tesla-asked-recall-158-000-vehicles-potentially-dangerous-display-failures.html",
+         "author" : "Stacy Liberatore"
       },
       {
+         "content" : "Charlotte, North Carolina-based Honeywell announced Thursday that it's partnered with a consortium of local businesses to help accelerate the state's Covid-19 vaccine rollout.\r\nThe partnership with A… [+1931 chars]",
+         "description" : "In North Carolina, more than 268,000 doses have been administered, according to the CDC. The state has a population of about 10.5 million.",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105434586-1536179941768img_5015.jpg?v=1610662538",
          "author" : "Will Feuer",
          "url" : "https://www.cnbc.com/2021/01/14/honeywell-teams-with-north-carolina-businesses-on-covid-vaccine-rollout.html",
-         "description" : "In North Carolina, more than 268,000 doses have been administered, according to the CDC. The state has a population of about 10.5 million.",
-         "publishedAt" : "2021-01-15T00:36:00Z",
-         "source" : {
-            "name" : "CNBC",
-            "id" : null
-         },
-         "content" : "Charlotte, North Carolina-based Honeywell announced Thursday that it's partnered with a consortium of local businesses to help accelerate the state's Covid-19 vaccine rollout.\r\nThe partnership with A… [+1931 chars]",
          "title" : "Honeywell teams with North Carolina businesses to help accelerate Covid vaccine rollout - CNBC",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105434586-1536179941768img_5015.jpg?v=1610662538"
+         "publishedAt" : "2021-01-15T00:36:00Z"
       },
       {
-         "content" : null,
-         "urlToImage" : "https://i.ytimg.com/vi/XlS21ZvcqVo/hqdefault.jpg",
-         "title" : "Jim Cramer breaks down the short busting in GameStop, Bed Bath & Beyond - CNBC Television",
+         "description" : "Like it or not, right now we've got a bull market in short busting, and I bet you'll see more stories like GameStop and Bed Bath, Jim Cramer said.",
          "source" : {
             "name" : "YouTube",
             "id" : null
          },
-         "publishedAt" : "2021-01-15T00:28:51Z",
+         "content" : null,
+         "urlToImage" : "https://i.ytimg.com/vi/XlS21ZvcqVo/hqdefault.jpg",
          "author" : null,
-         "description" : "Like it or not, right now we've got a bull market in short busting, and I bet you'll see more stories like GameStop and Bed Bath, Jim Cramer said.",
+         "title" : "Jim Cramer breaks down the short busting in GameStop, Bed Bath & Beyond - CNBC Television",
+         "publishedAt" : "2021-01-15T00:28:51Z",
          "url" : "https://www.youtube.com/watch?v=XlS21ZvcqVo"
       },
       {
-         "description" : "Breaking News, Latest News and Current News from OANN.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.",
          "author" : null,
-         "url" : "https://www.oann.com/delta-confirms-no-fly-list-for-passengers-heckling-senators-other-airlines-implement-restrictions-ahead-of-inauguration/",
          "publishedAt" : "2021-01-15T00:14:32Z",
-         "source" : {
-            "name" : "One America News Network",
-            "id" : null
-         },
-         "urlToImage" : null,
          "title" : "Delta confirms no-fly list for passengers heckling senators & other airlines implement restrictions ahead of inauguration - One America News Network",
+         "url" : "https://www.oann.com/delta-confirms-no-fly-list-for-passengers-heckling-senators-other-airlines-implement-restrictions-ahead-of-inauguration/",
+         "urlToImage" : null,
+         "description" : "Breaking News, Latest News and Current News from OANN.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.",
+         "source" : {
+            "id" : null,
+            "name" : "One America News Network"
+         },
          "content" : "(Photo by Tim Boyle/Getty Images)\r\nOAN NewsroomUPDATED 3:30 PM PT Thursday, January 14, 2021\r\nDelta Airlines is cracking down on passengers who were seen harassing Republican Senators Mitt Romney and… [+1804 chars]"
       },
       {
-         "description" : "“In terms of the vaccine rollout, the data I’m looking at is that we’re right there with everybody else in the country,” Gov. Tom Wolf said Thursday.",
          "author" : "Barbara Barr",
+         "title" : "PA. GOVERNOR defends COVID-19 vaccine rollout - WGAL Susquehanna Valley Pa.",
+         "publishedAt" : "2021-01-15T00:11:00Z",
          "url" : "https://www.wgal.com/article/governor-defends-pennsylvania-s-covid-19-vaccine-rollout/35219738",
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/images/covid-19-vaccine-1610668224.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+         "description" : "“In terms of the vaccine rollout, the data I’m looking at is that we’re right there with everybody else in the country,” Gov. Tom Wolf said Thursday.",
          "source" : {
             "name" : "WGAL Susquehanna Valley Pa.",
             "id" : null
          },
-         "publishedAt" : "2021-01-15T00:11:00Z",
-         "title" : "PA. GOVERNOR defends COVID-19 vaccine rollout - WGAL Susquehanna Valley Pa.",
-         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/images/covid-19-vaccine-1610668224.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
          "content" : "HARRISBURG, Pa. —Gov. Tom Wolf is defending Pennsylvanias vaccine distribution effort.\r\nIn terms of the vaccine rollout, the data Im looking at is that were right there with everybody else in the cou… [+819 chars]"
       }
-   ]
+   ],
+   "status" : "ok"
 }
