@@ -1,8 +1,8 @@
 [
    {
       "updated" : "2021-01-20 17:00:43",
-      "state" : "New York",
       "death" : 40304,
+      "state" : "New York",
       "case" : 1268464
    },
    {
@@ -12,40 +12,40 @@
       "case" : 573479
    },
    {
-      "death" : 34448,
       "case" : 3053145,
+      "death" : 34448,
       "state" : "California",
       "updated" : "2021-01-20 17:00:43"
    },
    {
       "updated" : "2021-01-20 17:00:43",
-      "state" : "Michigan",
       "death" : 14746,
+      "state" : "Michigan",
       "case" : 587450
    },
    {
-      "updated" : "2021-01-20 17:00:43",
       "state" : "Florida",
       "death" : 24442,
+      "updated" : "2021-01-20 17:00:43",
       "case" : 1589097
    },
    {
-      "case" : 474797,
       "death" : 13749,
       "state" : "Massachusetts",
-      "updated" : "2021-01-20 17:00:43"
+      "updated" : "2021-01-20 17:00:43",
+      "case" : 474797
    },
    {
-      "state" : "Washington",
-      "updated" : "2021-01-20 17:00:43",
       "case" : 291999,
-      "death" : 3946
+      "updated" : "2021-01-20 17:00:43",
+      "death" : 3946,
+      "state" : "Washington"
    },
    {
-      "death" : 8324,
-      "case" : 372103,
       "updated" : "2021-01-20 17:00:43",
-      "state" : "Louisiana"
+      "state" : "Louisiana",
+      "death" : 8324,
+      "case" : 372103
    },
    {
       "updated" : "2021-01-20 17:00:43",
@@ -54,76 +54,76 @@
       "case" : 1076842
    },
    {
-      "state" : "Pennsylvania",
-      "updated" : "2021-01-20 17:00:43",
       "case" : 783355,
-      "death" : 19467
-   },
-   {
-      "state" : "Georgia",
-      "updated" : "2021-01-20 17:00:43",
-      "case" : 828616,
-      "death" : 12583
-   },
-   {
-      "state" : "Texas",
-      "updated" : "2021-01-20 17:00:43",
-      "case" : 2159951,
-      "death" : 32925
-   },
-   {
-      "state" : "Colorado",
-      "updated" : "2021-01-20 17:00:43",
-      "death" : 5398,
-      "case" : 377857
-   },
-   {
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Connecticut",
-      "case" : 232219,
-      "death" : 6683
-   },
-   {
-      "state" : "Ohio",
-      "updated" : "2021-01-20 17:00:43",
-      "death" : 10339,
-      "case" : 836056
-   },
-   {
-      "state" : "Indiana",
-      "updated" : "2021-01-20 17:00:43",
-      "case" : 595437,
-      "death" : 9321
-   },
-   {
-      "state" : "Tennessee",
-      "updated" : "2021-01-20 17:00:43",
-      "case" : 689808,
-      "death" : 8471
-   },
-   {
-      "death" : 6650,
-      "case" : 330186,
-      "state" : "Maryland",
+      "state" : "Pennsylvania",
+      "death" : 19467,
       "updated" : "2021-01-20 17:00:43"
    },
    {
-      "state" : "North Carolina",
+      "case" : 828616,
       "updated" : "2021-01-20 17:00:43",
-      "case" : 682096,
-      "death" : 8145
+      "death" : 12583,
+      "state" : "Georgia"
    },
    {
-      "state" : "Wisconsin",
       "updated" : "2021-01-20 17:00:43",
+      "state" : "Texas",
+      "death" : 32925,
+      "case" : 2159951
+   },
+   {
+      "case" : 377857,
+      "updated" : "2021-01-20 17:00:43",
+      "state" : "Colorado",
+      "death" : 5398
+   },
+   {
+      "death" : 6683,
+      "state" : "Connecticut",
+      "updated" : "2021-01-20 17:00:43",
+      "case" : 232219
+   },
+   {
+      "updated" : "2021-01-20 17:00:43",
+      "death" : 10339,
+      "state" : "Ohio",
+      "case" : 836056
+   },
+   {
+      "updated" : "2021-01-20 17:00:43",
+      "state" : "Indiana",
+      "death" : 9321,
+      "case" : 595437
+   },
+   {
+      "case" : 689808,
+      "state" : "Tennessee",
+      "death" : 8471,
+      "updated" : "2021-01-20 17:00:43"
+   },
+   {
+      "case" : 330186,
+      "state" : "Maryland",
+      "death" : 6650,
+      "updated" : "2021-01-20 17:00:43"
+   },
+   {
+      "updated" : "2021-01-20 17:00:43",
+      "death" : 8145,
+      "state" : "North Carolina",
+      "case" : 682096
+   },
+   {
       "case" : 524424,
+      "updated" : "2021-01-20 17:00:43",
+      "state" : "Wisconsin",
       "death" : 5514
    },
    {
       "case" : 686047,
-      "death" : 11267,
+      "updated" : "2021-01-20 17:00:43",
       "state" : "Arizona",
-      "updated" : "2021-01-20 17:00:43"
+      "death" : 11267
    },
    {
       "case" : 451089,
@@ -132,122 +132,122 @@
       "updated" : "2021-01-20 17:00:43"
    },
    {
-      "death" : 6660,
       "case" : 458774,
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Missouri"
+      "death" : 6660,
+      "state" : "Missouri",
+      "updated" : "2021-01-20 17:00:43"
    },
    {
-      "state" : "Nevada",
-      "updated" : "2021-01-20 17:00:43",
       "case" : 264091,
-      "death" : 3795
+      "state" : "Nevada",
+      "death" : 3795,
+      "updated" : "2021-01-20 17:00:43"
    },
    {
       "case" : 426544,
-      "death" : 6135,
+      "updated" : "2021-01-20 17:00:43",
       "state" : "Alabama",
-      "updated" : "2021-01-20 17:00:43"
+      "death" : 6135
    },
    {
       "case" : 254793,
-      "death" : 5561,
+      "updated" : "2021-01-20 17:00:43",
       "state" : "Mississippi",
+      "death" : 5561
+   },
+   {
+      "case" : 394318,
+      "state" : "South Carolina",
+      "death" : 6259,
       "updated" : "2021-01-20 17:00:43"
    },
    {
-      "state" : "South Carolina",
-      "updated" : "2021-01-20 17:00:43",
-      "case" : 394318,
-      "death" : 6259
-   },
-   {
-      "updated" : "2021-01-20 17:00:43",
       "state" : "Utah",
-      "case" : 326127,
-      "death" : 1507
+      "death" : 1507,
+      "updated" : "2021-01-20 17:00:43",
+      "case" : 326127
    },
    {
       "case" : 448268,
-      "death" : 5945,
-      "state" : "Minnesota",
-      "updated" : "2021-01-20 17:00:43"
-   },
-   {
       "updated" : "2021-01-20 17:00:43",
-      "state" : "Oregon",
-      "case" : 134468,
-      "death" : 1808
+      "state" : "Minnesota",
+      "death" : 5945
    },
    {
-      "death" : 3036,
-      "case" : 358377,
-      "state" : "Oklahoma",
+      "case" : 134468,
+      "death" : 1808,
+      "state" : "Oregon",
       "updated" : "2021-01-20 17:00:43"
+   },
+   {
+      "state" : "Oklahoma",
+      "death" : 3036,
+      "updated" : "2021-01-20 17:00:43",
+      "case" : 358377
    },
    {
       "state" : "Arkansas",
-      "updated" : "2021-01-20 17:00:43",
       "death" : 4387,
+      "updated" : "2021-01-20 17:00:43",
       "case" : 273595
    },
    {
-      "death" : 4332,
       "case" : 306617,
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Iowa"
+      "death" : 4332,
+      "state" : "Iowa",
+      "updated" : "2021-01-20 17:00:43"
    },
    {
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Washington, D.C.",
+      "case" : 34259,
       "death" : 861,
-      "case" : 34259
+      "state" : "Washington, D.C.",
+      "updated" : "2021-01-20 17:00:43"
    },
    {
       "updated" : "2021-01-20 17:00:43",
+      "death" : 3196,
       "state" : "Kentucky",
-      "case" : 330919,
-      "death" : 3196
+      "case" : 330919
    },
    {
-      "case" : 156781,
-      "death" : 1638,
       "state" : "Idaho",
-      "updated" : "2021-01-20 17:00:43"
-   },
-   {
-      "death" : 2045,
-      "case" : 107066,
+      "death" : 1638,
       "updated" : "2021-01-20 17:00:43",
-      "state" : "Rhode Island"
+      "case" : 156781
    },
    {
-      "death" : 3566,
-      "case" : 262501,
-      "state" : "Kansas",
+      "case" : 107066,
+      "death" : 2045,
+      "state" : "Rhode Island",
       "updated" : "2021-01-20 17:00:43"
    },
    {
-      "state" : "New Hampshire",
+      "state" : "Kansas",
+      "death" : 3566,
+      "updated" : "2021-01-20 17:00:43",
+      "case" : 262501
+   },
+   {
+      "case" : 58709,
       "updated" : "2021-01-20 17:00:43",
       "death" : 938,
-      "case" : 58709
+      "state" : "New Hampshire"
    },
    {
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Maine",
       "death" : 520,
+      "state" : "Maine",
+      "updated" : "2021-01-20 17:00:43",
       "case" : 34262
    },
    {
+      "updated" : "2021-01-20 17:00:43",
       "death" : 163,
-      "case" : 10321,
       "state" : "Vermont",
-      "updated" : "2021-01-20 17:00:43"
+      "case" : 10321
    },
    {
-      "state" : "New Mexico",
       "updated" : "2021-01-20 17:00:43",
+      "state" : "New Mexico",
       "death" : 2976,
       "case" : 164953
    },
@@ -258,28 +258,28 @@
       "case" : 71311
    },
    {
-      "death" : 1703,
       "case" : 145322,
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Puerto Rico"
+      "death" : 1703,
+      "state" : "Puerto Rico",
+      "updated" : "2021-01-20 17:00:43"
    },
    {
       "state" : "Hawaii",
-      "updated" : "2021-01-20 17:00:43",
       "death" : 321,
+      "updated" : "2021-01-20 17:00:43",
       "case" : 24483
    },
    {
-      "state" : "Montana",
-      "updated" : "2021-01-20 17:00:43",
+      "case" : 89864,
       "death" : 1093,
-      "case" : 89864
+      "state" : "Montana",
+      "updated" : "2021-01-20 17:00:43"
    },
    {
-      "death" : 1967,
-      "case" : 182932,
       "updated" : "2021-01-20 17:00:43",
-      "state" : "Nebraska"
+      "death" : 1967,
+      "state" : "Nebraska",
+      "case" : 182932
    },
    {
       "case" : 26517,
@@ -288,87 +288,87 @@
       "updated" : "2021-01-20 17:00:43"
    },
    {
-      "updated" : "2021-01-20 17:00:43",
       "state" : "West Virginia",
-      "case" : 110935,
-      "death" : 1815
+      "death" : 1815,
+      "updated" : "2021-01-20 17:00:43",
+      "case" : 110935
    },
    {
-      "death" : 1386,
       "case" : 96076,
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "North Dakota"
+      "state" : "North Dakota",
+      "death" : 1386,
+      "updated" : "2021-01-20 17:00:43"
    },
    {
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Alaska",
       "case" : 51977,
-      "death" : 226
+      "state" : "Alaska",
+      "death" : 226,
+      "updated" : "2021-01-20 17:00:43"
    },
    {
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Wyoming",
       "case" : 49923,
-      "death" : 551
-   },
-   {
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "South Dakota",
-      "death" : 1667,
-      "case" : 105786
-   },
-   {
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Grand Princess",
-      "death" : 3,
-      "case" : 103
-   },
-   {
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Guam",
-      "death" : 125,
-      "case" : 7474
-   },
-   {
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Diamond Princess",
-      "death" : 0,
-      "case" : 49
-   },
-   {
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "US Virgin Islands",
-      "case" : 2260,
-      "death" : 24
-   },
-   {
-      "state" : "Wuhan Evacuee",
-      "updated" : "2021-01-20 17:00:43",
-      "death" : 0,
-      "case" : 4
-   },
-   {
-      "death" : 2,
-      "case" : 31,
-      "updated" : "2021-01-20 17:00:43",
-      "state" : "Northern Mariana Islands"
-   },
-   {
-      "death" : 210,
-      "case" : 196598,
-      "state" : "US Military",
+      "death" : 551,
+      "state" : "Wyoming",
       "updated" : "2021-01-20 17:00:43"
    },
    {
       "updated" : "2021-01-20 17:00:43",
-      "state" : "Federal Bureau of Prisons",
+      "death" : 1667,
+      "state" : "South Dakota",
+      "case" : 105786
+   },
+   {
+      "case" : 103,
+      "updated" : "2021-01-20 17:00:43",
+      "death" : 3,
+      "state" : "Grand Princess"
+   },
+   {
+      "state" : "Guam",
+      "death" : 125,
+      "updated" : "2021-01-20 17:00:43",
+      "case" : 7474
+   },
+   {
+      "case" : 49,
+      "death" : 0,
+      "state" : "Diamond Princess",
+      "updated" : "2021-01-20 17:00:43"
+   },
+   {
+      "updated" : "2021-01-20 17:00:43",
+      "death" : 24,
+      "state" : "US Virgin Islands",
+      "case" : 2260
+   },
+   {
+      "death" : 0,
+      "state" : "Wuhan Evacuee",
+      "updated" : "2021-01-20 17:00:43",
+      "case" : 4
+   },
+   {
+      "death" : 2,
+      "state" : "Northern Mariana Islands",
+      "updated" : "2021-01-20 17:00:43",
+      "case" : 31
+   },
+   {
+      "death" : 210,
+      "state" : "US Military",
+      "updated" : "2021-01-20 17:00:43",
+      "case" : 196598
+   },
+   {
       "case" : 49758,
-      "death" : 203
+      "updated" : "2021-01-20 17:00:43",
+      "death" : 203,
+      "state" : "Federal Bureau of Prisons"
    },
    {
       "updated" : "2021-01-20 17:00:43",
       "state" : "Veteran Affair",
-      "case" : 193266,
-      "death" : 7953
+      "death" : 7953,
+      "case" : 193266
    }
 ]
