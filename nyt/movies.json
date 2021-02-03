@@ -1,6 +1,6 @@
 {
    "copyright" : "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
-   "last_updated" : "2021-02-03T08:35:14-05:00",
+   "last_updated" : "2021-02-03T10:25:30-05:00",
    "num_results" : 34,
    "results" : [
       {
@@ -11,7 +11,12 @@
             "Golden Globes (Awards)",
             "Movies",
             "Television",
-            "Actors and Actresses"
+            "Actors and Actresses",
+            "Mank (Movie)",
+            "Borat Subsequent Moviefilm (Movie)",
+            "The Crown (TV Program)",
+            "Schitt's Creek (TV Program)",
+            "The Trial of the Chicago 7 (Movie)"
          ],
          "geo_facet" : [],
          "item_type" : "Article",
@@ -74,13 +79,17 @@
             "Netflix Inc",
             "Amazon.com Inc"
          ],
-         "per_facet" : [],
+         "per_facet" : [
+            "King, Regina (1971- )",
+            "Fennell, Emerald",
+            "Chloe Zhao"
+         ],
          "published_date" : "2021-02-03T07:30:05-05:00",
          "section" : "movies",
          "short_url" : "https://nyti.ms/2YCeESO",
          "subsection" : "",
          "title" : "Live Updates: Golden Globes 2021 Nominations",
-         "updated_date" : "2021-02-03T10:14:41-05:00",
+         "updated_date" : "2021-02-03T11:24:38-05:00",
          "uri" : "nyt://article/8825fac2-bc35-5589-939e-393d405c2050",
          "url" : "https://www.nytimes.com/2021/02/03/movies/live-golden-globes-nominations.html"
       },
@@ -158,9 +167,92 @@
          "short_url" : "https://nyti.ms/3rjxkTO",
          "subsection" : "",
          "title" : "Golden Globes 2021: A Full List of Nominees",
-         "updated_date" : "2021-02-03T10:12:18-05:00",
+         "updated_date" : "2021-02-03T10:49:05-05:00",
          "uri" : "nyt://article/9e64d0ba-3c4b-516c-b2d7-332b54ba9c77",
          "url" : "https://www.nytimes.com/2021/02/03/movies/golden-globes-nominees-list.html"
+      },
+      {
+         "abstract" : "Overall, Black-led dramas were snubbed. Among the surprise inclusions were Jared Leto for âThe Little Thingsâ and Kate Hudson for Siaâs âMusic.â",
+         "byline" : "By Kyle Buchanan",
+         "created_date" : "2021-02-03T10:23:15-05:00",
+         "des_facet" : [
+            "Golden Globes (Awards)",
+            "Movies",
+            "Da 5 Bloods (Movie)",
+            "On the Rocks (Movie)"
+         ],
+         "geo_facet" : [],
+         "item_type" : "Article",
+         "kicker" : "The Projectionist",
+         "material_type_facet" : "",
+         "multimedia" : [
+            {
+               "caption" : "Isiah Whitlock Jr., left, Norm Lewis, Clarke Peters, Delroy Lindo and Jonathan Majors in the Spike Lee drama âDa 5 Bloods.â The movie had been expected to make a good showing at the Globes.",
+               "copyright" : "David Lee/Netflix",
+               "format" : "superJumbo",
+               "height" : 1365,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2021/02/03/arts/03globes-filmsnubs-bloods/merlin_172967778_52e04aa3-987f-4324-8148-10fed29424c3-superJumbo.jpg",
+               "width" : 2048
+            },
+            {
+               "caption" : "Isiah Whitlock Jr., left, Norm Lewis, Clarke Peters, Delroy Lindo and Jonathan Majors in the Spike Lee drama âDa 5 Bloods.â The movie had been expected to make a good showing at the Globes.",
+               "copyright" : "David Lee/Netflix",
+               "format" : "Standard Thumbnail",
+               "height" : 75,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2021/02/03/arts/03globes-filmsnubs-bloods/03globes-filmsnubs-bloods-thumbStandard.jpg",
+               "width" : 75
+            },
+            {
+               "caption" : "Isiah Whitlock Jr., left, Norm Lewis, Clarke Peters, Delroy Lindo and Jonathan Majors in the Spike Lee drama âDa 5 Bloods.â The movie had been expected to make a good showing at the Globes.",
+               "copyright" : "David Lee/Netflix",
+               "format" : "thumbLarge",
+               "height" : 150,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2021/02/03/arts/03globes-filmsnubs-bloods/03globes-filmsnubs-bloods-thumbLarge.jpg",
+               "width" : 150
+            },
+            {
+               "caption" : "Isiah Whitlock Jr., left, Norm Lewis, Clarke Peters, Delroy Lindo and Jonathan Majors in the Spike Lee drama âDa 5 Bloods.â The movie had been expected to make a good showing at the Globes.",
+               "copyright" : "David Lee/Netflix",
+               "format" : "mediumThreeByTwo210",
+               "height" : 140,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2021/02/03/arts/03globes-filmsnubs-bloods/merlin_172967778_52e04aa3-987f-4324-8148-10fed29424c3-mediumThreeByTwo210.jpg",
+               "width" : 210
+            },
+            {
+               "caption" : "Isiah Whitlock Jr., left, Norm Lewis, Clarke Peters, Delroy Lindo and Jonathan Majors in the Spike Lee drama âDa 5 Bloods.â The movie had been expected to make a good showing at the Globes.",
+               "copyright" : "David Lee/Netflix",
+               "format" : "Normal",
+               "height" : 127,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2021/02/03/arts/03globes-filmsnubs-bloods/merlin_172967778_52e04aa3-987f-4324-8148-10fed29424c3-articleInline.jpg",
+               "width" : 190
+            }
+         ],
+         "org_facet" : [
+            "Hollywood Foreign Press Assn"
+         ],
+         "per_facet" : [
+            "Lee, Spike",
+            "Leto, Jared",
+            "Streep, Meryl"
+         ],
+         "published_date" : "2021-02-03T10:23:15-05:00",
+         "section" : "movies",
+         "short_url" : "https://nyti.ms/3axBTCX",
+         "subsection" : "",
+         "title" : "Golden Globes Movies Snubs: âDa 5 Bloodsâ and Meryl Streep Are Shut Out",
+         "updated_date" : "2021-02-03T10:23:15-05:00",
+         "uri" : "nyt://article/a11c6d9b-dc54-5980-991a-57439be5f7db",
+         "url" : "https://www.nytimes.com/2021/02/03/movies/golden-globes-film-snubs.html"
       },
       {
          "abstract" : "A strong documentary slate makes up for a less-than-satisfying program of dramatic features as the festival comes to a close.",
@@ -643,87 +735,6 @@
          "url" : "https://www.nytimes.com/2021/02/02/theater/hal-holbrook-dead.html"
       },
       {
-         "abstract" : "The New York weather adds a Park City ambience, but watching online from home presents un-festival-like obstacles.",
-         "byline" : "By A.O. Scott",
-         "created_date" : "2021-02-01T16:03:08-05:00",
-         "des_facet" : [
-            "Sundance Film Festival (Park City, Utah)",
-            "Quarantine (Life and Culture)",
-            "Movies",
-            "Documentary Films and Programs",
-            "Passing (Movie)",
-            "Flee (Movie)",
-            "Wild Indian (Movie)",
-            "Cusp (Movie)"
-         ],
-         "geo_facet" : [],
-         "item_type" : "Article",
-         "kicker" : "",
-         "material_type_facet" : "",
-         "multimedia" : [
-            {
-               "caption" : "A scene from Jonas Poher Rasmussenâs animated âFlee,â about an Afghan refugee in Denmark.",
-               "copyright" : "Sundance Institute",
-               "format" : "superJumbo",
-               "height" : 1152,
-               "subtype" : "photo",
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2021/02/01/arts/01sundance-diary1/01sundance-diary1-superJumbo.jpg",
-               "width" : 2048
-            },
-            {
-               "caption" : "A scene from Jonas Poher Rasmussenâs animated âFlee,â about an Afghan refugee in Denmark.",
-               "copyright" : "Sundance Institute",
-               "format" : "Standard Thumbnail",
-               "height" : 75,
-               "subtype" : "photo",
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2021/02/01/arts/01sundance-diary1/01sundance-diary1-thumbStandard.jpg",
-               "width" : 75
-            },
-            {
-               "caption" : "A scene from Jonas Poher Rasmussenâs animated âFlee,â about an Afghan refugee in Denmark.",
-               "copyright" : "Sundance Institute",
-               "format" : "thumbLarge",
-               "height" : 150,
-               "subtype" : "photo",
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2021/02/01/arts/01sundance-diary1/01sundance-diary1-thumbLarge.jpg",
-               "width" : 150
-            },
-            {
-               "caption" : "A scene from Jonas Poher Rasmussenâs animated âFlee,â about an Afghan refugee in Denmark.",
-               "copyright" : "Sundance Institute",
-               "format" : "mediumThreeByTwo210",
-               "height" : 140,
-               "subtype" : "photo",
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2021/02/01/arts/01sundance-diary1/01sundance-diary1-mediumThreeByTwo210.jpg",
-               "width" : 210
-            },
-            {
-               "caption" : "A scene from Jonas Poher Rasmussenâs animated âFlee,â about an Afghan refugee in Denmark.",
-               "copyright" : "Sundance Institute",
-               "format" : "Normal",
-               "height" : 107,
-               "subtype" : "photo",
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2021/02/01/arts/01sundance-diary1/01sundance-diary1-articleInline.jpg",
-               "width" : 190
-            }
-         ],
-         "org_facet" : [],
-         "per_facet" : [],
-         "published_date" : "2021-02-01T16:03:08-05:00",
-         "section" : "movies",
-         "short_url" : "https://nyti.ms/3aqOjN0",
-         "subsection" : "",
-         "title" : "Sundance Diary, Part 4: Contending With Snow and Tech Support",
-         "updated_date" : "2021-02-01T17:02:23-05:00",
-         "uri" : "nyt://article/76bf00df-8fe1-585c-8901-697ed62d0f25",
-         "url" : "https://www.nytimes.com/2021/02/01/movies/sundance-diary-4.html"
-      },
-      {
          "abstract" : "A headstrong orphan girl gets taken in by a witch and a demon in this computer-animated film from Studio Ghibli.",
          "byline" : "By Maya Phillips",
          "created_date" : "2021-02-03T07:00:03-05:00",
@@ -1131,6 +1142,87 @@
          "updated_date" : "2021-02-02T21:00:16-05:00",
          "uri" : "nyt://article/4bb422c7-41ac-5b0f-826c-fa3a44801b7d",
          "url" : "https://www.nytimes.com/2021/02/01/movies/netflix-february-expiring.html"
+      },
+      {
+         "abstract" : "The New York weather adds a Park City ambience, but watching online from home presents un-festival-like obstacles.",
+         "byline" : "By A.O. Scott",
+         "created_date" : "2021-02-01T16:03:08-05:00",
+         "des_facet" : [
+            "Sundance Film Festival (Park City, Utah)",
+            "Quarantine (Life and Culture)",
+            "Movies",
+            "Documentary Films and Programs",
+            "Passing (Movie)",
+            "Flee (Movie)",
+            "Wild Indian (Movie)",
+            "Cusp (Movie)"
+         ],
+         "geo_facet" : [],
+         "item_type" : "Article",
+         "kicker" : "",
+         "material_type_facet" : "",
+         "multimedia" : [
+            {
+               "caption" : "A scene from Jonas Poher Rasmussenâs animated âFlee,â about an Afghan refugee in Denmark.",
+               "copyright" : "Sundance Institute",
+               "format" : "superJumbo",
+               "height" : 1152,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2021/02/01/arts/01sundance-diary1/01sundance-diary1-superJumbo.jpg",
+               "width" : 2048
+            },
+            {
+               "caption" : "A scene from Jonas Poher Rasmussenâs animated âFlee,â about an Afghan refugee in Denmark.",
+               "copyright" : "Sundance Institute",
+               "format" : "Standard Thumbnail",
+               "height" : 75,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2021/02/01/arts/01sundance-diary1/01sundance-diary1-thumbStandard.jpg",
+               "width" : 75
+            },
+            {
+               "caption" : "A scene from Jonas Poher Rasmussenâs animated âFlee,â about an Afghan refugee in Denmark.",
+               "copyright" : "Sundance Institute",
+               "format" : "thumbLarge",
+               "height" : 150,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2021/02/01/arts/01sundance-diary1/01sundance-diary1-thumbLarge.jpg",
+               "width" : 150
+            },
+            {
+               "caption" : "A scene from Jonas Poher Rasmussenâs animated âFlee,â about an Afghan refugee in Denmark.",
+               "copyright" : "Sundance Institute",
+               "format" : "mediumThreeByTwo210",
+               "height" : 140,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2021/02/01/arts/01sundance-diary1/01sundance-diary1-mediumThreeByTwo210.jpg",
+               "width" : 210
+            },
+            {
+               "caption" : "A scene from Jonas Poher Rasmussenâs animated âFlee,â about an Afghan refugee in Denmark.",
+               "copyright" : "Sundance Institute",
+               "format" : "Normal",
+               "height" : 107,
+               "subtype" : "photo",
+               "type" : "image",
+               "url" : "https://static01.nyt.com/images/2021/02/01/arts/01sundance-diary1/01sundance-diary1-articleInline.jpg",
+               "width" : 190
+            }
+         ],
+         "org_facet" : [],
+         "per_facet" : [],
+         "published_date" : "2021-02-01T16:03:08-05:00",
+         "section" : "movies",
+         "short_url" : "https://nyti.ms/3aqOjN0",
+         "subsection" : "",
+         "title" : "Sundance Diary, Part 4: Contending With Snow and Tech Support",
+         "updated_date" : "2021-02-01T17:02:23-05:00",
+         "uri" : "nyt://article/76bf00df-8fe1-585c-8901-697ed62d0f25",
+         "url" : "https://www.nytimes.com/2021/02/01/movies/sundance-diary-4.html"
       },
       {
          "abstract" : "Swedenâs Goteborg Film Festival has taken social distancing to the extreme, offering one attendee a week on a barren island, with only the competition films for company.",
@@ -2668,83 +2760,6 @@
          "updated_date" : "2021-01-29T00:53:26-05:00",
          "uri" : "nyt://article/454bf148-7fb9-5d12-8ea8-e859dd9f40a4",
          "url" : "https://www.nytimes.com/2021/01/28/movies/true-mothers-review.html"
-      },
-      {
-         "abstract" : "Dea Kulumbegashviliâs debut feature ensnares its heroine in circles of religious and patriarchal persecution.",
-         "byline" : "By Devika Girish",
-         "created_date" : "2021-01-28T07:00:07-05:00",
-         "des_facet" : [
-            "Movies",
-            "Beginning (Movie)"
-         ],
-         "geo_facet" : [],
-         "item_type" : "Article",
-         "kicker" : "Criticâs Pick",
-         "material_type_facet" : "",
-         "multimedia" : [
-            {
-               "caption" : "Ia Sukhitashvili in âBeginning.â",
-               "copyright" : "Mubi",
-               "format" : "superJumbo",
-               "height" : 1019,
-               "subtype" : "photo",
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2021/01/27/arts/beginning1/merlin_182707995_ab5bf644-ccae-4115-9d90-1571f26afda8-superJumbo.jpg",
-               "width" : 1358
-            },
-            {
-               "caption" : "Ia Sukhitashvili in âBeginning.â",
-               "copyright" : "Mubi",
-               "format" : "Standard Thumbnail",
-               "height" : 75,
-               "subtype" : "photo",
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2021/01/27/arts/beginning1/beginning1-thumbStandard.jpg",
-               "width" : 75
-            },
-            {
-               "caption" : "Ia Sukhitashvili in âBeginning.â",
-               "copyright" : "Mubi",
-               "format" : "thumbLarge",
-               "height" : 150,
-               "subtype" : "photo",
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2021/01/27/arts/beginning1/beginning1-thumbLarge.jpg",
-               "width" : 150
-            },
-            {
-               "caption" : "Ia Sukhitashvili in âBeginning.â",
-               "copyright" : "Mubi",
-               "format" : "mediumThreeByTwo210",
-               "height" : 140,
-               "subtype" : "photo",
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2021/01/27/arts/beginning1/beginning1-mediumThreeByTwo210.jpg",
-               "width" : 210
-            },
-            {
-               "caption" : "Ia Sukhitashvili in âBeginning.â",
-               "copyright" : "Mubi",
-               "format" : "Normal",
-               "height" : 143,
-               "subtype" : "photo",
-               "type" : "image",
-               "url" : "https://static01.nyt.com/images/2021/01/27/arts/beginning1/merlin_182707995_ab5bf644-ccae-4115-9d90-1571f26afda8-articleInline.jpg",
-               "width" : 190
-            }
-         ],
-         "org_facet" : [],
-         "per_facet" : [
-            "Kulumbegashvili, Dea"
-         ],
-         "published_date" : "2021-01-28T07:00:07-05:00",
-         "section" : "movies",
-         "short_url" : "https://nyti.ms/3psLwt9",
-         "subsection" : "",
-         "title" : "âBeginningâ Review: Faith Under Attack",
-         "updated_date" : "2021-01-29T00:58:15-05:00",
-         "uri" : "nyt://article/22065eb1-3c81-58e5-bc0d-098e78d8183e",
-         "url" : "https://www.nytimes.com/2021/01/28/movies/beginning-review.html"
       }
    ],
    "section" : "Movies",
