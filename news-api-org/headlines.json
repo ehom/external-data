@@ -1,6 +1,32 @@
 {
    "articles" : [
       {
+         "author" : "Ann Schmidt",
+         "content" : "This California town really wants people to visit.Â \r\nSanta Maria Valley,Â in Californias Central Coast, which isÂ known for its vineyards and wineries,Â is giving visitors $100 to spend on local businesâ¦ [+1626 chars]",
+         "description" : "The Santa Maria Valley is giving away $100 gift cards to 500 visitors who stay overnight in the area.",
+         "publishedAt" : "2021-02-05T01:58:19Z",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "title" : "California town giving overnight visitors $100 to spend during trip - Fox News",
+         "url" : "https://www.foxnews.com/travel/california-town-giving-100-visitors",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/California-Vineyard_iStock-1095180770.jpg"
+      },
+      {
+         "author" : "Arjun Kharpal",
+         "content" : "Kuaishou headquarters is pictured on November 5, 2020 in Beijing, China.\r\nGUANGZHOU, China Shares of Chinese short video company Kuaishou rose nearly 200% at the open on its debut in Hong Kong.\r\nThe â¦ [+1581 chars]",
+         "description" : "Kuaishou raised 41.28 billion Hong Kong dollars ($5.32 billion) from the initial public offering (IPO) after pricing its shares at 115 Hong Kong dollars each.",
+         "publishedAt" : "2021-02-05T01:42:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "Kuaishou shares rise nearly 200% in $5.3 billion Hong Kong debut - CNBC",
+         "url" : "https://www.cnbc.com/2021/02/05/kuaishou-ipo-hong-kong-shares-rise-on-debut.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106835918-1612488028131-gettyimages-1284150803-vcg111305554458.jpeg?v=1612488073"
+      },
+      {
          "author" : "Tyler Clifford",
          "content" : "CNBC's Jim Cramer on Thursday gave a critical assessment of the supply of blank-check companies coming to market, likening the quality of the latest batch of SPAC offerings to weaker IPOs trading on â¦ [+2054 chars]",
          "description" : "\"The SPAC cycle is starting to look like an IPO cycle,\" the \"Mad Money\" host said.",
@@ -14,17 +40,17 @@
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/104673557-IMG_5320-jim-cramer.jpg?v=1503683506"
       },
       {
-         "author" : "Marika Gerken, CNN",
-         "content" : null,
-         "description" : "Santa Maria Valley will pay tourists $100 to travel there and stay for a minimum of two nights at a hotel in the area. The payment comes in the form of a voucher.",
-         "publishedAt" : "2021-02-05T00:57:00Z",
+         "author" : "Nathaniel Popper, Taylor Lorenz, Matt Phillips",
+         "content" : "Reddit did not immediately have a comment.\r\nWallStreetBets was founded in 2012 by Jaime Rogozinski, 39, an information technology consultant in Mexico City.\r\nI was looking for a community, a place foâ¦ [+1513 chars]",
+         "description" : "The moderators of the Reddit message board WallStreetBets battled over movie deals after their sudden fame with the GameStop mania.",
+         "publishedAt" : "2021-02-05T00:49:00Z",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "id" : null,
+            "name" : "New York Times"
          },
-         "title" : "Hurt by the pandemic, a small town in California will pay tourists to visit - CNN",
-         "url" : "https://www.cnn.com/2021/02/04/us/santa-maria-voucher-trnd/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210203150545-santa-maria-california-restricted-super-tease.jpg"
+         "title" : "Quest for Hollywood Fame Splits Redditors at Heart of Market Frenzy - The New York Times",
+         "url" : "https://www.nytimes.com/2021/02/04/technology/wallstreetbets-gamestop-hollywood.html",
+         "urlToImage" : "https://static01.nyt.com/images/2021/02/05/business/05wallstreetbets-print2/04wallstreetbets-facebookJumbo.jpg"
       },
       {
          "author" : "Theresa Waldrop and Nathaniel Meyersohn, CNN",
@@ -51,6 +77,19 @@
          "title" : "Tapestry CEO says heart-shaped Kate Spade bag sold out after going viral on TikTok - CNBC",
          "url" : "https://www.cnbc.com/2021/02/04/heart-shaped-kate-spade-bag-sold-out-after-going-viral-on-tiktok-tapestry-ceo-.html",
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/101544679-kate_spade.jpg?v=1612473384"
+      },
+      {
+         "author" : "Office of the Commissioner",
+         "content" : "For Immediate Release:\r\nFebruary 04, 2021\r\nThe U.S. Food and Drug Administration has scheduled a meeting of its Vaccines and Related Biological Products Advisory Committee (VRBPAC) on Feb. 26, 2021, â¦ [+3085 chars]",
+         "description" : "FDA has scheduled a VRBPAC meeting on Feb. 26, 2021 to discuss the request for EUA for a COVID-19 vaccine from Janssen Biotech Inc.",
+         "publishedAt" : "2021-02-05T00:35:04Z",
+         "source" : {
+            "id" : null,
+            "name" : "FDA.gov"
+         },
+         "title" : "Coronavirus (COVID-19) Update: FDA Announces Advisory Committee Meeting to Discuss Janssen Biotech Inc.'s COVID-19 Vaccine Candidate - FDA.gov",
+         "url" : "https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-announces-advisory-committee-meeting-discuss-janssen-biotech-incs",
+         "urlToImage" : "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
       },
       {
          "author" : "Joe Tenebruso",
@@ -92,19 +131,6 @@
          "urlToImage" : "https://www.oregonlive.com/resizer/9qURg4m-j69UiR6AUF21GRk7EGc=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NOYC63RAVAXJBR4FBWAAS4JGA.jpg"
       },
       {
-         "author" : "Carolyn Y. Johnson, Laurie McGinley",
-         "content" : "FDA officials announced that outside experts would discuss the vaccine at a public meeting three weeks from now, on Feb. 26.\r\nIn a news release last week, the company announced its vaccine was 66 perâ¦ [+2556 chars]",
-         "description" : "If the vaccine receives regulatory clearance by the Food and Drug Administration, it would be the third authorized vaccine in the United States.",
-         "publishedAt" : "2021-02-04T23:40:00Z",
-         "source" : {
-            "id" : "the-washington-post",
-            "name" : "The Washington Post"
-         },
-         "title" : "Johnson & Johnson seeks emergency FDA authorization for single-shot coronavirus vaccine - The Washington Post",
-         "url" : "https://www.washingtonpost.com/health/2021/02/04/jj-vaccine-fda/",
-         "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJC3B7THHQI6XOVYOB7YO2OXQU.jpg&w=1440"
-      },
-      {
          "author" : "ROB GILLIES Associated Press and KOMO  News Staff",
          "content" : null,
          "description" : "TORONTO (AP) &mdash; Canada is banning all cruise vessels in Canadian waters until Feb. 28, 2022. Transport Minister Omar Alghabra announced Thursday cruise vessels carrying 100 or more people will remain prohibited from operating in Canadian waters. The ban â¦",
@@ -116,6 +142,19 @@
          "title" : "Canada bans cruise vessels until Feb. 28, 2022 - KOMO News",
          "url" : "https://komonews.com/news/local/canada-bans-cruise-vessels-until-feb-28-2022",
          "urlToImage" : "https://static-39.sinclairstoryline.com/resources/media/80742510-d70c-4fbd-b533-a53bafdbc247-large16x9_AP19101493416141.jpg?1612481956212"
+      },
+      {
+         "author" : null,
+         "content" : "BOSTON âPolice in the city of Boston are investigating after a Target customer who purchased children's vitamins claimed the bottle contained various other pills and tablets. \r\nThe woman told police â¦ [+1004 chars]",
+         "description" : "Police are investigating after a Target customer who purchased children's vitamins claimed the bottle contained various other pills and tablets.",
+         "publishedAt" : "2021-02-04T23:31:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "WCVB Boston"
+         },
+         "title" : "Random pills, tablets discovered by customer inside children's vitamin bottle - WCVB Boston",
+         "url" : "https://www.wcvb.com/article/random-pills-tablets-flinstone-chewable-tablets-vitamin-bottle/35421949",
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/17a83d15-c4ed-40bb-864e-5edc290850d9/17a83d15-c4ed-40bb-864e-5edc290850d9_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
       },
       {
          "author" : "Katie Tsai",
@@ -131,19 +170,6 @@
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106835778-1612476231044-gettyimages-1164192926-20190815_dessert_0134.jpeg?v=1612476313"
       },
       {
-         "author" : "Andrew J. Hawkins",
-         "content" : "The Blue Oval is putting more money on its electric bet\r\nPhoto by Sean OKane / The Verge\r\nFord is increasing its investment in electric and autonomous vehicles to $29 billion, the companys top executâ¦ [+2698 chars]",
-         "description" : "Ford says it will spend $22 billion on electric vehicles and $7 billion on autonomous vehicles, for a total of $29 billion, by 2025. The automaker had previously committed to spend $11.5 billion by 2022.",
-         "publishedAt" : "2021-02-04T23:23:10Z",
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
-         "title" : "Ford more than doubles its investment in EVs and autonomous vehicles to $29 billion - The Verge",
-         "url" : "https://www.theverge.com/2021/2/4/22267195/ford-electric-autonomous-investment-29-billion",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/uDnmA0HAKCnLU2eN7kMxxyFjs1g=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22280374/sokane_210125_4386_1753.jpg"
-      },
-      {
          "author" : null,
          "content" : null,
          "description" : "CNBC.com's MacKenzie Sigalos brings you the day's top business news headlines. On today's show, CNBC's Phil LeBeau breaks down his reporting on deal talks be...",
@@ -155,6 +181,32 @@
          "title" : "Apple Car inches closer to production as Apple nears deal with Hyundai-Kia: CNBC After Hours - CNBC Television",
          "url" : "https://www.youtube.com/watch?v=UlW0Y21FyCA",
          "urlToImage" : "https://i.ytimg.com/vi/UlW0Y21FyCA/hqdefault.jpg"
+      },
+      {
+         "author" : "Emily McCormick",
+         "content" : "Weve got a full month of 2021 behind us now, and a few trends are coming clearer. The coronavirus crisis may still be with us, but as vaccination programs expand, the end is in sight. With President â¦ [+8047 chars]",
+         "description" : "Stock futures opened slightly higher as the overnight session kicked off Thursday evening.",
+         "publishedAt" : "2021-02-04T23:14:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "title" : "Stock market news live updates: Stock futures tick up, adding to record levels - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/stock-market-news-live-updates-february-5-2021-231452945.html",
+         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/1d_vKo3MojAc7Cc32KWTvw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjcz/https://s.yimg.com/os/creatr-uploaded-images/2021-01/fc600690-55e7-11eb-9cdd-2704be52442a"
+      },
+      {
+         "author" : "https://www.facebook.com/ryne.hager",
+         "content" : "Google is starting to back down on its threat to leave the Australian market. In a blog post today, the company extended an olive branch, highlighting Australian publishers that would be joining the â¦ [+2419 chars]",
+         "description" : "Google is starting to back down on its threat to leave the Australian market. In a blog post today, the company extended an olive branch, highlighting",
+         "publishedAt" : "2021-02-04T23:14:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Android Police"
+         },
+         "title" : "Google will pay some Australian publishers after threat to leave market boomerangs - Android Police",
+         "url" : "https://www.androidpolice.com/2021/02/04/google-will-pay-some-australian-publishers-after-threat-to-leave-market-boomerangs/",
+         "urlToImage" : "https://www.androidpolice.com/wp-content/uploads/2021/02/01/australia-hero.jpg"
       },
       {
          "author" : "Dow Jones Newswires",
@@ -170,19 +222,6 @@
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/T-Mobile.jpg?ve=1&tl=1"
       },
       {
-         "author" : "Yun Li",
-         "content" : "Stock futures were flat in overnight trading on Thursday, following a four-day winning streak on Wall Street as investors awaited a closely-watched January jobs report.\r\nFutures on the Dow Jones Induâ¦ [+1690 chars]",
-         "description" : "The S&P 500 rose for a fourth day to close at a record high on Thursday, boosted by tech and bank stocks.",
-         "publishedAt" : "2021-02-04T23:03:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "Stock futures are flat as major averages try to finish best week since November - CNBC",
-         "url" : "https://www.cnbc.com/2021/02/04/stock-market-open-to-close-news.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106834871-1612378112524ONTF-OB-Photo-20210203-29-2-jpg?v=1612378307"
-      },
-      {
          "author" : "Lauren Thomas",
          "content" : "Peloton's CEO is promising anxious customers who are still waiting on their cycles and treadmills that the company is working fast to offer clearer answers on when those might arrive.\r\n\"We are determâ¦ [+2506 chars]",
          "description" : "Peloton's CEO is promising anxious customers still waiting on their cycles that the company is working to offer clearer answers on when those might arrive.",
@@ -196,69 +235,30 @@
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106477466-1586217260231gettyimages-1217247378.jpeg?v=1612479590"
       },
       {
-         "author" : "Mitchell Clark",
-         "content" : "The stock hasnt rebounded since falling dramatically on Tuesday\r\nWhen GameStops stock price fell by over 50 percent on Tuesday, closing at $90, we werent sure if it was going to pick back up or keep â¦ [+868 chars]",
-         "description" : "GameStopâs stock fell by over 58 percent on February 2nd, and some wondered if it was the end of the ride. Itâs continued to fall another 41 percent since then and is now worth less than when the GameStop rollercoaster started.",
-         "publishedAt" : "2021-02-04T22:33:58Z",
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
-         "title" : "The latest GameStop stock dip looks like the end of the line - The Verge",
-         "url" : "https://www.theverge.com/2021/2/4/22266684/gamestop-stock-gme-down-dip-falling-wallstreetbets-reddit",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/kiBy2blhOoaGGm7UsoCRPqOZzw4=/0x110:1100x686/fit-in/1200x630/cdn.vox-cdn.com/assets/1301655/GameStop_Store_Front_0.jpg"
-      },
-      {
-         "author" : null,
-         "content" : "Allegheny County officials said phone carriers are investigating after reports that callers to the 211 line for COVID-19 vaccination appointments were intercepted by people asking for credit card infâ¦ [+467 chars]",
-         "description" : "The county said it will share any information that it can relative to the investigation as soon as it is available.",
-         "publishedAt" : "2021-02-04T22:11:00Z",
+         "author" : "Megan Graham",
+         "content" : "Snap and Unity Software, which reported fourth quarter earnings after the bell Thursday, both warned of the upcoming impact from Apple's privacy changes set for this spring.Â \r\nTo target mobile ads anâ¦ [+2730 chars]",
+         "description" : "Snap and Unity Software, which reported fourth quarter earnings Thursday, both warned of the upcoming impact from Apple's privacy changes set for this spring.",
+         "publishedAt" : "2021-02-04T22:15:00Z",
          "source" : {
             "id" : null,
-            "name" : "WTAE Pittsburgh"
+            "name" : "CNBC"
          },
-         "title" : "Calls to 211 line for vaccine appointments reportedly intercepted by people seeking credit card info, Allegheny County says - WTAE Pittsburgh",
-         "url" : "https://www.wtae.com/article/calls-to-211-line-for-vaccine-appointments-reportedly-intercepted-by-people-seeking-credit-card-info-allegheny-county-says/35421964",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/breaking-news-gfx-1609732852.png?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+         "title" : "Facebook's not the only one worried about Apple's privacy change â Snap and Unity both just warned investors about it - CNBC",
+         "url" : "https://www.cnbc.com/2021/02/04/snap-unity-warn-of-impact-from-apple-ios-14-idfa-privacy-changes.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105540129-1540918157111rtx6ga5i.jpg?v=1540918233"
       },
       {
-         "author" : "Jeanna Smialek, Deborah B. Solomon",
-         "content" : "Barbara Roper, the director of investor protection for the Consumer Federation of America, said policing that type of behavior will be more difficult for the S.E.C.\r\nWere better at regulating professâ¦ [+2111 chars]",
-         "description" : "The Treasury Secretary met with her fellow regulators to discuss whether markets need new attention after the rise of so-called âmeme stocks.â",
-         "publishedAt" : "2021-02-04T21:58:00Z",
+         "author" : "Tanya Sichynsky",
+         "content" : "So you wont be downing a plate of too-hot jalapeÃ±o poppers in a crowded bar during the Super Bowl. But you can delight in a spicy, cheesy treat from the comfort (and safety!) of your home.\r\nThis yearâ¦ [+5496 chars]",
+         "description" : "These dishes will help keep things festive, whether youâre watching the game alone, with a roommate or just family.",
+         "publishedAt" : "2021-02-04T22:15:00Z",
          "source" : {
             "id" : null,
             "name" : "New York Times"
          },
-         "title" : "Yellen, Regulators Meet Amid GameStop Frenzy to Discuss Market Volatility - The New York Times",
-         "url" : "https://www.nytimes.com/2021/02/04/business/economy/yellen-gamestop.html",
-         "urlToImage" : "https://static01.nyt.com/images/2021/02/04/us/04dc-marketregs/04dc-marketregs-facebookJumbo.jpg"
-      },
-      {
-         "author" : null,
-         "content" : null,
-         "description" : "Pinterest (NYSE:PINS) has risen 6.5% postmarket after beating expectations and logging strong user growth in its fourth-quarter earnings.",
-         "publishedAt" : "2021-02-04T21:50:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Seeking Alpha"
-         },
-         "title" : "Pinterest gains 6.5% after 76% revenue growth, 37% user growth - Seeking Alpha",
-         "url" : "https://seekingalpha.com/news/3658844-pinterest-gains-65-after-76-revenue-growth-37-user-growth",
-         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png"
-      },
-      {
-         "author" : "Kelly Tyko",
-         "content" : "A COVID-19 related shortage has made it harder for fans of Grape-Nuts to get their hands on their favorite breakfast cereal.\r\nUSA TODAY\r\nTrader Joes has boosted extra pandemic pay for its hourly and â¦ [+4328 chars]",
-         "description" : "Trader Joe's has increased COVID-19 pandemic pay nationwide while Seattle, several California cities mandate hazard pay. Kroger is closing two stores.",
-         "publishedAt" : "2021-02-04T21:46:18Z",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "title" : "Trader Joe's increases pandemic pay nationwide, while Kroger announces store closings over hazard pay mandates - USA TODAY",
-         "url" : "https://www.usatoday.com/story/money/2021/02/04/pandemic-hazard-pay-biden-trader-joes-kroger/4392444001/",
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/f954ed0c6c810d27769ac2dee9be6bb5a2aeee0b/c=0-182-3504-2153/local/-/media/2019/03/12/USATODAY/usatsports/Reviewed.com-RvEW-22442-GettyImages-57119806.jpg?width=3200&height=1680&fit=crop"
+         "title" : "17 Super Bowl Recipes for the Tiniest Tailgate - The New York Times",
+         "url" : "https://www.nytimes.com/2021/02/04/dining/super-bowl-recipes-tailgate.html",
+         "urlToImage" : "https://static01.nyt.com/images/2019/02/01/dining/04-superbowlrex/as-baked-buffalo-wings-facebookJumbo.jpg"
       }
    ],
    "status" : "ok",
