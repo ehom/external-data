@@ -34,35 +34,13 @@ jobs:
           git diff --quiet && git diff --staged --quiet || git commit -am 'Update news headlines' 
           git push
 
-      - name: Get Top Stories from FinnHub
-        run: |
-          git pull
-          git config --global user.name $GITHUB_ACTOR
-          URL='https://finnhub.io/api/v1/news?category=general'
-          
-          mkdir -p finnhub && cd finnhub
-          
-          curl -X GET \
-            --silent \
-            -H 'content-type: application/json' \
-            -H "X-Finnhub-Token : ${{secrets.FINNHUB_API_KEY}}" \
-            $URL | json_pp > marketnews.json
-
-          git diff --quiet && git diff --staged --quiet || git commit -am 'Update market headlines'
-          git push
-
       - name: Get latest COVID-19 statistics
         run: |
-          git config --global user.name $GITHUB_ACTOR
-          URL='https://finnhub.io/api/v1/covid19/us'
+          git config --global user.name $GITHUB_ACTOR          
           
-          mkdir -p finnhub && cd finnhub
+          mkdir -p covid-19 && cd covid-19
 
-          curl -X GET \
-            --silent \
-            -H 'content-type: application/json' \
-            -H "X-Finnhub-Token : ${{secrets.FINNHUB_API_KEY}}" \
-            $URL | json_pp > covid.json
+          curl https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us-states.csv --output us-states.csv
 
           git diff --quiet && git diff --staged --quiet || git commit -am 'Update Covid news'
           git push
