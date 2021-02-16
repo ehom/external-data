@@ -38,11 +38,12 @@ jobs:
         run: |
           git config --global user.name $GITHUB_ACTOR          
           
-          mkdir -p covid-19 && cd covid-19
+          cd covid-19
 
-          curl https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us-states.csv --output us-states.csv
-
-          git add us-states.csv
+          npm install
+          npm start
+          
+          git add us-states.csv us-states.json
           git diff --quiet && git diff --staged --quiet || git commit -am 'Update Covid news'
           git push
           
