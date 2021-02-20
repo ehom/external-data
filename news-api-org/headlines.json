@@ -1,6 +1,19 @@
 {
    "articles" : [
       {
+         "author" : null,
+         "content" : null,
+         "description" : null,
+         "publishedAt" : "2021-02-20T04:19:52Z",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "title" : "'Turn off auto-pay,' says Texas attorney if your electric bill has soared after the winter storm - WFAA",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9eS1XVjdZUExvdGPSAQA?oc=5",
+         "urlToImage" : null
+      },
+      {
          "author" : "Hannah Knowles",
          "content" : "When Hennessy got to the cashier, he said, she just waved him on, thanked him and told him to drive home safely.\r\nAnd it hit us like, wow, theyre just letting us walk out the door, the 60-year-old maâ¦ [+3684 chars]",
          "description" : "When Tim Hennessy got to the cashier, he said, she just waved him on and told him to drive home safely. âAnd it hit us â like, wow, theyâre just letting us walk out the door,\" he said.",
@@ -14,17 +27,17 @@
          "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TVAWOJ6XNREQBN2RCCXEEK3N2Q.jpg&w=1440"
       },
       {
-         "author" : "Sarah Polus",
-         "content" : "Luxury design house Valentino SpA is facing a $207.1 million lawsuit after theÂ landlord of its former American flagship store on Manhattans Fifth Avenue accused the Italian brand of breaking its leasâ¦ [+1273 chars]",
-         "description" : "Luxury design house Valentino SpA is facing a $207.1 million lawsuit after theÂ landlord of its former American flagship store on Manhattanâs Fifth Avenue accused the Italian brand of breaking its lease illegally and leaving theÂ building damaged, multiple outlâ¦",
-         "publishedAt" : "2021-02-20T02:27:33Z",
+         "author" : "Tal Axelrod",
+         "content" : "More airlines said Friday they will start asking for passengers personal information on flights to the U.S. to beef up their contact tracing capabilities.\r\nAirlines for America, an industry trade groâ¦ [+1639 chars]",
+         "description" : "More airlines said Friday they will start asking for passengersâ personal information on flights to the U.S. to beef up their contact tracing capabilities.",
+         "publishedAt" : "2021-02-20T02:50:39Z",
          "source" : {
             "id" : "the-hill",
             "name" : "The Hill"
          },
-         "title" : "Valentino faces $207M lawsuit for breaking lease on Manhattan storefront | TheHill - The Hill",
-         "url" : "https://thehill.com/homenews/news/539695-valentino-faces-207m-lawsuit-for-breaking-lease-on-manhattan-storefront",
-         "urlToImage" : "https://thehill.com/sites/default/files/lawyers_gavel_012120istock.jpg"
+         "title" : "More airlines to start collecting contact tracing information from passengers | TheHill - The Hill",
+         "url" : "https://thehill.com/policy/transportation/539696-more-airlines-to-start-collecting-contact-tracing-information-from",
+         "urlToImage" : "https://thehill.com/sites/default/files/airplane10082020.jpg"
       },
       {
          "author" : "Investor's Business Daily",
@@ -40,17 +53,30 @@
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/02/FAB-learn-021219-adobe.jpg"
       },
       {
-         "author" : "Brooke Seipel",
-         "content" : "Some Texans say they're getting massive electric bills following the winter storm that caused chaos throughout the state this past week.\r\nNBC News reports that some Texans are getting bills as high aâ¦ [+2925 chars]",
-         "description" : "Some Texans say they're getting massive electric bills following the winter storm that caused chaos throughout the state this past week.",
-         "publishedAt" : "2021-02-20T01:22:41Z",
+         "author" : null,
+         "content" : "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discoâ¦ [+1891 chars]",
+         "description" : "Removal of Margaret Mitchell comes after departure of Timnit Gebru amid debate over diversity at tech group",
+         "publishedAt" : "2021-02-20T02:14:27Z",
          "source" : {
-            "id" : "the-hill",
-            "name" : "The Hill"
+            "id" : "financial-times",
+            "name" : "Financial Times"
          },
-         "title" : "Texas households face massive electricity bills, some as high as $17K, after winter storm | TheHill - The Hill",
-         "url" : "https://thehill.com/policy/energy-environment/539693-texas-households-face-massive-electricity-bills-some-as-high-as-17k",
-         "urlToImage" : "https://thehill.com/sites/default/files/austin_texas2_winterstorm_getty02152021.jpg"
+         "title" : "Google fires top AI ethicist - Financial Times",
+         "url" : "https://www.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420",
+         "urlToImage" : "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08f11e90-9311-4283-aa5a-c77e685b599e.jpg?source=next-opengraph&fit=scale-down&width=900"
+      },
+      {
+         "author" : "Tristi Rodriguez",
+         "content" : "SAN FRANCISCO, Calif. (KRON) â Costco announced it will soon be administering COVID-19 vaccines at select pharmacies.\r\nCostco is offering a limited number of COVID-19 vaccines, mostly Moderna, in Calâ¦ [+458 chars]",
+         "description" : "Costco announced it will soon be administering COVID-19 vaccines at select pharmacies.",
+         "publishedAt" : "2021-02-20T02:09:26Z",
+         "source" : {
+            "id" : null,
+            "name" : "KRON4"
+         },
+         "title" : "Costco administering COVID vaccinations at some CA locations - KRON4",
+         "url" : "https://www.kron4.com/news/california/costco-administering-covid-vaccinations-at-some-ca-locations/",
+         "urlToImage" : "https://www.kron4.com/wp-content/uploads/sites/11/2020/04/costco_1531253350960_48201695_ver1.0-1.jpg?w=1280"
       },
       {
          "author" : "Kyle Hyatt",
@@ -79,6 +105,32 @@
          "urlToImage" : "https://www.ajc.com/resizer/JqsaKH7gHJqArpkPl6EmG9I1g1c=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/IK7IX4YHWRILHAVANMTBMIGXNQ.jpg"
       },
       {
+         "author" : "Aron Yohannes | The Oregonian/OregonLive",
+         "content" : "Devastating winter storms have battered Texas the past week, leaving thousands of people in the state without power, water and heat in dire conditions. Thousands have been cold and hungry for days asâ¦ [+1170 chars]",
+         "description" : "A natural gas company controlled by Dallas Cowboys owner Jerry Jones says it hit the \"jackpot\" as prices surge.",
+         "publishedAt" : "2021-02-20T00:35:05Z",
+         "source" : {
+            "id" : null,
+            "name" : "OregonLive"
+         },
+         "title" : "Dallas Cowboys owner Jerry Jones is âhitting the jackpotâ as Texas freezes - OregonLive",
+         "url" : "https://www.oregonlive.com/nfl/2021/02/dallas-cowboys-owner-jerry-jones-is-hitting-the-jackpot-as-texas-freezes.html",
+         "urlToImage" : "https://www.oregonlive.com/resizer/wCLzCUOzoBrOhmZaKeJMf1Cc4ho=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ACZ25F5MCJARTNCDKWKRII5SJ4.jpg"
+      },
+      {
+         "author" : "Claire McInerny",
+         "content" : "Marie Maybou melts snow on the kitchen stove on Friday in Austin, Texas. She was using the water to flush the toilets in her home after the city water stopped running.\r\nJoe Raedle/Getty Images\r\nWaterâ¦ [+1481 chars]",
+         "description" : "Austin Water says service should resume over the weekend, but pressure could be low. The boil-water notice continues. Using washing machines and dishwashers is discouraged.",
+         "publishedAt" : "2021-02-20T00:18:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "NPR"
+         },
+         "title" : "Water Returning To Austin As Texas Recovers From Deep Freeze And Power Failures - NPR",
+         "url" : "https://www.npr.org/sections/live-updates-winter-storms-2021/2021/02/19/969618344/water-returning-to-austin-as-texas-recovers-from-deep-freeze-and-power-failures",
+         "urlToImage" : "https://media.npr.org/assets/img/2021/02/19/gettyimages-1303057364_wide-57d9abd0b4ad01fc74f7cc5eab92819924cc56a1.jpg?s=1400"
+      },
+      {
          "author" : "Gunjan Banerji, Caitlin McCabe",
          "content" : "DeepF---ingValue has doubled down on GameStop Corp. \r\nThe trader, who became a legend on Reddits WallStreetBets forum for his prescient bet on the videogame retailer, posted a screenshot of his brokeâ¦ [+874 chars]",
          "description" : "A screenshot of his brokerage account appears to show that he bought an additional 50,000 shares of the stock",
@@ -92,19 +144,6 @@
          "urlToImage" : "https://images.wsj.net/im-301891/social"
       },
       {
-         "author" : "Guardian staff reporter",
-         "content" : "Google has fired one of its top artificial intelligence researchers, Margaret Mitchell, escalating internal turmoil at the company following the departure of Timnit Gebru, another leading figure on Gâ¦ [+2020 chars]",
-         "description" : "The dismissal comes after prominent Black researcher Timnit Gebru was fired in December; both had called for more diversity among research staff",
-         "publishedAt" : "2021-02-20T00:01:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "The Guardian"
-         },
-         "title" : "Google fires Margaret Mitchell, another top researcher on its AI ethics team - The Guardian",
-         "url" : "https://amp.theguardian.com/technology/2021/feb/19/google-fires-margaret-mitchell-ai-ethics-team",
-         "urlToImage" : "https://i.guim.co.uk/img/media/1386067ed67adcc144c4e928818347472d171699/0_165_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0384f279c0177c4221eda8cfbad6da56"
-      },
-      {
          "author" : "Jessica Remer",
          "content" : "MEMPHIS, Tenn. (WMC) - The president and CEO of MLGW reiterated Friday that the utility company is not disconnecting water to residential customers following the Mid-Souths extreme winter weather.\r\nJâ¦ [+2208 chars]",
          "description" : "The president and CEO of MLGW reiterated Friday that the utility company is not disconnecting water to residential customers following the Mid-Southâs extreme winter weather.",
@@ -116,6 +155,32 @@
          "title" : "MLGW: Despite ongoing rumors, no plans to disconnect water to residential customers - WMC",
          "url" : "https://www.wmcactionnews5.com/2021/02/19/mlgw-give-update-water-issues-shelby-county/",
          "urlToImage" : "https://www.wmcactionnews5.com/resizer/Q4Ti9v-QG8jYPNMvI8h_iYO_nug=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/YMXBFUYWSBATBP4SPIJT4UXDC4.jpg"
+      },
+      {
+         "author" : "Sarah Polus",
+         "content" : "Two Florida women dressed as elderlyÂ individualsÂ in an effort to obtain a COVID-19 vaccine on Wednesday,Â the local sheriff's office confirmed to The Hill.\r\nThe two women wore disguises consisting of â¦ [+1573 chars]",
+         "description" : "Two Florida women dressed as elderly women in an effort to obtain the COVID-19 vaccine Wednesday, multiple outlets report.",
+         "publishedAt" : "2021-02-19T23:03:13Z",
+         "source" : {
+            "id" : "the-hill",
+            "name" : "The Hill"
+         },
+         "title" : "Florida officials catch young women dressed as 'grannies' trying to get COVID-19 vaccine | TheHill - The Hill",
+         "url" : "https://thehill.com/homenews/state-watch/539668-florida-officials-catch-young-women-dressed-as-grannies-trying-to-get",
+         "urlToImage" : "https://thehill.com/sites/default/files/mreportvaccinevials.jpg"
+      },
+      {
+         "author" : "Keris Lahiff",
+         "content" : "Stocks closed out a mixed week after initially rising Friday following Treasury Secretary Janet Yellen's call for a large stimulus package to help speed up the economic recovery.\r\nFour experts discusâ¦ [+4236 chars]",
+         "description" : "Four experts discuss what Treasury Secretary Yellen's comments mean for markets.",
+         "publishedAt" : "2021-02-19T22:45:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "Treasury Secretary Yellen calls for more stimulus â What the market impact could be - CNBC",
+         "url" : "https://www.cnbc.com/2021/02/19/yellen-calls-for-more-stimulus-what-the-market-impact-could-be.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106842998-16137563025133SPGS-U-Photo-20210219-Press-04-jpg?v=1613771814"
       },
       {
          "author" : null,
@@ -157,6 +222,19 @@
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106833250-1613773884160-106833250-1612196419342-gettyimages-1299704255-majorsnowstormhitsnewyorkcity024.jpg?v=1613773902"
       },
       {
+         "author" : "James Leggate",
+         "content" : "Some pickup truck owners in Texas have been able to ride out winter storm power outages in comfort thanks to built-in generators in their vehicles.\r\nFordâs 2021 F-150 trucks have the âPro Power Onboaâ¦ [+2570 chars]",
+         "description" : "Some pickup truck owners in Texas have been able to ride out winter storm power outages in comfort thanks to built-in generators in their vehicles.",
+         "publishedAt" : "2021-02-19T22:23:02Z",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "title" : "Ford trucks' built-in generators power Texas homes after winter storm causes power outages - Fox Business",
+         "url" : "https://www.foxbusiness.com/lifestyle/ford-trucks-generators-texas-homes-winter-storm-power-outages",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/All-new_F-150_22.jpg?ve=1&tl=1"
+      },
+      {
          "author" : "MarketWatch Automation",
          "content" : "Shares of FuelCell Energy Inc. \r\n FCEL,\r\n +9.53%\r\nadvanced 9.53% to $20.22 Friday, on what proved to be an all-around great trading session for the stock market, with the NASDAQ Composite Index \r\n COâ¦ [+718 chars]",
          "description" : "Shares of FuelCell Energy Inc. advanced 9.53% to $20.22 Friday, on what proved to be an all-around great trading session for the stock market, with the...",
@@ -171,94 +249,16 @@
       },
       {
          "author" : "Kerry Breen",
-         "content" : "A viral photo taken at a Domino's Pizza in San Antonio, Texas, is providing a glimpse into the chaos and stress faced by food workers as icy weather and power outages slammed the state earlier this wâ¦ [+2907 chars]",
-         "description" : "The poster, a Domino's employee, called out rude customers who berated staff working during the icy weather in Texas.",
+         "content" : "A viral photo taken at a Domino's Pizza in San Antonio, Texas, is providing a glimpse into the chaos and stress faced by food workers as icy weather and power outages slammed the state earlier this wâ¦ [+2583 chars]",
+         "description" : "A photo of exhausted Domino's workers in San Antonio, Texas, is giving a glimpse into the chaos and stress faced by employees who work through the storm.",
          "publishedAt" : "2021-02-19T22:17:35Z",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "TODAY"
          },
-         "title" : "Photo of Domino's workers in Texas goes viral: 'Serving you during this crisis' - Yahoo News",
-         "url" : "https://news.yahoo.com/photo-dominos-workers-texas-goes-205300783.html",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/GebVWvjBCxei5DeGCN6sFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMDAw/https://s.yimg.com/uu/api/res/1.2/uvgp2xCMgXKfkMWTcZdNpQ--~B/aD0xMjUwO3c9MjUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbc_today_217/e036032b3ad42aeaf62d44975208ba61"
-      },
-      {
-         "author" : "Jordan Williams",
-         "content" : "Patrick Soon-Shiong, the owner of The Los Angeles Times, is denying reports that said he was exploring selling the company. \r\nThe denial on Friday came after The Wall Street Journal reported thatÂ theâ¦ [+1590 chars]",
-         "description" : "Patrick Soon-Shiong, the owner of The Los Angeles Times, is denying r...",
-         "publishedAt" : "2021-02-19T22:11:06Z",
-         "source" : {
-            "id" : "the-hill",
-            "name" : "The Hill"
-         },
-         "title" : "Billionaire owner of Los Angeles Times denies exploring sale of company | TheHill - The Hill",
-         "url" : "https://thehill.com/homenews/media/539656-billionaire-owner-of-los-angeles-times-denies-exploring-sale-of-company",
-         "urlToImage" : "https://thehill.com/sites/default/files/losangelestimes.jpg"
-      },
-      {
-         "author" : null,
-         "content" : null,
-         "description" : null,
-         "publishedAt" : "2021-02-19T22:10:41Z",
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         },
-         "title" : "Ark Invest's Cathie Wood talks bitcoin's prospects - CNBC Television",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RmVYcjZDRjl0c0XSAQA?oc=5",
-         "urlToImage" : null
-      },
-      {
-         "author" : null,
-         "content" : "Two months after Democratic lawmakers expressed concern about potential racial disparities in pulse oximeter readings Â calling the issue a matter of life or death the Food and Drug Administration on â¦ [+3591 chars]",
-         "description" : "Experts and lawmakers have expressed concern about potential racial disparities in the readings of pulse oximeters.",
-         "publishedAt" : "2021-02-19T21:56:15Z",
-         "source" : {
-            "id" : null,
-            "name" : "STAT"
-         },
-         "title" : "FDA issues alert on the 'limitations' of pulse oximeters - STAT",
-         "url" : "https://www.statnews.com/2021/02/19/fda-issues-alert-on-limitations-of-pulse-oximeters-without-explicit-mention-of-racial-bi/",
-         "urlToImage" : "https://www.statnews.com/wp-content/uploads/2021/02/AP20226615117438-1024x576.jpg"
-      },
-      {
-         "author" : "Jeanna Smialek, Neil Irwin",
-         "content" : "I would suspect, down the road, that a number of central banks will have digital currency, he said. When there is a digital currency available, other than the underground economy, its not clear why pâ¦ [+643 chars]",
-         "description" : "",
-         "publishedAt" : "2021-02-19T21:48:03Z",
-         "source" : {
-            "id" : null,
-            "name" : "New York Times"
-         },
-         "title" : "A Fed president predicts the Bitcoin boom wonât last. - The New York Times",
-         "url" : "https://www.nytimes.com/2021/02/19/business/rosengren-bitcoin.html",
-         "urlToImage" : "https://static01.nyt.com/images/2021/02/19/business/19economy-briefing-williams/19economy-briefing-williams-facebookJumbo.jpg"
-      },
-      {
-         "author" : "Amelia Lucas",
-         "content" : "The biggest source of growth for Coca-Cola over the next few years will likely be the zero-sugar version of the company's namesake soda.\r\n\"Actually, the best growth driver in '21 and probably for theâ¦ [+1175 chars]",
-         "description" : "The biggest source of growth for Coca-Cola over the next few years will likely be the zero-sugar version of its namesake soda, according to CEO James Quincey.",
-         "publishedAt" : "2021-02-19T21:31:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "Coca-Cola Zero Sugar will be the company's biggest source of growth in 2021, CEO says - CNBC",
-         "url" : "https://www.cnbc.com/2021/02/19/coca-cola-zero-sugar-will-be-the-companys-biggest-source-of-growth-in-2021-ceo-says.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106228591-1573067647376rtx77mhn.jpg?v=1613763375"
-      },
-      {
-         "author" : "Ariana Arghandewal",
-         "content" : "When I applied for the Chase Sapphire Preferred Card back in 2011, it was arguably the best rewards card out there. Aside from the sign-up bonus, the card offered valuable perks like a (discontinued)â¦ [+5184 chars]",
-         "description" : "When I applied for the Chase Sapphire Preferred Card back in 2011, it was arguably the best rewards card out there. Aside from the sign-up bonus, the card offered valuable perks like a (discontinued) 7% annual point dividend, access to the Chase Ultimate Rewaâ¦",
-         "publishedAt" : "2021-02-19T21:06:20Z",
-         "source" : {
-            "id" : null,
-            "name" : "The Points Guy"
-         },
-         "title" : "Does the Chase Sapphire Preferred need a revamp? - The Points Guy",
-         "url" : "http://thepointsguy.com/news/chase-sapphire-preferred-needs-a-revamp/",
-         "urlToImage" : "https://thepointsguy.global.ssl.fastly.net/us/originals/2020/04/20200304_NYC2020_Washington-Square-Park-CC-Shoot-Chase-Sapphire-Preferred-2.jpg"
+         "title" : "Emotional photo of Domino's workers in Texas goes viral - TODAY",
+         "url" : "https://www.today.com/food/emotional-photo-domino-s-workers-texas-goes-viral-t209522",
+         "urlToImage" : "https://media3.s-nbcnews.com/j/newscms/2021_07/1676823/exhausted-texas-dominos-workers-nc-main-021921_cbfefcb3647a68ce4b117bf3a5c4a55f.social_share_1200x630_center.jpg"
       }
    ],
    "status" : "ok",
