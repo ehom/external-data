@@ -1,6 +1,84 @@
 {
    "articles" : [
       {
+         "author" : "Paul R. La Monica, CNN Business",
+         "content" : null,
+         "description" : "The housing market is still red hot. But there are growing concerns about how much longer this strength can last.",
+         "publishedAt" : "2021-02-24T12:02:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Housing market concerns begin to emerge - CNN ",
+         "url" : "https://www.cnn.com/2021/02/24/investing/home-depot-lowes-earnings-housing/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210222162815-restricted-home-depot-1123-file-super-tease.jpg"
+      },
+      {
+         "author" : "Steve Goldstein",
+         "content" : "As much as the rise in bond yields has been the talk of financial markets the last two weeks, there is something different about how government debt is reacting to signs of an improving economy.Accorâ¦ [+5360 chars]",
+         "description" : "Critical information for the trading day",
+         "publishedAt" : "2021-02-24T11:37:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "title" : "Why the world's largest fund manager is getting more aggressive â and says climate change boosts the case for equities - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/why-the-worlds-largest-fund-manager-is-getting-more-aggressive-and-says-climate-change-boosts-the-case-for-equities-11614166675",
+         "urlToImage" : "https://images.mktw.net/im-303453/social"
+      },
+      {
+         "author" : "Phil Mattingly, CNN",
+         "content" : "(CNN)More than 150 senior executives from some of the largest American companies across several major industries have lined up behind President Joe Biden's $1.9 trillion coronavirus relief package, aâ¦ [+3109 chars]",
+         "description" : "More than 150 senior executives from some of the largest American companies across several major industries have lined up behind President Joe Biden's $1.9 trillion coronavirus relief package, according to a letter obtained by CNN.",
+         "publishedAt" : "2021-02-24T11:25:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "First on CNN: Biden's Covid plan gets backing from more than 150 top business leaders - CNN ",
+         "url" : "https://www.cnn.com/2021/02/24/politics/business-leaders-biden-covid-plan/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg"
+      },
+      {
+         "author" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "description" : null,
+         "publishedAt" : "2021-02-24T10:31:49Z",
+         "source" : {
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "title" : "Cathie Wood ARK Innovation ETF ($ARKK) Fund Has Record Outflow - Bloomberg",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=a4c53f80-769f-11eb-91e7-15a965a86417&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMi0yNC9jYXRoaWUtd29vZC1zLWZsYWdzaGlwLWZ1bmQtc3VmZmVycy1iaWdnZXN0LW91dGZsb3ctb24tcmVjb3Jk",
+         "urlToImage" : null
+      },
+      {
+         "author" : "Brie Stimson",
+         "content" : "Tesla CEO Elon Musk gave a brief but loaded comment to the Washington Post this week when the newspaper reached out over a story written about him.\r\n\"Give my regards to your puppet master,\" Musk replâ¦ [+2164 chars]",
+         "description" : "Tesla CEO Elon Musk gave a brief but loaded comment to the Washington Post this week when the newspaper reached out over a story written about him.",
+         "publishedAt" : "2021-02-24T10:14:42Z",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "title" : "Elon Musk may have called out Jeff Bezos with âpuppet masterâ comment to Washington Post - Fox News",
+         "url" : "https://www.foxnews.com/us/elon-musk-shades-jeff-bezos-with-puppet-master-comment-to-washington-post",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1130598318.jpg"
+      },
+      {
+         "author" : "Karen Gilchrist",
+         "content" : "A new app, set to launch within weeks, could mark the first step in resuming quarantine-free international travel.\r\nThe International Air Travel Association (IATA) travel app will allow governments aâ¦ [+1779 chars]",
+         "description" : "A new app from the International Air Travel Association could mark the first step in resuming quarantine-free international travel.",
+         "publishedAt" : "2021-02-24T09:07:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "Quarantine-free travel may be one step closer with new travel industry app - CNBC",
+         "url" : "https://www.cnbc.com/2021/02/24/covid-travel-iata-app-could-restart-quarantine-free-international-flights.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106844707-1614139577448-gettyimages-1231158240-AFP_92Y83M.jpeg?v=1614139623"
+      },
+      {
          "author" : "Ryan Browne",
          "content" : "Bitcoin's price roared back Wednesday after a sharp sell-off, climbing above $50,000 again as Squareannounced it had purchased $170 million worth of the cryptocurrency.\r\nAt 4 a.m. ET, the world's mosâ¦ [+2238 chars]",
          "description" : "Bitcoin climbed back above the $50,000 level Wednesday, after a brutal sell-off earlier this week.",
@@ -40,17 +118,17 @@
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105727301-1549605751434gettyimages-911643172.jpeg?v=1614149342"
       },
       {
-         "author" : "Associated Press",
-         "content" : "Class action lawsuits were filed in Nevada against 10 major auto insurance companies on Tuesday, contending that the companies charged excessive insurance premiums during the coronavirus pandemic by â¦ [+4405 chars]",
-         "description" : "The rates that were charged violate state law against excessive premiums, the lawsuits contend",
-         "publishedAt" : "2021-02-24T07:12:06Z",
+         "author" : "Arjun Kharpal",
+         "content" : "A man wearing a mask walks past the headquarters of the People's Bank of China, the central bank, in Beijing, China, as the country is hit by an outbreak of the new coronavirus, February 3, 2020.\r\nGUâ¦ [+2858 chars]",
+         "description" : "One analyst said the People's Bank of China's involvement in the project hints at its long-term intentions to internationalize the yuan.",
+         "publishedAt" : "2021-02-24T08:05:00Z",
          "source" : {
             "id" : null,
-            "name" : "Fox Business"
+            "name" : "CNBC"
          },
-         "title" : "Lawsuits filed against auto insurers over rates in pandemic - Fox Business",
-         "url" : "https://www.foxbusiness.com/lifestyle/lawsuits-filed-against-auto-insurers-over-rates-in-pandemic",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/wallstreet-crisis.jpg?ve=1&tl=1"
+         "title" : "China's PBOC joins cross-border digital currency project with other central banks - CNBC",
+         "url" : "https://www.cnbc.com/2021/02/24/chinas-pboc-joins-cross-border-digital-currency-project.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106369932-15807599489902020-02-03t082229z_1034833219_rc2wse9igvoa_rtrmadp_3_china-markets.jpg?v=1580760040"
       },
       {
          "author" : "Kane Wu",
@@ -66,6 +144,19 @@
          "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/WbWywVyWslcFRZ9gWECJQA--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/575a99dde40d29f7ab348eb00a439514"
       },
       {
+         "author" : "Simon Jessop, Matthew Green, Ross Kerber",
+         "content" : "LONDON/BOSTON (Reuters) - In the past, shareholder votes on the environment were rare and easily brushed aside. Things could look different in the annual meeting season starting next month, when compâ¦ [+7925 chars]",
+         "description" : "In the past, shareholder votes on the environment were rare and easily brushed aside. Things could look different in the annual meeting season starting next month, when companies are set to face the most investor resolutions tied to climate change in years.",
+         "publishedAt" : "2021-02-24T06:11:00Z",
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "title" : "Show us the plan: Investors push companies to come clean on climate - Reuters",
+         "url" : "https://www.reuters.com/article/us-climate-change-agm-insight-idUSKBN2AO0IR",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20210224&t=2&i=1552736896&r=LYNXMPEH1N0AQ&w=800"
+      },
+      {
          "author" : "KRON4 Staff",
          "content" : "SAN FRANCISCO, Calif. (KRON) â Fryâs Electronics is going out of business. \r\nKRON4 has confirmed that the iconic Bay Area retailer is permanently closing the doors of all stores nationwide. \r\nThe comâ¦ [+1105 chars]",
          "description" : "It is unclear at this time why the company is closing.",
@@ -79,17 +170,17 @@
          "urlToImage" : "https://www.kron4.com/wp-content/uploads/sites/11/2021/02/GettyImages-668506.jpg?w=1280"
       },
       {
-         "author" : "Steve Goldstein",
-         "content" : "Its been a pretty impressive 12 months for the worlds leadingÂ miners.The FTSE 350Â miningÂ index \r\n 156995,\r\n -0.22%\r\nwhich includes diversified mining giants Rio Tinto \r\n RIO,\r\n -1.03%\r\n,\r\n BHP Group â¦ [+4656 chars]",
-         "description" : "Mining stocks have rallied as the global economy has recovered, and there are factors that could further lift the sector.",
-         "publishedAt" : "2021-02-24T05:05:00Z",
+         "author" : "Brian Quarmby",
+         "content" : "According to a new report from crypto market data aggregator, Glassnode, Bitcoin whales offloaded massive amounts of BTC during February. \r\nGlassnode defines any address that holds between 1,000 BTC â¦ [+1644 chars]",
+         "description" : "âHumpbackâ whales have been offloading billions in BTC this month.",
+         "publishedAt" : "2021-02-24T04:45:04Z",
          "source" : {
             "id" : null,
-            "name" : "MarketWatch"
+            "name" : "Cointelegraph"
          },
-         "title" : "Mining stocks have surged in a struggling U.K. market â and have 2 more tailwinds - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/mining-stocks-have-surged-in-a-struggling-u-k-market-and-have-2-more-tailwinds-11614099703",
-         "urlToImage" : "https://images.mktw.net/im-302940/social"
+         "title" : "Whales offloaded 140K Bitcoin this month: Glassnode - Cointelegraph",
+         "url" : "https://cointelegraph.com/news/whales-offloaded-140k-bitcoin-this-month-glassnode",
+         "urlToImage" : "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDIvMWY3NDdmOWQtYTFjNC00ZWM1LTk5OTItNzkzYjAxODUzNTJhLmpwZw==.jpg"
       },
       {
          "author" : "24/7 Wall St.",
@@ -168,97 +259,6 @@
          "title" : "Biden Is About To Send The Electric Vehicle Revolution Into Overdrive - Yahoo Finance",
          "url" : "https://finance.yahoo.com/news/biden-send-electric-vehicle-revolution-003000793.html",
          "urlToImage" : "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
-      },
-      {
-         "author" : "John Bonifield",
-         "content" : "(CNN)The United States can expect to see a total of 240 million doses of Covid-19 vaccine by the end of March, drug companies told a House subcommittee Tuesday.\r\nPfizer and Moderna -- the two companiâ¦ [+4165 chars]",
-         "description" : "The United States can expect to see a total of 240 million doses of coronavirus vaccine by the end of March, drug companies told a House subcommittee Tuesday.",
-         "publishedAt" : "2021-02-24T02:22:00Z",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "title" : "Pfizer, Moderna, J&J pledge 240 million total Covid-19 vaccine doses by the end of March - CNN ",
-         "url" : "https://www.cnn.com/2021/02/23/health/vaccines-doses-end-of-march/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210219165137-pandemic-down-vls-super-tease.jpg"
-      },
-      {
-         "author" : "Lucas Manfredi",
-         "content" : "Following weeks of headline-grabbing attention from a social media-fueled stock trading frenzy, GameStop announced Tuesday itsÂ Chief Financial Officer Jim Bell will resign from his role effectiveÂ Marâ¦ [+4190 chars]",
-         "description" : "The company has launched a search for Bell's permanent replacement, noting that they are seeking a CFO with \"the capabilities and qualifications to help accelerate GameStopâs transformation.\" The search, which will evaluated both internal and external candidaâ¦",
-         "publishedAt" : "2021-02-24T01:46:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "title" : "GameStop CFO resigns following Reddit stock trading mania - Fox Business",
-         "url" : "https://www.foxbusiness.com/markets/gamestop-cfo-resigns-following-reddit-stock-trading-mania",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/GameStop-Jim-Bell.jpg?ve=1&tl=1"
-      },
-      {
-         "author" : "Lucas Ropek",
-         "content" : "Apparently not content with having penetrated the networks of such piddling federal agencies as the U.S. State Department, the Department of Homeland Security, and that agency that maintains our nuclâ¦ [+3684 chars]",
-         "description" : "Apparently not content with having penetrated the networks of such piddling federal agencies as the U.S. State Department, the Department of Homeland Security, and  that agency that maintains our nuclear stockpile, the hackers of the âSolarWindsâ affair  alsoâ¦",
-         "publishedAt" : "2021-02-24T01:30:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Gizmodo.com"
-         },
-         "title" : "SolarWinds Hackers Also Went After NASA and the FAA - Gizmodo",
-         "url" : "https://gizmodo.com/solarwinds-hackers-also-went-after-nasa-and-the-faa-1846340394",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/kcs2lwfrltkaweauvf0m.jpg"
-      },
-      {
-         "author" : "Terry Collins",
-         "content" : "The U.S. Postal Service has new Next Generation Delivery Vehicles in the works. The high-tech vehicles are due to begin appearing on routes in 2023.\r\nUSA TODAY\r\nThe U.S. Postal Service will finally gâ¦ [+2319 chars]",
-         "description" : "The USPS awarded a 10-year multi-billion dollar contract to Wisconsin-based Oshkosh Defense to replace it's aging fleet of vehicles.",
-         "publishedAt" : "2021-02-24T01:22:16Z",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "title" : "The future of USPS trucks is electric: The new fleet will replace, expand more than 230K vehicles - USA TODAY",
-         "url" : "https://www.usatoday.com/story/money/cars/2021/02/23/usps-new-mail-delivery-trucks/4566631001/",
-         "urlToImage" : "https://www.gannett-cdn.com/presto/2021/02/23/USAT/a026df9c-7d2e-436e-8f14-d8dc4f4d29b0-USPSsuburb2_9-scaled.jpg?crop=2559,1439,x1,y163&width=1600&height=800&fit=bounds"
-      },
-      {
-         "author" : "Justin T. Westbrook",
-         "content" : "The surprisingly handsome 2022 Kia Carnivals name change from Sedona was officially confirmed today; the news had leaked last month. We also get some trim details, and despite Kia claiming the Carnivâ¦ [+2558 chars]",
-         "description" : "The surprisingly handsome 2022 Kia Carnivalâs name change from Sedona was officially confirmed today; the news had leaked last month. We also get some trim details, and despite Kia claiming the Carnival is now a âGrand Utility Vehicleâ it wonât go on sale witâ¦",
-         "publishedAt" : "2021-02-24T00:45:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Jalopnik"
-         },
-         "title" : "The 2022 Kia Carnival Is Officially Recognized As An MPV But Critically Won't Be Available With AWD - Jalopnik",
-         "url" : "https://jalopnik.com/the-2022-kia-carnival-is-officially-recognized-as-an-mp-1846340033",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/gdfiroczgpueufjkrt8f.jpg"
-      },
-      {
-         "author" : "Jaclyn Cosgrove",
-         "content" : "Hundreds of grocery store workers in unincorporated Los Angeles County will receive $5 an hour in hazard pay on top of their regular wages as part of the countys hero pay mandate that goes into effecâ¦ [+6787 chars]",
-         "description" : "The $5 an hour pay boost for grocery workers in unincorporated L.A. County begins Friday. The L.A. City Council is to pass a similar measure Wednesday.",
-         "publishedAt" : "2021-02-24T00:42:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Los Angeles Times"
-         },
-         "title" : "L.A. County approves 'hero pay' for grocery workers - Los Angeles Times",
-         "url" : "https://www.latimes.com/california/story/2021-02-23/la-county-hero-pay-hazard-pay-mandate-covid-19-pandemic",
-         "urlToImage" : "https://ca-times.brightspotcdn.com/dims4/default/c8ad593/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd4%2Fa7%2Fbb94e1864fdda1a9cba6f5628201%2Fla-photos-1staff-619739-fi-teamster-ralphs-demonstration-03-mjc.jpg"
-      },
-      {
-         "author" : "Amy Graff",
-         "content" : "San Francisco residents who travel outside the Bay Area are no longer required to quarantine for 10 days when they arrive home, but the city is still encouraging its residents to follow the state's tâ¦ [+1862 chars]",
-         "description" : "San Francisco residents who travel outside the Bay Area are no longer required to...",
-         "publishedAt" : "2021-02-24T00:40:25Z",
-         "source" : {
-            "id" : null,
-            "name" : "SFGate"
-         },
-         "title" : "San Francisco lifts strict travel restriction: 'This is not a travel free-for-all' - SF Gate",
-         "url" : "https://www.sfgate.com/bayarea/article/San-Francisco-travel-advisory-California-COVID-15974033.php",
-         "urlToImage" : "https://s.hdnux.com/photos/01/16/42/22/20587651/3/rawImage.jpg"
       }
    ],
    "status" : "ok",
