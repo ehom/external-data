@@ -1,17 +1,82 @@
 {
    "articles" : [
       {
-         "author" : null,
+         "author" : "David Williams, CNN",
          "content" : null,
-         "description" : null,
+         "description" : "A New Jersey plumber who wanted to help Texans dealing with burst pipes and other damage after last week's winter storms drove to Houston with a truck full of tools and got to work.",
+         "publishedAt" : "2021-02-25T01:22:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "A New Jersey plumber drove to Texas with his family to fix burst pipes and other damage from devastating winter storm - CNN ",
+         "url" : "https://www.cnn.com/2021/02/24/us/new-jersey-plumber-texas-trnd/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210224162808-01-new-jersey-texas-plumber-trnd-super-tease.jpg"
+      },
+      {
+         "author" : "Thomas Barrabi",
+         "content" : "Amazon has emerged as a dominant force in the burgeoning e-commerce sector, but Costco still holds a key advantage over its retail rival, according to famed investor and Berkshire Hathaway vice chairâ¦ [+1584 chars]",
+         "description" : "Amazon has emerged as a dominant force in the burgeoning e-commerce sector, but Costco still holds a key advantage over its retail rival, according to famed investor and Berkshire Hathaway vice chairman Charlie Munger.",
+         "publishedAt" : "2021-02-25T00:52:32Z",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "title" : "Charlie Munger says Costco has key advantage over Amazon: Here's why - Fox Business",
+         "url" : "https://www.foxbusiness.com/retail/charlie-munger-costco-key-advantage-over-amazon-heres-why",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/Munger-Costco.jpg?ve=1&tl=1"
+      },
+      {
+         "author" : null,
+         "content" : "Bank of Korea Governor Lee Ju-yeol has said that crypto assets like bitcoin have no intrinsic value â put simply, a measure of what an asset is actually worth.\r\nâ Speaking in the National Assembly onâ¦ [+1472 chars]",
+         "description" : "Bank of Korea Governor Lee Ju-yeol has said that crypto assets like bitcoin have no intrinsic value - put simply, a measure of what an asset is actually worth.",
+         "publishedAt" : "2021-02-25T00:46:14Z",
+         "source" : {
+            "id" : null,
+            "name" : "Bitcoin.com"
+         },
+         "title" : "Bitcoin Has No Intrinsic Value, Asset Is Too Volatile, Says Bank of Korea Governor â Regulation Bitcoin News - Bitcoin News",
+         "url" : "https://news.bitcoin.com/bitcoin-has-no-intrinsic-value-asset-is-too-volatile-says-bank-of-korea-governor/",
+         "urlToImage" : "https://news.bitcoin.com/wp-content/uploads/2021/02/bank-of-korea.jpg"
+      },
+      {
+         "author" : "Sam Dorman",
+         "content" : "The White House is reportedly set to discuss carbon emissions reductions with airline CEOs even as it remainsÂ silent on the use of a private jet by top climate change adviser John Kerry.\r\nAccording tâ¦ [+2789 chars]",
+         "description" : "The White House is reportedly set to discuss carbon emissions reductions with airline CEOs even as it remainsÂ silent on the use of a private jet by top climate change adviser John Kerry.",
+         "publishedAt" : "2021-02-25T00:41:35Z",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "title" : "White House to meet with airline CEOs about carbon footprint as Kerry remains silent on private jet use - Fox News",
+         "url" : "https://www.foxnews.com/politics/white-house-meeting-airline-ceos-kerry",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/John-Kerry-.jpg"
+      },
+      {
+         "author" : "Investor's Business Daily",
+         "content" : "Dow Jones futures rose slightly late Wednesday, along with S&amp;P 500 futures and Nasdaq futures, after a strong stock market rally Wednesday. The Dow Jones jumped to a new high and the Nasdaq contiâ¦ [+9451 chars]",
+         "description" : "Dow Jones futures: The Dow hit a record high as the Nasdaq and Tesla rebounded. GME stock doubled. Nvidia led key earnings movers near buy points.",
          "publishedAt" : "2021-02-25T00:41:00Z",
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
+            "id" : null,
+            "name" : "Investor's Business Daily"
          },
          "title" : "Dow Jones Futures: Dow Hits High As Tesla Rebounds, GameStop Skyrockets; Nvidia, Teladoc Lead Five Earnings Movers - Investor's Business Daily",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMilgFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtZG93LWhpdHMtaGlnaC10ZXNsYS1yZWJvdW5kcy1nbWUtc3RvY2stc2t5cm9ja2V0cy1udmlkaWEtdGVsYWRvYy1lYXJuaW5ncy_SAQA?oc=5",
-         "urlToImage" : null
+         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dow-hits-high-tesla-rebounds-gme-stock-skyrockets-nvidia-teladoc-earnings/",
+         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/11/Stock-bounce-05-adobe.jpg"
+      },
+      {
+         "author" : "Joe Tenebruso",
+         "content" : "What happened\r\nReddit traders are back. After licking their wounds following GameStop's (NYSE:GME) brutal decline from its highs, the Wallstreetbets-led army of individual investors appears to be tryâ¦ [+1426 chars]",
+         "description" : "Get ready for round two of the battle between the bulls and bears.",
+         "publishedAt" : "2021-02-25T00:36:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Motley Fool"
+         },
+         "title" : "Why Sundial, AMC, Blackberry, and Other Reddit Stocks Soared Today - Motley Fool",
+         "url" : "https://www.fool.com/investing/2021/02/24/why-sundial-amc-blackberry-and-other-reddit-stocks/",
+         "urlToImage" : "https://g.foolcdn.com/editorial/images/615100/market-recovery-gettyimages-910307198.jpg"
       },
       {
          "author" : null,
@@ -25,6 +90,45 @@
          "title" : "Jim Cramer gets behind five new SPAC ideas - CNBC Television",
          "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UE90UHgzZUFGenfSAQA?oc=5",
          "urlToImage" : null
+      },
+      {
+         "author" : "Carrie Mihalcik",
+         "content" : "A global semiconductor chip shortage has been exacerbated by the coronavirus pandemic. Â \r\nLiesa Johannssen-Koppitz/Bloomberg via Getty Images\r\nPresident Joe BidenÂ on Wednesday signed an executive ordâ¦ [+1610 chars]",
+         "description" : "The US has felt the impact of recent shortages and supply chain backups, including for computer chips and medical supplies.",
+         "publishedAt" : "2021-02-24T23:55:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNET"
+         },
+         "title" : "PS5, Xbox component shortage to be investigated as part of new Biden executive order - CNET",
+         "url" : "https://www.cnet.com/news/ps5-xbox-component-shortage-to-be-investigated-as-part-of-new-biden-executive-order/",
+         "urlToImage" : "https://cnet4.cbsistatic.com/img/qrnF9aW90nPOWX1EtQVSzof4pCo=/1200x630/2021/02/15/80e11eb2-32d0-4db4-99c2-9b254c0c9707/gettyimages-1301445093.jpg"
+      },
+      {
+         "author" : "Cameron Faulkner",
+         "content" : "It hasnt changed its outlook on GPU availability\r\nIllustration by Alex Castro / The Verge\r\nNvidia has shared its Q4 2021 earnings, and despite the companys GPUs being in extremely low supply, it didnâ¦ [+2263 chars]",
+         "description" : "Nvidia has shared its quarterly earnings for Q4 2021, and it reported $5 billion in revenue. Despite the ongoing shortage of graphics cards across the world, it expects to make just as much money in Q1 2022.",
+         "publishedAt" : "2021-02-24T23:53:36Z",
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "title" : "Nvidia made $5 billion during a GPU shortage and expects to do it again in Q1 - The Verge",
+         "url" : "https://www.theverge.com/2021/2/24/22299505/nvidia-earnings-q4-2021-quarterly-gpu-shortage-revenue",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/PYB8ZwG57loFFEaX-OxZ0iHb-po=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11447603/acastro_180529_1777_nvidia_0001.0.jpg"
+      },
+      {
+         "author" : "Kelly Tyko",
+         "content" : "From J.C. Penney to Victoria's Secret, here are 8 retailers who will either make it or break it in 2021.\r\nUSA TODAY\r\nAfter closing nearly 250Â storesÂ in 2020,Â Victorias Secret plans to permanently cloâ¦ [+2813 chars]",
+         "description" : "L Brands plans to close up to 50 more Victoria's Secret stores in 2021 while opening 50 more Bath & Body Works locations in the U.S. and Canada.",
+         "publishedAt" : "2021-02-24T23:51:44Z",
+         "source" : {
+            "id" : "usa-today",
+            "name" : "USA Today"
+         },
+         "title" : "Victoria's Secret store closings: Retailer to close up to 50 stores while Bath & Body Works opens new locations - USA TODAY",
+         "url" : "https://www.usatoday.com/story/money/shopping/2021/02/24/victoria-secret-store-closures-2021-bath-body-works-opening/6806159002/",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2020/11/27/NOBD/06884872-369d-42ec-bd81-ec9b6161f3f7-NYUTI-P-112820-Black_Friday-9.jpg?crop=3599,2025,x0,y184&width=3200&height=1680&fit=bounds"
       },
       {
          "author" : "Tyler Clifford",
@@ -66,30 +170,17 @@
          "urlToImage" : "https://www.kitco.com/news/2021-02-24/images/21_02_24_Cspan_YT.jpg"
       },
       {
-         "author" : "Sigrid Forberg",
-         "content" : "Photo Illustration by The Daily Beast / Photos via Facebook/GettyWhen serial pedophile and former doctor for the U.S. womens gymnastics team Larry Nassar was sentenced to a maximum of 175 years in prâ¦ [+13372 chars]",
-         "description" : "The legislation, which goes to a vote on Friday, could put thousands back in your pocket.",
-         "publishedAt" : "2021-02-24T23:00:00Z",
+         "author" : "Kif Leswing",
+         "content" : "On Wednesday, the Federal Communications Commission announced the winners of an $81 billion auction for the license to use important airwaves that are ideal for 5G.\r\nThe big winners were Verizon and â¦ [+2594 chars]",
+         "description" : "The sums spent by the companies ended up much higher than expectations, reflecting how important securing licenses for the airwaves is for the carriers.",
+         "publishedAt" : "2021-02-24T22:33:00Z",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "CNBC"
          },
-         "title" : "Biden's stimulus checks bill could cut your taxes by $3,100 - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/bidens-stimulus-checks-bill-could-230000120.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/wpxSfP_kkDDqv3.hyaFppA--~B/aD02Mjg7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moneywise_327/db6a86683a8a47a0c5c9384c295f9438"
-      },
-      {
-         "author" : "Julia Musto",
-         "content" : "Electric-vehicle makerÂ Fisker Inc. and Foxconn Technology GroupÂ announced Wednesday that they would collaborate on an electric-vehicle project, leading Fisker shares to surge more than 38%.\r\nIn a joiâ¦ [+3957 chars]",
-         "description" : "Electric-vehicle makerÂ Fisker Inc. and Foxconn Technology GroupÂ announced Wednesday that they would collaborate on an electric-vehicle project, leading Fisker shares to surge more than 38%.",
-         "publishedAt" : "2021-02-24T22:54:09Z",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "title" : "Fisker, Foxconn electric-vehicle deal sends shares soaring - Fox Business",
-         "url" : "https://www.foxbusiness.com/markets/fisker-foxconn-electric-vehicle-deal-sends-shares-soaring",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/Fisker-Foxconn_Graphic.jpg?ve=1&tl=1"
+         "title" : "Verizon is the top bidder on 5G spectrum, committing more than $45 billion - CNBC",
+         "url" : "https://www.cnbc.com/2021/02/24/verizon-commits-more-than-45-billion-to-5g-spectrum-bid.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106822443-1610391257937-GettyImages-1227822210.jpg?v=1610392014"
       },
       {
          "author" : "Kalyeena Makortoff",
@@ -105,30 +196,17 @@
          "urlToImage" : "https://i.guim.co.uk/img/media/071d322d4e9464570f74ccd43050e4017bee3bb5/0_180_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7408e56925f2ac815a6c1ad72180e465"
       },
       {
-         "author" : "Allison Johnson",
-         "content" : "The results of the C-band auction are in, and Verizon spent big",
-         "description" : "The results are in from the FCCâs Auction 107, known as the C-band auction, with Verizon spending $45 billion and AT&T bidding $23.4 billion to secure precious new spectrum for 5G.",
-         "publishedAt" : "2021-02-24T22:05:49Z",
+         "author" : "finanzen.net GmbH",
+         "content" : "Dogecoin is a cryptocurrency based on the Doge meme, started seemingly as a joke\r\nYuriko Nakao/Getty Images\r\nElon Musk is tweeting about dogecoin again, this time sending the meme-based currency up 2â¦ [+1462 chars]",
+         "description" : "The Tesla CEO tweeted an image of the meme-famous Shiba Inu in a space suit, planting a flag on the moon emblazoned with the word 'WOW'.",
+         "publishedAt" : "2021-02-24T22:16:51Z",
          "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
+            "id" : "business-insider",
+            "name" : "Business Insider"
          },
-         "title" : "Verizon and AT&T spent big in FCC C-band auction for 5G spectrum - The Verge",
-         "url" : "https://www.theverge.com/2021/2/24/22299903/fcc-cband-auction-results-verizon-att-tmobile",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/h-dMjhnigZXgKz7mHlQHq1NMJKk=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/12865923/acastro_180430_1777_5G_0001.0.jpg"
-      },
-      {
-         "author" : "Lauren Thomas",
-         "content" : "Victoria's Secret parent L Brands on Wednesday reported fourth-quarter earnings that topped analysts' estimates, but sales fell short due to weakness at its lingerie brand.\r\nAlthough the retailer isnâ¦ [+3077 chars]",
-         "description" : "Victoria's Secret parent L Brands reported fourth-quarter earnings that topped analysts' estimates, but sales fell short due to weakness at its lingerie brand.",
-         "publishedAt" : "2021-02-24T21:56:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "L Brands shares rise on Victoria's Secret owner's earnings beat, strong first-quarter outlook - CNBC",
-         "url" : "https://www.cnbc.com/2021/02/24/l-brands-lb-reports-q4-2020-earnings.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/105765333-1551303248221gettyimages-1061867862.jpeg?v=1614200588"
+         "title" : "Dogecoin jumps 25% after a one-word Elon Musk tweet about the red-hot cryptocurrency - Business Insider",
+         "url" : "https://www.businessinsider.com/dogecoin-price-jumps-25-after-a-one-word-elon-musk-tweet-2021-2",
+         "urlToImage" : "https://images2.markets.businessinsider.com/603675c7bed5c50011a2c3cf?format=jpeg"
       },
       {
          "author" : "Avi Salzman",
@@ -144,121 +222,43 @@
          "urlToImage" : "https://images.barrons.com/im-303550/social"
       },
       {
-         "author" : "Denise Chow",
-         "content" : "The drugmaker Moderna is set to begin testing a new version of its Covid-19 vaccine that was specifically designed to target an emerging variant of the coronavirus that was first reported in South Afâ¦ [+2398 chars]",
-         "description" : "Moderna will begin testing a new version of its Covid-19 vaccine that was designed to target a coronavirus variant that was first reported in South Africa.",
-         "publishedAt" : "2021-02-24T21:24:56Z",
-         "source" : {
-            "id" : "nbc-news",
-            "name" : "NBC News"
-         },
-         "title" : "Moderna to test booster shot that targets South African variant - NBC News",
-         "url" : "https://www.nbcnews.com/science/science-news/moderna-test-booster-shot-targets-south-african-variant-rcna310",
-         "urlToImage" : "https://media1.s-nbcnews.com/j/rockcms/2021-02/371/210224-moderna-vaccine-mn-1445-f2ee1f_7f8e721cba409866683b0a24cd770b651c58beeb.nbcnews-fp-1200-630.jpg"
-      },
-      {
-         "author" : "Nick Statt",
-         "content" : "GME shot up more than 100 percent this afternoon\r\nImage: Joe Weisenthal\r\nGameStop is up... again, by a lot. Before market close on Wednesday, the video game retailers shares started to soar, and GME â¦ [+2227 chars]",
-         "description" : "GameStop stock closed Wednesday up more than 100 percent, sending Reddit retail investors at r/WallStreetBets into a frenzy.",
-         "publishedAt" : "2021-02-24T21:21:19Z",
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
-         "title" : "GameStop stock just jumped 100 percent, and WallStreetBets is ecstatic - The Verge",
-         "url" : "https://www.theverge.com/2021/2/24/22299795/gamestop-stock-up-reddit-wallstreetbets-gme-pump",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/4CitiDs2iJQ48q_jp8NMLXAcUK4=/0x138:1309x823/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22326631/EvBPaphWgAMG2yi.jpeg"
-      },
-      {
-         "author" : "Mark DeCambre",
-         "content" : "The recent rise of bitcoin toward all-time highs is creating millionaires, on paper, at a fairly rapid clip, according to data from BitInfoCharts. At last check, bitcoin was trading up by over 6.5% oâ¦ [+3288 chars]",
-         "description" : "BitInfoCharts says 93,862 accounts hold bitcoins worth at least $1 million",
-         "publishedAt" : "2021-02-24T20:58:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "title" : "Bitcoin's 2021 rally is minting thousands of crypto 'diamond hands' millionaires - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/bitcoins-2021-rally-is-minting-thousands-of-crypto-diamond-hands-millionaires-11614200303",
-         "urlToImage" : "https://images.mktw.net/im-303792/social"
-      },
-      {
-         "author" : "Yahoo Finance Video",
-         "content" : "Yahoo Finance's Brian Cheung joined Yahoo Finance Live to break down the details of Powell testifying on Capitol Hill in addition to the nationwide outage that hit the Federal Reserve's banking systeâ¦ [+3274 chars]",
-         "description" : "Yahoo Finance's Brian Cheung joined Yahoo Finance Live to break down the details of Powell testifying on Capitol Hill in addition to the nationwide outage...",
-         "publishedAt" : "2021-02-24T20:50:46Z",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "title" : "Nationwide outage hits Fed Reserve banking system - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/video/nationwide-outage-hits-fed-banking-205046440.html",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/fNY5OtDZ5fRy6ya8sxDM6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI1/https://s.yimg.com/hd/cp-video-transcode/prod/2021-02/24/6036bc279505d758f6d8cd97/6036bc279505d758f6d8cd98_o_U_v2.jpg"
-      },
-      {
-         "author" : "Morgan Hines",
-         "content" : "Cruise Lines International Association, which represents 95% of the cruise industry, introduced mandatory requirements to be able to set sail again.\r\nUSA TODAY\r\nDisney Cruise Line and several Carnivaâ¦ [+9192 chars]",
-         "description" : "Carnival and Disney announced Wednesday that they would cancel all sailings through May. Three Carnival sister lines also announced cancellations.",
-         "publishedAt" : "2021-02-24T20:21:02Z",
-         "source" : {
-            "id" : "usa-today",
-            "name" : "USA Today"
-         },
-         "title" : "Carnival, Disney Cruise Line cancel sailings until June; Holland America, Princess scrap Canadian cruises - USA TODAY",
-         "url" : "https://www.usatoday.com/story/travel/cruises/2021/02/24/disney-cruise-line-carnival-extend-us-cancellations/6802488002/",
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/7b6e1eb4e999155869abfe258346e8c582c87861/c=0-93-1800-1105/local/-/media/2019/12/27/USATODAY/usatsports/Disney-Magic.jpg?width=1600&height=800&fit=crop"
-      },
-      {
-         "author" : "Todd Haselton",
-         "content" : "Charlie Munger, vice chairman of Berkshire Hathaway and Warren Buffett's longtime business partner, on Wednesday dismissed the rocketing share price of Tesla and the recent bitcoin frenzy.\r\nDuring anâ¦ [+1844 chars]",
-         "description" : "\"I don't think bitcoin is going to end up the medium of exchange for the world. It's too volatile to serve well as a medium of exchange,\" Munger said.",
-         "publishedAt" : "2021-02-24T19:59:00Z",
+         "author" : "Berkeley Lovelace Jr.",
+         "content" : "Moderna said Wednesday it has shipped to the National Institutes of Health doses of a new Covid-19 vaccine designed to provide better protection against the highly contagious coronavirus variant spreâ¦ [+3698 chars]",
+         "description" : "Moderna said it has shipped to the NIH doses of a new Covid-19 vaccine designed to provide better protection against the variant from South Africa.",
+         "publishedAt" : "2021-02-24T21:05:00Z",
          "source" : {
             "id" : null,
             "name" : "CNBC"
          },
-         "title" : "Charlie Munger doesn't know what's worse: Tesla at $1 trillion or bitcoin at $50,000 - CNBC",
-         "url" : "https://www.cnbc.com/2021/02/24/munger-on-tesla-at-1-trillion-50000-bitcoin-i-dont-know-whats-worse.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/101645986-117867542.jpg?v=1567532088"
+         "title" : "Moderna to begin clinical trials of Covid booster shots for variant from South Africa, sends to NIH for study - CNBC",
+         "url" : "https://www.cnbc.com/2021/02/24/moderna-covid-vaccine-booster-shots-south-africa-variant-trials.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106832550-16119428742021-01-29t174105z_706442117_rc2thl9pmhn2_rtrmadp_0_health-coronavirus-vaccine.jpeg?v=1614201094"
       },
       {
-         "author" : "Alissa Walker",
-         "content" : "A duck. A modified Popemobile. A Richard Scarry rendering. The Pixar-created star of Cars 5? Over the past 24 hours the internet has exhausted itself creating memes for the United States Postal Serviâ¦ [+4301 chars]",
-         "description" : "We admit itâs goofy-looking, but itâs a much safer design for crowded cities.",
-         "publishedAt" : "2021-02-24T19:49:10Z",
+         "author" : "Business Wire",
+         "content" : "CTV Pro Forma Revenue Grows 53% Year over Year in Q4 2020\r\nCompany Posts Adjusted EBITDA Margin of 37% in Quarter\r\nMagnite (NASDAQ: MGNI), the largest independent sell-side advertising platform, todaâ¦ [+56057 chars]",
+         "description" : "Magnite Reports Fourth Quarter 2020 Results",
+         "publishedAt" : "2021-02-24T21:05:00Z",
          "source" : {
             "id" : null,
-            "name" : "Curbed"
+            "name" : "Yahoo Entertainment"
          },
-         "title" : "Sure, Laugh Away. But Every Big Vehicle Should Look Like This New USPS Truck - Curbed",
-         "url" : "http://www.curbed.com/2021/02/usps-new-truck-design-safety.html",
-         "urlToImage" : "https://pyxis.nymag.com/v1/imgs/59d/99e/028a21c2e068b3d14bb59191eabc805cf9-mail-truck.1x.rsocial.w1200.jpg"
+         "title" : "Magnite Reports Fourth Quarter 2020 Results - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/magnite-reports-fourth-quarter-2020-210500535.html",
+         "urlToImage" : "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
       },
       {
-         "author" : "Alex Leary",
-         "content" : "WASHINGTON\r\nPresident Biden\r\nsigned an executive order Wednesday directing a broad review of supply chains for critical materialsfrom semiconductors to pharmaceuticals and rare-earth mineralswith theâ¦ [+7199 chars]",
-         "description" : "The president signed an executive order with the aim of eventually increasing domestic production of critical materials",
-         "publishedAt" : "2021-02-24T19:49:00Z",
+         "author" : "Nexstar Media Wire",
+         "content" : "(NEXSTAR) â Thereâs something new on McDonalds menu and itâs joining the growing trend of spotlighting chicken. \r\nStarting Wednesday, McDonalds is offering three new chicken sandwiches nationwide â aâ¦ [+895 chars]",
+         "description" : "Thereâs something new on McDonaldâs menu, and itâs joining the growing trend of spotlighting chicken.",
+         "publishedAt" : "2021-02-24T20:56:01Z",
          "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
+            "id" : null,
+            "name" : "fox8.com"
          },
-         "title" : "Biden to Address Chip Shortages, Supply-Chain Problems With Executive Action - The Wall Street Journal",
-         "url" : "https://www.wsj.com/articles/biden-to-address-chip-shortages-supply-chain-problems-with-executive-action-11614160803",
-         "urlToImage" : "https://images.wsj.net/im-303899/social"
-      },
-      {
-         "author" : "The Associated Press",
-         "content" : "ISTANBUL A Turkish court convicted an executive of Turkish jet company MNG and two pilots for migrant smuggling over their role in flying former Nissan Motor Co Ltd Chairman Carlos Ghosn out of Japanâ¦ [+2357 chars]",
-         "description" : "An executive and two have been jailed by a court in Turkey their role in flying ex-Nissan Chairman Carlos Ghosn out of Japan during his escape to Lebanon.",
-         "publishedAt" : "2021-02-24T19:47:09Z",
-         "source" : {
-            "id" : "nbc-news",
-            "name" : "NBC News"
-         },
-         "title" : "Carlos Ghosn: Three jailed for helping ex-Nissan CEO escape from Japan to Lebanon - NBC News",
-         "url" : "https://www.nbcnews.com/news/world/carlos-ghosn-three-jailed-helping-ex-nissan-ceo-escape-japan-n1258759",
-         "urlToImage" : "https://media3.s-nbcnews.com/j/newscms/2021_08/3430417/201123-carlos-ghosn-jm-1046_a7e72d6ad9cca047a8a9fcb42c3cd888.nbcnews-fp-1200-630.jpg"
+         "title" : "McDonaldâs debuts new menu item â three times over - fox8.com",
+         "url" : "https://fox8.com/news/featured/mcdonalds-debuts-new-menu-item-three-times-over/",
+         "urlToImage" : "https://fox8.com/wp-content/uploads/sites/12/2021/02/9c84098b8d2f4978a4dc1da783c2e4d8.jpg?w=1280"
       }
    ],
    "status" : "ok",
