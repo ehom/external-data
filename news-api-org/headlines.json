@@ -2,6 +2,32 @@
    "articles" : [
       {
          "author" : null,
+         "content" : null,
+         "description" : null,
+         "publishedAt" : "2021-03-02T04:13:00Z",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "title" : "Dow Jones Futures: Is Stock Market Pullback Over? Nio Tumbles, Zoom Soars On Earnings - Investor's Business Daily",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMihgFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtc3RvY2stbWFya2V0LXJhbGx5LW5pby1lYXJuaW5ncy16b29tLWVhcm5pbmdzLXRlc2xhLXN0b2NrL9IBAA?oc=5",
+         "urlToImage" : null
+      },
+      {
+         "author" : "Jeff Manning | The Oregonian/OregonLive",
+         "content" : "A top Nike vice president quit Monday amid swirling questions over her familys role in the turbulent sneaker-reselling markets. Ann Hebert resigned as the head of Nikes North American business just dâ¦ [+2690 chars]",
+         "description" : "Joe Hebert has made himself a prominent player in the so-called secondary sneaker market. As chronicled recently in Bloomberg Businessweek magazine, he's figured out how to buy the hottest models from Nike and other companies the minute they become available â¦",
+         "publishedAt" : "2021-03-02T03:48:05Z",
+         "source" : {
+            "id" : null,
+            "name" : "OregonLive"
+         },
+         "title" : "Senior Nike executive resigns after story about her teen son, the sneaker flipper - OregonLive",
+         "url" : "https://www.oregonlive.com/business/2021/03/senior-nike-executive-resigns-after-story-about-her-teen-son-the-sneaker-flipper.html",
+         "urlToImage" : "https://www.oregonlive.com/resizer/NqCRwK5AMPTs5le4tbAId7FhhJE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/5FTMXPFZONFPZAHXXWHEMTZ6HA.png"
+      },
+      {
+         "author" : null,
          "content" : "Posted on March 1, 2021 at 8:45 pm by West Sider\r\nAn employee at the Trader Joeâs store on Columbus Avenue and 93rd Street says he was fired after asking the store to add safety measures to keep emplâ¦ [+5338 chars]",
          "description" : null,
          "publishedAt" : "2021-03-02T01:51:43Z",
@@ -40,17 +66,69 @@
          "urlToImage" : null
       },
       {
-         "author" : "David Matthews",
-         "content" : null,
-         "description" : "A Nike executive resigned from the company Monday after her son used one of her credit cards to purchase $132,000 worth of limited-edition sneakers for his own resale company.",
-         "publishedAt" : "2021-03-02T00:58:00Z",
+         "author" : "Mike Murphy",
+         "content" : "For the first time in almost a year, all of Apple Inc.s U.S. retail stores are open.Apple closed all its stores outside China on March 13, 2020, as the COVID-19 pandemic swept the globe. Its stores iâ¦ [+1103 chars]",
+         "description" : "As of Monday, all 270 Apple stores in the U.S. were open in some capacity, though some still have restrictions, such as being appointment-only.",
+         "publishedAt" : "2021-03-02T01:31:00Z",
          "source" : {
             "id" : null,
-            "name" : "New York Daily News"
+            "name" : "MarketWatch"
          },
-         "title" : "Nikeâs exec quits over sonâs $132K sneaker purchase - New York Daily News",
-         "url" : "https://www.nydailynews.com/news/national/ny-nike-business-head-quits-son-sneaker-purchases-resale-company-20210302-fddfcktdvrhaxf47xhi2qshcgy-story.html",
-         "urlToImage" : "https://www.nydailynews.com/resizer/IAx_MqL61w5gGzvKyyrfX65rgJo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IFJ3C4LVJVH2RORCRWZMYUMEMM.jpg"
+         "title" : "All Apple retail stores in U.S. open for first time in almost a year; stock jumps - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/all-apple-retail-stores-in-u-s-open-for-first-time-in-almost-a-year-stock-jumps-11614648667",
+         "urlToImage" : "https://images.mktw.net/im-302465/social"
+      },
+      {
+         "author" : "Sarah Rahal",
+         "content" : "Michigan expectsÂ to receive 82,700 doses of the single-shot COVID-19 vaccine from Johnson &amp; Johnson this week, adding a significant third option for residents as part of the state's largest weeklâ¦ [+6235 chars]",
+         "description" : "U.S. regulators approved a third coronavirus vaccine Sunday, giving the country another tool at a critical time in the pandemic",
+         "publishedAt" : "2021-03-02T01:18:45Z",
+         "source" : {
+            "id" : null,
+            "name" : "The Detroit News"
+         },
+         "title" : "Michigan to get Johnson & Johnson single-dose vaccine this week - The Detroit News",
+         "url" : "https://www.detroitnews.com/story/news/local/michigan/2021/03/01/michigan-johnson-johnson-single-dose-vaccine/6874870002/",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2021/02/27/PDTN/27afcda2-d667-4a7c-b6a6-388efe9142ac-AP21057809589240.jpg?crop=1991,1120,x0,y0&width=1600&height=800&fit=bounds"
+      },
+      {
+         "author" : "Kay Recede",
+         "content" : "On Monday, Blue Shield took over California's COVID-19 vaccination distribution in an attempt to streamline the process and create a single, statewide criterion, remove the responsibility from indiviâ¦ [+2397 chars]",
+         "description" : "San Joaquin and Stanislaus were among the first counties impacted by the shift to Blue Shield, as the insurance company focused its efforts on communities where the virus disproportionately affected families.",
+         "publishedAt" : "2021-03-02T01:00:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "KCRA Sacramento"
+         },
+         "title" : "5 Things to Know: Blue Shield takes over California's COVID-19 vaccination distribution - KCRA Sacramento",
+         "url" : "https://www.kcra.com/article/5-things-blue-shield-californias-covid-vaccination-distribution/35687518",
+         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/vaccine-1603512926.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+      },
+      {
+         "author" : "Jamie Goldberg | The Oregonian/OregonLive",
+         "content" : "Joyce Goodwin was delighted when she went online Sunday and found that a Walgreens pharmacy near her home in Oregon City had COVID-19 vaccination appointments available.\r\nBut when she went to schedulâ¦ [+3525 chars]",
+         "description" : "The retail pharmacy's issues mirror website troubles at other distribution outlets.",
+         "publishedAt" : "2021-03-02T00:48:09Z",
+         "source" : {
+            "id" : null,
+            "name" : "OregonLive"
+         },
+         "title" : "Website glitch prevents Oregonians from signing up for COVID-19 vaccinations at Walgreens - OregonLive",
+         "url" : "https://www.oregonlive.com/business/2021/03/website-glitch-prevents-oregonians-from-signing-up-for-covid-19-vaccinations-at-walgreens.html",
+         "urlToImage" : "https://www.oregonlive.com/resizer/-YpvRnMtWxBpoocpUl1EiFHYGx0=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BYXNXDKINFEFXG22V5AQBISZBY.jpg"
+      },
+      {
+         "author" : null,
+         "content" : "FISHERS,Â Ind.Â (WISH) â The owners of Ale Emporium in Fishers have suspended live music indefinitely after the bar had problems with people not wearing masks or social distancing this weekend.Â Â \r\nPictâ¦ [+28664 chars]",
+         "description" : "FISHERS,Â Ind.Â (WISH) â The owners of Ale Emporium in Fishers have â¦",
+         "publishedAt" : "2021-03-02T00:41:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "WISHTV.com"
+         },
+         "title" : "Video of crowded bar in Fishers prompts investigation - WISHTV.com",
+         "url" : "https://www.wishtv.com/news/i-team-8/video-of-crowded-bar-in-fishers-prompts-investigation/",
+         "urlToImage" : "https://i0.wp.com/www.wishtv.com/wp-content/uploads/2021/03/PACKED-ALE-EMPORIUM-5P-PKG.transfer_frame_2529.jpg?fit=1920%2C1080&ssl=1"
       },
       {
          "author" : null,
@@ -92,17 +170,43 @@
          "urlToImage" : "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/23/c914295f-8f68-4183-b354-c48767aa6556/thumbnail/1200x630/fe7b60c3e1a86f3101d4c9733c63933d/gettyimages-1303397466.jpg"
       },
       {
-         "author" : "Chauncey Alcorn",
-         "content" : "New York (CNN Business)An Amazon employee filed a lawsuit Monday accusing the tech giant of deliberately paying her and other Black employees less than their White counterparts, becoming the latest oâ¦ [+3807 chars]",
-         "description" : "An Amazon employee filed a lawsuit Monday accusing the tech giant of deliberately paying her and other Black employees less than their White counterparts, becoming the latest on a growing list of current and former Amazon workers to accuse the company of systâ¦",
-         "publishedAt" : "2021-03-02T00:12:00Z",
+         "author" : "HNN Staff",
+         "content" : "HONOLULU, Hawaii (HawaiiNewsNow) - Loves Bakery, whose ovens have been filling Hawaii stomachs for nearly 170 years, will close its doors at the end of March amid growing pandemic-related losses.\r\nMoâ¦ [+2807 chars]",
+         "description" : "The news is certain to come as a shock to generations of Hawaii residents, who grew up on the companyâs locally-made loaves and treats.",
+         "publishedAt" : "2021-03-01T23:58:00Z",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "id" : null,
+            "name" : "Hawaii News Now"
          },
-         "title" : "Amazon employee sues the company, alleging racial discrimination and unequal pay - CNN ",
-         "url" : "https://www.cnn.com/2021/03/01/business/amazon-discrimination-lawsuit/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210301173543-aws-amazon-web-services---stock-super-tease.jpg"
+         "title" : "Loveâs Bakery, which struggled with pandemic losses, to cease operations at end of March - Hawaii News Now",
+         "url" : "https://www.hawaiinewsnow.com/2021/03/01/loves-bakery-an-institution-hawaii-since-cease-operations-end-march/",
+         "urlToImage" : "https://www.hawaiinewsnow.com/resizer/5dG-wfBSXWlCVR3x7rD2rrLWdSE=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/WTI2WCBGVBHELFQUOWVIWLM2FI.JPG"
+      },
+      {
+         "author" : "Thomas Pallini",
+         "content" : "Insider logo\r\nThe word \"Insider\".\r\nClose icon\r\nTwo crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification.\r\nHomeChevron icon\r\nIt indicates an expandableâ¦ [+4365 chars]",
+         "description" : "Alaska Airlines had planned to launch Boeing 737 Max flights in the summer of 2019 but the aircraft's notorious grounding delayed its debut.",
+         "publishedAt" : "2021-03-01T23:40:44Z",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "title" : "Airlines continue to flock to the Boeing 737 Max as it debuts on Alaska and United places a massive new order - Business Insider",
+         "url" : "https://www.businessinsider.com/alaska-airlines-debuts-boeing-737-max-on-first-passenger-flight-2021-3",
+         "urlToImage" : "https://i.insider.com/603d57be87d37600190d07f3?width=1200&format=jpeg"
+      },
+      {
+         "author" : "Stephanie Innes",
+         "content" : "Arizona on Monday announced two of its state-run vaccination sites are now open to anyone 55 years of age and older as the first step in moving to an age-based model fo distributing the COVID-19 vaccâ¦ [+6689 chars]",
+         "description" : "Arizona on Monday announced two of its state-run vaccination sites will now be open to anyone 55 years of age and older.",
+         "publishedAt" : "2021-03-01T23:32:21Z",
+         "source" : {
+            "id" : null,
+            "name" : "AZCentral"
+         },
+         "title" : "Arizona opens vaccinations at 2 of its state-run sites to people 55 and older - The Arizona Republic",
+         "url" : "https://www.azcentral.com/story/news/local/arizona-health/2021/03/01/az-going-age-based-vaccine-rollout-begins-those-55-and-older/6877115002/",
+         "urlToImage" : "https://www.gannett-cdn.com/presto/2021/02/01/PPHX/aa6810f6-a6a0-447e-917b-a75fe18e0240-DW1_4362.JPG?crop=3622,2038,x0,y195&width=3200&height=1680&fit=bounds"
       },
       {
          "author" : "Julia Alexander",
@@ -131,134 +235,30 @@
          "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2021/03/gab-760x380.png"
       },
       {
-         "author" : "Claudia Assis",
-         "content" : "Nio Inc.s American depositary receipts fell more than 3% in the extended session Monday after the China-based electric-car maker reported mixed fourth-quarter results and said revenue for a transformâ¦ [+1522 chars]",
-         "description" : "Nio guides for first-quarter sales of up to 25,000 vehicles",
-         "publishedAt" : "2021-03-01T23:02:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "title" : "Nio's sales top $2 billion in 'transformational' year - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/nios-sales-top-2-billion-in-transformational-year-11614639737",
-         "urlToImage" : "https://images.mktw.net/im-305859/social"
-      },
-      {
-         "author" : "Ari Levy",
-         "content" : "Compass, a real estate brokerage firm with more than 19,000 agents across the country, filed to go public on Monday, and told prospective investors that revenue jumped 56% last year as housing pricesâ¦ [+2402 chars]",
-         "description" : "Compass, which was valued at $6.5 billion in a 2019 financing round, announced plans to go public public and revealed a 56% surge in revenue last year.",
-         "publishedAt" : "2021-03-01T22:53:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "Real estate brokerage Compass files for IPO amid pandemic boom in housing prices - CNBC",
-         "url" : "https://www.cnbc.com/2021/03/01/softbank-backed-real-estate-brokerage-compass-makes-ipo-filing-public.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106575831-1591976028871gettyimages-1185960287.jpeg?v=1614638966"
-      },
-      {
-         "author" : "Alicia Adamczyk",
-         "content" : "An estimated 11 million families are at risk of eviction, according to a new report from the Consumer Financial Protection Bureau (CFPB). The American Rescue Plan, which includes tens of billions in â¦ [+3147 chars]",
-         "description" : "The Consumer Financial Protection Bureau reports that 8.8M renters and 2M homeowners were \"significantly\" behind on their housing payments at the end of 2020.",
-         "publishedAt" : "2021-03-01T22:48:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "11 million families are at risk of eviction, reports the CFPB. Here's how the American Rescue Plan helps - CNBC",
-         "url" : "https://www.cnbc.com/2021/03/01/how-the-american-rescue-plan-helps-11m-families-at-risk-of-eviction.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106847388-1614630491219-gettyimages-1231402567-775625755.jpeg?v=1614630534"
-      },
-      {
-         "author" : "Chris Welch",
-         "content" : "The company wants its SmartCast TVs to be a bridge between you and everything the world has to offer\r\nImage: Vizio\r\nVizio today filed its S-1 with the US Securities and Exchange Commission as the TV â¦ [+4898 chars]",
-         "description" : "Vizio has filed an S-1 document with the SEC, revealing that the company has sold over 80 million TVs and more than 11 million soundbars. The S-1 also shows that Vizio sees huge potential in its SmartCast TV platform and advertising.",
-         "publishedAt" : "2021-03-01T22:45:38Z",
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
-         "title" : "Vizio files to go public, has sold over 80 million TVs - The Verge",
-         "url" : "https://www.theverge.com/2021/3/1/22308068/vizio-ipo-filing-smartcast-inscape-tvs-soundbars-vzio",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/-r0wj6YsKnbDJrSFY5ZwdjBxlG4=/0x0:1420x743/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/20059931/vizio.jpg"
-      },
-      {
-         "author" : "Zacks Equity Research",
-         "content" : "Stocks started this year with heft gains, edged back last week, and now are rising again. The big tech giants led the moves, with volatility in Apple and Amazon leading the NASDAQ on its gyrations. Tâ¦ [+6833 chars]",
-         "description" : "Sundial Growers Inc. (SNDL) closed at $1.35 in the latest trading session, marking a +1.5% move from the prior day.",
-         "publishedAt" : "2021-03-01T22:45:10Z",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "title" : "Sundial Growers Inc. (SNDL) Gains But Lags Market: What You Should Know - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/sundial-growers-inc-sndl-gains-224510229.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/6Ex_CnpNXcMseRWMhPXBow--~B/aD01ODg7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/3496571a811465d910e99bd171c71a94"
-      },
-      {
-         "author" : "Dominic Rushe",
-         "content" : "A year of working from home may have driven many of us to the brink but its been great news for Zoom, the video conferencing business.\r\nOn Monday, the company announced its revenues had soared 326% yâ¦ [+2109 chars]",
-         "description" : "Company announces revenues of $2.6bn with little sign of slowing, but vaccines could change picture",
-         "publishedAt" : "2021-03-01T22:07:16Z",
-         "source" : {
-            "id" : null,
-            "name" : "The Guardian"
-         },
-         "title" : "Zoom sees revenues soar 326% year-over-year as office life remains on hold - The Guardian",
-         "url" : "https://www.theguardian.com/technology/2021/mar/01/zoom-revenues-results-coronavirus",
-         "urlToImage" : "https://i.guim.co.uk/img/media/f10ac3a0625b01577c2e0f256887f71f4bc591c7/0_34_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=689821c8506f768fa26bb19bc9873f6a"
-      },
-      {
          "author" : null,
-         "content" : "The Petaluma, California, City Council this week unanimously moved to ban new gas stations, and existing stations wonât be allowed to add new gas pumps but they can add electric chargers. The councilâ¦ [+2595 chars]",
-         "description" : "The Petaluma, California, City Council unanimously moved to ban new gas stations in order to accelerate the adoption of electric vehicles.",
-         "publishedAt" : "2021-03-01T22:05:00Z",
+         "content" : "Houston Health Department expands COVID-19 vaccine waitlist\r\nMarch 1, 2021\r\nHOUSTONÂ -Â  The Houston Health Department today expanded its COVID-19 vaccine waitlist to all age groups eligible for vaccinâ¦ [+2046 chars]",
+         "description" : null,
+         "publishedAt" : "2021-03-01T23:04:07Z",
          "source" : {
             "id" : null,
-            "name" : "Electrek"
+            "name" : "Houstontx.gov"
          },
-         "title" : "A California city moves to ban all new gas stations - Electrek.co",
-         "url" : "https://electrek.co/2021/03/01/california-city-ban-all-new-gas-stations/",
-         "urlToImage" : "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Petaluma-gas-station.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+         "title" : "Houston Health Department expands COVID-19 vaccine waitlist - City of Houston",
+         "url" : "http://www.houstontx.gov/health/NewsReleases/houston-health-department-expands-covid-19-vaccine-waitlist.html",
+         "urlToImage" : null
       },
       {
-         "author" : "Ian Carlos Campbell",
-         "content" : "Repeatedly sharing misleading information can lead to your account being locked\r\nIllustration by Alex Castro / The Verge\r\nTwitter announced Monday that it will start labeling tweets that share misleaâ¦ [+2690 chars]",
-         "description" : "Twitter announced that it will label tweets that present misleading information about COVID-19 vaccines. Alongside the expanded labeling, Twitter is also launching a strike system for repeat offenders that can lead to locked accounts and suspensions.",
-         "publishedAt" : "2021-03-01T22:02:39Z",
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
-         "title" : "Twitter will label COVID-19 vaccine misinformation and enforce a strike system - The Verge",
-         "url" : "https://www.theverge.com/2021/3/1/22307919/twitter-covid-19-vaccine-labels-five-strike-system",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/gis6O8YIaKNn2OEAaBuu6WvwcgY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22019592/acastro_201106_1777_vote_0004.0.jpg"
-      },
-      {
-         "author" : "Rich Duprey",
-         "content" : "What happened\r\nAnother day, another big move for GameStopÂ (NYSE:GME) stock, which shot 18% higher on Monday on no news other than the momentum crowd on Reddit jawboning for higher highs.\r\nSo what\r\nUnâ¦ [+1231 chars]",
-         "description" : "If it's a day that ends in \"Y,\" you can be sure the video game retailer's stock will be on the move.",
-         "publishedAt" : "2021-03-01T22:00:00Z",
+         "author" : "Jill Goldsmith",
+         "content" : "An Amazon manager Charlotte Newman has sued the giant company for racial discrimination in hiring and accused several executives of abusive behavior and sexual harassment.\r\nIn the expansive lawsuit fâ¦ [+2572 chars]",
+         "description" : "An Amazon manager Charlotte Newman has sued the giant company for racial discrimination in hiring and accused several executives of abusive behavior and sexual harassment. In the expansive lawsuit filed Monday in District Court in Washington, D.C. (read it heâ¦",
+         "publishedAt" : "2021-03-01T22:54:00Z",
          "source" : {
             "id" : null,
-            "name" : "Motley Fool"
+            "name" : "Deadline"
          },
-         "title" : "Why GameStop Stock Soared Another 18% Today - Motley Fool",
-         "url" : "https://www.fool.com/investing/2021/03/01/why-gamestop-stock-soared-another-18-today/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/616053/wave-tsunami-money-getty.jpeg"
-      },
-      {
-         "author" : "CBS News",
-         "content" : "Stocks rose across the board Monday on Wall Street as traders welcomed a move lower in long-term interest rates in the bond market. Investors also watched Washington, D.C., as a big economic stimulusâ¦ [+2850 chars]",
-         "description" : "Bond market jitters ease â as do interest rates â with Fed signaling few concerns with new $1.9 trillion stimulus push.",
-         "publishedAt" : "2021-03-01T21:56:00Z",
-         "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
-         },
-         "title" : "Stocks jump on stimulus vote and J&J vaccine news, with Dow up 600 points - CBS News",
-         "url" : "https://www.cbsnews.com/news/stocks-jump-on-stimulus-vote-and-j-j-vaccine-news-with-dow-up-600-points/",
-         "urlToImage" : "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/26/f0501a52-0f12-4951-a1b2-e455c65f5a62/thumbnail/1200x630/23bfa0a5b7ebad8c1e6e4f9603429721/gettyimages-1278062129.jpg"
+         "title" : "Amazon Manager Sues Company For Racial Discrimination In Hiring; Cites Abuse, Sexual Harassment - Deadline",
+         "url" : "https://deadline.com/2021/03/amazon-manager-sues-racial-discrimination-sexual-harassment-1234704227/",
+         "urlToImage" : "https://deadline.com/wp-content/uploads/2020/11/Amazon-Logo.jpg?w=1000"
       }
    ],
    "status" : "ok",
