@@ -1,6 +1,45 @@
 {
    "articles" : [
       {
+         "author" : null,
+         "content" : null,
+         "description" : null,
+         "publishedAt" : "2021-03-04T05:20:37Z",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "title" : "SpaceX Starship SN10 prototype successfully lands before exploding in flames | ABC News - ABC News (Australia)",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9S0piMWpMM3VNcEHSAQA?oc=5",
+         "urlToImage" : null
+      },
+      {
+         "author" : "Reuters",
+         "content" : "Resurgent worries about rising U.S. bond yields hit global shares on Thursday as investors waited to see if Federal Reserve Chair Jerome Powell will address concerns about the risk of a rapid rise inâ¦ [+3175 chars]",
+         "description" : "Powell is due to speak Thursday at 12:05 p.m. EST",
+         "publishedAt" : "2021-03-04T04:36:58Z",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "title" : "Rising bond yields spook world shares as investors look to Powell - Fox Business",
+         "url" : "https://www.foxbusiness.com/markets/rising-bond-yields-spook-world-shares-as-investors-look-to-powell",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/jerome-powell.jpg?ve=1&tl=1"
+      },
+      {
+         "author" : "Michael Williams, Meghan Bobrowsky, Catherine Ho",
+         "content" : "State officials are pushing back against a TV report that said thousands of people vaccinated at the Oakland Coliseum this week received doses smaller than they should be.Citing two unnamed emergencyâ¦ [+2259 chars]",
+         "description" : "The state is pushing back against a TV report that said thousands of people who were...",
+         "publishedAt" : "2021-03-04T03:54:22Z",
+         "source" : {
+            "id" : null,
+            "name" : "San Francisco Chronicle"
+         },
+         "title" : "Reports of underdosing at Coliseum vaccine site are false, state officials say - San Francisco Chronicle",
+         "url" : "https://www.sfchronicle.com/health/article/Reports-of-underdosing-at-Coliseum-vaccine-site-15998927.php",
+         "urlToImage" : "https://s.hdnux.com/photos/01/16/75/27/20698566/7/rawImage.jpg"
+      },
+      {
          "author" : "The Wall Street Journal",
          "content" : "The chief executive of Jeep's owner said he is open to dropping the Cherokee name after recent criticism from the Native American tribe's leadership.\r\nCarlos Tavares, chief executive officer of the râ¦ [+977 chars]",
          "description" : "The chief executive of Jeep's owner said he is open to dropping the Cherokee name after recent criticism from the Native American tribe's leadership.",
@@ -14,30 +53,17 @@
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/02/0/0/cherokee.jpg?ve=1&tl=1"
       },
       {
-         "author" : "KTVU FOX 2",
-         "content" : "OAKLAND, Calif. - Thousands of people who visited the mass vaccination site at the Oakland Coliseum received the wrongÂ vaccine dosages this week, raising questions about the effectiveness of the mediâ¦ [+8320 chars]",
-         "description" : "Thousands of people at the Oakland Coliseum received the wrong dosage of Pfizer vaccine on Monday because of an orange-capped syringe. But the problem has been fixed and state officials said there's no reason to panic.",
-         "publishedAt" : "2021-03-04T02:31:06Z",
+         "author" : "Lucas Manfredi",
+         "content" : "Barstool Sports founder Dave Portnoy said in a press conference Wednesday that heÂ is backing a new exchange-traded fund that will debut on the New York Stock Exchange on Thursday.\r\nThe BUZZÂ ETF uses â¦ [+7638 chars]",
+         "description" : "The fund uses artificial intelligence to track the theÂ top 75 large-cap stocks each month based on positive social media chatter.",
+         "publishedAt" : "2021-03-04T02:29:46Z",
          "source" : {
             "id" : null,
-            "name" : "KTVU San Francisco"
+            "name" : "Fox Business"
          },
-         "title" : "Thousands at Oakland Coliseum received wrong vaccine dosage, medical staff say - KTVU San Francisco",
-         "url" : "https://www.ktvu.com/news/thousands-at-oakland-coliseum-received-wrong-vaccine-dosage-medical-staff-say",
-         "urlToImage" : "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2021/03/1280/720/Oakland-Coliseum.jpg?ve=1&tl=1"
-      },
-      {
-         "author" : "Michelle Chapman",
-         "content" : "Las Vegas Sands is selling the iconic Venetian casino resort and its Sands Expo and Convention Center for $6.25 billion, withdrawing from gambling operations on the Las Vegas Strip after changing theâ¦ [+4277 chars]",
-         "description" : "Las Vegas Sands is selling the iconic Venetian casino resort and its Sands Expo and Convention Center for $6.25 billion, withdrawing from gambling operations on the Las Vegas Strip after changing...",
-         "publishedAt" : "2021-03-04T02:08:59Z",
-         "source" : {
-            "id" : "associated-press",
-            "name" : "Associated Press"
-         },
-         "title" : "With sale of the Venetian, Las Vegas Sands exits the Strip - The Associated Press",
-         "url" : "https://apnews.com/article/venetian-casino-sold-las-vegas-645b6166fb6fa2b2fe7ce8925773345f",
-         "urlToImage" : "https://storage.googleapis.com/afs-prod/media/b86e2668eb084bd6b3eb9e15101fb7ea/2740.jpeg"
+         "title" : "Barstool's Portnoy backs new BUZZ ETF - Fox Business",
+         "url" : "https://www.foxbusiness.com/markets/barstools-dave-portnoy-backs-new-buzz-etf",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/Dave-Portnoy.jpg?ve=1&tl=1"
       },
       {
          "author" : "Gene Maddaus",
@@ -51,19 +77,6 @@
          "title" : "Alamo Drafthouse Tried to Outlast the Pandemic But Ran Out of Time - Variety",
          "url" : "https://variety.com/2021/film/news/alamo-drafthouse-bankruptcy-pandemic-debt-tim-league-1234920895/",
          "urlToImage" : "https://variety.com/wp-content/uploads/2019/06/alamo-drafthouse-la.jpg?w=1000"
-      },
-      {
-         "author" : null,
-         "content" : "Elon Muskss Starship rocket has made its first test launch, flight and intact landing before suddenly exploding minutes later. After a delay to the initial flight, SN10 lifted off from Boca Chica, Teâ¦ [+329 chars]",
-         "description" : "Starship landed after three attempts before exploding on launch pad",
-         "publishedAt" : "2021-03-04T02:00:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "The Guardian"
-         },
-         "title" : "SpaceX's Starship SN10 rocket launches, lands, sits there, blows up â video - The Guardian",
-         "url" : "https://www.theguardian.com/science/video/2021/mar/04/spacexs-starship-sn10-rocket-launches-lands-sits-there-blows-up-video",
-         "urlToImage" : "https://i.guim.co.uk/img/media/54b34e14f21f61cab03346263e2d0eb587310f66/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5752f6b70465381e941cff7edb71e825"
       },
       {
          "author" : "Jordan Williams",
@@ -92,6 +105,19 @@
          "urlToImage" : "https://g.foolcdn.com/editorial/images/616529/market-down-gettyimages-638610308.jpg"
       },
       {
+         "author" : "Nathaniel Meyersohn, CNN Business",
+         "content" : null,
+         "description" : "Dollar Tree said Wednesday that it will open 600 new stores this year, continuing dollar chains' torrid growth across the United States.",
+         "publishedAt" : "2021-03-04T01:29:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Dollar Tree announces new stores as demand for discount retailers skyrockets - CNN ",
+         "url" : "https://www.cnn.com/2021/03/03/business/dollar-tree-new-stores-family-dollar/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210303144315-dollar-tree-store-file-restricted-super-tease.jpg"
+      },
+      {
          "author" : "Tyler Clifford",
          "content" : "The coronavirus pandemic pushed American businesses to leverage the internet to reach consumers and the same can be said for Wendy's.\r\nWith the help of its loyalty program, the fast-food chain's digiâ¦ [+1934 chars]",
          "description" : "Wendy's CEO Todd Penegor expects the breakfast menu to account for 10% of sales by the end of 2022.",
@@ -118,6 +144,19 @@
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106059254-1564982582811gettyimages-172196415.jpeg?v=1614770609"
       },
       {
+         "author" : "Blake Allen",
+         "content" : "Boneyard founder to get equity in Deschutes as part of the deal \r\nBEND, Ore. (KTVZ) -- In Bend, beer is big business, which is why a new business partnership announced Wednesday between Deschutes Breâ¦ [+1811 chars]",
+         "description" : "In Bend, beer is big business, which is why a new business partnership announced Wednesday between Deschutes Brewery and Boneyard Beer is big news.",
+         "publishedAt" : "2021-03-04T01:02:38Z",
+         "source" : {
+            "id" : null,
+            "name" : "KTVZ"
+         },
+         "title" : "It's big Bend beer news: Deschutes Brewery acquires the Boneyard Beer brand - KTVZ",
+         "url" : "https://ktvz.com/news/2021/03/03/its-big-bend-beer-news-deschutes-brewery-acquires-the-boneyard-beer-brand/",
+         "urlToImage" : "https://ktvz.b-cdn.net/2021/03/Boneyard-Beer-Deschutes-Brewery-cans.jpg"
+      },
+      {
          "author" : "Zachary Warmbrodt",
          "content" : "\"These businesses have been neglected for nearly a year,\" House Small Business Chair Nydia VelÃ¡zquez (D-N.Y.) told POLITICO. \"I committed to working with the Biden administration to spread these beneâ¦ [+4709 chars]",
          "description" : "The backlash is the latest in a series of controversies around the SBA's handling of the program.",
@@ -131,17 +170,56 @@
          "urlToImage" : "https://static.politico.com/11/93/489640f94023b0a10c1953ba7e60/210222-joe-biden2-getty-773.jpg"
       },
       {
-         "author" : "Gary  Harper",
-         "content" : "PHOENIX (3TV/CBS 5) -- Bob Kroener drives a lot and says every time he gets into his car, he has no idea what to expect anymore when it comes to gas prices.\r\n\"And I thought, 'What the hell is going oâ¦ [+2296 chars]",
-         "description" : "3 On Your Side found gas prices in the Valley hovering around $3.00 a gallon, and in many places, it was well over $3.00.",
-         "publishedAt" : "2021-03-04T00:30:00Z",
+         "author" : "Tsvetana Paraskova",
+         "content" : "Sign Up To Our Free Newsletter\r\nThanks for subscribing to our free newsletter!\r\nERROR\r\nNorth Sea oil and gasâ¦\r\nThe global oil market isâ¦\r\nThe appalling state of Ecuadorsâ¦\r\nBy Tsvetana Paraskova - Marâ¦ [+4446 chars]",
+         "description" : "The OPEC alliance has managed to restore balance in the oil markets, but the question remains U.S. shale drillers will manage to practice restraint as prices rise",
+         "publishedAt" : "2021-03-04T01:00:00Z",
          "source" : {
             "id" : null,
-            "name" : "AZFamily"
+            "name" : "OilPrice.com"
          },
-         "title" : "AAA: Several factors for higher Phoenix-area gas prices - AZFamily",
-         "url" : "https://www.azfamily.com/news/investigations/3_on_your_side/originals/aaa-several-factors-for-higher-phoenix-area-gas-prices/article_3f721b3a-7c62-11eb-b979-77f3992c5d38.html",
-         "urlToImage" : "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/5/ec/5ec9c379-161d-5abe-9e4c-b98b0d796b5e/604034adf0212.image.png?resize=1120%2C630"
+         "title" : "Will Private Shale Firms Crush The OPEC Oil Rally - OilPrice.com",
+         "url" : "https://oilprice.com/Energy/Crude-Oil/Will-Private-Shale-Firms-Crush-The-OPEC-Oil-Rally.html",
+         "urlToImage" : "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-03-03_p7n2ertuhw.jpg"
+      },
+      {
+         "author" : "Gary McWilliams",
+         "content" : "By Gary McWilliams\r\nHOUSTON (Reuters) - Texas' power grid operator on Wednesday cited 12 energy companies and two municipal utilities for failure to pay their bills for power and services during Febrâ¦ [+3300 chars]",
+         "description" : "Texas' power grid operator on Wednesday cited 12 energy companies and two municipal utilities for failure to pay their bills for power and services during...",
+         "publishedAt" : "2021-03-04T00:50:55Z",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "title" : "Texas begins naming electricity firms overdue on winter crisis bills - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/texas-begins-naming-electricity-firms-004615432.html",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/g2VZO9vAOTvam6PETeMQoA--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/e61d8093150bbc93cfcde1c3c81b2ed6"
+      },
+      {
+         "author" : "Kevin Mcgill",
+         "content" : "Roman Catholic leaders in St. Louis and New Orleans are advising Catholics that the COVID-19 vaccine from Johnson &amp; Johnson, newly approved for use in the U.S., is morally compromised because it â¦ [+4699 chars]",
+         "description" : "Catholic leaders in New Orleans and St. Louis are advising Catholics that the COVID-19 vaccine from Johnson & Johnson is âmorally compromisedâ becauseâ¦",
+         "publishedAt" : "2021-03-04T00:46:37Z",
+         "source" : {
+            "id" : null,
+            "name" : "NBC 6 South Florida"
+         },
+         "title" : "US Bishops Urge Catholics to Avoid âMorally Compromised' J&J Vaccine - NBC 6 South Florida",
+         "url" : "https://www.nbcmiami.com/news/national-international/us-bishops-urge-catholics-to-avoid-morally-compromised-jj-vaccine/5880851/",
+         "urlToImage" : "https://i2.wp.com/media.nbcmiami.com/2021/02/106841679-1613587165245-gettyimages-1230992791-PGONCHAR_3E1503JPG.jpeg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+      },
+      {
+         "author" : "TMZ Staff",
+         "content" : "Dr. Fauci is gonna sleep well tonight -- officials in Florida have determined Super Bowl LV was NOT a hotspot for COVID-19 ... with just 53 confirmed cases reported in the weeks following the game.\r\nâ¦ [+1359 chars]",
+         "description" : "Dr. Fauci is gonna sleep well tonight -- officials in Florida have determined Super Bowl LV was NOT a hotspot for COVID-19 ... with just 53 confirmed cases reported in the weeks following the game.",
+         "publishedAt" : "2021-03-04T00:28:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "TMZ"
+         },
+         "title" : "Super Bowl LV Was Not A COVID-19 Super-Spreader, Officials Say - TMZ",
+         "url" : "https://www.tmz.com/2021/03/03/super-bowl-lv-was-not-a-covid-19-super-spreader-officials-say/",
+         "urlToImage" : "https://imagez.tmz.com/image/2f/16by9/2021/03/03/2f2d32ab95b04e43be44059d4d0d8989_xl.jpg"
       },
       {
          "author" : null,
@@ -170,95 +248,17 @@
          "urlToImage" : "https://news.bitcoin.com/wp-content/uploads/2019/09/purpose-bitcoin-etf.jpg"
       },
       {
-         "author" : "Hideyuki Sano",
-         "content" : "TOKYO (Reuters) - Resurgent worries about rising U.S. bond yields hit global shares on Thursday as investors waited to see if Federal Reserve Chair Jerome Powell will address concerns about the risk â¦ [+3214 chars]",
-         "description" : "Resurgent worries about rising U.S. bond yields hit global shares on Thursday as investors waited to see if Federal Reserve Chair Jerome Powell will address concerns about the risk of a rapid rise in long-term borrowing costs.",
-         "publishedAt" : "2021-03-04T00:13:00Z",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "title" : "Rising bond yields spook world shares as investors look to Powell - Reuters",
-         "url" : "https://www.reuters.com/article/global-markets-int-idUSKCN2AW00G",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20210304&t=2&i=1553676990&r=LYNXNPEH2300D&w=800"
-      },
-      {
-         "author" : "Thomas Barrabi",
-         "content" : "FuboTV CEO David Gandler defended his streaming brandâs business outlook on Wednesday as shares plunged 18% following lukewarm earnings results and news that rival Dish Network has partnered with Draâ¦ [+2729 chars]",
-         "description" : "FuboTV CEO David Gandler defended his sports streaming brandâs business outlook on Wednesday as shares plunged 18% following lukewarm earnings results and news that rival Dish Network has partnered with DraftKings on an in-app betting partnership.",
-         "publishedAt" : "2021-03-03T23:45:26Z",
+         "author" : "Jessica D'Onofrio, Evelyn Holmes",
+         "content" : "CHICAGO (WLS) -- More help has arrived as Chicago continues its battle against the COVID-19 pandemic.The city of Chicago got over 22,000 doses of the Johnson &amp; Johnson vaccine Wednesday from the â¦ [+2770 chars]",
+         "description" : "Chicago got over 22,000 doses of the Johnson & Johnson vaccine from the CDC and is sending some of that supply to United Airlines and American Airlines workers at O'Hare.",
+         "publishedAt" : "2021-03-03T23:52:26Z",
          "source" : {
             "id" : null,
-            "name" : "Fox Business"
+            "name" : "WLS-TV"
          },
-         "title" : "DraftKings, Dish deal seen as bet against FuboTV as streamer's stock tumbles - Fox Business",
-         "url" : "https://www.foxbusiness.com/media/draftkings-dish-deal-seen-as-bet-against-fubotv-as-streamers-stock-tumbles",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/0/0/David-Gandler-Fubo-TV.jpg?ve=1&tl=1"
-      },
-      {
-         "author" : "Kevin Collier",
-         "content" : "The U.S. has issued an emergency warning after Microsoft said it caught China hacking into its mail and calendar server program, called Exchange.\r\nThe perpetrator, Microsoft said in a blog post, is aâ¦ [+2946 chars]",
-         "description" : "The U.S. has issued an emergency warning after Microsoft said it caught China hacking into its mail and calendar server program, called Exchange.",
-         "publishedAt" : "2021-03-03T23:33:00Z",
-         "source" : {
-            "id" : "nbc-news",
-            "name" : "NBC News"
-         },
-         "title" : "U.S. issues warning after Microsoft says China hacked its mail server program - NBC News",
-         "url" : "https://www.nbcnews.com/tech/security/u-s-issues-warning-after-microsoft-says-china-hacked-its-n1259522",
-         "urlToImage" : "https://media2.s-nbcnews.com/j/newscms/2021_09/3454205/210303-redmond-microsoft-campus-2014-ac-614p_026d181ef16ed0cf2c7dd84ca78ca55b.nbcnews-fp-1200-630.jpg"
-      },
-      {
-         "author" : "Ian Carlos Campbell",
-         "content" : "The differences between the two bags are bigger than the price\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.",
-         "description" : "Accessory maker Peak Design thinks Amazon copied its Everyday Sling bag, and the company made a video imagining how it happened. The bags share a name and several features, and Peak Design believes Amazon has infringed on its intellectual property.",
-         "publishedAt" : "2021-03-03T22:55:15Z",
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
-         "title" : "Peak Design claims Amazon copied its Everyday Sling bag - The Verge",
-         "url" : "https://www.theverge.com/2021/3/3/22311574/peak-design-video-amazon-copy-everyday-sling-bag",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/m96wNcv3CmtNy7J4nXYqKJlUQWE=/138x0:4783x2432/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22343026/Screen_Shot_2021_03_03_at_11.08.14_AM.png"
-      },
-      {
-         "author" : "Dina Bass",
-         "content" : "(Bloomberg) -- Okta Inc., a maker of identity-verification software, agreed to buy smaller rival Auth0 for about $6.5 billion in stock, seeking to solidify its position in the growing market for digiâ¦ [+2644 chars]",
-         "description" : "(Bloomberg) -- Okta Inc., a maker of identity-verification software, agreed to buy smaller rival Auth0 for about $6.5 billion in stock, seeking to solidify...",
-         "publishedAt" : "2021-03-03T22:35:28Z",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "title" : "Okta to Buy Security Software Maker Auth0 for $6.5 Billion - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/okta-acquire-security-software-maker-212702339.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/u8prmiC9FyjF1KnA6SNwgw--~B/aD0xMzM1O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_technology_68/fc8a732777c63a5c1b8a7afc3c549499"
-      },
-      {
-         "author" : null,
-         "content" : "According to CNBC, The Walt Disney Company is closing at least 20% of its brick-and-mortar stores by the end of the year, as its focus shifts more and more towards e-commerce. At least 60 out of 300 â¦ [+1408 chars]",
-         "description" : "According to CNBC, The Walt Disney Company is closing at least 20% of its brick-and-mortar stores by the end of the year, as its focus shifts more and more towards e-commerce.",
-         "publishedAt" : "2021-03-03T22:34:20Z",
-         "source" : {
-            "id" : null,
-            "name" : "wdwnt.com"
-         },
-         "title" : "Disney Closing at Least 20% of Physical Disney Stores, Focus Shifts to E-Commerce - wdwnt.com",
-         "url" : "https://wdwnt.com/2021/03/disney-closing-at-least-20-of-physical-disney-stores-as-e-commerce-increases/",
-         "urlToImage" : "https://sir.wdwnt.com/wdwnt.com/2020/05/disney-store-mall-of-america.png"
-      },
-      {
-         "author" : "Elana Dure",
-         "content" : "Dave Portnoy is promoting a new exchange-traded fund (ETF) focused on stocks with positive shareholder sentiment that is set to debut Thursday on the New York Stock Exchange\r\nPortnoy, the founder of â¦ [+1702 chars]",
-         "description" : "Dave Portnoy is promoting a new exchange-traded fund (ETF) focused on stocks with positive shareholder sentiment that is set to debut Thursday on the New York Stock Exchange.",
-         "publishedAt" : "2021-03-03T22:16:30Z",
-         "source" : {
-            "id" : null,
-            "name" : "Investopedia"
-         },
-         "title" : "Dave Portnoy Helps Launch New BUZZ ETF that Tracks Hyped Stocks - Investopedia",
-         "url" : "https://www.investopedia.com/dave-portnoy-helps-launch-new-buzz-etf-that-tracks-hyped-stocks-5115095",
-         "urlToImage" : "https://www.investopedia.com/thmb/RAEq1qXF-E2t14gL7s9jVV-5-Ik=/3000x2087/filters:fill(auto,1)/GettyImages-874170888-99d580ebeb6e430baa876e002271552f.jpg"
+         "title" : "COVID Vaccine: Wrigley Field could host mass vaccination site; Johnson & Johnson vaccine sent to United, American workers at O'Hare - WLS-TV",
+         "url" : "https://abc7chicago.com/covid-vaccine-illinois-wrigley-field-chicago-cubs/10385044/",
+         "urlToImage" : "https://cdn.abcotvs.com/dip/images/10386586_030321-wls-evelyn-wrigley-vax-4p-vid.jpg?w=1600"
       }
    ],
    "status" : "ok",
