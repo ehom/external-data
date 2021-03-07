@@ -1,6 +1,19 @@
 {
    "articles" : [
       {
+         "author" : "Alexis Benveniste, CNN Business",
+         "content" : null,
+         "description" : "It's been more than a year since Tesla unveiled the first version of its electric Cybertruck, but Tesla CEO Elon Musk said an updated version of the car might be coming soon.",
+         "publishedAt" : "2021-03-07T16:25:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Tesla is about to unveil an updated Cybertruck, Elon Musk says - CNN ",
+         "url" : "https://www.cnn.com/2021/03/07/business/tesla-cybertruck-elon-musk-update/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/191122092415-01-tesla-cybertruck-musk-1121-super-tease.jpg"
+      },
+      {
          "author" : "Peter S. Goodman, Alexandra Stevenson, Niraj Chokshi, Michael Corkery",
          "content" : "Pressure built as Americans refashioned their spending. Deprived of vacations and restaurant meals, they bought video game consoles and pastry mixers. They outfitted their homes for remote work and dâ¦ [+1388 chars]",
          "description" : "The pandemic has disrupted international trade, driving up the cost of shipping goods and adding a fresh challenge to the global economic recovery.",
@@ -12,6 +25,19 @@
          "title" : "âIâve Never Seen Anything Like Thisâ: Chaos Strikes Global Shipping - The New York Times",
          "url" : "https://www.nytimes.com/2021/03/06/business/global-shipping.html",
          "urlToImage" : "https://static01.nyt.com/images/2021/03/02/business/00Global-Shipping-Chaos1/00Global-Shipping-Chaos1-facebookJumbo.jpg"
+      },
+      {
+         "author" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "description" : null,
+         "publishedAt" : "2021-03-07T15:53:40Z",
+         "source" : {
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "title" : "Greensill Capital Chairman, Two Other Board Members Resign - Bloomberg",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=f897ef20-7f75-11eb-a0f4-d92d97b059c5&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMy0wNy9ncmVlbnNpbGwtY2FwaXRhbC1jaGFpcm1hbi1hbmQtdHdvLW90aGVyLWJvYXJkLW1lbWJlcnMtcmVzaWdu",
+         "urlToImage" : null
       },
       {
          "author" : "Juliet Eilperin, Eli Rosenberg",
@@ -27,17 +53,30 @@
          "urlToImage" : "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KMNNI4S3LAI6XKCJN6KCHJ277U.jpg&w=1440"
       },
       {
-         "author" : "Elizabeth Blackstock",
-         "content" : "Tesla launched its Full Self-Driving feature five months ago, which offers a bit of autonomous capabilities without actually being, yknow, full self-driving. The confusing name has resulted in some bâ¦ [+1576 chars]",
-         "description" : "Tesla launched its Full Self-Driving feature five months ago, which offers a bit of autonomous capabilities without actually being, yâknow, full self-driving. The confusing name has resulted in some bad behavior and dangerous driving. But instead of rethinkinâ¦",
-         "publishedAt" : "2021-03-07T15:00:00Z",
+         "author" : "Opinion Contributor",
+         "content" : "We can afford to raise the minimum wage. As part of his administration's bold COVID-19 relief package, President Joe Biden has promised to raise the federal minimum wage to $15 an hour. The trickle-dâ¦ [+4551 chars]",
+         "description" : "Critics say that raising the minimum wage would hurt business. I froze my executives' salaries to pay our employees $15 an hour and we're just fine.",
+         "publishedAt" : "2021-03-07T15:02:27Z",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "title" : "Raising the minimum wage to $15 an hour won't hurt businesses. My company is proof. - Business Insider",
+         "url" : "https://www.businessinsider.com/employees-15-minimum-wage-business-covid-19-relief-bill-2021-3",
+         "urlToImage" : "https://i.insider.com/604011372dc9010018355446?width=1200&format=jpeg"
+      },
+      {
+         "author" : null,
+         "content" : null,
+         "description" : "Jack Dorsey is the latest entrepreneur to jump on the non-fungible token ((NFT)) bandwagon, listing his first ever tweet for sale",
+         "publishedAt" : "2021-03-07T14:57:00Z",
          "source" : {
             "id" : null,
-            "name" : "Jalopnik"
+            "name" : "Seeking Alpha"
          },
-         "title" : "Elon Musk Supposedly Adding Full Self-Driving To Any Tesla Owner That Wants It - Jalopnik",
-         "url" : "https://jalopnik.com/elon-musk-supposedly-adding-full-self-driving-to-any-te-1846423764",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/vszg26xl7moltp7wy0os.jpg"
+         "title" : "Latest NFT craze? Jack Dorsey is selling his first tweet (NYSE:TWTR) - Seeking Alpha",
+         "url" : "https://seekingalpha.com/news/3670095-latest-nft-craze-jack-dorsey-is-selling-his-first-tweet",
+         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png"
       },
       {
          "author" : "Jamie Goldberg | The Oregonian/OregonLive",
@@ -53,17 +92,17 @@
          "urlToImage" : "https://www.oregonlive.com/resizer/CaZmTUjmFmPfm-omjDKW5Pj6Zb8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CCHTBFC2RVAMNBPETKX6H2DHAU.jpg"
       },
       {
-         "author" : "Katie Lobosco, CNN",
-         "content" : null,
-         "description" : "Some financially struggling Americans who owe back taxes will miss out on stimulus payments unless the Internal Revenue Service decides to change its rules.",
+         "author" : "Al Root",
+         "content" : "Tech disruption guru and ARK Investment founder Cathie Wood says her firm will put out a new price target for \r\n Tesla\r\n stock soon. No one knows exactly when, but when it arrives it will be a big deâ¦ [+3334 chars]",
+         "description" : "ARK Investment founder Cathie Wood says her new Tesla price target is coming soon. What will it be? Barron's hazards a back-of-the-envelope guess.",
          "publishedAt" : "2021-03-07T14:00:00Z",
          "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
+            "id" : null,
+            "name" : "Barron's"
          },
-         "title" : "Some struggling Americans aren't getting the stimulus payment they were promised. Here's why - CNN ",
-         "url" : "https://www.cnn.com/2021/03/07/politics/stimulus-payment-tax-credit-offset/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210113173026-us-stimulus-check---stock-super-tease.jpg"
+         "title" : "Cathie Wood Has a New Tesla Target Price Soon. Here's Where It Might Be. - Barron's",
+         "url" : "https://www.barrons.com/articles/cathie-wood-has-a-new-tesla-target-price-soon-heres-where-it-might-be-51615060166",
+         "urlToImage" : "https://images.barrons.com/im-298531/social"
       },
       {
          "author" : "Richard Rubin",
@@ -92,6 +131,19 @@
          "urlToImage" : null
       },
       {
+         "author" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "description" : null,
+         "publishedAt" : "2021-03-07T13:53:28Z",
+         "source" : {
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "title" : "Stimulus-Fueled Risk Bounce Likely to Come With Higher Yields - Bloomberg",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=01f3c200-7f77-11eb-a95f-2331eef98d12&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMy0wNy9zdGltdWx1cy1mdWVsZWQtcmlzay1ib3VuY2UtbGlrZWx5LXRvLWNvbWUtd2l0aC1oaWdoZXIteWllbGRz",
+         "urlToImage" : null
+      },
+      {
          "author" : "Tim Levin",
          "content" : "With plans to eliminate the country's carbon footprint by 2050, Joe Biden could easily be the greenest president in American history. But achieving such a flashy goal will involve plenty of work in mâ¦ [+8019 chars]",
          "description" : "There's one glaring problem facing mass adoption: few places to charge â and enticing companies to simply build new plugs is easier said than done.",
@@ -103,6 +155,19 @@
          "title" : "How Joe Biden can build 500,000 electric vehicle charging plugs by 2030 - Business Insider",
          "url" : "https://www.businessinsider.com/joe-biden-electric-vehicle-charging-stations-plan-industry-experts-2030-2021-3",
          "urlToImage" : "https://i.insider.com/6042a8ac44d8e300117b9655?width=1200&format=jpeg"
+      },
+      {
+         "author" : "Hanna Ziady, CNN Business",
+         "content" : null,
+         "description" : "It's been nearly a year since the coronavirus pandemic ended the S&P 500's longest-ever bull run and sent stocks everywhere into a violent nosedive. The turmoil was a fitting start to a year of frenzied activity.",
+         "publishedAt" : "2021-03-07T13:32:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "It's been a year since markets crashed. Is another reckoning around the corner? - CNN",
+         "url" : "https://www.cnn.com/2021/03/07/investing/stocks-week-ahead/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210304184909-01-stock-markets-in-march-2020-super-tease.jpg"
       },
       {
          "author" : "Keith Noonan",
@@ -131,6 +196,19 @@
          "urlToImage" : "https://storage.googleapis.com/afs-prod/media/f2a4bead6a1147e4b8c79830a703b48b/3000.jpeg"
       },
       {
+         "author" : "CIN Staff",
+         "content" : "Here are the main moves that have taken place for Norwegian Cruise Line since March 2020:\r\nUnaffected OrderbookÂ  \r\nIn May, Norwegian said that delays in newbuild deliveries are to be expected due to â¦ [+2137 chars]",
+         "description" : "Here are the main moves that have taken place for Norwegian Cruise Line since March 2020: Unaffected Orderbook In May, Norwegian said that delays in newbui...",
+         "publishedAt" : "2021-03-07T12:06:30Z",
+         "source" : {
+            "id" : null,
+            "name" : "Cruise Industry News"
+         },
+         "title" : "Norwegian Cruise Line Status Update - Cruise Industry News",
+         "url" : "https://www.cruiseindustrynews.com/cruise-news/24490-norwegian-cruise-line-status-update.html",
+         "urlToImage" : "https://www.cruiseindustrynews.com/images/stories/wire/2019/august/ncl_joy_seattle.jpg"
+      },
+      {
          "author" : "Investing.com",
          "content" : "By Barani Krishnan\r\nInvesting.com -- A year ago, Prince Abdulaziz bin Salman lamented that psychological factors and extremely negative expectations were hampering the oil market despite very limitedâ¦ [+10285 chars]",
          "description" : "Energy & Precious Metals - Weekly Review and Calendar Ahead",
@@ -157,32 +235,6 @@
          "urlToImage" : "https://media.npr.org/assets/img/2021/03/05/gettyimages-631589550_wide-a48218586889261640215456331aa6eae5c35d15.jpg?s=1400"
       },
       {
-         "author" : "Adriana Diaz",
-         "content" : "President Joe Biden's promise, that 100 million Americans would be vaccinated in his first 100 days in office, is close to completion. This week, the Johnson &amp; Johnson vaccine rollout added to thâ¦ [+1665 chars]",
-         "description" : "The first shipment of the vaccine read, \"1st J&J pack out â get healthy.\"",
-         "publishedAt" : "2021-03-07T11:56:00Z",
-         "source" : {
-            "id" : "cbs-news",
-            "name" : "CBS News"
-         },
-         "title" : "First batch of Johnson & Johnson vaccines come with uplifting messages - CBS News",
-         "url" : "https://www.cbsnews.com/news/covid-vaccine-johnson-johnson-uplifting-messages/",
-         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/06/a42542a9-0da3-4c29-8651-1ff6f3e79d8c/thumbnail/1200x630/d1163a56aea82d120ab86bf99fbe515f/gettyimages-1231456793.jpg"
-      },
-      {
-         "author" : "Investing.com",
-         "content" : "By Noreen Burke\r\nInvesting.com -- Investors will be closely watching the progress of President Joe Biden's $1.9 trillion pandemic relief plan through Congress this week against a backdrop of concern â¦ [+4245 chars]",
-         "description" : "Top 5 Things to Watch in Markets in the Week Ahead",
-         "publishedAt" : "2021-03-07T11:49:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Investing.com"
-         },
-         "title" : "Top 5 Things to Watch in Markets in the Week Ahead By Investing.com - Investing.com",
-         "url" : "https://www.investing.com/news/economy/top-5-things-to-watch-in-markets-in-the-week-ahead-2439393",
-         "urlToImage" : "https://i-invdn-com.akamaized.net/news/WallStreet_800x533_L_1598330329.jpg"
-      },
-      {
          "author" : "Michael Shields, Ludwig Burger",
          "content" : "ZURICH (Reuters) - Austrian authorities have suspended inoculations with a batch of AstraZenecas COVID-19 vaccine as a precaution while investigating the death of one person and the illness of anotheâ¦ [+2401 chars]",
          "description" : "Austrian authorities have suspended inoculations with a batch of AstraZeneca's COVID-19 vaccine as a precaution while investigating the death of one person and the illness of another after the shots, a health agency said on Sunday.",
@@ -207,58 +259,6 @@
          "title" : "Powell's Dashboard Shows How Far U.S. Economy Has to Go on Jobs - Bloomberg",
          "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=59396750-7f44-11eb-a44f-69b168d08c5e&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMy0wNy9wb3dlbGwtcy1kYXNoYm9hcmQtc2hvd3MtaG93LWZhci11LXMtZWNvbm9teS1oYXMtdG8tZ28tb24tam9icw==",
          "urlToImage" : null
-      },
-      {
-         "author" : "Sarah Krouse",
-         "content" : "Large employers, from the meatpacking industry to airlines and pharmaceutical companies, are getting permission from public-health officials to administer Covid-19 vaccines, hoping to speed up inoculâ¦ [+8029 chars]",
-         "description" : "Drugmakers, food companies and airlines join the race for scarce doses, offering Covid-19 inoculations at work",
-         "publishedAt" : "2021-03-07T10:30:00Z",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "title" : "Having Trouble Getting the Covid Vaccine? Your Company Might Soon Offer It. - The Wall Street Journal",
-         "url" : "https://www.wsj.com/articles/having-trouble-getting-the-covid-vaccine-your-company-might-soon-offer-it-11615113001",
-         "urlToImage" : "https://images.wsj.net/im-307429/social"
-      },
-      {
-         "author" : "Nora Naughton",
-         "content" : "Car dealer Brad Sowers is spending money to prepare for the coming wave of new electric models from General Motors Co. He is installing charging stations, upgrading service bays and retraining staff â¦ [+5995 chars]",
-         "description" : "Car dealers say they are struggling to square the industryâs enthusiasm with shoppersâ reality",
-         "publishedAt" : "2021-03-07T10:30:00Z",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "title" : "Electric Vehicles Are the U.S. Auto Industryâs FutureâIf Dealers Can Figure Out How to Sell Them - The Wall Street Journal",
-         "url" : "https://www.wsj.com/articles/electric-vehicles-are-the-u-s-auto-industrys-futureif-dealers-can-figure-out-how-to-sell-them-11615113000",
-         "urlToImage" : "https://images.wsj.net/im-308447/social"
-      },
-      {
-         "author" : "Akane Otani",
-         "content" : "A year ago, the longest-ever bull market ended.\r\nThe comeback in the stock market since then has been nothing short of astounding.\r\nThe S&amp;P 500 took just 126 trading days to swing from a record tâ¦ [+758 chars]",
-         "description" : "Money managers reflect on what the ups and downs of 2020-2021 have taught them",
-         "publishedAt" : "2021-03-07T10:30:00Z",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "title" : "Covid-19 Crashed the Stock Market a Year Ago. Here Are Some Lessons Learned. - The Wall Street Journal",
-         "url" : "https://www.wsj.com/articles/covid-19-crashed-the-stock-market-a-year-ago-here-are-some-lessons-learned-11615113001",
-         "urlToImage" : "https://images.wsj.net/im-308002/social"
-      },
-      {
-         "author" : "Sam Gringlas",
-         "content" : "A store in New York City stands closed on April 21, 2020. A year after the pandemic started to spread, millions of Americans are still unemployed.\r\nSpencer Platt/Getty Images\r\nJanitor Gloria Espinozaâ¦ [+4469 chars]",
-         "description" : "Millions who lost jobs at the beginning of the pandemic are still out of the labor force, making up levels not seen since the Great Recession.",
-         "publishedAt" : "2021-03-07T10:00:27Z",
-         "source" : {
-            "id" : null,
-            "name" : "NPR"
-         },
-         "title" : "'Why Us?': A Year After Being Laid Off, Millions Are Still Unemployed - NPR",
-         "url" : "https://www.npr.org/2021/03/07/974079769/why-us-a-year-after-being-laid-off-millions-are-still-unemployed",
-         "urlToImage" : "https://media.npr.org/assets/img/2021/03/06/gettyimages-1220183420_wide-34cc1b902ac72b64e872c685d3c45f6f86d43cbf.jpg?s=1400"
       }
    ],
    "status" : "ok",
