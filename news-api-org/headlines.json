@@ -1,6 +1,45 @@
 {
    "articles" : [
       {
+         "author" : "Dan Goodin",
+         "content" : "19 with 18 posters participating\r\nHackers say they broke into the network of Silicon Valley startup Verkada and gained access to live video feeds from more than 150,000 surveillance cameras the compaâ¦ [+2433 chars]",
+         "description" : "Cloud-based camera service Verkada exposed hardcoded passwordâand its customers.",
+         "publishedAt" : "2021-03-10T05:15:15Z",
+         "source" : {
+            "id" : "ars-technica",
+            "name" : "Ars Technica"
+         },
+         "title" : "Hackers access security cameras inside Cloudflare, jails, and hospitals - Ars Technica",
+         "url" : "https://arstechnica.com/information-technology/2021/03/hackers-access-security-cameras-inside-cloudflare-jails-and-hospitals/",
+         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2021/03/security-camera-760x380.jpg"
+      },
+      {
+         "author" : "Tracie Snowder, KSL.com",
+         "content" : "SALT LAKE CITY In anticipation of Utah's mask mandate ending April 10, the state is planning on making vaccines available to every adult in Utah by April 1, according to a statement from Gov. Spencerâ¦ [+1891 chars]",
+         "description" : "In anticipation of Utah's mask mandate ending April 10, the state is planning on making vaccines available to every adult in Utah by April 1.",
+         "publishedAt" : "2021-03-10T04:58:56Z",
+         "source" : {
+            "id" : null,
+            "name" : "KSL.com"
+         },
+         "title" : "Utah plans on opening vaccine eligibility to every adult by April 1, governor's office says - KSL.com",
+         "url" : "https://www.ksl.com/article/50122594/utah-plans-on-opening-vaccine-eligibility-to-every-adult-by-april-1-governors-office-says",
+         "urlToImage" : "https://img.ksl.com/slc/2808/280897/28089778.jpeg?filter=ksl/responsive_story_lg"
+      },
+      {
+         "author" : "https://www.facebook.com/jostrower/",
+         "content" : "Purchase and download a copy of this articleSir Tim Clark is worried about Boeing.\r\nIn an exclusive interview with The Air Current Tuesday morning, the longtime President of Emirates airline offered â¦ [+2000 chars]",
+         "description" : "âThe wake up call of the Max was something that told them that all was not right.â",
+         "publishedAt" : "2021-03-10T04:45:12Z",
+         "source" : {
+            "id" : null,
+            "name" : "The Air Current"
+         },
+         "title" : "Emirates' Tim Clark says Boeing 'not getting it' on 737 Max, 787 - The Air Current",
+         "url" : "https://theaircurrent.com/industry-strategy/emirates-tim-clark-says-boeing-not-getting-it-on-737-max-787/",
+         "urlToImage" : "https://theaircurrent.com/wp-content/uploads/2021/03/tim-clark-1000th-777-presser-2012-jdl-1024x675.jpg"
+      },
+      {
          "author" : null,
          "content" : "Iowa athletic director Gary Barta apologized to the family of Hawkeyes basketball great Roy Marble on Tuesday for any hard feelings they have over the retirement of star player Luka Garza's number.\r\nâ¦ [+2650 chars]",
          "description" : "Iowa athletic director Gary Barta apologized to the family of Hawkeyes basketball great Roy Marble on Tuesday for any hard feelings they have over the retirement of star player Luka Garza's number.",
@@ -14,17 +53,17 @@
          "urlToImage" : "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1223%2Fr793806_1296x729_16%2D9.jpg"
       },
       {
-         "author" : "Bloomberg News",
-         "content" : "(Bloomberg) -- Brazil reported a record number of Covid-19 deaths, while New Zealand, a world leader in its pandemic response, released plans for a targeted rollout of vaccines over the next few montâ¦ [+11497 chars]",
-         "description" : "(Bloomberg) -- Brazil reported a record number of Covid-19 deaths, while New Zealand, a world leader in its pandemic response, released plans for a targeted ...",
-         "publishedAt" : "2021-03-10T03:45:00Z",
+         "author" : "Reuters",
+         "content" : "Chevron CorpÂ on Tuesday outlined a plan to expand oil and gas production through 2025, but without spending significantly more, and pledged to limit the pace of growth of its carbon emissions.\r\nFalliâ¦ [+3910 chars]",
+         "description" : "Chevron Corp on Tuesday outlined a plan to expand oil and gas production through 2025, but without spending significantly more, and pledged to limit the pace of growth of its carbon emissions.",
+         "publishedAt" : "2021-03-10T03:32:09Z",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "Fox Business"
          },
-         "title" : "New Zealandâs Vaccine Plan; Global Passport Push: Virus Update - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/biontech-sees-higher-dose-capacity-230204980.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/tyKG.Fxe6tjP.D9CjSnB9A--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/52be6c693bb6b3c96a083832e2450e05"
+         "title" : "Chevron vows to slow carbon emissions, raise oil output with modest spending - Fox Business",
+         "url" : "https://www.foxbusiness.com/industrials/chevron-vows-to-slow-carbon-emissions-raise-oil-output-with-modest-spending",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/chevron-iStock.jpg?ve=1&tl=1"
       },
       {
          "author" : "Jeff Manning | The Oregonian/OregonLive",
@@ -38,19 +77,6 @@
          "title" : "Executive changes announced at Nike after reseller flap - OregonLive",
          "url" : "https://www.oregonlive.com/business/2021/03/executive-changes-announced-at-nike-after-reseller-flap.html",
          "urlToImage" : "https://www.oregonlive.com/resizer/osLYLQ_O-hwPxgHusKu6yv0r6GE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/34EFJY2RG5EFFNQ23XEJCZOV4E.jpg"
-      },
-      {
-         "author" : "Reuters",
-         "content" : "By Hideyuki Sano and Matt Scuffham\r\nTOKYO/NEW YORK (Reuters) - Asian stocks bounced back from a two-month low on Wednesday after bond yields eased following a well-received auction and as Chinese shaâ¦ [+3235 chars]",
-         "description" : "Asian stocks bounce off 2-month low as bonds, China markets steady",
-         "publishedAt" : "2021-03-10T03:15:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Investing.com"
-         },
-         "title" : "Asian stocks bounce off 2-month low as bonds, China markets steady By Reuters - Investing.com",
-         "url" : "https://www.investing.com/news/economy/asian-stocks-set-to-follow-wall-street-rally-but-china-worries-grow-2441944",
-         "urlToImage" : "https://i-invdn-com.akamaized.net/news/indicatornews_3_800x533_L_1412601605.jpg"
       },
       {
          "author" : "Hyunjoo Jin",
@@ -77,19 +103,6 @@
          "title" : "Lucid, Long Before SPAC, Promised to Build Saudi Auto Plant - The Wall Street Journal",
          "url" : "https://www.wsj.com/articles/lucid-long-before-spac-promised-to-build-saudi-auto-plant-11615340681",
          "urlToImage" : "https://images.wsj.net/im-308846/social"
-      },
-      {
-         "author" : "Joe Tenebruso",
-         "content" : "What happened\r\nShares of GameStop (NYSE:GME) surged 27% on Tuesday, furthering the stock's sharp rise this week.\r\nSo what\r\nGameStop said on Monday that its board of directors created a \"Strategic Plaâ¦ [+1669 chars]",
-         "description" : "The video game retailer wants to become a tech company.",
-         "publishedAt" : "2021-03-10T02:41:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "title" : "Why GameStop Stock Soared Today - Motley Fool",
-         "url" : "https://www.fool.com/investing/2021/03/09/why-gamestop-stock-soared-today/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/617388/growth-gettyimages-1135598290.jpg"
       },
       {
          "author" : "Andrew Keshner",
@@ -132,16 +145,16 @@
       },
       {
          "author" : null,
-         "content" : null,
-         "description" : null,
-         "publishedAt" : "2021-03-10T01:51:22Z",
+         "content" : "Update: An earlier version of this story that said that indoor dining could reopen as soon as this weekend.\r\nLos Angeles County is likely to move into a less restrictive tier of California's three-tiâ¦ [+3750 chars]",
+         "description" : "A large group of media professionals got a hold of the registration link and booked more than 900 of the 1,500 available appointments.",
+         "publishedAt" : "2021-03-10T01:55:00Z",
          "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
+            "id" : null,
+            "name" : "LAist"
          },
-         "title" : "Authorities pursue driver in Diamond Bar area - KTLA 5",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cjdxLWFoRm5zS1nSAQA?oc=5",
-         "urlToImage" : null
+         "title" : "Pasadena To Reschedule Vaccinations After Line Jumpers Took Hundreds Of Appointments - LAist",
+         "url" : "https://laist.com/latest/post/20210309/pasadena-vaccine-clinic-canceled-line-jumpers",
+         "urlToImage" : "https://laistassets.scprdev.org/i/0d377bf3109a865e20023f38baeb0f4a/5fe247503d7c92000901a81a-eight.jpg"
       },
       {
          "author" : null,
@@ -155,6 +168,19 @@
          "title" : "List of Disney Stores Closing By March 23 - Inside the Magic",
          "url" : "https://insidethemagic.net/2021/03/disney-stores-closing-rwb1-2/",
          "urlToImage" : "https://insidethemagic-119e2.kxcdn.com/wp-content/uploads/2018/01/press_kit_franchises_disney_store_banner_090717.jpg"
+      },
+      {
+         "author" : "Heather Navarro",
+         "content" : "A driver leading a multi-county chase after a hit-and-run involving a deputy vehicle treated a Diamond Bar roadway like a demolition derby, smashing into unsuspecting drivers before getting trapped bâ¦ [+1024 chars]",
+         "description" : "A driver was leading authorities on a chase in Orange County Tuesday, the Los Angeles County Sheriffâs Department confirmed.",
+         "publishedAt" : "2021-03-10T01:19:52Z",
+         "source" : {
+            "id" : null,
+            "name" : "NBC Southern California"
+         },
+         "title" : "Driver Wanted in Deputy Hit-and-Run Smashes Into Unsuspecting Drivers on Diamond Bar Streets - NBC Southern California",
+         "url" : "https://www.nbclosangeles.com/news/local/driver-leads-pursuit-in-orange-county/2545995/",
+         "urlToImage" : "https://i1.wp.com/media.nbclosangeles.com/2021/03/Screen-Shot-2021-03-09-at-4.03.33-PM-1.png?quality=85&resize=1200%2C675&strip=all&ssl=1"
       },
       {
          "author" : null,
@@ -183,17 +209,17 @@
          "urlToImage" : "https://krdo.b-cdn.net/2021/03/drake-power-plant-Cropped.png"
       },
       {
-         "author" : "Lucas Ropek",
-         "content" : "A hacker group claims to have broken into the networks of cloud-based surveillance startup Verkada, gaining unfiltered access to thousands and thousands of live security camera feeds in the process.\râ¦ [+3424 chars]",
-         "description" : "A hacker group claims to have broken into the networks of a cloud-based surveillance startup.",
-         "publishedAt" : "2021-03-10T00:45:00Z",
+         "author" : "Mike Murphy",
+         "content" : "Shares of GameStop Corp. shot higher again Tuesday, closing at its highest point since the end of January and pushing its market cap back above $17 billion.\r\nAfter plunging about 90% from its highs oâ¦ [+1136 chars]",
+         "description" : "GameStop up 108% in past week after Chewy co-founder Ryan Cohen joins new strategy committee",
+         "publishedAt" : "2021-03-10T00:49:00Z",
          "source" : {
             "id" : null,
-            "name" : "Gizmodo.com"
+            "name" : "MarketWatch"
          },
-         "title" : "Hackers Target Surveillance Firm, Exposing 150,000 Live Camera Feeds in Hospitals, Jails, and Tesla - Gizmodo",
-         "url" : "https://gizmodo.com/hackers-target-surveillance-firm-exposing-150-000-live-1846442902",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bl03ovgxmqwqliddewvm.jpg"
+         "title" : "GameStop stock surges to highest point since January, market cap tops $17 billion - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/gamestop-stock-surges-to-highest-point-since-january-market-cap-tops-17-billion-11615337376",
+         "urlToImage" : "https://images.mktw.net/im-296196/social"
       },
       {
          "author" : null,
@@ -207,19 +233,6 @@
          "title" : "New owner Buzzfeed lays off 45 from HuffPost newsroom - The Associated Press",
          "url" : "https://apnews.com/article/media-layoffs-us-news-e9535c28cc6542c13fc189e4f0dc4c69",
          "urlToImage" : "https://storage.googleapis.com/afs-prod/media/c115e138192e42558cedea2f0dc30730/3000.jpeg"
-      },
-      {
-         "author" : "Investor's Business Daily",
-         "content" : "Dow Jones futures were little changed late Tuesday, along with S&amp;P 500 futures and Nasdaq futures, with the House set to give final passage to the $1.9 trillion Biden stimulus bill. The stock marâ¦ [+9406 chars]",
-         "description" : "Dow Jones futures: The Nasdaq and Tesla led Tuesday's stock market rally, but wait for this signal. The House votes Wednesday on the Biden stimulus bill.",
-         "publishedAt" : "2021-03-10T00:22:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
-         "title" : "Dow Jones Futures: Nasdaq Leads As Tesla, Nio Soar, But Wait For This; Final Biden Stimulus Vote On Tap - Investor's Business Daily",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-stock-market-rally-tesla-nio-nvidia-soar-biden-stimulus-vote/",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/02/stock-capital-hill-redSky-01-shutter.jpg"
       },
       {
          "author" : "Barbara Barr",
@@ -246,19 +259,6 @@
          "title" : "Money launderers 'prey on generation Covid' - BBC News",
          "url" : "https://www.bbc.com/news/business-56334862",
          "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/866A/production/_117201443_gettyimages-915806412.jpg"
-      },
-      {
-         "author" : "Zachary Warmbrodt",
-         "content" : "The concerns have gone unaddressed by Biden administration officials and lawmakers who have been focused on Democrats' $1.9 trillion relief bill, which includes another $7 billion for the PPP but wouâ¦ [+7383 chars]",
-         "description" : "The crunch comes just days after the Biden administration unveiled new rules designed to help self-employed businesses gain access to the program and qualify for more aid.",
-         "publishedAt" : "2021-03-09T23:49:23Z",
-         "source" : {
-            "id" : "politico",
-            "name" : "Politico"
-         },
-         "title" : "Biden pressed by banks to extend loan program as expiration looms - POLITICO",
-         "url" : "https://www.politico.com/news/2021/03/09/biden-banks-ppp-loans-474871",
-         "urlToImage" : "https://static.politico.com/62/b0/cbfc08b24f8fbeb316fd6c857acd/3-9-21-bank-of-america-ap-773.jpg"
       }
    ],
    "status" : "ok",
