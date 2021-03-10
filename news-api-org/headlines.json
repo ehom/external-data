@@ -1,6 +1,32 @@
 {
    "articles" : [
       {
+         "author" : null,
+         "content" : null,
+         "description" : null,
+         "publishedAt" : "2021-03-10T01:05:47Z",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "title" : "Experimental Covid-19 pill shows promise in preliminary testing - CNBC Television",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bUJPUE5VS19hcEnSAQA?oc=5",
+         "urlToImage" : null
+      },
+      {
+         "author" : "Mike Murphy",
+         "content" : "Shares of GameStop Corp. shot higher again Tuesday, closing at its highest point since the end of January and pushing its market cap back above $17 billion.\r\nAfter plunging about 90% from its highs oâ¦ [+1136 chars]",
+         "description" : "GameStop up 108% in past week after Chewy co-founder Ryan Cohen joins new strategy committee",
+         "publishedAt" : "2021-03-10T00:49:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "MarketWatch"
+         },
+         "title" : "GameStop stock surges to highest point since January, market cap tops $17 billion - MarketWatch",
+         "url" : "https://www.marketwatch.com/story/gamestop-stock-surges-to-highest-point-since-january-market-cap-tops-17-billion-11615337376",
+         "urlToImage" : "https://images.mktw.net/im-296196/social"
+      },
+      {
          "author" : "Investor's Business Daily",
          "content" : "Dow Jones futures were little changed late Tuesday, along with S&amp;P 500 futures and Nasdaq futures, with the House set to give final passage to the $1.9 trillion Biden stimulus bill. The stock marâ¦ [+9406 chars]",
          "description" : "Dow Jones futures: The Nasdaq and Tesla led Tuesday's stock market rally, but wait for this signal. The House votes Wednesday on the Biden stimulus bill.",
@@ -14,17 +40,43 @@
          "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/02/stock-capital-hill-redSky-01-shutter.jpg"
       },
       {
-         "author" : "KTLA Digital Staff",
-         "content" : "Authorities were in a standoff Tuesday afternoon after chasing a driver wanted for a crash involving a deputy in the Walnut area, officials said.\r\nSky5 was above the chase as the red sedan made its wâ¦ [+975 chars]",
-         "description" : "Authorities were in a standoff Tuesday afternoon after chasing a driver wanted for a crash involving a deputy in the Walnut area, officials said. Sky5 was above the chase as the red sedan made its way to Diamond Bar around 3:55 p.m. and several Los Angeles Coâ¦",
-         "publishedAt" : "2021-03-09T23:52:07Z",
+         "author" : "Barbara Barr",
+         "content" : "LANCASTER, Pa. âHundreds of people are expected to get the COVID-19 vaccine on Wednesday when Lancaster County opens its mass vaccination center at the former Bon-Ton at Park City Center.\r\nMembers ofâ¦ [+1338 chars]",
+         "description" : "The first 500 people to get an appointment were chosen at random from the 33,000 who registered.",
+         "publishedAt" : "2021-03-10T00:01:00Z",
          "source" : {
             "id" : null,
-            "name" : "KTLA Los Angeles"
+            "name" : "WGAL Susquehanna Valley Pa."
          },
-         "title" : "Authorities in standoff after chasing vehicle in Diamond Bar - KTLA Los Angeles",
-         "url" : "https://ktla.com/news/local-news/authorities-chase-vehicle-in-chino-area/",
-         "urlToImage" : "https://ktla.com/wp-content/uploads/sites/4/2021/03/snapshot-25.jpg?w=1280"
+         "title" : "Lancaster County mass vaccination site opens Wednesday - WGAL Susquehanna Valley Pa.",
+         "url" : "https://www.wgal.com/article/lancaster-county-mass-covid-19-vaccination-site-opens-wednesday/35787699",
+         "urlToImage" : "https://kubrick.htvapps.com/vidthumb/images/lancaster-county-mass-vaccination-site-1615330761.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+      },
+      {
+         "author" : "https://www.facebook.com/bbcnews",
+         "content" : "By Kevin PeacheyPersonal finance correspondent, BBC News\r\nimage copyrightUK Finance\r\nimage captionCriminals target those who are financially stretched\r\nCriminals are seizing on young people's Covid-râ¦ [+3041 chars]",
+         "description" : "Promises via social media to make \"quick cash\" are attracting those struggling for work, banks say.",
+         "publishedAt" : "2021-03-10T00:00:32Z",
+         "source" : {
+            "id" : null,
+            "name" : "BBC News"
+         },
+         "title" : "Money launderers 'prey on generation Covid' - BBC News",
+         "url" : "https://www.bbc.com/news/business-56334862",
+         "urlToImage" : "https://ichef.bbci.co.uk/news/1024/branded_news/866A/production/_117201443_gettyimages-915806412.jpg"
+      },
+      {
+         "author" : "Zachary Warmbrodt",
+         "content" : "The concerns have gone unaddressed by Biden administration officials and lawmakers who have been focused on Democrats' $1.9 trillion relief bill, which includes another $7 billion for the PPP but wouâ¦ [+7383 chars]",
+         "description" : "The crunch comes just days after the Biden administration unveiled new rules designed to help self-employed businesses gain access to the program and qualify for more aid.",
+         "publishedAt" : "2021-03-09T23:49:23Z",
+         "source" : {
+            "id" : "politico",
+            "name" : "Politico"
+         },
+         "title" : "Biden pressed by banks to extend loan program as expiration looms - POLITICO",
+         "url" : "https://www.politico.com/news/2021/03/09/biden-banks-ppp-loans-474871",
+         "urlToImage" : "https://static.politico.com/62/b0/cbfc08b24f8fbeb316fd6c857acd/3-9-21-bank-of-america-ap-773.jpg"
       },
       {
          "author" : null,
@@ -53,17 +105,43 @@
          "urlToImage" : "https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/ark_invest.jpg"
       },
       {
-         "author" : "Jordan Novet",
-         "content" : "One week ago, Microsoft disclosed that Chinese hackers were gaining access to organizations' email accounts through vulnerabilities in its Exchange Server email software and issued security patches. â¦ [+6960 chars]",
-         "description" : "The Microsoft Exchange Server vulnerability and exploitation by Chinese hackers could spur organizations to increase security spending and move to cloud email.",
-         "publishedAt" : "2021-03-09T23:20:00Z",
+         "author" : null,
+         "content" : null,
+         "description" : "With Roblox (RBLX) set to begin trading Wednesday through a direct listing rather than a traditional initial public offering, the NYSE has set a reference price of $45/share",
+         "publishedAt" : "2021-03-09T23:30:00Z",
          "source" : {
             "id" : null,
-            "name" : "CNBC"
+            "name" : "Seeking Alpha"
          },
-         "title" : "Microsoft's big email hack: What happened, who did it, and why it matters - CNBC",
-         "url" : "https://www.cnbc.com/2021/03/09/microsoft-exchange-hack-explained.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106422502-1583257999933gettyimages-1195121317.jpeg?v=1615329719"
+         "title" : "NYSE sets Roblox reference price at $45/share - Seeking Alpha",
+         "url" : "https://seekingalpha.com/news/3671002-nyse-sets-roblox-reference-price-at-45-share",
+         "urlToImage" : "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png"
+      },
+      {
+         "author" : "Aidin Vaziri, Matthias Gafni",
+         "content" : "Solano and Alameda counties on Tuesday were cleared to move into the red tier, the second-most-restrictive category of Californiaâs reopening system.With the move out of the most restrictive purple tâ¦ [+6406 chars]",
+         "description" : "Solano and Alameda counties will move out of the purple tier, the most restrictive...",
+         "publishedAt" : "2021-03-09T23:24:27Z",
+         "source" : {
+            "id" : null,
+            "name" : "San Francisco Chronicle"
+         },
+         "title" : "Solano and Alameda counties to move to red tier of Californiaâs reopening: âItâs a big dealâ - San Francisco Chronicle",
+         "url" : "https://www.sfchronicle.com/local/article/Solano-and-Alameda-counties-to-move-to-red-tier-16012388.php",
+         "urlToImage" : "https://s.hdnux.com/photos/01/16/26/20/20538382/9/rawImage.jpg"
+      },
+      {
+         "author" : "Bradford Betz",
+         "content" : "Though 2020 was a year most people would like to forget, many Americans managed to significantly cut credit card debt. \r\nAccording to a study released Monday from WalletHub, a personal finance websitâ¦ [+1215 chars]",
+         "description" : "Though 2020 was a year most people would like to forget, many Americans managed to significantly cut credit card debt.",
+         "publishedAt" : "2021-03-09T23:14:20Z",
+         "source" : {
+            "id" : null,
+            "name" : "Fox Business"
+         },
+         "title" : "Americans cut credit card debt by nearly $83B during pandemic - Fox Business",
+         "url" : "https://www.foxbusiness.com/economy/americans-cut-credit-card-debt-by-nearly-83b-during-pandemic",
+         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/0/0/Credit-Cards-iStock.jpg?ve=1&tl=1"
       },
       {
          "author" : "Jeff Cox",
@@ -92,6 +170,19 @@
          "urlToImage" : "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-4680-Battery-cell-hero-e1603050647892.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
       },
       {
+         "author" : "Ashok Selvam",
+         "content" : null,
+         "description" : "The âDiners, Drive-Ins, and Divesâ host opens locations in Lombard, Wheeling, and Orland Park",
+         "publishedAt" : "2021-03-09T22:48:35Z",
+         "source" : {
+            "id" : null,
+            "name" : "Eater"
+         },
+         "title" : "Guy Fieri Debuts His Flavortown Delivery-Only Restaurants in Chicago's Suburbs - Eater Chicago",
+         "url" : "https://chicago.eater.com/2021/3/9/22321911/guy-fieri-delivery-flavortown-chicago-suburbs",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/4yz3E6Fc0I12umgCTKczofxWuww=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22358054/1213732915.jpg"
+      },
+      {
          "author" : "Adam Gabbatt",
          "content" : "The news website BuzzFeed has laid off 47 HuffPost workers in the US, the majority of them journalists, and closed down HuffPosts Canadian operation, reportedly without warning to staff, less than a â¦ [+3150 chars]",
          "description" : "Jonah Peretti announced move in staff meeting on Tuesday while HuffPostâs Canada operation was also closed",
@@ -118,45 +209,6 @@
          "urlToImage" : "https://cdn.vox-cdn.com/thumbor/u7Jrdjn-dgx8wdzDl1a4F7F4PYg=/0x55:2626x1430/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22357957/Screen_Shot_2021_03_09_at_5.07.30_PM.png"
       },
       {
-         "author" : "Alexandria Burris",
-         "content" : "Michelle Del Busto gives her mother her final dose of the COVID-19 vaccine at Allisonville Meadows facility in Fishers, Ind.\r\nIndianapolis Star\r\nGov. Eric Holcomb and Mayor Joe Hogsett announcedÂ Tuesâ¦ [+5388 chars]",
-         "description" : "iA to hire more than 400 workers by the end of 2023 at Keystone at the Crossing.",
-         "publishedAt" : "2021-03-09T22:41:15Z",
-         "source" : {
-            "id" : null,
-            "name" : "The Indianapolis Star"
-         },
-         "title" : "Pharmaceutical tech company to build headquarters in Indianapolis, hire over 400 - IndyStar",
-         "url" : "https://www.indystar.com/story/money/2021/03/09/new-indianapolis-headquarters-for-tech-firm-ia-to-employ-more-than-400/4638087001/",
-         "urlToImage" : "https://www.gannett-cdn.com/-mm-/5ff39b396488db7e38cae2809453cf48faf629eb/c=0-285-3736-2387/local/-/media/Indianapolis/2014/06/30/-jobsbannergetty12.jpg20130702.jpg?width=3200&height=1680&fit=crop"
-      },
-      {
-         "author" : "Jon Brodkin",
-         "content" : "Enlarge/ The logo of Deutsche Telekom, owner of T-Mobile, seen at Mobile World Congress in February 2019 in Barcelona, Spain.\r\n47 with 44 posters participating\r\nT-Mobile next month will start a new pâ¦ [+5911 chars]",
-         "description" : "Data sales begin April 26 unless you opt out; T-Mobile claims it'll be anonymous.",
-         "publishedAt" : "2021-03-09T22:35:08Z",
-         "source" : {
-            "id" : "ars-technica",
-            "name" : "Ars Technica"
-         },
-         "title" : "T-Mobile will sell your web usage data to advertisers unless you opt out - Ars Technica",
-         "url" : "https://arstechnica.com/tech-policy/2021/03/t-mobile-will-tell-advertisers-how-you-use-the-web-starting-next-month/",
-         "urlToImage" : "https://cdn.arstechnica.net/wp-content/uploads/2019/09/getty-t-mobile-Deutsche-Telekom-760x380.jpg"
-      },
-      {
-         "author" : "Wallace Witkowski",
-         "content" : "Roblox Corp. \r\n RBLX,\r\nscored a reference price of $45 a share from the New York Stock Exchange late Tuesday as the tween-centric gaming platform prepares to go public through a direct listing on Wedâ¦ [+1998 chars]",
-         "description" : "Roblox Corp. scored a reference price of $45 a share from the New York Stock Exchange late Tuesday as the tween-centric gaming platform prepares to go public...",
-         "publishedAt" : "2021-03-09T22:32:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "MarketWatch"
-         },
-         "title" : "Roblox direct listing gets $45 reference price from NYSE - MarketWatch",
-         "url" : "https://www.marketwatch.com/story/roblox-direct-listing-gets-45-reference-price-from-nyse-11615329126",
-         "urlToImage" : "https://images.mktw.net/im-243671/social"
-      },
-      {
          "author" : "Mary Meisenzahl",
          "content" : "Taco Bell just became the first fast food chain to jump into the NFT trend with five versions of digital art, selling five copies of each. Taco Bell is calling them \"NFTacoBells.\"\r\nNFTs are digital aâ¦ [+2012 chars]",
          "description" : "Taco Bell's 25 total pieces of crypto-art sold in under 30 minutes on Sunday on the platform Rarible, the company told Insider.",
@@ -170,95 +222,43 @@
          "urlToImage" : "https://i.insider.com/6047ee5edf53f8001802a5d8?width=1200&format=jpeg"
       },
       {
-         "author" : "Caitlin McFall",
-         "content" : "President Biden on Tuesday visited a Washington, D.C., hardware story that recently received a small business coronavirus relief loan, drawing backlash from the former communications director for Donâ¦ [+2267 chars]",
-         "description" : "President Biden on Tuesday visited a Washington, D.C., hardware story that recently received a small business coronavirus relief loan, drawing backlash from former communications director for Donald Trumpâs 2020 presidential campaign.",
-         "publishedAt" : "2021-03-09T22:24:21Z",
+         "author" : null,
+         "content" : "Globally, hundreds of thousand of organizations running Exchange email servers from Microsoft just got mass-hacked, including at least 30,000 victims in the United States. Each hacked server has beenâ¦ [+7515 chars]",
+         "description" : "Globally, hundreds of thousand of organizations running Exchange email servers from Microsoft just got mass-hacked, including at least 30,000 victims in the United States. Each hacked server has been retrofitted with a \"web shell\" backdoor that gives the bad â¦",
+         "publishedAt" : "2021-03-09T22:15:59Z",
          "source" : {
             "id" : null,
-            "name" : "Fox Business"
+            "name" : "Krebs on Security"
          },
-         "title" : "Ex-Trump aide hits Biden after visit to small business that got PPP loan under Trump - Fox Business",
-         "url" : "https://www.foxbusiness.com/politics/ex-trump-aide-hits-biden-after-visit-to-small-business-that-got-ppp-loan-under-trump",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/0/0/biden-stream.jpg?ve=1&tl=1"
+         "title" : "Warning the World of a Ticking Time Bomb â Krebs on Security - Krebs on Security",
+         "url" : "https://krebsonsecurity.com/2021/03/warning-the-world-of-a-ticking-time-bomb/",
+         "urlToImage" : "https://krebsonsecurity.com/wp-content/uploads/2021/03/owaowned.png"
       },
       {
-         "author" : "Pippa Stevens",
-         "content" : "Chevron CEO Michael Wirth told CNBC he hasn't spoken to Berkshire Hathaway since the firm took a stake in the oil giant, but he said the decision suggests confidence in Chevron's long-term future.\r\n\"â¦ [+2183 chars]",
-         "description" : "Chevron's CEO says he looks forward to speaking with Berkshire Hathaway in the weeks and months to come.",
-         "publishedAt" : "2021-03-09T21:51:00Z",
+         "author" : "Amrith Ramkumar",
+         "content" : "Shares of technology firms and special-purpose acquisition companies surged on Tuesday, bouncing back after a weekslong streak of declines that pushed some popular SPACs down 20% or more in a month.Tâ¦ [+5782 chars]",
+         "description" : "Shares of blank-check companies are gyrating alongside popular technology and electric-car stocks",
+         "publishedAt" : "2021-03-09T22:12:00Z",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "title" : "Volatility Hits the Sizzling SPAC Market - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/volatility-hits-the-sizzling-spac-market-11615327970",
+         "urlToImage" : "https://images.wsj.net/im-308885/social"
+      },
+      {
+         "author" : null,
+         "content" : "Target's Nicollet Avenue store is a fixture in the life of downtown Minneapolis workers and residents.\r\nBut a prominent official in Chicago thinks a similar store would be out of place on that city'sâ¦ [+857 chars]",
+         "description" : "Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.",
+         "publishedAt" : "2021-03-09T21:57:57Z",
          "source" : {
             "id" : null,
-            "name" : "CNBC"
+            "name" : "Minneapolis Star Tribune"
          },
-         "title" : "Chevron CEO believes stock is a great long-term value play, which attracted Buffett to the name - CNBC",
-         "url" : "https://www.cnbc.com/2021/03/09/chevron-ceo-believes-stock-is-a-great-long-term-value-play-which-attracted-buffett-to-the-name.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106351665-1579793937848dsc03610r.jpg?v=1614247404"
-      },
-      {
-         "author" : "Zack Guzman",
-         "content" : "Welcome to the Cannabis Countdown, the Legal Marijuana Industrys Number One Curated Weekly News Recap. In This Weeks Edition, We Recap and Countdown the Top 10 Cannabis and Psychedelics Industry Newsâ¦ [+8411 chars]",
-         "description" : "Curaleaf, the largest US cannabis company, is expanding internationally with a $286 million deal to access Europe.",
-         "publishedAt" : "2021-03-09T21:50:31Z",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "title" : "Curaleaf expands its cannabis empire to Europe with a $286 million deal - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/curaleaf-expands-its-cannabis-empire-to-europe-with-a-286-million-deal-215031719.html",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/MiSR5gPSdPBpzPqvz9HwSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2020-11/f72d69d0-2287-11eb-b6d6-6bcaec08de87"
-      },
-      {
-         "author" : "Gilad Edelman",
-         "content" : "During the Democratic presidential primary, several candidates made antitrust enforcement against Big Tech part of their campaign pitch. Joe Biden was not one of them. When he won the nomination, andâ¦ [+3534 chars]",
-         "description" : "Appointing Lina Khan to the FTC would add an anti-monopoly crusader to a crucial positionâas does Tim Wuâs installment at the National Economic Council.",
-         "publishedAt" : "2021-03-09T21:49:47Z",
-         "source" : {
-            "id" : "wired",
-            "name" : "Wired"
-         },
-         "title" : "Biden Is Assembling a Big Tech Antitrust All-Star Team - WIRED",
-         "url" : "https://www.wired.com/story/lina-khan-ftc-antitrust-biden-administration/",
-         "urlToImage" : "https://media.wired.com/photos/6047ba8d3a82566fd9b5f8a4/191:100/w_1280,c_limit/Business-Lina-Khan-FTC-h_15124559.jpg"
-      },
-      {
-         "author" : "Ari Levy",
-         "content" : "Ethan Gawronski was about 10 years old when he discovered Roblox. He dove into its games, mostly to socialize with other kids.\r\nNow, at age 20, Gawronski has his own Roblox game that he works on fullâ¦ [+8479 chars]",
-         "description" : "More than 1,250 developers made at least $10,000 last year through virtual sales in their Roblox games, and the company is increasing payouts to them.",
-         "publishedAt" : "2021-03-09T21:34:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "CNBC"
-         },
-         "title" : "Roblox goes public tomorrow â here's how indie game makers turned it into a $30 billion company - CNBC",
-         "url" : "https://www.cnbc.com/2021/03/09/roblox-ipo-how-game-developers-built-a-30-billion-platform.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106851039-1615254337257-bad_business.jpg?v=1615254385"
-      },
-      {
-         "author" : "",
-         "content" : "After a couple of poor years, it seems that Boeing is beginning to make its comeback when it comes to aircraft orders. Indeed, in February, the airline posted its first net-increase in orders since Nâ¦ [+3391 chars]",
-         "description" : "After a couple of poor years, it seems that Boeing is beginning to make its comeback when itâ¦",
-         "publishedAt" : "2021-03-09T21:24:41Z",
-         "source" : {
-            "id" : null,
-            "name" : "Simple Flying"
-         },
-         "title" : "Boeing Begins To Bounce Back: Orders Outpace Cancellations - Simple Flying",
-         "url" : "https://simpleflying.com/boeing-bounces-back/",
-         "urlToImage" : "https://simpleflying.com/wp-content/uploads/2021/03/Boeing-737-MAX-8-N237DU-scaled.jpg"
-      },
-      {
-         "author" : "GameStop Inc.",
-         "content" : "GRAPEVINE, Texas, March 09, 2021 (GLOBE NEWSWIRE) -- GameStop Corp. (NYSE: GME), today announced that it will report fourth quarter and fiscal year 2020 earnings results after the market closes on Tuâ¦ [+1639 chars]",
-         "description" : "GRAPEVINE, Texas, March  09, 2021  (GLOBE NEWSWIRE) -- GameStop Corp. (NYSE: GME), today announced that it will report fourth quarter and fiscal year 2020...",
-         "publishedAt" : "2021-03-09T21:05:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "GlobeNewswire"
-         },
-         "title" : "GameStop Announces Fourth Quarter and Fiscal Year 2020 Earnings Release Date - GlobeNewswire",
-         "url" : "https://www.globenewswire.com/news-release/2021/03/09/2189924/0/en/GameStop-Announces-Fourth-Quarter-and-Fiscal-Year-2020-Earnings-Release-Date.html",
-         "urlToImage" : "http://www.globenewswire.com/Attachment/LogoDisplay/937175?filename=937175.jpg&size=1"
+         "title" : "With brokers and a civic leader, Target is a target in Chicago - Minneapolis Star Tribune",
+         "url" : "https://www.startribune.com/with-brokers-and-a-civic-leader-target-is-a-target-in-chicago/600032235/",
+         "urlToImage" : "https://chorus.stimg.co/22357931/1achicagotarget.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
       }
    ],
    "status" : "ok",
