@@ -1,6 +1,58 @@
 {
    "articles" : [
       {
+         "author" : null,
+         "content" : null,
+         "description" : null,
+         "publishedAt" : "2021-03-20T16:00:11Z",
+         "source" : {
+            "id" : "google-news",
+            "name" : "Google News"
+         },
+         "title" : "Is Texas Becoming The New California? - CNBC",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZHBIUkZyM3JrNkXSAQA?oc=5",
+         "urlToImage" : null
+      },
+      {
+         "author" : "https://www.engadget.com/about/editors/andrew-tarantola",
+         "content" : "The renaissance of electrification that we're seeing in passenger vehicles unfortunately won't likely adapted to heavier forms of transportation such as airplanes, cargo ships and semi tractor traileâ¦ [+6823 chars]",
+         "description" : "In his new book, tech luminary Bill Gates lays out his comprehensive plan to halt the oncoming environmental apocalypse, blunt the effects of human-caused climate change, and keep Earth habitable for the next generation.",
+         "publishedAt" : "2021-03-20T15:31:21Z",
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         },
+         "title" : "Hitting the Books: Bill Gates on why we can't have electric airplanes | Engadget - Engadget",
+         "url" : "https://www.engadget.com/hitting-the-books-how-to-avoid-a-climate-disaster-bill-gates-penguin-randomhouse-123044673.html",
+         "urlToImage" : "https://s.yimg.com/os/creatr-images/2020-04/a28fa260-89f0-11ea-bd3a-f0314789cd21"
+      },
+      {
+         "author" : "Yasufumi Saito, Alison Sider, Benjamin Katz",
+         "content" : "The pandemic has changed how we fly, dramatically reducing the number of flights around the world. To show how Covid-19 has altered the skies, The Wall Street Journal analyzed flight data from aviatiâ¦ [+1447 chars]",
+         "description" : "The pandemic has created a less-connected world. Hereâs a snapshot of two days, a year apart.",
+         "publishedAt" : "2021-03-20T15:00:00Z",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "title" : "The Places You Canât Fly to Anymore - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/the-places-you-cant-fly-to-anymore-11616248802",
+         "urlToImage" : "https://images.wsj.net/im-313440/social"
+      },
+      {
+         "author" : "Theron Mohamed",
+         "content" : "Warren Buffett.\r\nGetty Images\r\n<ul><li>Warren Buffett's annual salary has been $100,000 for the past 40 years.</li><li>Berkshire Hathaway spends triple that amount on his security each year.</li><li>â¦ [+3179 chars]",
+         "description" : "Berkshire Hathaway spends three times Buffett's salary on his personal and home security each year, or $4.4 million since 2008.",
+         "publishedAt" : "2021-03-20T14:59:06Z",
+         "source" : {
+            "id" : "business-insider",
+            "name" : "Business Insider"
+         },
+         "title" : "Warren Buffett's annual salary has been $100,000 for 40 years. Here's a look at the billionaire investor'.. - Business Insider",
+         "url" : "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-annual-salary-compensation-40-years-2021-3",
+         "urlToImage" : "https://images2.markets.businessinsider.com/5f3e4d5f42f43f001ddfdf3f?format=jpeg"
+      },
+      {
          "author" : "Jordan Valinsky, CNN Business",
          "content" : null,
          "description" : "Vacation deprivation is about to be replaced by a travel boom, according to Expedia CEO Peter Kern.",
@@ -14,17 +66,30 @@
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210318072152-01-chicago-airport-0316-super-tease.jpg"
       },
       {
-         "author" : "Jeff Cox",
-         "content" : "Gas prices are displayed at a Speedway gas station on March 03, 2021 in Martinez, California.\r\nOne of the main reasons Federal Reserve officials don't fear inflation these days is the belief that theâ¦ [+7484 chars]",
-         "description" : "Inflation-fighting tools come with a cost, and can be deadly to the kinds of growth periods the U.S. is experiencing.",
-         "publishedAt" : "2021-03-20T12:32:00Z",
+         "author" : "Kim Lyons",
+         "content" : "The network will include fast chargers and waypoint Level 2 AC chargers\r\nPhotos: Rivian\r\nAmazon-backed electric vehicle startup Rivian will install more than 10,000 fast chargers across the US and Caâ¦ [+1656 chars]",
+         "description" : "Amazon-backed electric vehicle startup Rivian will install more than 10,000 fast chargers across the US and Canada by 2023, the company announced. The Rivian Adventure Network will allos quick recharges, and includes Level 2 charges at more remote locations",
+         "publishedAt" : "2021-03-20T13:54:10Z",
+         "source" : {
+            "id" : "the-verge",
+            "name" : "The Verge"
+         },
+         "title" : "Rivian planning to install 10,000 EV chargers across the US and Canada by 2023 - The Verge",
+         "url" : "https://www.theverge.com/2021/3/20/22341664/rivian-install-10000-ev-chargers-us-canada-2023",
+         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/NQlmy2iU8KyNfhnaTmaLdl39dkU=/0x462:2040x1530/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13548490/A._Rivian_R1S_Front.jpg"
+      },
+      {
+         "author" : "Russell Falcon",
+         "content" : "DENTON, Texas (KXAN) â The owners of 1950s-themed Legends Diner in Denton, Texas, wanted to treat a serious topic across the U.S. with some levity. While the joke didnât leave everyone laughing, it lâ¦ [+2923 chars]",
+         "description" : "The much-talked about sign read: âOur NEW surcharge: $50 â If I have to explain why masks are mandatory. $75 â If I have to hear why you disagreeâ¦â",
+         "publishedAt" : "2021-03-20T12:51:51Z",
          "source" : {
             "id" : null,
-            "name" : "CNBC"
+            "name" : "KXAN.com"
          },
-         "title" : "The Fed can fight inflation, but it may come at the cost of future growth - CNBC",
-         "url" : "https://www.cnbc.com/2021/03/20/the-fed-can-fight-inflation-but-it-may-come-at-a-cost.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106422456-1583256702102rts34kgj.jpg?v=1588188545"
+         "title" : "Denton dinerâs $50 surcharge for âhaving to explain why masks are mandatoryâ sign sparks support and objections - KXAN.com",
+         "url" : "https://www.kxan.com/news/texas/denton-diners-50-surcharge-for-having-to-explain-why-masks-are-mandatory-sign-sparks-support-and-objections/",
+         "urlToImage" : "https://www.kxan.com/wp-content/uploads/sites/40/2021/03/legends-diner-denton-mask-sign.jpg?w=1280"
       },
       {
          "author" : "Leslie Josephs",
@@ -56,13 +121,13 @@
          "author" : null,
          "content" : "To continue, please click the box below to let us know you're not a robot.",
          "description" : null,
-         "publishedAt" : "2021-03-20T11:30:00Z",
+         "publishedAt" : "2021-03-20T11:42:27Z",
          "source" : {
             "id" : "bloomberg",
             "name" : "Bloomberg"
          },
-         "title" : "Corporate America Primed to Join Warren Buffett in Buyback Binge - Bloomberg",
-         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=803b78a0-898c-11eb-acf8-5320d83efa9e&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMy0yMC9jb3Jwb3JhdGUtYW1lcmljYS1wcmltZWQtdG8tam9pbi13YXJyZW4tYnVmZmV0dC1pbi1idXliYWNrLWJpbmdl",
+         "title" : "Summers Sees Worst U.S. Macroeconomic Policy in 40 Years - Bloomberg",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=5effad90-899c-11eb-9d0a-e9aa4232bc0e&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMy0yMC9zdW1tZXJzLXNheXMtdS1zLWZhY2luZy13b3JzdC1tYWNyb2Vjb25vbWljLXBvbGljeS1pbi00MC15ZWFycw==",
          "urlToImage" : null
       },
       {
@@ -131,6 +196,32 @@
          "urlToImage" : "https://media.npr.org/assets/img/2021/03/19/vang_wide-6900fb56cb954e1f06e3ee4bd387f1f4fa4bd328.jpg?s=1400"
       },
       {
+         "author" : null,
+         "content" : "Ray Dalio\r\nThe U.S. Federal Reserve will need to buy more bonds as an oversupply of Treasuries drives up yields, said Ray Dalio, founder of Bridgewater Associates.\r\nThe recent fiscal stimulus announcâ¦ [+1016 chars]",
+         "description" : "The U.S. Federal Reserve will need to buy more bonds as an oversupply of Treasuries drives up yields, said Ray Dalio, founder of Bridgewater Associates.",
+         "publishedAt" : "2021-03-20T04:47:00Z",
+         "source" : {
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "title" : "Fed Will Need to Buy Bonds as Stimulus Boosts Yields, Dalio Says - Bloomberg",
+         "url" : "https://www.bloomberg.com/news/articles/2021-03-20/fed-will-need-to-buy-bonds-as-stimulus-boosts-yields-dalio-says",
+         "urlToImage" : "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifQk9awnNZJc/v1/1200x800.jpg"
+      },
+      {
+         "author" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "description" : null,
+         "publishedAt" : "2021-03-20T03:43:00Z",
+         "source" : {
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "title" : "Coinbase's Direct Listing Is Said to Be Pushed Back to April - Bloomberg",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=383c9fa0-899d-11eb-964c-8b13745ff5de&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMy0yMC9jb2luYmFzZS1zLWRpcmVjdC1saXN0aW5nLWlzLXNhaWQtdG8tYmUtcHVzaGVkLWJhY2stdG8tYXByaWw=",
+         "urlToImage" : null
+      },
+      {
          "author" : "Bobeth Yates",
          "content" : "MIAMI (CBSMiami) â A dangerous situation has forced the popular restaurant at the Clevelander Hotel to shut its doors in Miami Beach.\r\nA fight left behind damages at the popular South Beach destinatiâ¦ [+2173 chars]",
          "description" : "A dangerous situation has caused the popular Clevelander Hotel restaurant to shut its doors in Miami Beach.",
@@ -157,108 +248,17 @@
          "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ew3uwiqwuai4h6e-1616183332.jpg?crop=1.00xw:0.752xh;0,0&resize=1200:*"
       },
       {
-         "author" : "Alyse Stanley",
-         "content" : "A slew of Amazon workers in Baltimore, New Orleans, Portland, Denver, and Southern California are looking into unionizing, emboldened by their Alabama coworkers high-profile union campaign, Bloombergâ¦ [+3275 chars]",
-         "description" : "A slew of Amazon workers in Baltimore, New Orleans, Portland, Denver, and Southern California are looking into unionizing, emboldened by their Alabama coworkersâ high-profile union campaign, Bloomberg reported Friday.",
-         "publishedAt" : "2021-03-20T01:10:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Gizmodo.com"
-         },
-         "title" : "Inspired by Alabama Coworkers, Amazon Employees Nationwide Begin Union Talks: Report - Gizmodo",
-         "url" : "https://gizmodo.com/inspired-by-alabama-coworkers-amazon-workers-nationwid-1846517412",
-         "urlToImage" : "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/tl58ilavhiuidrwymjwb.jpg"
-      },
-      {
-         "author" : "Associated Press",
-         "content" : "RENO, Nev. â A Russian man has pleaded guilty in the U.S. to offering a Tesla employee $1 million to cripple the electric car companyâs massive electric battery plant in Nevada with ransomware and stâ¦ [+4553 chars]",
-         "description" : "A Russian man has pleaded guilty in the U.S. to offering a Tesla employee $1 million to cripple the electric car companyâs massive electric battery plant in Nevada with ransomware and steal company secrets for extortion, prosecutors and court records said.",
-         "publishedAt" : "2021-03-20T00:45:36Z",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "title" : "Russian pleads guilty in Tesla extortion plot - Fox Business",
-         "url" : "https://www.foxbusiness.com/technology/russian-pleads-guilty-in-tesla-extortion-plot",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/0/0/Russian-Tesla-Blackmail.jpg?ve=1&tl=1"
-      },
-      {
          "author" : null,
          "content" : null,
          "description" : null,
-         "publishedAt" : "2021-03-20T00:37:47Z",
+         "publishedAt" : "2021-03-20T01:30:51Z",
          "source" : {
             "id" : "google-news",
             "name" : "Google News"
          },
-         "title" : "Don't Think Fed Will Let Inflation Get Out of Control: Krugman - Bloomberg Markets and Finance",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TEU4VFVranFnRVXSAQA?oc=5",
+         "title" : "Vaccine Appointments Cancelled for Kaiser Patients in Santa Clara County - NBC Bay Area",
+         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QVg4VWRheXNraVHSAQA?oc=5",
          "urlToImage" : null
-      },
-      {
-         "author" : "Investor's Business Daily",
-         "content" : "Dow Jones futures will begin trading Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally had a modestly down week, but the Nasdaq showed the most technical damagâ¦ [+10354 chars]",
-         "description" : "Dow Jones futures: The stock market rally retreated last week, but the Nasdaq suffered the most damage. Facebook, Google, Apple supplier Qorvo are near buys.",
-         "publishedAt" : "2021-03-20T00:24:44Z",
-         "source" : {
-            "id" : null,
-            "name" : "Investor's Business Daily"
-         },
-         "title" : "Dow Jones Futures: Why This Market Rally Is So Tricky, Facebook, Google, Apple Supplier Near Buy Points - Investor's Business Daily",
-         "url" : "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-tricky-facebook-google-apple-supplier-buy-points/",
-         "urlToImage" : "https://www.investors.com/wp-content/uploads/2019/10/stock-crystal-ball-10-shutter.jpg"
-      },
-      {
-         "author" : "Al Root",
-         "content" : "Like many kids, Luca Rossettini wanted to go to space.\r\nHis wasnt a typical childhood dreamone that fades away with age. Today, Rossettini, who was born in Vicenza, Italy, is an aerospace engineer wiâ¦ [+175 chars]",
-         "description" : "The total number of publicly traded companies devoted to space is growing, but the risks look large. Barronâs offers its advice on which stocks to buyâand which to avoid.",
-         "publishedAt" : "2021-03-20T00:09:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Barron's"
-         },
-         "title" : "How to Play the New Space Race - Barron's",
-         "url" : "https://www.barrons.com/articles/how-to-play-the-new-space-race-51616195373",
-         "urlToImage" : "https://images.barrons.com/im-314054/social"
-      },
-      {
-         "author" : "Ann Schmidt",
-         "content" : "Royal Caribbean is bringing another ship back to the seas.Â \r\nOn Friday, the cruise line announced that its ship, Adventure of the Seas, will resume sailing from the Bahamas in June.Â \r\nAdult passengerâ¦ [+3031 chars]",
-         "description" : "On Friday, Royal Caribbean announced that its ship, Adventure of the Seas, will resume sailing from the Bahamas on June 12.",
-         "publishedAt" : "2021-03-19T23:42:05Z",
-         "source" : {
-            "id" : "fox-news",
-            "name" : "Fox News"
-         },
-         "title" : "Royal Caribbean will begin Bahamas cruises for vaccinated passengers in June - Fox News",
-         "url" : "https://www.foxnews.com/travel/royal-caribbean-bahamas-cruises-vaccinated-passengers",
-         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Royal-Caribbean-Adventure-of-the-Seas-credit-Royal-Caribbean-.jpg"
-      },
-      {
-         "author" : "Rob Low",
-         "content" : "ADAMS COUNTY, Colo. (KDVR) â Anthony Perez said he will always be thankful for his friend, after he decided to record a portion of Perezs arrest with his cell phone.\r\nâIf he didnt get it you know I wâ¦ [+2753 chars]",
-         "description" : "Anthony Perez said he will always be thankful for his friend, after he decided to record a portion of Perezâs arrest with his cell phone. The 20-year is suing the Adams County Sheriffâs Department and deputies Curtis Garth and Brandon Neel for excessive force.",
-         "publishedAt" : "2021-03-19T23:27:04Z",
-         "source" : {
-            "id" : null,
-            "name" : "FOX 31 Denver"
-         },
-         "title" : "Teen sues Adams County Sheriffâs Office over punch to the head - FOX 31 Denver",
-         "url" : "https://kdvr.com/news/local/teen-sues-adams-county-sheriffs-office-over-punch-to-the-head/",
-         "urlToImage" : "https://kdvr.com/wp-content/uploads/sites/11/2021/03/ADCO-Deputy-punches-man-in-head.png?w=1280"
-      },
-      {
-         "author" : "Allysia Finley",
-         "content" : "Behold the paradox of this pandemic moment: Large corporations are political villains, derided on the left and right. Yet the main, and perhaps only, reason the Covid-19 scourge is easing is vaccinesâ¦ [+10705 chars]",
-         "description" : "The vaccine revolution didnât happen on its own. Itâs a product of decades of planning and investment.",
-         "publishedAt" : "2021-03-19T23:24:00Z",
-         "source" : {
-            "id" : "the-wall-street-journal",
-            "name" : "The Wall Street Journal"
-         },
-         "title" : "Capitalism Is What Will Defeat Covid - The Wall Street Journal",
-         "url" : "https://www.wsj.com/articles/capitalism-is-what-will-defeat-covid-11616192690",
-         "urlToImage" : "https://images.wsj.net/im-314112/social"
       }
    ],
    "status" : "ok",
