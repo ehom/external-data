@@ -1,6 +1,45 @@
 {
    "articles" : [
       {
+         "author" : "Claudia Dominguez, CNN",
+         "content" : null,
+         "description" : "Texas Roadhouse founder and CEO Kent Taylor died Thursday, according to a post on the restaurant chain's Facebook page. He was 65.",
+         "publishedAt" : "2021-03-21T01:56:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Kent Taylor, Texas Roadhouse founder and CEO, dies at 65 - CNN",
+         "url" : "https://www.cnn.com/2021/03/20/us/kent-taylor-texas-roadhouse-ceo-death-trnd/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210320181203-restricted-kent-taylor-super-tease.jpg"
+      },
+      {
+         "author" : "FOX TV Digital Team",
+         "content" : "KOKOMO, Ind. - Police in Indiana are searching for burglary suspects who stole four motorcycles worth a combined value of nearly $100,000 from a Harley-Davidson dealership and rode right out of the bâ¦ [+1157 chars]",
+         "description" : "Police in Kokomo, Indiana, said the four thieves rode the stolen Harley-Davidson motorcycles right off the showroom floor.",
+         "publishedAt" : "2021-03-20T23:26:09Z",
+         "source" : {
+            "id" : null,
+            "name" : "FOX 10 News Phoenix"
+         },
+         "title" : "Burglars ride motorcycles out front door of Harley-Davidson dealership in Indiana - FOX 4 Dallas",
+         "url" : "https://www.fox10phoenix.com/news/burglars-ride-motorcycles-out-front-door-of-harley-davidson-dealership-in-indiana",
+         "urlToImage" : "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2021/03/1280/720/motorcycle-image.jpg?ve=1&tl=1"
+      },
+      {
+         "author" : "Myles McCormick",
+         "content" : "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT.",
+         "description" : "News, analysis and comment from the Financial Times, the worldÊ¼s leading global business publication",
+         "publishedAt" : "2021-03-20T21:47:45Z",
+         "source" : {
+            "id" : "financial-times",
+            "name" : "Financial Times"
+         },
+         "title" : "SEC signals tougher line with oil companies on climate - Financial Times",
+         "url" : "https://www.ft.com/content/50b52600-dd43-427c-88a6-149cf790cb70",
+         "urlToImage" : null
+      },
+      {
          "author" : "https://www.engadget.com/about/editors/jon-fingas",
          "content" : "Rivian is poised to counter one of Tesla's greatest advantages: its extensive charging network. As The Verge notes, Rivian has revealed plans to install over 10,000 Level 2 AC chargers (\"Waypoints\" iâ¦ [+1266 chars]",
          "description" : "Rivian is countering Tesla by planning a network of 10,000 EV chargers across the US and Canada by 2023.",
@@ -27,19 +66,6 @@
          "urlToImage" : null
       },
       {
-         "author" : "Peter Aitken",
-         "content" : "A simple delivery turned sexual harassment when a DoorDash driver reportedly tried to extort a sexual favor in return for completing a delivery. \r\nThe victim, a woman, received a text from the driverâ¦ [+1511 chars]",
-         "description" : "The driver said he wanted something \"sexual\" because it was \"late, wet, rainy.\"",
-         "publishedAt" : "2021-03-20T20:22:28Z",
-         "source" : {
-            "id" : null,
-            "name" : "Fox Business"
-         },
-         "title" : "DoorDash driver demanded sex from customer, threatened to cancel order - Fox Business",
-         "url" : "https://www.foxbusiness.com/technology/doordash-driver-demanded-sex-from-customer-threatened-to-cancel-order",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/Doordash-NYSE-AP-2.jpg?ve=1&tl=1"
-      },
-      {
          "author" : "New York Post",
          "content" : "Top New York firms that toughed it out through the pandemic are now considering packing their bags overÂ $7 billion in proposed new state taxes.\r\nAt least 20 finance and tech companies are already poiâ¦ [+3946 chars]",
          "description" : "One executive claimed that Albany seemed intent to \"punish the rich.\"",
@@ -51,6 +77,19 @@
          "title" : "Top finance, tech firms mulling NY exodus over proposed tax hike - Fox Business",
          "url" : "https://nypost.com/2021/03/20/top-finance-tech-firms-mulling-ny-exodus-over-proposed-tax-hike/",
          "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/0/0/AP21069637496010.jpg?ve=1&tl=1"
+      },
+      {
+         "author" : "Chris Katje",
+         "content" : "Ark Funds CEO and Co-Founder Cathie Wood joined Benzinga for the Raz Report interview earlier this month. At that time, Wood promised a new price target was coming on Tesla from Ark.\r\nOn Friday, it aâ¦ [+3312 chars]",
+         "description" : "Ark Funds CEO and Co-Founder Cathie Wood joined Benzinga for the âRaz Reportâ interview earlier this month. At that time, Wood promised a new price target...",
+         "publishedAt" : "2021-03-20T20:09:19Z",
+         "source" : {
+            "id" : null,
+            "name" : "Yahoo Entertainment"
+         },
+         "title" : "Cathie Wood, Ark Funds Lay Out New $3,000 Price Target For Tesla Shares: What Investors Should Know - Yahoo Finance",
+         "url" : "https://finance.yahoo.com/news/cathie-wood-ark-funds-lay-200919424.html",
+         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/6Qq1AFsi.ncFWPIwrN7pLw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/49a41d53fcdec822ef2be662b4432507"
       },
       {
          "author" : "Makayla Richards",
@@ -67,6 +106,19 @@
       },
       {
          "author" : null,
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "description" : null,
+         "publishedAt" : "2021-03-20T20:00:00Z",
+         "source" : {
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
+         },
+         "title" : "Ghost of Horrific Treasury Auction Haunts Bond Market on Brink - Bloomberg",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=2c1f3090-89f0-11eb-a301-c34ede1a85f7&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMy0yMC9naG9zdC1vZi1ob3JyaWZpYy10cmVhc3VyeS1hdWN0aW9uLWhhdW50cy1ib25kLW1hcmtldC1vbi1icmluaw==",
+         "urlToImage" : null
+      },
+      {
+         "author" : null,
          "content" : "WASHINGTON, March 20, 2021 Avanza Pasta, LLC., an Evanston, Ill. establishment, is recalling approximately 2,237 pounds of meat and poultry pasta products that were produced without the benefit of feâ¦ [+2033 chars]",
          "description" : null,
          "publishedAt" : "2021-03-20T19:52:30Z",
@@ -77,19 +129,6 @@
          "title" : "Avanza Pasta, LLC Recalls Beef and Poultry Products Produced Without Benefit of Inspection | Food Safety and Inspection Service - USDA.gov",
          "url" : "http://www.fsis.usda.gov/recalls-alerts/avanza-pasta-llc-recalls-beef-and-poultry-products-produced-without-benefit",
          "urlToImage" : "https://www.fsis.usda.gov/sites/default/files/2021-03/MicrosoftTeams-image.png"
-      },
-      {
-         "author" : "Reuters Staff",
-         "content" : "By Reuters Staff\r\nFILE PHOTO: A man wearing a face mask following the coronavirus disease (COVID-19) outbreak walks by Tesla Model 3 sedans and Tesla Model X sport utility vehicle at a new Tesla showâ¦ [+1261 chars]",
-         "description" : "Cathie Wood's Ark Invest said it expects Tesla Inc's share price to reach the $3,000 mark by 2025.",
-         "publishedAt" : "2021-03-20T19:47:00Z",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "title" : "Cathie Wood's Ark expects Tesla stock to reach $3000 by 2025 - Reuters",
-         "url" : "https://www.reuters.com/article/us-tesla-ark-invest-idUSKBN2BC0O9",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20210320&t=2&i=1555600276&r=LYNXMPEH2J0EM&w=800"
       },
       {
          "author" : "Matthew Wright",
@@ -105,43 +144,17 @@
          "urlToImage" : "https://i.dailymail.co.uk/1s/2021/03/20/19/40723330-0-image-a-34_1616269218401.jpg"
       },
       {
-         "author" : "David Williams, CNN",
-         "content" : "(CNN)The owners of a Denton, Texas, diner want customers to know that they are serious when they say masks are still required in their establishment.\r\nWayne and Kat LaCombe put up a warning sign on tâ¦ [+2767 chars]",
-         "description" : "The owners of a Denton, Texas, diner want customers to know that they are serious when they say masks are still required in their establishment.",
-         "publishedAt" : "2021-03-20T19:33:00Z",
-         "source" : {
-            "id" : "cnn",
-            "name" : "CNN"
-         },
-         "title" : "Sign at Texas restaurant threatens a $50 fee 'If I have to explain why masks are mandatory' - CNN",
-         "url" : "https://www.cnn.com/2021/03/20/us/texas-restaurant-mask-sign-trnd/index.html",
-         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210319170207-01-texas-diner-mask-signs-trnd-super-tease.jpg"
-      },
-      {
-         "author" : "Teghan Simonton",
-         "content" : "TribLIVE's Daily and Weekly email newsletters deliver the news you want and information you need, right to your inbox.\r\nA 12-year-old boy is in critical condition after being stabbed inside a McDonalâ¦ [+1133 chars]",
-         "description" : "A 12-year-old boy is in critical condition after being stabbed inside a McDonald&rsquo;s on Liberty Avenue, Pittsburgh Public Safety tweeted Saturday around 3:10 p.m. Police told WPXI the boy was part of a family of four standing in line, when a &ldquo;randomâ¦",
-         "publishedAt" : "2021-03-20T19:27:18Z",
+         "author" : "WPXI.com News Staff",
+         "content" : "PITTSBURGH â Police said a 12-year-old boy was critically stabbed at a McDonalds restaurant in Downtown Pittsburgh just after 2 p.m.\r\nInvestigators said it happened at the store on Liberty Avenue. Thâ¦ [+1050 chars]",
+         "description" : "Police said a 12-year-old boy was critically stabbed at a McDonaldsâ restaurant in Downtown Pittsburgh.",
+         "publishedAt" : "2021-03-20T19:23:00Z",
          "source" : {
             "id" : null,
-            "name" : "TribLIVE"
+            "name" : "WPXI Pittsburgh"
          },
-         "title" : "Police say 12-year-old boy stabbed in Liberty Avenue McDonald's - TribLIVE",
-         "url" : "https://triblive.com/local/pittsburgh-police-12-year-old-boy-stabbed-at-liberty-avenue-mcdonalds/",
-         "urlToImage" : "https://triblive.com/wp-content/uploads/2021/03/3660215_web1_AP17114645958526.jpg"
-      },
-      {
-         "author" : null,
-         "content" : null,
-         "description" : null,
-         "publishedAt" : "2021-03-20T19:06:00Z",
-         "source" : {
-            "id" : "google-news",
-            "name" : "Google News"
-         },
-         "title" : "Partyâs over: Miami Beach closing causeways, imposing spring break South Beach curfew - Miami Herald",
-         "url" : "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3Lm1pYW1paGVyYWxkLmNvbS9uZXdzL2xvY2FsL2NvbW11bml0eS9taWFtaS1kYWRlL21pYW1pLWJlYWNoL2FydGljbGUyNTAwOTAyNDkuaHRtbNIBXWh0dHBzOi8vYW1wLm1pYW1paGVyYWxkLmNvbS9uZXdzL2xvY2FsL2NvbW11bml0eS9taWFtaS1kYWRlL21pYW1pLWJlYWNoL2FydGljbGUyNTAwOTAyNDkuaHRtbA?oc=5",
-         "urlToImage" : null
+         "title" : "Man facing attempted homicide charges after police say he stabbed boy at Downtown Pittsburgh McDonaldâs - WPXI Pittsburgh",
+         "url" : "https://www.wpxi.com/news/top-stories/12-year-old-boy-critically-stabbed-downtown-pittsburgh-mcdonalds/43JYM4HESZEVXLAEXWF7AEK4UU/",
+         "urlToImage" : "https://d1hfln2sfez66z.cloudfront.net/03-20-2021/t_2a1324b74c9c4a148d4b73527c2ead97_name_pic_scaled.jpg"
       },
       {
          "author" : "Kim Lyons",
@@ -238,27 +251,14 @@
          "author" : "Ben Klayman",
          "content" : "FILE PHOTO: A view shows the logo of Stellantis at the entrance of the company's factory in Hordain, France, March 3, 2021. REUTERS/Pascal Rossignol\r\nDETROIT (Reuters) - The impact of the global semiâ¦ [+2201 chars]",
          "description" : "The impact of the global semiconductor shortage on the auto industry spread on Saturday, as Stellantis warned its highly profitable pickup trucks were hit, while Ford Motor Co said it would cut more U.S. production.",
-         "publishedAt" : "2021-03-20T16:50:00Z",
+         "publishedAt" : "2021-03-20T16:49:00Z",
          "source" : {
             "id" : "reuters",
             "name" : "Reuters"
          },
-         "title" : "Stellantis pickups hit, Ford cuts production due to global chip shortage - Reuters",
-         "url" : "https://www.reuters.com/article/us-ford-motor-semiconductors-idUSKBN2BC0KW",
+         "title" : "Stellantis pickups hit, Ford cuts production due to global semiconductor shortage - Reuters",
+         "url" : "https://www.reuters.com/article/us-ford-motor-semiconductors-idUKKBN2BC0KW",
          "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20210320&t=2&i=1555592892&r=LYNXMPEH2J0CH&w=800"
-      },
-      {
-         "author" : null,
-         "content" : "SAN FRANCISCO âTwo Silicon Valley entrepreneurs who founded a biotech company that tested fecal matter are accused of bilking their investors and health insurance providers, federal prosecutors said â¦ [+1422 chars]",
-         "description" : "Two Silicon Valley entrepreneurs who founded a biotech company that tested fecal matter are accused of bilking their investors and health insurance providers, federal prosecutors said Thursday.",
-         "publishedAt" : "2021-03-20T16:29:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "KCRA Sacramento"
-         },
-         "title" : "California fecal matter-testing company's founders indicted for fraud - KCRA Sacramento",
-         "url" : "https://www.kcra.com/article/california-fecal-matter-testing-companys-founders-indicted-for-fraud/35888478",
-         "urlToImage" : "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-490789192-1616257498.jpg?crop=1.00xw:0.757xh;0,0.0504xh&resize=1200:*"
       }
    ],
    "status" : "ok",
