@@ -68,7 +68,7 @@ jobs:
           
           curl -X GET \
             --silent \
-            -H 'content-type: application/json' \
+            -H 'content-type: application/json; charset=utf-8' \
             https://api.nytimes.com/svc/topstories/v2/movies.json?api-key=${{secrets.NYT_API_KEY}} | json_pp > $OUTPUT_FILE
             
           git config --global user.name $GITHUB_ACTOR
