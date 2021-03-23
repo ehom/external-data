@@ -1,6 +1,123 @@
 {
    "articles" : [
       {
+         "author" : "CBS News",
+         "content" : "AstraZeneca may have used \"outdated information\" when it released data from a late-stage trial of its COVID-19 vaccine early Monday, federal officials say. The Data and Safety Monitoring Board (DSMB)â¦ [+4232 chars]",
+         "description" : "As U.S. raises concerns over AstraZeneca's data reporting, drug company says preliminary info was \"consistent with the interim analysis,\" but full review coming within 2 days.",
+         "publishedAt" : "2021-03-23T12:19:00Z",
+         "source" : {
+            "id" : "cbs-news",
+            "name" : "CBS News"
+         },
+         "title" : "AstraZeneca may have \"included outdated information\" in COVID-19 vaccine trial report, U.S. says - CBS News",
+         "url" : "https://www.cbsnews.com/news/astrazeneca-covid-vaccine-results-incomplete-view-outdated/",
+         "urlToImage" : "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/04/83550d61-0136-485a-82a4-a91c575641c4/thumbnail/1200x630/ae5d4a0e81f7f6d91621a4c0494a8ffd/oxford-andrew-pollard-covid-vaccine.jpg"
+      },
+      {
+         "author" : "Alexandria Hein",
+         "content" : "A combination monoclonal antibody cocktail produced by Regeneron and Roche has shown to reduce hospitalization or death in COVID-19 patients by as much as 70%, a press release posted Tuesday said. Thâ¦ [+2251 chars]",
+         "description" : "A combination monoclonal antibody cocktail produced by Regeneron and Roche has shown to reduce hospitalization or death in COVID-19 patients by as much as 70%, a press release posted Tuesday said.",
+         "publishedAt" : "2021-03-23T11:28:14Z",
+         "source" : {
+            "id" : "fox-news",
+            "name" : "Fox News"
+         },
+         "title" : "Regeneron, Roche's antibody cocktail cuts COVID-19 hospitalizations, deaths by 70%, company says - Fox News",
+         "url" : "https://www.foxnews.com/health/regeneron-roches-antibody-cocktail-cuts-covid-19-hospitalizations-deaths-by-70-company-says",
+         "urlToImage" : "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/coronavirus_screening_istock.jpg"
+      },
+      {
+         "author" : "Matt Egan, CNN Business",
+         "content" : null,
+         "description" : "Travel-starved Americans emerging from lockdown may need to budget for $3-a-gallon gasoline on their next road trip.",
+         "publishedAt" : "2021-03-23T11:21:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Here comes $3 gas, just as Americans start traveling again - CNN",
+         "url" : "https://www.cnn.com/2021/03/23/business/gas-prices-oil/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210322141005-usa-gas-prices-super-tease.jpg"
+      },
+      {
+         "author" : "Laura He and Jill Disis, CNN Business",
+         "content" : "Hong Kong (CNN Business)Chinese stocks fell by as much as 3%on Tuesday as the United States and its allies announced new sanctions on Beijing, asign that its relationship with the West has hit anotheâ¦ [+3118 chars]",
+         "description" : "Chinese stocks fell by as much as 3% on Tuesday as the United States and its allies announced new sanctions on Beijing, a sign that its relationship with the West has hit another snag.",
+         "publishedAt" : "2021-03-23T11:13:00Z",
+         "source" : {
+            "id" : "cnn",
+            "name" : "CNN"
+         },
+         "title" : "Chinese markets slump as tit-for-tat sanctions raise tension with US and Europe - CNN",
+         "url" : "https://www.cnn.com/2021/03/23/investing/global-stocks-china-sanctions/index.html",
+         "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210323045645-global-stocks-restricted-super-tease.jpg"
+      },
+      {
+         "author" : "Svea Herbst-Bayliss",
+         "content" : "(Reuters) - After almost four months of phone calls and emails to GameStop Corp complaining about the slow shipping of an order, New Jersey teacher Steven Titus received a late night call in early Maâ¦ [+6000 chars]",
+         "description" : "After almost four months of phone calls and emails to GameStop Corp complaining about the slow shipping of an order, New Jersey teacher Steven Titus received a late night call in early March - from a director on the video game retailer's board.",
+         "publishedAt" : "2021-03-23T11:05:00Z",
+         "source" : {
+            "id" : "reuters",
+            "name" : "Reuters"
+         },
+         "title" : "From pet food to video games: inside Ryan Cohen's GameStop obsession - Reuters",
+         "url" : "https://www.reuters.com/article/us-retail-trading-gamestop-cohen-insight-idUSKBN2BF1AS",
+         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20210323&t=2&i=1555877558&r=LYNXMPEH2M0PG&w=800"
+      },
+      {
+         "author" : "Reuters",
+         "content" : "Pfizer plans to tap the mRNA technology to make new vaccines for other viruses following the success of its Covid-19 shot, which was developed jointly with German partner BioNTech, The Wall Street Joâ¦ [+701 chars]",
+         "description" : "Pfizer plans to tap the mRNA technology to make new vaccines for other viruses, The Wall Street Journal reported on Tuesday.",
+         "publishedAt" : "2021-03-23T11:03:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "CNBC"
+         },
+         "title" : "Pfizer to reportedly develop new vaccines on its own using mRNA technology - CNBC",
+         "url" : "https://www.cnbc.com/2021/03/23/pfizer-to-reportedly-develop-new-vaccines-on-its-own-using-mrna-technology.html",
+         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106843214-1613775485658-gettyimages-1231265811-AFP_93E3F6.jpeg?v=1613775749"
+      },
+      {
+         "author" : null,
+         "content" : "Elon Musk confirmed in a comment that Teslaâs new refreshed Model S can âseat up to 7 peopleâ despite the automaker not offering it as an option yet.\r\nWhen Musk first announced the Model S Plaid backâ¦ [+2026 chars]",
+         "description" : "Elon Musk confirmed in a comment that Teslaâs new refreshed Model S can âseat up to 7 peopleâ despite the automaker not offering it as an option yet. When Musk first announced the Model S Plaid back in 2019, theÂ CEO said that it will have the option for thirdâ¦",
+         "publishedAt" : "2021-03-23T11:00:00Z",
+         "source" : {
+            "id" : null,
+            "name" : "Electrek"
+         },
+         "title" : "Elon Musk confirms new Tesla Model S is a 7-seater despite no option yet - Electrek.co",
+         "url" : "https://electrek.co/2021/03/23/elon-musk-confirms-new-tesla-model-s-7-seater/",
+         "urlToImage" : "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-mOdel-s-rear-facing-e1616493435100.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      },
+      {
+         "author" : "James Benedict, Caitlin McCabe",
+         "content" : "One year ago, the U.S. stock market bottomed out, with the S&amp;P 500 hitting its trough after a 34% plunge in just 23 trading days.\r\nAt the time, few could have imagined the recovery that the markeâ¦ [+1221 chars]",
+         "description" : "A year after the U.S. stock marketâs coronavirus-induced selloff, investors are trying to assess what comes next",
+         "publishedAt" : "2021-03-23T09:45:34Z",
+         "source" : {
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
+         },
+         "title" : "Tech Stocks Led the Market Rally. Now Theyâre Falling Behind. - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/tech-stocks-led-the-market-rally-now-theyre-falling-behind-11616491800",
+         "urlToImage" : "https://images.wsj.net/im-314680/social"
+      },
+      {
+         "author" : "https://www.engadget.com/about/editors/steve-dent",
+         "content" : "Regal Cinemas has announced that it will re-open US theaters on April 2nd with the release of Warner Bros.' Godzilla vs. Kong, Deadline has reported. That will be followed on April 16th with New Lineâ¦ [+1691 chars]",
+         "description" : "Regal cinemas has announced that it will re-open US theaters on April 2nd with the release of Warner Bros.' Godzilla vs. Kong.",
+         "publishedAt" : "2021-03-23T09:40:53Z",
+         "source" : {
+            "id" : "engadget",
+            "name" : "Engadget"
+         },
+         "title" : "Regal Cinemas strikes Warner Bros. deal to show 2021 movies alongside HBO Max | Engadget - Engadget",
+         "url" : "https://www.engadget.com/regal-cinemas-strikes-deal-with-warner-bros-over-hbo-max-releases-093807610.html",
+         "urlToImage" : "https://s.yimg.com/os/creatr-uploaded-images/2021-03/f15a0eb0-8bb3-11eb-a715-d89a3ab659f2"
+      },
+      {
          "author" : "Vicky McKeever",
          "content" : "U.S. Treasury yields ebbed lower on Tuesday morning, following prepared comments from Federal Reserve Chairman Jerome Powell for a congressional hearing, in which he warned the economic recovery was â¦ [+1247 chars]",
          "description" : "U.S. Treasury yields ebbed lower on Tuesday morning, following comments from Fed Chairman Jerome Powell, warning the economic recovery was \"far from complete.\"",
@@ -14,69 +131,43 @@
          "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106714495-1606773208653-jer.jpg?v=1616490672"
       },
       {
-         "author" : "Oscar Williams-Grut",
-         "content" : "The COVID pandemic may be receding, but it has left a mark on across multiple aspects of our lives. From mask mandates to travel restrictions, we chafe at some of the changes but in the business worlâ¦ [+7221 chars]",
-         "description" : "Harsh restrictions will remain in place in Germany until 18 April in a bid to curb the spread of what officials have dubbed a 'third wave' of COVID-19.",
-         "publishedAt" : "2021-03-23T08:35:56Z",
+         "author" : null,
+         "content" : "Mirror, mirror on the wall, who is the kindest of them all? Is it David Solomon, the CEO of Goldman Sachs, who left a Sunday evening voice memo saying how he and Goldman managers are working hard to â¦ [+6954 chars]",
+         "description" : "Suddenly CEOs are \"grateful\" for and \"supportive of\" their junior bankers. But they're still not offering 80 hour weeks.",
+         "publishedAt" : "2021-03-23T08:48:00Z",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "Efinancialcareers.com"
          },
-         "title" : "German lockdown extension and China tensions hit European stocks - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/stock-market-23-march-german-lockdown-extension-angela-merkel-china-uyghur-sanctions-ftse-cac-40-dax-nasdaq-sp-500-dow-083556504.html",
-         "urlToImage" : "https://s.yimg.com/ny/api/res/1.2/jUAzF4m7780uxrl34T2e9w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjc2/https://s.yimg.com/os/creatr-uploaded-images/2021-03/2fc935c0-8bb1-11eb-9bbf-d3e4783b127f"
+         "title" : "Bank CEOs now competing to be kindest to junior employees. - eFinancialCareers",
+         "url" : "https://www.efinancialcareers.com/news/2021/03/citi-and-goldman-sachs-new-work-life-policies-for-juniors",
+         "urlToImage" : "https://www.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2021/03/kindness.jpg"
       },
       {
-         "author" : "Anmar Frangoul",
-         "content" : "An electric vehicle charging point which uses tidal energy has started operations, providing road users on an island north of mainland Scotland with a new, renewable option for running their cars.Â Â \râ¦ [+3495 chars]",
-         "description" : "The facility is located on Yell, which is part of Shetland, an archipelago of roughly 100 islands.",
-         "publishedAt" : "2021-03-23T08:32:00Z",
+         "author" : "Brian Quarmby",
+         "content" : "Jack Dorsey, the CEO of Twitter sold a tokenized representation of his first-ever tweet for more than $2.9 million on Monday. \r\nThe tweet was published on March 21, 2006, and reads:Â \r\njust setting upâ¦ [+4727 chars]",
+         "description" : "John Cleese is poking fun at NFTs, tokenizing an artwork inspired by the story of a true-life con-man who fraudulently sold the Brooklyn bridge on multiple occasions.",
+         "publishedAt" : "2021-03-23T08:39:43Z",
          "source" : {
             "id" : null,
-            "name" : "CNBC"
+            "name" : "Cointelegraph"
          },
-         "title" : "On an island north of Scotland, tidal power is providing juice for electric vehicles - CNBC",
-         "url" : "https://www.cnbc.com/2021/03/23/tidal-power-is-providing-juice-for-electric-vehicles-on-an-island-.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106857432-1616430804933-Charge-point-2.jpg?v=1616430846"
+         "title" : "Nifty News: Jack Dorsey sells genesis tweet for $2.9M, NFTs save wild pandas and more - Cointelegraph",
+         "url" : "https://cointelegraph.com/news/nifty-news-jack-dorsey-sells-genesis-tweet-for-2-9m-nfts-save-wild-pandas-and-more",
+         "urlToImage" : "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMDMvNWVjMGNjNjgtN2Y2NS00MmJiLWI4NTItZWYyNWY4MDcwY2IyLmpwZw==.jpg"
       },
       {
-         "author" : "Associated Press",
-         "content" : "U.S. equity futuresÂ traded lowerÂ ahead of Tuesday's Wall Street sessionÂ after U.S.Â investor's were buoyed by Monday's reassurance fromÂ the Federal Reserve for support in the economic recovery.\r\n<tablâ¦ [+4232 chars]",
-         "description" : "U.S. equity futuresÂ traded lowerÂ ahead of Tuesday's Wall Street sessionÂ after U.S.Â investor's were buoyed by Monday's reassurance fromÂ the Federal Reserve for support in the economic recovery.",
-         "publishedAt" : "2021-03-23T07:59:43Z",
+         "author" : "Yang Jie",
+         "content" : "TOKYOA fire at a factory of one of the worlds leading auto chip makers has added to the troubles of car makers that already have slashed production because of a semiconductor shortage.\r\nThe fire Fridâ¦ [+980 chars]",
+         "description" : "Shares of Toyota, Nissan and Honda fell Monday",
+         "publishedAt" : "2021-03-23T08:16:00Z",
          "source" : {
-            "id" : null,
-            "name" : "Fox Business"
+            "id" : "the-wall-street-journal",
+            "name" : "The Wall Street Journal"
          },
-         "title" : "US stock futures trading lower hours before Tuesday's opening bell - Fox Business",
-         "url" : "https://www.foxbusiness.com/markets/us-stock-futures-trading-lower-hours-before-tuesdays-opening-bell",
-         "urlToImage" : "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/0/0/3stocks-xxxx.jpg?ve=1&tl=1"
-      },
-      {
-         "author" : "Shivdeep Dhaliwal",
-         "content" : "(Bloomberg) -- Divining the targets of Beijings latest de-risking campaign is becoming an essential trading strategy.Those who failed to take heed of warnings about asset bubbles by officials were stâ¦ [+5369 chars]",
-         "description" : "Tesla Inc (NASDAQ: TSLA) Elon Musk said Monday that the automakerâs Plaid S was its âbest car ever.â What Happened: Elaborating further, the entrepreneur...",
-         "publishedAt" : "2021-03-23T07:54:37Z",
-         "source" : {
-            "id" : null,
-            "name" : "Yahoo Entertainment"
-         },
-         "title" : "Elon Musk Says The New Tesla S Plaid Is EV Maker's 'Best Car Ever' - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/elon-musk-says-tesla-plaid-044411745.html",
-         "urlToImage" : "https://s.yimg.com/uu/api/res/1.2/vi.trDEd2q_vaOYkqjigwQ--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/18291e080294bf7f991289d2ab2db5e4"
-      },
-      {
-         "author" : "Associated Press",
-         "content" : "WASHINGTON Results from a U.S. trial of AstraZenecaâs COVID-19 vaccine may have used âoutdated information,â U.S. federal health officials said early Tuesday.\r\nThe Data and Safety Monitoring Board saâ¦ [+1515 chars]",
-         "description" : "WASHINGTON â Results from a U.S. trial of AstraZenecaâs COVID-19 vaccine may have used âoutdated information,â U.S. federal health officials said early Tuesday. The Data and Safetâ¦",
-         "publishedAt" : "2021-03-23T07:53:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "New York Post"
-         },
-         "title" : "AstraZeneca may have used 'outdated information' in vaccine trial, US says - New York Post ",
-         "url" : "https://nypost.com/2021/03/23/astrazeneca-may-have-used-outdated-info-in-covid-19-vaccine-trial-us-says/",
-         "urlToImage" : "https://nypost.com/wp-content/uploads/sites/2/2021/03/AP21081604105645.jpg?quality=90&strip=all&w=1200"
+         "title" : "Fire at Giant Auto-Chip Plant Fuels Supply Concerns - The Wall Street Journal",
+         "url" : "https://www.wsj.com/articles/renesas-chip-plant-fire-spreads-concerns-about-global-auto-production-11616414181",
+         "urlToImage" : "https://images.wsj.net/im-314510/social"
       },
       {
          "author" : "Samantha Kelly, CNN Business",
@@ -92,30 +183,30 @@
          "urlToImage" : "https://cdn.cnn.com/cnnnext/dam/assets/210322172918-covid-vaccines-dark-web-super-tease.jpg"
       },
       {
-         "author" : "Arjun Kharpal",
-         "content" : "ByteDance has been boosting its gaming arm Nuverse through a hiring spree and in March acquired gaming studio Moonton.\r\nGUANGZHOU, China ByteDance has acquired major mobile gaming studio Moonton, higâ¦ [+3041 chars]",
-         "description" : "ByteDance has acquired a major gaming studio called Moonton highlighting its ambitions in the video game industry and pitting it against Chinese giant Tencent.",
-         "publishedAt" : "2021-03-23T06:16:00Z",
+         "author" : "Neal E. Boudette",
+         "content" : "While NHTSA has not forced Tesla to recall Autopilot, the National Transportation Safety Board concluded that the system played a major role in the 2016 Florida accident. It also said the technology â¦ [+2014 chars]",
+         "description" : "Federal regulators are investigating 23 recent accidents in which drivers were, or may have been, using the automatic steering and braking system.",
+         "publishedAt" : "2021-03-23T07:00:07Z",
          "source" : {
             "id" : null,
-            "name" : "CNBC"
+            "name" : "New York Times"
          },
-         "title" : "TikTok owner ByteDance takes on Tencent after acquiring major mobile gaming studio - CNBC",
-         "url" : "https://www.cnbc.com/2021/03/23/bytedance-takes-on-tencent-with-major-gaming-studio-acquisition.html",
-         "urlToImage" : "https://image.cnbcfm.com/api/v1/image/106578554-1592251809837gettyimages-1216850059.jpg?v=1616474905"
+         "title" : "Teslaâs Autopilot Technology Faces Fresh Scrutiny - The New York Times",
+         "url" : "https://www.nytimes.com/2021/03/23/business/teslas-autopilot-safety-investigations.html",
+         "urlToImage" : "https://static01.nyt.com/images/2021/03/23/us/00tesla-1-print/00tesla-02-facebookJumbo.jpg"
       },
       {
          "author" : null,
-         "content" : null,
-         "description" : "Late Monday, the Data and Safety Monitoring Board (DSMB) notified NIAID, BARDA, and AstraZeneca that it was concerned by information released by AstraZeneca on initial data from its COVID-19 vaccine clinical trial.",
-         "publishedAt" : "2021-03-23T04:11:07Z",
+         "content" : "To continue, please click the box below to let us know you're not a robot.",
+         "description" : null,
+         "publishedAt" : "2021-03-23T05:16:00Z",
          "source" : {
-            "id" : null,
-            "name" : "National Institutes of Health"
+            "id" : "bloomberg",
+            "name" : "Bloomberg"
          },
-         "title" : "NIAID Statement on AstraZeneca Vaccine | National Institutes of Health - National Institutes of Health",
-         "url" : "https://www.nih.gov/news-events/news-releases/niaid-statement-astrazeneca-vaccine",
-         "urlToImage" : "https://www.nih.gov/sites/default/files/generic/thumbnail-generic-3x2.jpg"
+         "title" : "AstraZeneca May Have Given Outdated Vaccine Data, U.S. Agency Says - Bloomberg",
+         "url" : "https://www.bloomberg.com/tosv2.html?vid=&uuid=9d65d490-8bb5-11eb-9887-711bc646fea2&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMy0yMy9hc3RyYS1tYXktaGF2ZS1naXZlbi1vdXRkYXRlZC1kZXRhaWxzLW9uLXZhY2NpbmUtc2F5cy11LXMtYm9keQ==",
+         "urlToImage" : null
       },
       {
          "author" : "Patrick Brzeski",
@@ -131,17 +222,17 @@
          "urlToImage" : "https://static.hollywoodreporter.com/wp-content/uploads/2021/03/GettyImages-1227949108-1616469616-1024x577.jpeg"
       },
       {
-         "author" : "Reuters",
-         "content" : "(Bloomberg) -- The name Cisneros is synonymous with business acumen and opulence in the minds of Venezuelans old enough to remember the pre-Hugo Chavez years.Over generations, the billionaire family â¦ [+6193 chars]",
-         "description" : "Japanese equities advanced on Tuesday as investors bought chip-related shares following a tech rebound on Wall Street overnight, while automakers rebounded...",
-         "publishedAt" : "2021-03-23T02:56:17Z",
+         "author" : null,
+         "content" : null,
+         "description" : null,
+         "publishedAt" : "2021-03-23T03:00:48Z",
          "source" : {
             "id" : null,
-            "name" : "Yahoo Entertainment"
+            "name" : "The Capitol Fax Blog"
          },
-         "title" : "Japanese shares rise as chip sector tracks Nasdaq higher - Yahoo Finance",
-         "url" : "https://finance.yahoo.com/news/japanese-shares-rise-chip-sector-024914485.html",
-         "urlToImage" : "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+         "title" : "Your Illinois News Radar Â» Loretto execs given unspecified âreprimandâ after Gold Coast jewelry store vax give-away, among other things - The Capitol Fax Blog",
+         "url" : "https://capitolfax.com/2021/03/22/loretto-execs-given-unspecified-reprimand-after-gold-coast-jewelry-store-vax-give-away-among-other-things/",
+         "urlToImage" : null
       },
       {
          "author" : "Jacob Bogage",
@@ -168,97 +259,6 @@
          "title" : "Biden administration frets J&J may miss vaccine goal - Politico",
          "url" : "https://www.politico.com/news/2021/03/22/biden-administration-frets-j-j-may-miss-vaccine-goal-477602",
          "urlToImage" : "https://static.politico.com/11/df/07d1599a431580bb55ead644b439/ap21077573472720-1.jpg"
-      },
-      {
-         "author" : "Ian Carlos Campbell",
-         "content" : "The FCC is turning to average citizens to learn the state of internet service in the US\r\nIts not at all controversial to say that internet service sucks in the United States. As part of its plan to uâ¦ [+1620 chars]",
-         "description" : "The FCC is surveying the US on broadband internet service quality, and anyone can fill out a form and share their experiences.",
-         "publishedAt" : "2021-03-23T01:15:13Z",
-         "source" : {
-            "id" : "the-verge",
-            "name" : "The Verge"
-         },
-         "title" : "You can now tell the FCC just how broken the internet is for you - The Verge",
-         "url" : "https://www.theverge.com/2021/3/22/22345533/fcc-broadband-data-collection-program-fix-the-internet",
-         "urlToImage" : "https://cdn.vox-cdn.com/thumbor/QsNYle32SovD3hhxflgPlQZlJmQ=/0x86:1200x714/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22284488/acastro_170711_1777_0004.0.jpg"
-      },
-      {
-         "author" : "Jim Halley",
-         "content" : "Real estate investment trusts (REITs) are known for their high-yield dividends, and The GEO Group(NYSE:GEO) is no exception. The company, which owns and manages 123 private domestic secure facilitiesâ¦ [+4417 chars]",
-         "description" : "The GEO Group's share price has tumbled over the past 12 months, and it may have further to fall.",
-         "publishedAt" : "2021-03-23T01:01:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Motley Fool"
-         },
-         "title" : "This High-Yield Dividend Stock Might Be in Trouble - Motley Fool",
-         "url" : "https://www.fool.com/investing/2021/03/22/this-high-yield-dividend-stock-might-be-in-trouble/",
-         "urlToImage" : "https://g.foolcdn.com/editorial/images/618702/roll-of-hundred-dollar-bills-in-middle-of-bear-trap-money-cash-scam-scheme-fraud-risk.jpg"
-      },
-      {
-         "author" : null,
-         "content" : "SAN FRANCISCO (AP) Twitter CEO Jack Dorsey has sold a digital version of his first tweet for more than $2.9 million more than two weeks after he announced a digital auction for the post. \r\nThe tweet â¦ [+1600 chars]",
-         "description" : "SAN FRANCISCO (AP) â Twitter CEO Jack Dorsey has sold a digital version of his first tweet for more than $2.9 million more than two weeks after he announced a digital auction for the post....",
-         "publishedAt" : "2021-03-23T00:53:39Z",
-         "source" : {
-            "id" : "associated-press",
-            "name" : "Associated Press"
-         },
-         "title" : "Twitter CEO Jack Dorsey sells NFT of first tweet for $2.9M - Associated Press",
-         "url" : "https://apnews.com/article/cryptocurrency-bitcoin-coronavirus-pandemic-financial-markets-jack-dorsey-266837b2a2b84b3cd39c2111723ddf3c",
-         "urlToImage" : "https://apnews.com/images/ShareLogo2.png"
-      },
-      {
-         "author" : null,
-         "content" : "Speaking to Time magazine,Â MicroStrategy Incorporated IncÂ (NASDAQ:MSTR)âs CEO Michael SaylorÂ saidÂ one of his tweets played a pivotal role in Teslaâs $1.5 billion investment inÂ BitcoinÂ (CRYPTO: BTC).\râ¦ [+1974 chars]",
-         "description" : "Speaking to Time magazine,Â MicroStrategy Incorporated IncÂ (NASDAQ:MSTR)&...",
-         "publishedAt" : "2021-03-23T00:33:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Benzinga"
-         },
-         "title" : "MicroStrategy CEO Believes His Tweet To Elon Musk Led To Tesla's Bitcoin Investment - Benzinga",
-         "url" : "https://www.benzinga.com/markets/cryptocurrency/21/03/20290058/microstrategy-ceo-believes-his-tweet-to-elon-musk-led-to-teslas-bitcoin-investment",
-         "urlToImage" : "https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/bitcoin_in_your_pocker.jpeg"
-      },
-      {
-         "author" : "Lawrence White, Alun John",
-         "content" : "(Recasts)\r\nFILE PHOTO: Men wearing face masks are seen inside the Shanghai Stock Exchange building, as the country is hit by a novel coronavirus outbreak, at the Pudong financial district in Shanghaiâ¦ [+3688 chars]",
-         "description" : "Shares edged down, bond yields eased and the dollar crept up towards recent peaks on Tuesday with markets in a cautious mood ahead of Congressional testimony by Fed Chair Jerome Powell and Treasury Secretary Janet Yellen later in the day.",
-         "publishedAt" : "2021-03-22T23:55:00Z",
-         "source" : {
-            "id" : "reuters",
-            "name" : "Reuters"
-         },
-         "title" : "China worries weigh on Asian stocks - Reuters",
-         "url" : "https://www.reuters.com/article/us-global-markets-idUSKBN2BE36F",
-         "urlToImage" : "https://static.reuters.com/resources/r/?m=02&d=20210323&t=2&i=1555850357&r=LYNXMPEH2M0AW&w=800"
-      },
-      {
-         "author" : "Connor Smith",
-         "content" : "GameStops\r\n fiscal fourth-quarter earnings report is due after the market closes on Tuesday. Data from Placer.ai indicates foot traffic trends at the stores were mostly steady in January, but were reâ¦ [+1769 chars]",
-         "description" : "GameStop reports earnings on Tuesday. Foot traffic at the retailer's stores has improved since mid-February, according to Placer.ai.",
-         "publishedAt" : "2021-03-22T23:52:00Z",
-         "source" : {
-            "id" : null,
-            "name" : "Barron's"
-         },
-         "title" : "GameStop Reports Earnings on Tuesday. Why There Might Be Good News. - Barron's",
-         "url" : "https://www.barrons.com/articles/gamestop-reports-earnings-on-tuesday-foot-traffic-at-its-stores-is-improving-51616452564",
-         "urlToImage" : "https://images.barrons.com/im-314902/social"
-      },
-      {
-         "author" : "FOX 10 Phoenix",
-         "content" : "PHOENIX (AP) - Any Arizonan ages 16 and older can now register for a COVID-19 vaccine at state-run vaccination sites in Maricopa, Pima and Yuma County starting March 24, Gov. Doug Ducey said in a staâ¦ [+2982 chars]",
-         "description" : "Any Arizonan ages 16 and older can now register for a COVID-19 vaccine at state-run vaccination sites in Maricopa, Pima and Yuma County starting at 8 a.m. on Wednesday.",
-         "publishedAt" : "2021-03-22T23:51:45Z",
-         "source" : {
-            "id" : null,
-            "name" : "FOX 10 News Phoenix"
-         },
-         "title" : "Arizonans ages 16 and older will be eligible for COVID-19 vaccine starting March 24 - FOX 10 News Phoenix",
-         "url" : "https://www.fox10phoenix.com/news/arizonans-ages-16-and-older-will-be-eligible-for-covid-19-vaccine-starting-march-24",
-         "urlToImage" : "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2021/02/1280/720/d3961db5-WOFL-coronavirus-vaccine-needles1.jpg?ve=1&tl=1"
       }
    ],
    "status" : "ok",
