@@ -27,7 +27,7 @@ jobs:
           OUTPUT_FILE="news-api-org/headlines.json"
           curl -X GET \
             --silent \
-            -H 'content-type: application/json' \
+            -H 'content-type: application/json; charset=utf-8' \
             -H "x-api-key: ${{secrets.NEWS_API_KEY}}" \
             'http://newsapi.org/v2/top-headlines?country=us&category=business' | json_pp > $OUTPUT_FILE
           git config --global user.name $GITHUB_ACTOR
