@@ -11,6 +11,7 @@ def fetch(url):
     data = json.loads(response.read())
     pp = pprint.PrettyPrinter(indent=4)
     pp.pprint(data)
+    return data
 
 
 def saveToFile(data, fileName):
