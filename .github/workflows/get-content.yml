@@ -76,6 +76,6 @@ jobs:
           
           cat $OUTPUT_FILE
           
-          git config --global user.name $GITHUB_ACTOR
-          git diff --quiet && git diff --staged --quiet || git commit -am 'Update Top Stories on Movies'
-          git push
+          # git config --global user.name $GITHUB_ACTOR
+          # git diff --quiet && git diff --staged --quiet || git commit -am 'Update Top Stories on Movies'
+          # git push
