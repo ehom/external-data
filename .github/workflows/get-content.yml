@@ -64,15 +64,14 @@ jobs:
           git diff --quiet && git diff --staged --quiet || git commit -am 'Update USD exchange rates'
           git push
 
-      - name: Get Top Stories
+      - name: Get Top Stories on Movies
         run: |
           OUTPUT_FILE=movies.json
           mkdir -p nyt && cd nyt
-          
-          curl -X GET \
-            --silent \
-            -H 'content-type: application/json; charset=utf-8' \
-            https://api.nytimes.com/svc/topstories/v2/movies.json?api-key=${{secrets.NYT_API_KEY}} | json_pp > $OUTPUT_FILE
+         
+          python3 ./fetch-json.py \
+            https://api.nytimes.com/svc/topstories/v2/movies.json?api-key=${{secrets.NYT_API_KEY}} \
+            $OUTPUT_FILE
           
           cat $OUTPUT_FILE
           
