@@ -20,11 +20,11 @@ def saveToFile(data, fileName):
 
 def main(args=None):
     args = sys.argv[1:]
-    # print("args:", args[0])
-    # print("args:", args[1])
+    print("args:", args[0])
+    print("args:", args[1])
 
-    saveToFile(data, args[1])
     data = fetch(args[0])
+    saveToFile(data, args[1])
 
 
 if __name__ == "__main__":
