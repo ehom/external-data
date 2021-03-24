@@ -69,7 +69,7 @@ jobs:
           OUTPUT_FILE=movies.json
           mkdir -p nyt && cd nyt
          
-          python3 ./fetch-json.py \
+          python3 ../fetch-json.py \
             https://api.nytimes.com/svc/topstories/v2/movies.json?api-key=${{secrets.NYT_API_KEY}} \
             $OUTPUT_FILE
           
