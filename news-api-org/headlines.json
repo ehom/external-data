@@ -4,6 +4,32 @@
     "articles": [
         {
             "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "GameStop rebounds 47% as it finds technical support at its 50-day moving average - Business Insider",
+            "description": "Moving averages are a lagging trend-following indicator that traders use to smooth out price movements and help identify the direction of a trend.",
+            "url": "https://www.businessinsider.com/gamestop-stock-price-rebounds-technical-support-50-day-moving-average-2021-3",
+            "urlToImage": "https://images2.markets.businessinsider.com/605c9a80106eb50019d058a4?format=jpeg",
+            "publishedAt": "2021-03-25T17:30:38Z",
+            "content": "Getty Images / Bryan R. Smith\r\n<ul><li>GameStop stock surged as much as 47% on Thursday after it found technical support at its 50-day moving average.</li><li>The stock had previously tumbled 34% fol… [+2557 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Musto",
+            "title": "Georgia man receives last paycheck in oily pennies dumped on his driveway - Fox News",
+            "description": "A Georgia man who was having trouble getting the last paycheck from his employer was shocked to discover its equivalent in pennies dumped in his driveway earlier this month.",
+            "url": "https://www.foxnews.com/us/georgia-man-receives-last-paycheck-in-oill-pennies-dumped-on-his-driveway",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/PENNY-PILE-2-JPG.jpg",
+            "publishedAt": "2021-03-25T16:46:34Z",
+            "content": "A Georgia man who was having trouble getting the last paycheck from his employer was shocked to discover its equivalent in pennies dumped in his driveway earlier this month.\r\nFayetteville's Andreas F… [+2219 chars]"
+        },
+        {
+            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
@@ -14,6 +40,19 @@
             "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-25-2021/t_7c6b133add0c40838712f11d629674f7_name_1___1920x1080___30p_00_00_12_13_Still015.jpg&w=1440",
             "publishedAt": "2021-03-25T16:36:00Z",
             "content": "With democrats in power in President Bidens Washington, the conversation about Facebook has quickly shifted from the GOP boogeyman of anti-conservative bias to how the companys platforms helped fuel … [+2360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Stocks making the biggest moves midday: GameStop, RH, Rite Aid, Nike & more - CNBC",
+            "description": "Check out the companies making headlines in midday trading.",
+            "url": "https://www.cnbc.com/2021/03/25/stocks-making-the-biggest-moves-midday-gamestop-rh-rite-aid-nike-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105820231-1553800124878gettyimages-975340854.jpeg?v=1616614663",
+            "publishedAt": "2021-03-25T16:22:00Z",
+            "content": "Check out the companies making headlines in midday trading. \r\nGameStop Shares rose 31% in midday trading as the volatile video game retailer stock looked to snap a losing streak and curb steep losses… [+2306 chars]"
         },
         {
             "source": {
@@ -30,16 +69,42 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Annie Palmer",
-            "title": "Amazon blasts Bernie Sanders as he heads to Alabama to support union drive - CNBC",
-            "description": "The e-commerce giant and some of its executives have previously taken jabs at Sanders, who is a frequent Amazon critic.",
-            "url": "https://www.cnbc.com/2021/03/25/amazon-blasts-bernie-sanders-as-he-heads-to-alabama-to-support-union-drive.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106421756-1583239023296gettyimages-1209936867.jpeg?v=1583239047",
-            "publishedAt": "2021-03-25T15:28:00Z",
-            "content": "Amazon's consumer boss took a swipe at Sen. Bernie Sanders for planning a visit to Alabama, where a historic union election is currently underway at one of the company's warehouses.\r\nDave Clark, CEO … [+2622 chars]"
+            "author": "Angela Haupt",
+            "title": "Krispy Kreme’s ‘sweet’ vaccine promotion leads to bitter Twitter war - The Washington Post",
+            "description": "Doctors and advocates for the overweight clash over the idea of offering free doughnuts to those who have been inoculated against the coronavirus.",
+            "url": "https://www.washingtonpost.com/lifestyle/wellness/krispy-kreme-free-doughnut-vaccine/2021/03/25/3662706e-8d72-11eb-a6bd-0eb91c03305a_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J332CGENOYI6XIZ63IUJIHFZVQ.jpg&w=1440",
+            "publishedAt": "2021-03-25T15:57:00Z",
+            "content": "Krispy Kreme had thought of the freebie campaign as a kindly nudge to those slow to get vaccinated and a way to help the country as it trudges toward herd immunity. But within days of the announcemen… [+7249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TradeWinds"
+            },
+            "author": "Michael Juliano (m_juliano)",
+            "title": "CDC denies cruise sector's request to lift sailing restrictions by July - TradeWinds",
+            "description": "Cruise association says the sector is the only part of the US economy that remains closed",
+            "url": "https://www.tradewindsnews.com/cruise-and-ferry/cdc-denies-cruise-sectors-request-to-lift-us-sailing-restrictions-by-july/2-1-986849",
+            "urlToImage": "https://images-global.nhst.tech/image/UGJtSXp2c1FDclcyMWxDYnhKVlJjWkRWT2hIckNoVVIrYU5XUEVWdzM1bz0=/nhst/binary/98dcb61ff0c5051b54f9f723aa274828?image_version=720",
+            "publishedAt": "2021-03-25T15:40:00Z",
+            "content": "The US government is upholding its pandemic-driven restrictions on cruise trips in national waters, turning down an industry request to lift the constraints months ahead of schedule.\r\nCruise Lines In… [+2400 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, CNN Business",
+            "title": "$300 a day for a Kia Rio. Why rental cars prices have gone insane - CNN ",
+            "description": "Here's what you need to know if you're planning on a spring break trip to Orlando next week: Renting a car — if you can find one — could cost you at least $300 a day. That's possibly more than you'll spend for air fare, hotel rooms or tickets to theme parks.",
+            "url": "https://www.cnn.com/2021/03/25/business/rental-car-shortage-price-spike/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210324183120-hertz-car-rental-florida-file-restricted-super-tease.jpg",
+            "publishedAt": "2021-03-25T15:26:00Z",
+            "content": null
         },
         {
             "source": {
@@ -69,16 +134,29 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "MarketWatch"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Jeffry Bartash",
-            "title": "U.S. GDP growth in fourth quarter raised slightly to 4.3% - and all signs point to economy speeding up - MarketWatch",
-            "description": "The growth in the U.S. economy in the fourth quarter clocked in at an 4.3% annual pace, a touch higher than previous reported.",
-            "url": "https://www.marketwatch.com/story/u-s-gdp-growth-in-fourth-quarter-raised-slightly-to-4-3-11616677670",
-            "urlToImage": "https://images.mktw.net/im-316084/social",
-            "publishedAt": "2021-03-25T14:07:00Z",
-            "content": "The numbers: The U.S. economy expanded in the fourth quarter at a revised 4.3% annual pace a touch higher than previous reported and even faster growth is expected in the months ahead. Gross domestic… [+2113 chars]"
+            "author": "finanzen.net GmbH",
+            "title": "Billionaire investor Ray Dalio says there's a good chance the US will outlaw bitcoin altogether - just li.. - Business Insider",
+            "description": "The Bridgewater boss said governments 'don't want other monies to be operating, or competing, because things can get out of control.'",
+            "url": "https://www.businessinsider.com/ray-dalio-good-probability-us-ban-bitcoin-btc-cryptocurrencies-2021-3",
+            "urlToImage": "https://images2.markets.businessinsider.com/605c80ea106eb50019d05844?format=jpeg",
+            "publishedAt": "2021-03-25T14:18:11Z",
+            "content": "Ray Dalio said bitcoin had become like \"digital cash.\"\r\nRuben Sprich/Reuters\r\nRay Dalio, the founder of the world's biggest hedge fund, has raised concerns the US government could ban bitcoin altoget… [+1783 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Dean",
+            "title": "Amazon asks lawmaker if he believes workers pee in bottles - Business Insider",
+            "description": "Amazon's efforts to discourage Alabama warehouse workers from unionizing have drawn criticism from Democratic lawmakers including Bernie Sanders.",
+            "url": "https://www.businessinsider.com/amazon-alabama-union-lawmaker-workers-pee-bottles-dave-clark-sanders-2021-3",
+            "urlToImage": "https://i.insider.com/605c6093106eb50019d0580e?width=1200&format=jpeg",
+            "publishedAt": "2021-03-25T14:03:45Z",
+            "content": "Amazon would really like Democratic lawmakers to forget stories about its warehouse workers peeing in bottles amid allegations of union-busting tactics.\r\nThe retail giant told one of its critics, Dem… [+3425 chars]"
         },
         {
             "source": {
@@ -96,15 +174,67 @@
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "New York Times"
             },
-            "author": "Max Zahn with Andy Serwer",
-            "title": "Ray Dalio says there's a bubble that's 'halfway' to the magnitude of 1929 or 2000 - Yahoo Finance",
-            "description": "Billionaire investor Ray Dalio — who founded the world's largest hedge fund, Bridgewater Associates — in a new interview warned that the stock market is a...",
-            "url": "https://finance.yahoo.com/news/ray-dalio-current-bubble-halfway-to-2000-and-1929-131918391.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4Hp.6oCQf4To2ExtP0_5Kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzM0/https://s.yimg.com/os/creatr-uploaded-images/2021-03/bb5228c0-8d61-11eb-bfef-8cb6032559d1",
-            "publishedAt": "2021-03-25T13:19:18Z",
-            "content": "Every investor knows that the path toward profits lies in buying low and selling high. Thats a basic precept of any economic trading system. The trick, however, is recognizing when the stock is low e… [+7790 chars]"
+            "author": "Mike Ives",
+            "title": "NFT Artwork by Sophia the Robot Sells for Nearly $700,000 - The New York Times",
+            "description": "An artwork that sold for nearly $700,000 was the latest in the frenzied market for digital art — and possibly the first created in part by a non-human.",
+            "url": "https://www.nytimes.com/2021/03/25/arts/sophia-robot-nft.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/03/25/world/25xp-robot/25xp-robot-facebookJumbo.jpg",
+            "publishedAt": "2021-03-25T13:42:23Z",
+            "content": "Hanson Robotics did not respond to an interview request. Nor did the artist, Mr. Bonaceto, the chief executive of the blockchain investment firm Eterna Capital, based in London.\r\nSophia is a humanoid… [+882 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Frank Witsil",
+            "title": "Dan, Jennifer Gilbert announce $500 million investment in Detroit neighborhoods - Detroit Free Press",
+            "description": "The first $15 million will go to help cover delinquent property tax in the city",
+            "url": "https://www.freep.com/story/money/business/michigan/2021/03/25/dan-gilbert-jennifer-detroit-investment-cbs-morning/6994512002/",
+            "urlToImage": "https://www.gannett-cdn.com/-mm-/8daa811fbd2d4bbf93c3c96fd008b131d5cd3afd/c=0-73-2397-1427/local/-/media/2018/05/29/DetroitFreeP/DetroitFreePress/636632028582515432-seals-5-gala.jpg?width=1600&height=800&fit=crop",
+            "publishedAt": "2021-03-25T13:38:53Z",
+            "content": "Dan Gilbert gets a hand getting back into his chair as he prepares to leave the stage during the Crain's Newsmakers of the Year event at MGM Grand on Friday, February 21, 2020.\r\n (Photo: Mandi Wright… [+4797 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Panetta",
+            "title": "Chicago hospital CFO resigns over vaccinations for Trump Tower employees - Business Insider",
+            "description": "Block Club Chicago reported that ineligible hotel workers were vaccinated under a program meant to deliver vaccines to underserved communities.",
+            "url": "https://www.businessinsider.com/chicago-hospital-cfo-resigns-over-vaccinations-for-trump-tower-employees-2021-3",
+            "urlToImage": "https://i.insider.com/5f8e0404c21cfb0019468e82?width=1200&format=jpeg",
+            "publishedAt": "2021-03-25T13:24:10Z",
+            "content": "A top official at a Chicago hospital that was involved in improperly administering vaccines to ineligible Trump Tower employees has resigned, CNN reported Thursday. \r\nDr. Anosh Ahmed, the CFO and COO… [+2051 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Hollan",
+            "title": "Southwest Airlines returns to pre-pandemic boarding policy - Fox News",
+            "description": "During the pandemic, the airline (which does not assign seats) utilized a boarding system where passengers would board in smaller groups of 10. Last week, however, the carrier resumed its pre-pandemic policy.",
+            "url": "https://www.foxnews.com/travel/southwest-airlines-pre-pandemic-boarding-policy",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/155042ed-iStock-1162396033.jpg",
+            "publishedAt": "2021-03-25T13:20:02Z",
+            "content": "At least one airline is resuming some of its pre-pandemic operations.\r\nSouthwest Airlines confirmed to Fox News that it has resumed its traditional boarding process. During the pandemic, the airline … [+1361 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": null,
+            "title": "AMD upgraded at Northland after Intel's foundry 'faux pas' - Seeking Alpha",
+            "description": "Saying that Intel (INTC) has &quot;made a strategic faux pas re-committing to entering the foundry business,&quot;Northland Capital analyst Gus Richard upgrades Advanced Micro...",
+            "url": "https://seekingalpha.com/news/3676213-amd-upgraded-at-northland-after-intels-foundry-faux-pas",
+            "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+            "publishedAt": "2021-03-25T13:20:00Z",
+            "content": null
         },
         {
             "source": {
@@ -121,146 +251,16 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Devik Jain",
-            "title": "US STOCKS-Tech stocks, banks set to drag Wall St lower at open - Reuters",
-            "description": "* Futures off: Dow 0.45%, S&P 0.44%, Nasdaq 0.55% (Adds comment; updates prices)",
-            "url": "https://www.reuters.com/article/usa-stocks-idUSL4N2LN37S",
-            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-            "publishedAt": "2021-03-25T13:11:00Z",
-            "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)\r\n* Weekly jobless claims fall\r\n* All eyes on Bidens press conference later in the day\r\n* … [+3176 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "WFLA"
             },
-            "author": "Michael Sheetz",
-            "title": "Rocket builder ABL raises $170 million from T. Rowe, Fidelity to become the latest space unicorn - CNBC",
-            "description": "Rocket builder ABL Space closed a $170 million round of funding from new investors T. Rowe Price and Fidelity Management, at a valuation of $1.3 billion.",
-            "url": "https://www.cnbc.com/2021/03/25/abl-space-raises-170m-from-t-rowe-fidelity-at-1point3-billion-valuation.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106859103-1616631924407-RS1_Acceptance_Testing.jpg?v=1616631978",
-            "publishedAt": "2021-03-25T13:02:00Z",
-            "content": "An RS1 rocket booster undergoes acceptance testing.\r\nRocket builder ABL Space closed a $170 million round of funding, the company announced on Thursday, making it the latest private space venture to … [+3750 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Michael Wayland",
-            "title": "Ex-HP CEO Meg Whitman and NBA COO Mark Tatum join General Motors board - CNBC",
-            "description": "The elections come at a pivotal time for the automaker, which plans to transition to exclusively offering electric vehicles by 2035.",
-            "url": "https://www.cnbc.com/2021/03/25/ex-hp-exec-meg-whitman-nba-coo-mark-tatum-join-general-motors-board.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106327276-1578518344216rts2xo4z.jpg?v=1578518433",
-            "publishedAt": "2021-03-25T13:00:00Z",
-            "content": "DETROIT General Motors is adding former Hewlett Packard executive Meg Whitman and National Basketball Association Chief Operating Officer Mark Tatum to its board, effective immediately.\r\nThe election… [+2427 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Crain's Detroit Business"
-            },
-            "author": "Kurt Nagl",
-            "title": "Dan and Jennifer Gilbert to invest $500 million in Detroit neighborhoods - Crain's Detroit Business",
-            "description": "Billionaire businessman Dan Gilbert and his wife, Jennifer, plan to invest $500 million to revitalize Detroit's neighborhoods over the next 10 years, they said during a TV interview that aired Thursday morning.",
-            "url": "https://www.crainsdetroit.com/philanthropy/dan-and-jennifer-gilbert-invest-500-million-detroit-neighborhoods",
-            "urlToImage": "https://s3-prod.crainsdetroit.com/styles/800x600/s3/Dan%20and%20Jennifer%20Gilbert_0325201_0.jpg",
-            "publishedAt": "2021-03-25T12:52:16Z",
-            "content": "Skip to main content"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Associated Press",
-            "title": "U.S. jobless claims fall to 684000, fewest since pandemic - POLITICO",
-            "description": "Thursday’s report from the Labor Department showed that jobless claims fell from 781,000 the week before.",
-            "url": "https://www.politico.com/news/2021/03/25/us-jobless-claims-fall-fewest-since-pandemic-477970",
-            "urlToImage": "https://static.politico.com/80/ee/89c399514158a96ad785907082a5/now-hiring-sign-773-ap.jpg",
-            "publishedAt": "2021-03-25T12:51:10Z",
-            "content": "Their prolonged joblessness could prove to be a long-term hindrance: Typically, many people who have been unemployed for extended periods struggle to find work even as the economy regains its health.… [+3340 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Heather Murphy",
-            "title": "A Man Demanded His Final Paycheck. The Auto Shop Delivered 91,500 Greasy Pennies. - The New York Times",
-            "description": "It’s not technically illegal to do so, according to the Department of Labor, but that doesn’t make it OK, according to the former employee’s new Instagram fans.",
-            "url": "https://www.nytimes.com/2021/03/25/business/auto-shop-pennies.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/03/24/multimedia/24xp-pennies-04/24xp-pennies-04-facebookJumbo.jpg",
-            "publishedAt": "2021-03-25T12:48:57Z",
-            "content": "Miles Walker, the owner of the repair shop, did not respond to a request for comment. He told CBS46 that he couldnt remember whether he dropped the pennies on his former employees driveway. It doesnt… [+1026 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "Jerome Powell: Economy Is Better Thanks To 'Dunkirk'-Like Rescue By Fed, Congress - NPR",
-            "description": "The Federal Reserve chairman tells NPR that the U.S. economy is on a clear path to recovery thanks to the Fed's rescue plan and the stimulus passed by Congress.",
-            "url": "https://www.npr.org/2021/03/25/981121508/jerome-powell-economy-is-better-thanks-to-dunkirk-like-rescue-by-fed-congress",
-            "urlToImage": "https://media.npr.org/assets/img/2021/03/25/gettyimages-1229907337_wide-d1e0f11ccc07166923400489d85f23898c7c88e1.jpg?s=1400",
-            "publishedAt": "2021-03-25T12:33:48Z",
-            "content": "Federal Reserve Chair Jerome Powell testifies during a House Financial Services Committee hearing on Dec. 2, 2020. In an interview with NPR on Thursday, Powell compared the central bank's response to… [+3905 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Keris Lahiff",
-            "title": "Home Depot or Lowe’s? Two traders disagree on which is the better bet - CNBC",
-            "description": "Home Depot and Lowe's are breaking out, but a fundamentals investor and a technician disagree on which is the better pick.",
-            "url": "https://www.cnbc.com/2021/03/25/home-depot-or-lowes-two-traders-disagree-on-which-is-the-better-bet.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106799873-1605822751374-Untitled-3.jpg?v=1616615131",
-            "publishedAt": "2021-03-25T12:30:00Z",
-            "content": "Home Depot and Lowe's are breaking out.\r\nThe two stocks hit record highs Wednesday Home Depot for a second day in a row, Lowe's for a third. The two chains were investor favorites during the pandemic… [+1609 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Jalopnik"
-            },
-            "author": "Raphael Orlove",
-            "title": "The Alpina B8 Gran Coupe Makes Too Much Power - Jalopnik",
-            "description": "There’s something strange about this Alpina B8 Gran Coupe. Normally there’s a fairly clear delineation between the all-powerful M and the more cruiser-style B. But this time the roles are reversed. If you roll up to a stoplight in your BMW M8 Gran Coupe, the …",
-            "url": "https://jalopnik.com/the-alpina-b8-gran-coupe-makes-too-much-power-1846547653",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cg1bld5ovmtlt8tk5qq5.jpg",
-            "publishedAt": "2021-03-25T12:30:00Z",
-            "content": "Theres something strange about this Alpina B8 Gran Coupe. Normally theres a fairly clear delineation between the all-powerful M and the more cruiser-style B. But this time the roles are reversed. If … [+1922 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Morgan Gstalter",
-            "title": "Chicago hospital exec resigns after improper Trump Tower vaccine distribution | TheHill - The Hill",
-            "description": "A top Chicago hospital executive resigned on Wednesday after it was discovered that he...",
-            "url": "https://thehill.com/policy/healthcare/544851-chicago-hospital-exec-resigns-after-improper-trump-tower-vaccine",
-            "urlToImage": "https://thehill.com/sites/default/files/trumphotelchicago_20621_gettyimages.jpg",
-            "publishedAt": "2021-03-25T12:05:45Z",
-            "content": "A top Chicago hospital executive resigned on Wednesday after it was discovered that he improperly distributed COVID-19 vaccines to Trump Tower and other businesses where he had close ties.\r\nBlock Clu… [+2682 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Electric Car Range | Edmunds' EV Range Super Test | Tesla Model Y & Model 3, Ford Mustang Mach-E - Edmunds",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bTRJSkdNaWxzcWvSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-03-25T12:00:11Z",
-            "content": null
+            "author": "WFLA 8 On Your Side Staff",
+            "title": "Florida to start vaccinating adults 40 and older Monday, 18+ next month, DeSantis says - WFLA",
+            "description": "Florida is expanding eligibility for coronavirus vaccines to anyone age 40 and older and everyone over 18 will be eligible to get a vaccine by next month, Gov. Ron DeSantis announced Thursday.",
+            "url": "https://www.wfla.com/community/health/coronavirus/florida-will-expand-covid-19-vaccine-eligibility-to-everyone-40-and-older-monday-desantis-says/",
+            "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2021/03/VACCINE.jpg?w=1280",
+            "publishedAt": "2021-03-25T13:14:52Z",
+            "content": "TAMPA, Fla. (WFLA) Florida is expanding eligibility for coronavirus vaccines to anyone age 40 and older and everyone over 18 will be eligible to get a vaccine by next month, Gov. Ron DeSantis announc… [+967 chars]"
         }
     ]
 }
