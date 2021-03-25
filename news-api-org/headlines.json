@@ -4,16 +4,172 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "New York Times"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Nelson D. Schwartz",
-            "title": "Today's Business News: Live Updates on United Airlines and Unemployment Claims - The New York Times",
-            "description": "",
-            "url": "https://www.nytimes.com/live/2021/03/25/business/stock-market-today",
-            "urlToImage": "https://static01.nyt.com/images/2021/03/25/us/25economy-briefing-jobless/25economy-briefing-jobless-facebookJumbo.jpg",
-            "publishedAt": "2021-03-25T12:41:20Z",
-            "content": "LiveUpdated March 25, 2021, 8:48 a.m. ET\r\nMarch 25, 2021, 8:48 a.m. ET\r\nHeres what you need to know:\r\nWhile vaccination efforts have gathered speed and restrictions on activities have receded in many… [+18159 chars]"
+            "author": "Caitlin Ostroff",
+            "title": "Stocks Drop Despite Improved Jobs Data - The Wall Street Journal",
+            "description": "Fall in jobless claims points to further recovery in labor market, but technology stocks send major indexes lower",
+            "url": "https://www.wsj.com/articles/global-stock-markets-dow-update-03-25-2021-11616661781",
+            "urlToImage": "https://images.wsj.net/im-316274/social",
+            "publishedAt": "2021-03-25T14:16:09Z",
+            "content": "U.S. stocks remained under pressure on Thursday after fresh data indicated further recovery in the labor market. \r\nThe S&amp;P 500 fell 0.8%, while the Nasdaq Composite shed 1.2% a day after the tech… [+1130 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jeffry Bartash",
+            "title": "U.S. GDP growth in fourth quarter raised slightly to 4.3% - and all signs point to economy speeding up - MarketWatch",
+            "description": "The growth in the U.S. economy in the fourth quarter clocked in at an 4.3% annual pace, a touch higher than previous reported.",
+            "url": "https://www.marketwatch.com/story/u-s-gdp-growth-in-fourth-quarter-raised-slightly-to-4-3-11616677670",
+            "urlToImage": "https://images.mktw.net/im-316084/social",
+            "publishedAt": "2021-03-25T14:07:00Z",
+            "content": "The numbers: The U.S. economy expanded in the fourth quarter at a revised 4.3% annual pace a touch higher than previous reported and even faster growth is expected in the months ahead. Gross domestic… [+2113 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jordan Valinsky, CNN Business",
+            "title": "Pepsi's newest flavor has Peeps in it - CNN",
+            "description": "Good news, Peeps fans! Not only will Peeps be back on store shelves in time for Easter, but they'll come in a new form too.",
+            "url": "https://www.cnn.com/2021/03/25/business/peeps-pepsi-flavor/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210325063156-restricted-02-peeps-pepsi-super-tease.jpg",
+            "publishedAt": "2021-03-25T13:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Max Zahn with Andy Serwer",
+            "title": "Ray Dalio says there's a bubble that's 'halfway' to the magnitude of 1929 or 2000 - Yahoo Finance",
+            "description": "Billionaire investor Ray Dalio — who founded the world's largest hedge fund, Bridgewater Associates — in a new interview warned that the stock market is a...",
+            "url": "https://finance.yahoo.com/news/ray-dalio-current-bubble-halfway-to-2000-and-1929-131918391.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4Hp.6oCQf4To2ExtP0_5Kg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzM0/https://s.yimg.com/os/creatr-uploaded-images/2021-03/bb5228c0-8d61-11eb-bfef-8cb6032559d1",
+            "publishedAt": "2021-03-25T13:19:18Z",
+            "content": "Every investor knows that the path toward profits lies in buying low and selling high. Thats a basic precept of any economic trading system. The trick, however, is recognizing when the stock is low e… [+7790 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "SPACs aren't popping anymore as new deals flood the market, scrutiny increases - CNBC",
+            "description": "\"The huge increase in supply has been having an effect on the prices of SPACs,\" said Jay Ritter. \"This supply surge is overwhelming the market.\"",
+            "url": "https://www.cnbc.com/2021/03/25/spacs-arent-popping-anymore-as-new-deals-flood-the-market-scrutiny-increases.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104846378-GettyImages-109352836.jpg?v=1567188178",
+            "publishedAt": "2021-03-25T13:19:00Z",
+            "content": "Just a few weeks ago, every SPAC IPO was guaranteed a big pop on the first day it came to the public market. Not anymore.\r\nThe first-day return of U.S. special purpose acquisition companies has dropp… [+279 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "fox8.com"
+            },
+            "author": "The Associated Press",
+            "title": "Georgia man receives final paycheck in pile of greasy pennies left in driveway - WJW FOX 8 News Cleveland",
+            "description": "A Georgia man said his former employer owed him a pretty penny, $915 to be exact, after leaving his job in November.",
+            "url": "https://fox8.com/news/georgia-man-receives-final-paycheck-in-pile-of-greasy-pennies-left-in-driveway/",
+            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2021/03/Pennies.jpg?w=1280",
+            "publishedAt": "2021-03-25T13:13:09Z",
+            "content": "ATLANTA (AP) A Georgia man said his former employer owed him a pretty penny, $915 to be exact, after leaving his job in November.\r\nBut Andreas Flaten said he was shocked to see his final payment: 90,… [+1777 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Sheetz",
+            "title": "Rocket builder ABL raises $170 million from T. Rowe, Fidelity to become the latest space unicorn - CNBC",
+            "description": "Rocket builder ABL Space closed a $170 million round of funding from new investors T. Rowe Price and Fidelity Management, at a valuation of $1.3 billion.",
+            "url": "https://www.cnbc.com/2021/03/25/abl-space-raises-170m-from-t-rowe-fidelity-at-1point3-billion-valuation.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106859103-1616631924407-RS1_Acceptance_Testing.jpg?v=1616631978",
+            "publishedAt": "2021-03-25T13:02:00Z",
+            "content": "An RS1 rocket booster undergoes acceptance testing.\r\nRocket builder ABL Space closed a $170 million round of funding, the company announced on Thursday, making it the latest private space venture to … [+3750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Ex-HP CEO Meg Whitman and NBA COO Mark Tatum join General Motors board - CNBC",
+            "description": "The elections come at a pivotal time for the automaker, which plans to transition to exclusively offering electric vehicles by 2035.",
+            "url": "https://www.cnbc.com/2021/03/25/ex-hp-exec-meg-whitman-nba-coo-mark-tatum-join-general-motors-board.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106327276-1578518344216rts2xo4z.jpg?v=1578518433",
+            "publishedAt": "2021-03-25T13:00:00Z",
+            "content": "DETROIT General Motors is adding former Hewlett Packard executive Meg Whitman and National Basketball Association Chief Operating Officer Mark Tatum to its board, effective immediately.\r\nThe election… [+2427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Philadelphia Inquirer"
+            },
+            "author": "Rob Tornoe",
+            "title": "COVID-19 cases surging in Pa. and N.J. as variants spread; experts split on eating at a restaurant once vaccin - The Philadelphia Inquirer",
+            "description": "Pennsylvania reported more than 4,000 cases for the first time in a month, the most infections in a single day since the beginning of February.",
+            "url": "https://www.inquirer.com/health/coronavirus/live/covid-coronavirus-vaccine-philadelphia-pa-nj-cases-restrictions-updates-20210325.html",
+            "urlToImage": "https://www.inquirer.com/resizer/T_1dnNseKFxRrjym3Fsn8cIB5Mo=/760x507/smart/cloudfront-us-east-1.images.arcpublishing.com/pmn/YKTV6KVZWVGKZFVMUGR4YYXMFA.jpg",
+            "publishedAt": "2021-03-25T12:56:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nicole Wetsman",
+            "title": "Adjusted AstraZeneca data shows COVID-19 vaccine 76 percent effective - The Verge",
+            "description": "AstraZeneca released new data on its COVID-19 vaccine after US health officials rebuked its first press release. The company released incomplete data. The vaccine appears effective.",
+            "url": "https://www.theverge.com/2021/3/25/22346706/covid-vaccine-astrazeneca-data-niaid-effective",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/jfkZWS8mK3qGxWf2P0wPVG6r_hQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22357718/acastro_210309_1777_vaccine_0002.jpg",
+            "publishedAt": "2021-03-25T12:35:54Z",
+            "content": "Federal officials publicly rebuked the company earlier this week\r\nIllustration by Alex Castro / The Verge\r\nAstraZeneca released updated data on its COVID-19 vaccine, saying a more recent analysis sho… [+2413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Jerome Powell: Economy Is Better Thanks To 'Dunkirk'-Like Rescue By Fed, Congress - NPR",
+            "description": "The Federal Reserve chairman tells NPR that the U.S. economy is on a clear path to recovery thanks to the Fed's rescue plan and the stimulus passed by Congress.",
+            "url": "https://www.npr.org/2021/03/25/981121508/jerome-powell-economy-is-better-thanks-to-dunkirk-like-rescue-by-fed-congress",
+            "urlToImage": "https://media.npr.org/assets/img/2021/03/25/gettyimages-1229907337_wide-d1e0f11ccc07166923400489d85f23898c7c88e1.jpg?s=1400",
+            "publishedAt": "2021-03-25T12:33:48Z",
+            "content": "Federal Reserve Chair Jerome Powell testifies during a House Financial Services Committee hearing on Dec. 2, 2020. In an interview with NPR on Thursday, Powell compared the central bank's response to… [+3905 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Weekly jobless claims tumble to lowest level in more than a year - CNBC",
+            "description": "Claims totaled 684,000 for the week ended March 20, the first time the number has been below 700,000 during the Covid-19 era.",
+            "url": "https://www.cnbc.com/2021/03/25/weekly-jobless-claims.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106822592-1610401740367-closing.jpg?v=1616623498",
+            "publishedAt": "2021-03-25T12:31:00Z",
+            "content": "First-time claims for unemployment insurance unexpectedly fell sharply last week amid signs that hiring has picked up in the U.S. economy, the Labor Department reported Thursday.\r\nClaims totaled 684,… [+2575 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jalopnik"
+            },
+            "author": "Raphael Orlove",
+            "title": "The Alpina B8 Gran Coupe Makes Too Much Power - Jalopnik",
+            "description": "There’s something strange about this Alpina B8 Gran Coupe. Normally there’s a fairly clear delineation between the all-powerful M and the more cruiser-style B. But this time the roles are reversed. If you roll up to a stoplight in your BMW M8 Gran Coupe, the …",
+            "url": "https://jalopnik.com/the-alpina-b8-gran-coupe-makes-too-much-power-1846547653",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cg1bld5ovmtlt8tk5qq5.jpg",
+            "publishedAt": "2021-03-25T12:30:00Z",
+            "content": "Theres something strange about this Alpina B8 Gran Coupe. Normally theres a fairly clear delineation between the all-powerful M and the more cruiser-style B. But this time the roles are reversed. If … [+1922 chars]"
         },
         {
             "source": {
@@ -30,16 +186,16 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "the-hill",
+                "name": "The Hill"
             },
-            "author": "Jeff Cox",
-            "title": "Powell praises economic recovery and sees Fed pulling back help after 'substantial' progress - CNBC",
-            "description": "At some point, that will allow the central bank to dial back the help it has provided, though Powell said now is not that time.",
-            "url": "https://www.cnbc.com/2021/03/25/powell-praises-economic-recovery-and-sees-fed-pulling-back-help-after-substantial-progress.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106805092-16069241572020-12-02t154702z_2081102292_rc23fk9kbcme_rtrmadp_0_usa-house-hearing.jpeg?v=1608139914",
-            "publishedAt": "2021-03-25T12:08:00Z",
-            "content": "Powerful fiscal help from Congress combined with accelerated vaccine distribution has allowed the U.S. economy to recover faster than expected, Federal Reserve Chairman Jerome Powell said Thursday.\r\n… [+2334 chars]"
+            "author": "Morgan Gstalter",
+            "title": "Chicago hospital exec resigns after improper Trump Tower vaccine distribution | TheHill - The Hill",
+            "description": "A top Chicago hospital executive resigned on Wednesday after it was discovered that he...",
+            "url": "https://thehill.com/policy/healthcare/544851-chicago-hospital-exec-resigns-after-improper-trump-tower-vaccine",
+            "urlToImage": "https://thehill.com/sites/default/files/trumphotelchicago_20621_gettyimages.jpg",
+            "publishedAt": "2021-03-25T12:05:45Z",
+            "content": "A top Chicago hospital executive resigned on Wednesday after it was discovered that he improperly distributed COVID-19 vaccines to Trump Tower and other businesses where he had close ties.\r\nBlock Clu… [+2682 chars]"
         },
         {
             "source": {
@@ -59,19 +215,6 @@
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Matthew J. Belvedere",
-            "title": "5 things to know before the stock market opens Thursday - CNBC",
-            "description": "U.S. stock futures turned lower Thursday after morning comments from Fed Chairman Jerome Powell. Wall Street finished lower Wednesday.",
-            "url": "https://www.cnbc.com/2021/03/25/5-things-to-know-before-the-stock-market-opens-thursday-march-25.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106855571-1616010833206-ATHNU-Photo-20210317-Press-0912.jpg?v=1616010893",
-            "publishedAt": "2021-03-25T12:01:00Z",
-            "content": "Here are the most important news, trends and analysis that investors need to start their trading day:\r\n1. Stock futures turn lower after Fed chief Powell's comments\r\nTraders on the floor of the New Y… [+4930 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
             "author": "Peter Schacknow",
             "title": "Stocks making the biggest moves in the premarket: Rite Aid, Coherent, RH, Nike & more - CNBC",
             "description": "The stocks making the biggest moves in premarket trading include Rite Aid, Coherent, RH, Nike, and more.",
@@ -83,184 +226,41 @@
         {
             "source": {
                 "id": null,
-                "name": "fox8.com"
+                "name": "CNBC"
             },
-            "author": "WNCN, Nexstar Media Wire",
-            "title": "Gym owner giving free memberships to those who don’t get vaccinated - WJW FOX 8 News Cleveland",
-            "description": "In light of popular doughnut shop Krispy Kreme offering free doughnuts to those who have received a COVID-19 vaccine, one gym owner is doing the opposite.",
-            "url": "https://fox8.com/news/gym-owner-giving-free-memberships-to-those-who-dont-get-vaccinated/",
-            "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2021/03/GettyImages-470333791.jpg?w=1280",
-            "publishedAt": "2021-03-25T11:25:02Z",
-            "content": "BELLMAWR, N.J. (WNCN) — In light of popular doughnut shop Krispy Kreme offering free doughnuts to those who have received a COVID-19 vaccine, one gym owner is doing the opposite. \r\nIan Smith, who say… [+1502 chars]"
+            "author": "Amelia Lucas",
+            "title": "Olive Garden parent's earnings beat, forecasts stronger sales next quarter - CNBC",
+            "description": "Darden Restaurants stock surges after the company reported quarterly earnings that topped analysts' expectations.",
+            "url": "https://www.cnbc.com/2021/03/25/darden-restaurants-dri-q3-2021-earnings-beat.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106858848-1616608490171-gettyimages-1231905021-DARDEN_EARNS.jpeg?v=1616608545",
+            "publishedAt": "2021-03-25T11:25:00Z",
+            "content": "Darden Restaurants on Thursday reported quarterly earnings that topped analysts' expectations as customers visited Olive Garden and its other chains more than expected.\r\nThe company is forecasting th… [+2735 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Alexandria Hein",
-            "title": "AstraZeneca COVID-19 vaccine shows 76% efficacy against symptomatic infection in updated data - Fox News",
-            "description": "AstraZeneca on Thursday published an updated analysis confirming that a Phase 3 trial involving its COVID-19 vaccine was safe and effective, and showed to be 76% effective against symptomatic COVID-19.",
-            "url": "https://www.foxnews.com/health/astrazeneca-covid-19-vaccine-shows-76-efficacy-against-symptomatic-infection-in-updated-data",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/astrazeneca_vac_AP.jpg",
-            "publishedAt": "2021-03-25T11:14:34Z",
-            "content": "AstraZeneca on Thursday published an updated analysis confirming that a Phase 3 trial involving its COVID-19vaccine was safe and effective, and showed to be 76% effective against symptomatic COVID-19… [+2954 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Cortney Moore",
-            "title": "Girl Scout troop leader indicted for allegedly stealing $12,500 from cookie sales. event fees - Fox News",
-            "description": "Jill Gauthier, 49, is said to have transferred $12,500 into her personal bank accounts in a span of about five years, according to an investigation conducted by the Yost Charitable Law Section and the Pataskala Police Department.",
-            "url": "https://www.foxnews.com/food-drink/girl-scout-troop-leader-indicted-stealing-12500-cookie-sales-event-fees",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/iStock-1015451894.jpg",
-            "publishedAt": "2021-03-25T11:07:11Z",
-            "content": "A Girl Scout troop leader from Ohio has been indicted for her alleged role in pocketing money from cookie sales and event fees. \r\nNews of the indictment comes straight from the office of Ohio Attorne… [+2616 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Ann Schmidt",
-            "title": "American Cruise Lines requires COVID-19 vaccine for cruises through April 10 - Fox News",
-            "description": "The cruise operator said it will require COVID-19 vaccines for passengers on all cruises until April 10.",
-            "url": "https://www.foxnews.com/travel/american-cruise-lines-requires-vaccine-temporarily",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/American-Cruise-Lines-Independence-in-Savannah.jpg",
-            "publishedAt": "2021-03-25T10:55:51Z",
-            "content": "American Cruise Lines, a Connecticut-based operator of smaller cruises and riverboat cruises, has temporarily mandated that passengers are vaccinated against the coronavirus on all of its sailings. \r… [+2750 chars]"
+            "author": null,
+            "title": "Container ship stuck in the Suez Canal for over 24 hours - CNBC Television",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MWpxQWVFcmZya1nSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-03-25T11:10:03Z",
+            "content": null
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Aimee Picchi",
-            "title": "Stimulus check: Some Social Security recipients say they're left behind - CBS News",
-            "description": "\"I'm having to put off everything,\" one retiree said as he awaits the latest round of government cash.",
-            "url": "https://www.cbsnews.com/news/stimulus-check-social-security-recipients-delay/",
-            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/10/fb03a5a5-fd82-49ca-9b1e-adeea6135f62/thumbnail/1200x630/44c8033c14d74f96c0c596ad280e6138/gettyimages-1218079974-1.jpg",
-            "publishedAt": "2021-03-25T10:44:52Z",
-            "content": "IRS officials have touted the agency's delivery of the latest round of stimulus checks as reaching eligible Americans in \"record time.\" Yet some Social Security recipients in urgent need of financial… [+3871 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Seeking Alpha"
-            },
-            "author": null,
-            "title": "More pressure for Chinese tech stocks as SEC rolls out delisting law - Seeking Alpha",
-            "description": "Dual-listed Chinese companies are extending losses in the premarket session, including shares of Alibaba (BABA), Baidu (BIDU), JD.Com (JD) and Netease (NTES), after the SEC adopted...",
-            "url": "https://seekingalpha.com/news/3676074-more-pressure-for-chinese-tech-stocks-as-sec-rolls-out-delisting-law",
-            "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
-            "publishedAt": "2021-03-25T10:07:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Yahoo Finance Video",
-            "title": "Ray Dalio: Current bubble ‘halfway’ to 2000 and 1929 - Yahoo Finance",
-            "description": "Bridgewater Associates founder Ray Dalio joins 'Influencers with Andy Serwer' to discuss the volatility on Wall Street and surge in U.S. equities.",
-            "url": "https://finance.yahoo.com/video/ray-dalio-current-bubble-halfway-100000694.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RHeL5v94BofqP5q6sn8iCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI0/https://s.yimg.com/uu/api/res/1.2/CmNDRXYMTUjIzA8SDagzFg--~B/aD0xODU0O3c9MzMwMDthcHBpZD15dGFjaHlvbg--/https://img.vidible.tv/prod/2021-03/24/605b5b11ae808b2660725fcb/605b5b11ae808b2660725fcc_o_U_v2.jpg",
-            "publishedAt": "2021-03-25T10:00:00Z",
-            "content": "Bridgewater Associates founder Ray Dalio joins 'Influencers with Andy Serwer' to discuss the volatility on Wall Street and surge in U.S. equities.\r\nVideo Transcript\r\nANDY SERWER: the one hand, you're… [+2063 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Michael Sheetz",
-            "title": "Space infrastructure conglomerate Redwire to go public via a SPAC - CNBC",
-            "description": "Space infrastructure conglomerate Redwire Space is preparing to go public via a SPAC, the company announced Thursday.",
-            "url": "https://www.cnbc.com/2021/03/25/redwire-space-going-public-via-a-spac-after-year-of-acquisitions.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106859027-1616623216174-redwire_nasa_admin.jpg?v=1616623299",
-            "publishedAt": "2021-03-25T09:55:00Z",
-            "content": "Redwire chief operating officer Andrew Rush shows former NASA administrator Jim Bridenstine a spacecraft model of subsidiary Made In Space.\r\nSpace infrastructure conglomerate Redwire Space is prepari… [+5077 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HuffPost"
-            },
-            "author": "Lee Moran",
-            "title": "Top Amazon Exec’s Snarky Tweets For Bernie Sanders Backfire - HuffPost",
-            "description": "Bad news articles rained down following the posts.",
-            "url": "https://www.huffpost.com/entry/amazon-executive-bernie-sanders-attack-backfires_n_605c403cc5b65d1c28129b8e",
-            "urlToImage": "https://img.huffingtonpost.com/asset/605c4c76390000160eeb21a2.jpeg?cache=eqga6ifkbd&ops=1778_1000",
-            "publishedAt": "2021-03-25T09:47:00Z",
-            "content": "Top Amazon executive Dave Clark attempted to mock Sen. Bernie Sanders (I-Vt.) on Twitter and was immediately bombarded with negative news articles about the company.\r\nClark, who is CEO of Amazons wor… [+2386 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "David Aaro",
-            "title": "Pilot caught in bizarre hot mic raging against California’s Bay Area - Fox News",
-            "description": "A pilot was allegedly heard delivering an expletive-laced rant about the San Francisco Bay Area earlier this month, reports said.",
-            "url": "https://www.foxnews.com/travel/pilot-caught-on-hot-mic-appears-to-go-on-profanity-laced-tirade-about-the-sf-bay-area",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/GettyImages-507815088.jpg",
-            "publishedAt": "2021-03-25T06:43:39Z",
-            "content": "A pilot was heard delivering an expletive-laced rant about the San Francisco Bay Area earlier this month, reports said. \r\nThe bizarre diatribe was picked up on the Mineta San Jose International Airpo… [+1827 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Evelyn Cheng",
-            "title": "Goldman Sachs says surging demand for electric car batteries will boost these stocks - CNBC",
-            "description": "Global demand for electric car batteries is set to multiply roughly 30 times in the next twenty years, Goldman Sachs analysts said in a March 18 note.",
-            "url": "https://www.cnbc.com/2021/03/25/goldman-demand-for-electric-car-batteries-will-boost-these-stocks.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105420785-1535480740564rts1z1db.jpg?v=1535480827",
-            "publishedAt": "2021-03-25T06:37:00Z",
-            "content": "Two Chinese battery makers are set to surge as global demand for electric car batteries could multiply by roughly 30 times in the next 20 years, Goldman Sachs analysts said in a March 18 note.\r\nThe f… [+422 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Ken Martin",
-            "title": "Toilet paper could face a new shortage - Fox Business",
-            "description": "Suzano SA is the biggest producer of wood pulp used in the production of toilet paper",
-            "url": "https://www.foxbusiness.com/lifestyle/toilet-paper-could-face-a-new-shortage",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/iStock-Toilet-paper.jpg?ve=1&tl=1",
-            "publishedAt": "2021-03-25T06:14:06Z",
-            "content": "A shortage in the availability of shipping containers could lead to another toilet paper shortage.\r\nSuzano SA, the biggest producer of wood pulp, used in the production of toilet paper, tells Bloombe… [+758 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Brenna Hughes Neghaiwi, Simon Jessop",
-            "title": "In 2020 the ultra-rich got richer. Now they're bracing for the backlash - Reuters",
-            "description": "In 2020, as the world convulsed under COVID-19 and the global economy faced its worst recession since World War II, billionaires saw their riches reach new heights.",
-            "url": "https://www.reuters.com/article/wealth-billionaires-outlook-insight-int-idUSKBN2BH0JP",
-            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210325&t=2&i=1556135250&r=LYNXMPEH2O0BZ&w=800",
-            "publishedAt": "2021-03-25T06:07:00Z",
-            "content": "ZURICH/LONDON (Reuters) - In 2020, as the world convulsed under COVID-19 and the global economy faced its worst recession since World War II, billionaires saw their riches reach new heights.\r\nFILE PH… [+8137 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Shivdeep Dhaliwal",
-            "title": "How Tesla Plans To Tackle Bitcoin Volatility In Payments For Its Vehicles - Yahoo Finance",
-            "description": "Tesla Inc (NASDAQ: TSLA) has come up with a payment window methodology to tackle Bitcoin’s (BTC) notorious volatility. What Happened: The automaker has...",
-            "url": "https://finance.yahoo.com/news/tesla-plans-tackle-bitcoin-volatility-011944218.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/om3Ow7Ha.tTo78XpjeBxjw--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/885ec06a36dbd640768eb58324c7ac78",
-            "publishedAt": "2021-03-25T04:29:28Z",
-            "content": "(Bloomberg) -- An elite team is set to tackle the monumental challenge of freeing the massive container vessel thats blocking the Suez Canal, as a backlog of ships continued to build up for a third d… [+6457 chars]"
+            "author": "Kate Gibson",
+            "title": "Moncef Slaoui, ex-Operation Warp Speed science chief, fired from board over sexual harassment claim - CBS News",
+            "description": "GlaxoSmithKline calls alleged behavior by former head of COVID-19 vaccine development \"wholly unacceptable.\"",
+            "url": "https://www.cbsnews.com/news/moncef-slaoui-glaxosmithkline-board-sexual-harassment-claims/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/03/b97b5448-f2f1-4fcc-bfc6-1c3ec7ddf233/thumbnail/1200x630/efcdc29927612295295c755be6d454b7/screen-shot-2021-01-03-at-10-39-30-am.png",
+            "publishedAt": "2021-03-25T11:03:32Z",
+            "content": "Moncef Slaoui, the former scientific director of COVID-19 vaccine development at Operation Warp Speed during the Trump administration, has been fired from a joint venture of GlaxoSmithKline over alle… [+2109 chars]"
         }
     ]
 }
