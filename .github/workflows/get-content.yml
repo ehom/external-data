@@ -23,7 +23,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Calling News API...
         run: |
-          git pull
           cd news-api-org
           ../fetch-headlines.py \
           "http://newsapi.org/v2/top-headlines?category=business&apiKey=${{secrets.NEWS_API_KEY}}" \
