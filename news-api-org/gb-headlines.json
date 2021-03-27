@@ -4,6 +4,71 @@
     "articles": [
         {
             "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Eric Platt",
+            "title": "Distressed stock sales led by Goldman mystify market - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/1b9119b2-0d8b-4a9d-b0a2-d10a021cd71b",
+            "urlToImage": null,
+            "publishedAt": "2021-03-27T17:15:41Z",
+            "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ChronicleLive"
+            },
+            "author": "Katie Dickinson",
+            "title": "Anyone given credit notes for cancelled holidays urged to check expiry date - Chronicle Live",
+            "description": "Numerous travel agents and airlines issued vouchers in order to save money on cash refunds - but failed to warn customers that many could be approaching the deadline",
+            "url": "https://www.chroniclelive.co.uk/news/uk-news/anyone-given-credit-notes-cancelled-20270917",
+            "urlToImage": "https://i2-prod.chroniclelive.co.uk/incoming/article20270941.ece/ALTERNATES/s1200/0_Coronavirus-Sun-March-14-2021.jpg",
+            "publishedAt": "2021-03-27T16:26:33Z",
+            "content": "Thousands of travellers who were given credit notes for cancelled holidays are being urged to check expiry dates as many approach the 12-month cut-off.\r\nNumerous travel agents and airlines issued vou… [+4220 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "James Ball",
+            "title": "Trump is banned, but can a revamp save Twitter from itself? - The Guardian",
+            "description": "With the ex-president gone, the site is launching a flurry of new features – yet its reputation for abuse may endure",
+            "url": "https://amp.theguardian.com/technology/2021/mar/27/twitter-new-features-fleets-spaces-super-follow-revue",
+            "urlToImage": "https://i.guim.co.uk/img/media/5abbd11af7153e5ddf5eb29f058ff2412218bdcf/0_199_5983_3590/master/5983.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=b2397cd1e50ccdd6cf2f91771cf4082e",
+            "publishedAt": "2021-03-27T16:07:00Z",
+            "content": "In January, Twitter committed what was at first glance a massive act of self-sabotage: it gave its star attraction, Donald Trump, a lifetime ban. This brought to an end a five-year faustian relations… [+12521 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Gwyn Topham, Mark Sweney, Sarah Butler",
+            "title": "‘People are optimistic': Businesses look forward after 12 months of Covid - The Guardian",
+            "description": "Early in the pandemic, we spoke to four bosses about how their businesses were faring. A year on, we ask them to about an extraordinary 12 months and what the future might hold",
+            "url": "https://amp.theguardian.com/business/2021/mar/27/businesses-optimistic-customers-return-year-since-lockdown",
+            "urlToImage": "https://i.guim.co.uk/img/media/fa89cc1337befd2ea125172e9f6898785265c8fc/0_170_2732_1638/master/2732.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=a0a363a91020e93bdbe7509f50280ec3",
+            "publishedAt": "2021-03-27T16:00:00Z",
+            "content": "Philip Jansen,chief executive, BT\r\nEarly in the pandemic Philip Jansen gave investors a financial fright by scrapping BTs multibillion-pound dividend. Now, nearly a year on, he is handing out Covid b… [+11341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telegraph.co.uk"
+            },
+            "author": "By\nHazel Plush,",
+            "title": "'Lick-the-plate delicious': We review British Airways' new first class recipe box - Telegraph.co.uk",
+            "description": "Loch Fyne smoked salmon and 48-hour braised beef cheeks are among the courses on offer in these £80, cook-at-home kits",
+            "url": "https://www.telegraph.co.uk/travel/comment/review-british-airways-new-recipe-box-really-first-class/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/travel/2021/03/27/Feastbox-BA-04-03-2021-4-Edit_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.png?impolicy=logo-overlay",
+            "publishedAt": "2021-03-27T14:00:00Z",
+            "content": "But he was off, so I scurried indoors to inspect my quarry and very premium it looked too. The servings, divvied up into recyclable packets, came with a very detailed A4 side of instructions not a li… [+1203 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Liverpool Echo"
             },
@@ -27,19 +92,6 @@
             "urlToImage": "https://i2-prod.grimsbytelegraph.co.uk/incoming/article5218472.ece/ALTERNATES/s1200/0_2.jpg",
             "publishedAt": "2021-03-27T12:33:08Z",
             "content": "Dozens of pubs across northern Lincolnshire will be allowed to welcome customers back from April 12.\r\nIts an understatement to say that this is a day many have been waiting for.\r\nThe expected easing … [+4441 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mirror Online"
-            },
-            "author": "Emma Munbodh",
-            "title": "Important warning to anyone handed a holiday credit note since start of Covid crisis - Mirror Online",
-            "description": "Millions of people whose holidays were cancelled due to Covid restrictions were handed credit notes last year as airlines and travel firms sought to cut back on refund costs - but some of them could be approaching expiry",
-            "url": "https://www.mirror.co.uk/money/important-warning-anyone-handed-holiday-23801644",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22981617.ece/ALTERNATES/s1200/0_JS116861820.jpg",
-            "publishedAt": "2021-03-27T12:23:36Z",
-            "content": "Tens of thousands of holidaymakers who were issued credit notes in response to cancelled holidays have been urged to check expiry dates with thousands approaching the 12-month cut off date.\r\nAirlines… [+4626 chars]"
         },
         {
             "source": {
@@ -70,19 +122,6 @@
         {
             "source": {
                 "id": null,
-                "name": "Mirror Online"
-            },
-            "author": "Rosaleen Fenton, Latifa Yedroudj",
-            "title": "Couple transform beige house into colourful paradise in less than two years - Mirror Online",
-            "description": "A couple transformed their house into an artistic paradise, with a home bar called The Electric Penguin in the dining room, after being influenced by 1920’s speakeasies and Art Deco",
-            "url": "https://www.mirror.co.uk/news/uk-news/couple-transform-beige-house-colourful-23806048",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article23806138.ece/ALTERNATES/s1200/0_PAY-Couple-transform-dull-beige-house-into-ANY-ARTISTS-DREAM-in-18-months-even-adding-a-home-BAR.jpg",
-            "publishedAt": "2021-03-27T11:41:06Z",
-            "content": "Thanks to shows like Changing Rooms and 60 Minute Makeover, we've all become aware of how little tweaks can transform a dull house into a perfect home.\r\nThe classics taught us how a lick of paint can… [+4504 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "Daily Mail"
             },
             "author": "Faith Ridler",
@@ -108,16 +147,55 @@
         },
         {
             "source": {
-                "id": "independent",
-                "name": "Independent"
+                "id": null,
+                "name": "Norwich Evening News"
             },
-            "author": "Joe Sommerlad",
-            "title": "Suez Canal: Livestock ships caught in logjam are 'biohazard timebomb', charity warns - The Independent",
-            "description": "At least 20 vessels carrying live animals, according to industry tracking data, which could pose problems if Ever Given rescue effort proves prolonged and feed supplies run low",
-            "url": "https://www.independent.co.uk/news/world/middle-east/suez-canal-latest-livestock-ships-b1823295.html",
-            "urlToImage": "https://static.independent.co.uk/2021/03/26/19/PRI188132314.jpg?width=1200&auto=webp&quality=75",
-            "publishedAt": "2021-03-27T11:15:49Z",
-            "content": "With the MV Ever Given mega-ship still stranded in the Suez Canal and blocking traffic in both directions, it emerges that at least 20 of the cargo vessels forced to queue in the Mediterranean, Red S… [+2774 chars]"
+            "author": "EDP Reporters",
+            "title": "The Sunday Times names Norwich one of best places to live - Norwich Evening News",
+            "description": "Norwich, along with Wells-next-the-Sea, made The Sunday Times' coveted best places to live list in 2021, with the city praised for its...",
+            "url": "https://www.eveningnews24.co.uk/news/norwich-makes-sunday-times-best-places-to-live-7855468",
+            "urlToImage": "https://images.cm.archant.co.uk/service/social-media-image/376610/7060182/1/6217212-2/db-Essay-Memorial-Gardens-May2-2e4b2fed.jpg",
+            "publishedAt": "2021-03-27T11:17:00Z",
+            "content": "Norwich, along with Wells, made The Sunday Times' coveted best places to live list in 2021, with the city praised for its creative spirit and thriving independent shops. \r\nThis is the full Norwich en… [+5444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "James Gant",
+            "title": "People with big families will be able to self-isolate in hotels for FREE - Daily Mail",
+            "description": "NHS Test and Trace is reportedly asking councils for ways they could implement the scheme and make it more attractive for households. Pictured: Quarantine hotel at Heathrow.",
+            "url": "https://www.dailymail.co.uk/news/article-9409135/People-big-families-able-self-isolate-hotels-FREE.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2021/03/27/10/41008732-0-image-a-42_1616839713411.jpg",
+            "publishedAt": "2021-03-27T10:09:00Z",
+            "content": "People with big families will be able to self-isolate in hotels for free under new Government plans to stop the spread of coronavirus.\r\nNHS Test and Trace is reportedly asking councils for ways they … [+7378 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metro.co.uk"
+            },
+            "author": "Ellen Scott",
+            "title": "Couple turn beige house into a glorious colourful dream home - Metro.co.uk",
+            "description": "The bar is pretty special.",
+            "url": "https://metro.co.uk/2021/03/27/couple-turn-beige-house-into-a-glorious-colourful-dream-home-14314537/",
+            "urlToImage": "https://metro.co.uk/wp-content/uploads/2021/03/PRI_188193702_1616839140.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+            "publishedAt": "2021-03-27T09:58:00Z",
+            "content": "Vrons and Chris spent 18 months radically transforming their home in Nottingham (Picture: Jam Press)\r\nWhy stick to beige when you can be bright and bold? \r\nVrons Beaumont, 35, and partner Chris have … [+4238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Mariana Mazzucato",
+            "title": "Capitalism won't save us from Covid, no matter what Boris Johnson might think - The Guardian",
+            "description": "His claim that ‘greed’ was the driver behind the UK’s vaccine success ignores the huge role of state funding, says economics professor Mariana Mazzucato",
+            "url": "https://amp.theguardian.com/commentisfree/2021/mar/27/capitalism-covid-boris-johnson-uk-vaccine-state-funding",
+            "urlToImage": null,
+            "publishedAt": "2021-03-27T09:35:00Z",
+            "content": "OpinionHis claim that greed was the driver behind the UKs vaccine success ignores the huge role of state funding\r\nBoris Johnson has attributed the UKs vaccine success to capitalism and greed. Though … [+7286 chars]"
         },
         {
             "source": {
@@ -183,84 +261,6 @@
             "urlToImage": null,
             "publishedAt": "2021-03-27T08:00:00Z",
             "content": "Retail industryGarden furniture, outdoor pizza ovens and fire pits are also flying off the shelves but Argos and John Lewis warn of shortages\r\nThey used to just feature at school sports days and vill… [+5159 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eastern Daily Press"
-            },
-            "author": "Peter Walsh",
-            "title": "Norfolk shops to be allowed to stay open later - Eastern Daily Press",
-            "description": "Retailers across Norfolk and Waveney will be able to stay open until 10pm six days a week when they welcome back customers next month...",
-            "url": "https://www.edp24.co.uk/news/shops-to-be-open-later-7855382",
-            "urlToImage": "https://images.cm.archant.co.uk/service/social-media-image/267776/7833684/1/6217202-2/bvw-castle-quarter-data.jpg",
-            "publishedAt": "2021-03-27T07:50:00Z",
-            "content": "Retailers across Norfolk and Waveney will be able to stay open until 10pm six days a week when they welcome back customers next month, it has emerged.\r\nHigh street shops have been closed for months a… [+1399 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Reuters",
-            "title": "Britain and EU strike financial services cooperation pact - CNBC",
-            "description": "Britain and the European Union agreed a new post-Brexit financial services pact on Friday that will allow them to co-operate on regulation but does little to improve the City of London's access to the bloc.",
-            "url": "https://www.cnbc.com/2021/03/27/britain-and-eu-strike-financial-services-cooperation-pact.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106848368-1614775409076-gettyimages-1231422904-Vuk_Valcic_DSC_0311.jpeg?v=1614775476",
-            "publishedAt": "2021-03-27T06:59:00Z",
-            "content": "Britain and the European Union agreed a new post-Brexit financial services pact on Friday that will allow them to co-operate on regulation but does little to improve the City of London's access to th… [+2393 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Telegraph.co.uk"
-            },
-            "author": "By\nAlex Robbins,",
-            "title": "Confessions of a serial Ford Mondeo owner - Telegraph.co.uk",
-            "description": "Various generations of the mid-size Ford are fondly remembered as dependable workhorses – and even thoroughbreds in the case of the V6 model",
-            "url": "https://www.telegraph.co.uk/cars/features/confessions-serial-ford-mondeo-owner/",
-            "urlToImage": "https://www.telegraph.co.uk/cars/images/2021/03/26/1993-Mondeo-Ghia_trans_NvBQzQNjv4Bq4OIm-ciWtJkGSejFzTC6QO3VdBYj3_VTFLE12v60nz8.jpg?impolicy=logo-overlay",
-            "publishedAt": "2021-03-27T06:30:00Z",
-            "content": "Our trip had to satisfy not only our quest for sun, sea and sand, but also two of said mates desires to climb a mountain; my desire to stop off in the south of France to say hello to my grandparents;… [+831 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Swindon Advertiser"
-            },
-            "author": "Aled Thomas",
-            "title": "Delight as Honda site sold to Panattoni with promise of £700m investment - Swindon Advertiser",
-            "description": "Swindon Borough Council leader David Renard was understandably thrilled with the news that the Honda site had been bought by Panattoni.",
-            "url": "https://www.swindonadvertiser.co.uk/news/19191484.sale-welcomed-town-councillors/",
-            "urlToImage": "https://www.swindonadvertiser.co.uk/resources/images/12451580/",
-            "publishedAt": "2021-03-27T05:00:00Z",
-            "content": "Swindon Borough Council leader David Renard was understandably thrilled with the news that the Honda site had been bought by Panattoni.\r\nThe car manufacturer will leave town in the summer but uncerta… [+3671 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Matt Drake",
-            "title": "Testing times for British holidaymakers, plan drawn up for all UK nationals flying back from abroad - Daily Mail",
-            "description": "It is understood Government officials met on Friday to discuss whether they should take a tougher approach to travel restrictions, reports claim.",
-            "url": "https://www.dailymail.co.uk/news/article-9408555/Testing-times-British-holidaymakers-plan-drawn-UK-nationals-flying-abroad.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2021/03/27/01/40999506-0-image-a-2_1616809272259.jpg",
-            "publishedAt": "2021-03-27T01:44:00Z",
-            "content": "Ministers are considering expanding the travel 'red list' of countries from which British holidaymakers are required to quarantine on their return home.\r\nIt is understood Government officials met on … [+3808 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Autocar"
-            },
-            "author": "James Attwood",
-            "title": "Volkswagen seeking Dieselgate damages from former bosses - Autocar",
-            "description": "Car firm accuses former CEO Martin Winterkorn and ex-Audi chief Rupert Stadler of breaching 'duty of care' in response to emissions scandal",
-            "url": "https://www.autocar.co.uk/car-news/industry-news/volkswagen-seeking-dieselgate-damages-former-bosses",
-            "urlToImage": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/diesel_5.jpg",
-            "publishedAt": "2021-03-27T00:45:00Z",
-            "content": "Volkswagen will seek damages from former chief executive Martin Winterkorn and former Audi boss Rupert Stadler for what it claims are \"breaches of duty of care\" related to the diesel emissions cheati… [+2942 chars]"
         }
     ]
 }
