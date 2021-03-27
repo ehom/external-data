@@ -29,6 +29,7 @@ jobs:
           headlines.json \
           us,gb,hk,tw,cn,jp,kr,th,gr,fr,tr,pl,ru,ch,il
 
+          git add .
           git config --global user.name $GITHUB_ACTOR
           git diff --quiet && git diff --staged --quiet || git commit -am 'Update news headlines' 
           git push
