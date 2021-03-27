@@ -24,20 +24,10 @@ jobs:
       - name: Calling News API...
         run: |
           git pull
-          OUTPUT_FILE="news-api-org/headlines.json"
-          ./fetch-json.py \
-          "http://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=${{secrets.NEWS_API_KEY}}" \
-          $OUTPUT_FILE
-          
-          OUTPUT_FILE2="news-api-org/jp-headlines.json"
-
-          echo "fetch headlines from Japan"
-          
-          ./fetch-json.py \
-          "http://newsapi.org/v2/top-headlines?country=jp&category=business&apiKey=${{secrets.NEWS_API_KEY}}" \
-          $OUTPUT_FILE2
-          
-          cat $OUTPUT_FILE2
+          cd news-api-org
+          ../fetch-headlines.py \
+          "http://newsapi.org/v2/top-headlines?category=business&apiKey=${{secrets.NEWS_API_KEY}}" \
+          us,gb,hk,tw,cn,jp,kr,th,gr,fr,tr,pl,ru,ch,il
 
           git config --global user.name $GITHUB_ACTOR
           git diff --quiet && git diff --staged --quiet || git commit -am 'Update news headlines' 
