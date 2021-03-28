@@ -21,22 +21,32 @@ def saveToFile(data, fileName):
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 
+def fetchNews(base_url, countries, base_filename):
+    print("base_url:", base_url)
+    print("countries:", countries)
+    print("base_filename:", base_filename)
+
+    for code in countries.split(','):
+        url = "{}&country={}".format(base_url, code)
+        filename = "{}-{}".format(code, base_filename)
+
+        print("url:", url)
+        print("filename:", filename)
+
+        data = fetch(url)
+        saveToFile(data, filename)
+
+
 def main(args):
     base_url, base_filename, countries = args
 
-    if base_url: print("base_url:", base_url)
-    if base_filename: print("base_filename:", base_filename)
-    if countries: print("countries:", countries)
-
-    for code in countries.split(','):
-      url = "{}&country={}".format(base_url, code)
-      filename = "{}-{}".format(code, base_filename)
-
-      print("url:", url)
-      print("filename:", filename)
-
-      data = fetch(url)
-      saveToFile(data, filename)
+    try:
+        fetchNews(base_url, countries, base_filename)
+    except:
+        # todo: fix this. don't use bare except
+        print('Error during fetch')
+    else:
+        print('Fetched News headlines!')
 
 
 if __name__ == "__main__":
