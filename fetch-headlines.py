@@ -4,6 +4,8 @@ import sys
 import os
 
 from urllib.request import urlopen
+import urllib.error
+
 import json
 import pprint
 
@@ -39,13 +41,13 @@ def fetchNews(base_url, countries, base_filename):
 
 def main(args):
     base_url, base_filename, countries = args
-
+    
     try:
         fetchNews(base_url, countries, base_filename)
-    except urllib.error.HTTPError as err:
+    except urllib.error.URLError as err:
         print(err.code)
     else:
-        print('Fetched News headlines!')
+        print("OK")
 
 
 if __name__ == "__main__":
