@@ -42,9 +42,8 @@ def main(args):
 
     try:
         fetchNews(base_url, countries, base_filename)
-    except:
-        # todo: fix this. don't use bare except
-        print('Error during fetch')
+    except urllib.error.HTTPError as err:
+        print(err.code)
     else:
         print('Fetched News headlines!')
 
