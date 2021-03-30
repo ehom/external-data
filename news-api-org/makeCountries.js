@@ -29,4 +29,7 @@ const result = locales.reduce((accumulator, locale) => {
 
 console.log(result);
 
-fs.writeFileSync('countries.json', JSON.stringify(result), {encoding: 'utf8'});
+fs.writeFileSync('countries.json',
+  JSON.stringify(result, null, 2),
+  {encoding: 'utf8'}
+);
