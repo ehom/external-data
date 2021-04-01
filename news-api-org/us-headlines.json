@@ -4,81 +4,133 @@
     "articles": [
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft shuts down Cortana on iOS and Android - The Verge",
+            "description": "Microsoft has shut down its Cortana app for iOS and Android. It comes weeks after the first and only Cortana speaker stopped supporting Microsoft’s digital assistant.",
+            "url": "https://www.theverge.com/2021/4/1/22361687/microsoft-cortana-shut-down-ios-android-mobile-app",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/iGzQvFep_lMVVyfGW-f6joee_FM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/3885814/cortanaandroid-4.0.jpg",
+            "publishedAt": "2021-04-01T09:10:48Z",
+            "content": "Cortana is on a farewell tour\r\nMicrosoft has shut down its Cortana app for iOS and Android. Its the latest in a series of moves to end support for Cortana across multiple devices, including Microsoft… [+1627 chars]"
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jen Christensen, CNN",
-            "title": "Covid-19 led to a global increase in stillbirths, maternal mortality, and depression, review finds - CNN ",
-            "description": "The coronavirus pandemic had a significant and negative impact on pregnant women and their infants, according to a global review of studies.",
-            "url": "https://www.cnn.com/2021/03/31/health/covid-poor-pregnancy-outcomes-study/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210218205822-coronavirus-vaccine-trials-children-pregnant-women-gupta-ac360-vpx-00000909-super-tease.jpg",
-            "publishedAt": "2021-04-01T00:33:00Z",
-            "content": "(CNN)The Covid-19 pandemic had a significant and negative impact on pregnant women and their infants, according to a global review of studies.\r\nThe review, published Wednesday in the journal the Lanc… [+3460 chars]"
+            "author": "Christina Maxouris, CNN",
+            "title": "Thousands of cases of a worrying variant have been reported in the US. These states have the highest numbers - CNN ",
+            "description": "Thousands of cases of the B.1.1.7 variant have been reported across the US, and experts fear the strain may fuel another Covid-19 surge as states race to vaccinate more residents.",
+            "url": "https://www.cnn.com/2021/04/01/health/us-coronavirus-thursday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210401013225-us-coronavirus-0327-restricted-super-tease.jpg",
+            "publishedAt": "2021-04-01T09:01:00Z",
+            "content": "(CNN)Thousands of cases of the B.1.1.7 variant have been reported across the US, and experts fear the strain may fuel another Covid-19 surge as states race to vaccinate more residents. \r\nThe variant,… [+6493 chars]"
         },
         {
             "source": {
                 "id": "politico",
                 "name": "Politico"
             },
-            "author": "Marianne LeVine, Sarah Ferris, Melanie Zanona",
-            "title": "Infrastructure Year: Dems brace for brutal slog to pass Biden’s $2.5T plan - POLITICO",
-            "description": "Republicans are already balking and preparing a messaging campaign against the package.",
-            "url": "https://www.politico.com/news/2021/03/31/infrastructure-problems-biden-478785",
-            "urlToImage": "https://static.politico.com/ea/28/b86a08d1494d8586c8b2ff1eb819/210331-joe-biden-getty-773.jpg",
-            "publishedAt": "2021-03-31T23:14:42Z",
-            "content": "Three votes. Three votes,\" Rep. Emanuel Cleaver (D-Mo.) said in an interview. It's tough in the House with how tight things are, but I think it will be approved. ... I don't mean it will be approved … [+7200 chars]"
+            "author": "Meridith McGraw, Gabby Orr",
+            "title": "Inside the 'Lord of the Flies' factionalism now plaguing Trumpland - Politico",
+            "description": "Distrust, whisper campaigns and a bit of backstabbing are rampant as aides scramble for access and power.",
+            "url": "https://www.politico.com/news/2021/04/01/factionalism-trump-lord-of-flies-478811",
+            "urlToImage": "https://static.politico.com/3e/84/b1deb21e4d93aa1a9cdf3842f575/3-31-21-donald-trump-ap-773.jpg",
+            "publishedAt": "2021-04-01T08:30:22Z",
+            "content": "Recalling a recent fundraiser at Mar-a-Lago for one incumbent Republican, a Trump aide was incredulous that another had claimed to those in attendance that he was instrumental for arranging such gath… [+2508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Sean O'grady",
+            "title": "Jennifer Garner, 48, runs errands with her lookalike daughter Violet, 15 - Daily Mail",
+            "description": "The actress enjoyed some quality family time with her daughter Violet as they ran errands in Santa Monica on Wednesday.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-9426093/Jennifer-Garner-48-runs-errands-lookalike-daughter-Violet-15.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2021/04/01/08/41212032-0-image-a-26_1617262769637.jpg",
+            "publishedAt": "2021-04-01T08:11:09Z",
+            "content": "She recently admitted she's not sure if she will ever get married again. \r\nAnd Jennifer Garner enjoyed some quality family time with her daughter Violet, 15,  as they ran errands in Santa Monica on W… [+2860 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "LAPD Investigating Quavo and Saweetie Elevator Video - TMZ",
+            "description": "Quavo and Saweetie could soon be answering to the LAPD, because cops have opened an investigation into their elevator altercation ... TMZ has learned.",
+            "url": "https://www.tmz.com/2021/04/01/lapd-investigating-quavo-and-saweetie-elevator-video/",
+            "urlToImage": "https://imagez.tmz.com/image/cb/16by9/2021/03/31/cbf07de83d94450ca07f0fdbef60937a_xl.jpg",
+            "publishedAt": "2021-04-01T08:00:00Z",
+            "content": "Quavo and Saweetie could soon be answering to the LAPD, because cops have opened an investigation into their elevator altercation ... TMZ has learned.\r\nLaw enforcement sources tell us LAPD detectives… [+1159 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Joe Sutton and Madeline Holcombe, CNN",
+            "title": "Four people, including a child, were killed in a mass shooting at an office complex in Orange, California - CNN ",
+            "description": "Four people, including a child, were killed in a mass shooting at an office complex in Orange, California, on Wednesday, a police official said.",
+            "url": "https://www.cnn.com/2021/03/31/us/orange-california-shooting/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210401011941-01-california-orange-shooting-0331-presser-super-tease.jpg",
+            "publishedAt": "2021-04-01T07:40:00Z",
+            "content": "(CNN)Four people, including a child, were killed in a mass shooting at an office complex in Orange, California, on Wednesday, a police official said. \r\nA fifthvictim was wounded and transported to a … [+555 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He, CNN Business",
+            "title": "Taiwan's TSMC is pouring $100 billion into chipmaking to prevent another shortage - CNN ",
+            "description": "Taiwan Semiconductor Manufacturing Company, the world's largest contract chipmaker, announced Thursday that it expects to pour $100 billion into advanced chips over the next three years to keep up with rising demand.",
+            "url": "https://www.cnn.com/2021/04/01/tech/tsmc-investment-chips-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210401003341-taiwan-tsmc-012921-super-tease.jpg",
+            "publishedAt": "2021-04-01T07:13:00Z",
+            "content": "Hong Kong (CNN Business)Taiwan Semiconductor Manufacturing Company, the world's largest contract chipmaker, announced Thursday that it expects to pour $100 billion into advanced chips over the next t… [+1666 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Aaro",
+            "title": "Derek Chauvin trial: Key witness to invoke the 5th Amendment, refuses to testify - Fox News",
+            "description": "A key witness who was with George Floyd on the day he died, has informed the court that he will invoke the Fifth Amendment if asked to testify in Derek Chauvin's murder trial.",
+            "url": "https://www.foxnews.com/us/key-witness-who-was-in-car-with-george-floyd-will-plead-the-5th-amendment-wont-testify-attorney-says",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/AP21090755888592-1.jpg",
+            "publishedAt": "2021-04-01T06:03:32Z",
+            "content": "A key witness who was with George Floyd on the day he died has informed the court that he will invoke the Fifth Amendment if asked to testify in Derek Chauvin's murder trial.\r\nThe Hennepin County Pub… [+2183 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Norimitsu Onishi, Constant Méheut",
-            "title": "Macron Returns France to Lockdown as Vaccinations Lag - The New York Times",
-            "description": "The French president rebuffed his advisers in January and opted against more restrictions, betting that inoculation would curb the pandemic. Instead, a new wave of infections is battering France.",
-            "url": "https://www.nytimes.com/2021/03/31/world/europe/france-lockdown-macron.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/03/31/world/31virus-france-top/31virus-france-top-facebookJumbo.jpg",
-            "publishedAt": "2021-03-31T23:09:19Z",
-            "content": "Mr. Macrons strategy reflected the reality that, in Frances system of government, power is intensely concentrated in the hands of the president. As in previous key moments in the pandemic, rumors had… [+1268 chars]"
+            "author": "Tyler Kepner",
+            "title": "Francisco Lindor and Mets Agree on $341 Million Contract Extension - The New York Times",
+            "description": "The superstar shortstop is committed to Queens through 2031 after adding 10 years to his previous deal.",
+            "url": "https://www.nytimes.com/2021/04/01/sports/baseball/francisco-lindor-mets-extension.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/04/01/sports/01mlb-lindor/01mlb-lindor-facebookJumbo.jpg",
+            "publishedAt": "2021-04-01T05:18:06Z",
+            "content": "Only two players have richer contracts than Lindor: the Los Angeles Angels Mike Trout (12 years, $426.5 million) and the Los Angeles Dodgers Mookie Betts (12 years, $365 million). Like Lindor, Betts … [+1040 chars]"
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Lexi Lonas",
-            "title": "Asian Americans pen letter to Ohio Lt. Gov. over tweet that 'raised the anxiety and fear' | TheHill - The Hill",
-            "description": "Asian Americans from Upper Arlington wrote a letter to Ohio Lt. Gov. Jon Husted (R) over a tweet in which he called the coronavirus the “Wuhan Virus.”",
-            "url": "https://thehill.com/homenews/state-watch/545877-asian-americans-pen-letter-to-ohio-lt-gov-over-tweet-that-raised-the",
-            "urlToImage": "https://thehill.com/sites/default/files/hustedjon_011018gn.jpg",
-            "publishedAt": "2021-03-31T23:07:26Z",
-            "content": "Asian Americans from Upper Arlington wrote a letter to Ohio Lt. Gov. Jon Husted (R) over a tweet in which he called the coronavirus the Wuhan Virus.\r\nLt. Governor Husted, your choice of words has onl… [+1416 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KEZI TV"
-            },
-            "author": null,
-            "title": "Vaccine eligibility expands in 20 Oregon counties - KEZI TV",
-            "description": "Is your county on the list?",
-            "url": "https://www.kezi.com/content/news/Vaccine-eligibility-expands-in-20-Oregon-counties-574110421.html",
-            "urlToImage": "https://media.heartlandtv.com/images/Vaccination+KDRV.jpg",
-            "publishedAt": "2021-03-31T23:05:00Z",
-            "content": "SALEM, Ore. – There is major news in the war against COVID-19.\r\nStarting now, all frontline workers, people living in multigenerational households, and people over the age of 16 with underlying healt… [+665 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Mike Florio",
-            "title": "Outgoing Houston police chief on Deshaun Watson: “We stand ready to investigate all allegations” - NBC Sports",
-            "description": "Attorney Buzbee had said he’d present evidence of alleged misconduct by Texans quarterback Deshaun Watson to the Houston Police Department. On Tuesday night, Buzbee abruptly abandoned that position, claiming that potential biases related to him and/or to Wats…",
-            "url": "https://profootballtalk.nbcsports.com/2021/03/31/outgoing-houston-police-chief-on-deshaun-watson-we-stand-ready-to-investigate-all-allegations/",
-            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2021/03/GettyImages-842618668-e1617231734954.jpg",
-            "publishedAt": "2021-03-31T23:02:00Z",
-            "content": "Attorney Buzbee had said he’d present evidence of alleged misconduct by Texans quarterback Deshaun Watson to the Houston Police Department. On Tuesday night, Buzbee abruptly abandoned that position, … [+1576 chars]"
+            "author": "Terry Tang",
+            "title": "Brutal NYC attack renews Asian American volunteers' efforts - Associated Press",
+            "description": "NEW YORK (AP) — Fed up with the incessant attacks on Asian Americans, Stan Lee recently started voluntarily patrolling San Francisco's Chinatown. So when the 53-year-old fire lieutenant saw a...",
+            "url": "https://apnews.com/article/race-and-ethnicity-new-york-stan-lee-san-francisco-new-york-city-cdc7c8cd4f1f1c047a5941d12d2ff405",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/83357d64fac346fea46f3c55268fb64f/3000.jpeg",
+            "publishedAt": "2021-04-01T05:14:57Z",
+            "content": "NEW YORK (AP) Fed up with the incessant attacks on Asian Americans, Stan Lee recently started voluntarily patrolling San Franciscos Chinatown. So when the 53-year-old fire lieutenant saw a video of a… [+6133 chars]"
         },
         {
             "source": {
@@ -86,181 +138,129 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Free PlayStation Plus Games for April 2021 - IGN Daily Fix - IGN",
+            "title": "iOS 14.5 beta 6 changes/features - New Siri voices! - 9to5Mac",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Qlh5dG9uRnM3UjTSAQA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TDMtZDJmSFUtMUHSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-03-31T22:59:53Z",
+            "publishedAt": "2021-04-01T04:55:36Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Times"
+                "name": "CNBC"
             },
-            "author": "David Gelles",
-            "title": "Delta and Coca-Cola Reverse Course on Georgia Voting Law, Stating ‘Crystal Clear’ Opposition - The New York Times",
-            "description": "Prominent Black executives had called on companies to publicly oppose a wave of similarly restrictive voting bills that Republicans are advancing in almost every state.",
-            "url": "https://www.nytimes.com/2021/03/31/business/delta-coca-cola-georgia-voting-law.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/03/31/business/31economy-briefing-Delta-Georgia-Law/31economy-briefing-Delta-Georgia-Law-facebookJumbo.jpg",
-            "publishedAt": "2021-03-31T22:27:27Z",
-            "content": "In the memo, Mr. Bastian said it was only after the law was passed that he truly understood the degree to which it would impose restrictions on Black voters.\r\nUpdated March 31, 2021, 6:27 p.m. ET\r\nAf… [+1744 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Nate Day",
-            "title": "Blake Shelton says he, Gwen Stefani hope to marry ‘this summer’ - Fox News",
-            "description": "“Happy Anywhere” singer Blake Shelton revealed that he and his fellow “The Voice” coach, Gwen Stefani, hope to get married “this summer.”",
-            "url": "https://www.foxnews.com/entertainment/blake-shelton-gwen-stefani-summer-wedding",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Blake-Shelton-Gwen-Stefani-voice.jpg",
-            "publishedAt": "2021-03-31T22:21:24Z",
-            "content": "Blake Shelton is sharing an important detail about his wedding with Gwen Stefani.\r\nThe country crooner, 44, was a surprise guest host on the \"Today\" shows \"Hoda &amp; Jenna\" segment on Wednesday and … [+2166 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Amanda Kooser",
-            "title": "NASA Perseverance Mars rover investigates 'odd' rock, zaps it - CNET",
-            "description": "Scientists speculate the rock could be a meteorite or a far-flung chunk of Mars.",
-            "url": "https://www.cnet.com/news/nasa-perseverance-mars-rover-investigates-odd-rock-zaps-it/",
-            "urlToImage": "https://www.cnet.com/a/img/NdWoVUtmIU96VMWdnBgzuSDoIjo=/1200x630/2021/03/31/c2ab3ad5-ca3d-438d-8e3e-522d5ccb969e/oddrock.jpg",
-            "publishedAt": "2021-03-31T22:10:06Z",
-            "content": "NASA's Perseverance rover snapped a view of this odd rock on March 28. If you look closely just to the right of center, you can see a series of tiny marks where the rover's laser zapped it.\r\nNASA/JPL… [+2380 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "Supreme Court Weighs Whether NCAA Is Illegally 'Fixing' Athlete Compensation - NPR",
-            "description": "Players contend the NCAA is operating a classic conspiracy to fix prices in the labor market. The NCAA maintains that expanding benefits would threaten \"amateurism.\"",
-            "url": "https://www.npr.org/2021/03/31/983139101/supreme-court-weighs-whether-ncaa-is-illegally-fixing-athlete-compensation",
-            "urlToImage": "https://media.npr.org/assets/img/2021/03/31/ap_21089540986505_wide-726e62df3438999b3980b1c22cc268f7bd7a3d99.jpg?s=1400",
-            "publishedAt": "2021-03-31T22:01:48Z",
-            "content": "The arguments before the Supreme Court Wednesday came amid March Madness and could erode the difference between elite college athletes and professional sports stars.\r\nPaul Sancya/AP\r\nAs March Madness… [+6118 chars]"
+            "author": "Abigail Ng",
+            "title": "Covid widened the gender gap — it will now take 135 years to close that divide, WEF says - CNBC",
+            "description": "The pandemic has worsened the global gender gap, and the World Economic Forum predicts it will now take 135.6 years to reach parity.",
+            "url": "https://www.cnbc.com/2021/04/01/wef-covid-worsened-the-gender-gap-it-will-take-135-years-to-close.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106861962-1617178984344-gettyimages-1303090307-a92i2083_2021022021327528.jpeg?v=1617180411",
+            "publishedAt": "2021-04-01T04:29:00Z",
+            "content": "The World Economic Forum predicts it will now take 135.6 years to reach gender equality as the pandemic set the world back by a generation, delaying parity by about 36 years.\r\nSaadia Zahidi, a managi… [+1959 chars]"
         },
         {
             "source": {
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Natalie Obregon",
-            "title": "North Carolina police officer resigns after video surfaces appearing to show rough handling of K-9 - NBC News",
-            "description": "A North Carolina police officer has resigned following an internal investigation into a video apparently showing a K-9 being slammed and hauled into an SUV.",
-            "url": "https://www.nbcnews.com/news/us-news/north-carolina-police-officer-resigns-after-video-surfaces-appearing-show-n1262673",
-            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2021_13/3461190/210331-k9-officer-zuul-cover-ac-449p_3afc62dc4db7c83e96693244f461630d.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2021-03-31T21:59:16Z",
-            "content": "A North Carolina police officer has resigned following an internal investigation into a video apparently showing a K-9 being slammed and hauled into an SUV.\r\nSalisbury Police Office James Hampton ann… [+2426 chars]"
+            "author": "Erika Edwards, Kristen Welker, Laura Strickler",
+            "title": "Johnson & Johnson confirms one vaccine batch was discarded over production issues - NBC News",
+            "description": "Johnson & Johnson confirmed that a batch of a key vaccine ingredient was discarded at Emergent Biosolutions, a lab in Baltimore, after a manufacturing error.",
+            "url": "https://www.nbcnews.com/health/health-news/johnson-johnson-confirms-one-vaccine-batch-was-discarded-over-production-n1262696",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2021_13/3461223/210331-emergent-biosolutions-lab-ew-642p_47a1ac5e059533162deb931cbe3759c0.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2021-04-01T04:09:00Z",
+            "content": "Johnson &amp; Johnson said Wednesday that a batch of its key vaccine ingredient didn't meet quality control standards at a Baltimore facility.\r\nThe issue will not affect the Biden administration's ti… [+2240 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Paul Davidson",
+            "title": "Biden's $2 trillion infrastructure plan would lift economy but higher taxes may hamper growth until projects roll out - USA TODAY",
+            "description": "President Biden's $2 trillion structure plan would boost the economy, experts say, but it may be a drag on growth initially",
+            "url": "https://www.usatoday.com/story/money/2021/04/01/infrastructure-plan-bidens-blueprint-should-lift-economy-eventually/4828885001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/03/31/USAT/402cd593-6bec-4c7a-b2e3-18d55b84af29-AP_Biden_4.jpg?crop=6000,3375,x0,y314&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2021-04-01T04:01:17Z",
+            "content": "The White House is comparing President Joe Biden's infrastructure proposal to the construction of interstate highways and the Space Race.\r\nUSA TODAY\r\nPresident Joe Bidens $2 trillion infrastructure p… [+3850 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Kelly Tyko",
+            "title": "Taco Bell, Chipotle and Del Taco among restaurants with Burrito Day deals, free food Thursday - USA TODAY",
+            "description": "National Burrito Day and April Fools' Day fall on the same day in 2021. Get burrito deals at chains including Taco Bell and Moe's Southwest Grill.",
+            "url": "https://www.usatoday.com/story/money/restaurants/2021/04/01/national-burrito-day-deals-2021-free-food-save-chipotle-game/7045862002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/03/29/USAT/e3fba369-cf65-4f85-a474-913d2537486d-CMG_BurritosBitcoin_3_28.jpg?crop=1911,1075,x4,y0&width=1600&height=800&fit=bounds",
+            "publishedAt": "2021-04-01T04:01:17Z",
+            "content": "Chipotle to give away free burritos and Bitcoin for National Burrito Day through interactive game, \"Burritos or Bitcoin.\"\r\nUSA TODAY\r\nThis is not a joke: National Burrito Day and April Fools Day fall… [+4578 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Anton Wilen, Thomas Mulier",
+            "title": "Unmade in China: H&M CEO Helena Helmersson's Terrible Year - Bloomberg",
+            "description": "Only 14 months into the role, Hennes & Mauritz AB CEO Helena Helmersson has already suffered more challenges than some long-time CEOs face during their careers.",
+            "url": "https://www.bloomberg.com/news/articles/2021-04-01/unmade-in-china-h-m-ceo-helena-helmersson-s-terrible-year",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwfmWD7d1.Tk/v0/1200x900.jpg",
+            "publishedAt": "2021-04-01T04:00:00Z",
+            "content": "Photographer: Kevin Frayer/Getty Images\r\nOnly 14 months into the role, \r\nHennes &amp; Mauritz AB CEO Helena Helmersson has already suffered more challenges than some long-time CEOs face during their … [+5373 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investor's Business Daily"
+                "name": "MMA Mania"
             },
-            "author": "Investor's Business Daily",
-            "title": "Dow Jones Futures: Stock Market Rallies On Biden Infrastructure Plan; Micron In Buy Range; Tesla, Nio Deliveries On Tap - Investor's Business Daily",
-            "description": "The Nasdaq makes a nice move but needs to do more. Micron rose late. Tesla deliveries loom.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-on-biden-infrastructure-plan-micron-buy-range-tesla-nio-deliveries/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/01/Stock-biden-08-shutt.jpg",
-            "publishedAt": "2021-03-31T21:46:00Z",
-            "content": "Dow Jones futures were little changed late Wednesday, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally gained momentum as the White House unveiled the $2.25 trillion Biden in… [+9794 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "HuffPost"
-            },
-            "author": "Kimberley Richards",
-            "title": "Lauren London Honors 'Brave and Beloved' Nipsey Hussle On Anniversary Of His Death - HuffPost",
-            "description": "\"Grief and healing have been constant companions on this journey,\" the actor said about grieving the rapper and activist who was killed two years ago.",
-            "url": "https://www.huffpost.com/entry/lauren-london-nipsey-hussle-2-year-anniversary-death_n_60647ae6c5b6b6bedaf42648",
-            "urlToImage": "https://img.huffingtonpost.com/asset/6064ce032700001e2fc84d47.jpeg?cache=1znctb2zi8&ops=1778_1000",
-            "publishedAt": "2021-03-31T21:39:00Z",
-            "content": "Lauren London paid tribute to her late longtime partner, Nipsey Hussle, in a moving Instagram post Wednesday, which marked the second anniversary of his death. \r\nThe actor posted a photo of Hussle, w… [+1279 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Minyvonne Burke",
-            "title": "Michigan man says he beat Black teen with metal bike lock because of his race - NBC News",
-            "description": "A white Michigan man charged with beating a Black teenager with a metal bike lock said he attacked the teen because of his race.",
-            "url": "https://www.nbcnews.com/news/us-news/michigan-man-says-he-beat-black-teen-metal-bike-lock-n1262674",
-            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2021_13/3461199/210331-devin-freelon-jr-1-ew-510p_12c1fbe4ac19d45ff1d0b24137176859.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2021-03-31T21:38:00Z",
-            "content": "A white Michigan man who pleaded guilty to beating a Black teenager with a metal bike lock said he attacked the teen because of his race.\r\nLee James Mouat, 43, was charged with a federal hate crime i… [+3868 chars]"
+            "author": "Andrew Richardson",
+            "title": "Midnight Mania! Elon Musk to join Endeavor board of directors prior to IPO - MMA Mania",
+            "description": "Bringing you the weird and wild from the world of MMA each and every weeknight!",
+            "url": "https://www.mmamania.com/2021/4/1/22360541/midnight-mania-elon-musk-endeavor-board-of-directors-ipo-ufc-espn",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/LpD63-B_V_FzKyr9NlGGQ9PRRKA=/0x111:3648x2021/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22412381/635127352.jpg",
+            "publishedAt": "2021-04-01T04:00:00Z",
+            "content": "Welcome to Midnight Mania!\r\nElon Musk could really be a figurehead for Midnight Mania. The eccentric billionaire and Tesla CEO most definitely keeps it weird and wild, as his late-night tweets have s… [+3094 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Sharon LaFraniere, Noah Weiland",
-            "title": "Some Johnson & Johnson Covid Vaccine Doses Delayed in US by Factory Mix-Up - The New York Times",
-            "description": "A manufacturer in Baltimore accidentally conflated the ingredients for two different coronavirus vaccines, officials say.",
-            "url": "https://www.nytimes.com/2021/03/31/world/johnson-and-johnson-vaccine-mixup.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/03/31/multimedia/31virus-briefing-factory-1/31virus-briefing-factory-1-facebookJumbo-v2.jpg",
-            "publishedAt": "2021-03-31T21:19:52Z",
-            "content": "It does not affect Johnson &amp; Johnson doses that are currently being delivered and used nationwide. All those doses were produced in the Netherlands, where operations have been fully approved by f… [+811 chars]"
+            "author": "Austin Ramzy",
+            "title": "Hong Kong Convicts Martin Lee and Other Democracy Leaders Over Protest - The New York Times",
+            "description": "The defendants, including the media tycoon Jimmy Lai and the barristers Martin Lee and Margaret Ng, were some of the city’s most prominent activists.",
+            "url": "https://www.nytimes.com/2021/03/31/world/asia/hong-kong-democracy-protest.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/04/01/world/01hongkong-01/01hongkong-01-facebookJumbo.jpg",
+            "publishedAt": "2021-04-01T03:48:09Z",
+            "content": "This trial was also about the long history, legacy and contributions of the elder statesmen and women of the movement, said Samuel Chu, the managing director of the Washington-based Hong Kong Democra… [+1436 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "New York Post"
             },
-            "author": "Mike Fleming Jr",
-            "title": "Netflix Near $400M+ Deal For ‘Knives Out’ 2 & 3; Daniel Craig & Director Rian Johnson Reprising - Deadline",
-            "description": "EXCLUSIVE: Netflix is closing in on a deal to make two sequels to the 2019 hit whodunit Knives Out, which Rian Johnson will direct with Daniel Craig reprising his role as super sleuth Benoit Blanc. Johnson, who wrote the original, has written the sequels and …",
-            "url": "https://deadline.com/2021/03/knives-out-two-sequels-netflix-400-million-plus-deal-daniel-craig-rian-johnson-ram-bergman-1234724575/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2019/11/ko-d36-15343-r-e1574726014327.jpg?w=1024",
-            "publishedAt": "2021-03-31T21:05:00Z",
-            "content": "EXCLUSIVE: Netflix is closing in on a deal to make two sequels to the 2019 hit whodunit Knives Out, which Rian Johnson will direct with Daniel Craig reprising his role as super sleuth Benoit Blanc. J… [+1543 chars]"
+            "author": "Gabrielle Fonrouge",
+            "title": "Alleged Matt Gaetz extortion plot involved orgy, US hostage — and $25 million: report - New York Post ",
+            "description": "The alleged extortion plot against Florida Rep. Matt Gaetz apparently involved two men blackmailing him with details about an alleged orgy with prostitutes in an effort to get his dad to cough up $…",
+            "url": "https://nypost.com/2021/03/31/matt-gaetz-extortion-plot-involved-orgy-a-us-hostage-and-25-million-report/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/03/matt-gaetz-offers-proof-of-blackmail-claims-44.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2021-04-01T03:24:00Z",
+            "content": "The alleged extortion plot against Florida Rep. Matt Gaetz apparently involved two men blackmailing him with details about an alleged orgy with prostitutes in an effort to get his dad to cough up $25… [+5209 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "nbc-news",
+                "name": "NBC News"
             },
-            "author": "Adam Shaw",
-            "title": "Border Patrol video shows smugglers abandoning 5 year-old, 3-year-old at the border - Fox News",
-            "description": "Border Patrol on Wednesday released a shocking video of smugglers abandoning a 5-year-old girl and a 3-year-old girl at the border in the New Mexico desert in the middle of the night -- after dropping them over a 14-foot border barrier.",
-            "url": "https://www.foxnews.com/politics/border-patrol-video-smugglers-5-year-old-3-year-old-abandoned-border",
-            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2f5244f6-b5e7-458e-b329-5fa951254966/67556eb5-517f-43d4-9174-8c0e4ac89a6e/1280x720/match/image.jpg",
-            "publishedAt": "2021-03-31T21:03:27Z",
-            "content": "Border Patrol on Wednesday released a shocking video of smugglers abandoning a 5-year-old girl and a 3-year-old girl at the border in the New Mexico desert in the middle of the night -- after droppin… [+1860 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NESN"
-            },
-            "author": "dakrandall",
-            "title": "NFL: Here's 49ers' Reported Asking Price For Jimmy Garoppolo Trade - NESN.com",
-            "description": "Here's what the San Francisco 49ers reportedly would want before even considering a trade involving quarterback Jimmy Garoppolo.",
-            "url": "https://nesn.com/2021/03/jimmy-garoppolo-49ers-trade-asking-price/",
-            "urlToImage": "https://nesn.com/wp-content/uploads/sites/5/2021/03/jimmy-garoppolo-10.jpg",
-            "publishedAt": "2021-03-31T20:59:10Z",
-            "content": "We’ve reached the “asking price” phase of the Jimmy Garoppolo trade saga.\r\nThe San Francisco 49ers reportedly would need a first-round pick before considering making Garoppolo available in a trade, S… [+1463 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Brian Dakss",
-            "title": "Brandon Elliot, who killed his mother, arrested in brutal attack on Asian woman in NYC - CBS News",
-            "description": "The attack was one of two in recent days in the city that are part of a nationwide surge in hate crimes against Asians and Asian Americans.",
-            "url": "https://www.cbsnews.com/news/brandon-elliot-attack-asian-woman-new-york-city-man-arrested/",
-            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/31/e890a843-a3f8-4431-9ba4-0356434c6492/thumbnail/1200x630g2/46751cbeef87a7b6d63852dbfc3337cb/brandon-elliot.jpg",
-            "publishedAt": "2021-03-31T20:44:00Z",
-            "content": "A homeless man on lifetime parole after serving time for killing his mother has been arrested in the brutal attack Monday on a 65-year-old Asian woman in midtown Manhattan. Police say Brandon Elliot,… [+4936 chars]"
+            "author": "Phil Helsel",
+            "title": "Two toddlers dropped from 14-foot border barrier into U.S., officials say - NBC News",
+            "description": "Two girls, 3 and 5, were rescued after being dropped from a 14-foot border barrier into the U.S. from Mexico by what smugglers, border officials said.",
+            "url": "https://www.nbcnews.com/news/us-news/two-toddlers-dropped-14-foot-border-barrier-u-s-officials-n1262701",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2021_13/3461266/210331-border-patrol-night-tech-smuggler-toddler-border-ac-1040p_6d58ede06f8694981915af85ce41b3b6.nbcnews-fp-1200-630.jpg",
+            "publishedAt": "2021-04-01T03:08:00Z",
+            "content": "Two toddlers were rescued in a remote part of the New Mexico-Mexico border after they were dropped by someone atop a 14-foot-tall barrier Tuesday night, officials said.\r\nSmugglers, under cover of nig… [+2500 chars]"
         }
     ]
 }
