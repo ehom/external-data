@@ -44,6 +44,7 @@ jobs:
           curl "https://finnhub.io/api/v1/forex/rates?base=USD&token=${{secrets.FINNHUB_API_KEY}}" | json_pp > usd.json
           
           git config --global user.name $GITHUB_ACTOR
+          git add usd.json
           git diff --quiet && git diff --staged --quiet || git commit -am 'Update USD exchange rates'
           git push
 
