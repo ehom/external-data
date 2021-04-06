@@ -8,12 +8,15 @@ api_key.apiKey = secret;
 
 console.log(secret);
 
+console.debug("env:", process.env);
+
 const finnhubClient = new finnhub.DefaultApi()
 
 // Forex rates
 finnhubClient.forexRates({"base": "USD"}, (error, data, response) => {
-    data.timeStamp = new Date(Date.now()); // ISO
-    console.log(data);
+    console.debug(data);
+    data["timeStamp"] = new Date(Date.now()); // ISO
+    console.debug(data);
     saveJsonTo('usd.json', data);
 });
 
