@@ -2,7 +2,11 @@ const finnhub = require('finnhub');
 const fs = require('fs');
 
 const api_key = finnhub.ApiClient.instance.authentications['api_key'];
-api_key.apiKey = process.env.FINNHUB_API_KEY;
+// TODO: error handling
+const [secret] = process.argv.slice(2);
+api_key.apiKey = secret;
+
+console.log(secret);
 
 const finnhubClient = new finnhub.DefaultApi()
 
