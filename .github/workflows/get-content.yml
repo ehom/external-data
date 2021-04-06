@@ -36,14 +36,11 @@ jobs:
           
       - name: Get USD exchange rates
         run: |
-          OUTPUT_FILE=forex-rates.json
-          mkdir -p exchangeratesapi && cd exchangeratesapi
-
-          curl -X GET \
-            --silent \
-            -H 'content-type: application/json' \
-            'https://api.exchangeratesapi.io/latest?base=USD' | json_pp > $OUTPUT_FILE
-
+          OUTPUT_FILE=usd.json
+          mkdir -p finnhub && cd finnhub
+         
+          curl https://finnhub.io/api/v1/forex/rates?base=USD&token=${{secrets.FINNHUB_API_KEY}} | json_pp > usd.json
+          
           git config --global user.name $GITHUB_ACTOR
           git diff --quiet && git diff --staged --quiet || git commit -am 'Update USD exchange rates'
           git push
