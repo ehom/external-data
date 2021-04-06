@@ -42,7 +42,7 @@ jobs:
           mkdir -p finnhub && cd finnhub
          
           npm install
-          node fetch-usd.js
+          node fetch-usd.js ${{secrets.FINNHUB_API_KEY}}
           
           git config --global user.name $GITHUB_ACTOR
           git add usd.json
