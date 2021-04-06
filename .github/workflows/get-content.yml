@@ -23,6 +23,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Get latest COVID-19 statistics
         run: |
+          git pull
           git config --global user.name $GITHUB_ACTOR          
           
           cd covid-19
@@ -37,6 +38,7 @@ jobs:
       - name: Get USD exchange rates
         run: |
           OUTPUT_FILE=usd.json
+          git pull
           mkdir -p finnhub && cd finnhub
          
           curl https://finnhub.io/api/v1/forex/rates?base=USD&token=${{secrets.FINNHUB_API_KEY}} | json_pp > usd.json
@@ -48,6 +50,7 @@ jobs:
       - name: Get Top Stories on Movies
         run: |
           OUTPUT_FILE=movies.json
+          git pull
           mkdir -p nyt && cd nyt
          
           python3 ../fetch-json.py \
