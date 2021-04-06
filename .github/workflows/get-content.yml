@@ -41,7 +41,8 @@ jobs:
           git pull
           mkdir -p finnhub && cd finnhub
          
-          curl "https://finnhub.io/api/v1/forex/rates?base=USD&token=${{secrets.FINNHUB_API_KEY}}" | json_pp > usd.json
+          npm install
+          node fetch-usd.js
           
           git config --global user.name $GITHUB_ACTOR
           git add usd.json
