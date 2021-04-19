@@ -20,7 +20,7 @@ const locales = [
 ];
 
 const result = locales.reduce((accumulator, locale) => {
-  const [language, country] = locale.split('-')
+  const [language, country] = locale.split('-');
   const name = new Intl.DisplayNames(language, {type: "region"}).of(country);
   console.debug(name);
   accumulator[locale] = `${name} (${locale})`;
