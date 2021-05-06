@@ -4,81 +4,94 @@
     "articles": [
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Météo. Ce week-end, les températures pourraient dépasser les 30 °C - Ouest-France",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbWV0ZW8vbWV0ZW8tY2Utd2Vlay1lbmQtbGVzLXRlbXBlcmF0dXJlcy1wb3VycmFpZW50LWRlcGFzc2VyLWxlcy0zMC0wYy1iNzc3ZWYzNC1hZTQzLTExZWItYTI4Yi1iNDUyNmFlODQ1NGTSAYcBaHR0cHM6Ly9hbXAub3Vlc3QtZnJhbmNlLmZyL21ldGVvL21ldGVvLWNlLXdlZWstZW5kLWxlcy10ZW1wZXJhdHVyZXMtcG91cnJhaWVudC1kZXBhc3Nlci1sZXMtMzAtMGMtYjc3N2VmMzQtYWU0My0xMWViLWEyOGItYjQ1MjZhZTg0NTRk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-05-06T09:29:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": "Vincent Matalon, Yann Thompson",
+            "title": "DIRECT. Brexit : des marins français manifestent à Jersey, le Royaume-Uni et la France envoient chacun deux... - Franceinfo",
+            "description": "Les \"manoeuvres\" britanniques au large de l'île anglo-normande \"ne doivent pas nous impressionner\", a déclaré le secrétaire d'Etat français aux Affaires européennes Clément Beaune.",
+            "url": "https://www.francetvinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/brexit-des-marins-francais-manifestent-a-jersey-le-royaume-uni-et-la-france-envoient-chacun-deux-navires-militaires-au-large-de-l-ile_4613197.html",
+            "urlToImage": "https://www.francetvinfo.fr/image/75wktiq5o-70fd/1500/843/24530671.jpg",
+            "publishedAt": "2021-05-06T09:25:57Z",
+            "content": "Retrouvez ici l'intégralité de notre live #BREXIT\r\n12h28 : Paris appelle Londres à revenir sur les restrictions imposées aux pêcheurs français.\r\n12h01 : Voici le point sur l'actualité à la mi-journée… [+3194 chars]"
+        },
+        {
+            "source": {
                 "id": "lequipe",
                 "name": "L'equipe"
             },
             "author": "Rédaction",
-            "title": "Zinédine Zidane (Real Madrid) : « Chelsea a été supérieur » - L'Équipe.fr",
-            "description": "Beau joueur, l'entraîneur du Real Madrid, éliminé par Chelsea mercredi (1-1, 2-0), a reconnu la supériorité des Blues.",
-            "url": "https://www.lequipe.fr/Football/Actualites/Zinedine-zidane-real-madrid-chelsea-a-ete-superieur/1249410",
-            "urlToImage": "https://medias.lequipe.fr/img-video-cover/1500000001484655/640/0",
-            "publishedAt": "2021-05-05T21:39:06Z",
-            "content": "Zinédine Zidane (entraîneur du Real Madrid, éliminé par Chelsea en demi-finales de la Ligue des champions, au micro de RMC Sport) : « Ils ont été supérieurs. Ils ont mérité de gagner. Ils ont plus d'… [+1271 chars]"
+            "title": "Les Bleus joueront à Strasbourg et à Lyon en septembre - L'Équipe.fr",
+            "description": "En septembre, l'équipe de France jouera deux matches des qualifications pour le Mondial 2022 à Strasbourg puis Lyon.",
+            "url": "https://www.lequipe.fr/Football/Actualites/Les-bleus-joueront-a-strasbourg-et-a-lyon-en-septembre/1249485",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/les-bleus-joueront-a-la-meinau-en-septembre-j-prevost-l-equipe/1500000001484748/0:0,1995:1330-640-427-75/59ed1.jpg",
+            "publishedAt": "2021-05-06T09:11:05Z",
+            "content": "D'ici la fin de l'été, ils seront néanmoins allés à Nice, le 2 juin prochain, pour préparer l'Euro contre le pays de Galles. La France est première du groupe D avec 7 points en trois matches, contre … [+27 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Le fou rire d'Eden Hazard après Chelsea-Real Madrid scandalise l'Espagne | Revue de presse - Foot Mercato",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SkhJbGJRdmJzd1XSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-05-06T09:01:09Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Eurosport.fr"
+                "name": "Le HuffPost"
             },
-            "author": "Maxime Ducher",
-            "title": "Ligue des champions - Chelsea domine le Real Madrid (2-0) et rejoint Manchester City en finale - Eurosport.fr",
-            "description": "LIGUE DES CHAMPIONS - Ce sera une finale 100% anglaise le 29 mai prochain à Istanbul : Chelsea a éliminé le Real Madrid grâce à son succès (2-0)",
-            "url": "https://www.eurosport.fr/football/ligue-des-champions/2020-2021/ligue-des-champions-chelsea-domine-le-real-madrid-2-0-et-rejoint-manchester-city-en-finale_sto8305816/story.shtml",
-            "urlToImage": "https://i.eurosport.com/2021/05/05/3126987-64095468-2560-1440.jpg",
-            "publishedAt": "2021-05-05T20:54:00Z",
-            "content": "La joie de Timo Werner (Chelsea)\r\nCrédit: Getty Images"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Elise Vincent, Morgane Le Cam",
-            "title": "Comment le journaliste Olivier Dubois a été enlevé au Mali - Le Monde",
-            "description": "Le reporter indépendant français a disparu le 8 avril à Gao, dans le nord du pays. Le parquet national antiterroriste a ouvert une enquête préliminaire.",
-            "url": "https://www.lemonde.fr/afrique/article/2021/05/05/comment-le-journaliste-olivier-dubois-a-ete-enleve-au-mali_6079266_3212.html",
-            "urlToImage": "https://img.lemde.fr/2021/05/05/28/0/868/433/1440/720/60/0/3f3c4a7_5725562-01-06.jpg",
-            "publishedAt": "2021-05-05T20:15:54Z",
-            "content": "Le journaliste français basé au Mali Olivier Dubois, dans une vidéo diffusée sur les réseaux sociaux dans la nuit du 4 au 5 mai 2021. - / AFP\r\nCest à Gao, au nord du Mali, une de ces villes plantées … [+2845 chars]"
+            "author": "Valentin Etancelin",
+            "title": "Luc Ferry \"n'arrive pas à vivre\" avec plus de 3000 euros de retraite par mois - Le HuffPost",
+            "description": "Les propos du philosophe, tenus ce mercredi 5 mai sur le plateau de Non Stop People, sont jugés indécents.",
+            "url": "https://www.huffingtonpost.fr/entry/luc-ferry-narrive-pas-a-vivre-avec-plus-de-3000-euros-de-retraite-par-mois-et-cree-la-polemique_fr_60939ac2e4b0c15313fc8d60",
+            "urlToImage": "https://img.huffingtonpost.com/asset/6093a725260000f651b4259f.png?cache=eyY0XiMEuq&ops=1200_630",
+            "publishedAt": "2021-05-06T08:38:35Z",
+            "content": "POLÉMIQUE - Luc Ferry “n’arrive pas” à joindre les deux bouts. Ce mercredi 5 mai, l’ancien ministre de l’Éducation nationale était l’invité de “L’instant de Luxe”, émission animée sur la chaîne Non S… [+5023 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Canal-supporters.com"
+                "name": "jeuxvideo.com"
             },
-            "author": "Murvin Armoogum",
-            "title": "Messi, Camavinga, Aurier : les pistes du PSG pour le prochain mercato (LP) - Canal Supporters",
-            "description": "Hier soir, le PSG a mis fin à son beau parcours européen suite à sa défaite face à Manchester City en demi-finale de Ligue des champions. Si le club de la capitale peut s'appuyer sur des éléments inco",
-            "url": "https://canal-supporters.com/messi-camavinga-aurier-les-pistes-du-psg-pour-le-prochain-mercato-lp/",
-            "urlToImage": "https://canal-supporters.com/wp-content/uploads/2021/05/Messi-Camavinga-Aurier.jpg",
-            "publishedAt": "2021-05-05T19:34:41Z",
-            "content": "Hier soir, le PSG a mis fin à son beau parcours européen suite à sa défaite face à Manchester City en demi-finale de Ligue des champions. Si le club de la capitale peut s’appuyer sur des éléments inc… [+2112 chars]"
+            "author": "Tiraxa",
+            "title": "Microsoft aussi a beaucoup joué à The Last of Us 2 - jeuxvideo.com",
+            "description": "D'après le test réalisé par ses équipes internes, Microsoft a très clairement apprécié l'aventure post-apocalyptique de The Last of Us. On fait le point sur la critique partagée publiquement. Tandis que le procès Apple vs. Epic bat son plein depuis le début d…",
+            "url": "https://www.jeuxvideo.com/news/1403651/microsoft-aussi-a-beaucoup-joue-a-the-last-of-us-2.htm",
+            "urlToImage": "https://image.jeuxvideo.com/medias-md/162029/1620286521-7120-card.png",
+            "publishedAt": "2021-05-06T08:29:16Z",
+            "content": "D'après le test réalisé par ses équipes internes, Microsoft a très clairement apprécié l'aventure post-apocalyptique de The Last of Us. On fait le point sur la critique partagée publiquement. Tandis … [+2947 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eurosport.fr"
+                "name": "Maxifoot.fr"
             },
-            "author": "Emmanuel Bringuier",
-            "title": "ATP Madrid - Pas de miracle pour Benoît Paire, battu par Stefanos Tsitsipas (6-1, 6-2) - Eurosport.fr",
-            "description": "ATP Madrid - Pas de miracle pour Benoît Paire, battu par Stefanos Tsitsipas (6-1, 6-2)",
-            "url": "https://www.eurosport.fr/tennis/atp-madrid/2021/atp-madrid-pas-de-miracle-pour-benoit-paire-battu-par-stefanos-tsitsipas-6-1-6-2_sto8305748/story.shtml",
-            "urlToImage": "https://i.eurosport.com/2021/05/05/3126955-64094828-2560-1440.jpg",
-            "publishedAt": "2021-05-05T19:29:00Z",
-            "content": "Stefanos Tsitsipas, face à Jannik Sinner, en demi-finale de Barcelone en 2021\r\nCrédit: Getty Images"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Public"
-            },
-            "author": "Public",
-            "title": "Nolwenn Leroy : comme Jenifer, elle a préféré s’effacer... - Public",
-            "description": "Le mois dernier, Loft Story fêtait ses 20 ans avec une émission de retrouvailles avec notamment Benjamin Castaldi, Steevy Boulay, Jean-Edouard Lipa ou encore Christophe et Julie diffusée sur C8. À cause de ses soucis de santé, Loana n'avait pu se joindre à se…",
-            "url": "https://www.public.fr/News/Nolwenn-Leroy-comme-Jenifer-elle-a-prefere-s-effacer-1674537",
-            "urlToImage": "https://resize-public.ladmedia.fr/img/var/public/storage/images/news/nolwenn-leroy-comme-jenifer-elle-a-prefere-s-effacer-1674537/44298858-1-fre-FR/Nolwenn-Leroy-comme-Jenifer-elle-a-prefere-s-effacer.jpg",
-            "publishedAt": "2021-05-05T19:20:00Z",
-            "content": "Le mois dernier, Loft Story fêtait ses 20 ans avec une émission de retrouvailles avec notamment Benjamin Castaldi, Steevy Boulay, Jean-Edouard Lipa ou encore Christophe et Julie diffusée sur C8. À ca… [+1794 chars]"
+            "author": null,
+            "title": "Chelsea : le PSG, Tuchel n'a rien à prouver - Maxifoot",
+            "description": "Mercredi, Chelsea s'est qualifié pour la finale de la Ligue des Champions en éliminant le Real Madrid (1-1, 2-0). Après ...",
+            "url": "https://news.maxifoot.fr/chelsea/le-psg-tuchel-n-a-rien-a-prouver-foot-346584.htm",
+            "urlToImage": "https://news.maxifoot.fr/amp/346584.jpg",
+            "publishedAt": "2021-05-06T08:22:00Z",
+            "content": "Mercredi, Chelsea s'est qualifié pour la finale de la Ligue des Champions en éliminant le Real Madrid (1-1, 2-0). Après cette qualification, l'entraîneur des Blues Thomas Tuchel a tenu à écarter l'id… [+769 chars]"
         },
         {
             "source": {
@@ -86,77 +99,51 @@
                 "name": "Le Monde"
             },
             "author": "Le Monde avec AFP",
-            "title": "Mérignac : une femme meurt, brûlée vive en pleine rue par son mari récidiviste - Le Monde",
-            "description": "L’homme, déjà emprisonné pour violences conjugales, a tiré des coups de feu dans les jambes de cette femme de 31 ans, avant de l’immoler. Des associations dénoncent l’inaction de l’Etat.",
-            "url": "https://www.lemonde.fr/societe/article/2021/05/05/feminicide-une-femme-meurt-brulee-vive-par-son-mari-recidiviste-pres-de-bordeaux_6079249_3224.html",
-            "urlToImage": "https://img.lemde.fr/2021/05/05/398/0/4258/2129/1440/720/60/0/33ed88f_5728293-01-06.jpg",
-            "publishedAt": "2021-05-05T19:19:48Z",
-            "content": "Cest un nouveau féminicide dune violence inouïe qui suscite une onde de choc et dindignation. Chahinez, 31 ans, mère de trois enfants, est morte mardi 4 mai à Mérignac, près de Bordeaux.\r\nVers 18 h 1… [+6130 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SO FOOT"
-            },
-            "author": "",
-            "title": "En direct : l'épisode 13 de Top Chef - Chelsea, Real / SOFOOT.com - SO FOOT",
-            "description": "Pour découper les quarts avec Heston Blumenthal, c'est par ici.",
-            "url": "https://www.sofoot.com/en-direct-l-episode-13-de-top-chef-499126.html",
-            "urlToImage": "https://www.sofoot.com/IMG/img-social-499126.jpg",
-            "publishedAt": "2021-05-05T18:45:00Z",
-            "content": "Il n'en reste plus que quatre : Sarah, Matthias, Mohamed et Pierre. Voici les quatre candidats des quarts de finale dont l'objectif ultime est de remporter l'édition 2021 de Top Chef. Au menu: Heston… [+11638 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "France Bleu"
-            },
-            "author": "Victor Tribot Laspière",
-            "title": "Un policier tué par balles à Avignon, le suspect en fuite - France Bleu",
-            "description": "Un policier de 37 ans a été tué par balle ce mercredi dans le centre-vile d'Avignon en voulant interpeller des trafiquants de drogue. L'auteur des coups de feu est en fuite. Gérald Darmanin, ministre de l'Intérieur, est attendu vers minuit sur place.",
-            "url": "https://www.francebleu.fr/infos/faits-divers-justice/avignon-un-policier-tue-lors-d-une-operation-anti-drogue-gerald-darmanin-se-rend-sur-place-1620239298",
-            "urlToImage": "https://cdn.radiofrance.fr/s3/cruiser-production/2021/05/99383bf4-efbf-4eeb-8918-442d9d306a28/870x489_index.jpg",
-            "publishedAt": "2021-05-05T18:28:18Z",
-            "content": "Un policier a été tué par balles ce mercredi à Avignon, après avoir pris en flagrant délit des trafiquants de drogue, dans l'intramuros. Plusieurs policiers ont été pris pour cible par des tirs. Le s… [+4570 chars]"
+            "title": "Policier tué à Avignon : un homme interpellé dans le cadre de l'enquête - Le Monde",
+            "description": "Mercredi soir, la victime et son équipage avaient été envoyés « pour un attroupement sur la voie publique autour d’un point de deal », selon Gérald Darmanin. Ce dernier doit à nouveau rencontrer les policiers d’Avignon dans la matinée.",
+            "url": "https://www.lemonde.fr/societe/article/2021/05/06/policier-tue-a-avignon-un-homme-interpelle-dans-le-cadre-de-l-enquete_6079319_3224.html",
+            "urlToImage": "https://img.lemde.fr/2021/05/05/333/0/3305/1648/1440/720/60/0/c7f1054_5729458-01-06.jpg",
+            "publishedAt": "2021-05-06T08:11:07Z",
+            "content": "Un homme soupçonné davoir été présent, mercredi soir, à Avignon près du point de deal où un policier a été tué lors dune intervention a été interpellé, jeudi 6 mai, dans le cadre de lenquête, a appri… [+3745 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "20 Minutes"
             },
-            "author": "Caroline Girardon",
-            "title": "Affaire Arthur Noyer : « Tu sais au fond de toi que ce n’est pas un accident »... Nordahl Lelandais ébranlé… - 20 Minutes",
-            "description": "Nordahl Lelandais est jugé depuis lundi devant les Assises de la Savoie pour le meurtre du caporal Arthur Noyer, le 12 avril 2017",
-            "url": "https://www.20minutes.fr/justice/3035419-20210505-affaire-arthur-noyer-sais-fond-accident-nordahl-lelandais-ebranle-temoignage-amie-alexandra",
-            "urlToImage": "https://img.20mn.fr/2e-2E8OwRlePNHvXkY3-LQ/648x360_nordahl-lelandais-juge-jusqu-12-mai-devant-assises-savoie-meurtre-caporal-arthur-noyer.jpg",
-            "publishedAt": "2021-05-05T18:23:02Z",
-            "content": "Nordahl Lelandais est jugé jusqu'au 12 mai devant les assises de la Savoie pour le meurtre du caporal Arthur Noyer. M. Williams/AFP\r\nA la cour dassises de la Savoie\r\nIl aura fallu attendre 17 heures … [+2770 chars]"
+            "author": "20 Minutes avec AFP",
+            "title": "Femme brûlée vive en Gironde : Chahinez disait de son mari « que c’était un monstre » - 20 Minutes",
+            "description": "Un rassemblement s’est tenu mercredi soir à Mérignac, dans la banlieue de Bordeaux, où Chahinez, 31 ans, a été brûlée vive en pleine rue par son mari violent, mardi soir",
+            "url": "https://www.20minutes.fr/societe/3036075-20210506-femme-brulee-vive-gironde-chahinez-disait-mari-monstre",
+            "urlToImage": "https://img.20mn.fr/4se7-8CSQ8GeWh8TPRUAyQ/648x360_mercredi-soir-appel-collectifs-defense-femmes-quelque-300-personnes-rassemblees-merignac-o-femme-31-ans-tuee-ex-conjoint.jpg",
+            "publishedAt": "2021-05-06T07:38:33Z",
+            "content": "Mercredi soir, à l'appel de collectifs de défense des femmes, quelque 300 personnes se sont rassemblées à Mérignac, où une femme de 31 ans a été tuée par son ex-conjoint. MEHDI FEDOUACH / AFP\r\nMercre… [+3153 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BFMTV"
+                "name": "Frenchweb.fr"
             },
-            "author": null,
-            "title": "Bac 2021: Blanquer détaille les aménagements pour la philo et le grand oral - BFMTV",
-            "description": "Jean-Michel Blanquer a annoncé, ce mercredi, que pour le baccalauréat de philosophie 2021, la meilleure note serait retenue entre celle du contrôle continu et celle de l'épreuve.",
-            "url": "https://www.bfmtv.com/societe/education/philosophie-au-bac-blanquer-annonce-que-la-meilleure-note-entre-celle-de-l-epreuve-et-le-controle-continu-sera-retenue_AD-202105050430.html",
-            "urlToImage": "https://images.bfmtv.com/McfFfzBqmyFOSER-_vqfzqT4REk=/0x0:1024x576/1024x0/images/Jean-Michel-Blanquer-au-journal-televise-de-France-2-ce-mercredi-soir-1020877.jpg",
-            "publishedAt": "2021-05-05T18:21:37Z",
-            "content": "Jean-Michel Blanquer a annoncé, ce mercredi, que pour le baccalauréat de philosophie 2021, la meilleure note serait retenue entre celle du contrôle continu et celle de l'épreuve.\r\n\"La meilleure note … [+2647 chars]"
+            "author": "La rédaction",
+            "title": "Shift Technology, nouvelle licorne française de l'AssurTech après une levée de 220 millions de dollars - FrenchWeb.fr - Frenchweb.fr",
+            "description": "La pépite française Shift Technology, qui aide les assureurs à automatiser leur activité avec l'intelligence artificielle, a levé 220 millions de dollars, entrant dans le club fermé des licornes franç",
+            "url": "https://www.frenchweb.fr/shift-technology-nouvelle-licorne-francaise-de-lassurtech-apres-une-levee-de-220-millions-de-dollars/421644",
+            "urlToImage": "https://www.frenchweb.fr/wp-content/uploads/2021/05/Shift-Technology-650.jpg",
+            "publishedAt": "2021-05-06T07:28:11Z",
+            "content": "La pépite française Shift Technology, qui aide les assureurs à automatiser leur activité avec l’intelligence artificielle, a levé 220 millions de dollars, entrant dans le club fermé des licornes fran… [+2089 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Télé Loisirs.fr"
+                "name": "Ozap"
             },
-            "author": "Marc Arlin",
-            "title": "Thomas Pesquet : son dialogue étonnant avec Alexandre Astier au sujet du film Kaamelott - Télé Loisirs.fr",
-            "description": "Une pétition circule depuis plusieurs jours, proposant que Thomas Pesquet, grand fan de Kaamelott, puisse avoir accès en avant-première au film adapté de la série.",
-            "url": "https://www.programme-tv.net/news/cinema/275575-thomas-pesquet-premier-spectateur-du-film-kaamelott-son-dialogue-etonnant-avec-alexandre-astier/",
-            "urlToImage": "https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Ftel.2F2021.2F05.2F05.2F1e9d9d24-5895-4fc3-91b9-5309c848dcd1.2Ejpeg/1200x600/crop-from/top/quality/80/cr/wqkgSlAgUEFSSUVOVEUvU0lQQQ%3D%3D/focus-point/3067,1376/thomas-pesquet-son-dialogue-etonnant-avec-alexandre-astier-au-sujet-du-film-kaamelott.jpg",
-            "publishedAt": "2021-05-05T17:50:04Z",
-            "content": "Une pétition circule depuis plusieurs jours, proposant que Thomas Pesquet, grand fan de Kaamelott, puisse avoir accès en avant-première au film adapté de la série. Le 23 avril dernier, Thomas Pesquet… [+3513 chars]"
+            "author": "Christophe Gazzano",
+            "title": "Audiences : \"Top Chef\" leader devant \"The Resident\", le final de \"L'école de la vie\" en hausse, Arte, TMC et TFX au top - OZAP",
+            "description": "Les audiences de la soirée du mercredi 5 mai 2021.",
+            "url": "https://www.ozap.com/actu/audiences-top-chef-leader-devant-the-resident-le-final-de-l-ecole-de-la-vie-en-hausse-arte-tmc-et-tfx-au-top/604305",
+            "urlToImage": "https://static1.ozap.com/articles/5/60/43/05/@/4647765--l-ecole-de-la-vie-opengraph_1200-2.jpg",
+            "publishedAt": "2021-05-06T07:12:19Z",
+            "content": "Mercredi soir, M6 s'est imposée en tête des audiences avec un nouveau numéro de \"Top Chef\" produit par Studio 89. Le concours culinaire présenté par Stéphane Rotenberg a fait saliver cette semaine en… [+2060 chars]"
         },
         {
             "source": {
@@ -164,77 +151,25 @@
                 "name": "Francetvinfo.fr"
             },
             "author": null,
-            "title": "Fortnite contre Apple : ce qu'il faut savoir sur cette bataille royale qui se joue au tribunal et dans votre t - franceinfo",
-            "description": "Epic Games, qui a développé Fortnite, accuse le géant californien d'abuser de son pouvoir en prenant une importante commission sur les gains réalisés par le jeu. Le procès s'est ouvert lundi aux Etats-Unis.",
-            "url": "https://www.francetvinfo.fr/internet/apple/fortnite-contre-apple-ce-qu-il-faut-savoir-sur-cette-bataille-royale-qui-se-joue-au-tribunal-et-dans-votre-telephone_4610717.html",
-            "urlToImage": "https://www.francetvinfo.fr/pictures/QsNgF4-xFsMHcUi_FYyLISj3-0w/1500x843/2021/05/05/phpn0UmgZ.jpg",
-            "publishedAt": "2021-05-05T17:44:44Z",
-            "content": "Epic Games, qui a développé Fortnite, accuse le géant californien d'abuser de son pouvoir en prenant une importante commission sur les gains réalisés par le jeu. Le procès s'est ouvert lundi aux Etat… [+6464 chars]"
+            "title": "Covid-19 : la plus grande étude en vie réelle confirme l'efficacité du vaccin de Pfizer-BioNTech - franceinfo",
+            "description": "L'étude, réalisée en Israël, montre que le vaccin protège des infections dans 95,3% des cas.",
+            "url": "https://www.francetvinfo.fr/sante/maladie/coronavirus/vaccin/covid-19-la-plus-grande-etude-en-vie-reelle-confirme-l-efficacite-du-vaccin-pfizer_4613027.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/8AMsCZ5WCAzdAXOD27_CGwuERu0/1500x843/2021/05/06/phptqwyoD.jpg",
+            "publishedAt": "2021-05-06T06:22:31Z",
+            "content": "L'étude, réalisée en Israël, montre que le vaccin protège des infections dans 95,3% des cas.C'est la plus grande étude jamais réalisée en vie réelle. Publiée dans la revue médicaleThe Lancet (en angl… [+1484 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Ouest-France"
+                "name": "Gamekult"
             },
-            "author": "Par l’édition du soir",
-            "title": "Bill Gates gagne 4 630 dollars par seconde : dix choses à savoir sur son immense fortune - Edition du soir Ouest-France - 05/05/2021 - Ouest-France",
-            "description": "Le milliardaire américain Bill Gates et son épouse Melinda ont annoncé qu’ils allaient divorcer. Le cofondateur du géant de l’informatique Microsoft et sa future ex-femme vont...",
-            "url": "https://www.ouest-france.fr/leditiondusoir/2021-05-05/bill-gates-gagne-4-630-dollars-par-seconde-dix-choses-a-savoir-sur-son-immense-fortune-53ee40e3-46ac-465c-b380-89ff0fa99704",
-            "urlToImage": "https://media.ouest-france.fr/v1/pictures/86d3d5583c91d6a2523a8eb87bdddae0-17416700.jpg?width=1400&client_id=eds&sign=0cd013cf332cc5cfd7a1049ddbaeb82b044be751f4cd647f4055abbf09874bbc",
-            "publishedAt": "2021-05-05T17:41:36Z",
-            "content": "Par lédition du soir\r\nLe milliardaire américain Bill Gates et son épouse Melinda ont annoncé quils allaient divorcer. Le cofondateur du géant de linformatique Microsoft et sa future ex-femme vont don… [+3330 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lefigaro.fr"
-            },
-            "author": "Arthur Berdah",
-            "title": "Emmanuel Macron: «Napoléon Bonaparte est une part de nous» - Le Figaro",
-            "description": "Le président a salué «le génie» de l’Empereur, à l’occasion de la commémoration du bicentenaire de son décès.",
-            "url": "https://www.lefigaro.fr/politique/emmanuel-macron-napoleon-est-une-part-de-nous-20210505",
-            "urlToImage": "https://i.f1g.fr/media/eidos/630x354_crop/2021/05/05/XVMf2191d76-adc0-11eb-b535-d2bb78f85188.jpg",
-            "publishedAt": "2021-05-05T16:37:34Z",
-            "content": "Le président a salué «le génie» de lEmpereur, à loccasion de la commémoration du bicentenaire de son décès.Le discours sest bien sûr conclu par le très traditionnel «Vive la République». Mais ce rapp… [+3878 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lefigaro.fr"
-            },
-            "author": "Thierry Oberlé",
-            "title": "En Israël, l’ex-journaliste Yaïr Lapid chargé de former un gouvernement - Le Figaro",
-            "description": "Le premier ministre Benyamin Netanyahou, dont le parti était arrivé en tête des élections, n’a pas réussi à former une coalition.",
-            "url": "https://www.lefigaro.fr/international/en-israel-l-ex-journaliste-yair-lapid-charge-de-former-un-gouvernement-20210505",
-            "urlToImage": "https://i.f1g.fr/media/eidos/630x354_crop/2021/05/05/XVM370e1e26-adb3-11eb-b535-d2bb78f85188.jpg",
-            "publishedAt": "2021-05-05T16:33:52Z",
-            "content": "Le premier ministre Benyamin Netanyahou, dont le parti était arrivé en tête des élections, na pas réussi à former une coalition.Le «magicien» a raté ses tours. Benyamin Netanyahou nest pas parvenu à … [+5052 chars]"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Damien Leloup, Alexandre Piquard",
-            "title": "Donald Trump reste banni de Facebook et Instagram, mais son cas sera réexaminé - Le Monde",
-            "description": "La « cour suprême » de Facebook a estimé que le réseau social a eu raison de suspendre Donald Trump, mais qu’il ne peut laisser ses comptes suspendus sans limite de temps.",
-            "url": "https://www.lemonde.fr/pixels/article/2021/05/05/donald-trump-reste-banni-de-facebook-et-instagram-mais-son-cas-sera-reexamine_6079229_4408996.html",
-            "urlToImage": "https://img.lemde.fr/2021/05/05/342/0/5000/2500/1440/720/60/0/f712a59_5726796-01-06.jpg",
-            "publishedAt": "2021-05-05T16:03:51Z",
-            "content": "Le drapeau américain, vu à travers le logo de Facebook. DADO RUVIC / REUTERS\r\nLa décision de Facebook et dInstagram de suspendre les comptes de Donald Trump était justifiée, mais le fait que cette su… [+6771 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Paris Match"
-            },
-            "author": "Paris Match",
-            "title": "\"Emily in Paris\" : les premières images de Lily Collins sur le tournage de la saison 2 - Paris Match",
-            "description": "Lily Collins prend un bain de soleil sur le tournage d'«Emily in Paris» délocalisé à...Saint-Jean-Cap-Ferrat.",
-            "url": "https://www.parismatch.com/Culture/Medias/Emily-in-Paris-les-premieres-images-de-Lily-Collins-sur-le-tournage-1736762",
-            "urlToImage": "https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/medias/emily-in-paris-les-premieres-images-de-lily-collins-sur-le-tournage-1736762/28620095-1-fre-FR/Emily-in-Paris-les-premieres-images-de-Lily-Collins-sur-le-tournage.jpg",
-            "publishedAt": "2021-05-05T15:49:00Z",
-            "content": "Lily Collins prend un bain de soleil sur le tournage d'«Emily in Paris» délocalisé à...Saint-Jean-Cap-Ferrat. Lily Collins voit du pays. La star d'«Emily in Paris» a débuté le tournage de la saison 2… [+1461 chars]"
+            "author": "Steeve Mambrucchi",
+            "title": "Nintendo vous apprend la programmation avec L'atelier du jeu vidéo sur Switch - Gamekult",
+            "description": "Nintendo a dévoilé L'atelier du jeu vidéo, un logiciel de création de jeux qui entend inculquer les bases de la programmation au grand public et permettre de créer et partager un assortiment de jeux sur...",
+            "url": "https://www.gamekult.com/actualite/nintendo-vous-apprend-la-programmation-avec-l-atelier-du-jeu-video-sur-switch-3050838683.html",
+            "urlToImage": "https://d3isma7snj3lcx.cloudfront.net/optim/images/news/30/3050838683/nintendo-vous-apprend-la-programmation-avec-l-atelier-du-jeu-video-sur-switch-c29cbb4e__w854.jpg",
+            "publishedAt": "2021-05-06T06:20:00Z",
+            "content": "Annoncé pour le 11 juin au prix de 29,99 euros, L'atelier du jeu vidéo cible évidemment un public sans expérience à la recherche d'une initiation aux bases de la conception d'un jeu vidéo. C'est en s… [+1670 chars]"
         },
         {
             "source": {
@@ -242,25 +177,90 @@
                 "name": "Le Monde"
             },
             "author": "Le Monde avec AFP",
-            "title": "Colombie : après une semaine de répression policière, nouvelles manifestations pour dénoncer la politique du gouvernement - Le Monde",
-            "description": "Syndicats, étudiants ou indigènes se sont rassemblés dans les principales villes pour protester contre les politiques de santé, d’éducation, de sécurité du président Ivan Duque.",
-            "url": "https://www.lemonde.fr/international/article/2021/05/05/nouvelle-journee-de-mobilisation-en-colombie_6079245_3210.html",
-            "urlToImage": "https://img.lemde.fr/2021/05/04/176/0/2136/1068/1440/720/60/0/22f2454_5723444-01-06.jpg",
-            "publishedAt": "2021-05-05T15:45:34Z",
-            "content": "Les accès à Cali restaient bloqués mercredi matin par des manifestants, alors que cette ville, la troisième du pays et lune des plus dangereuses dAmérique latine, commençait à pâtir de pénuries, nota… [+5024 chars]"
+            "title": "Hongkong : Joshua Wong, figure du mouvement prodémocratie, condamné à dix mois de prison supplémentaires - Le Monde",
+            "description": "M. Wong a été condamné jeudi pour sa participation, en 2020, à une veillée « illégale » en souvenir de la répression de la place de Tiananmen. Une peine qui s’ajoute à celle de treize mois et demi pour sa participation à une autre manifestation en 2019.",
+            "url": "https://www.lemonde.fr/international/article/2021/05/06/hongkong-joshua-wong-figure-du-mouvement-prodemocratie-condamne-a-dix-mois-de-prison-supplementaires_6079308_3210.html",
+            "urlToImage": "https://img.lemde.fr/2021/05/06/433/0/5191/2595/1440/720/60/0/1c6c858_5730800-01-06.jpg",
+            "publishedAt": "2021-05-06T06:13:35Z",
+            "content": "Joshua Wong sadresse aux médias devant le conseil législatif à Hongkong,  le 29 octobre 2019. ANTHONY WALLACE / AFP\r\nJoshua Wong, figure du mouvement prodémocratie à Hongkong, a été condamné, jeudi 6… [+4873 chars]"
         },
         {
             "source": {
-                "id": "les-echos",
-                "name": "Les Echos"
+                "id": null,
+                "name": "Www.rtl.fr"
             },
-            "author": "Les Echos",
-            "title": "Le Cac 40 reprend les 6.300 points, Stellantis fait la course en tête - Investir",
-            "description": "Après sa baisse de mardi, le Cac 40 a retrouvé des couleurs et gagné plus de 1% à la clôture. La bonne tenue de Total...",
-            "url": "https://investir.lesechos.fr/marches/actualites/le-cac-40-reprend-les-6-300-points-stellantis-fait-la-course-en-tete-1961571.php",
-            "urlToImage": "https://investir.lesechos.fr/medias/2021/05/05/1961571_1620229370_1960970-1619797332-paris1.jpg",
-            "publishedAt": "2021-05-05T15:40:00Z",
-            "content": "Ils lui ont échappé mardi, mais pas mercredi. Le Cac 40 a retrouvé les 6.300 points à la clôture de cette séance, terminant à 6.339,47 points. Pour la première fois depuis le 20 avril, le baromètre d… [+3611 chars]"
+            "author": null,
+            "title": "Vaccins : découvrez le calendrier simplifié des vaccinations obligatoires ou non - RTL.fr",
+            "description": "ÉCLAIRAGE - Le calendrier 2021 des vaccinations obligatoires et non obligatoires a été mis à jour et simplifié.",
+            "url": "https://www.rtl.fr/actu/bien-etre/vaccins-decouvrez-le-calendrier-simplifie-des-vaccinations-obligatoires-ou-non-7900028144",
+            "urlToImage": "https://images.rtl.fr/rtl/www/1342846-le-vaccin-contre-la-rougeole-illustration.jpg",
+            "publishedAt": "2021-05-06T06:02:00Z",
+            "content": "Le calendrier 2021 des vaccinations a été mis à jour et simplifié. Dans le contexte sanitaire actuel, les professionnels de santé sont invités à vérifier systématiquement le statut vaccinal des patie… [+1760 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lefigaro.fr"
+            },
+            "author": "Le Figaro avec AFP",
+            "title": "Lourde perte pour Air France-KLM au 1er trimestre, le groupe veut croire en l'été - Le Figaro",
+            "description": "Les restrictions de déplacements ont eu pour conséquence une chute de 57% du chiffre d'affaires par rapport au premier trimestre 2020.",
+            "url": "https://www.lefigaro.fr/conjoncture/lourde-perte-pour-air-france-klm-au-1er-trimestre-qui-veut-croire-en-l-ete-20210506",
+            "urlToImage": "https://i.f1g.fr/media/cms/704x396_cropupscale/2021/05/06/2fad4df7f971066757075cb898d2cb2effdbe4dd3cbf9713d667de9dc5b7c5e8.jpg",
+            "publishedAt": "2021-05-06T06:01:28Z",
+            "content": "Les restrictions de déplacements ont eu pour conséquence une chute de 57% du chiffre d'affaires par rapport au premier trimestre 2020.Toujours accablé par la pandémie, le groupe aérien Air France-KLM… [+4018 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Public"
+            },
+            "author": "Public",
+            "title": "Le chanteur Michel Sardou balance en direct dans “Quotidien” sur les stars qui consomment de la cocaïne ! - Public",
+            "description": "À 73 ans, Michel Sardou se livre comme jamais dans une autobiographie qui sort ce jeudi... l'occasion pour le chanteur d'en assurer la promotion et de faire le tour des plateaux télévisés. Il était notamment ce mercredi 5 mai, l'invité de Yann Barthes dans Qu…",
+            "url": "https://www.public.fr/News/Le-chanteur-Michel-Sardou-balance-en-direct-dans-Quotidien-sur-les-stars-qui-consomment-de-la-cocaine-1674543",
+            "urlToImage": "https://resize-public.ladmedia.fr/img/var/public/storage/images/news/le-chanteur-michel-sardou-balance-en-direct-dans-quotidien-sur-les-stars-qui-consomment-de-la-cocaine-1674543/44299236-1-fre-FR/Le-chanteur-Michel-Sardou-balance-en-direct-dans-Quotidien-sur-les-stars-qui-consomment-de-la-cocaine-!.jpg",
+            "publishedAt": "2021-05-06T06:00:00Z",
+            "content": "À 73 ans, Michel Sardou se livre comme jamais dans une autobiographie qui sort ce jeudi... l'occasion pour le chanteur d'en assurer la promotion et de faire le tour des plateaux télévisés. \r\nIl était… [+1210 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BFMTV"
+            },
+            "author": null,
+            "title": "Covid-19: la perte d'odorat persistante serait associée à la présence durable du virus, selon une étude - BFMTV",
+            "description": "Chez certains patients, ce symptôme peut perdurer plusieurs mois. Des chercheurs avancent des raisons de cette durée.",
+            "url": "https://www.bfmtv.com/sante/covid-19-la-perte-d-odorat-persistante-serait-associee-a-la-presence-durable-du-virus-selon-une-etude_AD-202105060067.html",
+            "urlToImage": "https://images.bfmtv.com/X-oEI4Pi5huxgbq9Ql4tCMjzALM=/194x323:1618x1124/1424x0/images/Image-d-illustration-personne-portant-un-masque-et-sentant-une-fleur-999504.jpg",
+            "publishedAt": "2021-05-06T05:49:00Z",
+            "content": "Chez certains patients, ce symptôme peut perdurer plusieurs mois. Des chercheurs avancent des raisons de cette durée.\r\nLa perte de l'odorat, symptôme fréquent du Covid-19, peut durer plusieurs mois c… [+2830 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lefigaro.fr"
+            },
+            "author": "Le Figaro avec AFP",
+            "title": "Covid-19 : la situation s'améliore en France, les États-Unis favorables à la levée des brevets des vaccins - Le Figaro",
+            "description": "Nouvelles mesures, nouveaux bilans et faits marquants : Le Figaro fait le point sur les dernières évolutions de la pandémie de Covid-19 dans le monde.",
+            "url": "https://www.lefigaro.fr/sciences/covid-19-la-situation-s-ameliore-en-france-les-etats-unis-favorables-a-la-levee-des-brevets-des-vaccins-20210506",
+            "urlToImage": "https://i.f1g.fr/media/cms/704x396_cropupscale/2021/05/06/c6f4ebfbc03e69cef817c1dff6d812b28cf4beaa343fe60812d27348475e5376.jpg",
+            "publishedAt": "2021-05-06T05:32:55Z",
+            "content": "Nouvelles mesures, nouveaux bilans et faits marquants : Le Figaro fait le point sur les dernières évolutions de la pandémie de Covid-19 dans le monde.Alors que la pandémie a fait plus de 3,2 millions… [+5842 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": null,
+            "title": "\"Tu es un espion ?\" : avant leur départ dans des pays sensibles, les policiers et gendarmes sont formés aux pi - franceinfo",
+            "description": "En région parisienne, les futurs attachés de sécurité intérieur s'entraînent à gérer des situations comme des enlèvements ou des filatures.",
+            "url": "https://www.francetvinfo.fr/economie/emploi/metiers/armee-et-securite/tu-es-un-espion-avant-leur-depart-dans-des-pays-sensibles-les-policiers-et-gendarmes-sont-formes-aux-pires-situations_4612501.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/KUqBwfriAbiXkskYHfdEL7R0gVs/1500x843/2021/05/05/php6aIuRb.jpg",
+            "publishedAt": "2021-05-06T05:09:07Z",
+            "content": "En région parisienne, les futurs attachés de sécurité intérieur s'entraînent à gérer des situations comme des enlèvements ou des filatures.lls sont en première ligne en cas d'enlèvement de ressortiss… [+4058 chars]"
         }
     ]
 }
