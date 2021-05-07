@@ -4,146 +4,94 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": "Damien Dorso",
+            "title": "Ligue Europa - Villarreal tient bon face à Arsenal (0-0) et affrontera Manchester United en finale - Eurosport FR",
+            "description": "-",
+            "url": "https://www.eurosport.fr/football/ligue-europa/2020-2021/ligue-europa-villarreal-tient-bon-face-a-arsenal-0-0-et-affrontera-manchester-united-en-finale_sto8307048/story.shtml",
+            "urlToImage": "https://i.eurosport.com/2021/05/06/3127564-64107008-2560-1440.jpg",
+            "publishedAt": "2021-05-06T20:57:00Z",
+            "content": "La joie des joueurs de Villarreal après leur qualification en finale de la Ligue Europa\r\nCrédit: Getty Images"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boursorama"
+            },
+            "author": null,
+            "title": "Wall Street finit en hausse, record du Dow, après les chiffres du chômage - Boursorama",
+            "description": "par Shreyashi Sanyal et Krystal Hu\n\n\n  (Reuters) - La Bourse de New York a fini en hausse jeudi, avec un record pour le Dow Jones, après la publication de données sur le chômage meilleures qu'attendu, tandis que les titres des laboratoires fabriquant des vacc…",
+            "url": "https://www.boursorama.com/bourse/actualites/wall-street-finit-en-hausse-record-du-dow-apres-les-chiffres-du-chomage-cff638dae5394bdc907da45da3dea752",
+            "urlToImage": "https://s.brsimg.com/static-000/cache/i/content/images/5/1/e/51e17a094947418e8b3380e23c1be1d7-1200x800.jpg",
+            "publishedAt": "2021-05-06T20:25:01Z",
+            "content": "WALL STREET FINIT EN HAUSSE\r\npar Shreyashi Sanyal et Krystal Hu\r\n(Reuters) - La Bourse de New York a fini en hausse jeudi, avec un record pour le Dow Jones, après la publication de données sur le chô… [+2407 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Onze Mondial"
+            },
+            "author": "Etienne Leray",
+            "title": "Chelsea – Real Madrid : Werner répond à la femme de Thiago Silva après ses insultes au match aller ! - Onze Mondial",
+            "description": "Au micro de Sky Sports, l’attaquant allemand a préféré plaisanter de la sortie de la femme de son coéquipier, au match aller.",
+            "url": "https://www.onzemondial.com/ligue-des-champions/chelsea-real-madrid-werner-repond-a-la-femme-de-thiago-silva-apres-ses-insultes-au-match-aller-473120",
+            "urlToImage": "https://static.onzemondial.com/photo_article/473120/208297/1200-L-chelsea-real-madrid-werner-rpond-la-femme-de-thiago-silva-aprs-ses-insultes-au-match-aller.jpg",
+            "publishedAt": "2021-05-06T19:56:06Z",
+            "content": "Zapping Onze Mondial Top 20 : les joueurs les plus chers du monde\r\nHier à Stamford Bridge, Chelsea se qualifiait pour la troisième finale de Ligue des champions de son histoire en battant le Real Mad… [+1260 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.lci.fr"
+            },
+            "author": "Tiphaine Pioger et Thibault Malandrin",
+            "title": "\"Vous lui avez volé sa vie\" : la famille d'Arthur Noyer interpelle Nordahl Lelandais - LCI",
+            "description": "JUSTICE - Jusqu'au 12 mai, Nordahl Lelandais est jugé pour le meurtre d'Arthur Noyer, en avril 2017 près de Chambéry. Le jeune chasseur alpin était alors âgé de 23 ans. Suivez le procès en direct.. Justice / Faits divers : video, \"Vous lui avez volé sa vie\" :…",
+            "url": "https://www.lci.fr/justice-faits-divers/en-direct-proces-nordahl-lelandais-vous-lui-avez-vole-sa-vie-la-famille-d-arthur-noyer-interpelle-l-accuse-2184889.html",
+            "urlToImage": "https://photos.lci.fr/images/1280/720/lelandais-afp-332332-ebe1b5-0@1x.jpeg",
+            "publishedAt": "2021-05-06T19:35:15Z",
+            "content": "\"Vous lui avez volé sa vie\" : la famille d'Arthur Noyer interpelle Nordahl Lelandais\r\nJUSTICE - Jusqu'au 12 mai, Nordahl Lelandais est jugé pour le meurtre d'Arthur Noyer, en avril 2017 près de Chamb… [+6829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Le 10 Sport"
+            },
+            "author": "A.M.",
+            "title": "Mercato - PSG : Mourinho va bien tout changer dans ce dossier chaud de Leonardo ! - Le 10 Sport",
+            "description": "Prêté par l'AS Roma l'été dernier, Alessandro Florenzi n'a pas vraiment convaincu cette saison, au point que le PSG hésiterait désormais sérieusement à lever son option d'achat. Mais du côté de Rome,…",
+            "url": "https://le10sport.com/football/mercato/mercato-psg-mourinho-va-bien-tout-changer-dans-ce-dossier-chaud-de-leonardo-548682",
+            "urlToImage": "https://le10static.com/img/master/0000/0018/182548.jpeg",
+            "publishedAt": "2021-05-06T19:15:00Z",
+            "content": "Publié le 6 mai 2021 à 21h15 par A.M. Prêté par l'AS Roma l'été dernier, Alessandro Florenzi n'a pas vraiment convaincu cette saison, au point que le PSG hésiterait désormais sérieusement à lever son… [+1196 chars]"
+        },
+        {
+            "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
             "author": null,
-            "title": "Météo. Ce week-end, les températures pourraient dépasser les 30 °C - Ouest-France",
+            "title": "Meurtre d’Arthur Noyer. « Toutes les causes du décès sont possibles », résume la procureure générale - Ouest-France éditions locales",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbWV0ZW8vbWV0ZW8tY2Utd2Vlay1lbmQtbGVzLXRlbXBlcmF0dXJlcy1wb3VycmFpZW50LWRlcGFzc2VyLWxlcy0zMC0wYy1iNzc3ZWYzNC1hZTQzLTExZWItYTI4Yi1iNDUyNmFlODQ1NGTSAYcBaHR0cHM6Ly9hbXAub3Vlc3QtZnJhbmNlLmZyL21ldGVvL21ldGVvLWNlLXdlZWstZW5kLWxlcy10ZW1wZXJhdHVyZXMtcG91cnJhaWVudC1kZXBhc3Nlci1sZXMtMzAtMGMtYjc3N2VmMzQtYWU0My0xMWViLWEyOGItYjQ1MjZhZTg0NTRk?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMivgFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvZmFpdHMtZGl2ZXJzL25vcmRhaGwtbGVsYW5kYWlzL21ldXJ0cmUtZC1hcnRodXItbm95ZXItdG91dGVzLWxlcy1jYXVzZXMtZHUtZGVjZXMtc29udC1wb3NzaWJsZXMtcmVzdW1lLWxhLXByb2N1cmV1cmUtZ2VuZXJhbGUtNTBkNDk5NDgtYWU5OS0xMWViLWI3OGItYTViNTIyMjI2Y2Rk0gG-AWh0dHBzOi8vYW1wLm91ZXN0LWZyYW5jZS5mci9mYWl0cy1kaXZlcnMvbm9yZGFobC1sZWxhbmRhaXMvbWV1cnRyZS1kLWFydGh1ci1ub3llci10b3V0ZXMtbGVzLWNhdXNlcy1kdS1kZWNlcy1zb250LXBvc3NpYmxlcy1yZXN1bWUtbGEtcHJvY3VyZXVyZS1nZW5lcmFsZS01MGQ0OTk0OC1hZTk5LTExZWItYjc4Yi1hNWI1MjIyMjZjZGQ?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-05-06T09:29:05Z",
+            "publishedAt": "2021-05-06T18:49:25Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Francetvinfo.fr"
+                "name": "Orange.fr"
             },
-            "author": "Vincent Matalon, Yann Thompson",
-            "title": "DIRECT. Brexit : des marins français manifestent à Jersey, le Royaume-Uni et la France envoient chacun deux... - Franceinfo",
-            "description": "Les \"manoeuvres\" britanniques au large de l'île anglo-normande \"ne doivent pas nous impressionner\", a déclaré le secrétaire d'Etat français aux Affaires européennes Clément Beaune.",
-            "url": "https://www.francetvinfo.fr/monde/europe/la-grande-bretagne-et-l-ue/brexit-des-marins-francais-manifestent-a-jersey-le-royaume-uni-et-la-france-envoient-chacun-deux-navires-militaires-au-large-de-l-ile_4613197.html",
-            "urlToImage": "https://www.francetvinfo.fr/image/75wktiq5o-70fd/1500/843/24530671.jpg",
-            "publishedAt": "2021-05-06T09:25:57Z",
-            "content": "Retrouvez ici l'intégralité de notre live #BREXIT\r\n12h28 : Paris appelle Londres à revenir sur les restrictions imposées aux pêcheurs français.\r\n12h01 : Voici le point sur l'actualité à la mi-journée… [+3194 chars]"
-        },
-        {
-            "source": {
-                "id": "lequipe",
-                "name": "L'equipe"
-            },
-            "author": "Rédaction",
-            "title": "Les Bleus joueront à Strasbourg et à Lyon en septembre - L'Équipe.fr",
-            "description": "En septembre, l'équipe de France jouera deux matches des qualifications pour le Mondial 2022 à Strasbourg puis Lyon.",
-            "url": "https://www.lequipe.fr/Football/Actualites/Les-bleus-joueront-a-strasbourg-et-a-lyon-en-septembre/1249485",
-            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/les-bleus-joueront-a-la-meinau-en-septembre-j-prevost-l-equipe/1500000001484748/0:0,1995:1330-640-427-75/59ed1.jpg",
-            "publishedAt": "2021-05-06T09:11:05Z",
-            "content": "D'ici la fin de l'été, ils seront néanmoins allés à Nice, le 2 juin prochain, pour préparer l'Euro contre le pays de Galles. La France est première du groupe D avec 7 points en trois matches, contre … [+27 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Le fou rire d'Eden Hazard après Chelsea-Real Madrid scandalise l'Espagne | Revue de presse - Foot Mercato",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SkhJbGJRdmJzd1XSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-05-06T09:01:09Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Le HuffPost"
-            },
-            "author": "Valentin Etancelin",
-            "title": "Luc Ferry \"n'arrive pas à vivre\" avec plus de 3000 euros de retraite par mois - Le HuffPost",
-            "description": "Les propos du philosophe, tenus ce mercredi 5 mai sur le plateau de Non Stop People, sont jugés indécents.",
-            "url": "https://www.huffingtonpost.fr/entry/luc-ferry-narrive-pas-a-vivre-avec-plus-de-3000-euros-de-retraite-par-mois-et-cree-la-polemique_fr_60939ac2e4b0c15313fc8d60",
-            "urlToImage": "https://img.huffingtonpost.com/asset/6093a725260000f651b4259f.png?cache=eyY0XiMEuq&ops=1200_630",
-            "publishedAt": "2021-05-06T08:38:35Z",
-            "content": "POLÉMIQUE - Luc Ferry “n’arrive pas” à joindre les deux bouts. Ce mercredi 5 mai, l’ancien ministre de l’Éducation nationale était l’invité de “L’instant de Luxe”, émission animée sur la chaîne Non S… [+5023 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "jeuxvideo.com"
-            },
-            "author": "Tiraxa",
-            "title": "Microsoft aussi a beaucoup joué à The Last of Us 2 - jeuxvideo.com",
-            "description": "D'après le test réalisé par ses équipes internes, Microsoft a très clairement apprécié l'aventure post-apocalyptique de The Last of Us. On fait le point sur la critique partagée publiquement. Tandis que le procès Apple vs. Epic bat son plein depuis le début d…",
-            "url": "https://www.jeuxvideo.com/news/1403651/microsoft-aussi-a-beaucoup-joue-a-the-last-of-us-2.htm",
-            "urlToImage": "https://image.jeuxvideo.com/medias-md/162029/1620286521-7120-card.png",
-            "publishedAt": "2021-05-06T08:29:16Z",
-            "content": "D'après le test réalisé par ses équipes internes, Microsoft a très clairement apprécié l'aventure post-apocalyptique de The Last of Us. On fait le point sur la critique partagée publiquement. Tandis … [+2947 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Maxifoot.fr"
-            },
-            "author": null,
-            "title": "Chelsea : le PSG, Tuchel n'a rien à prouver - Maxifoot",
-            "description": "Mercredi, Chelsea s'est qualifié pour la finale de la Ligue des Champions en éliminant le Real Madrid (1-1, 2-0). Après ...",
-            "url": "https://news.maxifoot.fr/chelsea/le-psg-tuchel-n-a-rien-a-prouver-foot-346584.htm",
-            "urlToImage": "https://news.maxifoot.fr/amp/346584.jpg",
-            "publishedAt": "2021-05-06T08:22:00Z",
-            "content": "Mercredi, Chelsea s'est qualifié pour la finale de la Ligue des Champions en éliminant le Real Madrid (1-1, 2-0). Après cette qualification, l'entraîneur des Blues Thomas Tuchel a tenu à écarter l'id… [+769 chars]"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Le Monde avec AFP",
-            "title": "Policier tué à Avignon : un homme interpellé dans le cadre de l'enquête - Le Monde",
-            "description": "Mercredi soir, la victime et son équipage avaient été envoyés « pour un attroupement sur la voie publique autour d’un point de deal », selon Gérald Darmanin. Ce dernier doit à nouveau rencontrer les policiers d’Avignon dans la matinée.",
-            "url": "https://www.lemonde.fr/societe/article/2021/05/06/policier-tue-a-avignon-un-homme-interpelle-dans-le-cadre-de-l-enquete_6079319_3224.html",
-            "urlToImage": "https://img.lemde.fr/2021/05/05/333/0/3305/1648/1440/720/60/0/c7f1054_5729458-01-06.jpg",
-            "publishedAt": "2021-05-06T08:11:07Z",
-            "content": "Un homme soupçonné davoir été présent, mercredi soir, à Avignon près du point de deal où un policier a été tué lors dune intervention a été interpellé, jeudi 6 mai, dans le cadre de lenquête, a appri… [+3745 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "20 Minutes"
-            },
-            "author": "20 Minutes avec AFP",
-            "title": "Femme brûlée vive en Gironde : Chahinez disait de son mari « que c’était un monstre » - 20 Minutes",
-            "description": "Un rassemblement s’est tenu mercredi soir à Mérignac, dans la banlieue de Bordeaux, où Chahinez, 31 ans, a été brûlée vive en pleine rue par son mari violent, mardi soir",
-            "url": "https://www.20minutes.fr/societe/3036075-20210506-femme-brulee-vive-gironde-chahinez-disait-mari-monstre",
-            "urlToImage": "https://img.20mn.fr/4se7-8CSQ8GeWh8TPRUAyQ/648x360_mercredi-soir-appel-collectifs-defense-femmes-quelque-300-personnes-rassemblees-merignac-o-femme-31-ans-tuee-ex-conjoint.jpg",
-            "publishedAt": "2021-05-06T07:38:33Z",
-            "content": "Mercredi soir, à l'appel de collectifs de défense des femmes, quelque 300 personnes se sont rassemblées à Mérignac, où une femme de 31 ans a été tuée par son ex-conjoint. MEHDI FEDOUACH / AFP\r\nMercre… [+3153 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Frenchweb.fr"
-            },
-            "author": "La rédaction",
-            "title": "Shift Technology, nouvelle licorne française de l'AssurTech après une levée de 220 millions de dollars - FrenchWeb.fr - Frenchweb.fr",
-            "description": "La pépite française Shift Technology, qui aide les assureurs à automatiser leur activité avec l'intelligence artificielle, a levé 220 millions de dollars, entrant dans le club fermé des licornes franç",
-            "url": "https://www.frenchweb.fr/shift-technology-nouvelle-licorne-francaise-de-lassurtech-apres-une-levee-de-220-millions-de-dollars/421644",
-            "urlToImage": "https://www.frenchweb.fr/wp-content/uploads/2021/05/Shift-Technology-650.jpg",
-            "publishedAt": "2021-05-06T07:28:11Z",
-            "content": "La pépite française Shift Technology, qui aide les assureurs à automatiser leur activité avec l’intelligence artificielle, a levé 220 millions de dollars, entrant dans le club fermé des licornes fran… [+2089 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ozap"
-            },
-            "author": "Christophe Gazzano",
-            "title": "Audiences : \"Top Chef\" leader devant \"The Resident\", le final de \"L'école de la vie\" en hausse, Arte, TMC et TFX au top - OZAP",
-            "description": "Les audiences de la soirée du mercredi 5 mai 2021.",
-            "url": "https://www.ozap.com/actu/audiences-top-chef-leader-devant-the-resident-le-final-de-l-ecole-de-la-vie-en-hausse-arte-tmc-et-tfx-au-top/604305",
-            "urlToImage": "https://static1.ozap.com/articles/5/60/43/05/@/4647765--l-ecole-de-la-vie-opengraph_1200-2.jpg",
-            "publishedAt": "2021-05-06T07:12:19Z",
-            "content": "Mercredi soir, M6 s'est imposée en tête des audiences avec un nouveau numéro de \"Top Chef\" produit par Studio 89. Le concours culinaire présenté par Stéphane Rotenberg a fait saliver cette semaine en… [+2060 chars]"
+            "author": "https://www.facebook.com/orangeactufr",
+            "title": "Covid : vif débat mondial autour de la levée des brevets sur les vaccins - Actu Orange",
+            "description": "Le soutien américain à une levée des brevets sur les vaccins contre le Covid-19 a suscité de l'intérêt à travers le monde mais certains comme les Européens parlent plutôt de discuter d'une telle mesure que de l'appuyer, tandis que l'industrie pharmaceutique f…",
+            "url": "https://actu.orange.fr/monde/covid-vif-debat-mondial-autour-de-la-levee-des-brevets-sur-les-vaccins-CNT000001AFHYF.html",
+            "urlToImage": "http://media3.woopic.com/api/v1/images/661%2Fafp-news%2Fedb%2Faba%2F5805a392740524fc33db0b9487%2Fcovid-vif-debat-mondial-autour-de-la-levee-des-brevets-sur-les-vaccins%7C000_99D2VY-highDef.jpg?format=470x264&facedetect=1&quality=85&saveas=webp&saveasquality=85",
+            "publishedAt": "2021-05-06T18:18:00Z",
+            "content": "AFP, publié le jeudi 06 mai 2021 à 20h18\r\nLe soutien américain à une levée des brevets sur les vaccins contre le Covid-19 a suscité de l'intérêt à travers le monde mais certains comme les Européens p… [+5542 chars]"
         },
         {
             "source": {
@@ -151,77 +99,25 @@
                 "name": "Francetvinfo.fr"
             },
             "author": null,
-            "title": "Covid-19 : la plus grande étude en vie réelle confirme l'efficacité du vaccin de Pfizer-BioNTech - franceinfo",
-            "description": "L'étude, réalisée en Israël, montre que le vaccin protège des infections dans 95,3% des cas.",
-            "url": "https://www.francetvinfo.fr/sante/maladie/coronavirus/vaccin/covid-19-la-plus-grande-etude-en-vie-reelle-confirme-l-efficacite-du-vaccin-pfizer_4613027.html",
-            "urlToImage": "https://www.francetvinfo.fr/pictures/8AMsCZ5WCAzdAXOD27_CGwuERu0/1500x843/2021/05/06/phptqwyoD.jpg",
-            "publishedAt": "2021-05-06T06:22:31Z",
-            "content": "L'étude, réalisée en Israël, montre que le vaccin protège des infections dans 95,3% des cas.C'est la plus grande étude jamais réalisée en vie réelle. Publiée dans la revue médicaleThe Lancet (en angl… [+1484 chars]"
+            "title": "Que se prépare-t-il entre l'astronaute Thomas Pesquet et le groupe Coldplay ? Un mystère bien gardé qui précèd - franceinfo",
+            "description": "Le groupe londonien Coldplay a communiqué sur une potentielle collaboration avec le célèbre astronaute français, pour leur prochain single, disponible le 7 mai à minuit.",
+            "url": "https://www.francetvinfo.fr/culture/musique/que-se-prepare-t-il-entre-l-astronaute-thomas-pesquet-et-le-groupe-coldplay-un-mystere-bien-garde-qui-precede-la-sortie-du-single-higher-power_4613611.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/0pH52cwqrwfrBebdznqv3iRKI0Q/1500x843/2021/05/06/phpwIl5uL.jpg",
+            "publishedAt": "2021-05-06T18:06:24Z",
+            "content": "Le groupe londonien Coldplay a communiqué sur une potentielle collaboration avec le célèbre astronaute français, pour leur prochain single, disponible le 7 mai à minuit.\"Signal trouvé. Communication … [+1939 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gamekult"
+                "name": "Lecourriercauchois.fr"
             },
-            "author": "Steeve Mambrucchi",
-            "title": "Nintendo vous apprend la programmation avec L'atelier du jeu vidéo sur Switch - Gamekult",
-            "description": "Nintendo a dévoilé L'atelier du jeu vidéo, un logiciel de création de jeux qui entend inculquer les bases de la programmation au grand public et permettre de créer et partager un assortiment de jeux sur...",
-            "url": "https://www.gamekult.com/actualite/nintendo-vous-apprend-la-programmation-avec-l-atelier-du-jeu-video-sur-switch-3050838683.html",
-            "urlToImage": "https://d3isma7snj3lcx.cloudfront.net/optim/images/news/30/3050838683/nintendo-vous-apprend-la-programmation-avec-l-atelier-du-jeu-video-sur-switch-c29cbb4e__w854.jpg",
-            "publishedAt": "2021-05-06T06:20:00Z",
-            "content": "Annoncé pour le 11 juin au prix de 29,99 euros, L'atelier du jeu vidéo cible évidemment un public sans expérience à la recherche d'une initiation aux bases de la conception d'un jeu vidéo. C'est en s… [+1670 chars]"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Le Monde avec AFP",
-            "title": "Hongkong : Joshua Wong, figure du mouvement prodémocratie, condamné à dix mois de prison supplémentaires - Le Monde",
-            "description": "M. Wong a été condamné jeudi pour sa participation, en 2020, à une veillée « illégale » en souvenir de la répression de la place de Tiananmen. Une peine qui s’ajoute à celle de treize mois et demi pour sa participation à une autre manifestation en 2019.",
-            "url": "https://www.lemonde.fr/international/article/2021/05/06/hongkong-joshua-wong-figure-du-mouvement-prodemocratie-condamne-a-dix-mois-de-prison-supplementaires_6079308_3210.html",
-            "urlToImage": "https://img.lemde.fr/2021/05/06/433/0/5191/2595/1440/720/60/0/1c6c858_5730800-01-06.jpg",
-            "publishedAt": "2021-05-06T06:13:35Z",
-            "content": "Joshua Wong sadresse aux médias devant le conseil législatif à Hongkong,  le 29 octobre 2019. ANTHONY WALLACE / AFP\r\nJoshua Wong, figure du mouvement prodémocratie à Hongkong, a été condamné, jeudi 6… [+4873 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.rtl.fr"
-            },
-            "author": null,
-            "title": "Vaccins : découvrez le calendrier simplifié des vaccinations obligatoires ou non - RTL.fr",
-            "description": "ÉCLAIRAGE - Le calendrier 2021 des vaccinations obligatoires et non obligatoires a été mis à jour et simplifié.",
-            "url": "https://www.rtl.fr/actu/bien-etre/vaccins-decouvrez-le-calendrier-simplifie-des-vaccinations-obligatoires-ou-non-7900028144",
-            "urlToImage": "https://images.rtl.fr/rtl/www/1342846-le-vaccin-contre-la-rougeole-illustration.jpg",
-            "publishedAt": "2021-05-06T06:02:00Z",
-            "content": "Le calendrier 2021 des vaccinations a été mis à jour et simplifié. Dans le contexte sanitaire actuel, les professionnels de santé sont invités à vérifier systématiquement le statut vaccinal des patie… [+1760 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lefigaro.fr"
-            },
-            "author": "Le Figaro avec AFP",
-            "title": "Lourde perte pour Air France-KLM au 1er trimestre, le groupe veut croire en l'été - Le Figaro",
-            "description": "Les restrictions de déplacements ont eu pour conséquence une chute de 57% du chiffre d'affaires par rapport au premier trimestre 2020.",
-            "url": "https://www.lefigaro.fr/conjoncture/lourde-perte-pour-air-france-klm-au-1er-trimestre-qui-veut-croire-en-l-ete-20210506",
-            "urlToImage": "https://i.f1g.fr/media/cms/704x396_cropupscale/2021/05/06/2fad4df7f971066757075cb898d2cb2effdbe4dd3cbf9713d667de9dc5b7c5e8.jpg",
-            "publishedAt": "2021-05-06T06:01:28Z",
-            "content": "Les restrictions de déplacements ont eu pour conséquence une chute de 57% du chiffre d'affaires par rapport au premier trimestre 2020.Toujours accablé par la pandémie, le groupe aérien Air France-KLM… [+4018 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Public"
-            },
-            "author": "Public",
-            "title": "Le chanteur Michel Sardou balance en direct dans “Quotidien” sur les stars qui consomment de la cocaïne ! - Public",
-            "description": "À 73 ans, Michel Sardou se livre comme jamais dans une autobiographie qui sort ce jeudi... l'occasion pour le chanteur d'en assurer la promotion et de faire le tour des plateaux télévisés. Il était notamment ce mercredi 5 mai, l'invité de Yann Barthes dans Qu…",
-            "url": "https://www.public.fr/News/Le-chanteur-Michel-Sardou-balance-en-direct-dans-Quotidien-sur-les-stars-qui-consomment-de-la-cocaine-1674543",
-            "urlToImage": "https://resize-public.ladmedia.fr/img/var/public/storage/images/news/le-chanteur-michel-sardou-balance-en-direct-dans-quotidien-sur-les-stars-qui-consomment-de-la-cocaine-1674543/44299236-1-fre-FR/Le-chanteur-Michel-Sardou-balance-en-direct-dans-Quotidien-sur-les-stars-qui-consomment-de-la-cocaine-!.jpg",
-            "publishedAt": "2021-05-06T06:00:00Z",
-            "content": "À 73 ans, Michel Sardou se livre comme jamais dans une autobiographie qui sort ce jeudi... l'occasion pour le chanteur d'en assurer la promotion et de faire le tour des plateaux télévisés. \r\nIl était… [+1210 chars]"
+            "author": "Le Courrier Cauchois",
+            "title": "Disparition de Christophe Revault. La ville du Havre et le football français sous le choc - Le Courrier Cauchois",
+            "description": "L'ancien gardien de but du HAC  s'est éteint ce jeudi  6 mai, à l'âge de 49 ans.",
+            "url": "https://www.lecourriercauchois.fr/actualite-281081-disparition-de-christophe-revault-la-ville-du-havre-et-le-football-francais-sous-le-choc",
+            "urlToImage": "https://www.lecourriercauchois.fr/photos/1200/281081/",
+            "publishedAt": "2021-05-06T17:59:06Z",
+            "content": "Personne n'ose encore y croire mais un deuil vient de frapper la famille du football havrais, et plus généralement du football français. Christophe Revault, l'un de ses illustres représentants, a été… [+1689 chars]"
         },
         {
             "source": {
@@ -229,12 +125,77 @@
                 "name": "BFMTV"
             },
             "author": null,
-            "title": "Covid-19: la perte d'odorat persistante serait associée à la présence durable du virus, selon une étude - BFMTV",
-            "description": "Chez certains patients, ce symptôme peut perdurer plusieurs mois. Des chercheurs avancent des raisons de cette durée.",
-            "url": "https://www.bfmtv.com/sante/covid-19-la-perte-d-odorat-persistante-serait-associee-a-la-presence-durable-du-virus-selon-une-etude_AD-202105060067.html",
-            "urlToImage": "https://images.bfmtv.com/X-oEI4Pi5huxgbq9Ql4tCMjzALM=/194x323:1618x1124/1424x0/images/Image-d-illustration-personne-portant-un-masque-et-sentant-une-fleur-999504.jpg",
-            "publishedAt": "2021-05-06T05:49:00Z",
-            "content": "Chez certains patients, ce symptôme peut perdurer plusieurs mois. Des chercheurs avancent des raisons de cette durée.\r\nLa perte de l'odorat, symptôme fréquent du Covid-19, peut durer plusieurs mois c… [+2830 chars]"
+            "title": "Policier tué à Avignon: une marche des policiers à Paris le 19 mai - BFMTV",
+            "description": "L'intersyndicale de la police a annoncé ce jeudi soir l'organisation d'une marche des policiers le 19 mai prochain à Paris.",
+            "url": "https://www.bfmtv.com/police-justice/policier-tue-a-avignon-une-marche-des-policiers-a-paris-le-19-mai_AD-202105060446.html",
+            "urlToImage": "https://images.bfmtv.com/xC6hBp-KUvK4FvKhN5IdE4HIxA0=/0x98:768x530/768x0/images/Unen-fonctionnaire-de-police-tuee-a-coups-de-couteau-au-commissariat-de-Rambouillet-1013039.jpg",
+            "publishedAt": "2021-05-06T17:55:52Z",
+            "content": "L'intersyndicale de la police a annoncé ce jeudi soir l'organisation d'une marche des policiers le 19 mai prochain à Paris.\r\nL'ensemble des syndicats de police ont appelé jeudi à une \"marche citoyenn… [+1737 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ouest-France"
+            },
+            "author": "Par Léo ROUSSEL",
+            "title": "Au moins 24 morts et 850 blessés : la Colombie s'embrase, des expatriés français témoignent - Edition du soir Ouest-France - 06/05/2021 - Ouest-France",
+            "description": "Depuis près d’une semaine, la Colombie est en proie à de violents affrontements. Les manifestants, qui protestent contre la réforme fiscale du gouvernement, font face à une...",
+            "url": "https://www.ouest-france.fr/leditiondusoir/2021-05-06/au-moins-24-morts-et-850-blesses-la-colombie-sembrase-des-expatries-francais-temoignent-76991375-9f6e-4d13-a3c1-2984cb573f8b",
+            "urlToImage": "https://media.ouest-france.fr/v1/pictures/811b55f3b6e20090272b8cced54dacb7-17421372.jpg?width=1400&client_id=eds&sign=74d612f7da3a1a041064ceb51ea95e1c46f58879e6516bab035b821b3a4ead83",
+            "publishedAt": "2021-05-06T17:32:09Z",
+            "content": "Par Léo ROUSSEL\r\nDepuis près dune semaine, la Colombie est en proie à de violents affrontements. Les manifestants, qui protestent contre la réforme fiscale du gouvernement, font face à une répression… [+5451 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Mouna El Mokhtari",
+            "title": "« Entendez-vous dans nos campagnes », sur LCP : les jeunes oubliés des zones rurales françaises - Le Monde",
+            "description": "Le réalisateur Ilan Teboul s’est intéressé à la recherche d’emploi et de repères d’une dizaine de « décrocheurs », sans diplôme et sans formation, dans le Bas-Rhin.",
+            "url": "https://www.lemonde.fr/culture/article/2021/05/06/entendez-vous-dans-nos-campagnes-sur-lcp-les-jeunes-oublies-des-zones-rurales-francaises_6079387_3246.html",
+            "urlToImage": "https://img.lemde.fr/2021/05/03/46/0/1030/515/1440/720/60/0/b3d0739_740309136-evdnc-11-0.png",
+            "publishedAt": "2021-05-06T17:30:08Z",
+            "content": "Jérôme, lun des jeunes venus chercher de laide à la mission locale de Molsheim (Bas-Rhin). TROISIÈME IL PRODUCTIONS/LCP-ASSEMBLÉE NATIONALE/GO FAST\r\nLCP - JEUDI 6 MAI À 20 H 30 - DOCUMENTAIRE\r\n« Mon … [+3608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Normandie Actu"
+            },
+            "author": "Rédaction Actu",
+            "title": "Vaccination : pour prendre rendez-vous, voici les nouvelles dates par tranches d'âge - actu.fr",
+            "description": "Emmanuel Macron a annoncé ce jeudi 6 mai 2021 une série de mesures élargissant le cercle des personnes pouvant être vaccinées. Avec un objectif : accélérer le rythme.",
+            "url": "https://actu.fr/societe/coronavirus/vaccination-pour-prendre-rendez-vous-voici-les-nouvelles-dates-par-tranches-d-age_41644756.html",
+            "urlToImage": "https://static.actu.fr/uploads/2021/05/226739f00b3bb713190a3be9845846d13aeba265.jpg",
+            "publishedAt": "2021-05-06T16:56:02Z",
+            "content": "Le président Emmanuel Macron inaugure le premier grand vaccinodrome parisien, Porte de Versailles à Paris, le 6 mai 2021. (©POOL/AFP/Christophe ARCHAMBAULT)\r\nLa formule est longtemps restée creuse, m… [+4771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Ulrich Rozier",
+            "title": "Microsoft rafraîchit enfin des icônes de Windows qui remontaient à l’ère Windows 95 - Frandroid",
+            "description": "Fouiller Windows 10, c'est presque un voyage dans le temps. Vous pouvez encore retrouver des composants visuels qui datent de Windows 95. Justement, Microsoft veut apporter bien plus de cohérence à son système d'exploitation. Voici encore un des changements q…",
+            "url": "https://www.frandroid.com/?p=934987",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2021/05/sun-valley.jpg",
+            "publishedAt": "2021-05-06T16:55:31Z",
+            "content": "Fouiller Windows 10, c'est presque un voyage dans le temps. Vous pouvez encore retrouver des composants visuels qui datent de Windows 95. Justement, Microsoft veut apporter bien plus de cohérence à s… [+1578 chars]"
+        },
+        {
+            "source": {
+                "id": "liberation",
+                "name": "Libération"
+            },
+            "author": "LIBERATION, AFP",
+            "title": "L'Allemagne veut vacciner tous les adolescents dès 12 ans d'ici fin août - Libération",
+            "description": "Vaccination, reconfinement, bilan épidémique, mutation du virus… Retrouvez les dernières informations sur la crise sanitaire liée à la pandémie de Covid-19.",
+            "url": "https://www.liberation.fr/societe/sante/retrouvez-les-dernieres-informations-sur-lepidemie-de-covid-19-20210506_VUFUAXLDABGPFJGDUR5W2XOT2U/",
+            "urlToImage": "https://www.liberation.fr/resizer/y1CT4TwgsgAtFFgLTAfdSEW0baQ=/1200x630/cloudfront-eu-central-1.images.arcpublishing.com/liberation/TEGWTKGNCBF37KUNNCJMTYK5JM.jpg",
+            "publishedAt": "2021-05-06T16:49:00Z",
+            "content": "Nouveau record de vaccination en France. Le ministre de la Santé, Olivier Véran, a salué ce jeudi sur Twitter un nouveau record du nombre de doses injectées en une seule journée en France. «Une nouve… [+13782 chars]"
         },
         {
             "source": {
@@ -242,12 +203,38 @@
                 "name": "Lefigaro.fr"
             },
             "author": "Le Figaro avec AFP",
-            "title": "Covid-19 : la situation s'améliore en France, les États-Unis favorables à la levée des brevets des vaccins - Le Figaro",
-            "description": "Nouvelles mesures, nouveaux bilans et faits marquants : Le Figaro fait le point sur les dernières évolutions de la pandémie de Covid-19 dans le monde.",
-            "url": "https://www.lefigaro.fr/sciences/covid-19-la-situation-s-ameliore-en-france-les-etats-unis-favorables-a-la-levee-des-brevets-des-vaccins-20210506",
-            "urlToImage": "https://i.f1g.fr/media/cms/704x396_cropupscale/2021/05/06/c6f4ebfbc03e69cef817c1dff6d812b28cf4beaa343fe60812d27348475e5376.jpg",
-            "publishedAt": "2021-05-06T05:32:55Z",
-            "content": "Nouvelles mesures, nouveaux bilans et faits marquants : Le Figaro fait le point sur les dernières évolutions de la pandémie de Covid-19 dans le monde.Alors que la pandémie a fait plus de 3,2 millions… [+5842 chars]"
+            "title": "Brésil : au moins 25 morts dans une opération antidrogue à Rio - Le Figaro",
+            "description": "Au moins 25 personnes, dont un policier, ont été tuées jeudi dans une vaste opération antidrogue dans une favela de Rio de Janeiro, ont rapporté la...",
+            "url": "https://www.lefigaro.fr/flash-actu/bresil-au-moins-25-morts-dans-une-operation-antidrogue-a-rio-selon-des-medias-bresiliens-20210506",
+            "urlToImage": "https://i.f1g.fr/media/cms/704x396_cropupscale/2021/05/06/d42fac899fc3812cf1ebed3ecbbfac45de4b677cde741e6744163cc1a2a417e5.jpg",
+            "publishedAt": "2021-05-06T16:45:00Z",
+            "content": "Au moins 25 personnes, dont un policier, ont été tuées jeudi dans une vaste opération antidrogue dans une favela de Rio de Janeiro, ont rapporté la police et les médias brésiliens.\r\nÀ lire aussi :Un … [+2961 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ouest-France"
+            },
+            "author": "Par Léo ROUSSEL",
+            "title": "Faut-il s'attendre à une quatrième vague de Covid-19 cet été ? - Edition du soir Ouest-France - 06/05/2021 - Ouest-France",
+            "description": "En France, le gouvernement a fait le choix d’entamer un assouplissement des mesures sanitaires mises en place dans le cadre de la lutte contre le coronavirus. Trop tôt...",
+            "url": "https://www.ouest-france.fr/leditiondusoir/2021-05-06/faut-il-sattendre-a-une-quatrieme-vague-de-covid-19-cet-ete-7f9ffcce-2be0-487a-ad12-feff7f41c133",
+            "urlToImage": "https://media.ouest-france.fr/v1/pictures/063f85ac8026970c9dc932228a4584dc-17421338.jpg?width=1400&client_id=eds&sign=13a97a960772924af33575bc3adfde31c2f485c5ca4920efc580f8ae65c07a9a",
+            "publishedAt": "2021-05-06T16:31:49Z",
+            "content": "Par Léo ROUSSEL\r\nEn France, le gouvernement a fait le choix dentamer un assouplissement des mesures sanitaires mises en place dans le cadre de la lutte contre le coronavirus. Trop tôt peut-être, selo… [+4093 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ouest-France"
+            },
+            "author": "Par Alexandre CHAUVEL",
+            "title": "Le top 10 des aliments qui ont la meilleure valeur nutritive - Edition du soir Ouest-France - 06/05/2021 - Ouest-France",
+            "description": "Une étude menée par des chercheurs coréens a établi un classement d’aliments intéressants à la fois pour leurs apports énergétiques et en nutriments nécessaires au corps...",
+            "url": "https://www.ouest-france.fr/leditiondusoir/2021-05-06/le-top-10-des-aliments-qui-ont-la-meilleure-valeur-nutritive-595ee031-844f-44e9-b337-cf5c9a5392af",
+            "urlToImage": "https://media.ouest-france.fr/v1/pictures/c945e62d35b9dfccd0921b44951fe12e-17421253.jpg?width=1400&client_id=eds&sign=62175f1139ec4fc0490dafba6d538ca4d8eb229406a03ad723248288b744b9cf",
+            "publishedAt": "2021-05-06T16:30:00Z",
+            "content": "Par Alexandre CHAUVEL\r\nUne étude menée par des chercheurs coréens a établi un classement daliments intéressants à la fois pour leurs apports énergétiques et en nutriments nécessaires au corps humain.… [+5289 chars]"
         },
         {
             "source": {
@@ -255,12 +242,25 @@
                 "name": "Francetvinfo.fr"
             },
             "author": null,
-            "title": "\"Tu es un espion ?\" : avant leur départ dans des pays sensibles, les policiers et gendarmes sont formés aux pi - franceinfo",
-            "description": "En région parisienne, les futurs attachés de sécurité intérieur s'entraînent à gérer des situations comme des enlèvements ou des filatures.",
-            "url": "https://www.francetvinfo.fr/economie/emploi/metiers/armee-et-securite/tu-es-un-espion-avant-leur-depart-dans-des-pays-sensibles-les-policiers-et-gendarmes-sont-formes-aux-pires-situations_4612501.html",
-            "urlToImage": "https://www.francetvinfo.fr/pictures/KUqBwfriAbiXkskYHfdEL7R0gVs/1500x843/2021/05/05/php6aIuRb.jpg",
-            "publishedAt": "2021-05-06T05:09:07Z",
-            "content": "En région parisienne, les futurs attachés de sécurité intérieur s'entraînent à gérer des situations comme des enlèvements ou des filatures.lls sont en première ligne en cas d'enlèvement de ressortiss… [+4058 chars]"
+            "title": "Féminicide de Mérignac : \"il avait décidé de la punir, il voulait la brûler un peu, pour lui laisser des marqu - France 3 Régions",
+            "description": "Le procureur de la République de Bordeaux, Frédérique Porterie, est revenue sur le contexte du meurtre de Chahinez D., tuée en pleine rue par son mari à Mérignac mardi 4 mai. Ce dernier a affirmé en garde à vue vouloir \"punir\"...",
+            "url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/feminicide-a-merignac-il-avait-decide-de-la-punir-il-voulait-la-bruler-un-peu-pour-lui-laisser-des-marques-2080021.html",
+            "urlToImage": "https://france3-regions.francetvinfo.fr/image/I_Yt3xP5jYIlhKKEexuB5rxg8Jg/930x620/regions/2021/05/06/609414b2c0d61_capture_3-5305892.jpg",
+            "publishedAt": "2021-05-06T16:27:04Z",
+            "content": "Le procureur de la République de Bordeaux, Frédérique Porterie, est revenue sur le contexte du meurtre de Chahinez D., tuée en pleine rue par son mari à Mérignac mardi 4 mai. Ce dernier a affirmé en … [+4581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BFMTV"
+            },
+            "author": null,
+            "title": "L'écriture inclusive proscrite officiellement dans l’Éducation nationale - BFMTV",
+            "description": "Dans une circulaire publiée au Bulletin officiel, l'Éducation nationale écarte \"l’écriture dite inclusive qui utilise notamment le point médian\".",
+            "url": "https://www.bfmtv.com/societe/education/l-ecriture-inclusive-proscrite-officiellement-dans-l-education-nationale_AN-202105060378.html",
+            "urlToImage": "https://images.bfmtv.com/C06h7mKGcTBP_dsOVAJarshWpQ4=/75x56:1643x938/1568x0/images/Le-ministre-de-l-Education-nationale-Jean-Michel-Blanquer-a-la-sortie-du-Conseil-des-ministres-le-13-janvier-2021-1014627.jpg",
+            "publishedAt": "2021-05-06T15:56:03Z",
+            "content": "Dans une circulaire publiée au Bulletin officiel, l'Éducation nationale écarte \"lécriture dite inclusive qui utilise notamment le point médian\".\r\nLe ministre de l'Éducation nationale l'avait annoncé … [+1725 chars]"
         }
     ]
 }
