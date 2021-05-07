@@ -16,7 +16,8 @@ const locales = [
   'tr-TR',
   'pl-PL',
   'ru-RU',
-  'he-IL'
+  'he-IL',
+  'ar-EG'
 ];
 
 const result = locales.reduce((accumulator, locale) => {
