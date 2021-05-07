@@ -27,7 +27,7 @@ jobs:
           ../fetch-headlines.py \
           "http://newsapi.org/v2/top-headlines?apiKey=${{secrets.NEWS_API_KEY}}" \
           headlines.json \
-          us,gb,hk,tw,cn,jp,kr,th,gr,fr,tr,pl,ru,ch,il
+          us,gb,hk,tw,cn,jp,kr,th,gr,fr,tr,pl,ru,ch,il,eg
           
           npm install
           npm run-script build
