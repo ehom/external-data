@@ -4,81 +4,211 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "NBC New York"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "NBC New York",
-            "title": "3 Bystanders Wounded, Including Child, in Times Square Shooting: Police - NBC New York",
-            "description": "Three people were hospitalized Saturday evening after a shooting in Times Square left the youngest victim, a 4-year-old girl, injured and started the NYPD on a…",
-            "url": "https://www.nbcnewyork.com/news/local/crime-and-courts/2-shot-including-toddler-in-times-square-police/3044787/",
-            "urlToImage": "https://i0.wp.com/media.nbcnewyork.com/2021/05/times-square-shooting-spec.png?quality=85&resize=1200%2C675&strip=all&ssl=1",
-            "publishedAt": "2021-05-08T22:40:07Z",
-            "content": "Three people were hospitalized Saturday evening after a shooting in Times Square left the youngest victim, a 4-year-old girl, injured and started the NYPD on a manhunt for the gunman responsible. \r\nA… [+1512 chars]"
+            "author": null,
+            "title": "Winning the Lottery May Not Be as Great as It Seems - Inside Edition",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RG01U0Utbm5CUlHSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-05-09T09:48:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bad Left Hook"
+            },
+            "author": "Scott Christ",
+            "title": "What’s next fight for Canelo? Plant is the plan, but what if he passes? - Bad Left Hook",
+            "description": "Canelo has a clearly stated target, but what if Caleb Plant isn’t next?",
+            "url": "https://www.badlefthook.com/2021/5/9/22427036/canelo-alvarez-next-fight-after-saunders-caleb-plant-andrade-golovkin-dazn-boxing-news-2021",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/IRuNWEXgonfPgf3MagSYwovM-f0=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22501921/ENM13023.jpg",
+            "publishedAt": "2021-05-09T09:00:00Z",
+            "content": "Canelo Alvarez made his second fight in the first half of 2021 one to remember, as he stopped Billy Joe Saunders in front of over 70,000 fans (reportedly) at AT&amp;T Stadium in Texas, unifying the W… [+7347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Mark Serrels",
+            "title": "Dogecoin price crashes during Elon Musk's SNL appearance - CNET",
+            "description": "Some thought Dogecoin would soar during Elon Musk's SNL appearance. They were wrong.",
+            "url": "https://www.cnet.com/news/dogecoin-price-crashes-during-elon-musks-snl-appearance/",
+            "urlToImage": "https://www.cnet.com/a/img/B0zN0hL_-QzGP36Poy1yHR_cb-s=/1200x630/2021/02/04/d22e3547-9661-4397-afb4-14886beb262c/gettyimages-1299388500.jpg",
+            "publishedAt": "2021-05-09T08:50:00Z",
+            "content": "Such Elon.\r\nYuriko Nakao/Getty Images\r\nDespite the expectations of Dogecoin believers, Elon Musk's appearance on Saturday Night Live this weekend didn't result in a Dogecoin price spike. On the contr… [+1701 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Krista Larson",
+            "title": "Vaccine deserts: Some countries have no COVID-19 jabs at all - The Associated Press",
+            "description": "N'DJAMENA, Chad (AP) — At the small hospital where Dr. Oumaima Djarma works in Chad's capital, there are no debates over which coronavirus vaccine is the best. There are simply no vaccines at all...",
+            "url": "https://apnews.com/article/africa-coronavirus-vaccine-coronavirus-pandemic-business-government-and-politics-2d5eab50c1ef8bd63b1a48331f4c3025",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e04f31121fe94573b113e6cb32638990/3000.jpeg",
+            "publishedAt": "2021-05-09T06:27:50Z",
+            "content": "NDJAMENA, Chad (AP) At the small hospital where Dr. Oumaima Djarma works in Chads capital, there are no debates over which coronavirus vaccine is the best.\r\nThere are simply no vaccines at all. \r\nNot… [+6706 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christina Maxouris, CNN",
+            "title": "The 3 things one expert hopes will help address ongoing Covid-19 vaccine hesitancy - CNN",
+            "description": "The US has an opportunity to get ahead in the Covid-19 pandemic by getting more people vaccinated -- and three key things can help address ongoing concerns, one expert says.",
+            "url": "https://www.cnn.com/2021/05/09/health/us-coronavirus-sunday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210508235951-washington-dc-vaccination-0506-super-tease.jpg",
+            "publishedAt": "2021-05-09T05:55:00Z",
+            "content": "(CNN)The US has an opportunity to get ahead in the Covid-19 pandemic by getting more people vaccinated -- and three key things can help address ongoing concerns, one expert says. \r\n\"People were worri… [+5768 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Mike Bohn",
+            "title": "Marina Rodriguez eyes Joanna Jedrzejczyk after UFC on ESPN 24 main event win - MMA Junkie",
+            "description": "Marina Rodriguez is setting her sights on the biggest names at strawweight following her win over Michelle Waterson at UFC on ESPN 24.",
+            "url": "https://mmajunkie.usatoday.com/2021/05/ufc-on-espn-24-marina-rodriguez-eyes-joanna-jedrzejczyk-main-event-win-michelle-waterson",
+            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2021/05/marina-rodriguez-michelle-waterson-ufc-on-espn-24-2.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2021-05-09T05:26:15Z",
+            "content": "LAS VEGAS  Marina Rodriguez is eyeing the biggest names at strawweight following her win over Michelle Waterson at UFC on ESPN 24.\r\nRodriguez (15-1-2 MMA, 4-1-2 UFC) outworked Waterson to a unanimous… [+2296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Génesis Miranda Miramontes, John Fenoglio",
+            "title": "Balcony collapse in Malibu residence sends almost a dozen people onto rocks below - KTLA Los Angeles",
+            "description": "Almost a dozen people were injured after a balcony collapsed during a social gathering in a home in Malibu sending them onto rocks below Saturday evening, fire officials said. Shortly after 5p.m., fire officials responded to the call of a balcony collapsing a…",
+            "url": "https://ktla.com/news/local-news/balcony-collapse-in-malibu-residence-sends-almost-a-dozen-people-onto-rocks-below/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2021/05/Screen-Shot-2021-05-08-at-9.46.04-PM.png?w=1280",
+            "publishedAt": "2021-05-09T04:54:30Z",
+            "content": "Almost a dozen people were injured after a balcony collapsed during a social gathering in a home in Malibu sending them onto rocks below Saturday evening, fire officials said. \r\nShortly after 5p.m., … [+1178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Jerusalem: Many injured on second night of clashes - BBC News",
+            "description": "Some 90 Palestinians and at least one Israeli police officer are hurt in a further night of violence.",
+            "url": "https://www.bbc.com/news/world-middle-east-57044000",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/23B7/production/_118434190_917fb11f-96f1-4063-87c3-2e0be8a56b3b.jpg",
+            "publishedAt": "2021-05-09T03:37:19Z",
+            "content": "media captionClashes in Jerusalem continue\r\nFresh clashes between Palestinians and Israeli police broke out in Jerusalem on Saturday, injuring dozens.\r\nProtesters hurled stones at the police at Damas… [+3003 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Chinese rocket debris crashes back to Earth, plunging into Indian Ocean – state media - The Guardian",
+            "description": "Officials said most of the Long March 5B burned up in the atmosphere, but Nasa was critical of China’s lack of transparency over the re-entry",
+            "url": "https://amp.theguardian.com/science/2021/may/09/chinese-rocket-debris-earth-indian-ocean",
+            "urlToImage": null,
+            "publishedAt": "2021-05-09T03:36:00Z",
+            "content": "SpaceOfficials said most of the Long March 5B burned up in the atmosphere, but Nasa was critical of Chinas lack of transparency over the re-entry\r\nThe remnants of Chinas largest rocket have plummeted… [+4981 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Jody Serrano",
+            "title": "Colonial Pipeline, the Largest Fuel Pipeline in the U.S., Has Shut Down Over a Ransomware Attack - Gizmodo",
+            "description": "Operators of the Colonial pipeline—a 5,500-mile system that takes fuel from refineries in Houston, Texas to the New York harbor—have shut down the entire system because of the cyberattack, which officials revealed to be ransomware on Saturday",
+            "url": "https://earther.gizmodo.com/colonial-pipeline-the-largest-fuel-pipeline-in-the-u-s-1846854104",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/296d7431f810d41e18628e4bdd1518e6.jpg",
+            "publishedAt": "2021-05-09T03:20:20Z",
+            "content": "If you live on the East Coast and see fuel prices go up soon, theres a good chance its because of the cyberattack that forced the Colonial pipeline, the countrys largest refined products pipeline, to… [+3596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Ohm Youngmisuk",
+            "title": "Washington Wizards' Bradley Beal scores 50 but is absent for OT because of hamstring, ankle injuries - ESPN",
+            "description": "Wizards guard Bradley Beal scored 50 points Saturday night against the Pacers, but he was absent for the end of regulation and overtime because of a hamstring strain and ankle injury.",
+            "url": "https://www.espn.com/nba/story/_/id/31413708/washington-wizards-bradley-beal-scores-50-absent-ot-period-due-hamstring-strain",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0509%2Fr851582_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-05-09T02:55:54Z",
+            "content": "Bradley Beal scored 50 points, but the Washington Wizards star guard sat out the end of regulation and overtime with a left hamstring strain, as Washington outlasted Indiana 133-132 on Saturday to ov… [+1756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WSB Atlanta"
+            },
+            "author": "WSBTV.com News Staff",
+            "title": "UPDATE: NASA rocket launch postponed until Sunday; could be visible over Georgia - WSB Atlanta",
+            "description": "A livestream of the event is available to watch HERE. The launch is set for 8:02 p.m. from the Wallops Flight Facility in Virginia and there is a 40-minute launch window.",
+            "url": "https://www.wsbtv.com/news/local/atlanta/nasa-rocket-launch-could-be-visible-over-georgia-tonight/CEFBBMDLCBFDNFAOXNHFPJIAAA/",
+            "urlToImage": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/TMLIDZ3ASFE6ZOVBPW3CDHCAL4.png",
+            "publishedAt": "2021-05-09T02:31:00Z",
+            "content": "ATLANTA — NASA has postponed the launch of its Black Brant XII sounding rocket scheduled for Saturday night from Virginia to Sunday. The rocket may be visible in Georgia.\r\nA livestream of the event i… [+991 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Paul Best",
-            "title": "Florida mall incident leaves multiple people injured amid reports of gunshots - Fox News",
-            "description": "At least three people sustained non-life-threatening injuries during a reported shooting at Aventura Mall in south Florida on Saturday afternoon, Aventura Police said.",
-            "url": "https://www.foxnews.com/us/florida-aventura-mall-incident-injuries-shooting-reports",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Miami-Dade-Police.png",
-            "publishedAt": "2021-05-08T22:07:38Z",
-            "content": "At least three people sustained non-life-threatening injuries during a reported shooting at Aventura Mall in south Florida on Saturday afternoon, Aventura Police said. \r\nSeveral suspects are currentl… [+627 chars]"
+            "author": "Joshua Comins",
+            "title": "Andrew Cuomo investigation expands over politicization of vaccine distribution - Fox News",
+            "description": "New York Governor Andrew Cuomo has once again found himself in hot water as new reports indicate the State Attorney General is widening its investigation into whether the administration pushed vaccine access for political gain.",
+            "url": "https://www.foxnews.com/politics/andrew-cuomo-investigation-expands-over-politicization-of-vaccine-distribution",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec4d413-393b-49c3-9ac6-36496e1e562f/b864b113-067f-4d84-9d46-a49c901a8f21/1280x720/match/image.jpg",
+            "publishedAt": "2021-05-09T02:27:23Z",
+            "content": "New York Governor Andrew Cuomo has once again found himself in hot water as new reports indicate the State Attorney General is widening its investigation into whether the administration pushed vaccin… [+1855 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "BBC News"
             },
-            "author": "",
-            "title": "Obama Family's Beloved Dog Bo Dies - NPR",
-            "description": "\"For more than a decade, Bo was a constant, comforting presence in our lives,\" said former President Barack Obama. The Portuguese water dog was 12 in human years.",
-            "url": "https://www.npr.org/2021/05/08/995086328/obamas-mourn-death-of-true-friend-beloved-first-dog-bo",
-            "urlToImage": "https://media.npr.org/assets/img/2021/05/08/ap_120315084364_wide-508063f753482385c96125fe328290e912b5ecd3.jpg?s=1400",
-            "publishedAt": "2021-05-08T22:04:34Z",
-            "content": "Then-President Barack Obama pets the family dog Bo outside the Oval Office of the White House.\r\nPablo Martinez Monsivais/AP\r\nIn a string of heartfelt tweets on Saturday, former President Barack Obama… [+2546 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Nicole Acevedo",
-            "title": "Four dead after large fire and police shooting in Maryland - NBC News",
-            "description": "Four people were killed and one people was injured Saturday morning after a large fire and a police shooting in Baltimore County, Maryland, authorities said.",
-            "url": "https://www.nbcnews.com/news/us-news/three-dead-after-large-fire-police-shooting-maryland-n1266760",
-            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2021_18/3471360/210508-woodlawn-fire-shooting-mb-1844_23d4a9034ba1245747667499a810a2d9.nbcnews-fp-1200-630.jpg",
-            "publishedAt": "2021-05-08T21:47:40Z",
-            "content": "Four people were killed and one person was injured Saturday morning after a large fire and a police shooting in Baltimore County, Maryland, authorities said.\r\nResidents called 911 about 6:40 a.m. ET … [+2248 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Marlene Lenthang",
-            "title": "Ransomware cyberattack shuts down major US pipeline, company says - ABC News",
-            "description": "",
-            "url": "https://abcnews.go.com/US/cyberattack-shuts-us-pipeline-supplies-45-fuel-east/story?id=77573904",
-            "urlToImage": "https://s.abcnews.com/images/US/colonial-pipeline-cyberattack-01-ap-llr-210508_1620491274028_hpMain_16x9_992.jpg",
-            "publishedAt": "2021-05-08T21:21:55Z",
-            "content": "A cyberattack has forced the shutdown of a major gas pipeline in the U.S. that supplies 45% of all fuel consumed on the East Coast.\r\nThe cyberattack against Colonial Pipeline, which runs from Houston… [+2649 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Neanderthal remains unearthed in Italian cave - BBC News",
+            "description": "Researchers believe the nine unlucky individuals may have been hunted and killed by hyenas.",
+            "url": "https://www.bbc.com/news/world-europe-57044002",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16533/production/_118434419_neanderthals.jpg",
+            "publishedAt": "2021-05-09T02:20:37Z",
+            "content": "image copyrightItalian culture ministry/AFP/Getty\r\nimage captionThe Neanderthal bones were discovered in a cave south of Rome\r\nArchaeologists in Italy have discovered the remains of nine Neanderthals… [+1589 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Times"
+                "name": "HarpersBAZAAR.com"
             },
-            "author": "Ron DePasquale, Sui-Lee Wee",
-            "title": "Covid-19 and Vaccine News: Live Updates - The New York Times",
-            "description": "U.S. states turned down hundreds of thousands of vaccine doses this week. Climbers are making the ascent toward the summit of Mount Everest, despite reports of cases at base camp.",
-            "url": "https://www.nytimes.com/live/2021/05/08/world/covid-vaccine-coronavirus-cases",
-            "urlToImage": "https://static01.nyt.com/images/2021/05/07/us/07virus-briefing-global-vaccination-obstacles/07virus-briefing-global-vaccination-obstacles-facebookJumbo.jpg",
-            "publishedAt": "2021-05-08T21:11:15Z",
-            "content": "LiveUpdated May 8, 2021, 5:35 p.m. ET\r\nMay 8, 2021, 5:35 p.m. ET\r\nHeres what you need to know:\r\nThe World Health Organization approved one Chinese-made Covid-19 vaccine and could soon approve another… [+30890 chars]"
+            "author": "Harper's Bazaar Staff",
+            "title": "Meghan Markle Discusses How the Pandemic Has Disproportionately Impacted Women of Color at Vax Live - HarpersBAZAAR.com",
+            "description": "The Duchess of Sussex also talked about her unborn daughter in a video recorded for the event.",
+            "url": "https://www.harpersbazaar.com/celebrity/latest/a36373207/meghan-markle-pandemic-disproportionately-impacted-women-of-color-vax-live/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/0-meghan-markle-speaks-about-daughter-at-vax-live-1620526038.jpeg?crop=1.00xw:0.754xh;0,0&resize=1200:*",
+            "publishedAt": "2021-05-09T02:20:00Z",
+            "content": "Meghan Markle wasn't able to attend Global Citizen's Vax Live: The Concert To Reunite The World in person, but she still made sure her voice was heard at the event. \r\nThe Duke and Duchess of Sussex c… [+2366 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Corinne Heller",
+            "title": "Celebrity Mothers Who Welcomed Rainbow Babies After Pregnancy Loss - E! NEWS",
+            "description": "Moms such as Carrie Underwood, Beyoncé and Nicole Kidman have spoken about their pregnancy loss. Here are their stories, in honor of Mother's Day and Bereaved Mother's Day.",
+            "url": "https://www.eonline.com/news/1266586/celebrity-mothers-who-welcomed-rainbow-babies-after-pregnancy-loss",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202145/rs_1200x1200-210505172608-1200-Carrie-Underwood-Mike-Fisher-Isaiah-Fisher-mp.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2021-05-09T02:00:00Z",
+            "content": "The pop queen and and husband Jay-Z share three rainbow babies: Daughter Blue Ivy Carter, born in 2012 and twins Rumi Carter and Sir Carter, born in 2017.\r\nIn her 2013 HBO documentary Life Is But a D… [+1906 chars]"
         },
         {
             "source": {
@@ -86,181 +216,51 @@
                 "name": "WCVB Boston"
             },
             "author": null,
-            "title": "Massachusetts reports 795 new COVID-19 cases, 8 additional deaths - WCVB Boston",
-            "description": "The Massachusetts Department of Public Health has released the latest COVID-19 case numbers for the state.",
-            "url": "https://www.wcvb.com/article/massachusetts-daily-covid-19-update-may-8-2021/36372549",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap-covid-coronavirus-microscopic-1613334724.jpg?crop=1.00xw:0.880xh;0,0.120xh&resize=1200:*",
-            "publishedAt": "2021-05-08T21:02:00Z",
-            "content": "BOSTON —The Massachusetts Department of Public Health reported an additional 795 confirmed COVID-19 cases Saturday, bringing the statewide total to 652,535 since the start of the pandemic.\r\nState hea… [+1044 chars]"
-        },
-        {
-            "source": {
-                "id": "entertainment-weekly",
-                "name": "Entertainment Weekly"
-            },
-            "author": "Tyler Aquilina",
-            "title": "Scarlett Johansson, Mark Ruffalo, and more slam HFPA amid Golden Globes' reform process - EW.com",
-            "description": "Scarlett Johansson, Mark Ruffalo, and more slammed the HFPA amid the Golden Globes organization's reform process, saying its proposed changes do not go far enough.",
-            "url": "https://ew.com/awards/golden-globes/scarlett-johansson-mark-ruffalo-and-more-criticize-hfpa-golden-globes/",
-            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B735%2C20%5D&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2021%2F05%2F08%2Fscarlett-mark-1.jpg",
-            "publishedAt": "2021-05-08T20:39:00Z",
-            "content": "Hollywood is increasingly coalescing behind a clear message to the Hollywood Foreign Press Association, demanding more significant reforms from the body that awards the Golden Globes each year. \r\nThe… [+5097 chars]"
+            "title": "Rhode Island woman among 3 people shot, including child, in Times Square - WCVB Boston",
+            "description": "A 23-year-old woman from Rhode Island who was sightseeing in New York City was shot in the leg, police say.",
+            "url": "https://www.wcvb.com/article/rhode-island-woman-shot-new-york-city-times-square/36373164",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/nypd-vehicle-in-times-square-1620524508.jpg?crop=1.00xw:0.846xh;0,0.105xh&resize=1200:*",
+            "publishedAt": "2021-05-09T01:43:00Z",
+            "content": "NEW YORK —Three innocent bystanders including a 4-year-old girl who was toy shopping were shot in New York City's busy Times Square on Saturday afternoon when someone opened fire during a dispute bet… [+2034 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
+                "name": "Post Magazine"
             },
-            "author": "Mark DeCambre",
-            "title": "Dogecoin nears 75 cents, then slips as crypto pioneer Silbert seen betting against parody coin ahead of Elon Musk's 'SNL' guest-host gig - MarketWatch",
-            "description": "‘But the time has come for you to convert your DOGE to BTC,’ says Silbert",
-            "url": "https://www.marketwatch.com/story/dogecoin-nears-75-cents-then-slips-as-crypto-pioneer-silbert-seen-betting-against-parody-coin-ahead-of-elon-musks-snl-guest-host-gig-11620504888",
-            "urlToImage": "https://images.mktw.net/im-336022/social",
-            "publishedAt": "2021-05-08T20:14:00Z",
-            "content": "Call it the dogefather versus the godfather of crypto. Barry Silbert, a power player in the digital-asset sector, said hes betting against dogecoin \r\n DOGEUSD,\r\n -7.59%\r\nand is urging investors in on… [+2802 chars]"
+            "author": null,
+            "title": "China’s quiet bid to take on Elon Musk’s Starlink satellite project - South China Morning Post",
+            "description": "China Satellite Network Group is Beijing’s latest effort to launch a constellation of satellites to beam internet signals from space, but experts say there is a lot of catching up to do.",
+            "url": "https://www.scmp.com/tech/policy/article/3132709/chinas-new-bid-take-elon-musks-starlink-state-owned-satellite",
+            "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/05/07/25bd1792-af36-11eb-9c9f-63ba12e765d1_image_hires_213657.jpg?itok=0wFSen0d&v=1620394628",
+            "publishedAt": "2021-05-09T01:00:21Z",
+            "content": "Published: 9:00am, 9 May, 2021\r\nUpdated: 9:00am, 9 May, 2021"
         },
         {
             "source": {
                 "id": null,
-                "name": "Space.com"
-            },
-            "author": "Amy Thompson",
-            "title": "SpaceX will launch a Falcon 9 rocket on its 10th flight Sunday and you can watch it online - Space.com",
-            "description": "Liftoff is at 2:42 a.m. EDT (0642 GMT).",
-            "url": "https://www.space.com/spacex-starlink-26-10th-falcon-9-launch-webcast",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Re7HhNbyGhA7g3R9MPxTi3-1200-80.jpg",
-            "publishedAt": "2021-05-08T20:00:48Z",
-            "content": "CAPE CANAVERAL, Fla. SpaceX\r\n will launch one of its rockets for a record 10th time Sunday (May 9), with a very sooty Falcon 9 rocket lofting a new fleet of Starlink satellites into space before dawn… [+5609 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "India Sees Deadliest Day Of Pandemic With COVID-19 Deaths Topping 4000 - NPR",
-            "description": "As bad as the reported numbers are, the actual toll is likely much worse. India's relentless virus surge is leading to deadly shortages of hospital beds, medical oxygen and drugs.",
-            "url": "https://www.npr.org/2021/05/08/995021124/india-sees-deadliest-day-of-pandemic-with-covid-19-deaths-topping-4-000",
-            "urlToImage": "https://media.npr.org/assets/img/2021/05/08/gettyimages-1232764350_wide-b28c8952e85aa0b731077f64cb6da2eec9bc8e5d.jpg?s=1400",
-            "publishedAt": "2021-05-08T19:15:55Z",
-            "content": "Family members and relatives wearing protective gear arrive to cremate the bodies of victims who died of the COVID-19 at an open air crematorium on the outskirts of Bangalore on Saturday.\r\nManjunath … [+3824 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Edward Helmore",
-            "title": "States turning down Covid-19 vaccine doses as US demand declines - The Guardian",
-            "description": "Reduced demand comes as Joe Biden has announced a plan to vaccinate 70% of US adults by the Fourth of July",
-            "url": "https://amp.theguardian.com/world/2021/may/08/us-coronavirus-vaccine-demand-states-turning-down-doses",
-            "urlToImage": null,
-            "publishedAt": "2021-05-08T19:10:00Z",
-            "content": "CoronavirusReduced demand comes as Joe Biden has announced a plan to vaccinate 70% of US adults by the Fourth of July\r\nDeclining demand for Covid-19 vaccines in the US is causing states across the co… [+5842 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Stephen Castle",
-            "title": "Of Brexit and Boris: What’s Driving the Call for Scottish Independence - The New York Times",
-            "description": "Scots voted to remain in the E.U., and they resent being dictated to by England. And they just plain don’t like Prime Minister Boris Johnson.",
-            "url": "https://www.nytimes.com/2021/05/08/world/europe/brexit-scotland-independence.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/05/08/world/08scotland-explainer01/08scotland-explainer01-facebookJumbo.jpg",
-            "publishedAt": "2021-05-08T19:01:38Z",
-            "content": "The millions of votes cast across Scotland Thursday could be among the most consequential in recent times, and not because of their impact on things like health, education and fisheries. The greatest… [+1097 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "Rich Cimini",
-            "title": "New York Jets rookie QB Zach Wilson doesn't expect to be handed starting job - 'Position has to be earned' - ESPN",
-            "description": "Despite the lack of veteran quarterbacks on the Jets' roster, rookie Zach Wilson doesn't expect to be handed the starting job. \"That position has to be earned,\" the No. 2 pick said Saturday on the second day of rookie minicamp.",
-            "url": "https://www.espn.com/nfl/story/_/id/31411535/new-york-jets-rookie-qb-zach-wilson-expect-handed-starting-job-position-earned",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0508%2Fr851374_1296x729_16%2D9.jpg",
-            "publishedAt": "2021-05-08T18:48:18Z",
-            "content": "FLORHAM PARK, N.J. -- New York Jets rookie quarterback Zach Wilson appears to have a clear path to the starting job, but he doesn't expect to be handed a freebie.\r\n\"In this position, the coaches want… [+2718 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Rory Smith",
-            "title": "Bayern's Robert Lewandowski: The Making of a Goal Machine - The New York Times",
-            "description": "Bayern’s Robert Lewandowski is the most complete, most ruthless, most polished striker of his generation. But what we see is only the finished product.",
-            "url": "https://www.nytimes.com/2021/05/08/sports/soccer/bayern-munich-robert-lewandowski.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/04/29/sports/29soccer-lewandowski/29soccer-lewandowski-facebookJumbo.jpg",
-            "publishedAt": "2021-05-08T18:43:21Z",
-            "content": "As Bayerns head of science and fitness, Broich knows Lewandowski better than anyone. He knows that Lewandowski can tolerate an extraordinary amount of stress and pain, as his almost spotless injury r… [+1752 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "name": "News 13 Orlando"
             },
             "author": "Associated Press",
-            "title": "More than 200 Palestinians hurt in Al-Aqsa clashes with police - Fox News",
-            "description": "Israel's national police chief on Saturday announced he was beefing up forces in Jerusalem ahead of expected disturbances in the coming days following a night of heavy clashes between Palestinians and Israeli police in the holy city.",
-            "url": "https://www.foxnews.com/world/200-palestinians-hurt-al-aqsa-clashes-police",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21127743493796.jpg",
-            "publishedAt": "2021-05-08T18:23:50Z",
-            "content": "Israel's national police chief on Saturday announced he was beefing up forces in Jerusalem ahead of expected disturbances in the coming days following a night of heavy clashes between Palestinians an… [+7891 chars]"
+            "title": "Callers across US report mysterious lights across sky - News 13 Orlando",
+            "description": "Train of lights was low-flying SpaceX Starlink satellites",
+            "url": "https://www.mynews13.com/fl/orlando/news/2021/05/09/spacex-starlink-satellites-callers-swamp-tv-stations-reporting-ufos",
+            "urlToImage": "https://s7d2.scene7.com/is/image/TWCNews/0508_n13_spacex_starlink_light_pollution_complaints_file_ap",
+            "publishedAt": "2021-05-09T00:23:00Z",
+            "content": "PHILADELPHIA A string of lights that lobbed across the night sky in parts of the U.S. on Wednesday, Thursday and Friday had some people wondering whether a fleet of UFOs was coming, but it had others… [+4492 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Slate Magazine"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Daniel Politi",
-            "title": "CDC Admits the Coronavirus Is Airborne, Can Be Transmitted More Than 6 Feet Away - Slate Magazine",
-            "description": "Some experts say that while it's a step in the right direction, the CDC still isn't going far enough in warning about the risks indoors.",
-            "url": "https://slate.com/news-and-politics/2021/05/cdc-coronavirus-airborne-infection-six-feet.html",
-            "urlToImage": "https://compote.slate.com/images/1a022659-8501-4f84-8ef5-b22895c66c20.jpeg?width=780&height=520&rect=3991x2661&offset=9x0",
-            "publishedAt": "2021-05-08T18:17:00Z",
-            "content": "The Centers for Disease Control and Prevention is finally acknowledging something that health experts have been saying for a while now: COVID-19 spreads through the air and can be inhaled by someone … [+4193 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Lee Clifford, Robert Hackett",
-            "title": "Ethereum: The lowdown on what it is and why it’s surging - Fortune",
-            "description": "The crypto world has been transfixed as Ethereum, long stuck in the shadows of Bitcoin, had a breakout stretch.",
-            "url": "https://fortune.com/2021/05/08/what-is-ethereum-price-why-is-it-surging-eth-blockchain-decentralized-apps-dapps-defi-buying-selling-crypto/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2021/05/GettyImages-1231864242.jpg?resize=1200,600",
-            "publishedAt": "2021-05-08T18:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Mariah Carey Tells Singer Who Sampled 'Shake It Off' to Talk to Lawyer - TMZ",
-            "description": "Mariah Carey might've sounded pissed, but it seems it's all love with YTK.",
-            "url": "https://www.tmz.com/2021/05/08/mariah-carey-singer-ytk-sample-shake-it-off-contact-lawyer/",
-            "urlToImage": "https://imagez.tmz.com/image/f0/16by9/2021/05/08/f0ac6608d065464d9dd7cd0bdc9abfaa_xl.jpg",
-            "publishedAt": "2021-05-08T17:40:00Z",
-            "content": "Mariah Carey didn't seem too amused by a small-time artist sampling her smash hit for his own remix -- telling him to get ready for a legal battle ... but it looks like she's just joshin'.\r\nThe singe… [+2132 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Associated Press",
-            "title": "Bomb kills at least 30 near girls' school in Afghan capital - Fox News",
-            "description": "A bomb exploded near a girls' school in a majority Shiite district of west Kabul on Saturday, killing at least 30 people, many of them young pupils between 11 and 15 years old. The Taliban condemned the attack and denied any responsibility.",
-            "url": "https://www.foxnews.com/world/bomb-kills-30-people-school-afghan-capital",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Afghan-Bomb-AP-2.jpg",
-            "publishedAt": "2021-05-08T17:31:14Z",
-            "content": "A bomb exploded near a girls' school in a majority Shiite district of west Kabul on Saturday, killing at least 30 people, many of them young pupils between 11 and 15 years old. The Taliban condemned … [+5126 chars]"
+            "author": "Michael Brice-Saddler",
+            "title": "Maryland governor grants posthumous pardons for 34 Black lynching victims - The Washington Post",
+            "description": "The pardons by Gov. Larry Hogan include one for 15-year-old Howard Cooper, who was lynched in Towson in 1885.",
+            "url": "https://www.washingtonpost.com/local/md-politics/lynchings-hogan-pardon-maryland/2021/05/08/97ea1ae2-b024-11eb-acd3-24b44a57093a_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MTGCYFQEAI6XAWBRFVMVFK3XE.jpg&w=1440",
+            "publishedAt": "2021-05-09T00:08:00Z",
+            "content": "Historians say Cooper, who had been accused of rape and was scheduled to be executed, was lynched before his attorneys could appeal his case to the U.S. Supreme Court. At a ceremony to memorialize Co… [+6274 chars]"
         }
     ]
 }
