@@ -4,15 +4,41 @@
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": null,
-            "title": "Can Steph Curry Beat LeBron James? Warriors Lakers Play In Game Preview - BBALLBREAKDOWN",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TWRVbmUzbUhCaDTSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-05-18T22:17:20Z",
+            "author": "Amelia Lucas",
+            "title": "Burger King to enter chicken sandwich wars with the Ch'King - CNBC",
+            "description": "Burger King will enter the chicken sandwich wars in June with the Ch'King, its take on the trendy menu item.",
+            "url": "https://www.cnbc.com/2021/05/19/burger-king-to-enter-chicken-sandwich-wars-with-the-chking.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106884807-1621363950276-BK_ChKing2.jpeg?v=1621364059",
+            "publishedAt": "2021-05-19T10:00:01Z",
+            "content": "Burger King will enter the chicken sandwich wars in June with the Ch'King, its take on the trendy menu item.\r\nThe Restaurant Brands International chain is following in the footsteps of sister chain P… [+2313 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Fares Akram",
+            "title": "Israeli airstrikes kill 6, level large family home in Gaza - The Associated Press",
+            "description": "GAZA CITY, Gaza Strip (AP) — Israeli airstrikes killed at least six people across the Gaza Strip and destroyed the home of an extended family early Wednesday. Despite growing international pressure for a cease-fire, the military said it widened its strikes on…",
+            "url": "https://apnews.com/article/israel-middle-east-israel-palestinian-conflict-health-coronavirus-pandemic-9b59e6d675531576e819b6b948eba99d",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/d1a0fe6b847b434780042da88ac18c6f/3000.jpeg",
+            "publishedAt": "2021-05-19T09:45:43Z",
+            "content": "GAZA CITY, Gaza Strip (AP) Israeli airstrikes killed at least six people across the Gaza Strip and destroyed the home of an extended family early Wednesday. Despite growing international pressure for… [+6335 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Bernhard Warner",
+            "title": "Crypto carnage—Bitcoin, Ethereum, Dogecoin all bomb lower - Fortune",
+            "description": "Investors wipe $280 billion off Bitcoin's market cap overnight.",
+            "url": "https://fortune.com/2021/05/19/crypto-carnage-bitcoin-ethereum-dogecoin-selloff/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2020/12/Bitcoin_mining-in-the-US-heartland_web_illo.jpg?resize=1200,600",
+            "publishedAt": "2021-05-19T09:16:24Z",
             "content": null
         },
         {
@@ -20,247 +46,221 @@
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Brittany Shammas",
-            "title": "A GOP congressman compared Capitol rioters to tourists. Photos show him barricading a door. - The Washington Post",
-            "description": "“You know, if you didn’t know the TV footage was a video from January the 6th, you would actually think it was a normal tourist visit,\" Rep. Andrew S. Clyde said last week.",
-            "url": "https://www.washingtonpost.com/politics/2021/05/18/clyde-tourist-capitol-riot-photos/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O3PVIRRAMNH27KMMNFEWA7ALCU.jpg&w=1440",
-            "publishedAt": "2021-05-18T21:49:00Z",
-            "content": "His remarks came during a Wednesday congressional hearing aimed at understanding the security lapses that led up to the Jan. 6 riot, which left one police officer and four others dead, 140 officers i… [+3400 chars]"
+            "author": "Jaclyn Peiser",
+            "title": "Video shows 11-year-old girl fighting off a knife-wielding kidnapper: 'This could have ended terribly’ - The Washington Post",
+            "description": "Jared Paul Stanga, 30, was arrested Tuesday in Pensacola, Fla., and charged with attempted kidnapping in an incident captured on video footage as a girl waited for her schoolbus.",
+            "url": "https://www.washingtonpost.com/nation/2021/05/19/jared-stanga-kidnapping-girl-florida/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-19-2021/t_62ef55d38aec4f81821b9b478d57c95b_name_Screen_Shot_2021_05_19_at_12_00_06_AM_scaled.jpg&w=1440",
+            "publishedAt": "2021-05-19T08:47:00Z",
+            "content": "But the girl punched, kicked and squirmed until the man tripped and released his grasp. She sprinted home.\r\nThe disturbing incident set off a full-force, hours-long manhunt by the Escambia County She… [+4010 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Maegan Vazquez and Jason Hoffman, CNN",
-            "title": "Biden takes new electric F-150 for a test drive: 'This sucker's quick' - CNN ",
-            "description": "It's not every day an American president gets to speed down a driving course in an electric pick-up truck trailed by Secret Service. But on Tuesday, President Joe Biden did just that.",
-            "url": "https://www.cnn.com/2021/05/18/politics/biden-ford-test-drive/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210518155052-01-biden-ford-f-150-super-tease.jpg",
-            "publishedAt": "2021-05-18T21:44:00Z",
+            "author": "Ashley Strickland, CNN",
+            "title": "This is what it looks like when a star is born - CNN ",
+            "description": "Scientists have created a realistic and colorfully stunning simulation of what star formation looks like -- a process that takes millions of years.",
+            "url": "https://www.cnn.com/2021/05/19/world/star-birth-simulation-starforge-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210518152941-01-starforge-simulation-super-tease.jpg",
+            "publishedAt": "2021-05-19T08:40:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Hannah Sarisohn and Caroline Kelly, CNN",
-            "title": "Texas governor bans mask mandates by state's public schools and local governments - CNN ",
-            "description": "Republican Texas Gov. Greg Abbott issued an executive order Tuesday prohibiting state governmental entities such as counties, public school districts, and public health authorities from requiring mask wearing, according to a news release from the governor's o…",
-            "url": "https://www.cnn.com/2021/05/18/politics/texas-abbott-mask-mandate-ban-fine/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210218102106-greg-abbott-2020-file-lead-image-super-tease.jpg",
-            "publishedAt": "2021-05-18T21:31:00Z",
-            "content": "(CNN)Republican Texas Gov. Greg Abbott issued an executive order Tuesday prohibiting state governmental entities such as counties, public school districts, public health authorities and government of… [+2883 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "COVID-19 Hate Crimes Act Passes Congress, Heads To Biden - NPR",
-            "description": "The legislation, which had near-unanimous support from the Senate, now goes to President Biden's desk for his signature.",
-            "url": "https://www.npr.org/2021/05/18/997847571/congress-passes-bill-to-counter-the-rise-in-anti-asian-hate-crimes",
-            "urlToImage": "https://media.npr.org/assets/img/2021/05/18/gettyimages-1318655494_wide-c8c40d76737b9837d8fccbee4e24e6172517a9c1.jpg?s=1400",
-            "publishedAt": "2021-05-18T20:55:52Z",
-            "content": "Rep. Judy Chu, chair of the Congressional Asian Pacific American Caucus, speaks about the COVID-19 Hate Crimes Act ahead of its passage at the U.S. Capitol on Tuesday.\r\nKevin Dietsch/Getty Images\r\nTh… [+3833 chars]"
-        },
-        {
-            "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
-            },
-            "author": "[{\"@type\":\"Person\",\"name\":\"Alex Gurley\",\"url\":\"https://www.buzzfeed.com/alexgurley\",\"jobTitle\":\"BuzzFeed Contributor\"}]",
-            "title": "The Trailer For The \"Dear Evan Hansen\" Movie Just Dropped And I Just Want To Know Who Thought Ben Platt Could Pass For A High Schooler - BuzzFeed",
-            "description": "How do you do, fellow kids?",
-            "url": "https://www.buzzfeed.com/alexgurley/dear-evan-hansen-trailer-reactions",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2021-05/18/19/asset/ee093dbded83/sub-buzz-5826-1621367737-17.jpg?crop=1516:793;216,218%26downsize=1250:*",
-            "publishedAt": "2021-05-18T20:41:52Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Luke Broadwater, Nicholas Fandos",
-            "title": "Tlaib Confronts Biden on Israel, Saying Support Enables Crimes Against Palestinians - The New York Times",
-            "description": "During a conversation on a tarmac in Detroit, Representative Rashida Tlaib told the president that he must do more to protect Palestinian lives and human rights.",
-            "url": "https://www.nytimes.com/2021/05/18/us/tlaib-biden-palestine-israel.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/05/18/us/politics/18new-washington-briefing-dearborn3/18new-washington-briefing-dearborn3-facebookJumbo.jpg",
-            "publishedAt": "2021-05-18T20:35:27Z",
-            "content": "Ms. Tlaib, who could be seen making her case to Mr. Biden as she greeted him at the steps of Air Force One, told the president that the status quo was only enabling more killing, and that his current… [+1024 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Ron Amadeo",
-            "title": "Google, Samsung, and Fitbit team up to save Wear OS - Ars Technica",
-            "description": "Samsung is bringing the hardware, Google is bringing the software.",
-            "url": "https://arstechnica.com/gadgets/2021/05/google-samsung-and-fitbit-team-up-to-save-wear-os/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/2-2-760x380.jpg",
-            "publishedAt": "2021-05-18T20:34:55Z",
-            "content": "Enlarge/ Wear OS: It's coming back. \r\n62 with 45 posters participating\r\nWear OS has been neglected for far too long. Google has been dead in the smartwatch space, and Samsung can't get a decent app e… [+2604 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lifehacker.com"
-            },
-            "author": "Sam Blum",
-            "title": "What Should You Do If Space Junk Lands in Your Yard? - Lifehacker",
-            "description": "Imagine you wake up to a smoldering piece of machinery in your yard, still smoking and sizzling after screaming towards Earth from space. This is an extremely unlikely scenario, but it remains true that space junk happens. Of all the scientific instruments we…",
-            "url": "https://lifehacker.com/what-should-you-do-if-space-junk-lands-in-your-yard-1846918558",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5facd6d6d4a04a7070e5d77de2d9dd71.jpg",
-            "publishedAt": "2021-05-18T20:30:00Z",
-            "content": "Imagine you wake up to a smoldering piece of machinery in your yard, still smoking and sizzling after screaming towards Earth from space. This is an extremely unlikely scenario, but it remains true t… [+3677 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/jessica-conditt",
-            "title": "Google plans to build a commercial quantum computer by 2029 - Engadget",
-            "description": "The company has a new quantum AI campus in Santa Barbara..",
-            "url": "https://www.engadget.com/google-quantum-computer-2029-goal-201612680.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/535f2360-b815-11eb-b7cf-90a5786c45e8",
-            "publishedAt": "2021-05-18T20:16:45Z",
-            "content": "Google developers are confident they can build a commercial-grade quantum computer by 2029. Google CEO Sundar Pichai announced the plan during today's I/O stream, and in a blog post, quantum AI lead … [+1617 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KPTV.com"
-            },
-            "author": "",
-            "title": "OHA: Fully-vaccinated Oregonians no longer required to wear masks indoors if status is checked - KPTV.com",
-            "description": "PORTLAND, OR (KPTV) - The Oregon Health Authority announced Tuesday new guidance for masks following the Centers for Disease Control and Prevention's update last week.",
-            "url": "https://www.kptv.com/news/oha-fully-vaccinated-oregonians-no-longer-required-to-wear-masks-indoors-if-status-is-checked/article_dfb0e466-b815-11eb-960f-abaf97e6139b.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kptv.com/content/tncms/assets/v3/editorial/6/52/65293800-b816-11eb-9302-97b3fad7cce0/60a4219493615.image.jpg?resize=1120%2C630",
-            "publishedAt": "2021-05-18T20:16:00Z",
-            "content": "PORTLAND, OR (KPTV) - The Oregon Health Authority announced Tuesday new guidance for masks following the Centers for Disease Control and Prevention's update last week.\r\nOHA says \"people who are fully… [+4359 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Fox Business"
             },
-            "author": "Lucas Manfredi",
-            "title": "Colonial Pipeline hacker Darkside reaped $90M from 47 victims - Fox Business",
-            "description": "The Russian ransomware group responsible for the Colonial Pipeline hack, Darkside, reaped just over $90 million in Bitcoin ransom payments from 47 victims before announcing it would cease operations, according to blockchain analytics firm Elliptic.",
-            "url": "https://www.foxbusiness.com/money/colonial-pipeline-hacker-darkside-reaped-90m-from-victims",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/Colonial-Pipeline-Randomware-Attack-AP.jpg?ve=1&tl=1",
-            "publishedAt": "2021-05-18T19:58:45Z",
-            "content": "The Russian ransomware group responsible for the Colonial Pipelinehack, Darkside, reaped just over $90 million in Bitcoin ransom payments from 47 victims before announcing it would cease operations, … [+3745 chars]"
+            "author": "Ken Martin",
+            "title": "Bitcoin price falls on China crypto warning - Fox Business",
+            "description": "",
+            "url": "https://www.foxbusiness.com/markets/bitcoin-price-falls-on-china-crypto-warning",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/04/0/0/bitcoin-drop.jpg?ve=1&tl=1",
+            "publishedAt": "2021-05-19T08:17:24Z",
+            "content": "Bitcoin's price fell more than 10% early Wednesday after the China Banking Association warned members of risks associated with digital currencies.\r\nThe crypotocurrency fell to below 39,000, per Bitco… [+949 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Golf Channel"
+                "name": "Silver Screen and Roll "
+            },
+            "author": "Christian Rivas",
+            "title": "Lakers vs. Warriors Preview: Start time, TV Schedule and Injury Report - Silver Screen and Roll ",
+            "description": "It’s going to take a team effort to slow down Steph Curry on Wednesday.",
+            "url": "https://www.silverscreenandroll.com/2021/5/18/22442404/lakers-vs-warriors-how-to-watch-start-time-tv-channel-injury-report-game-preview-steph-curry-stats",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/eKSbSXhv0EByuZnKkYM7_B32Zo0=/0x0:5000x2618/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22525007/1307464000.jpg",
+            "publishedAt": "2021-05-19T06:18:23Z",
+            "content": "For the first time in their rich history, the Los Angeles Lakers will fight for a spot in the NBA Playoffs by way of a play-in tournament, and their first opponent, the Golden State Warriors, have ar… [+3138 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "2021 PGA Championship: Rory McIlroy has major fun at Justin Thomas' expense - Golf Channel",
-            "description": "Rory McIlroy took a friendly shot at Justin Thomas, who is still stuck on one major win. And Thomas gave it right back. Slightly.",
-            "url": "https://www.golfchannel.com/news/2021-pga-championship-rory-mcilroy-has-major-fun-justin-thomas-expense",
-            "urlToImage": "https://www.golfchannel.com/sites/default/files/2021/05/18/mcilroy_thomas_1920_paynes21.jpg",
-            "publishedAt": "2021-05-18T19:47:48Z",
-            "content": "KIAWAH ISLAND, S.C. Rory McIlroys news conference was going long shocker, we know and so Justin Thomas, waiting on deck, posted up at the back of interview tent to listen in.\r\nMcIlroys final question… [+1550 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Frank Miles",
-            "title": "Hernando de Soto Bridge inspector fired for not flagging crack in span - Fox News",
-            "description": "An unidentified inspector who failed to discover a crack in the Hernando de Soto Bridge linking Arkansas and Tennessee that prompted the span’s closure was fired Monday morning and may face charges, according to reports.",
-            "url": "https://www.foxnews.com/us/hernando-de-soto-bridge-inspector-fired-for-not-flagging-crack-in-span",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/Inspector-Bridge-AP-1.jpg",
-            "publishedAt": "2021-05-18T19:41:30Z",
-            "content": "An unidentified inspector who failed to discover a crack in the Hernando de Soto Bridge linking Arkansas and Tennessee that prompted the spans closure was fired Monday morning and may face charges, a… [+3813 chars]"
+            "title": "NBA Top 5 Plays Of The Night | May 19, 2021 - NBA",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dWtSMDBCSkVwSjDSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-05-19T06:02:29Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "ESPN"
             },
-            "author": "Megan Sims",
-            "title": "Kylie Jenner says becoming a mom helped her ‘grow so much as a person’ - Yahoo Lifestyle",
-            "description": "The youngest of the Kardashian-Jenner clan opened up about what becoming a mom has taught her.",
-            "url": "https://www.yahoo.com/lifestyle/kylie-jenner-becoming-a-mom-helped-her-grow-193434077.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/a3a34770-b80b-11eb-9d6f-abf83525e905",
-            "publishedAt": "2021-05-18T19:34:34Z",
-            "content": "Kylie Jenner posed for the May 2021 issue of Tmrw Magazine, in which she opened up about how motherhood changed her. (Photo: Instagram)\r\nKylie Jenner has opened up about being a mother.\r\nOn Tuesday, … [+1821 chars]"
+            "author": "Tim Bontemps",
+            "title": "Jayson Tatum explodes for 50 as Boston Celtics claim 7th seed in NBA playoffs - ESPN",
+            "description": "In a scintillating all-around performance, Jayson Tatum went off for 50 points as the Celtics beat the Wizards 118-100 on Tuesday night to claim the No. 7 seed in the playoffs.",
+            "url": "https://www.espn.com/mlb/story/_/id/31469676/jayson-tatum-explodes-50-boston-celtics-claim-7th-seed-nba-playoffs",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0519%2Fr855919_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-05-19T05:41:55Z",
+            "content": "BOSTON -- Bradley Beal has seen plenty of impressive performances from Jayson Tatum on a basketball court since the two were kids growing up together in St. Louis.\r\nBut after Tatum scored 50 points t… [+5861 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/mariella-moon",
+            "title": "Google is finally bringing YouTube Music to Wear OS - Engadget",
+            "description": "Google is finally launching a YouTube Music app for Wear OS, but it doesn't have a release date yet..",
+            "url": "https://www.engadget.com/google-youtube-music-app-wear-os-051417768.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/fbff7650-b85b-11eb-be9f-8ccfa2829510",
+            "publishedAt": "2021-05-19T05:19:10Z",
+            "content": "Big changes are coming to the Wear OS platform. Google announced that it developed the next version of Wear OS with Samsung at its I/O developer conference, where it also revealed that it's (finally!… [+1053 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "Detroit Free Press"
             },
-            "author": null,
-            "title": "Why Pregnant Women With COVID In India Have Nowhere To Turn : Goats and Soda - NPR",
-            "description": "A pregnant journalist investigates and finds many pregnant, COVID-positive women can't access life-saving healthcare during the country's deadly second wave.",
-            "url": "https://www.npr.org/sections/goatsandsoda/2021/05/18/997469014/no-vaccines-supplies-or-hospital-beds-pregnant-with-covid-in-india",
-            "urlToImage": "https://media.npr.org/assets/img/2021/05/18/priyali1-40_wide-d619dec508885f92216612e0e34c001966d348ae.jpg?s=1400",
-            "publishedAt": "2021-05-18T19:33:11Z",
-            "content": "Priyali Sur, 29 weeks pregnant, at home in Delhi on April 30.\r\nBoaz Slater Lee\r\nWhen the call came from the doctor that afternoon, it was ominous.\r\n\"They said that [my wife, Minal] had suffered a car… [+9643 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Carl O'donnell",
-            "title": "U.S. vaccinated 600000 12-15 year olds last week -health official - Reuters",
-            "description": "The United States administered COVID-19 vaccinations to around 600,000 children ages 12 to 15 last week after regulators cleared  Pfizer Inc’s (PFE.N) and BioNTech’s shots for use in that age group, U.S. Centers for Disease Control and Prevention Director Roc…",
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-gave-covid-19-shots-600000-kids-ages-12-15-last-week-top-health-official-says-2021-05-18/",
-            "urlToImage": "https://www.reuters.com/resizer/YBp1zfStaIGTB3JQCo0VPiokBwY=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/S3C4VETUKFJBRFUWNYZOUEXCHQ.jpg",
-            "publishedAt": "2021-05-18T19:33:00Z",
-            "content": "The United States administered COVID-19 vaccinations to around 600,000 children ages 12 to 15 last week after regulators cleared Pfizer Incs (PFE.N) and BioNTechs shots for use in that age group, U.S… [+1897 chars]"
+            "author": "Dana Gauruder",
+            "title": "Spencer Turnbull throws Detroit Tigers' eighth no-hitter, beats Seattle Mariners, 5-0 - Detroit Free Press",
+            "description": "Detroit Tigers right-hander Spencer Turnbull threw the franchise's eighth no-hitter on Tuesday night in Seattle, dominating the Seattle Mariners, 5-0.",
+            "url": "https://www.freep.com/story/sports/mlb/tigers/2021/05/19/spencer-turnbull-no-hitter-detroit-tigers-seattle-mariners-score/5155803001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/05/19/PDTF/7b7ac574-ba5f-4b6e-b801-eab3d5616931-GTY_1318772812.jpg?crop=5085,2860,x0,y40&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2021-05-19T05:02:59Z",
+            "content": "Detroit Tigers right-hander Spencer Turnbull breaks down his no-hitter against the Seattle Mariners on Tuesday, April 18, 2021.\r\nDetroit Free Press\r\nA little over 10 years since Justin Verlander toss… [+6466 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "Hollywood Reporter"
             },
-            "author": "Brent Lang",
-            "title": "AT&T Chief John Stankey Fields Questions About Layoffs, Discovery and WarnerMedia Merger - Variety",
-            "description": "AT&T chief John Stankey and Chief Financial Officer Pascal Desroches were asked tough questions about the implications of the pending merger of WarnerMedia and Discovery during an all-hands meeting of studio employees on Tuesday. Stankey tried to placate worr…",
-            "url": "https://variety.com/2021/film/news/discovery-warnermedia-merger-layoffs-john-stankey-1234975929/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2019/07/john-stankey-16x9-2.jpg?w=1000",
-            "publishedAt": "2021-05-18T19:31:00Z",
-            "content": "AT&amp;T chief John Stankey and Chief Financial Officer Pascal Desroches were asked tough questions about the implications of the pending merger of WarnerMedia and Discovery during an all-hands meeti… [+2677 chars]"
+            "author": "Pamela McClintock",
+            "title": "‘Cruella’ Stages First Major Hollywood Premiere in Pandemic Era - Hollywood Reporter",
+            "description": "Hollywood premieres are making a comeback. On Wednesday night, Disney staged the world premiere of Cruella at the El Capitan Theatre in Los Angeles. The live-action pic, opening in theaters and on Disney+ Premier over Memorial Day weekend, stars Emma Stone as…",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/cruella-first-major-hollywood-premiere-since-pandemic-began-1234955627/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/Emma-Stone-at-Cruelle-Premiere.jpg?w=1024",
+            "publishedAt": "2021-05-19T04:41:15Z",
+            "content": "Hollywood premieres are making a comeback.\r\nOn Wednesday night, Disney staged the world premiere of Cruella at the El Capitan Theatre in Los Angeles. The live-action pic, opening in theaters and on D… [+1934 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Al Goodman, CNN",
-            "title": "Thousands of migrants swim from Morocco to Spanish enclave of Ceuta - CNN ",
-            "description": "At least 6,000 people, including around 1,500 minors, swam from Morocco to the bordering Spanish enclave of Ceuta on Monday in the largest influx of illegal migration there in a single day, Spanish authorities said.",
-            "url": "https://www.cnn.com/2021/05/18/europe/migrants-swim-morocco-spanish-enclave-ceuta-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210518123743-01-ceuta-migrants-0518-super-tease.jpg",
-            "publishedAt": "2021-05-18T19:19:00Z",
-            "content": "Madrid (CNN)At least 6,000 people, including around 1,500 minors, swam from Morocco to the bordering Spanish enclave of Ceuta on Monday in the largest influx of illegal migration there in a single da… [+3533 chars]"
+            "author": "Sonia Moghe and Kara Scannell, CNN",
+            "title": "New York attorney general adds 'criminal capacity' to probe of Trump Organization - CNN ",
+            "description": "New York Attorney General Letitia James is joining the Manhattan district attorney's office in a criminal investigation of the Trump Organization, James' office said Tuesday.",
+            "url": "https://www.cnn.com/2021/05/18/politics/new-york-attorney-general-trump-organization-criminal-probe/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180108075309-trump-tower-super-tease.jpg",
+            "publishedAt": "2021-05-19T04:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan, CNN",
+            "title": "People flee in panic as skyscraper wobbles in China, despite no earthquake and fine weather - CNN ",
+            "description": "Thousands of shoppers in the southern Chinese city of Shenzhen fled the vicinity of a 957-foot (291-meter) skyscraper Tuesday, after it inexplicably began swaying.",
+            "url": "https://www.cnn.com/2021/05/19/china/china-shenzhen-skyscraper-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210518220328-01-skyscraper-wobbles-shenzhen-super-tease.jpg",
+            "publishedAt": "2021-05-19T04:34:00Z",
+            "content": "Hong Kong (CNN)Thousands of shoppers in the southern Chinese city of Shenzhen fled the vicinity of a 957-foot (291-meter) skyscraper Tuesday, after it inexplicably began swaying.\r\nVideos circulating … [+705 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WSYR"
+                "name": "New York Times"
             },
-            "author": "Adrienne Smith",
-            "title": "Where can fully vaccinated people shop without a mask in Central New York? - WSYR",
-            "description": "SYRACUSE, N.Y. (WSYR-TV) — As New York prepares to adopt the CDC mask guidance for those who are fully vaccinated on Wednesday, May 19, many Central New York businesses are changing their own policies for customers and staff. NewsChannel 9 reached out to seve…",
-            "url": "https://www.localsyr.com/news/local-news/where-can-fully-vaccinated-people-shop-without-a-mask-in-central-new-york/",
-            "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2021/04/FACEMASK.jpg?w=1280",
-            "publishedAt": "2021-05-18T19:10:36Z",
-            "content": "SYRACUSE, N.Y. (WSYR-TV) — As New York prepares to adopt the CDC mask guidance for those who are fully vaccinated on Wednesday, May 19, many Central New York businesses are changing their own policie… [+2813 chars]"
+            "author": "Jonah E. Bromwich",
+            "title": "Philadelphia’s Progressive District Attorney Fends Off Democratic Challenger - The New York Times",
+            "description": "Larry Krasner, part of a new breed of prosecutors, easily defeated Carlos Vega in Tuesday’s primary in spite of a rise in gun crime.",
+            "url": "https://www.nytimes.com/2021/05/19/us/krasner-vega-philadelphia.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/05/18/us/18phillyda-krasner/18phillyda-krasner-facebookJumbo.jpg",
+            "publishedAt": "2021-05-19T04:02:24Z",
+            "content": "As in his first campaign, in which he ran against six other candidates, Mr. Krasner, 60, won significant support from Black voters in the northern and western parts of the city. Those neighborhoods h… [+1854 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Famed Darwin's Arch in Galapagos takes new shape - NBC News",
+            "description": "The famed Darwin’s Arch in the Galapagos Islands has lost its top, and officials are blaming natural erosion of the stone.",
+            "url": "https://www.nbcnews.com/news/world/famed-darwin-s-arch-galapagos-takes-new-shape-n1267889",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_20/3475926/210518-galapagos-ecuador-darwins-arch-ac-1133p.jpg",
+            "publishedAt": "2021-05-19T03:53:00Z",
+            "content": "QUITO, Ecuador The famed Darwins Arch in the Galapagos Islands has lost its top, and officials are blaming natural erosion of the stone.\r\nEcuadors Environment Ministry reported the collapse on its Fa… [+1012 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "Flooding from Louisiana storms turns deadly - NBC News",
+            "description": "Three deaths in Louisiana are being tied to a deluge of rain that caused flooding in the state that began Monday, and more wet weather could be in store.",
+            "url": "https://www.nbcnews.com/news/us-news/flooding-louisiana-storms-turns-deadly-n1267886",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_20/3475565/214517-lake-charles-louisiana-flood-ac-1142p.jpg",
+            "publishedAt": "2021-05-19T03:06:00Z",
+            "content": "At least three men died in floodwaters in Louisiana, another person was missing after heavy rains pounded the state and the region was bracing for more wet weather in the coming days.\r\nPart of Lake C… [+1957 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": null,
+            "title": "Android widgets can appear in Assistant as Google looks at surfacing in Android Auto - 9to5Google",
+            "description": "Widgets are already getting a big visual revamp with Material You and Android 12. Google is now bringing Android widgets to Assistant...",
+            "url": "https://9to5google.com/2021/05/18/android-12-widgets-google-assistant/",
+            "urlToImage": "https://i1.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/05/android-widgets-assistant-cover.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-05-19T02:36:00Z",
+            "content": "Widgets are already getting a big visual revamp as part of Material You and Android 12. Google is now bringing widgets to Assistant and considering driving-optimized ones for Android Auto.\r\nIntegrati… [+1743 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Samuel Chamberlain",
+            "title": "Gun-toting St. Louis lawyer Mark McCloskey announces run for Senate - New York Post ",
+            "description": "St. Louis lawyer Mark McCloskey, who made headlines last year when he and his wife drew their guns and confronted BLM protesters outside their home, is running for the U.S. Senate as a Republican.",
+            "url": "https://nypost.com/2021/05/18/gun-toting-st-louis-lawyer-mark-mccloskey-running-for-senate/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/05/mark-mcloskey-senate-run-index.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2021-05-19T02:28:00Z",
+            "content": "St. Louis lawyer Mark McCloskey, who made national headlines last year when he and his wife drew their guns and confronted Black Lives Matter protesters outside their home, is running for the U.S. Se… [+3023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Saheli Roy Choudhury",
+            "title": "India's richest state was at the center of the second wave. Now, it's preparing for a third wave - CNBC",
+            "description": "Maharashtra officials have been discussing various ways to respond to an impending third wave since April, according to Aaditya Thackeray, a cabinet minister.",
+            "url": "https://www.cnbc.com/2021/05/19/india-covid-crisis-maharashtra-preparing-for-third-wave-aaditya-thackeray-says.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106884352-1621320881315-gettyimages-1232946748-20210516_mum-sb-mn_swabtest_001.jpeg?v=1621320560",
+            "publishedAt": "2021-05-19T02:13:00Z",
+            "content": "After being the epicenter of a devastating second wave, India's wealthiest state is already taking steps to prepare for a possible third wave, according to its tourism and environment minister.\r\nThe … [+3891 chars]"
         }
     ]
 }
