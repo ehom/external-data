@@ -1072,9 +1072,9 @@
             "uri": "nyt://article/e0edc771-90e5-5405-a79a-1e6cf082fcf2",
             "byline": "By Glenn Kenny",
             "item_type": "Article",
-            "updated_date": "2021-05-27T07:00:06-04:00",
-            "created_date": "2021-05-27T07:00:06-04:00",
-            "published_date": "2021-05-27T07:00:06-04:00",
+            "updated_date": "2021-05-27T09:19:59-04:00",
+            "created_date": "2021-05-27T07:00:07-04:00",
+            "published_date": "2021-05-27T07:00:07-04:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
@@ -1084,9 +1084,9 @@
             "org_facet": [],
             "per_facet": [
                 "Pacino, Al",
-                "Meadow Williams",
-                "Mildred Gillars",
-                "Michael Polish"
+                "Polish, Michael",
+                "Williams, Meadow (1966- )",
+                "Gillars, Mildred"
             ],
             "geo_facet": [],
             "multimedia": [
@@ -1152,18 +1152,18 @@
             "uri": "nyt://article/9909ffd3-beda-57b4-9fc2-84da28adb475",
             "byline": "By Beatrice Loayza",
             "item_type": "Article",
-            "updated_date": "2021-05-27T07:00:05-04:00",
+            "updated_date": "2021-05-27T09:26:54-04:00",
             "created_date": "2021-05-27T07:00:05-04:00",
             "published_date": "2021-05-27T07:00:05-04:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
                 "Movies",
-                "\"The Mercy of the Jungle (Movie)"
+                "The Mercy of the Jungle (Movie)"
             ],
             "org_facet": [],
             "per_facet": [
-                "Joel Karekezi"
+                "Karekezi, Joel"
             ],
             "geo_facet": [
                 "Congo, Democratic Republic of (Congo-Kinshasa)"
@@ -1306,6 +1306,86 @@
         {
             "section": "movies",
             "subsection": "",
+            "title": "‘Dog Gone Trouble’ Review: New Dog, Same Tricks",
+            "abstract": "A pampered dog finds himself on the streets in this routine animated comedy.",
+            "url": "https://www.nytimes.com/2021/05/27/movies/dog-gone-trouble-review.html",
+            "uri": "nyt://article/4b0b7910-a13a-54b2-bae2-44ae9c54bcb1",
+            "byline": "By Chris Azzopardi",
+            "item_type": "Article",
+            "updated_date": "2021-05-27T08:59:46-04:00",
+            "created_date": "2021-05-27T07:00:04-04:00",
+            "published_date": "2021-05-27T07:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Animated Films",
+                "Dog Gone Trouble (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Big Sean (1988- )",
+                "Hale, Lucy (1989- )",
+                "Johnson, Kevin (Film Director)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/05/24/arts/dog1/merlin_188116794_c7f7bdd6-401a-4aa5-b36f-a33bbb223094-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1998,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Big Sean provides the voice for Trouble in the animated comedy “Dog Gone Trouble.”",
+                    "copyright": "Netflix"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/05/24/arts/dog1/dog1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Big Sean provides the voice for Trouble in the animated comedy “Dog Gone Trouble.”",
+                    "copyright": "Netflix"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/05/24/arts/dog1/dog1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Big Sean provides the voice for Trouble in the animated comedy “Dog Gone Trouble.”",
+                    "copyright": "Netflix"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/05/24/arts/dog1/dog1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Big Sean provides the voice for Trouble in the animated comedy “Dog Gone Trouble.”",
+                    "copyright": "Netflix"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/05/24/arts/dog1/merlin_188116794_c7f7bdd6-401a-4aa5-b36f-a33bbb223094-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 103,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Big Sean provides the voice for Trouble in the animated comedy “Dog Gone Trouble.”",
+                    "copyright": "Netflix"
+                }
+            ],
+            "short_url": "https://nyti.ms/3yQtRkj"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
             "title": "‘Ahead of the Curve’ Review: The Business of Lesbian Identity",
             "abstract": "A 30-year-old lesbian magazine faces an existential crisis in this documentary.",
             "url": "https://www.nytimes.com/2021/05/27/movies/ahead-of-the-curve-review.html",
@@ -1381,85 +1461,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/3foeiZi"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "‘Dog Gone Trouble’ Review: New Dog, Same Tricks",
-            "abstract": "A pampered dog finds himself on the streets in this routine animated comedy.",
-            "url": "https://www.nytimes.com/2021/05/27/movies/dog-gone-trouble-review.html",
-            "uri": "nyt://article/4b0b7910-a13a-54b2-bae2-44ae9c54bcb1",
-            "byline": "By Chris Azzopardi",
-            "item_type": "Article",
-            "updated_date": "2021-05-27T07:00:03-04:00",
-            "created_date": "2021-05-27T07:00:03-04:00",
-            "published_date": "2021-05-27T07:00:03-04:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "Dog Gone Trouble (Movie)"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Big Sean (1988- )",
-                "Hale, Lucy (1989- )",
-                "Kevin Johnson"
-            ],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2021/05/24/arts/dog1/merlin_188116794_c7f7bdd6-401a-4aa5-b36f-a33bbb223094-superJumbo.jpg",
-                    "format": "superJumbo",
-                    "height": 1080,
-                    "width": 1998,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Big Sean provides the voice for Trouble in the animated comedy “Dog Gone Trouble.”",
-                    "copyright": "Netflix"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2021/05/24/arts/dog1/dog1-thumbStandard.jpg",
-                    "format": "Standard Thumbnail",
-                    "height": 75,
-                    "width": 75,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Big Sean provides the voice for Trouble in the animated comedy “Dog Gone Trouble.”",
-                    "copyright": "Netflix"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2021/05/24/arts/dog1/dog1-thumbLarge.jpg",
-                    "format": "thumbLarge",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Big Sean provides the voice for Trouble in the animated comedy “Dog Gone Trouble.”",
-                    "copyright": "Netflix"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2021/05/24/arts/dog1/dog1-mediumThreeByTwo210.jpg",
-                    "format": "mediumThreeByTwo210",
-                    "height": 140,
-                    "width": 210,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Big Sean provides the voice for Trouble in the animated comedy “Dog Gone Trouble.”",
-                    "copyright": "Netflix"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2021/05/24/arts/dog1/merlin_188116794_c7f7bdd6-401a-4aa5-b36f-a33bbb223094-articleInline.jpg",
-                    "format": "Normal",
-                    "height": 103,
-                    "width": 190,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Big Sean provides the voice for Trouble in the animated comedy “Dog Gone Trouble.”",
-                    "copyright": "Netflix"
-                }
-            ],
-            "short_url": "https://nyti.ms/3yQtRkj"
         },
         {
             "section": "movies",
