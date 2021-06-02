@@ -4,210 +4,106 @@
     "articles": [
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Nate Day",
-            "title": "Jennifer Lopez, Ben Affleck: Their relationship over the years - Fox News",
-            "description": "A look back at Jennifer Lopez and Ben Affleck's romance.",
-            "url": "https://www.foxnews.com/entertainment/jennifer-lopez-ben-affleck-relationship-over-the-years",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/GettyImages-115381474.jpg",
-            "publishedAt": "2021-06-02T00:02:28Z",
-            "content": "Bennifer called it quits back in 2004, but now Jennifer Lopez and Ben Affleck seem to definitely be back on. \r\nIn photos obtained by Page Six, the A-list stars were pictured cuddling up to each other… [+202 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Danielle Wiener-Bronner, CNN Business",
-            "title": "What the JBS cyberattack means for your meat supply - CNN ",
-            "description": "Shoppers may want to brace themselves for yet another possible supply crunch — this time with meat.",
-            "url": "https://www.cnn.com/2021/06/01/business/jbs-cyberattack-meat-shortage/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210601170412-jbs-meat-truck-0601-restricted-super-tease.jpg",
-            "publishedAt": "2021-06-01T23:33:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sean O'Kane",
-            "title": "Yes, the SEC has noticed Elon Musk’s Tesla stock price tweet - The Verge",
-            "description": "A court order requiring a lawyer to review Elon Musk’s tweets about Tesla was meant to rein in his Twitter presence. The SEC wrote Tesla, in letters obtained by The Wall Street Journal, that the company “has abdicated the duties required of it by the court’s …",
-            "url": "https://www.theverge.com/2021/6/1/22463920/elon-musk-stock-price-tweets-sec",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/9mfI_CLvQsqwGI5vkkCqXVD6Izo=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19432161/acastro_191204_1777_elon_legal_0003.0.jpg",
-            "publishedAt": "2021-06-01T23:08:57Z",
-            "content": "The Twitter sitter was asleep at the wheel, regulator suggests\r\nThe Securities and Exchange Commission believes Elon Musk has violated his 2018 settlement agreement twice, according to correspondence… [+2398 chars]"
+            "author": "Katerina Ang",
+            "title": "Covid-19 live updates: China’s world-beating vaccination campaign comes with caveats - The Washington Post",
+            "description": "Beijing’s vaccination program got off to a slow start before picking up pace, but questions remain about how much protection Chinese-developed shots offer.",
+            "url": "https://www.washingtonpost.com/nation/2021/06/02/coronavirus-covid-live-updates-us/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZUJHKSGN4I6XLBKHLAPFOGO5M.jpg&w=1440",
+            "publishedAt": "2021-06-02T10:30:00Z",
+            "content": "Two cities in Chinas southern manufacturing region of Guangdong have put more than 40 neighborhoods under lockdown and limited outbound travel as health workers fight a fast-spreading variant of coro… [+2035 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Thornton McEnery",
-            "title": "A huge day for meme stocks sees Mudrick reportedly dump AMC stock, and Roaring Kitty returns to rally GameStop die-hards - MarketWatch",
-            "description": "AMC stock proves twice that it cannot be diluted, and Keith Gill tweets again, sending GameStop back into $250 territory.",
-            "url": "https://www.marketwatch.com/story/a-huge-day-for-meme-stocks-sees-mudrick-reportedly-dump-amc-entertainment-stock-and-roaring-kitty-return-to-rally-gamestop-die-hards-11622587845",
-            "urlToImage": "https://images.mktw.net/im-319472/social",
-            "publishedAt": "2021-06-01T22:50:00Z",
-            "content": "An extended holiday hiatus hasnt stopped the meme stock mojo, with GameStop and AMC Entertainment registering stellar returns to start June action, sending supporters of the social-media-driven asset… [+2458 chars]"
+            "author": "Suban Abdulla",
+            "title": "Israel flags possible link between Pfizer COVID vaccine and heart condition - Yahoo Tech",
+            "description": "Study finds patients who experienced heart inflammation spent no more than four days in hospital, with 95% of the cases considered to be mild.",
+            "url": "https://finance.yahoo.com/news/coronavirus-vaccine-pfizer-biontech-israel-myocarditis-heart-inflammation-090626937.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dhO6PDHC06bNj9ltsrlypg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjY5/https://s.yimg.com/os/creatr-uploaded-images/2021-06/8a09c500-c378-11eb-9fee-389eca96eb90",
+            "publishedAt": "2021-06-02T10:20:44Z",
+            "content": "Lets talk about defending your portfolio. Its a common impulse for most investors, when the economy starts to turn sour. Were in a growth phase now, with economic activity rebounding strongly from th… [+7601 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Tara Subramaniam, CNN",
-            "title": "Fact-checking Sidney Powell's claim Trump could be reinstated - CNN ",
-            "description": "Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the prominent supporters of these theories is Trump's former lawyer Sidney Powell, who …",
-            "url": "https://www.cnn.com/2021/06/01/politics/powell-trump-inauguration-fact-check/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201123162610-sidney-powell-1119-super-tease.jpg",
-            "publishedAt": "2021-06-01T22:25:00Z",
-            "content": "Washington (CNN)Months into President Joe Biden's first term, supporters of former President Donald Trump are still touting the \"big lie\" that Trump actually won the 2020 election. One of the promine… [+2423 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "South China Sea dispute: Malaysia accuses China of breaching airspace - BBC News",
+            "description": "Fighters jets were scrambled when the Chinese military planes were detected over disputed waters.",
+            "url": "https://www.bbc.com/news/world-asia-57328868",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1731/production/_118773950_gettyimages-619832708.jpg",
+            "publishedAt": "2021-06-02T09:08:10Z",
+            "content": "image copyrightGetty Images\r\nimage captionMalaysia said the Chinese aircraft included the Xian Y-20 strategic transport plane\r\nMalaysia says it is to summon China's ambassador after 16 Chinese milita… [+3217 chars]"
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": null,
+                "name": "New York Times"
             },
-            "author": "Cristina Marcos",
-            "title": "Pelosi floats Democrat-led investigation of Jan. 6 as commission alternative | TheHill - The Hill",
-            "description": "Speaker Nancy Pelosi (D-Calif.) on Tuesday outlined multiple possibilities for a House Democratic...",
-            "url": "https://thehill.com/homenews/house/556394-pelosi-floats-democrat-led-investigation-of-jan-6-as-alternative-to-commission",
-            "urlToImage": "https://thehill.com/sites/default/files/article_images/pelosinancy_05202021_1.jpg",
-            "publishedAt": "2021-06-01T22:23:56Z",
-            "content": "Speaker Nancy PelosiNancy PelosiDemocrats aim to make Greene their foil ahead of midtermsBarbara Comstock: If Trump disappeared there wouldn't be many Republicans in the search partyHouse GOP fights … [+7232 chars]"
+            "author": "Vivian Wang",
+            "title": "China Reports a Human Case of Rare H10N3 Bird Flu - The New York Times",
+            "description": "The World Health Organization said that such an infection was “a vivid reminder that the threat of an influenza pandemic is persistent.”",
+            "url": "https://www.nytimes.com/2021/06/02/world/asia/h10n3-bird-flu.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/06/02/world/02virus-briefing-china-birdflu/02virus-briefing-china-birdflu-facebookJumbo.jpg",
+            "publishedAt": "2021-06-02T09:03:26Z",
+            "content": "Influenza viruses differ from coronaviruses, and the World Health Organization is working with the Chinese government to monitor the case, according to a statement from the W.H.O. division in Beijing… [+833 chars]"
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": null,
+                "name": "Gizmodo.com"
             },
-            "author": "Dartunorro Clark",
-            "title": "Biden names Harris to lead administration's effort to protect voting rights - NBC News",
-            "description": "President Joe Biden said Vice President Kamala Harris will lead efforts to combat restrictive voting laws passed or introduced by GOP-led states while commemorating the Tulsa, Oklahoma, massacre.",
-            "url": "https://www.nbcnews.com/politics/politics-news/biden-taps-harris-lead-administration-s-effort-protect-voting-rights-n1269273",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_22/3479453/210601-joe-biden-ew-528p.jpg",
-            "publishedAt": "2021-06-01T22:14:00Z",
-            "content": "President Joe Biden said Tuesday that Vice President Kamala Harris will lead the administration's push to protect voting rights as federal election reform legislation faces steep hurdles in the close… [+3554 chars]"
+            "author": "Matt Novak",
+            "title": "Russian Criminals Suspected in Cyber Attack on World's Largest Meat Processor - Gizmodo",
+            "description": "Russian criminals are likely behind the cyber attack on JBS Foods, the world’s largest beef and pork processor, according to the White House. The FBI has  been brought in to investigate and JBS promises the “vast majority” of its meat processing facilities in…",
+            "url": "https://gizmodo.com/russian-criminals-suspected-in-cyber-attack-on-worlds-l-1847013898",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a5b1c6d02f26b67eaa4f05d61e403e37.jpg",
+            "publishedAt": "2021-06-02T09:00:00Z",
+            "content": "Russian criminals are likely behind the cyber attack on JBS Foods, the worlds largest beef and pork processor, according to the White House. The FBI has been brought in to investigate and JBS promise… [+3612 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Marianne LeVine",
+            "title": "How Cory Booker is wielding newfound Senate power - POLITICO",
+            "description": "The New Jersey Democrat says another White House run isn't on his mind, as he's distinctively positioned to wield his power in the Senate.",
+            "url": "https://www.politico.com/news/2021/06/02/cory-booker-senate-491519",
+            "urlToImage": "https://static.politico.com/6b/df/cbf52b08454398abe6c5578ccd48/corybookerinterview-7.JPG",
+            "publishedAt": "2021-06-02T08:30:42Z",
+            "content": "And the effort's success will hinge in large part on Booker's relationship with Scott, the only Black Republican senator.\r\nSenate Judiciary Committee Chair Dick Durbin (D-Ill.), another police reform… [+2082 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "AMIR VAHDAT and JON GAMBRELL",
+            "title": "Iran's largest warship catches fire, sinks in Gulf of Oman - Yahoo News",
+            "description": "The largest warship in the Iranian navy caught fire and later sank Wednesday in the Gulf of Oman under unclear circumstances, semiofficial news agencies...",
+            "url": "https://news.yahoo.com/fire-strikes-largest-iranian-navy-052103271.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/o_GmKBUTrYqggN.bLO6CbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xNTEz/https://s.yimg.com/uu/api/res/1.2/YzKJCFXmcP1uCUTtA7aOAA--~B/aD0yMjcwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/f3c336c4e0d0ed5020890904d8e4c4d5",
+            "publishedAt": "2021-06-02T07:30:00Z",
+            "content": "TEHRAN, Iran (AP) The largest warship in the Iranian navy caught fire and later sank Wednesday in the Gulf of Oman under unclear circumstances, semiofficial news agencies reported.\r\nThe Fars and Tasn… [+3062 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "Jonathan Lemire",
-            "title": "Biden marks Tulsa Race Massacre in emotional, graphic speech - The Associated Press",
-            "description": "TULSA, Okla. (AP) — An emotional President Joe Biden marked the 100th anniversary of the massacre that destroyed a thriving Black community in Tulsa, declaring Tuesday that he had “come to fill the silence” about one of the nation’s darkest — and long suppres…",
-            "url": "https://apnews.com/6c24f5e351ceceddff2292178d146ef9",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/fd8346f3f3b640179bb9a31dea531bff/3000.jpeg",
-            "publishedAt": "2021-06-01T22:07:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "polygon",
-                "name": "Polygon"
-            },
-            "author": "Cass Marshall",
-            "title": "Who is Samantha Samsung, the currently popular online character? - Polygon",
-            "description": "Who is Samantha Samsung? She’s a piece of marketing material created by Lightfarm, and the internet has just discovered her. Samantha is blowing up on TikTok, Twitter, and some NSFW communities.",
-            "url": "https://www.polygon.com/22463342/samantha-samsung-explainer-memes-online-rule-34-origin-ai-myth",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/uPvSZURZ6-T4rcJ9BU3VT_z6Hxs=/0x129:1800x1071/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22553189/anassner_210601_ecl1105_SamsungCharacter.jpg",
-            "publishedAt": "2021-06-01T22:00:00Z",
-            "content": "Samsung is in the news for an unexpected reason everyone wants to smooch a new mascot character that was created for the brand. A design firm named Lightfarm created these images with a marketing com… [+1585 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Clatsop.or.us"
-            },
-            "author": null,
-            "title": "County moves to 'Lower Risk' COVID-19 category - Clatsop County",
-            "description": null,
-            "url": "https://www.co.clatsop.or.us/publichealth/page/county-moves-lower-risk-covid-19-category",
-            "urlToImage": null,
-            "publishedAt": "2021-06-01T21:57:54Z",
-            "content": "POSTED: June 1, 2021\r\nClatsop County will move to the Lower Risk category of state-mandated COVID-19 business and social guidelines beginning Friday, June 4, based on the local rate of new infections… [+730 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Patrick Kingsley, Isabel Kershner, Adam Rasgon",
-            "title": "As Israelis Await Netanyahu’s Fate, Palestinians Seize a Moment of Unity - The New York Times",
-            "description": "Seeing little hope for major change from a new Israeli government, Palestinians are focused on an internal generational shift toward a campaign for rights and justice.",
-            "url": "https://www.nytimes.com/2021/06/01/world/middleeast/palestinians-netanyahu-government.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/05/29/world/29israel-palestinians5/29israel-palestinians5-facebookJumbo.jpg",
-            "publishedAt": "2021-06-01T21:46:32Z",
-            "content": "Among younger Palestinians, the discourse has changed from discussion of possible borders of a putative Palestinian ministate bordering Israel, which few now believe will come about, to a broad and l… [+1946 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Alexandra Villarreal",
-            "title": "Texas governor threatens to defund state legislature after Democrats block voting bill - The Guardian",
-            "description": "Greg Abbott excoriated for bizarre threat after Democrats thwart 11th-hour attempt to pass bill that would have made voting harder",
-            "url": "https://amp.theguardian.com/us-news/2021/jun/01/texas-governor-greg-abbott-restrictive-voting-bill",
-            "urlToImage": null,
-            "publishedAt": "2021-06-01T21:46:00Z",
-            "content": "TexasGreg Abbott excoriated for bizarre threat after Democrats thwart 11th-hour attempt to pass bill that would have made voting harder\r\nVoting rights advocates on Tuesday excoriated Texas governor G… [+3703 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Matthew Futterman",
-            "title": "Why the Grand Slam Tournaments Risked Playing Hardball With Naomi Osaka - The New York Times",
-            "description": "Leaders in the game noted that Osaka’s decision to bypass news conferences came as major media organizations had been cutting back on tennis coverage for years, a troubling dynamic for a sport that battles for exposure.",
-            "url": "https://www.nytimes.com/2021/06/01/sports/tennis/naomi-osaka-french-open-media.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/06/02/sports/02tennis-media/02tennis-media-facebookJumbo.jpg",
-            "publishedAt": "2021-06-01T21:33:23Z",
-            "content": "The pandemic has only accelerated the cycle. A spokesman for the French Open said the tournament had received just 500 requests for writers press credentials this year, compared with roughly 800 in 2… [+2069 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Rebecca Rubin",
-            "title": "5 Lingering Questions After ‘A Quiet Place 2’ Dominates the Box Office - Variety",
-            "description": "After a punishing 14 months for the movie theater business, some sense of normalcy was restored last weekend with the release of director John Krasinski’s “A Quiet Place Part II.” The Paramount Pictures film opened ahead of Memorial Day with $48 million at th…",
-            "url": "https://variety.com/2021/film/news/a-quiet-place-2-box-office-questions-1234985560/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2021/05/A-Quiet-Place-Cinematography.jpg?w=1000",
-            "publishedAt": "2021-06-01T21:20:00Z",
-            "content": "After a punishing 14 months for the movie theater business, some sense of normalcy was restored last weekend with the release of director John Krasinski’s “A Quiet Place Part II.”\r\nThe Paramount Pict… [+5697 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Coral Davenport, Henry Fountain, Lisa Friedman",
-            "title": "Biden Suspends Drilling Leases in Arctic National Wildlife Refuge - The New York Times",
-            "description": "The decision effectively blocks oil and gas drilling in one of the largest tracts of undeveloped wilderness in the United States.",
-            "url": "https://www.nytimes.com/2021/06/01/climate/biden-drilling-arctic-national-wildlife-refuge.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/06/01/climate/01CLI-ARCTIC/01CLI-ARCTIC-facebookJumbo.jpg",
-            "publishedAt": "2021-06-01T21:17:17Z",
-            "content": "There had been little interest in the leases, at least publicly, from major oil companies, given the high cost of producing oil in the Arctic, the growing desire to reduce fossil fuel use, and the re… [+2044 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "'It's going to define LeBron James' season' - Brain Windhorst on Lakers Game 5 pressure | The Jump - ESPN",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZjFybDJWb2JIWlHSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-06-01T21:15:01Z",
+            "author": "Jim Litke",
+            "title": "Osaka steps out of French Open and onto sport's third rail - Associated Press",
+            "description": "Most athletes are comfortable talking about injuries, so long as they can point to a bruise, a bandage, a cast or a spot on an X-ray. Some will even venture an educated guess at how long they might take to heal.",
+            "url": "https://apnews.com/article/science-french-open-health-tennis-sports-83c847601ea2a988f3c097511209ad30",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e184ae5a0c9a4d658ea028e00475e8a5/3000.jpeg",
+            "publishedAt": "2021-06-02T07:13:08Z",
             "content": null
         },
         {
@@ -216,51 +112,155 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Joel Embiid injury update: 76ers star doubtful for Game 5 vs. Wizards with right knee soreness, per report - CBS Sports",
-            "description": "Embiid played 11 minutes in Game 4 before exiting with an injury",
-            "url": "https://www.cbssports.com/nba/news/joel-embiid-injury-update-76ers-star-doubtful-for-game-5-vs-wizards-with-right-knee-soreness-per-report/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/06/01/f0a51e22-a9b3-4277-9661-9b8fefe3d7f3/thumbnail/1200x675/7669f1fbc6b26364671e0106fe16297f/joel-embiid.jpg",
-            "publishedAt": "2021-06-01T21:10:00Z",
-            "content": "The Philadelphia 76ers were unable to complete a first-round sweep over the Washington Wizards in Game 4 on Monday night. They also lost more than the game. All-Star center Joel Embiid left late in t… [+1415 chars]"
+            "title": "Blazers waste Damian Lillard's record-breaking night, and it's a microcosm of a larger failure - CBS Sports",
+            "description": "You don't have to win a title to be great, but if you're great you at least deserve a legitimate shot",
+            "url": "https://www.cbssports.com/nba/news/blazers-waste-damian-lillards-record-breaking-night-and-its-a-microcosm-of-a-larger-failure/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/06/02/8aab648c-56b7-495a-a4bb-118e52dc47a2/thumbnail/1200x675/450ee717806936f0c0449af3798759cd/usatsi-16191874-rivers-lillard-2021-wcq-g5-4q-1400.jpg",
+            "publishedAt": "2021-06-02T07:07:00Z",
+            "content": "I might be caught up in what I just saw, but as of this very moment, I'm declaring the Tuesday night Game 5 battle between the Nuggets and Trail Blazers the craziest NBA basketball game I've ever see… [+6559 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "PEOPLE"
+                "name": "ESPN"
             },
-            "author": "Julie Mazziotta",
-            "title": "More Americans Searched for Vaccine Appointments After CDC Announced New Mask Guidelines - Yahoo Entertainment",
-            "description": "The hope that the new mask guidelines would incentivize people to get vaccinated against COVID-19 appeared to come true, according to data from Vaccines.gov",
-            "url": "https://people.com/health/interest-in-vaccines-spiked-after-the-cdc-announced-that-vaccinated-people-could-go-without-masks/",
-            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B900%2C506%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F05%2F25%2Fmoderna-2.jpg",
-            "publishedAt": "2021-06-01T21:05:55Z",
-            "content": "Interest in the COVID-19 vaccines spiked after the Centers for Disease Control announced that vaccinated people could now go without masks in most indoor and outdoor settings, according to data gathe… [+2716 chars]"
+            "author": "Dave McMenamin",
+            "title": "Los Angeles Lakers blown out by Phoenix Suns in Game 5, one loss from elimination - ESPN",
+            "description": "With Anthony Davis sidelined, the Lakers fell behind by 30 at the half and lost 115-85 to the Suns on Tuesday night to fall behind 3-2 in their first-round series.",
+            "url": "https://www.espn.com/nba/story/_/id/31550566/los-angeles-lakers-blown-suns-game-5-one-loss-elimination",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0602%2Fr861957_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-06-02T05:32:39Z",
+            "content": "PHOENIX -- The Los Angeles Lakers' repeat title hopes are on life support after Tuesday's 115-85 shellacking by the Phoenix Suns in Game 5 of their Western Conference first-round series, putting L.A.… [+5751 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "Body believed to be that of missing Houston boy, 6, found at East Texas motel - NBC News",
+            "description": "A body that is believed to be that of missing 6-year-old Samuel Olson was found in a Jasper, Texas, motel room Tuesday, Houston police said.",
+            "url": "https://www.nbcnews.com/news/us-news/body-believed-be-missing-houston-boy-6-found-east-texas-n1269291",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_01/2705191/nbc-social-default-2705191.png",
+            "publishedAt": "2021-06-02T05:05:00Z",
+            "content": "A body believed to be that of a missing 6-year-old Houston boy was found Tuesday in a motel room more than 100 miles away in East Texas, Houston's police chief said.\r\nSamuel Olson was reported missin… [+901 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/valentina-palladino",
+            "title": "Amazon Prime Day kicks off on June 21st this year - Engadget",
+            "description": "Amazon Prime Day 2021 is June 21 and 22.",
+            "url": "https://www.engadget.com/amazon-prime-day-2021-announcement-when-is-amazon-prime-day-050206170.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-09/c4f5b210-edf8-11ea-bfdf-78df2c9073b2",
+            "publishedAt": "2021-06-02T05:04:05Z",
+            "content": "Amazon has officially announced the dates for Prime Day 2021: the event will begin on 12AM PT on Monday, June 21 and conclude at 11:59PM PT on Tuesday, June 22. Like last year, Prime Day will be a 48… [+1810 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Lifehacker.com"
+                "name": "NPR"
             },
-            "author": "Sam Blum",
-            "title": "Should You Be Worried About the 'Potentially Hazardous' Asteroid Passing by Earth Today? - Lifehacker",
-            "description": "Today, even as you struggle to focus on work after the extended weekend you hopefully enjoyed, a giant space rock is screaming through space within a “potentially hazardous” distance of Earth. The chances of a resultant armageddon are (and always have been) e…",
-            "url": "https://lifehacker.com/should-you-be-worried-about-the-potentially-hazardous-a-1847008963",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ba3cb2d5243e567372af8b8b4b0df8e7.jpg",
-            "publishedAt": "2021-06-01T20:59:00Z",
-            "content": "Today, even as you struggle to focus on work after the extended weekend you hopefully enjoyed, a giant space rock is screaming through space within a potentially hazardous distance of Earth. The chan… [+3077 chars]"
+            "author": "Jaclyn Diaz",
+            "title": "A COVID-19 Vaccine Could Get West Virginians Cash, Guns Or Trips - NPR",
+            "description": "Several states, including Ohio, California, Colorado and Maryland, have created vaccination incentive programs to get more teens and adults fully immunized from the coronavirus.",
+            "url": "https://www.npr.org/2021/06/02/1002345101/guns-trucks-and-trips-west-virginia-expands-prizes-for-vaccinated-residents",
+            "urlToImage": "https://media.npr.org/assets/img/2021/06/02/ap21016560640278_wide-82fc31f53461559253271932b6c20b5d5ad8aa2e.jpg?s=1400",
+            "publishedAt": "2021-06-02T04:50:00Z",
+            "content": "West Virginians who get vaccinated from the coronavirus could get more than stickers. On Tuesday, Gov. Jim Justice announced a lottery incentive program to get more residents immunized from the coron… [+2254 chars]"
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": null,
+                "name": "Daily Beast"
             },
-            "author": "Joseph Guzman",
-            "title": "Space junk crashes into the International Space Station, causes damage | TheHill - The Hill",
-            "description": "An object punched a small hole in a robotic arm attached to the ISS.",
-            "url": "https://thehill.com/changing-america/resilience/smart-cities/556368-space-junk-crashed-into-the-international-space",
-            "urlToImage": "https://thehill.com/sites/default/files/ca_issdamage_060121.jpg",
-            "publishedAt": "2021-06-01T20:40:06Z",
-            "content": "The International Space Station (ISS) has suffered some damage after it was hit with a small piece of space junk, according to NASA and the Canadian Space Agency (CSA). \r\nA small section of a 60-foot… [+1682 chars]"
+            "author": "William Vaillancourt",
+            "title": "Kimmel Drags 'Insane' Trump for Thinking He'll Be Reinstated as President - Daily Beast",
+            "description": "The late-night host also mocked former National Security Adviser Michael Flynn for endorsing a military-style coup in the U.S. at a QAnon conference.",
+            "url": "https://www.thedailybeast.com/jimmy-kimmel-drags-insane-trump-for-thinking-hell-be-reinstated-as-president",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1622608047/158856_0486_rysupg",
+            "publishedAt": "2021-06-02T04:28:09Z",
+            "content": "Jimmy Kimmel on Tuesday mocked both ex-President Donald Trump for believing a false theory that he will once again become commander-in-chief in August, as well as Trumps disgraced former national sec… [+1381 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Alexandra Jaffe",
+            "title": "Biden prioritizes US voting rights law as restrictions mount - The Associated Press",
+            "description": "WASHINGTON (AP) — President Joe Biden used the 100th anniversary of Tulsa's race massacre  to make a plea for sweeping legislation in Congress to protect the right to vote as Republican-led governments in Texas and other states pass new restrictions making it…",
+            "url": "https://apnews.com/article/voting-rights-voting-government-and-politics-48c29c71f4b86983cac0f7ef57bc5359",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/fd8346f3f3b640179bb9a31dea531bff/3000.jpeg",
+            "publishedAt": "2021-06-02T04:07:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Democrat Melanie Stansbury wins US House race in New Mexico - Fox News",
+            "description": "Democrat Melanie Stansbury won election to Congress for New Mexico on Tuesday with a campaign closely tied to initiatives of the Biden administration.",
+            "url": "https://www.foxnews.com/politics/democrat-melanie-stansbury-wins-us-house-race-in-new-mexico",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/AP21148032342526.jpg",
+            "publishedAt": "2021-06-02T03:59:56Z",
+            "content": "ALBUQUERQUE, N.M. -- Democrat Melanie Stansbury won election to Congress for New Mexico on Tuesday with a campaign closely tied to initiatives of the Biden administration.\r\nStansbury prevailed in an … [+3838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Samuel Chamberlain",
+            "title": "Fauci denied being 'muzzled' by Trump early in pandemic, emails show - New York Post ",
+            "description": "As COVID-19 started becoming a threat last year, Dr. Anthony Fauci started receiving emails from people asking if he was being censored by the Trump administration. He denied the assertions.",
+            "url": "https://nypost.com/2021/06/01/fauci-denied-being-muzzled-by-trump-early-in-pandemic-emails-show/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/06/fauci-trump-033.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2021-06-02T03:41:00Z",
+            "content": "White House chief medical adviser Dr. Anthony Fauci had little patience for claims his messages in the early days of the COVID-19 pandemic were being restricted by the Trump administration, a tranche… [+5891 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Australia's Victoria state extends COVID-19 lockdown in Melbourne - Reuters",
+            "description": "Australia's Victoria state on Wednesday extended a COVID-19 lockdown in state capital Melbourne for another week in a bid to contain the latest virus outbreak, but eased restrictions in other regions.",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/australias-victoria-state-extends-covid-19-lockdown-melbourne-2021-06-02/",
+            "urlToImage": "https://www.reuters.com/resizer/jNxbGJ7Aww3glhzJ5EY2FAbD5Mw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M7GOADEAMRPQ3DDHRZHX4KBYLU.jpg",
+            "publishedAt": "2021-06-02T03:41:00Z",
+            "content": "A woman walks past a \"Stay Safe Melbourne\" sign on a mostly-empty city centre street on the first day of a seven-day lockdown as the state of Victoria looks to curb the spread of a coronavirus diseas… [+672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Revolutionary Self-Aware Materials Build the Foundation for Living Structures - SciTechDaily",
+            "description": "New research in Nano Energy introduces revolutionary scalable material that senses and powers itself. From the biggest bridges to the smallest medical implants, sensors are everywhere, and for good reason: The ability to sense and monitor changes before they …",
+            "url": "https://scitechdaily.com/revolutionary-self-aware-materials-build-the-foundation-for-living-structures/",
+            "urlToImage": "https://scitechdaily.com/images/Self-Aware-Metamaterial-System.jpg",
+            "publishedAt": "2021-06-02T03:33:27Z",
+            "content": "An illustration of the novel self-aware metamaterial system as used in a coronary artery stent. The design can sense restenosis when used in a stent, and the same design can be used at a large scale … [+5886 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Joe Tacopino, Kenneth Garger",
+            "title": "Matthew Perry and Molly Hurwitz break off engagement - Page Six",
+            "description": "“Friends” star Matthew Perry, 51, and Molly Hurwitz got engaged in November 2020. At the time, he called the 29-year-old literary manager the “greatest woman on the face of the pl…",
+            "url": "https://pagesix.com/2021/06/01/matthew-perry-and-molly-hurwitz-break-off-engagement/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2021/06/matthew-perry-molly-hurwitz-063.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2021-06-02T03:27:00Z",
+            "content": "Maybe they just want to be “Friends.” \r\nMatthew Perry suddenly split with his fiancée Molly Hurwitz, a report said Tuesday night.\r\nThe star of recently recycled ’90s sitcom “Friends” told PEOPLE that… [+1061 chars]"
         }
     ]
 }
