@@ -4,172 +4,68 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Clare Duffy and Alan Goodman, CNN Business",
-            "title": "John McAfee found dead in Spanish prison after his extradition to the US was approved - CNN ",
-            "description": "John McAfee, the controversial antivirus software magnate who'd had multiple recent run-ins with the US law, has died at 75. McAfee was awaiting extradition in a Spanish prison after being charged with tax evasion in the United States last year.",
-            "url": "https://www.cnn.com/2021/06/23/tech/john-mcafee-death/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210623153627-john-mcafee-file-restricted-super-tease.jpg",
-            "publishedAt": "2021-06-23T22:29:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Felicia Sonmez, Eugene Scott, Colby Itkowitz",
-            "title": "Live updates: Biden outlines steps on gun-crime prevention as he warns of spike in summer - The Washington Post",
-            "description": "Among other measures, the Biden administration intends to revoke the licenses of gun sellers who neglect to run required background checks.",
-            "url": "https://www.washingtonpost.com/politics/2021/06/23/joe-biden-live-updates/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/URLCUQGTREI6XM47AWRNO5VR6Q.jpg&w=1440",
-            "publishedAt": "2021-06-23T21:52:00Z",
-            "content": "Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff, gave a fiery response to criticism from Rep. Matt Gaetz (R-Fla.) of the military's handling of race. (The Washington Post)\r\nArmy Gen. Mark … [+1639 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Josh Gerstein",
-            "title": "No jail time for first Capitol Riot defendant sentenced - POLITICO",
-            "description": "Anna Morgan-Lloyd gets 3 years probation for entering the Capitol illegally on Jan. 6.",
-            "url": "https://www.politico.com/news/2021/06/23/capitol-riot-participant-sentenced-495714",
-            "urlToImage": "https://static.politico.com/52/5e/1673b4834450b2bfeac8a7062dde/210427-capitolriot-getty-773.jpg",
-            "publishedAt": "2021-06-23T21:44:14Z",
-            "content": "Morgan-Lloyd faced a maximum possible sentence of six months in prison, but prosecutors did not seek jail time for Morgan-Lloyd. They said she'd cooperated with law enforcement. As part of a plea dea… [+967 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Theodoric Meyer, Maggie Severns, Meridith McGraw",
-            "title": "'The Tea Party to the 10th power': Trumpworld bets big on critical race theory - POLITICO",
-            "description": "Republicans aren’t coy about what they are trying to do. It’s not just about changing curricula. It’s about taking back Congress.",
-            "url": "https://www.politico.com/news/2021/06/23/trumpworld-critical-race-theory-495712",
-            "urlToImage": "https://static.politico.com/03/7f/8dc84d2041c8965276c64df9bbc0/ap21163556240526-1.jpg",
-            "publishedAt": "2021-06-23T21:18:03Z",
-            "content": "This is the Tea Party to the 10th power, Steve Bannon, Trumps former adviser who has zeroed in on local school board fights over critical race theory, said in an interview. This isnt Q, this is mains… [+5067 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Morgan Chalfant",
-            "title": "Biden nominates Cindy McCain as ambassador to UN food agency | TheHill - The Hill",
-            "description": "President Biden will nominate Cindy McCain, the wife of the late Sen. John McCain (R-Ariz.), as U...",
-            "url": "https://thehill.com/homenews/administration/559935-biden-nominates-cindy-mccain-as-ambassador-to-un-food-agency",
-            "urlToImage": "https://thehill.com/sites/default/files/cindymccain3_082918getty.jpg",
-            "publishedAt": "2021-06-23T21:12:47Z",
-            "content": "President BidenJoe BidenBaltimore police chief calls for more 'boots on the ground' to handle crime waveBiden to deliver remarks at Sen. John Warner's funeral Garland dismisses broad review of politi… [+3420 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Clippers' DeMarcus Cousins assessed technical foul for shoving Suns' Devin Booker, Cameron Payne after Game 2 - CBSSports.com",
-            "description": "Cousins was not in the best of moods following the Suns' game-winning dunk",
-            "url": "https://www.cbssports.com/nba/news/clippers-demarcus-cousins-gets-technical-foul-for-shoving-suns-devin-booker-cameron-payne-at-end-of-game-2/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/06/23/9cc055ec-f47d-4fba-82b0-01f53823fb99/thumbnail/1200x675/c3a4cb8797434d21842d455648094f42/cousins.jpg",
-            "publishedAt": "2021-06-23T21:10:42Z",
-            "content": "Tensions ran a little high after the Phoenix Suns beat the Los Angeles Clippers in Game 2 following an out-of-bounds alley-oop pass from Jae Crowder to DeAndre Ayton to secure the 104-103 win. When b… [+981 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "POLITICO.eu"
-            },
-            "author": "Laura Kayali",
-            "title": "Apple legal worries grow as long-dormant French case moves ahead - POLITICO Europe",
-            "description": "A group of French startups joins a case that could change the way the tech giant runs its App Store.",
-            "url": "http://www.politico.eu/article/france-legal-action-case-apple-app-store-developers/",
-            "urlToImage": "https://www.politico.eu/wp-content/uploads/2021/06/23/GettyImages-1154806934-1200x628.jpg",
-            "publishedAt": "2021-06-23T21:04:57Z",
-            "content": "PARIS  A French case against Apple that's been gathering dust for years could soon add to the tech giant's headaches. \r\nThe legalaction, which focuses on the U.S. tech giants contracts with French ap… [+7235 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "NPR"
             },
-            "author": "Joe Hernandez",
-            "title": "NASA Probes Computer Outage On Hubble Space Telescope - NPR",
-            "description": "\"It's just the inefficiency of trying to fix something which is orbiting 400 miles over your head instead of in your laboratory,\" said Paul Hertz, the director of astrophysics for NASA.",
-            "url": "https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco",
-            "urlToImage": "https://media.npr.org/assets/img/2021/06/23/gettyimages-87432557_wide-df0cdb2e82573cf579f01186f31518e42caeca59.jpg?s=1400",
-            "publishedAt": "2021-06-23T20:48:56Z",
-            "content": "In this handout from NASA, the Hubble Space Telescope is grappled to Space Shuttle Atlantis STS-125 by the shuttle's Canadian-built remote manipulator system May 13, 2009 in Space.\r\nNASA/Getty Images… [+3162 chars]"
+            "author": "",
+            "title": "The Great Resignation: Why Millions of Workers Are Quitting Their Jobs - NPR",
+            "description": "People are leaving their jobs in search of more money, more flexibility and more happiness. A record 4 million workers quit just in April.",
+            "url": "https://www.npr.org/2021/06/24/1007914455/as-the-pandemic-recedes-millions-of-workers-are-saying-i-quit",
+            "urlToImage": "https://media.npr.org/assets/img/2021/06/17/caballero1_wide-f2f5c9d48b6dec3360a1dee0c28420b25b35b38c.jpg?s=1400",
+            "publishedAt": "2021-06-24T10:01:24Z",
+            "content": "Jonathan Caballero is among the millions of workers who are rethinking how how they want to live their lives after the pandemic. He has found a new job that won't require a long commute.\r\nAndrea Hsu/… [+6225 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Listen to Spotify on this nostalgic iPod-style web music player - The Verge",
+            "description": "A new project from frontend software developer Tanner Villarete has attempted to emulate the iPod’s controls as a web app, complete with support for your Spotify and Apple Music library.",
+            "url": "https://www.theverge.com/2021/6/24/22548356/ipod-web-player-spotify-apple-music",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/LlQcVtcNR66uVqAGRbIYZm9QJnc=/0x94:1301x775/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22678582/msedge_a3fZpfyz0z.png",
+            "publishedAt": "2021-06-24T08:34:24Z",
+            "content": "It can also sync with Apple Music\r\nA classic iPod interface for your Spotify or Apple Music library.\r\nScreenshot: tannerv.com/ipod\r\nIn an era before multitouch displays, the iPods click wheel was the… [+1730 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Sarah Bahr",
-            "title": "Drake Bell Pleads Guilty to Attempted Child Endangerment - The New York Times",
-            "description": "Mr. Bell, a former star of the Nickelodeon series “Drake & Josh,” faces up to two years in prison.",
-            "url": "https://www.nytimes.com/2021/06/23/arts/television/drake-bell-child-endangerment-plea.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/06/23/arts/23drake-bell/23drake-bell-facebookJumbo.jpg",
-            "publishedAt": "2021-06-23T20:48:50Z",
-            "content": "According to prosecutors, the charges stem from an incident at a concert in Cleveland on Dec. 1, 2017. Mr. Bell, who is also known as Drake Campana, had posted a tweet saying that he had a show sched… [+833 chars]"
+            "author": "Ian Austen",
+            "title": "In Canada, Another ‘Horrific’ Discovery of Indigenous Children’s Remains - The New York Times",
+            "description": "An Indigenous group said the remains of hundreds of children had been found in unmarked graves on the site of a former boarding school in Saskatchewan.",
+            "url": "https://www.nytimes.com/2021/06/24/world/canada/unmarked-graves-residential-schools-saskatchewan.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/06/24/multimedia/24canada-graves--sub/24canada-graves--sub-facebookJumbo.jpg",
+            "publishedAt": "2021-06-24T07:43:10Z",
+            "content": "When the commission attempted to look into the question of missing Indigenous children, the Conservative government at the time turned down its request for money to finance searches. Now, several fed… [+2101 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "kentuckysportsradio.com"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "Updated Mock Drafts including Isaiah Jackson and BJ Boston released after NBA Lottery - kentuckysportsradio.com",
-            "description": "A handful of different outlets updated its 2021 NBA Mock Draft predictions.",
-            "url": "https://kentuckysportsradio.com/basketball-2/updated-mock-drafts-including-isaiah-jackson-and-b-j-boston-released-after-nba-lottery/",
-            "urlToImage": "https://kentuckysportsradio.com/wp-content/uploads/2021/01/BF3I1356.jpg",
-            "publishedAt": "2021-06-23T20:30:00Z",
-            "content": "Skip to content\r\nWith the 2021 NBA Draft Lottery over with, we have our order for the first 14 picks for next month’s draft.\r\nThe 2021 NBA Draft is scheduled for July 29th, so there’s still plenty of… [+2223 chars]"
+            "author": "Aya Elamroussi, CNN",
+            "title": "Blink-182 singer and bassist Mark Hoppus reveals he's undergoing cancer treatment - CNN ",
+            "description": "Blink-182 singer and bassist Mark Hoppus is undergoing chemotherapy for cancer, he said Wednesday on his social media accounts.",
+            "url": "https://www.cnn.com/2021/06/24/celebrities/mark-hoppus-cancer-diagnosis/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210624014509-01-mark-hoppus-file-2020-super-tease.jpg",
+            "publishedAt": "2021-06-24T07:43:00Z",
+            "content": "I too, have been aware of @markhoppus's cancer diagnosis for awhile now. And to add to his own words that he used today, I would also like to say that he is strong, and a super-human who is pushing t… [+111 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Jon Ward",
-            "title": "Former police officer Eric Adams close to winning NYC mayoral race as ranked-choice votes are tallied - Yahoo News",
-            "description": "Though the result of the New York City mayoral primary will not be known for a week or two, Brooklyn Borough President Eric Adams is in the lead. The rise of...",
-            "url": "https://news.yahoo.com/former-police-officer-eric-adams-close-to-winning-nyc-mayoral-race-as-ranked-choice-votes-tallied-202909266.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/ff1e07d0-d45c-11eb-bd97-6736126d9151",
-            "publishedAt": "2021-06-23T20:29:09Z",
-            "content": "The result of the New York City mayoral primary will not be known for another week or two, but as expected, Brooklyn Borough President Eric Adams is currently in the lead.\r\nAdams, a former NYPD capta… [+5092 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Julius Young",
-            "title": "Jennifer Aniston says 'there’s no oddness' with ex-husband Brad Pitt: We’re 'buddies' - Fox News",
-            "description": "Jennifer Aniston and Brad Pitt were married for nearly five years before their split in 2005.",
-            "url": "https://www.foxnews.com/entertainment/jennifer-aniston-ex-husband-brad-pitt-buddies",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/aniston-pitt-Getty-imagesd.jpg",
-            "publishedAt": "2021-06-23T20:27:47Z",
-            "content": "Jennifer Aniston and Brad Pitt have sent the internet into multiple frenzies over the past two years with moments of interaction that many pointed to a potential rekindling of their romance. The pair… [+2583 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Julia Musto",
-            "title": "The Strawberry Moon: How, when to watch it - Fox News",
-            "description": "Stargazers around the world will be able to enjoy the glow of the Strawberry Moon on Thursday night.",
-            "url": "https://www.foxnews.com/science/the-strawberry-moon-how-when-to-watch",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Strawberry-Moon-CROP.jpg",
-            "publishedAt": "2021-06-23T20:22:39Z",
-            "content": "Stargazers around the world will be able to enjoy the glow of the Strawberry Moon on Thursday night.\r\nAccording to NASA, the \"marginal supermoon\" will appear opposite the sun in Earth-based longitude… [+2884 chars]"
+            "author": "Emilee Lindner",
+            "title": "Britney Spears testifies that conservators kept her from having a baby: ‘I have an IUD in my body’ - The Independent",
+            "description": "‘We got made fun of a lot in the early days, but we kept pushing forward because we knew in our hearts we were right’",
+            "url": "https://www.independent.co.uk/arts-entertainment/music/news/free-britney-spears-conservatorship-court-b1871785.html",
+            "urlToImage": "https://static.independent.co.uk/2021/06/24/05/GettyImages-498220464.jpeg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-06-24T07:38:54Z",
+            "content": "Growing up, Leanne Simmons always thought shed go into the newspaper business, but eventually, her life led her to TV production. However, with the pandemic pushing her and many others to work from h… [+12273 chars]"
         },
         {
             "source": {
@@ -177,90 +73,194 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Fannie and Freddie Shares Plunge on Supreme Court Ruling - Bloomberg Markets and Finance",
+            "title": "Emma Corrin on Playing Princess Diana on The Crown & William and Kate's Wedding - Jimmy Kimmel Live",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TXl2dFM4N1pyYnfSAQA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9X3pfZ2ZEUVVRalHSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-06-23T20:00:32Z",
+            "publishedAt": "2021-06-24T07:17:42Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "WPLG Local 10"
             },
-            "author": "Andrew Limbong",
-            "title": "Britney Spears Speaks Her Mind At Last In Conservatorship Hearing - NPR",
-            "description": "Addressing a judge in a Los Angeles courtroom personally for the first time, the pop star is set to make her most public statements about her long-running conservatorship.",
-            "url": "https://www.npr.org/2021/06/23/1009416566/britney-spears-speaks-her-mind-at-last-in-conservatorship-hearing",
-            "urlToImage": "https://media.npr.org/assets/img/2021/06/23/gettyimages-610212238_wide-4e4f956353a282146989945fe434436237fc950b.jpg?s=1400",
-            "publishedAt": "2021-06-23T20:00:23Z",
-            "content": "Britney Spears performing on stage in Las Vegas in 2016.\r\nChristopher Polk/Getty Images\r\nBritney Spears is set to appear before a Los Angeles Superior Court judge this afternoon to make her most publ… [+2970 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": "Lauren Gardner",
-            "title": "FDA to add warning about rare heart inflammation to Moderna, Pfizer vaccine fact sheets - POLITICO",
-            "description": "A CDC safety panel has determined there is a \"likely association\" between the Pfizer and Moderna shots and cases of myocarditis and pericarditis in vaccine recipients.",
-            "url": "https://www.politico.com/news/2021/06/23/fda-warning-moderna-pfizer-495717",
-            "urlToImage": "https://static.politico.com/ac/2d/5cb2f76e400fa8e78fb96ae78883/pfizer-moderna-773-ap.jpg",
-            "publishedAt": "2021-06-23T19:39:41Z",
-            "content": "The CDC meeting follows an FDA advisory committee discussion earlier this month about cases of myocarditis and pericarditis seen in a small number of patients who received either of the two available… [+3851 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jessica Bursztynsky",
-            "title": "ViacomCBS, Roku shares close up on report that Comcast is considering a deal - CNBC",
-            "description": "Comcast chief Brian Roberts is exploring new options for the company's push into streaming, according to The Wall Street Journal.",
-            "url": "https://www.cnbc.com/2021/06/23/viacomcbs-roku-shares-jump-on-report-that-comcast-is-considering-deal.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106768224-1603972318788-gettyimages-1194043851-nup_189949_0288.jpeg?v=1624475085",
-            "publishedAt": "2021-06-23T19:12:35Z",
-            "content": "Comcast chief Brian Roberts is exploring new options for the company's push into streaming, raising the idea of a possible tie-up with ViacomCBS or acquisition of Roku, according to a Wednesday repor… [+1311 chars]"
+            "author": "Madeleine Wright, Saira Anwer, Lisa Hendry, Amanda Batchelor",
+            "title": "WATCH CONTINUING COVERAGE LIVE: At least 1 dead, numerous others trapped following partial building collapse in Surfside - WPLG Local 10",
+            "description": "Miami-Dade Fire Rescue crews are at the scene of a partial building collapse Thursday morning at the Champlain Towers building near 88th Street and Collins Avenue in Surfside.",
+            "url": "https://www.local10.com/news/local/2021/06/24/partial-building-collapse-in-surfside/",
+            "urlToImage": "https://www.local10.com/resizer/JNEu2eaOHw4mbsniLodqxutpmw8=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/d1vhqlrjc8h82r.cloudfront.net/06-24-2021/t_bc4f895c0a334936a0a551f7d0729ed5_name_At_least_1_dead_following_partial_building_collapse_in_Surfside_.jpg",
+            "publishedAt": "2021-06-24T07:17:18Z",
+            "content": "SURFSIDE, Fla. Miami-Dade Fire Rescue crews are at the scene of a partial building collapse Thursday morning at the Champlain Towers building near 88th Street and Collins Avenue in Surfside.\r\nMiami-D… [+2107 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "ESPN"
             },
-            "author": "Adrian Wojnarowski",
-            "title": "Boston Celtics finalizing coaching deal with Brooklyn Nets' Ime Udoka, sources say - ESPN",
-            "description": "The Celtics are finalizing an agreement to hire Nets assistant Ime Udoka as their new coach, sources told ESPN.",
-            "url": "https://www.espn.com/nba/story/_/id/31694434/boston-celtics-finalizing-coaching-deal-brooklyn-nets-ime-udoka-sources-say",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0623%2Fr871422_1296x729_16%2D9.jpg",
-            "publishedAt": "2021-06-23T18:55:40Z",
-            "content": "The Boston Celtics are finalizing an agreement with Brooklyn Nets assistant Ime Udoka to make him the franchise's new coach, sources told ESPN.\r\nA formal announcement is expected as soon as Wednesday… [+1009 chars]"
+            "author": "Tim Bontemps",
+            "title": "Trae Young scores game-high 48 points in style, leads Atlanta Hawks to Game 1 win - ESPN",
+            "description": "Trae Young scored a game-high 48 points and showed off a shimmy in Atlanta's 116-113 Game 1 win over Milwaukee.",
+            "url": "https://www.espn.com/nba/story/_/id/31698516/trae-young-scores-game-high-48-points-style-leads-atlanta-hawks-game-1-win",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0624%2Fr871600_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-06-24T06:19:52Z",
+            "content": "MILWAUKEE -- Trae Young shook free from Milwaukee Bucks guard Jrue Holiday, one of the NBA's best defenders, and found himself with acres of space between himself and Bucks forward Bobby Portis.\r\nAnd… [+5495 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Fox News Staff",
-            "title": "Chaffetz blasts MSNBC guest for comparing Senate election vote to 'apartheid': 'So shameful' - Fox News",
-            "description": "Fox News contributor Jason Chaffetz slammed left-wing pundits' inflammatory rhetoric on the Senate GOP blocking the election reform bill.",
-            "url": "https://www.foxnews.com/media/chaffetz-left-wing-pundits-inflammatory-rhetoric-election-bill",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Chaffetz-blasts-leftwing-pundits-inflammatory-rhetoric-on-election-bill-So-shameful.jpeg",
-            "publishedAt": "2021-06-23T18:16:51Z",
-            "content": "Reacting to an MSNBC guest comparing the election reform bill's defeat to \"apartheid,\" Fox News contributor Jason Chaffetz said on Wednesday that left-wing pundits' inflammatory rhetoric on Senate Re… [+1239 chars]"
+            "author": "John D. McKinnon",
+            "title": "Google, Facebook Pressure Falls Short as Antitrust Measures Advance in House Committee - The Wall Street Journal",
+            "description": "Tech companies to take the battle over the proposed new regulations and oversight to the House floor and Senate",
+            "url": "https://www.wsj.com/articles/google-facebook-pressure-falls-short-as-major-antitrust-measures-advance-in-house-committee-11624505607",
+            "urlToImage": "https://images.wsj.net/im-359128/social",
+            "publishedAt": "2021-06-24T06:10:00Z",
+            "content": "WASHINGTONA House committee approved far-reaching legislation to curb the market dominance of tech giants, including Alphabet Inc.s Google and Facebook Inc., but much of the effort faced intensive lo… [+1228 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "RACER"
+                "name": "NPR"
             },
-            "author": "Kelly Crandall",
-            "title": "Jeff Gordon to leave Fox Sports, returning to Hendrick - RACER",
-            "description": "It always seemed a matter of time before Jeff Gordon took on a more significant role with Hendrick Motorsports. That time now has a date. Hendrick Motorsports announced Wednesday that Gordon had be…",
-            "url": "https://racer.com/2021/06/23/jeff-gordon-to-leave-fox-sports-returning-to-hendrick/",
-            "urlToImage": "https://racer.com/wp-content/uploads/sites/85/2021/06/Gordon-Release-Web-v2.jpg?w=1000&h=576&crop=1",
-            "publishedAt": "2021-06-23T18:16:03Z",
-            "content": "It always seemed a matter of time before Jeff Gordon took on a more significant role with Hendrick Motorsports. That time now has a date.\r\nHendrick Motorsports announced Wednesday that Gordon had bee… [+3561 chars]"
+            "author": "Jaclyn Diaz",
+            "title": "Firefighting Monks Join Effort To Combat The Willow Fire In A Remote Area Of Big Sur - NPR",
+            "description": "The Willow Fire, as of June 23, was 2,877 acres large with just 13% of it contained. Emergency crews are watching for a return to hot and dry conditions at the end of the week.",
+            "url": "https://www.npr.org/2021/06/24/1009727828/firefighting-monks-join-effort-to-combat-the-willow-fire-in-a-remote-area-of-big",
+            "urlToImage": "https://media.npr.org/assets/img/2021/06/24/ap21172804250311_wide-fbe051a6758dc7a592fc2cccc7fff8e5d1696ac0.jpg?s=1400",
+            "publishedAt": "2021-06-24T06:08:21Z",
+            "content": "In this photo provided by the California Interagency Willow Fire Incident, smoke rises from the Willow Fire near Big Sur, Calif., on Sunday, June 20.\r\nCalifornia Interagency Willow Fire Incident/AP\r\n… [+3000 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Erin Gloria Ryan",
+            "title": "The 'Fuck Everything' Cheerleader Gets How the World Works. The Supreme Court Justices Do Not. - Daily Beast",
+            "description": "We are a country run largely by older people who do not use or understand the latest ways others use technology to speak, and those people make the tech and speech rules.",
+            "url": "https://www.thedailybeast.com/the-fuck-everything-cheerleader-gets-how-the-world-works-the-supreme-court-justices-do-not",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1624489363/210623-EGR_fuck-school-tease_w3to4r",
+            "publishedAt": "2021-06-24T06:03:24Z",
+            "content": "The Supreme Court has once again cleared the subterranean bar that most left-of-center Americans have for it, this time by ruling 8-1 on Wednesday that schools dont have a right to punish students fo… [+5987 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Story by Reuters",
+            "title": "Giant panda gives birth to twin cubs at Tokyo's Ueno Zoo - CNN ",
+            "description": "A month ahead of the Tokyo Summer Olympic Games, the city has another reason to celebrate -- giant panda Shin Shin has given birth to twin cubs at Ueno Zoo, the first panda birth there in four years.",
+            "url": "https://www.cnn.com/travel/article/panda-birth-twin-tokyo-ueno-zoo-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210623223429-01-ueno-zoo-panda-births-super-tease.jpg",
+            "publishedAt": "2021-06-24T04:17:21Z",
+            "content": "(Reuters) A month ahead of the Tokyo Summer Olympic Games, the city has another reason to celebrate -- giant panda Shin Shin has given birth to twin cubs at Ueno Zoo, the first panda birth there in f… [+1683 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jamiel Lynch and Christina Maxouris, CNN",
+            "title": "Here's how coronavirus spread inside a government office in Florida -- and how one official says it stopped - CNN ",
+            "description": "Officials in Manatee County, Florida, were able to identify the patient zero in a recent outbreak of the coronavirus that swept through a government building and left two employees dead and several hospitalized, all of whom were unvaccinated.",
+            "url": "https://www.cnn.com/2021/06/23/us/manatee-county-outbreak-spread/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210623220428-manatee-county-administration-building-super-tease.jpg",
+            "publishedAt": "2021-06-24T04:16:00Z",
+            "content": "(CNN)Officials in Manatee County, Florida, were able to identify the patient zero in a recent outbreak of the coronavirus that swept through a government building and left two employees dead and seve… [+3021 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Barbara Ortutay",
+            "title": "John McAfee, software pioneer turned fugitive, dead at 75 - The Associated Press",
+            "description": "John McAfee, the outlandish security software pioneer who tried to live life as a hedonistic outsider while running from a host of legal troubles, was found dead   in his jail cell near Barcelona on Wednesday.",
+            "url": "https://apnews.com/article/john-mcafee-europe-fugitives-software-science-fe748982c673aa33196d4368669f2074",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cef9d046a3ce487f9feaf41c95a3edcb/3000.jpeg",
+            "publishedAt": "2021-06-24T04:08:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Andy Bailey",
+            "title": "3 Biggest Questions for Team USA Men's Basketball Team After Roster Reveal - Bleacher Report",
+            "description": "Group play at the Tokyo Olympics is set to tip off on  July 25 , just three days after the  NBA  playoffs are scheduled to end...",
+            "url": "https://bleacherreport.com/articles/2945060-3-biggest-questions-for-team-usa-mens-basketball-team-after-roster-reveal",
+            "urlToImage": "https://img.bleacherreport.net/img/images/photos/003/914/678/hi-res-58549b1c09238b0cb3f54e6ec2869f9d_crop_exact.jpg?w=1200&h=1200&q=75",
+            "publishedAt": "2021-06-24T04:04:14Z",
+            "content": "Nathaniel S. Butler/Getty Images\r\nGroup play at the Tokyo Olympics is set to tip off on July 25, just three days after the NBA playoffs are scheduled to end. \r\nDespite the tight window, a number of p… [+5656 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "2021 NBA Mock Draft: Pistons take Cade Cunningham, Jalen Suggs to Rockets | CBS Sports HQ - CBS Sports HQ",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aUJQNy1NMGJvWnfSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-06-24T03:36:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Zen Soo",
+            "title": "Last Apple Daily newspaper edition sold out across Hong Kong - The Associated Press",
+            "description": "HONG KONG (AP) — Across Hong Kong, people lined up early Thursday to buy the last print edition of the last remaining pro-democracy newspaper.  By 8:30 a.m., Apple Daily's final edition of 1 million copies was sold out across most of the city's newsstands.",
+            "url": "https://apnews.com/article/hong-kong-europe-newspapers-business-97cf6aec4153c9201ae8cda679ff0e3d",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f879931ce4b8486db0f7a7b098e2facb/3000.jpeg",
+            "publishedAt": "2021-06-24T03:30:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": null,
+            "title": "Android 12 ‘Internet’ panel in Beta 2.1 doesn’t let you disconnect from Wi-Fi - 9to5Google",
+            "description": "A slight regression to the Internet panel in Android 12 Beta 2.1 means users are unable to quickly disconnect from Wi-Fi...",
+            "url": "https://9to5google.com/2021/06/23/android-12-internet-wi-fi-disconnect/",
+            "urlToImage": "https://i2.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/06/Android-12-Beta-2-Quick-settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-06-24T03:08:00Z",
+            "content": "Beta 2.1 of Android 12 rolled out this morning with a handful of much-needed bug fixes. However, there’s a slight regression to Android 12’s new Internet panel with users unable to quickly disconnect… [+1197 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Mychael Schnell",
+            "title": "California secretary of state confirms Newsom recall election | TheHill - The Hill",
+            "description": "California’s secretary of state ...",
+            "url": "https://thehill.com/homenews/state-watch/559994-california-secretary-of-state-confirms-newsom-recall-election",
+            "urlToImage": "https://thehill.com/sites/default/files/article_images/newsomgavin_05262021_1.jpg",
+            "publishedAt": "2021-06-24T02:15:36Z",
+            "content": "Californias secretary of state confirmed on Wednesday that the effort aimed at recalling Gov. Gavin NewsomGavin NewsomCalifornia secretary of state confirms Newsom recall electionNewsom overstated Ca… [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOIN.com"
+            },
+            "author": "John Lynch, Nexstar Media Wire",
+            "title": "Subway’s tuna sandwich has no tuna DNA, tests find - KOIN.com",
+            "description": "Tests recently done by a commercial lab have proved that no identifiable tuna DNA was found in Subway’s sandwiches, reported the New York Times.",
+            "url": "https://www.koin.com/news/subways-tuna-sandwich-has-no-tuna-dna-tests-find/",
+            "urlToImage": "https://www.koin.com/wp-content/uploads/sites/10/2021/06/GettyImages-493636660.jpg?w=1280",
+            "publishedAt": "2021-06-24T01:57:19Z",
+            "content": "(WTRF) — Tests recently done by a commercial lab have proved that no identifiable tuna DNA was found in Subway’s sandwiches, reported the New York Times. \r\nThe newspaper had 60 inches of tuna sandwic… [+1117 chars]"
         }
     ]
 }
