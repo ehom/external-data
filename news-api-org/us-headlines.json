@@ -4,68 +4,133 @@
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maegan Vazquez, CNN",
+            "title": "Biden set to push more Americans to get Covid-19 vaccine in North Carolina speech - CNN ",
+            "description": "President Joe Biden highlighted the importance of getting vaccinated against Covid-19 and kicked off a community canvassing event during a speech in Raleigh, North Carolina, on Thursday afternoon, as his administration has continued its push to get American v…",
+            "url": "https://www.cnn.com/2021/06/24/politics/president-biden-raleigh-coronavirus-vaccinations/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210616203048-joe-biden-infrastructure-congress-deal-super-tease.jpg",
+            "publishedAt": "2021-06-24T22:00:00Z",
+            "content": "(CNN)President Joe Biden highlighted the importance of getting vaccinated against Covid-19 and kicked off a community canvassing event during a speech in Raleigh, North Carolina, on Thursday afternoo… [+3075 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Charles Davis",
+            "title": "GOP congressman says 'people will die' over false election fraud claims - Business Insider",
+            "description": "Rep. Peter Meijer, a Republican from Michigan, condemned a recent segment from One America News where a host called for executing \"traitors.\"",
+            "url": "https://www.businessinsider.com/gop-congressman-says-people-will-die-false-election-fraud-claims-2021-6",
+            "urlToImage": "https://i.insider.com/60d4e1f15f52060018bbef6d?width=1200&format=jpeg",
+            "publishedAt": "2021-06-24T21:56:08Z",
+            "content": "False claims of systemic fraud in the 2020 election will result in blood being spilled, a Republican congressman warned Thursday.\r\nEarlier in the week, the far-right One America News Network aired a … [+1651 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stephanie Nolasco",
+            "title": "Britney Spears' conservatorship is 'criminal behavior,' Casey Kasem's daughter says: 'Enough is enough' - Fox News",
+            "description": "Kerri Kasem has recently launched a podcast on Audible about her father's controversial death titled \"Bitter Blood: Kasem vs. Kasem.\"",
+            "url": "https://www.foxnews.com/entertainment/britney-spears-conservatorship-casey-kasem-kerri-kasem",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Britney-Spears-1.jpg",
+            "publishedAt": "2021-06-24T21:49:58Z",
+            "content": "EXCLUSIVE: The world was stunned when Britney Spears passionately told a judge after 13 years of near-silence that she wanted her life back but Kerri Kasem said its a troubling case many families can… [+7051 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "CBS Sports"
             },
             "author": "",
-            "title": "The Great Resignation: Why Millions of Workers Are Quitting Their Jobs - NPR",
-            "description": "People are leaving their jobs in search of more money, more flexibility and more happiness. A record 4 million workers quit just in April.",
-            "url": "https://www.npr.org/2021/06/24/1007914455/as-the-pandemic-recedes-millions-of-workers-are-saying-i-quit",
-            "urlToImage": "https://media.npr.org/assets/img/2021/06/17/caballero1_wide-f2f5c9d48b6dec3360a1dee0c28420b25b35b38c.jpg?s=1400",
-            "publishedAt": "2021-06-24T10:01:24Z",
-            "content": "Jonathan Caballero is among the millions of workers who are rethinking how how they want to live their lives after the pandemic. He has found a new job that won't require a long commute.\r\nAndrea Hsu/… [+6225 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jon Porter",
-            "title": "Listen to Spotify on this nostalgic iPod-style web music player - The Verge",
-            "description": "A new project from frontend software developer Tanner Villarete has attempted to emulate the iPod’s controls as a web app, complete with support for your Spotify and Apple Music library.",
-            "url": "https://www.theverge.com/2021/6/24/22548356/ipod-web-player-spotify-apple-music",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/LlQcVtcNR66uVqAGRbIYZm9QJnc=/0x94:1301x775/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22678582/msedge_a3fZpfyz0z.png",
-            "publishedAt": "2021-06-24T08:34:24Z",
-            "content": "It can also sync with Apple Music\r\nA classic iPod interface for your Spotify or Apple Music library.\r\nScreenshot: tannerv.com/ipod\r\nIn an era before multitouch displays, the iPods click wheel was the… [+1730 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Ian Austen",
-            "title": "In Canada, Another ‘Horrific’ Discovery of Indigenous Children’s Remains - The New York Times",
-            "description": "An Indigenous group said the remains of hundreds of children had been found in unmarked graves on the site of a former boarding school in Saskatchewan.",
-            "url": "https://www.nytimes.com/2021/06/24/world/canada/unmarked-graves-residential-schools-saskatchewan.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/06/24/multimedia/24canada-graves--sub/24canada-graves--sub-facebookJumbo.jpg",
-            "publishedAt": "2021-06-24T07:43:10Z",
-            "content": "When the commission attempted to look into the question of missing Indigenous children, the Conservative government at the time turned down its request for money to finance searches. Now, several fed… [+2101 chars]"
+            "title": "Steelers release six-time Pro Bowl guard David DeCastro, intensifying concerns on offensive line - CBS Sports",
+            "description": "Pittsburgh is now set to open 2021 with four new starters up front",
+            "url": "https://www.cbssports.com/nfl/news/steelers-release-six-time-pro-bowl-guard-david-decastro-intensifying-concerns-on-offensive-line/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/01/18/1cc7c614-3f00-4ef9-8d29-137dce041949/thumbnail/1200x675/38da1c04636765f10f7159b59ca23079/decastro-2.jpg",
+            "publishedAt": "2021-06-24T21:16:00Z",
+            "content": "The Steelers' biggest question mark of 2021 got bigger on Thursday, with the team abruptly announcing the release of six-time Pro Bowl guard David DeCastro. Pittsburgh had already been set to open th… [+1966 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Aya Elamroussi, CNN",
-            "title": "Blink-182 singer and bassist Mark Hoppus reveals he's undergoing cancer treatment - CNN ",
-            "description": "Blink-182 singer and bassist Mark Hoppus is undergoing chemotherapy for cancer, he said Wednesday on his social media accounts.",
-            "url": "https://www.cnn.com/2021/06/24/celebrities/mark-hoppus-cancer-diagnosis/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210624014509-01-mark-hoppus-file-2020-super-tease.jpg",
-            "publishedAt": "2021-06-24T07:43:00Z",
-            "content": "I too, have been aware of @markhoppus's cancer diagnosis for awhile now. And to add to his own words that he used today, I would also like to say that he is strong, and a super-human who is pushing t… [+111 chars]"
+            "author": "By Robert Iddiols and Amy Cassidy, CNN",
+            "title": "Hungary 'has no place in the EU anymore,' Dutch leader says - CNN ",
+            "description": "Hungary \"has no place\" in the European Union after passing a controversial new bill banning LGBTQ content in schools, Dutch Prime Minister Mark Rutte said on Thursday.",
+            "url": "https://www.cnn.com/2021/06/24/europe/hungary-eu-lgbt-mark-rutte-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210624145844-01-mark-rutte-file-super-169.jpg",
+            "publishedAt": "2021-06-24T20:42:00Z",
+            "content": "Hungary has no place in the European Union after passing a controversial new bill banning LGBTQ content in schools, Dutch Prime Minister Mark Rutte said on Thursday.\r\nEarlier this month Hungarys parl… [+3181 chars]"
         },
         {
             "source": {
                 "id": "independent",
                 "name": "Independent"
             },
-            "author": "Emilee Lindner",
-            "title": "Britney Spears testifies that conservators kept her from having a baby: ‘I have an IUD in my body’ - The Independent",
-            "description": "‘We got made fun of a lot in the early days, but we kept pushing forward because we knew in our hearts we were right’",
-            "url": "https://www.independent.co.uk/arts-entertainment/music/news/free-britney-spears-conservatorship-court-b1871785.html",
-            "urlToImage": "https://static.independent.co.uk/2021/06/24/05/GettyImages-498220464.jpeg?width=1200&auto=webp&quality=75",
-            "publishedAt": "2021-06-24T07:38:54Z",
-            "content": "Growing up, Leanne Simmons always thought shed go into the newspaper business, but eventually, her life led her to TV production. However, with the pandemic pushing her and many others to work from h… [+12273 chars]"
+            "author": "Graeme Massie",
+            "title": "Police say 99 people still unaccounted for in Miami building collapse - The Independent",
+            "description": "Rescuers brought 35 people out alive from devastated residential complex",
+            "url": "https://www.independent.co.uk/news/world/americas/miami-building-collapse-missing-police-b1872375.html",
+            "urlToImage": "https://static.independent.co.uk/2021/06/24/20/GettyImages-1325283162.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-06-24T20:41:16Z",
+            "content": "Police say that 99 people are still unaccounted for after a condo building partially collapsed in Florida, killing at least one person.\r\nRescuers brought 35 people out alive from the collapsed 12-sto… [+4505 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "'Horrible:' 64 dead in Ethiopian airstrike on Tigray - Fox News",
+            "description": "Ethiopia’s military on Thursday said it was responsible for a deadly airstrike on a busy marketplace in the country’s Tigray region. Health workers said the attack killed at least 64 people, including children, but the military insisted only combatants were t…",
+            "url": "https://www.foxnews.com/world/horrible-64-dead-in-ethiopian-airstrike-on-tigray",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Ethopian-airstrike-in-Tigray.jpg",
+            "publishedAt": "2021-06-24T20:38:08Z",
+            "content": "Ethiopias military on Thursday said it was responsible for a deadly airstrike on a busy marketplace in the countrys Tigray region. Health workers said the attack killed at least 64 people, including … [+5115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "99% of Americans Dying of Covid-19 Were Not Fully Vaccinated - Gizmodo",
+            "description": "Of the 18,000 Americans who died of covid-19 in May, only 150 were fully vaccinated.",
+            "url": "https://gizmodo.com/99-of-americans-dying-of-covid-19-were-not-fully-vacci-1847167357",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/12cfba8c0bb27acecc0d7b0179600dcf.jpg",
+            "publishedAt": "2021-06-24T20:30:00Z",
+            "content": "The covid-19 pandemic has receded substantially in the U.S., thanks in part to a successful vaccine campaign. But a new report from the Associated Press released Thursday highlights a clear divide in… [+2711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lauren Thomas",
+            "title": "Nike earnings and sales beat estimates as retailer books record revenue in North America - CNBC",
+            "description": "Nike on Thursday reported fiscal fourth-quarter earnings and sales that topped analysts' estimates, fueled by record revenue in North America.",
+            "url": "https://www.cnbc.com/2021/06/24/nike-nke-q4-2021-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106844158-1614085121336-gettyimages-1303587601-nikeincnyse-nkewillshowex-dividendincomingdays011.jpeg?v=1614085181",
+            "publishedAt": "2021-06-24T20:21:46Z",
+            "content": "Nike on Thursday reported fiscal fourth-quarter earnings and sales that topped analysts' estimates, fueled by record revenue in its largest market, North America.\r\nIt also offered a better-than-expec… [+3867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Chris Cwik",
+            "title": "Scottie Pippen gives blunt assessment of Ben Simmons, Kevin Durant: 'He doesn’t have what LeBron has' - Yahoo Sports",
+            "description": "Scottie Pippen was brutally honest in his evaluation of some of the NBA's biggest names.",
+            "url": "https://sports.yahoo.com/scottie-pippen-gives-blunt-assessment-of-ben-simmons-kevin-durant-he-doesnt-have-what-le-bron-has-201203209.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.JjDW6WFUlhxiaHjK5ZMcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-images/2019-05/d70c2920-83d2-11e9-9fdd-d719431b3188",
+            "publishedAt": "2021-06-24T20:12:03Z",
+            "content": "NBA Hall of Famer and former Chicago Bulls star Scottie Pippen has some thoughts on the NBA conference semifinals. Pippen offered blunt assessments of Giannis Antetokounmpo, Kevin Durant, Doc Rivers … [+4458 chars]"
         },
         {
             "source": {
@@ -73,194 +138,129 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Emma Corrin on Playing Princess Diana on The Crown & William and Kate's Wedding - Jimmy Kimmel Live",
+            "title": "Jalen Rose reacts to Trae Young dropping 48 points on the Bucks in Game 1 | Jalen & Jacoby - ESPN",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9X3pfZ2ZEUVVRalHSAQA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Q1Y1VmFqczV0R2vSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-06-24T07:17:42Z",
+            "publishedAt": "2021-06-24T19:56:34Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "WPLG Local 10"
+                "name": "New York Times"
             },
-            "author": "Madeleine Wright, Saira Anwer, Lisa Hendry, Amanda Batchelor",
-            "title": "WATCH CONTINUING COVERAGE LIVE: At least 1 dead, numerous others trapped following partial building collapse in Surfside - WPLG Local 10",
-            "description": "Miami-Dade Fire Rescue crews are at the scene of a partial building collapse Thursday morning at the Champlain Towers building near 88th Street and Collins Avenue in Surfside.",
-            "url": "https://www.local10.com/news/local/2021/06/24/partial-building-collapse-in-surfside/",
-            "urlToImage": "https://www.local10.com/resizer/JNEu2eaOHw4mbsniLodqxutpmw8=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65):fill(FFF)/d1vhqlrjc8h82r.cloudfront.net/06-24-2021/t_bc4f895c0a334936a0a551f7d0729ed5_name_At_least_1_dead_following_partial_building_collapse_in_Surfside_.jpg",
-            "publishedAt": "2021-06-24T07:17:18Z",
-            "content": "SURFSIDE, Fla. Miami-Dade Fire Rescue crews are at the scene of a partial building collapse Thursday morning at the Champlain Towers building near 88th Street and Collins Avenue in Surfside.\r\nMiami-D… [+2107 chars]"
+            "author": "Valerie Hopkins, Ivan Nechepurenko, Isabella Kwai",
+            "title": "British Warship Deliberately Sailed Close to Crimea, U.K. Officials Say - The New York Times",
+            "description": "The action, meant to demonstrate support for Ukraine, incited an international incident after Russia scrambled warplanes and Coast Guard vessels.",
+            "url": "https://www.nytimes.com/2021/06/24/world/europe/russia-uk-defender-crimea.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/06/24/world/24russia-uk01/24russia-uk01-facebookJumbo.jpg",
+            "publishedAt": "2021-06-24T19:53:12Z",
+            "content": "Politically, the Russians are enormously sensitive when it comes to Crimea, said Gustav Gressel, a senior policy fellow at the European Council on Foreign Relations. They want to bully the West into … [+1043 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "Slate Magazine"
             },
-            "author": "Tim Bontemps",
-            "title": "Trae Young scores game-high 48 points in style, leads Atlanta Hawks to Game 1 win - ESPN",
-            "description": "Trae Young scored a game-high 48 points and showed off a shimmy in Atlanta's 116-113 Game 1 win over Milwaukee.",
-            "url": "https://www.espn.com/nba/story/_/id/31698516/trae-young-scores-game-high-48-points-style-leads-atlanta-hawks-game-1-win",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0624%2Fr871600_1296x729_16%2D9.jpg",
-            "publishedAt": "2021-06-24T06:19:52Z",
-            "content": "MILWAUKEE -- Trae Young shook free from Milwaukee Bucks guard Jrue Holiday, one of the NBA's best defenders, and found himself with acres of space between himself and Bucks forward Bobby Portis.\r\nAnd… [+5495 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "John D. McKinnon",
-            "title": "Google, Facebook Pressure Falls Short as Antitrust Measures Advance in House Committee - The Wall Street Journal",
-            "description": "Tech companies to take the battle over the proposed new regulations and oversight to the House floor and Senate",
-            "url": "https://www.wsj.com/articles/google-facebook-pressure-falls-short-as-major-antitrust-measures-advance-in-house-committee-11624505607",
-            "urlToImage": "https://images.wsj.net/im-359128/social",
-            "publishedAt": "2021-06-24T06:10:00Z",
-            "content": "WASHINGTONA House committee approved far-reaching legislation to curb the market dominance of tech giants, including Alphabet Inc.s Google and Facebook Inc., but much of the effort faced intensive lo… [+1228 chars]"
+            "author": "Jeremy Stahl",
+            "title": "The Ruling Suspending Rudy Giuliani’s Law License Is Kind of Hilarious - Slate",
+            "description": "With every other sentence, the judges are almost shouting at the reader \"get a load of the nerve on this guy!\"",
+            "url": "https://slate.com/news-and-politics/2021/06/rudy-giuliani-law-license-suspended-hilarious.html",
+            "urlToImage": "https://compote.slate.com/images/96ffe081-603e-4c40-84a3-e4e8df01151d.jpeg?width=780&height=520&rect=3837x2558&offset=0x0",
+            "publishedAt": "2021-06-24T19:46:00Z",
+            "content": "Back in November, four top scholars on legal ethics argued in Slate that it was time for courts and state bar organizations to start disciplining lawyers who were pushing Donald Trumps big lie that t… [+14017 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NPR"
+                "name": "Motley Fool"
             },
-            "author": "Jaclyn Diaz",
-            "title": "Firefighting Monks Join Effort To Combat The Willow Fire In A Remote Area Of Big Sur - NPR",
-            "description": "The Willow Fire, as of June 23, was 2,877 acres large with just 13% of it contained. Emergency crews are watching for a return to hot and dry conditions at the end of the week.",
-            "url": "https://www.npr.org/2021/06/24/1009727828/firefighting-monks-join-effort-to-combat-the-willow-fire-in-a-remote-area-of-big",
-            "urlToImage": "https://media.npr.org/assets/img/2021/06/24/ap21172804250311_wide-fbe051a6758dc7a592fc2cccc7fff8e5d1696ac0.jpg?s=1400",
-            "publishedAt": "2021-06-24T06:08:21Z",
-            "content": "In this photo provided by the California Interagency Willow Fire Incident, smoke rises from the Willow Fire near Big Sur, Calif., on Sunday, June 20.\r\nCalifornia Interagency Willow Fire Incident/AP\r\n… [+3000 chars]"
+            "author": "Jeremy Bowman",
+            "title": "Why The Trade Desk and Other Ad Tech Stocks Were Soaring Today - Motley Fool",
+            "description": "A delay in Google's removal of third-party cookies lifted ad tech stocks today.",
+            "url": "https://www.fool.com/investing/2021/06/24/why-the-trade-desk-and-other-ad-tech-stocks-were-s/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/631713/ad-technology.jpg",
+            "publishedAt": "2021-06-24T19:04:51Z",
+            "content": "What happened\r\nAd tech stocks were soaring today on news that Alphabet's (NASDAQ:GOOG)(NASDAQ:GOOGL) Google Chrome web browser would delay until 2023 the removal of third-party cookies that help adve… [+3607 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Beast"
+                "name": "CNET"
             },
-            "author": "Erin Gloria Ryan",
-            "title": "The 'Fuck Everything' Cheerleader Gets How the World Works. The Supreme Court Justices Do Not. - Daily Beast",
-            "description": "We are a country run largely by older people who do not use or understand the latest ways others use technology to speak, and those people make the tech and speech rules.",
-            "url": "https://www.thedailybeast.com/the-fuck-everything-cheerleader-gets-how-the-world-works-the-supreme-court-justices-do-not",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1624489363/210623-EGR_fuck-school-tease_w3to4r",
-            "publishedAt": "2021-06-24T06:03:24Z",
-            "content": "The Supreme Court has once again cleared the subterranean bar that most left-of-center Americans have for it, this time by ruling 8-1 on Wednesday that schools dont have a right to punish students fo… [+5987 chars]"
+            "author": "Katie Teague",
+            "title": "Android apps on Windows 11? Yup, and we've got details - CNET",
+            "description": "Microsoft's new Store will finally let you run Android apps on your Windows 11 PC.",
+            "url": "https://www.cnet.com/how-to/android-apps-on-windows-11-yup-and-weve-got-details/",
+            "urlToImage": "https://www.cnet.com/a/img/iFq-g-_vPbHG88Wk5ip7fVxE-lM=/1200x630/2021/06/11/06e53311-7396-4e7a-b66e-387de9055baa/windows-laptop-how-to-tech-tip-cnet-2021-microsoft-surface-laptop-4-2021-start-page-windows-product.jpg",
+            "publishedAt": "2021-06-24T18:54:00Z",
+            "content": "Windows 11 will run Android apps.\r\nSarah Tew/CNET\r\nMicrosoft is bringing Android apps to its new app Store, the software giant announced during its Windows 11 launch event Thursday. A fast-tracked wa… [+2164 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Story by Reuters",
-            "title": "Giant panda gives birth to twin cubs at Tokyo's Ueno Zoo - CNN ",
-            "description": "A month ahead of the Tokyo Summer Olympic Games, the city has another reason to celebrate -- giant panda Shin Shin has given birth to twin cubs at Ueno Zoo, the first panda birth there in four years.",
-            "url": "https://www.cnn.com/travel/article/panda-birth-twin-tokyo-ueno-zoo-intl-hnk/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210623223429-01-ueno-zoo-panda-births-super-tease.jpg",
-            "publishedAt": "2021-06-24T04:17:21Z",
-            "content": "(Reuters) A month ahead of the Tokyo Summer Olympic Games, the city has another reason to celebrate -- giant panda Shin Shin has given birth to twin cubs at Ueno Zoo, the first panda birth there in f… [+1683 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jamiel Lynch and Christina Maxouris, CNN",
-            "title": "Here's how coronavirus spread inside a government office in Florida -- and how one official says it stopped - CNN ",
-            "description": "Officials in Manatee County, Florida, were able to identify the patient zero in a recent outbreak of the coronavirus that swept through a government building and left two employees dead and several hospitalized, all of whom were unvaccinated.",
-            "url": "https://www.cnn.com/2021/06/23/us/manatee-county-outbreak-spread/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210623220428-manatee-county-administration-building-super-tease.jpg",
-            "publishedAt": "2021-06-24T04:16:00Z",
-            "content": "(CNN)Officials in Manatee County, Florida, were able to identify the patient zero in a recent outbreak of the coronavirus that swept through a government building and left two employees dead and seve… [+3021 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Barbara Ortutay",
-            "title": "John McAfee, software pioneer turned fugitive, dead at 75 - The Associated Press",
-            "description": "John McAfee, the outlandish security software pioneer who tried to live life as a hedonistic outsider while running from a host of legal troubles, was found dead   in his jail cell near Barcelona on Wednesday.",
-            "url": "https://apnews.com/article/john-mcafee-europe-fugitives-software-science-fe748982c673aa33196d4368669f2074",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cef9d046a3ce487f9feaf41c95a3edcb/3000.jpeg",
-            "publishedAt": "2021-06-24T04:08:42Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Andy Bailey",
-            "title": "3 Biggest Questions for Team USA Men's Basketball Team After Roster Reveal - Bleacher Report",
-            "description": "Group play at the Tokyo Olympics is set to tip off on  July 25 , just three days after the  NBA  playoffs are scheduled to end...",
-            "url": "https://bleacherreport.com/articles/2945060-3-biggest-questions-for-team-usa-mens-basketball-team-after-roster-reveal",
-            "urlToImage": "https://img.bleacherreport.net/img/images/photos/003/914/678/hi-res-58549b1c09238b0cb3f54e6ec2869f9d_crop_exact.jpg?w=1200&h=1200&q=75",
-            "publishedAt": "2021-06-24T04:04:14Z",
-            "content": "Nathaniel S. Butler/Getty Images\r\nGroup play at the Tokyo Olympics is set to tip off on July 25, just three days after the NBA playoffs are scheduled to end. \r\nDespite the tight window, a number of p… [+5656 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Science Magazine"
             },
             "author": null,
-            "title": "2021 NBA Mock Draft: Pistons take Cade Cunningham, Jalen Suggs to Rockets | CBS Sports HQ - CBS Sports HQ",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aUJQNy1NMGJvWnfSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-06-24T03:36:14Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Zen Soo",
-            "title": "Last Apple Daily newspaper edition sold out across Hong Kong - The Associated Press",
-            "description": "HONG KONG (AP) — Across Hong Kong, people lined up early Thursday to buy the last print edition of the last remaining pro-democracy newspaper.  By 8:30 a.m., Apple Daily's final edition of 1 million copies was sold out across most of the city's newsstands.",
-            "url": "https://apnews.com/article/hong-kong-europe-newspapers-business-97cf6aec4153c9201ae8cda679ff0e3d",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f879931ce4b8486db0f7a7b098e2facb/3000.jpeg",
-            "publishedAt": "2021-06-24T03:30:59Z",
-            "content": null
+            "title": "New fossils reveal a strange-looking Neanderthal in Israel - Science Magazine",
+            "description": "Researchers debate whether new fossils represent the earliest Neanderthal or its ancestor",
+            "url": "https://www.sciencemag.org/news/2021/06/new-fossils-reveal-strange-looking-neanderthal-israel",
+            "urlToImage": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/hershkovitz2HR-1280x720.jpg?itok=APqTl6PI",
+            "publishedAt": "2021-06-24T18:40:00Z",
+            "content": "The fossils from Nesher Ramla in Israel show a weird mix of Neanderthal-like and archaic features.\r\nYossi Zaidner \r\nBy Ann GibbonsJun. 24, 2021 , 2:40 PM\r\nSome of the earliest bands of modern humans … [+5106 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "9to5google.com"
+                "name": "NASA"
             },
             "author": null,
-            "title": "Android 12 ‘Internet’ panel in Beta 2.1 doesn’t let you disconnect from Wi-Fi - 9to5Google",
-            "description": "A slight regression to the Internet panel in Android 12 Beta 2.1 means users are unable to quickly disconnect from Wi-Fi...",
-            "url": "https://9to5google.com/2021/06/23/android-12-internet-wi-fi-disconnect/",
-            "urlToImage": "https://i2.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/06/Android-12-Beta-2-Quick-settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2021-06-24T03:08:00Z",
-            "content": "Beta 2.1 of Android 12 rolled out this morning with a handful of much-needed bug fixes. However, there’s a slight regression to Android 12’s new Internet panel with users unable to quickly disconnect… [+1197 chars]"
+            "title": "NASA Gazes at the Strawberry Moon - NASA",
+            "description": "The “Strawberry Moon”, as the last full Moon of Spring or the first full Moon of Summer is called, gained its name from the time of year when berries ripen.",
+            "url": "https://www.nasa.gov/image-feature/goddard/2021/nasa-gazes-at-the-strawberry-moon/",
+            "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/moon.4195_0.jpg",
+            "publishedAt": "2021-06-24T18:39:57Z",
+            "content": null
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Mychael Schnell",
-            "title": "California secretary of state confirms Newsom recall election | TheHill - The Hill",
-            "description": "California’s secretary of state ...",
-            "url": "https://thehill.com/homenews/state-watch/559994-california-secretary-of-state-confirms-newsom-recall-election",
-            "urlToImage": "https://thehill.com/sites/default/files/article_images/newsomgavin_05262021_1.jpg",
-            "publishedAt": "2021-06-24T02:15:36Z",
-            "content": "Californias secretary of state confirmed on Wednesday that the effort aimed at recalling Gov. Gavin NewsomGavin NewsomCalifornia secretary of state confirms Newsom recall electionNewsom overstated Ca… [+2731 chars]"
+            "author": "Seung Min Kim, Mike DeBonis, Jeff Stein",
+            "title": "Biden announces bipartisan deal on infrastructure after meeting with GOP and Democratic senators - The Washington Post",
+            "description": "The group of Republican and Democratic lawmakers briefed Biden on the outlines of the broad infrastructure proposal, one of the president’s top priorities.",
+            "url": "https://www.washingtonpost.com/politics/bipartisan-group-of-senators-to-meet-with-biden-at-white-house-to-try-to-finalize-infrastructure-deal/2021/06/24/6710e90c-d4e9-11eb-ae54-515e2f63d37d_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JWHTNUWVBQI6XLSUKFPC6Y6TPU.jpg&w=1440",
+            "publishedAt": "2021-06-24T18:27:00Z",
+            "content": "Biden spoke during an impromptu appearance on the driveway outside of the West Wing of the White House after a shorter-than-expected meeting with senators, in which he delivered his formal endorsemen… [+5518 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KOIN.com"
+                "name": "Los Angeles Times"
             },
-            "author": "John Lynch, Nexstar Media Wire",
-            "title": "Subway’s tuna sandwich has no tuna DNA, tests find - KOIN.com",
-            "description": "Tests recently done by a commercial lab have proved that no identifiable tuna DNA was found in Subway’s sandwiches, reported the New York Times.",
-            "url": "https://www.koin.com/news/subways-tuna-sandwich-has-no-tuna-dna-tests-find/",
-            "urlToImage": "https://www.koin.com/wp-content/uploads/sites/10/2021/06/GettyImages-493636660.jpg?w=1280",
-            "publishedAt": "2021-06-24T01:57:19Z",
-            "content": "(WTRF) — Tests recently done by a commercial lab have proved that no identifiable tuna DNA was found in Subway’s sandwiches, reported the New York Times. \r\nThe newspaper had 60 inches of tuna sandwic… [+1117 chars]"
+            "author": "CARLA K. JOHNSON and MIKE STOBBE",
+            "title": "Nearly all COVID deaths in U.S. are among unvaccinated - Los Angeles Times",
+            "description": "Nearly all COVID-19 deaths in the U.S. now are among the unvaccinated, an indication that nearly all deaths could be averted if everyone got the shots",
+            "url": "https://www.latimes.com/science/story/2021-06-24/nearly-all-covid-deaths-in-us-are-now-among-unvaccinated",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/62c9cde/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2Fa0%2F0cecda7dbbad310c5d4c1913bb16%2F300b460ab779439a8d9691fecdcfe856",
+            "publishedAt": "2021-06-24T18:10:00Z",
+            "content": "Nearly all COVID-19 deaths in the U.S. now are in people who werent vaccinated, a staggering demonstration of how effective the shots have been and an indication that deaths per day now down to under… [+5858 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Jonathan Garber",
+            "title": "Carnival loses $2B as ships remained grounded - Fox Business",
+            "description": "Carnival Corp. lost more than $2 billion in the second quarter as prolonged cruise suspensions caused by COVID-19 paralyzed its business.",
+            "url": "https://www.foxbusiness.com/markets/carnival-loses-2b-ships-remained-grounded",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/CarnivalFantasyIstockNew.png?ve=1&tl=1",
+            "publishedAt": "2021-06-24T18:00:52Z",
+            "content": "Carnival Corp. lost more than $2 billion in the second quarter as prolonged cruise suspensions caused by COVID-19 paralyzed its business. \r\nThe Miami-based cruise ship operator reported little or no … [+1437 chars]"
         }
     ]
 }
