@@ -4,42 +4,146 @@
     "articles": [
         {
             "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Windows 11 is free, but your CPU might not be supported - The Verge",
+            "description": "Microsoft’s Windows 11 minimum hardware requirements are changing. Your CPU might not be supported for the free upgrade, or you might need to enable some BIOS settings.",
+            "url": "https://www.theverge.com/2021/6/25/22549725/microsoft-windows-11-cpu-support-tpm-hardware-requirements",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ii1rQbOJDbmKqFmdcK8uVS95Ewk=/0x29:1486x807/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22680919/Windows_11_Generic_Laptop_Device_Render.jpg",
+            "publishedAt": "2021-06-25T09:35:59Z",
+            "content": "Microsofts Windows 11 hardware changes are surprising some\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nWindows 11 is arriving later this year … [+4427 chars]"
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Maegan Vazquez, CNN",
-            "title": "Biden set to push more Americans to get Covid-19 vaccine in North Carolina speech - CNN ",
-            "description": "President Joe Biden highlighted the importance of getting vaccinated against Covid-19 and kicked off a community canvassing event during a speech in Raleigh, North Carolina, on Thursday afternoon, as his administration has continued its push to get American v…",
-            "url": "https://www.cnn.com/2021/06/24/politics/president-biden-raleigh-coronavirus-vaccinations/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210616203048-joe-biden-infrastructure-congress-deal-super-tease.jpg",
-            "publishedAt": "2021-06-24T22:00:00Z",
-            "content": "(CNN)President Joe Biden highlighted the importance of getting vaccinated against Covid-19 and kicked off a community canvassing event during a speech in Raleigh, North Carolina, on Thursday afternoo… [+3075 chars]"
+            "author": "Jessie Yeung, CNN",
+            "title": "There are at least 200 known cases of the Delta Plus coronavirus variant worldwide. Here's what we know - CNN ",
+            "description": "A new and slightly changed version of the Delta coronavirus variant is spreading in a number of countries including the United Kingdom, United States and India, health officials say.",
+            "url": "https://www.cnn.com/2021/06/25/health/delta-plus-variant-explainer-intl-hnk-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210618151122-uk-delta-variant-0525-resricted-super-tease.jpg",
+            "publishedAt": "2021-06-25T08:36:00Z",
+            "content": "(CNN)A new and slightly changed version of the Delta coronavirus variant is spreading in a number of countries including the United Kingdom, United States and India, health officials say.\r\nThis strai… [+5478 chars]"
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Charles Davis",
-            "title": "GOP congressman says 'people will die' over false election fraud claims - Business Insider",
-            "description": "Rep. Peter Meijer, a Republican from Michigan, condemned a recent segment from One America News where a host called for executing \"traitors.\"",
-            "url": "https://www.businessinsider.com/gop-congressman-says-people-will-die-false-election-fraud-claims-2021-6",
-            "urlToImage": "https://i.insider.com/60d4e1f15f52060018bbef6d?width=1200&format=jpeg",
-            "publishedAt": "2021-06-24T21:56:08Z",
-            "content": "False claims of systemic fraud in the 2020 election will result in blood being spilled, a Republican congressman warned Thursday.\r\nEarlier in the week, the far-right One America News Network aired a … [+1651 chars]"
+            "author": "Silvia Amaro",
+            "title": "Europe’s leaders disagree on Russia talks despite Biden-Putin meeting - CNBC",
+            "description": "Several EU countries oppose new talks with Russia because they do not believe there has been any change in behavior from Moscow.",
+            "url": "https://www.cnbc.com/2021/06/25/russia-and-eu-leaders-divided-over-new-talks-despite-biden-putin-summit.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106902573-1624608666998-gettyimages-1233641593-BELGIUM_LEADERS.jpeg?v=1624608706",
+            "publishedAt": "2021-06-25T08:28:11Z",
+            "content": "Angela Merkel, Germanys chancellor, speaks with journalists as she departs a EU leaders meeting in Brussels, Belgium, on Friday, June, 25, 2021.\r\nLONDON France and Germany's plans to restart talks wi… [+3237 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": null,
+                "name": "TMZ"
             },
-            "author": "Stephanie Nolasco",
-            "title": "Britney Spears' conservatorship is 'criminal behavior,' Casey Kasem's daughter says: 'Enough is enough' - Fox News",
-            "description": "Kerri Kasem has recently launched a podcast on Audible about her father's controversial death titled \"Bitter Blood: Kasem vs. Kasem.\"",
-            "url": "https://www.foxnews.com/entertainment/britney-spears-conservatorship-casey-kasem-kerri-kasem",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Britney-Spears-1.jpg",
-            "publishedAt": "2021-06-24T21:49:58Z",
-            "content": "EXCLUSIVE: The world was stunned when Britney Spears passionately told a judge after 13 years of near-silence that she wanted her life back but Kerri Kasem said its a troubling case many families can… [+7051 chars]"
+            "author": "TMZ Staff",
+            "title": "Britney Spears Conservatorship Testimony Inspires Californians in Same Boat - TMZ",
+            "description": "Britney Spears inspires others with conservatorship testimony.",
+            "url": "https://www.tmz.com/2021/06/25/britney-spears-testimony-inspires-others-wanting-out-conservatorship/",
+            "urlToImage": "https://imagez.tmz.com/image/2e/16by9/2021/06/24/2e571302306242979347687f9e13080c_xl.jpg",
+            "publishedAt": "2021-06-25T08:00:00Z",
+            "content": "Britney Spears' decision to speak out against her conservatorship is inspiring others in California who are feeling trapped in similar situations ... and they want out too.\r\nIt's pretty incredible ..… [+1771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Dave McMenamin",
+            "title": "Chris Paul grateful to be back from COVID-19 absence but not satisfied with performance in Phoenix Suns' loss - ESPN",
+            "description": "Suns point guard Chris Paul said he's ready to move on from his isolation period from the team caused by a positive coronavirus test and focus on the Western Conference finals after Phoenix dropped Game 3 to the LA Clippers in his return.",
+            "url": "https://www.espn.com/nba/story/_/id/31705091/chris-paul-grateful-back-covid-19-absence-not-satisfied-performance-phoenix-suns-loss",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0625%2Fr872093_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-06-25T07:15:49Z",
+            "content": "LOS ANGELES -- Returning from a two-game absence because of the NBA's health and safety protocols to a 106-92 loss in Game 3 of the Western Conference finals, Phoenix Suns point guard Chris Paul wasn… [+3767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ryan Browne",
+            "title": "Amazon and Google face UK competition probe over fake reviews - CNBC",
+            "description": "Britain's competition regulator on Friday launched a formal probe into Amazon and Google over concerns they haven't done enough to tackle fake reviews.",
+            "url": "https://www.cnbc.com/2021/06/25/amazon-and-google-face-uk-competition-probe-over-fake-reviews.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106902560-1624604596464-gettyimages-1231517310-PGONCHAR_W5969.jpeg?v=1624604845",
+            "publishedAt": "2021-06-25T07:10:38Z",
+            "content": "LONDON Britain's competition regulator on Friday launched a formal probe into Amazon and Google over concerns they haven't done enough to tackle fake reviews.\r\n\"We are investigating concerns that Ama… [+3138 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Mike D'Angelo",
+            "title": "It’s Liam Neeson vs. surface tension in Netflix’s passable thriller The Ice Road - The A.V. Club",
+            "description": "The Taken star’s latest adds some unnecessary complications to a suspenseful scenario",
+            "url": "https://www.avclub.com/it-s-liam-neeson-vs-surface-tension-in-netflix-s-passa-1847165031",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/763aa8777ec20ac8395fa0f3af430d53.jpg",
+            "publishedAt": "2021-06-25T07:00:00Z",
+            "content": "At first glance, The Ice Road looks like an algorithmically engineered mash-up of The 33(about Chilean miners trapped underground) and The Wages Of Fear(a French classicremade in the U.S. as Sorcerer… [+4408 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Madeline Holcombe, CNN",
+            "title": "Surgeon General warns misinformation is the greatest threat to Covid-19 vaccination efforts - CNN ",
+            "description": "With a dangerous Covid-19 variant on the rise, health experts are urging people who are still hesitant to get their vaccinations. But the US Surgeon General warns a big obstacle stands in their way: Misinformation.",
+            "url": "https://www.cnn.com/2021/06/25/health/us-coronavirus-friday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210625015507-la-vaccination-0624-super-tease.jpg",
+            "publishedAt": "2021-06-25T06:32:00Z",
+            "content": "(CNN)With a dangerous Covid-19 variant on the rise, health experts are urging people who are still hesitant to get their vaccinations. But the US Surgeon General warns a big obstacle stands in their … [+4753 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sam Byford",
+            "title": "Instagram is testing a desktop posting feature - The Verge",
+            "description": "Instagram is testing the ability to create posts using the web browser on a desktop computer. The feature was spotted by social media consultant Matt Navarra, and Facebook confirmed the test in a statement to Bloomberg.",
+            "url": "https://www.theverge.com/2021/6/25/22550010/instagram-post-from-desktop-web-browser-testing",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/AhEDh8cXLzPzD8FmGa8EbJmzzbs=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19228500/acastro_190919_1777_instagram_0001.0.jpg",
+            "publishedAt": "2021-06-25T06:06:07Z",
+            "content": "A major missing feature from the desktop web version\r\nIllustration by Alex Castro / The Verge\r\nInstagram is testing the ability to create posts using the web browser on a desktop computer. The featur… [+1172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Trish Bendix",
+            "title": "Conan O’Brien Bids Farewell to Late Night - The New York Times",
+            "description": "After 28 years on late-night television and 11 years on TBS, O’Brien is moving on to HBO Max.",
+            "url": "https://www.nytimes.com/2021/06/25/arts/television/conan-obrien-late-night-rudy-giuliani.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/06/25/arts/25latenight/25latenight-facebookJumbo.png",
+            "publishedAt": "2021-06-25T05:59:56Z",
+            "content": "Welcome to Best of Late Night, a rundown of the previous nights highlights that lets you sleep and lets us get paid to watch comedy. Here are the 50 best movies on Netflix right now.\r\nAfter 28 years … [+547 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Boyette and Joe Sutton, CNN",
+            "title": "An investigation is underway into the arrest of two siblings in South Carolina that was caught on video - CNN ",
+            "description": "After a video was shared on social media showing the arrests Wednesday of two siblings by police in Rock Hill, South Carolina, state law enforcement officials are looking into the circumstances which have sparked two nights of protests.",
+            "url": "https://www.cnn.com/2021/06/25/us/south-carolina-price-arrests-investigation/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210624222354-rock-hill-sc-arrest-super-tease.jpg",
+            "publishedAt": "2021-06-25T05:43:00Z",
+            "content": "(CNN)After a video was shared on social media showing the arrests Wednesday of two siblings by police in Rock Hill, South Carolina, state law enforcement officials are looking into the circumstances … [+5259 chars]"
         },
         {
             "source": {
@@ -47,220 +151,116 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Steelers release six-time Pro Bowl guard David DeCastro, intensifying concerns on offensive line - CBS Sports",
-            "description": "Pittsburgh is now set to open 2021 with four new starters up front",
-            "url": "https://www.cbssports.com/nfl/news/steelers-release-six-time-pro-bowl-guard-david-decastro-intensifying-concerns-on-offensive-line/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/01/18/1cc7c614-3f00-4ef9-8d29-137dce041949/thumbnail/1200x675/38da1c04636765f10f7159b59ca23079/decastro-2.jpg",
-            "publishedAt": "2021-06-24T21:16:00Z",
-            "content": "The Steelers' biggest question mark of 2021 got bigger on Thursday, with the team abruptly announcing the release of six-time Pro Bowl guard David DeCastro. Pittsburgh had already been set to open th… [+1966 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "By Robert Iddiols and Amy Cassidy, CNN",
-            "title": "Hungary 'has no place in the EU anymore,' Dutch leader says - CNN ",
-            "description": "Hungary \"has no place\" in the European Union after passing a controversial new bill banning LGBTQ content in schools, Dutch Prime Minister Mark Rutte said on Thursday.",
-            "url": "https://www.cnn.com/2021/06/24/europe/hungary-eu-lgbt-mark-rutte-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210624145844-01-mark-rutte-file-super-169.jpg",
-            "publishedAt": "2021-06-24T20:42:00Z",
-            "content": "Hungary has no place in the European Union after passing a controversial new bill banning LGBTQ content in schools, Dutch Prime Minister Mark Rutte said on Thursday.\r\nEarlier this month Hungarys parl… [+3181 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Graeme Massie",
-            "title": "Police say 99 people still unaccounted for in Miami building collapse - The Independent",
-            "description": "Rescuers brought 35 people out alive from devastated residential complex",
-            "url": "https://www.independent.co.uk/news/world/americas/miami-building-collapse-missing-police-b1872375.html",
-            "urlToImage": "https://static.independent.co.uk/2021/06/24/20/GettyImages-1325283162.jpg?width=1200&auto=webp&quality=75",
-            "publishedAt": "2021-06-24T20:41:16Z",
-            "content": "Police say that 99 people are still unaccounted for after a condo building partially collapsed in Florida, killing at least one person.\r\nRescuers brought 35 people out alive from the collapsed 12-sto… [+4505 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Associated Press",
-            "title": "'Horrible:' 64 dead in Ethiopian airstrike on Tigray - Fox News",
-            "description": "Ethiopia’s military on Thursday said it was responsible for a deadly airstrike on a busy marketplace in the country’s Tigray region. Health workers said the attack killed at least 64 people, including children, but the military insisted only combatants were t…",
-            "url": "https://www.foxnews.com/world/horrible-64-dead-in-ethiopian-airstrike-on-tigray",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Ethopian-airstrike-in-Tigray.jpg",
-            "publishedAt": "2021-06-24T20:38:08Z",
-            "content": "Ethiopias military on Thursday said it was responsible for a deadly airstrike on a busy marketplace in the countrys Tigray region. Health workers said the attack killed at least 64 people, including … [+5115 chars]"
+            "title": "Cubs combined no-hitter: Four Chicago pitchers shut down Dodgers in MLB's seventh no-hitter of 2021 season - CBS Sports",
+            "description": "It's the first combined no-hitter in Cubs history",
+            "url": "https://www.cbssports.com/mlb/news/cubs-combined-no-hitter-four-chicago-pitchers-shut-down-dodgers-in-mlbs-seventh-no-hitter-of-2021-season/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/06/25/5991334d-8ded-4f63-bad3-ccdf2c214375/thumbnail/1200x675/4ee0d5a330dc24fe90feff99e84cb53e/cubs-combined-no-hitter.jpg",
+            "publishedAt": "2021-06-25T05:26:00Z",
+            "content": "In less than three months Major League Baseball has tied the Modern Era record for no-hitters in a season. Thursday night, Chicago Cubs righty Zach Davies and three relievers blanked the Los Angeles … [+4116 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gizmodo.com"
+                "name": "BBC News"
             },
-            "author": "Ed Cara",
-            "title": "99% of Americans Dying of Covid-19 Were Not Fully Vaccinated - Gizmodo",
-            "description": "Of the 18,000 Americans who died of covid-19 in May, only 150 were fully vaccinated.",
-            "url": "https://gizmodo.com/99-of-americans-dying-of-covid-19-were-not-fully-vacci-1847167357",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/12cfba8c0bb27acecc0d7b0179600dcf.jpg",
-            "publishedAt": "2021-06-24T20:30:00Z",
-            "content": "The covid-19 pandemic has receded substantially in the U.S., thanks in part to a successful vaccine campaign. But a new report from the Associated Press released Thursday highlights a clear divide in… [+2711 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lauren Thomas",
-            "title": "Nike earnings and sales beat estimates as retailer books record revenue in North America - CNBC",
-            "description": "Nike on Thursday reported fiscal fourth-quarter earnings and sales that topped analysts' estimates, fueled by record revenue in North America.",
-            "url": "https://www.cnbc.com/2021/06/24/nike-nke-q4-2021-earnings.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106844158-1614085121336-gettyimages-1303587601-nikeincnyse-nkewillshowex-dividendincomingdays011.jpeg?v=1614085181",
-            "publishedAt": "2021-06-24T20:21:46Z",
-            "content": "Nike on Thursday reported fiscal fourth-quarter earnings and sales that topped analysts' estimates, fueled by record revenue in its largest market, North America.\r\nIt also offered a better-than-expec… [+3867 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Chris Cwik",
-            "title": "Scottie Pippen gives blunt assessment of Ben Simmons, Kevin Durant: 'He doesn’t have what LeBron has' - Yahoo Sports",
-            "description": "Scottie Pippen was brutally honest in his evaluation of some of the NBA's biggest names.",
-            "url": "https://sports.yahoo.com/scottie-pippen-gives-blunt-assessment-of-ben-simmons-kevin-durant-he-doesnt-have-what-le-bron-has-201203209.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.JjDW6WFUlhxiaHjK5ZMcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-images/2019-05/d70c2920-83d2-11e9-9fdd-d719431b3188",
-            "publishedAt": "2021-06-24T20:12:03Z",
-            "content": "NBA Hall of Famer and former Chicago Bulls star Scottie Pippen has some thoughts on the NBA conference semifinals. Pippen offered blunt assessments of Giannis Antetokounmpo, Kevin Durant, Doc Rivers … [+4458 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Jalen Rose reacts to Trae Young dropping 48 points on the Bucks in Game 1 | Jalen & Jacoby - ESPN",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Q1Y1VmFqczV0R2vSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-06-24T19:56:34Z",
-            "content": null
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Miami building collapse: Rescuers listen for signs of life in rubble - BBC News",
+            "description": "Rescuers search for survivors with 99 unaccounted for after the collapse of the 12-storey complex.",
+            "url": "https://www.bbc.com/news/world-us-canada-57606232",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/87BC/production/_119084743_068212778-1.jpg",
+            "publishedAt": "2021-06-25T05:00:25Z",
+            "content": "media captionWatch: Helicopter and eyewitness footage show the scene after the collapse\r\nRescuers are desperately searching for any survivors trapped in the rubble of a collapsed 12-storey residentia… [+5486 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Valerie Hopkins, Ivan Nechepurenko, Isabella Kwai",
-            "title": "British Warship Deliberately Sailed Close to Crimea, U.K. Officials Say - The New York Times",
-            "description": "The action, meant to demonstrate support for Ukraine, incited an international incident after Russia scrambled warplanes and Coast Guard vessels.",
-            "url": "https://www.nytimes.com/2021/06/24/world/europe/russia-uk-defender-crimea.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/06/24/world/24russia-uk01/24russia-uk01-facebookJumbo.jpg",
-            "publishedAt": "2021-06-24T19:53:12Z",
-            "content": "Politically, the Russians are enormously sensitive when it comes to Crimea, said Gustav Gressel, a senior policy fellow at the European Council on Foreign Relations. They want to bully the West into … [+1043 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slate Magazine"
-            },
-            "author": "Jeremy Stahl",
-            "title": "The Ruling Suspending Rudy Giuliani’s Law License Is Kind of Hilarious - Slate",
-            "description": "With every other sentence, the judges are almost shouting at the reader \"get a load of the nerve on this guy!\"",
-            "url": "https://slate.com/news-and-politics/2021/06/rudy-giuliani-law-license-suspended-hilarious.html",
-            "urlToImage": "https://compote.slate.com/images/96ffe081-603e-4c40-84a3-e4e8df01151d.jpeg?width=780&height=520&rect=3837x2558&offset=0x0",
-            "publishedAt": "2021-06-24T19:46:00Z",
-            "content": "Back in November, four top scholars on legal ethics argued in Slate that it was time for courts and state bar organizations to start disciplining lawyers who were pushing Donald Trumps big lie that t… [+14017 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motley Fool"
-            },
-            "author": "Jeremy Bowman",
-            "title": "Why The Trade Desk and Other Ad Tech Stocks Were Soaring Today - Motley Fool",
-            "description": "A delay in Google's removal of third-party cookies lifted ad tech stocks today.",
-            "url": "https://www.fool.com/investing/2021/06/24/why-the-trade-desk-and-other-ad-tech-stocks-were-s/",
-            "urlToImage": "https://g.foolcdn.com/editorial/images/631713/ad-technology.jpg",
-            "publishedAt": "2021-06-24T19:04:51Z",
-            "content": "What happened\r\nAd tech stocks were soaring today on news that Alphabet's (NASDAQ:GOOG)(NASDAQ:GOOGL) Google Chrome web browser would delay until 2023 the removal of third-party cookies that help adve… [+3607 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Katie Teague",
-            "title": "Android apps on Windows 11? Yup, and we've got details - CNET",
-            "description": "Microsoft's new Store will finally let you run Android apps on your Windows 11 PC.",
-            "url": "https://www.cnet.com/how-to/android-apps-on-windows-11-yup-and-weve-got-details/",
-            "urlToImage": "https://www.cnet.com/a/img/iFq-g-_vPbHG88Wk5ip7fVxE-lM=/1200x630/2021/06/11/06e53311-7396-4e7a-b66e-387de9055baa/windows-laptop-how-to-tech-tip-cnet-2021-microsoft-surface-laptop-4-2021-start-page-windows-product.jpg",
-            "publishedAt": "2021-06-24T18:54:00Z",
-            "content": "Windows 11 will run Android apps.\r\nSarah Tew/CNET\r\nMicrosoft is bringing Android apps to its new app Store, the software giant announced during its Windows 11 launch event Thursday. A fast-tracked wa… [+2164 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Science Magazine"
-            },
-            "author": null,
-            "title": "New fossils reveal a strange-looking Neanderthal in Israel - Science Magazine",
-            "description": "Researchers debate whether new fossils represent the earliest Neanderthal or its ancestor",
-            "url": "https://www.sciencemag.org/news/2021/06/new-fossils-reveal-strange-looking-neanderthal-israel",
-            "urlToImage": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/hershkovitz2HR-1280x720.jpg?itok=APqTl6PI",
-            "publishedAt": "2021-06-24T18:40:00Z",
-            "content": "The fossils from Nesher Ramla in Israel show a weird mix of Neanderthal-like and archaic features.\r\nYossi Zaidner \r\nBy Ann GibbonsJun. 24, 2021 , 2:40 PM\r\nSome of the earliest bands of modern humans … [+5106 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NASA"
-            },
-            "author": null,
-            "title": "NASA Gazes at the Strawberry Moon - NASA",
-            "description": "The “Strawberry Moon”, as the last full Moon of Spring or the first full Moon of Summer is called, gained its name from the time of year when berries ripen.",
-            "url": "https://www.nasa.gov/image-feature/goddard/2021/nasa-gazes-at-the-strawberry-moon/",
-            "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/moon.4195_0.jpg",
-            "publishedAt": "2021-06-24T18:39:57Z",
-            "content": null
+            "author": "Ben Dooley",
+            "title": "Ousting Toshiba Chairman, Foreign Investors Score Breakthrough in Japan - The New York Times",
+            "description": "While Japan’s corporations have long resisted the entreaties of activist shareholders, Toshiba had come under intense pressure after a series of scandals.",
+            "url": "https://www.nytimes.com/2021/06/25/business/japan-toshiba-chair.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/06/25/world/25japan-toshiba/25japan-toshiba-facebookJumbo.jpg",
+            "publishedAt": "2021-06-25T04:53:26Z",
+            "content": "TOKYO Shareholders of the scandal-plagued industrial giant Toshiba threw out the companys board chairman on Friday, after an investigation revealed that top executives had worked with the Japanese go… [+1005 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Seung Min Kim, Mike DeBonis, Jeff Stein",
-            "title": "Biden announces bipartisan deal on infrastructure after meeting with GOP and Democratic senators - The Washington Post",
-            "description": "The group of Republican and Democratic lawmakers briefed Biden on the outlines of the broad infrastructure proposal, one of the president’s top priorities.",
-            "url": "https://www.washingtonpost.com/politics/bipartisan-group-of-senators-to-meet-with-biden-at-white-house-to-try-to-finalize-infrastructure-deal/2021/06/24/6710e90c-d4e9-11eb-ae54-515e2f63d37d_story.html",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JWHTNUWVBQI6XLSUKFPC6Y6TPU.jpg&w=1440",
-            "publishedAt": "2021-06-24T18:27:00Z",
-            "content": "Biden spoke during an impromptu appearance on the driveway outside of the West Wing of the White House after a shorter-than-expected meeting with senators, in which he delivered his formal endorsemen… [+5518 chars]"
+            "author": "Rachel Pannett",
+            "title": "Sydney locks down parts of city in race against outbreak of delta variant - The Washington Post",
+            "description": "The state government is hoping the lockdown in certain areas will act as a circuit breaker, avoiding the need for tougher restrictions.",
+            "url": "https://www.washingtonpost.com/world/2021/06/24/sydney-lockdown-delta-virus-outbreak/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HW2DW6WVJII6XM47AWRNO5VR6Q.jpg&w=1440",
+            "publishedAt": "2021-06-25T04:47:00Z",
+            "content": "The New South Wales state government is hoping the week-long lockdown will act as a circuit breaker, avoiding the need for tougher restrictions.\r\nSydney enters scariest phase of pandemic as delta var… [+3199 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Los Angeles Times"
+                "name": "PetaPixel"
             },
-            "author": "CARLA K. JOHNSON and MIKE STOBBE",
-            "title": "Nearly all COVID deaths in U.S. are among unvaccinated - Los Angeles Times",
-            "description": "Nearly all COVID-19 deaths in the U.S. now are among the unvaccinated, an indication that nearly all deaths could be averted if everyone got the shots",
-            "url": "https://www.latimes.com/science/story/2021-06-24/nearly-all-covid-deaths-in-us-are-now-among-unvaccinated",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/62c9cde/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4d%2Fa0%2F0cecda7dbbad310c5d4c1913bb16%2F300b460ab779439a8d9691fecdcfe856",
-            "publishedAt": "2021-06-24T18:10:00Z",
-            "content": "Nearly all COVID-19 deaths in the U.S. now are in people who werent vaccinated, a staggering demonstration of how effective the shots have been and an indication that deaths per day now down to under… [+5858 chars]"
+            "author": "https://www.facebook.com/DavidJCrewePhotography/",
+            "title": "If You Use a WD My Book Live Hard Drive, Unplug It Immediately - PetaPixel",
+            "description": "An unknown issue is causing the drives to factory reset themselves.",
+            "url": "https://petapixel.com/2021/06/24/if-you-use-a-wd-my-book-live-hard-drive-unplug-it-immediately/",
+            "urlToImage": "https://petapixel.com/assets/uploads/2021/06/Unplug-Your-WD-My-Book-Live-ASAP-Petapixel.jpg",
+            "publishedAt": "2021-06-25T04:28:22Z",
+            "content": "Western Digital, the company known for making many types of popular hard drives including the My Book line external devices, is advising users to disconnect any My Book Live storage devices from the … [+2485 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "NBCSports.com"
             },
-            "author": "Jonathan Garber",
-            "title": "Carnival loses $2B as ships remained grounded - Fox Business",
-            "description": "Carnival Corp. lost more than $2 billion in the second quarter as prolonged cruise suspensions caused by COVID-19 paralyzed its business.",
-            "url": "https://www.foxbusiness.com/markets/carnival-loses-2b-ships-remained-grounded",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/CarnivalFantasyIstockNew.png?ve=1&tl=1",
-            "publishedAt": "2021-06-24T18:00:52Z",
-            "content": "Carnival Corp. lost more than $2 billion in the second quarter as prolonged cruise suspensions caused by COVID-19 paralyzed its business. \r\nThe Miami-based cruise ship operator reported little or no … [+1437 chars]"
+            "author": "Curtis Crabtree",
+            "title": "David DeCastro says bone spurs in ankle were constant issue last year, needs surgery - NBC Sports",
+            "description": "Former Pittsburgh Steelers guard David DeCastro said he dealt with bone spurs in his ankle all last season that will need surgery to correct. Via Joe Starkey of the Pittsburgh Post-Gazette, DeCastro said Thursday that the ankle issues were an ongoing problem …",
+            "url": "https://profootballtalk.nbcsports.com/2021/06/25/david-decastro-says-bone-spurs-in-ankle-were-constant-issue-last-year-needs-surgery/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2021/06/GettyImages-1282239544-e1624591844159.jpg",
+            "publishedAt": "2021-06-25T04:13:00Z",
+            "content": "Former Pittsburgh Steelers guard David DeCastro said he dealt with bone spurs in his ankle all last season that will need surgery to correct.\r\nVia Joe Starkey of the Pittsburgh Post-Gazette, DeCastro… [+1174 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michael Warren, CNN",
+            "title": "Pence contradicts Trump on January 6, calling plan to decertify 2020 election 'un-American' - CNN ",
+            "description": "Former Vice President Mike Pence rebuked former President Donald Trump on Thursday night on the question of overturning the results of the 2020 presidential election.",
+            "url": "https://www.cnn.com/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210624233301-mike-pence-0603-super-tease.jpg",
+            "publishedAt": "2021-06-25T04:01:00Z",
+            "content": "(CNN)Former Vice President Mike Pence rebuked former President Donald Trump on Thursday night on the question of overturning the results of the 2020 presidential election. \r\nPence also said he will \"… [+4873 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Doja Cat, The Weeknd - You Right (Official Video) - Doja Cat",
+            "description": "Doja Cat // Planet Her // The New Album Out NowListen Here // https://smarturl.it/xPlanetHer Hop on board InterstellHER Air to meet Doja Cat at Planet Her! /...",
+            "url": "https://www.youtube.com/watch?v=JXgV1rXUoME",
+            "urlToImage": "https://i.ytimg.com/vi/JXgV1rXUoME/maxresdefault.jpg",
+            "publishedAt": "2021-06-25T04:00:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "NHL Game Highlights | Canadiens vs. Golden Knights, Game 6 - Jun. 24, 2021 - SPORTSNET",
+            "description": "Artturi Lehkonen scored in overtime as the Montreal Canadiens beat the Vegas Golden Knights 3-2 in Game 6 and advanced to the Stanley Cup Final.",
+            "url": "https://www.youtube.com/watch?v=ym03ynAObHg",
+            "urlToImage": "https://i.ytimg.com/vi/ym03ynAObHg/maxresdefault.jpg",
+            "publishedAt": "2021-06-25T03:33:01Z",
+            "content": null
         }
     ]
 }
