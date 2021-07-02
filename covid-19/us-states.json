@@ -1,56 +1,618 @@
 [
     {
-        "date": ""
+        "date": "date",
+        "state": "state",
+        "fips": "fips",
+        "cases": "cases",
+        "deaths": "deaths",
+        "confirmed_cases": "confirmed_cases",
+        "confirmed_deaths": "confirmed_deaths",
+        "probable_cases": "probable_cases",
+        "probable_deaths": "probable_deaths"
     },
     {
-        "date": "<?xml version=\"1.0\" encoding=\"utf-8\"?>"
+        "date": "2021-07-01",
+        "state": "Alabama",
+        "fips": "01",
+        "cases": 550983,
+        "deaths": 11352,
+        "confirmed_cases": 424212,
+        "confirmed_deaths": 9054,
+        "probable_cases": 126771,
+        "probable_deaths": 2298
     },
     {
-        "date": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\""
+        "date": "2021-07-01",
+        "state": "Alaska",
+        "fips": "02",
+        "cases": 70669,
+        "deaths": 360,
+        "confirmed_cases": 0,
+        "confirmed_deaths": 360,
+        "probable_cases": 70669,
+        "probable_deaths": 0
     },
     {
-        "date": " \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">"
+        "date": "2021-07-01",
+        "state": "Arizona",
+        "fips": "04",
+        "cases": 895347,
+        "deaths": 17939,
+        "confirmed_cases": null,
+        "confirmed_deaths": null,
+        "probable_cases": null,
+        "probable_deaths": null
     },
     {
-        "date": "<html>"
+        "date": "2021-07-01",
+        "state": "Arkansas",
+        "fips": "05",
+        "cases": 350085,
+        "deaths": 5909,
+        "confirmed_cases": 272207,
+        "confirmed_deaths": 4695,
+        "probable_cases": 77878,
+        "probable_deaths": 1214
     },
     {
-        "date": "  <head>"
+        "date": "2021-07-01",
+        "state": "California",
+        "fips": "06",
+        "cases": 3817678,
+        "deaths": 63709,
+        "confirmed_cases": 3791728,
+        "confirmed_deaths": 63676,
+        "probable_cases": 25950,
+        "probable_deaths": 33
     },
     {
-        "date": "    <title>503 first byte timeout</title>"
+        "date": "2021-07-01",
+        "state": "Colorado",
+        "fips": "08",
+        "cases": 561333,
+        "deaths": 6948,
+        "confirmed_cases": null,
+        "confirmed_deaths": null,
+        "probable_cases": null,
+        "probable_deaths": null
     },
     {
-        "date": "  </head>"
+        "date": "2021-07-01",
+        "state": "Connecticut",
+        "fips": "09",
+        "cases": 349387,
+        "deaths": 8279,
+        "confirmed_cases": null,
+        "confirmed_deaths": null,
+        "probable_cases": null,
+        "probable_deaths": null
     },
     {
-        "date": "  <body>"
+        "date": "2021-07-01",
+        "state": "Delaware",
+        "fips": "10",
+        "cases": 109770,
+        "deaths": 1694,
+        "confirmed_cases": null,
+        "confirmed_deaths": null,
+        "probable_cases": null,
+        "probable_deaths": null
     },
     {
-        "date": "    <h1>Error 503 first byte timeout</h1>"
+        "date": "2021-07-01",
+        "state": "District of Columbia",
+        "fips": "11",
+        "cases": 49362,
+        "deaths": 1141,
+        "confirmed_cases": 49362,
+        "confirmed_deaths": 1141,
+        "probable_cases": 0,
+        "probable_deaths": 0
     },
     {
-        "date": "    <p>first byte timeout</p>"
+        "date": "2021-07-01",
+        "state": "Florida",
+        "fips": "12",
+        "cases": 2331916,
+        "deaths": 37913,
+        "confirmed_cases": 0,
+        "confirmed_deaths": null,
+        "probable_cases": 2331916,
+        "probable_deaths": null
     },
     {
-        "date": "    <h3>Guru Mediation:</h3>"
+        "date": "2021-07-01",
+        "state": "Georgia",
+        "fips": "13",
+        "cases": 1110606,
+        "deaths": 20734,
+        "confirmed_cases": 880044,
+        "confirmed_deaths": 18009,
+        "probable_cases": 230562,
+        "probable_deaths": 2725
     },
     {
-        "date": "    <p>Details: cache-bwi5152-BWI 1625209947 719754029</p>"
+        "date": "2021-07-01",
+        "state": "Guam",
+        "fips": "66",
+        "cases": 9335,
+        "deaths": 141,
+        "confirmed_cases": 9070,
+        "confirmed_deaths": 141,
+        "probable_cases": 265,
+        "probable_deaths": 0
     },
     {
-        "date": "    <hr>"
+        "date": "2021-07-01",
+        "state": "Hawaii",
+        "fips": "15",
+        "cases": 36435,
+        "deaths": 515,
+        "confirmed_cases": null,
+        "confirmed_deaths": null,
+        "probable_cases": null,
+        "probable_deaths": null
     },
     {
-        "date": "    <p>Varnish cache server</p>"
+        "date": "2021-07-01",
+        "state": "Idaho",
+        "fips": "16",
+        "cases": 195166,
+        "deaths": 2156,
+        "confirmed_cases": 156225,
+        "confirmed_deaths": 1877,
+        "probable_cases": 38941,
+        "probable_deaths": 279
     },
     {
-        "date": "  </body>"
+        "date": "2021-07-01",
+        "state": "Illinois",
+        "fips": "17",
+        "cases": 1396270,
+        "deaths": 25687,
+        "confirmed_cases": 1256724,
+        "confirmed_deaths": 23298,
+        "probable_cases": 139546,
+        "probable_deaths": 2389
     },
     {
-        "date": "</html>"
+        "date": "2021-07-01",
+        "state": "Indiana",
+        "fips": "18",
+        "cases": 757671,
+        "deaths": 13855,
+        "confirmed_cases": 754317,
+        "confirmed_deaths": 13431,
+        "probable_cases": 3354,
+        "probable_deaths": 424
     },
     {
-        "date": ""
+        "date": "2021-07-01",
+        "state": "Iowa",
+        "fips": "19",
+        "cases": 373960,
+        "deaths": 6140,
+        "confirmed_cases": 308386,
+        "confirmed_deaths": null,
+        "probable_cases": 65574,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Kansas",
+        "fips": "20",
+        "cases": 319626,
+        "deaths": 5189,
+        "confirmed_cases": null,
+        "confirmed_deaths": null,
+        "probable_cases": null,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Kentucky",
+        "fips": "21",
+        "cases": 466106,
+        "deaths": 7269,
+        "confirmed_cases": null,
+        "confirmed_deaths": null,
+        "probable_cases": null,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Louisiana",
+        "fips": "22",
+        "cases": 482035,
+        "deaths": 10748,
+        "confirmed_cases": 406446,
+        "confirmed_deaths": 9725,
+        "probable_cases": 75589,
+        "probable_deaths": 1023
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Maine",
+        "fips": "23",
+        "cases": 69054,
+        "deaths": 859,
+        "confirmed_cases": 50506,
+        "confirmed_deaths": 859,
+        "probable_cases": 18548,
+        "probable_deaths": 0
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Maryland",
+        "fips": "24",
+        "cases": 462571,
+        "deaths": 9744,
+        "confirmed_cases": 462354,
+        "confirmed_deaths": 9527,
+        "probable_cases": 217,
+        "probable_deaths": 217
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Massachusetts",
+        "fips": "25",
+        "cases": 710049,
+        "deaths": 17997,
+        "confirmed_cases": 663898,
+        "confirmed_deaths": 17633,
+        "probable_cases": 46151,
+        "probable_deaths": 364
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Michigan",
+        "fips": "26",
+        "cases": 998847,
+        "deaths": 20998,
+        "confirmed_cases": 893507,
+        "confirmed_deaths": 19771,
+        "probable_cases": 105340,
+        "probable_deaths": 1227
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Minnesota",
+        "fips": "27",
+        "cases": 605541,
+        "deaths": 7692,
+        "confirmed_cases": 561401,
+        "confirmed_deaths": 7179,
+        "probable_cases": 44140,
+        "probable_deaths": 513
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Mississippi",
+        "fips": "28",
+        "cases": 321944,
+        "deaths": 7415,
+        "confirmed_cases": 196944,
+        "confirmed_deaths": 5110,
+        "probable_cases": 125000,
+        "probable_deaths": 2305
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Missouri",
+        "fips": "29",
+        "cases": 636244,
+        "deaths": 9938,
+        "confirmed_cases": 559396,
+        "confirmed_deaths": 4554,
+        "probable_cases": 76848,
+        "probable_deaths": 5384
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Montana",
+        "fips": "30",
+        "cases": 113928,
+        "deaths": 1666,
+        "confirmed_cases": 113928,
+        "confirmed_deaths": 1666,
+        "probable_cases": 0,
+        "probable_deaths": 0
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Nebraska",
+        "fips": "31",
+        "cases": 224549,
+        "deaths": 2520,
+        "confirmed_cases": 70444,
+        "confirmed_deaths": 621,
+        "probable_cases": 154105,
+        "probable_deaths": 1899
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Nevada",
+        "fips": "32",
+        "cases": 334255,
+        "deaths": 5692,
+        "confirmed_cases": 334255,
+        "confirmed_deaths": 5692,
+        "probable_cases": 0,
+        "probable_deaths": 0
+    },
+    {
+        "date": "2021-07-01",
+        "state": "New Hampshire",
+        "fips": "33",
+        "cases": 99527,
+        "deaths": 1372,
+        "confirmed_cases": 0,
+        "confirmed_deaths": null,
+        "probable_cases": 99527,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "New Jersey",
+        "fips": "34",
+        "cases": 1023613,
+        "deaths": 26463,
+        "confirmed_cases": 893155,
+        "confirmed_deaths": 23760,
+        "probable_cases": 130458,
+        "probable_deaths": 2703
+    },
+    {
+        "date": "2021-07-01",
+        "state": "New Mexico",
+        "fips": "35",
+        "cases": 205629,
+        "deaths": 4345,
+        "confirmed_cases": 205629,
+        "confirmed_deaths": 4345,
+        "probable_cases": 0,
+        "probable_deaths": 0
+    },
+    {
+        "date": "2021-07-01",
+        "state": "New York",
+        "fips": "36",
+        "cases": 2113544,
+        "deaths": 53107,
+        "confirmed_cases": 2098228,
+        "confirmed_deaths": 48011,
+        "probable_cases": 15316,
+        "probable_deaths": 5096
+    },
+    {
+        "date": "2021-07-01",
+        "state": "North Carolina",
+        "fips": "37",
+        "cases": 1014967,
+        "deaths": 13447,
+        "confirmed_cases": 864192,
+        "confirmed_deaths": 11839,
+        "probable_cases": 150775,
+        "probable_deaths": 1608
+    },
+    {
+        "date": "2021-07-01",
+        "state": "North Dakota",
+        "fips": "38",
+        "cases": 110749,
+        "deaths": 1559,
+        "confirmed_cases": 101534,
+        "confirmed_deaths": null,
+        "probable_cases": 9215,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Northern Mariana Islands",
+        "fips": "69",
+        "cases": 183,
+        "deaths": 2,
+        "confirmed_cases": 183,
+        "confirmed_deaths": 2,
+        "probable_cases": 0,
+        "probable_deaths": 0
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Ohio",
+        "fips": "39",
+        "cases": 1111903,
+        "deaths": 20309,
+        "confirmed_cases": null,
+        "confirmed_deaths": null,
+        "probable_cases": null,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Oklahoma",
+        "fips": "40",
+        "cases": 458150,
+        "deaths": 7388,
+        "confirmed_cases": 0,
+        "confirmed_deaths": 7388,
+        "probable_cases": 458150,
+        "probable_deaths": 0
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Oregon",
+        "fips": "41",
+        "cases": 208725,
+        "deaths": 2804,
+        "confirmed_cases": 0,
+        "confirmed_deaths": null,
+        "probable_cases": 208725,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Pennsylvania",
+        "fips": "42",
+        "cases": 1216965,
+        "deaths": 27733,
+        "confirmed_cases": null,
+        "confirmed_deaths": null,
+        "probable_cases": null,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Puerto Rico",
+        "fips": "72",
+        "cases": 173673,
+        "deaths": 2549,
+        "confirmed_cases": 122988,
+        "confirmed_deaths": 0,
+        "probable_cases": 50685,
+        "probable_deaths": 2549
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Rhode Island",
+        "fips": "44",
+        "cases": 152618,
+        "deaths": 2730,
+        "confirmed_cases": 0,
+        "confirmed_deaths": null,
+        "probable_cases": 152618,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "South Carolina",
+        "fips": "45",
+        "cases": 597021,
+        "deaths": 9826,
+        "confirmed_cases": 493199,
+        "confirmed_deaths": 8644,
+        "probable_cases": 103822,
+        "probable_deaths": 1182
+    },
+    {
+        "date": "2021-07-01",
+        "state": "South Dakota",
+        "fips": "46",
+        "cases": 124561,
+        "deaths": 2038,
+        "confirmed_cases": 109243,
+        "confirmed_deaths": null,
+        "probable_cases": 15318,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Tennessee",
+        "fips": "47",
+        "cases": 854430,
+        "deaths": 12472,
+        "confirmed_cases": 699324,
+        "confirmed_deaths": 2031,
+        "probable_cases": 155106,
+        "probable_deaths": 10441
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Texas",
+        "fips": "48",
+        "cases": 2995274,
+        "deaths": 52554,
+        "confirmed_cases": 2549320,
+        "confirmed_deaths": 23702,
+        "probable_cases": 445954,
+        "probable_deaths": 28852
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Utah",
+        "fips": "49",
+        "cases": 415750,
+        "deaths": 2375,
+        "confirmed_cases": 0,
+        "confirmed_deaths": 2304,
+        "probable_cases": 415750,
+        "probable_deaths": 71
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Vermont",
+        "fips": "50",
+        "cases": 24412,
+        "deaths": 257,
+        "confirmed_cases": 0,
+        "confirmed_deaths": null,
+        "probable_cases": 24412,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Virginia",
+        "fips": "51",
+        "cases": 680564,
+        "deaths": 11419,
+        "confirmed_cases": null,
+        "confirmed_deaths": null,
+        "probable_cases": null,
+        "probable_deaths": null
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Virgin Islands",
+        "fips": "78",
+        "cases": 3895,
+        "deaths": 30,
+        "confirmed_cases": 3895,
+        "confirmed_deaths": 30,
+        "probable_cases": 0,
+        "probable_deaths": 0
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Washington",
+        "fips": "53",
+        "cases": 454087,
+        "deaths": 5992,
+        "confirmed_cases": 413968,
+        "confirmed_deaths": 2005,
+        "probable_cases": 40119,
+        "probable_deaths": 3987
+    },
+    {
+        "date": "2021-07-01",
+        "state": "West Virginia",
+        "fips": "54",
+        "cases": 164097,
+        "deaths": 2897,
+        "confirmed_cases": 128205,
+        "confirmed_deaths": 2429,
+        "probable_cases": 35892,
+        "probable_deaths": 468
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Wisconsin",
+        "fips": "55",
+        "cases": 677952,
+        "deaths": 8134,
+        "confirmed_cases": 612910,
+        "confirmed_deaths": 7314,
+        "probable_cases": 65042,
+        "probable_deaths": 820
+    },
+    {
+        "date": "2021-07-01",
+        "state": "Wyoming",
+        "fips": "56",
+        "cases": 62353,
+        "deaths": 747,
+        "confirmed_cases": 52360,
+        "confirmed_deaths": null,
+        "probable_cases": 9993,
+        "probable_deaths": null
     }
 ]
