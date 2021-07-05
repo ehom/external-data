@@ -4,42 +4,55 @@
     "articles": [
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
+                "id": null,
+                "name": "The Guardian"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Boris Johnson to set out England's final Covid lockdown easing - BBC News",
-            "description": "Boris Johnson will use Monday's press conference to confirm the next steps on social distancing and masks.",
-            "url": "https://www.bbc.co.uk/news/uk-57715496",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F4D1/production/_119237626_gettyimages-1233803500.jpg",
-            "publishedAt": "2021-07-04T21:30:02Z",
-            "content": "By George BowdenBBC News\r\nimage copyrightDowning Street/Flickr\r\nimage captionThe PM helps chef Levi Roots at a National Thank You Day event for NHS workers at No 10 on Sunday\r\nPrime Minister Boris Jo… [+5316 chars]"
+            "author": "Andrew Sparrow",
+            "title": "UK Covid live: Johnson told lifting public transport mask rule would be ‘act of gross negligence’ - The Guardian",
+            "description": "Latest updates: Unite union warns against making masks a personal choice as PM due to lift restrictions despite surge in Covid cases",
+            "url": "https://www.theguardian.com/politics/live/2021/jul/05/uk-covid-live-boris-johnson-masks-public-transport-england-unlocking-coronavirus-latest",
+            "urlToImage": "https://i.guim.co.uk/img/media/b910bf3a9fb7e0776090f4d7e3e56531d3a63766/0_108_4052_2431/master/4052.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e2952b6e5600b2bb56e3490b4523f520",
+            "publishedAt": "2021-07-05T10:43:32Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Sky.com"
+                "name": "The-sun.com"
             },
-            "author": "Alex Crawford, special correspondent, and Kevin Sheppard, cameraman, from the Wardak Province",
-            "title": "The Taliban are making gains in Afghanistan - and showing off their progress to the world - Sky News",
+            "author": "Julia Fields",
+            "title": "Hurricane Elsa path tracker UPDATE: Tropical storm to hit Florida coast on TUESDAY as severe weather... - The US Sun",
             "description": "",
-            "url": "https://news.sky.com/story/the-taliban-are-making-gains-in-afghanistan-and-showing-off-their-progress-to-the-world-12348957",
-            "urlToImage": "https://e3.365dm.com/21/07/1600x900/skynews-taliban-afghanistan_5437308.jpg?20210704215016",
-            "publishedAt": "2021-07-04T21:27:02Z",
-            "content": null
+            "url": "https://www.the-sun.com/news/3203801/hurricane-elsa-path-tracker-florida-weather-update/",
+            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2021/07/comp-skc-hurricane-elsa-live.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2021-07-05T10:21:00Z",
+            "content": "2.6MILLION FLORIDIANS HIT ROADS FOR JULY 4 DESPITE HURRICAN ELSA\r\nParts of the Florida Keys are currently under a tropical storm watch, with forecasters expecting rain, storm surges, and strong winds… [+570 chars]"
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Richard Lawler",
-            "title": "‘Save Titanfall’ messages interrupt EA’s billion-dollar ‘Apex Legends’ franchise - The Verge",
-            "description": "Respawn Entertainment and EA’s hit battle royale game ‘Apex Legends’ is having problems with hackers. The hackers claim they’re doing it to protest unaddressed issues with the older ‘Titanfall’ series.",
-            "url": "https://www.theverge.com/2021/7/4/22563257/save-titanfall-hackers-apex-legends-ea-respawn",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/EL0e0INhDV3urlDtOL64UwSAoLM=/0x29:1454x790/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22699235/apex_screenshot_world_skulltown.jpg.adapt.crop16x9.818p.jpg",
-            "publishedAt": "2021-07-04T20:53:26Z",
-            "content": "The billion-dollar battle royale franchise is having problems that tie back to previous games from Respawn\r\nApex Legends\r\nRespawn\r\nRespawn Entertainments battle royale shooter Apex Legends has proven… [+2260 chars]"
+            "author": "Tom Warren",
+            "title": "The Windows 11 app store is already more useful after just a week - The Verge",
+            "description": "Microsoft’s new app store for Windows 11 is already a great improvement. After just a week, the store has some popular apps, with more to come.",
+            "url": "https://www.theverge.com/2021/7/5/22563638/microsoft-windows-11-app-store-microsoft-store-apps-desktop-win32",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hpGq4i3CYO-_aPVetR6WT9GizEI=/0x54:2478x1351/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22679148/microsoft_store_windows_11_1.jpg",
+            "publishedAt": "2021-07-05T09:51:50Z",
+            "content": "The Windows store is finally getting apps people care about\r\nThe new Microsoft Store on Windows 11.\r\nMicrosofts dysfunctional app store for Windows, the Microsoft Store, is finally improving under Wi… [+3200 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Andrew Woodcock",
+            "title": "Boris Johnson said it would be ‘ludicrous’ for him to be prime minister, claims Dominic Cummings - The Independent",
+            "description": "Former adviser admits he believed Johnson to be ‘in any objective sense, unfit to be PM’",
+            "url": "https://www.independent.co.uk/news/uk/politics/boris-johnson-dominic-cummings-pm-b1878214.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/05/24/02/Dominic-cummings.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-07-05T09:38:31Z",
+            "content": "Boris Johnson told Dominic Cummings in 2016 it would be ludicrious for him to be prime minister, the former Downing Street adviser has said.\r\nMr Cummings said the admission came on 24 June, the day a… [+15630 chars]"
         },
         {
             "source": {
@@ -47,129 +60,12 @@
                 "name": "Sky.com"
             },
             "author": "Sky",
-            "title": "Police launch antisemitism investigations after Jewish man targeted twice in same night in central London - Sky News",
+            "title": "COVID-19: Duchess of Cambridge isolating after contact with someone who has coronavirus - Sky News",
             "description": "",
-            "url": "https://news.sky.com/story/police-launch-antisemitism-investigations-after-jewish-man-targeted-twice-in-same-night-in-central-london-12348940",
-            "urlToImage": "https://e3.365dm.com/21/07/1600x900/skynews-london-tube-underground_5437268.png?20210704205529",
-            "publishedAt": "2021-07-04T20:35:01Z",
+            "url": "https://news.sky.com/story/covid-19-duchess-of-cambridge-isolating-after-contact-with-someone-who-has-coronavirus-12349099",
+            "urlToImage": "https://e3.365dm.com/21/07/1600x900/skynews-duchess-of-cambridge_5437591.jpg?20210705111218",
+            "publishedAt": "2021-07-05T09:33:45Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Lewis Hamilton says Max Verstappen is 'walking away with it' after Austrian Grand Prix - BBC Sport",
-            "description": "Lewis Hamilton says Mercedes have a lot of work to do to catch Red Bull, but there are still plenty of races to do it.",
-            "url": "https://www.bbc.co.uk/sport/formula1/57715522",
-            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/17A5F/production/_119236869_max_comfortable_getty.jpg",
-            "publishedAt": "2021-07-04T20:13:08Z",
-            "content": "The British Grand Prix will be live on BBC Radio 5 Live and the BBC Sport website\r\nMax Verstappen won't say it, but the reality is that he is in pretty much total control of this year's Formula 1 cha… [+9434 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eastern Daily Press"
-            },
-            "author": "Simon Parkin",
-            "title": "Simon Thomas marries new love at Norwich Cathedral - Eastern Daily Press",
-            "description": "Norfolk-born TV presenter Simon Thomas has married his girlfriend Derrina Jebb at Norwich Cathedral four years after the death of his...",
-            "url": "https://www.edp24.co.uk/news/simon-thomas-marries-derrina-jebb-norwich-cathedral-wedding-8117196",
-            "urlToImage": "https://images.cm.archant.co.uk/service/social-media-image/267776/8117202/1/6217202-2/xxx.simon_thomas_wedding.v1.jpg",
-            "publishedAt": "2021-07-04T20:08:00Z",
-            "content": "Norfolk-born TV presenter Simon Thomas has married his girlfriend Derrina Jebb four years after the death of his wife Gemma.\r\nThe former Sky Sports and Blue Peter presenter announced the happy news o… [+2069 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Manchester Evening News"
-            },
-            "author": "Cathy Owen, Charlotte Dobson",
-            "title": "Man dies after collapsing on Snowdonia hike - Manchester Evening News",
-            "description": "The man was on a mountaineering club outing when he collapsed on Saturday",
-            "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/man-dies-after-collapsing-snowdonia-20968850",
-            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/news/greater-manchester-news/article20968863.ece/ALTERNATES/s1200/0_Rescue-teams.jpg",
-            "publishedAt": "2021-07-04T19:57:58Z",
-            "content": "A man collapsed and died while hiking in Snowdonia.\r\n Rescue teams were called to Aran Benllyn, south of Llanuwchllyn, in Gwynedd, just before 10am on Saturday (July 3). \r\n The man was taking part in… [+1454 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Linda Geddes",
-            "title": "Politics trumps Covid science in Javid’s push to ‘live with the virus’ - The Guardian",
-            "description": "Experts are urging greater vaccination coverage and action over ventilation in public spaces before lifting restrictions",
-            "url": "https://amp.theguardian.com/world/2021/jul/04/politics-trumps-covid-science-in-javids-push-to-live-with-the-virus",
-            "urlToImage": null,
-            "publishedAt": "2021-07-04T19:36:00Z",
-            "content": "CoronavirusExperts are urging greater vaccination coverage and action over ventilation in public spaces before lifting restrictions\r\nFor months, the prime minister has repeated the mantra that furthe… [+4508 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Kim Lyons",
-            "title": "Researcher finds certain network names can disable Wi-Fi on iPhones - The Verge",
-            "description": "A security researcher has found that certain Wi-Fi networks with the percent symbol (%) in their names can disable Wi-Fi on iPhones and other iOS devices. Even after resetting network settings, the bug may continue to render Wi-Fi on the device unusable.",
-            "url": "https://www.theverge.com/2021/7/4/22563166/researcher-finds-network-names-percent-disable-wi-fi-iphones",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/spipOGtniEaU6AtMKBwZIrmRA8k=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11515083/acastro_180608_1777_net_neutrality_0002.jpg",
-            "publishedAt": "2021-07-04T19:30:47Z",
-            "content": "It looks like Wi-Fi networks with percent symbols in their names may cause a bug\r\nIllustration by Alex Castro / The Verge\r\nA security researcher has found that certain Wi-Fi networks with the percent… [+1787 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/jon-fingas",
-            "title": "Google removes popular Android apps that stole Facebook passwords - Engadget",
-            "description": "Google has pulled nine Android apps that stole Facebook passwords, but only after they'd racked up 5.8 million downloads..",
-            "url": "https://www.engadget.com/google-removes-android-apps-stealing-facebook-passwords-192721252.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/46629cc0-dcf8-11eb-963b-286771b88ce3",
-            "publishedAt": "2021-07-04T19:28:59Z",
-            "content": "Google is still racing to pull Android apps that commit major privacy violations. Ars Technicanotes that Google has removed nine apps from the Play Store after Dr. Web analysts discovered they were t… [+1499 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Guardian staff reporter",
-            "title": "‘Pure hell’: Cyprus hit by worst forest fire in decades - The Guardian",
-            "description": "Deadly blaze that killed four people and forced evacuation of 10 villages is now close to being under control",
-            "url": "https://amp.theguardian.com/world/2021/jul/04/cyprus-says-deadly-forest-fire-close-to-being-under-control",
-            "urlToImage": "https://i.guim.co.uk/img/media/c0b13ca26eee5f4a3435d4ba2992a837c04364cb/0_307_4548_2729/master/4548.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4f38f5fec36fc391e49192083d0680a",
-            "publishedAt": "2021-07-04T19:00:00Z",
-            "content": "Authorities in Cyprus have said a deadly forest fire that was the worst to hit the island in decades was close to being brought under control after water bombing by Greek and Israeli aircraft.\r\nFanne… [+3678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kent Online"
-            },
-            "author": "Liane Castle",
-            "title": "Could John Lewis homes replace empty department stores? - Kent Online",
-            "description": "Retail giant John Lewis has announced plans to convert some of its vacant units in the South East into 10,000 new homes.",
-            "url": "https://www.kentonline.co.uk/kent/news/could-john-lewis-homes-replace-empty-department-stores-250065/",
-            "urlToImage": "https://www.kentonline.co.uk/_media/img/S464ZLFTXV9ZY8L55U5V.jpg",
-            "publishedAt": "2021-07-04T19:00:00Z",
-            "content": "High-end department store John Lewis has announced plans to build 10,000 homes in the South East over the next decade, the Sunday Times reports.\r\nSome 7,000 of those would be placed on sites already … [+3041 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mirror Online"
-            },
-            "author": "Tiffany Lo, Lucy Skoulding",
-            "title": "Prince Harry teased with jokey remark by Princess Diana's sister, lip reader claims - The Mirror",
-            "description": "A lip reader has claimed Lady Sarah McCorquodale, Princess Diana's sister, was spotted whispering to Prince Harry at Kensington Palace leading to a private joke between the pair",
-            "url": "https://www.mirror.co.uk/news/uk-news/prince-harry-teased-jokey-remark-24457758",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article24457975.ece/ALTERNATES/s1200/1_JS238511128.jpg",
-            "publishedAt": "2021-07-04T18:58:08Z",
-            "content": "Princess Diana's sister teased Harry with a jokey comment at Kensington Palace, a lip reader has claimed.\r\nLady Sarah McCorquodale was spotted by a lip reader whispering something to Harry at the unv… [+1993 chars]"
         },
         {
             "source": {
@@ -177,90 +73,194 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Didi ordered off China's app stores by nation's cyber regulator - BBC News",
-            "description": "The ride-hailing app is facing regulatory problems at home, days after its New York share launch.",
-            "url": "https://www.bbc.co.uk/news/business-57716131",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F5F5/production/_119156926_gettyimages-1096270586.jpg",
-            "publishedAt": "2021-07-04T18:51:57Z",
-            "content": "image copyrightGetty Images\r\nimage captionDidi is one of China's largest ride-hailing apps\r\nThe ride-hailing app Didi has been ordered off China's app stores, just days after the Chinese tech giant l… [+1404 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Telegraph.co.uk"
-            },
-            "author": "By\nOliver Gill,",
-            "title": "The shipyard row that could sink the SNP government - Telegraph.co.uk",
-            "description": "A Scottish billionaire has accused ministers of ‘a concerted effort to cover up’ how Ferguson Marine was nationalised",
-            "url": "https://www.telegraph.co.uk/business/2021/07/04/shipyard-row-could-sink-snp-government/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2021/07/04/Nicola-Sturgeon_trans_NvBQzQNjv4BqNJjoeBT78QIaYdkJdEY4CnGTJFJS74MYhNY6w3GNbO8.jpeg?impolicy=logo-overlay",
-            "publishedAt": "2021-07-04T18:30:00Z",
-            "content": "Britons south of the border have been left scratching their heads at how such a contract could have turned into one Scotlands biggest political scandals. But for many Scots, not least Sturgeons criti… [+3123 chars]"
+            "title": "Morrisons: Bidding war looms for supermarket as rivals circle - BBC News",
+            "description": "Apollo Global says it is considering a bid, days after the UK supermarket agreed to a £6.3bn takeover.",
+            "url": "https://www.bbc.co.uk/news/business-57718738",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E6D/production/_119239630_976_morrisons_pa.jpg",
+            "publishedAt": "2021-07-05T09:33:35Z",
+            "content": "A US investment firm is considering making a rival offer for Morrisons, days after the UK supermarket agreed to a £6.3bn ($8.7bn) takeover.\r\nApollo Global said it was considering the move, but no app… [+5458 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Daily Mail"
             },
-            "author": "Bryony Jewell",
-            "title": "Damian Hurley gushes that he's 'grateful for his family' after being cut out of dad's family fortune - Daily Mail",
-            "description": "The model, 19, shared a sweet snap to Instagram on Sunday showing himself smiling in a picture with his mother Elizabeth, 56, maternal grandmother Angela, 80, and cousins.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-9755059/Damian-Hurley-gushes-hes-grateful-family-cut-dads-family-fortune.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2021/07/04/19/45028303-0-image-a-21_1625424991677.jpg",
-            "publishedAt": "2021-07-04T18:28:20Z",
-            "content": "Damian Hurley has gushed that he's 'grateful for his beautiful' relatives - days after it was revealed that he's been cut out of his late father's family fortune. \r\nThe model, 19, shared a sweet snap… [+13199 chars]"
+            "author": "Katie Feehan",
+            "title": "BBC splashes out 'tens of thousands of pounds' on new logo that looks exactly like the old one - Daily Mail",
+            "description": "Sources claim the BBC spent tens of thousands on designing the new logo which features a font owned by the BBC and named after founder John Reith as well as more space between the blocks",
+            "url": "https://www.dailymail.co.uk/news/article-9756521/BBC-splashes-tens-thousands-pounds-new-logo-looks-exactly-like-old-one.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2021/07/05/10/45048453-0-image-a-6_1625475944775.jpg",
+            "publishedAt": "2021-07-05T09:18:24Z",
+            "content": "The BBC has come under fire over claims it spent 'tens of thousands of pounds' on a new logo which looks virtually the same as the previous one.\r\nThe logo, made up of the three iconic 'BBC' blocks, f… [+2164 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "The Guardian"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "Guardian sport",
-            "title": "Joey Chestnut eats record 76 hot dogs in 10 minutes to win Nathan’s Famous title - The Guardian",
-            "description": "Chowdown champ Joey ‘Jaws’ Chestnut broke his own record to gulp to a 14th win in the men’s Nathan’s Famous Hot Dog Eating Contest on Sunday",
-            "url": "https://amp.theguardian.com/sport/2021/jul/04/nathans-hot-dog-contest-joey-chestnut-michelle-lesco",
-            "urlToImage": null,
-            "publishedAt": "2021-07-04T18:04:00Z",
-            "content": "US sports<ul><li>Chestnut, 37, sets new record at post-pandemic hot dog race</li><li>Indianan wins annual Fourth of July contest for 14th time</li><li>Michelle Lesco wins womens title with 30¾ dogs c… [+2548 chars]"
+            "author": "Al Jazeera",
+            "title": "Afghan forces plan counterattack against Taliban in north: Report - Al Jazeera English",
+            "description": "Counteroffensive planned after forces lose ground in northern areas, Russia’s RIA cites president’s adviser as saying.",
+            "url": "https://www.aljazeera.com/news/2021/7/5/afghanistan-forces-counterattack-taliban-northern-provinces",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/07/h_57018749.jpg?resize=1200%2C630",
+            "publishedAt": "2021-07-05T09:18:13Z",
+            "content": "Afghanistan government forces are planning a counteroffensive in the countrys northern provinces after losing ground to the Taliban, Russias RIA news agency has cited an adviser to Afghan President A… [+2343 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Express"
+                "name": "Daily Mail"
             },
-            "author": "Sebastian Kettley",
-            "title": "Solar flare hits Earth and disrupts tech - NASA confirms the strongest flare in 4 years - Daily Express",
-            "description": "A STREAM of radiation from the biggest solar flare seen in years was responsible for a tech blackout this weekend, astronomers have announced.",
-            "url": "https://www.express.co.uk/news/science/1458251/solar-flare-hit-earth-space-weather-tech-blackout-radiation-nasa-evg",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1458251.jpg",
-            "publishedAt": "2021-07-04T16:41:00Z",
-            "content": "NASA's Solar Dynamics Observatory (SDO), which tracks the Sun 24/7, photographed the intense flash at 3.29pm BST (10.29am EDT).\r\nThe event was classified as an X1.5-class flare, with \"X\" denoting the… [+606 chars]"
+            "author": "Jessica Green",
+            "title": "Wimbledon's Ajla Tomljanovic: Glamorous Australian player set to take on Britain's Emma Raducanu - Daily Mail",
+            "description": "Emma Raducanu's fairy-tale run continues against 28-year-old Miss Tomljanovic during Wimbledon's Manic Monday, as the pair battle it out in their last-16 match.",
+            "url": "https://www.dailymail.co.uk/femail/article-9756413/Wimbledons-Ajla-Tomljanovic-Glamorous-Australian-player-set-Britains-Emma-Raducanu.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2021/07/05/09/45048073-0-image-a-2_1625473587202.jpg",
+            "publishedAt": "2021-07-05T09:04:33Z",
+            "content": "Britains newest sporting heroine Emma Raducanu is up against surprise Australian contender Ajla Tomljanovic at Wimbledon today.\r\nThe 18-year-old's fairy-tale run continues against 28-year-old Miss To… [+10092 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Sky Sports"
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "England boss Gareth Southgate's leadership traits began at Middlesbrough, says Steve McClaren - Sky Sports",
-            "description": "Steve McClaren is not surprised by Gareth Southgate's success with England and says he was a natural-born leader during his playing days at Middlesbrough.",
-            "url": "https://www.skysports.com/football/news/12016/12348782/england-boss-gareth-southgates-leadership-traits-began-at-middlesbrough-says-steve-mcclaren",
-            "urlToImage": "https://e0.365dm.com/21/07/1600x900/skysports-middlesbrough-steve-mcclaren_5437094.jpg?20210704165350",
-            "publishedAt": "2021-07-04T16:27:51Z",
+            "title": "talkSPORT LIVE | White & Jordan Euro Edition with Danny Murphy: England reach Euro 2020 Semi Final! - talkSPORT",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NXdoMmtOSDFHSGfSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-07-05T09:03:07Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "The Guardian"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Guardian staff reporter",
-            "title": "Cuba evacuates 70,000 as Tropical Storm Elsa threatens heavy flooding - The Guardian",
-            "description": "Storm leaves three dead after battering Caribbean while state of emergency is declared in Florida",
-            "url": "https://amp.theguardian.com/world/2021/jul/04/tropical-storm-elsa-cuba-evacuates-70000-flooding",
-            "urlToImage": "https://i.guim.co.uk/img/media/b3e1ce6d9da760481fcd7232f895af5ad8cb2d1a/0_163_2451_1471/master/2451.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2bd5bdf51733bb20b6b12c85e1d080d",
-            "publishedAt": "2021-07-04T16:24:00Z",
-            "content": "Cuba evacuated 70,000 people in its southern region on Sunday, amid fears that Tropical Storm Elsa could unleash heavy flooding after battering several Caribbean islands and killing at least three pe… [+2322 chars]"
+            "author": "Jon Stone",
+            "title": "British attitude to Brexit deal will cause ‘huge problems’, Irish government says - The Independent",
+            "description": "Brexit minister Lord Frost said EU concessions were not enough",
+            "url": "https://www.independent.co.uk/news/uk/politics/brexit-deal-uk-ireland-johnson-b1878160.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2021/03/13/18/2021-03-10t211720z-1472911564-rc2l8m95x22l-rtrmadp-3-britain-eu-nireland.jpeg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-07-05T08:49:17Z",
+            "content": "The British government's approach to the Brexit deal for Northern Ireland is set to cause \"huge problems\", Ireland's foreign minister has said.\r\nSimon Coveney was responding to an article by UK Brexi… [+12329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Katie Storey",
+            "title": "Love Island star Luis Morrison reveals he's expecting a baby with girlfriend Chloe Elizabeth - Daily Mail",
+            "description": "The former Love Island star confirmed the couple's exciting news on Instagram, as he called his unborn baby a 'little blessing' and told fans he cannot wait to meet his new addition.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-9756557/Love-Island-star-Luis-Morrison-reveals-hes-expecting-baby-girlfriend-Chloe-Elizabeth.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2021/07/05/10/45048927-0-image-a-33_1625476871743.jpg",
+            "publishedAt": "2021-07-05T08:41:08Z",
+            "content": "Luis Morrison has confirmed he is set to become a dad again, as he and girlfriend Chloe Elizabeth are expecting a baby together. \r\nThe former Love Island star confirmed the couple's exciting news on … [+4362 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Euro 2020: Gareth Southgate says England will benefit from tournament for 'a generation to come' - BBC Sport",
+            "description": "England players are \"having fun\", winning over fans and enjoying a Euro 2020 run that could benefit the nation \"for a generation\" , says Gareth Southgate.",
+            "url": "https://www.bbc.co.uk/sport/football/57718200",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11551/production/_119239907_southgate_get.jpg",
+            "publishedAt": "2021-07-05T08:04:20Z",
+            "content": "'Couldn't have wished for better, it's coming home'\r\n<table><tr><th>Euro 2020 semi-final: England v Denmark</th></tr>\r\n<tr><td>Date: Wednesday, 7 July. Kick-off: 20:00 BST. Venue: Wembley Stadium. Co… [+2854 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Katie Storey",
+            "title": "Gordon Ramsay leaves newlyweds fuming as he 'gatecrashes' £1300 wedding to film new TV series - Daily Mail",
+            "description": "A newlywed couple have slammed Gordon Ramsay and his production team for ruining their wedding day last month, as the film crew took over the beach where they had paid to tie the knot.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-9756377/Gordon-Ramsay-leaves-newlyweds-fuming-gatecrashes-1300-wedding-film-new-TV-series.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2021/07/05/09/45047969-0-image-a-37_1625473179740.jpg",
+            "publishedAt": "2021-07-05T07:32:05Z",
+            "content": "A newlywed couple have slammed Gordon Ramsay and his production team for ruining their wedding day.  \r\nCharlie Willis, 35, and his wife Laura, 29, tied the knot on a private beach in Newquay, Cornwal… [+4785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metro.co.uk"
+            },
+            "author": "Alicia Adejobi",
+            "title": "Katie Price feared she’d die after 'horrific' cosmetic surgery procedures - Metro.co.uk",
+            "description": "The TV star had the operations three weeks ago in Turkey.",
+            "url": "https://metro.co.uk/2021/07/05/katie-price-feared-shed-die-after-horrific-cosmetic-surgery-procedures-14872944/",
+            "urlToImage": "https://metro.co.uk/wp-content/uploads/2021/04/SEI_76057598_1625471889.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+            "publishedAt": "2021-07-05T07:14:00Z",
+            "content": "Katie Price had several cosmetic procedures in Turkey last month (Picture: @katieprice)\r\nKatie Price feared she would die after having multiple cosmetic surgery procedures at the same time in Turkey … [+2740 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "China targets more tech groups after Didi crackdown - Financial Times",
+            "description": "Internet stocks tumble as Beijing broadens probe following ride-hailing app’s New York IPO",
+            "url": "https://www.ft.com/content/771f6d40-ecd2-4855-8193-d0550f1d2e3d",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F95fda48a-eda3-494e-9c36-c8bb74c8fc6d.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2021-07-05T07:10:49Z",
+            "content": "Beijing has broadened a crackdown on tech platforms, targeting more US-listed companies after ordering the removal of ride-sharing group Didi Chuxing from Chinese app stores in a move that sent tech … [+3837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "LancsLive"
+            },
+            "author": "Graham Hiscott, Jon Macpherson",
+            "title": "Tesco, B&Q, Asda, Aldi, Morrisons: Product shortages and price hikes within weeks - Lancs Live",
+            "description": "Premier Foods has called on the Government to use the Army to distribute goods amid a shortage of around 100,000 truckers",
+            "url": "https://www.lancs.live/news/uk-world-news/tesco-bq-asda-aldi-morrisons-20969381",
+            "urlToImage": "https://i2-prod.lancs.live/incoming/article20969391.ece/ALTERNATES/s1200/0_JS226657037.jpg",
+            "publishedAt": "2021-07-05T06:12:36Z",
+            "content": "UK supermarkets and high street retailers are bracing themselves for further food and product shortages due to a lack of lorry drivers, farm workers, Covid rules and soaring shipping costs.\r\nThe toxi… [+2251 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wales Online"
+            },
+            "author": "Ffion Lewis",
+            "title": "Live updates as Health Minister Eluned Morgan to lead coronavirus briefing - WalesOnline",
+            "description": "The Health Minister will provide an update on the coronavirus situation in Wales",
+            "url": "https://www.walesonline.co.uk/news/politics/covid-welsh-government-eluned-morgan-20969343",
+            "urlToImage": "https://i2-prod.walesonline.co.uk/incoming/article20956506.ece/ALTERNATES/s1200/0_CDF_130521_CF_Welsh_Govt_Cabinet_018JPG.jpg",
+            "publishedAt": "2021-07-05T06:07:48Z",
+            "content": "Wales' infection rate has risen again to 81.1 per 100,000 population based on the last seven days - up on the 71.7 on Friday.\r\nHealth Minister Eluned Morgan and Dr Andrew Goodall, Chief Executive of … [+1514 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "RaceFans"
+            },
+            "author": "Elliot Wood",
+            "title": "F1: How dominant Verstappen was without a rival in Austria - RaceFans",
+            "description": "Max Verstappen dominated the Austrian Grand Prix as Lando Norris, rather than Sergio Perez, proved the biggest obstacle to Mercedes.",
+            "url": "https://www.racefans.net/2021/07/05/how-verstappen-was-left-without-rival-in-dominant-austrian-gp-win/",
+            "urlToImage": "https://www.racefans.net/wp-content/uploads/2021/07/racefansdotnet-21-07-04-16-29-22-4.jpg",
+            "publishedAt": "2021-07-05T06:07:40Z",
+            "content": "Following Max Verstappens Austrian Grand Prix win, Lewis Hamilton is now more than a wins worth of points away from the championship lead for the first time since 2016, and only once has he overcome … [+13134 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Metro.co.uk"
+            },
+            "author": "Elisa Menendez",
+            "title": "Queen's handwritten note to NHS staff awarding Covid heroes the George Cross - Metro.co.uk",
+            "description": "The accolade is awarded in recognition of 'acts of the greatest heroism or of the most courage in circumstances of extreme danger'.",
+            "url": "https://metro.co.uk/2021/07/05/queens-handwritten-note-to-nhs-staff-awarding-covid-heroes-the-george-cross-14872691/",
+            "urlToImage": "https://metro.co.uk/wp-content/uploads/2021/07/SEC_85992112_1625468642.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+            "publishedAt": "2021-07-05T06:00:00Z",
+            "content": "The George Cross is the countrys highest award for gallantry and heroism (Picture: PA/Getty)\r\nThe Queen has awarded the UKs highest accolade for heroism to NHS workers to mark more than 70 years of p… [+2939 chars]"
         }
     ]
 }
