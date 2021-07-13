@@ -4,81 +4,133 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amelia Lucas",
+            "title": "PepsiCo earnings crush estimates as restaurant demand returns, company raises forecast - CNBC",
+            "description": "PepsiCo on Tuesday reported that its quarterly revenue rose more than 20% as restaurant demand for its drinks returned, fueling an earnings beat.",
+            "url": "https://www.cnbc.com/2021/07/13/pepsico-pep-q2-2021-earnings.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106909470-1626093781592-gettyimages-1232307828-PEPSICO_EARNS.jpeg?v=1626093805",
+            "publishedAt": "2021-07-13T10:09:56Z",
+            "content": "PepsiCo on Tuesday reported that its quarterly revenue rose more than 20% compared with the prior year as restaurant demand for its drinks returned, fueling an earnings beat.\r\nThe company also raised… [+2622 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "David Siders, Stephanie Murray",
+            "title": "'Get on the team or shut up': How Trump created an army of GOP enforcers - POLITICO",
+            "description": "Trump might be out of office, but his loyalists atop state Republican parties are serving as instruments of his political will.",
+            "url": "https://www.politico.com/news/2021/07/13/trump-gop-enforcers-state-chairs-499456",
+            "urlToImage": "https://static.politico.com/49/b1/86e103134cb4be23b6708e9eaa05/gettyimages-1328227229-1.jpg",
+            "publishedAt": "2021-07-13T08:30:30Z",
+            "content": "There and elsewhere, state party chairs have been at the center of a raft of resolutions to censure or rebuke GOP lawmakers deemed insufficiently loyal to Trump.\r\nIn red states, blue states and swing… [+8821 chars]"
+        },
+        {
+            "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Louis Casiano",
-            "title": "Curtis Sliwa, GOP candidate for NYC mayor, says he wasn’t invited to White House to discuss crime reduction - Fox News",
-            "description": "Curtis Sliwa said Eric Adams, a former police officer and current Brooklyn borough president, has already been coronated as the mayor by the media. The founder of the Guardian Angels anti-crime group said he should have been invited to the White House roundta…",
-            "url": "https://www.foxnews.com/us/curtis-sliwa-guardian-angels-white-house-crime",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/closeup-Curtis.jpg",
-            "publishedAt": "2021-07-12T21:48:20Z",
-            "content": "Curtis Sliwa, the Republican candidate for mayor of New York City, questioned why he wasn't invited Monday to meet with President Biden and several law enforcement leaders from across the nation to d… [+2925 chars]"
+            "author": "Andrew Murray",
+            "title": "Warnings from right and left about Johnson & Johnson vaccine's link to rare disease - Fox News",
+            "description": "Following the FDA's alert that Johnson & Johnson's COVID-19 vaccine might be linked to a rare disorder, warnings are coming from both the political right and left.",
+            "url": "https://www.foxnews.com/politics/warnings-from-right-and-left-about-johnson-johnson-vaccines-link-to-rare-disease",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Johnson-Johnson.jpg",
+            "publishedAt": "2021-07-13T08:03:35Z",
+            "content": "EXCLUSIVE: Following the Food and Drug Administration warning of a possible link between the Johnson &amp; Johnson COVID-19 vaccine and a rare neurological disorder called Guillain-Barré Syndrome, co… [+3143 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "France fines Google about $593 mln over news copyright row - AFP - Reuters",
+            "description": "France has fined Alphabet Inc's <a href=\"https://www.reuters.com/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)</a> Google 500 million euros ($592.75 million) over news copyright row, AFP news agency reported on Tuesday.",
+            "url": "https://www.reuters.com/technology/france-fines-google-about-593-mln-over-news-copyright-row-afp-2021-07-13/",
+            "urlToImage": "https://www.reuters.com/resizer/ycBOKs2AJxOXb6ZCMTExz4GQLLE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WKRE4NOVB5MQ5FC37KHJULFINU.jpg",
+            "publishedAt": "2021-07-13T07:19:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Kara Scannell, CNN",
-            "title": "Indicted Trump Organization CFO removed as an officer from several company subsidiaries - CNN ",
-            "description": "The Trump Organization has removed Allen Weisselberg, its chief financial officer, from officer positions at several of its subsidiaries, including Mar-a-Lago, after he and former President Donald Trump's namesake business were indicted for allegedly running …",
-            "url": "https://www.cnn.com/2021/07/12/politics/weisselberg-trump-organization-removed-officer-subsidiaries/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210712171939-allen-weisselberg-0701-super-tease.jpg",
-            "publishedAt": "2021-07-12T21:22:00Z",
-            "content": "(CNN)The Trump Organization has removed Allen Weisselberg, its chief financial officer, from officer positions at several of its subsidiaries, including Mar-a-Lago, after he and former President Dona… [+1666 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "The Galaxy Z Fold 3 will support the S Pen Pro, according to FCC filings - The Verge",
-            "description": "FCC filings for the S Pen Pro, a bigger version of the S Pen with Bluetooth, have been made public, and reveal that the upcoming stylus will support the unannounced Galaxy Z Fold 3.",
-            "url": "https://www.theverge.com/2021/7/12/22574173/galaxy-z-fold-3-s-pen-pro-support-fcc-filing",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/aw0ANYdMg2BKG4npKeWzk95LMHM=/0x100:5120x2781/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22713157/Screen_Shot_2021_07_12_at_11.56.01_AM.png",
-            "publishedAt": "2021-07-12T20:27:04Z",
-            "content": "Samsung has long hinted that stylus support was coming to the foldable\r\nSamsungs S Pen and S Pen Pro.\r\nImage: Samsung\r\nAfter many teases, it seems as if a Samsung foldable is finally going to get sup… [+2283 chars]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Rob Goldberg",
-            "title": "Marcus Rashford on Penalty Miss in Euro 2020 Final vs. Italy: 'I'll Be Back Stronger' - Bleacher Report",
-            "description": "English forward Marcus Rashford released a powerful statement Monday following his disappointing finish at Euro 2020: Rashford was subbed onto pitch in the...",
-            "url": "https://bleacherreport.com/articles/10007627-marcus-rashford-on-penalty-miss-in-euro-2020-final-vs-italy-ill-be-back-stronger",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/v1626120896/ofaylson3lztb9ko5tpa.jpg",
-            "publishedAt": "2021-07-12T20:25:14Z",
-            "content": "Carl Recine/Pool Photo via AP\r\nEnglish forward Marcus Rashford released a powerful statement Monday following his disappointing finish at Euro 2020:\r\nMarcus Rashford MBE@MarcusRashford&lt;a href=\"htt… [+1421 chars]"
+            "author": "Madeline Holcombe, CNN",
+            "title": "Americans need to make a choice in order to avoid a Covid surge, expert says - CNN ",
+            "description": "With Covid-19 cases and hospitalizations increasing in communities with low vaccination rates, an expert says Americans face a choice: get vaccinated or continue dealing with the impacts of the pandemic.",
+            "url": "https://www.cnn.com/2021/07/13/health/us-coronavirus-tuesday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210713013829-las-vegas-vaccination-0707-super-tease.jpg",
+            "publishedAt": "2021-07-13T07:09:00Z",
+            "content": "(CNN)With Covid-19 cases and hospitalizations increasing in communities with low vaccination rates, an expert says Americans face a choice: get vaccinated or continue dealing with the impacts of the … [+5772 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Lookout Landing"
+                "name": "The Guardian"
             },
-            "author": "Kate Preusser",
-            "title": "Mariners 2021 MLB Draft picks, fifth through tenth rounds - Lookout Landing",
-            "description": "Remember, Wade Boggs was a seventh-rounder, so don’t sleep on any of these guys",
-            "url": "https://www.lookoutlanding.com/2021/7/12/22574322/mariners-2021-mlb-draft-picks-fifth-through-tenth-rounds-live-tracker",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/-gXjDPSdfVrmbYBJlwwdX3mVKK4=/0x0:8640x4524/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22713381/1233933047.jpg",
-            "publishedAt": "2021-07-12T20:19:15Z",
-            "content": "Here are the writeups for the remaining draft picks on Day 2 of the MLB draft, rounds 5-10. If you want the writeups on the first four draft picks, round one (Harry Ford) is here, round two (Edwin Ar… [+3632 chars]"
+            "author": "Hugo Lowell",
+            "title": "House Democrats tell Senate: exempt voting rights bill from filibuster - The Guardian",
+            "description": "Filibuster exception would allow Democrats to push through their voting rights reform bill over unanimous Republican opposition",
+            "url": "https://amp.theguardian.com/us-news/2021/jul/13/house-democrats-senate-filibuster-exception-voting-rights",
+            "urlToImage": "https://i.guim.co.uk/img/media/11f5e570886c16d09cf7867e63229f7b3f91c255/0_100_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b61dc12e7e0084f91270d51b2f94b246",
+            "publishedAt": "2021-07-13T07:01:00Z",
+            "content": "Top Democrats in the House are spearheading a new effort to convince the Senate to carve out a historic exception to the filibuster that would allow them to push through their marquee voting rights a… [+5246 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KSL.com"
+                "name": "CNBC"
             },
-            "author": "Jordan Valinsky Business, CNN",
-            "title": "Microsoft issues urgent security warning: Update your PC immediately - KSL.com",
-            "description": "Microsoft is urging Windows users to immediately install an update after security researchers found a serious vulnerability in the operating system.",
-            "url": "https://www.ksl.com/article/50203184/microsoft-issues-urgent-security-warning-update-your-pc-immediately",
-            "urlToImage": "https://img.ksl.com/slc/2832/283211/28321176.jpeg?filter=ksl/responsive_story_lg",
-            "publishedAt": "2021-07-12T20:15:17Z",
-            "content": "ATLANTA (CNN) Microsoft is urging Windows users to immediately install an update after security researchers found a serious vulnerability in the operating system.\r\nThe security flaw, known as PrintNi… [+2391 chars]"
+            "author": "Weizhen Tan",
+            "title": "Morgan Stanley says investors should be cautious on Chinese stocks amid tech crackdown - CNBC",
+            "description": "U.S. investment bank Morgan Stanley reiterated its call to downgrade Chinese stocks under the MSCI China index.",
+            "url": "https://www.cnbc.com/2021/07/13/investing-in-china-morgan-stanley-says-stay-cautious-on-chinese-stocks.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106702016-1600126314490-gettyimages-1214426252-dyf-00642_2020032433054316.jpeg?v=1626150323",
+            "publishedAt": "2021-07-13T06:52:11Z",
+            "content": "Morgan Stanley is urging investors to be cautious on Chinese stocks, given the country's recent regulatory crackdown on its internet companies.\r\nThe investment bank reiterated its call to downgrade C… [+2864 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Matthew Wells",
+            "title": "Conor McGregor takes shots at Dustin Poirier and his family in cryptic deleted tweets - MMA Junkie",
+            "description": "Conor McGregor went on a cryptic Tweet-and-delete spree directed at Dustin Poirier and his family late Monday night.",
+            "url": "https://mmajunkie.usatoday.com/2021/07/conor-mcgregor-takes-shots-at-dustin-poirier-and-his-family-in-cryptic-deleted-tweets",
+            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2021/07/conor-mcgregor-ufc-264-ceremonial-weigh-ins-point.jpg?w=1000&h=576&crop=1",
+            "publishedAt": "2021-07-13T06:33:45Z",
+            "content": "Conor McGregor said the feud between himself and Dustin Poirier wasn’t over.\r\nMcGregor was seething in anger immediately after the conclusion of UFC 264‘s main event trilogy bout with Poirier, which … [+1491 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Maria Cheng",
+            "title": "Immunized but banned: EU says not all COVID vaccines equal - Associated Press",
+            "description": "LONDON (AP) — After Dr. Ifeanyi Nsofor and his wife received two doses of AstraZeneca's coronavirus vaccine in Nigeria, they assumed they would be free to travel this summer to a European destination of their choice.",
+            "url": "https://apnews.com/article/europe-business-lifestyle-health-travel-f678a53270470d9b35ce6259e48548bf",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5cd14feaa7bc4d83ba7f478d7e301cc7/3000.jpeg",
+            "publishedAt": "2021-07-13T06:25:05Z",
+            "content": "LONDON (AP) After Dr. Ifeanyi Nsofor and his wife received two doses of AstraZenecas coronavirus vaccine in Nigeria, they assumed they would be free to travel this summer to a European destination of… [+6528 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MassLive.com"
+            },
+            "author": "Brian Robb | brobb@masslive.com",
+            "title": "Gregg Popovich gets into heated exchange with reporter, Jayson Tatum’s move to bench and other takeaways from - MassLive.com",
+            "description": "Team USA dropped the second straight game on their exhibition calendar in Las Vegas on Monday night.",
+            "url": "https://www.masslive.com/celtics/2021/07/gregg-popovich-gets-into-heated-exchange-with-reporter-jayson-tatums-move-to-bench-and-other-takeaways-from-usa-basketballs-loss-to-australia.html",
+            "urlToImage": "https://www.masslive.com/resizer/vu89FU-rBJqhZUDlXsxWUnzmQDI=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GYKR34S5HBEXPNN7Y2TOTNATR4.jpg",
+            "publishedAt": "2021-07-13T05:06:55Z",
+            "content": "A look at some Team USA takeaways after the Americans dropped their second straight exhibition game 91-83 to Australia on Monday night in Las Vegas.\r\nGregg Popovich was not happy with a reporters lin… [+5113 chars]"
         },
         {
             "source": {
@@ -86,181 +138,129 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Ric Bucher on Giannis' strong play in finals, Devin Booker's poor GM 3 performance I NBA I THE HERD - The Herd with Colin Cowherd",
+            "title": "Shohei Ohtani post Home Run derby press conference - Los Angeles Times",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z3EzbmtSVUE0Wm_SAQA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UEp5R0JZeTlPN1nSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-07-12T20:13:04Z",
+            "publishedAt": "2021-07-13T05:00:15Z",
             "content": null
         },
         {
             "source": {
-                "id": "polygon",
-                "name": "Polygon"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Nicole Carpenter",
-            "title": "Super Mario 64 sells for $1.5 million at auction - Polygon",
-            "description": "An immaculate copy of Super Mario 64, rated Wata 9.8, sold at Heritage Auctions for $1,560,00 over the weekend — breaking a record set on Friday by the sale of a cartridge of The Legend of Zelda for $870,000.",
-            "url": "https://www.polygon.com/22574261/super-mario-64-auction-record-price-heritage-auctions-wata-nintendo",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/w7UbSGJ_GzPeCHvW3KCYJPKAgcc=/0x91:1024x627/fit-in/1200x630/cdn.vox-cdn.com/assets/1969959/super_mario_64.jpg",
-            "publishedAt": "2021-07-12T20:02:37Z",
-            "content": "Last week, a game cartridge of The Legend of Zeldasold for $870,000, the highest price ever paid for a video game at auction. But The Legend of Zelda only held that record for a few days before it wa… [+5881 chars]"
+            "author": "Associated Press",
+            "title": "Florida suspect in Haiti president killing deepens mystery - Fox News",
+            "description": "The arrest of a failed Haitian businessman living in Florida who authorities say was a key player in the killing of Haiti’s president deepened the mystery Monday into an already convoluted plot surrounding the assassination.",
+            "url": "https://www.foxnews.com/world/florida-suspect-in-haiti-president-killing-deepens-mystery",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/haiti-protests-assassination-florida-suspect.jpg",
+            "publishedAt": "2021-07-13T04:13:45Z",
+            "content": "PORT-AU-PRINCE, Haiti The arrest of a failed Haitian businessman living in Florida who authorities say was a key player in the killing of Haitis president deepened the mystery Monday into an already … [+9614 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "Yahoo Entertainment"
             },
-            "author": "",
-            "title": "2021 MLB Home Run Derby: Live stream, time, how to watch online, participants, bracket, odds - CBS Sports",
-            "description": "Shohei Ohtani headlines this year's field of participants; Pete Alonso is the defending champ",
-            "url": "https://www.cbssports.com/mlb/news/2021-mlb-home-run-derby-live-stream-time-how-to-watch-online-participants-bracket-odds/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/07/12/0da9ae5e-7948-4982-bf47-1af14873b0f0/thumbnail/1200x675/4bb60b0a5bb042370221a94fc2340dcd/coors-field-1.png",
-            "publishedAt": "2021-07-12T19:54:00Z",
-            "content": "On Monday, Major League Baseball will continue the 2021 All-Star Game festivities in Denver with the Home Run Derby at Coors Field. This year marks the first All-Star Game and related festivities sin… [+3126 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Melissa Quinn",
-            "title": "Biden says U.S. \"stands firmly\" with Cuban people amid protests against regime - CBS News",
-            "description": "\"The Cuban people are bravely asserting fundamental and universal rights,\" Mr. Biden said in a statement.",
-            "url": "https://www.cbsnews.com/news/cuba-protests-biden-us-statement/",
-            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/12/bd34d1e2-098c-4a9f-a8d4-ff9240ade2c0/thumbnail/1200x630g3/5b1b7fb0d499d0922a484b8a54eb9bd9/gettyimages-1233945432.jpg",
-            "publishedAt": "2021-07-12T19:51:46Z",
-            "content": "Washington — President Biden on Monday said the United States \"stands firmly\" with the people of Cuba and \"their clarion call for freedom\" after thousands of Cubans mounted the biggest protests again… [+2601 chars]"
+            "author": "Hannah Keyser",
+            "title": "Yes, Shohei Ohtani is the face of baseball. Just ask baseball - Yahoo Sports",
+            "description": "There's no mistaking the main attraction at MLB's All-Star festivities.",
+            "url": "https://sports.yahoo.com/yes-shohei-ohtani-is-the-face-of-baseball-just-ask-baseball-040356068.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1lyMJS.c2nXyYZdtIfAb5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2021-07/a430a180-e388-11eb-bbeb-e2fd67f3aeb6",
+            "publishedAt": "2021-07-13T04:03:56Z",
+            "content": "DENVER The best baseball players in the world assembled in Denver on Monday to offer their expertly awed perspective on Shohei Ohtani.\r\nOh, they answered questions about their own exploits too, of co… [+5960 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Variety"
+                "name": "The Guardian"
             },
-            "author": "Ramin Setoodeh",
-            "title": "Wes Anderson’s ‘The French Dispatch’ Dazzles Cannes With Timothee Chalamet, a Party Bus and a Nine-Minute Standing Ovation - Variety",
-            "description": "There were so many movie stars at the premiere of Wes Anderson’s “The French Dispatch” on Monday night at the Cannes Film Festival, it almost felt like pre-pandemic times. The streets near the Palais were shut down. The crowds were screaming. And Timothee Cha…",
-            "url": "https://variety.com/2021/film/news/the-french-dispatch-wes-anderson-timothee-chalamet-premiere-cannes-tilda-swinton-bill-murray-1235017917/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2021/07/French-Dispatch-Premiere-07.jpg?w=1000",
-            "publishedAt": "2021-07-12T19:47:00Z",
-            "content": "There were so many movie stars at the premiere of Wes Anderson’s “The French Dispatch” on Monday night at the Cannes Film Festival, it almost felt like pre-pandemic times.\r\nThe streets near the Palai… [+3602 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Joey Roulette",
-            "title": "Elon Musk has a ticket to ride on Richard Branson’s spaceplane - The Verge",
-            "description": "SpaceX CEO Elon Musk bought a ticket to fly to space on the spaceplane of Richard Branson’s Virgin Galactic, The Wall Street Journal reported on July 11th.",
-            "url": "https://www.theverge.com/2021/7/12/22573850/elon-musk-richard-branson-spaceplane-virgin-galactic",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/iPscY6gCQ6uq4JHc15BOZc8wWIk=/0x0:743x389/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22713032/E6A_2GfVEAESZrr.jpg",
-            "publishedAt": "2021-07-12T19:34:57Z",
-            "content": "Billionaire pals doing billionaire things\r\nRichard Branson and a barefoot Elon Musk hang out on the morning of Bransons launch to space.\r\nRichard Bransons Twitter\r\nSpace billionaire Elon Musk bought … [+2540 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Tom Metcalfe",
-            "title": "Move over, Mars: Why the moons of Jupiter and Saturn may be key to finding alien life - NBC News",
-            "description": "Several scientific papers this year touch on the search for faint signs of life in our solar system — with a June paper on Jupiter's Enceladus offering one of the most intriguing prospects.",
-            "url": "https://www.nbcnews.com/science/space/move-mars-moons-jupiter-saturn-may-key-finding-alien-life-rcna1390",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-07/210709-Enceladus-plume-ew-1020p-214df4.jpg",
-            "publishedAt": "2021-07-12T19:33:37Z",
-            "content": "In the hunt for life outside Earth, Mars is old news.\r\nI think Id rate Enceladus now over Europa, and there were people who were saying Europa was a better prospect than Mars, said Seth Shostak, the … [+4790 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Hilary Brueck, Allison DeAngelis",
-            "title": "FDA to warn of Guillain-Barré risk for Johnson & Johnson vaccine: report - Business Insider",
-            "description": "About 100 cases of a rare disorder have been reported in people who got the J&J shot, the CDC said in a statement.",
-            "url": "https://www.businessinsider.com/fda-guillain-barre-risk-for-johnson-and-johnson-covid-vaccine-2021-7",
-            "urlToImage": "https://i.insider.com/60ec820d61b8600019f16a75?width=1200&format=jpeg",
-            "publishedAt": "2021-07-12T19:31:07Z",
-            "content": "US health officials plan to warn of a rare but serious neurological disorder linked to Johnson &amp; Johnson's coronavirus vaccine, The Washington Post reported on Monday, citing four people it didn'… [+2386 chars]"
-        },
-        {
-            "source": {
-                "id": "entertainment-weekly",
-                "name": "Entertainment Weekly"
-            },
-            "author": "Dan Snierson",
-            "title": "J.B. Smoove signed on to Shark Week thinking it was 'Shark Tank' - Entertainment Weekly News",
-            "description": "The <em>Curb Your Enthusiasm</em> star was surprised to learn that he'd be swimming with actual sharks, not Mark Cuban & Co.",
-            "url": "https://ew.com/tv/jb-smoove-shark-week-shark-tank/",
-            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B980%2C39%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2021%2F07%2F09%2FAQPJ_BradPaisley_-386.jpg",
-            "publishedAt": "2021-07-12T19:11:00Z",
-            "content": "This week, you can watch J.B. Smoove swim with the ocean's feared apex predator on Brad Paisley's Shark Country, but the Curb Your Enthusiasm star actually thought that he'd be facing down a much dif… [+8546 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Dozens die after fire in Covid isolation ward at hospital in southern Iraq - The Guardian",
+            "description": "Death toll expected to rise as search operations at al-Hussain coronavirus hospital in Nasiriyah continue",
+            "url": "https://amp.theguardian.com/world/2021/jul/12/dozens-die-after-fire-in-covid-isolation-ward-at-hospital-in-southern-iraq",
+            "urlToImage": "https://i.guim.co.uk/img/media/653757ffcef2f628abc6dbd801e50ce90cceebab/0_0_1833_1100/master/1833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc79d52588b9c4e6ba426c0e583c5980",
+            "publishedAt": "2021-07-13T03:36:00Z",
+            "content": "At least 50 people have died after a fire tore through the Covid isolation ward at a hospital in the southern Iraqi city of Nasiriyah.\r\nThe death toll is expected to rise, as search operations at al-… [+1597 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BuzzFeed News"
+                "name": "WMUR Manchester"
             },
-            "author": "Nicole Fallert",
-            "title": "Drake Bell Was Sentenced To Two Years Of Probation For Child Endangerment - BuzzFeed News",
-            "description": "“I accept this plea because my conduct was wrong,” Bell told the court.",
-            "url": "https://www.buzzfeednews.com/article/nicolefallert/drake-bell-probation-child-endangerment",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2021-07/12/19/campaign_images/318dd7df9b77/drake-bell-was-sentenced-to-two-years-of-probatio-2-7678-1626119660-24_dblbig.jpg?resize=1200:*",
-            "publishedAt": "2021-07-12T19:07:00Z",
-            "content": "Former Drake &amp; Josh actor Jared Drake Bell was sentenced to two years of probation on Monday for charges involving endangerment of a child in Ohio.\r\nI accept this plea because my conduct was wron… [+3968 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Paul Waldman",
-            "title": "Opinion | On voting rights, Biden talks and Republicans act - The Washington Post",
-            "description": "President Biden is going to give a speech in Philadelphia on voting rights. But what will it accomplish?",
-            "url": "https://www.washingtonpost.com/opinions/2021/07/12/voting-rights-biden-talks-republicans-act/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6XLXEUXBVAI6XIT7RMUUSMHJLM.jpg&w=1440",
-            "publishedAt": "2021-07-12T19:00:49Z",
-            "content": "In other words: A president goes to a location weighted with symbolism to deliver a piece of rhetoric, while 1,400 miles away, the opposition party engages in an exercise of raw power.\r\nStory continu… [+4742 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Elon Musk defends Tesla's SolarCity takeover in fiery court testimony - Financial Times",
-            "description": "Founder of electric car maker attacks attorney for investors challenging $2.6bn deal",
-            "url": "https://www.ft.com/content/4e21251e-355e-4884-97b2-aa557a6654c4",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb74fc4d-1fbc-487f-8ab2-2649431df59d.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2021-07-12T18:55:35Z",
-            "content": "A combative Elon Musk defended Tesla’s takeover of SolarCity and ripped into a lawyer for the shareholders who are suing over the deal, in the first day of a trial that could saddle him with a huge c… [+3193 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Heather Hollingsworth, Kantele Franko",
-            "title": "Summer camps hit with COVID outbreaks -- are schools next? - Associated Press",
-            "description": "The U.S. has seen a string of COVID-19 outbreaks tied to summer camps in recent weeks in places such as Texas, Illinois, Florida, Missouri and Kansas, in what some fear could be a preview of the upcoming school year.",
-            "url": "https://apnews.com/article/health-coronavirus-pandemic-michael-brown-7dd22f4efe101603c2c4caf531c980dc",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c05fb717337e4f0ab7087c5e31ff3b3e/3000.jpeg",
-            "publishedAt": "2021-07-12T18:49:47Z",
-            "content": "The U.S. has seen a string of COVID-19 outbreaks tied to summer camps in recent weeks in places such as Texas, Illinois, Florida, Missouri and Kansas, in what some fear could be a preview of the upco… [+5978 chars]"
+            "author": "Nicol Lally",
+            "title": "Mobile vaccination van hits road in New Hampshire - WMUR Manchester",
+            "description": "More than half of New Hampshire's population is fully vaccinated, but starting this week, a vaccine van will start traveling across the state to make it easier for anyone who still wants to get a shot.",
+            "url": "https://www.wmur.com/article/mobile-vaccination-van-hits-road-in-new-hampshire/37003985",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/4ba77a9b-aa18-4f74-bd85-ff45b46f0288/4ba77a9b-aa18-4f74-bd85-ff45b46f0288_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
+            "publishedAt": "2021-07-13T02:57:00Z",
+            "content": "MANCHESTER, N.H. —More than half of New Hampshire's population is fully vaccinated, but starting this week, a vaccine van will start traveling across the state to make it easier for anyone who still … [+1928 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "/FILM"
+                "name": "WSBT-TV"
             },
-            "author": "Vanessa Armstrong",
-            "title": "Taskmaster Fighting Style and Every Avenger Copied - /FILM",
-            "description": "Let's talk about that Taskmaster fighting style, and every Avenger the mysterious villain copies during their fights in Black Widow.",
-            "url": "https://www.slashfilm.com/taskmaster-fighting-style/",
-            "urlToImage": "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/blackwidow-taskmaster-claws.jpg",
-            "publishedAt": "2021-07-12T18:47:08Z",
-            "content": "In Black Widow, the latest entry in the Marvel Cinematic Universe, the villainous Taskmaster gets into a whole lot of fights with a whole lot of people. Like the characters comic book counterpart, th… [+2513 chars]"
+            "author": "Associated Press",
+            "title": "Officials: At least 8 dead, 9 missing in Chinese hotel collapse - KOMO News",
+            "description": "BEIJING (AP) &mdash; Authorities say at least eight people have died and 9 remained missing in a hotel collapse in Suzhou city in eastern China. The hotel building collapsed Monday afternoon, the Suzhou government said. Rescuers used cranes, ladders, metal cu…",
+            "url": "https://wsbt.com/news/nation-world/officials-at-least-8-dead-9-missing-in-chinese-hotel-collapse",
+            "urlToImage": "https://static-34.sinclairstoryline.com/resources/media/2e404717-a514-4c38-a983-5330cfd87eac-large16x9_CGS_Crime_Police_Line_Tape_IC.png?1626144357424",
+            "publishedAt": "2021-07-13T02:50:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katelyn Polantz, CNN",
+            "title": "Judge grills lawyers on thin election fraud claims at Michigan hearing on possible sanctions - CNN ",
+            "description": "A judge in Michigan pinned down lawyers in a marathon video court hearing Monday on whether they had done due diligence before filing election fraud claims in federal court in November. The grilling came in a hearing over whether the Trump-supporting lawyers …",
+            "url": "https://www.cnn.com/2021/07/12/politics/2020-election-fraud-claims-lawyer-hearing/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210712174625-lin-wood-sidney-powell-split-super-tease.jpg",
+            "publishedAt": "2021-07-13T02:49:00Z",
+            "content": "(CNN)A judge in Michigan pinned down lawyers in a marathon video court hearing Monday on whether they had done due diligence before filing election fraud claims in federal court in November. The gril… [+6855 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Alexandra Garrett",
+            "title": "Elon Musk might be headed to space soon -- but not on a SpaceX rocket - CNET",
+            "description": "The Tesla and SpaceX CEO has reportedly purchased a ticket with Virgin Galactic, which flew Richard Brason to space on Sunday.",
+            "url": "https://www.cnet.com/news/elon-musk-might-be-headed-to-space-but-not-on-a-spacex-rocket/",
+            "urlToImage": "https://www.cnet.com/a/img/XozBZC54mi2qqV988MddPJAl4R8=/0x0:4857x2728/1200x630/2021/05/17/aca06f7a-cbef-4414-a8c4-af6eea29dca8/gettyimages-1229893671.jpg",
+            "publishedAt": "2021-07-13T02:47:25Z",
+            "content": "The Tesla and SpaceX CEO reportedly purchased a ticket to space with Virgin Galactic. \r\nGetty Images\r\nElon Musk is planning to take a trip to space with Virgin Galactic, according to a Sunday report … [+1673 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "The Associated Press",
+            "title": "'Oh yeah! Mario time!' Unopened Super Mario 64 game sells for $1.56M, smashing records - KSL.com",
+            "description": "An unopened copy of Nintendo's Super Mario 64 has sold at auction for $1.56 million.",
+            "url": "https://www.ksl.com/article/50202777/oh-yeah-mario-time-unopened-super-mario-64-game-sells-for-156m-smashing-records",
+            "urlToImage": "https://img.ksl.com/slc/2832/283218/28321830.jpeg?filter=ksl/responsive_story_lg",
+            "publishedAt": "2021-07-13T02:38:10Z",
+            "content": "DALLAS (AP) An unopened copy of Nintendo's Super Mario 64 has sold at auction for $1.56 million.\r\nHeritage Auctions in Dallas said that the 1996 game sold Sunday, breaking its previous record price f… [+1099 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Amanda Kooser",
+            "title": "Magnificent photo of the space station at sunrise will take your breath away - CNET",
+            "description": "Earth. ISS solar panels. Orbital sunrise. Wow.",
+            "url": "https://www.cnet.com/news/magnificent-photo-of-the-space-station-at-sunrise-will-take-your-breath-away/",
+            "urlToImage": "https://www.cnet.com/a/img/cpjQDGFr-xNkW2HbzxsF-U-7vX0=/1200x630/2021/07/12/8a3e196d-2030-4e18-8742-f90d6d48ab69/isskimbrough.jpg",
+            "publishedAt": "2021-07-13T02:31:50Z",
+            "content": "ISS solar panels catch the light during an orbital sunrise.\r\nNASA/Shane Kimbrough\r\nI love looking at photos taken from the International Space Station. I peek at the pyramids, ogle the aurorae and ma… [+2123 chars]"
         }
     ]
 }
