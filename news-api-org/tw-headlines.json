@@ -4,146 +4,94 @@
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "【愛爾達】中華職棒32年選秀會 - 愛爾達體育家族 ELTA Sports",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cTVuQy1PTm9SQXfSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-07-12T10:29:45Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "4gamers.com.tw"
-            },
-            "author": "亞小安",
-            "title": "日本娛樂圈人士爆料，《審判之逝》或為木村拓哉最後一作 - 4Gamers",
-            "description": "日本影劇雜誌「日刊大眾」今日爆料， 預定 2021 年 9 月 24 日發售的 PS5、PS4、Xbox Series X|S、Xbox One 遊戲《審判之逝：湮滅的記憶》 很可能是這系列的最後一款作品，因為木村拓哉可能無法再於此系列登場。",
-            "url": "https://www.4gamers.com.tw/news/detail/48931/people-in-the-japanese-entertainment-industry-say-that-lost-judgment-is-the-last-work-of-kimura-takuya",
-            "urlToImage": "https://img.4gamers.com.tw/news-image/6feec0ae-6a1e-4885-8e90-f571daced621.jpg",
-            "publishedAt": "2021-07-12T09:54:04Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "udn 聯合新聞網"
-            },
-            "author": "記者胡瑞玲／台北即時報導",
-            "title": "鄭文燦批Garmin疫調 黃珊珊嗆：萬華疫情不會怪諾富特 - UDN 聯合新聞網",
-            "description": "新北市長侯友宜昨日指受到北市醫院感染波及，造成新北累積6人染疫，桃園市長鄭文燦也批北市處理Garmin員工疫調錯誤，基隆...",
-            "url": "https://udn.com/news/story/6656/5596454",
-            "urlToImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/07/12/realtime/12989737.jpg&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600",
-            "publishedAt": "2021-07-12T09:53:04Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gamer.com.tw"
-            },
-            "author": "Sam",
-            "title": "小島秀夫對《死亡擱淺導演剪輯版》名稱有意見更希望稱其為“導演加料版” - 巴哈姆特電玩資訊站",
-            "description": "索尼互動娛樂（SIE）日前宣布將於 9 月在 PS5 推出 Kojima Productions 製作的動作冒險遊戲《死亡擱淺（Death Stranding）》的加強版《死亡擱淺 導演版（Death Stranding Director's Cut）》。不過一手催生這款作品的導演小島秀夫，卻在 Twitter 上對產品名稱的 “導演剪輯版（Director's Cut）” 有一些不同意見。 小島秀夫表示，電影中所謂的 &ldquo",
-            "url": "https://gnn.gamer.com.tw/detail.php?sn=217917",
-            "urlToImage": "https://p2.bahamut.com.tw/B/2KU/58/afbf66bb5a5f833dedbb295de717ixy5.PNG",
-            "publishedAt": "2021-07-12T09:14:19Z",
-            "content": "SIE 9 PS5 Kojima Productions Death StrandingDeath Stranding Director's Cut Twitter “Director's Cut”\r\n“” “”  “”  “Delector's Plus”\r\nPlayStation 5 \r\n<ul><li>\r\n DualSense </li><li></li><li>\r\n 3D </li><l… [+153 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "udn 聯合新聞網"
-            },
-            "author": "記者劉宛琳／即時報導",
-            "title": "趙少康：BNT趕製「沒復必泰」字樣包裝 延4星期才到貨 - UDN 聯合新聞網",
-            "description": "中廣董事長趙少康今在臉書表示，台積電和鴻海向上海復星採購BNT疫苗成功，交易價格僅每劑32美元，比衛福部先前遭已讀不回的...",
-            "url": "https://udn.com/news/story/122190/5596276",
-            "urlToImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/06/25/realtime/12691156.jpg&s=Y&x=0&y=5&sw=799&sh=532&exp=3600",
-            "publishedAt": "2021-07-12T08:46:06Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Top1health.com"
-            },
-            "author": "華人健康網",
-            "title": "微血管「幽靈化」不容小覷！恐影響腸道蠕動、肝臟解毒，使器官老化致病 - 華人健康網",
-            "description": "微血管是人類最大的器官，遍布全身。因此，如果因為微血管幽靈化而受到損壞，就會對全身造成不好的影響。隨著年紀增長導致血管幽靈化，就會引發許多身體變化。例如，走久一點會開始上氣不接下氣。這是因為血管無法像年輕時一樣運送大量氧氣。",
-            "url": "https://www.top1health.com/Article/86040",
-            "urlToImage": "https://top1cdn.top1health.com/cdn/am/86040/204773.jpg",
-            "publishedAt": "2021-07-12T08:39:43Z",
-            "content": "© 2021 All Rights Reserved."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "新頭殼newtalk |劉法柔 綜合報導",
-            "title": "續作來了！《Dusk Diver 酉閃町2 崑崙靈動》將於今年冬季上市 - Yahoo奇摩新聞",
-            "description": "[新頭殼newtalk] 遊戲發行商台灣傑仕登宣布，由競鋒國際旗下JERA工作室開發之超人氣國產遊戲《Dusk Diver酉閃町》系列二代續作：《Dusk Diver 酉閃町2 崑崙靈動》將於今年冬季在 PC、PS4以及Switch平台上市。 《Dusk Diver酉閃町》以台北西門町做為遊戲為背景，身為一位普通...",
-            "url": "https://tw.news.yahoo.com/%E7%BA%8C%E4%BD%9C%E4%BE%86%E4%BA%86-dusk-diver-%E9%85%89%E9%96%83%E7%94%BA2-%E5%B4%91%E5%B4%99%E9%9D%88%E5%8B%95-082924911.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/rBjCjBwd07dGrdTcYSH.Sw--~B/aD04MDA7dz05NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/ko/newtalk.tw/0274b618cda09b1bbd5c48dc20a3a813",
-            "publishedAt": "2021-07-12T08:29:24Z",
-            "content": "20210712(2883) 110 6 1.:110/07/122.:3.():4.:5.:: 110 6 6.:7.:()------------------------------------------------------------------6 1 6 --------------------------- ------------------------------------… [+105 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "三立新聞網",
-            "title": "章子怡繼女曬辣照 側顏激似陳妍希 - Yahoo奇摩新聞",
-            "description": "娛樂中心／蘇家詩報導 42歲影后章子怡2015年與歌手汪峰結婚，兩夫妻育有1女1子，而章子怡也把汪峰前女友所生的女兒「小蘋果」當作是親生看待，繼女生日那天也曬出了一家四口合照",
-            "url": "https://tw.news.yahoo.com/%E7%AB%A0%E5%AD%90%E6%80%A1%E7%B9%BC%E5%A5%B3%E6%9B%AC%E8%BE%A3%E7%85%A7-%E5%81%B4%E9%A1%8F%E6%BF%80%E4%BC%BC%E9%99%B3%E5%A6%8D%E5%B8%8C-081503981.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/EUQm4eDDAs.T0aNinusKIA--~B/aD00NTA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/zh-tw/setn.com.tw/0e250017ae1068a5bff2d2909c1bfa99",
-            "publishedAt": "2021-07-12T08:15:03Z",
-            "content": "20210712(2883) 110 6 1.:110/07/122.:3.():4.:5.:: 110 6 6.:7.:()------------------------------------------------------------------6 1 6 --------------------------- ------------------------------------… [+105 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kocpc.com.tw"
-            },
-            "author": "ClaireC",
-            "title": "xScreen 把你的Xbox Series S 秒變筆電，走到哪玩到哪 - 電腦王阿達",
-            "description": "家用主機之所以只能家用，除了體積比較大之外，再來就是它本身沒有配備螢幕，所以你只能在設有螢幕的場地才能玩。國外一個集資專案則是提供解決這個痛點的方案，一插上就可以讓 Xbox Series S 擁有螢幕，並且一上線就在 20 分鐘內達到集資目標，看來還是有很多人希望可以走到哪玩到哪。",
-            "url": "https://www.kocpc.com.tw/archives/392944",
-            "urlToImage": "https://i0.zi.org.tw/kocpc/2021/07/1626077316-86aad6d7b67718f556afd230e2a33a97.jpg",
-            "publishedAt": "2021-07-12T08:10:50Z",
-            "content": "Xbox Series S 20 \r\nxScreen UPspec Xbox Series S xScreen 11.6 1080P HDMI Xbox \r\nxScreen Xbox Series S 695 \r\n 20 13,000 860% Xbox Series SxScreen"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Appledaily.com"
             },
             "author": "蘋果新聞網",
-            "title": "史無前例！金曲獎8／21開獎典禮首採「線上+實體」防疫｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報",
-            "description": "政院本月8日宣布三級警戒再延長，但「微解封」部分措施適度鬆綁，原定6月26日舉辦的第32屆金曲獎頒獎典禮，日前已宣告延期舉辦，《蘋果新聞網》日前掌握，金曲獎的時間定在今年8月，因不想跟去年改期到10月底後，跟金鐘獎撞期。 文化部今（12）日表示，今年第32屆流行音樂金曲獎預定...",
-            "url": "https://tw.appledaily.com/entertainment/20210712/V4GOW7KPVJDEPIGAPTJZCL6GGQ/",
-            "urlToImage": "https://tw.appledaily.com/resizer/V_hWPOxr7S34cPHZMubvUxqnnEY=/1920x1080/filters:quality(100)/d87urpdhi5rdo.cloudfront.net/07-12-2021/t_dc8cdbce344b431cab8a52711f1c6667_name_____.jpg",
-            "publishedAt": "2021-07-12T08:03:57Z",
-            "content": null
+            "title": "獨家｜錯過首輪登記有得補救！ 50歲以下最快7/29那輪打疫苗｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報",
+            "description": "「COVID-19疫苗施打意願登記與預約系統」截至昨(7/12)下午17時，總計284萬8778人完成意願登記，其中僅勾選AZ疫苗的有17萬0655人，同時勾選AZ疫苗和莫德納疫苗有105萬4223人，由於未來三周僅提供AZ疫苗施打，有勾選AZ疫苗的這122萬4878人將陸續...",
+            "url": "https://tw.appledaily.com/life/20210713/5GVMWPDETRCWJFIGNXSEB3BTLA/",
+            "urlToImage": "https://tw.appledaily.com/resizer/yTMbwXgCcnZI3b1ICdkuQetgkYY=/1920x1080/filters:quality(100)/d87urpdhi5rdo.cloudfront.net/07-12-2021/t_282dd9ec8cc14f27a7b1bfd68af86dcc_name_________.jpg",
+            "publishedAt": "2021-07-12T22:24:32Z",
+            "content": "COVID-19(7/12)172848778AZ170655AZ1054223AZAZ1224878505\r\nQ171217\r\nAAZAZ\r\nQ2713715\r\nA71371571672172272872984AZ\r\nQ3716721\r\nA100\r\nQ450\r\nA7/16~7/21AZ7/22~7/28AZ7/29~8/4AZ71217AZ1224878AZ\r\n77862113AZ175201… [+46 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chinatimes.com"
+            },
+            "author": "中央社",
+            "title": "世衛專家建議 勿混打不同廠牌新冠疫苗 稱這是「危險趨勢」 - 中時新聞網 Chinatimes.com",
+            "description": "世界衛生組織（WHO）首席科學家斯瓦米納坦今天建議，不要將不同廠牌的2019冠狀病毒疾病（COVID－19）疫苗混合施打，她稱這是個「危險趨勢」，因為這對人體健康的影響，目前少有相關資料。斯瓦米納坦（Soumya Swamina",
+            "url": "https://www.chinatimes.com/realtimenews/20210713000647-260408",
+            "urlToImage": "https://images.chinatimes.com/newsphoto/2021-07-13/656/20210713000678.jpg",
+            "publishedAt": "2021-07-12T19:50:45Z",
+            "content": "WHO2019COVID19\r\nSoumya Swaminathan\r\n23 41100713\r\n<ol><li></li><li></li><li></li><li></li><li></li></ol>"
         },
         {
             "source": {
                 "id": null,
                 "name": "udn 聯合新聞網"
             },
-            "author": "記者謝佳雯／台北即時報導",
-            "title": "台積電證實三名員工確診 數百名員工初步篩檢結果出爐 - udn OOPS! 新鮮事",
-            "description": "晶圓代工龍頭台積電（2330）與鴻海（2317）剛剛宣布攜手，順利為台灣買到1,000萬劑BNT新冠肺炎疫苗，不過，市場...",
-            "url": "https://udn.com/news/story/120940/5596131",
-            "urlToImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/07/12/2/12976871.jpg&s=Y&x=0&y=0&sw=1254&sh=836&exp=3600",
-            "publishedAt": "2021-07-12T07:52:09Z",
-            "content": "233023171,000BNT12COVID-19\r\nPCR\r\nPCR200\r\nPCRPCR"
+            "author": "記者劉宛琳、鄭媁、簡永祥、王寓中／台北報導",
+            "title": "台積、永齡千萬BNT底定 慈濟跟進500萬劑 - UDN 聯合新聞網",
+            "description": "台積電、鴻海及永齡慈善社會福利事業基金會，昨天同時宣布各完成五百萬劑ＢＮＴ疫苗採購，並捐贈衛福部疾管署作為新型冠狀病毒防...",
+            "url": "https://udn.com/news/story/122190/5597197",
+            "urlToImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/07/10/realtime/12949965.jpg&s=Y&x=0&y=9&sw=1280&sh=852&exp=3600",
+            "publishedAt": "2021-07-12T18:07:04Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gq.com.tw"
+            },
+            "author": "Daniel Hsu",
+            "title": "《惡靈古堡：無盡闇黑》故事背景是怎樣？如果你只看過「蜜拉版」電影就必須先來了解遊戲原著的事件脈絡！ - GQ Taiwan",
+            "description": "Netflix 動畫影集《惡靈古堡：無盡闇黑 Resident Evil: Infinite Darkness》上線，不過評價兩極，對於玩遊戲原著出身的粉絲來說，比起《惡靈古堡：惡化》、《惡靈古堡：詛咒》、《惡靈古堡：血仇》等幾部 CG 電影比起來，《無盡闇黑》少了許多中二且華麗的打鬥場面，爽感稍嫌不足，而且劇情節奏較平，很多安排也都是制式化跟過去作品相似的老哏……但整體來說如果是玩過《惡靈古堡 2》與《惡靈古堡 4》的人，倒是能從《無盡闇黑》找到不少回憶就是了！",
+            "url": "https://www.gq.com.tw/entertainment/article/%E6%83%A1%E9%9D%88%E5%8F%A4%E5%A0%A1-%E7%84%A1%E7%9B%A1%E9%97%87%E9%BB%91-netflix-%E7%B6%B2%E9%A3%9B-%E4%B8%96%E7%95%8C%E8%A7%80",
+            "urlToImage": "https://media.gq.com.tw/photos/60ec82003e90b1cefb3222ba/16:9/w_1920,c_limit/image.jpeg",
+            "publishedAt": "2021-07-12T18:06:35Z",
+            "content": "Netflix Resident Evil: Infinite Darkness CG 2 4\r\nT \r\n1. \r\n 2006 4 5 2 S. Leon S. Kennedy Claire Redfield NGO Terra Save\r\n4 Penamstan\r\n Shen May Jason \r\n TRICELL\r\n2. \r\n 11998 7 S.T.A.R.S.Speical Tacti… [+308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ltn.com.tw"
+            },
+            "author": "自由時報",
+            "title": "武漢肺炎》同時染Alpha和Delta病毒 泰國7工人「症狀沒比較嚴重」 - 自由時報電子報",
+            "description": "泰國政府指出，曼谷一處建築工地發現有7名工人同時感染Alpha變種病毒和Delta變種病毒，這7人並未出現令人擔憂的症狀，不過泰國衛生單位將密切注意是否會出現新的變種病毒。泰國公共衛生部醫藥科學署署長蘇帕吉（Supakit Sirilak）今天在一場記者會中表示，曼谷一處大型建築工地發現有7個工人同時感染最早在英國發現的Alpha 變種病毒以及最早在印度發現的Delta變種病毒。",
+            "url": "https://news.ltn.com.tw/news/world/breakingnews/3601321",
+            "urlToImage": "https://img.ltn.com.tw/Upload/news/600/2021/07/12/phpnTkcuF.jpg",
+            "publishedAt": "2021-07-12T16:24:31Z",
+            "content": "12\r\n2021/07/13 00:247AlphaDelta7\r\nSupakit Sirilak7Alpha Delta\r\n...\r\n7\r\n1737 132723.3% Alpha73.7%Delta\r\n4179Alpha74.1%Delta24.1%Beta1.78%Delta57.1%DeltaAlpha\r\n4628557581000\r\nAPP \r\n APP"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ftvnews.com.tw"
+            },
+            "author": "民視新聞網",
+            "title": "打疫苗降低重症及死亡 是否可以避免後遺症發生？ - 民視新聞",
+            "description": "【健康醫療網／記者黃心瑩報導】COVID-19已在國外肆虐一年多，許多統計也發現，有三至四成的患者即使在痊癒之後，也會產生嚴重程度不一的後遺症。《自然》期刊（Nature）指出，如呼吸困難、肺纖維化、肺功能衰退等後遺症，發生機率就與重症程度有關，但腦部、心臟、腎臟、血液、內分泌系統等，就不一定和疾病嚴重程度相關。不過施打疫苗因為可以降低重症機率，理論上的確也可以降低後遺症發生的機率。後遺症主要為重.....",
+            "url": "https://www.ftvnews.com.tw/news/detail/2021713W0009",
+            "urlToImage": "https://cdn.ftvnews.com.tw/manasystem/FileData/News/434e1572-7b06-4cc7-96eb-a086d4a9dd7c.jpg",
+            "publishedAt": "2021-07-12T16:24:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ltn.com.tw"
+            },
+            "author": "自由時報",
+            "title": "台積、鴻海與上海復星簽約 學者：正式銷售合約「可能有驚奇」 - 自由時報電子報",
+            "description": "台積電與鴻海公告將各捐贈政府500萬劑BNT武漢肺炎（新型冠狀病毒病，COVID-19）疫苗，BNT公司代理商、中國上海復星醫藥也宣布已與雙方完成簽約。對此，美國大學教授翁達瑞表示，這不是正式銷售合約，只是「採購意向合同」，而正式銷售合約可能會有驚奇。「先搞清楚這是什麼合約！」翁達瑞在臉書表示，媒體報導台積電與鴻海已經和上海復星簽了採購合約，但這不是正式銷售合約，只是「採購意向合同」（Advance Procurement Agreement），而賣方的德國BNT藥廠不是簽約方，因為BNT有授予上海復星醫藥代理權。",
+            "url": "https://news.ltn.com.tw/news/politics/breakingnews/3601324",
+            "urlToImage": "https://img.ltn.com.tw/Upload/news/600/2021/07/12/phprLd351.jpg",
+            "publishedAt": "2021-07-12T16:18:12Z",
+            "content": "BNTBNT\r\n2021/07/13 00:18500BNTCOVID-19BNT\r\nAdvance Procurement AgreementBNTBNT\r\n...\r\nBNT\r\nAPP \r\n APP"
         },
         {
             "source": {
@@ -151,25 +99,64 @@
                 "name": "Ettoday.net"
             },
             "author": "ETtoday新聞雲",
-            "title": "柯文哲：北市「廣義家戶感染」較頭痛 聚在家打麻將、合租公寓成問題 - ETtoday新聞雲",
-            "description": "中央流行疫情指揮中心12日公布，新增23例本土確診，其中以新北市10例最多，其次為台北市9例，另確診個案中新增1例死亡。台北市政府12日下午3時30分召開防疫記者會，台北市長柯文哲表示，北市目前頭痛的是「廣義家戶感染」，不一定是親戚關係，有可能是在家打麻將，也可能是同志團體、合租公寓問題。(北市,台北市,台北市政府,柯文哲,黃珊珊,疫苗,防疫,新冠肺炎,台灣防疫,新冠疫情)",
-            "url": "https://www.ettoday.net/news/20210712/2028757.htm",
-            "urlToImage": "https://cdn2.ettoday.net/images/5740/d5740732.jpg",
-            "publishedAt": "2021-07-12T07:48:00Z",
-            "content": "1223109112330\r\n1233013BNT\r\n710656891700273\r\n7171017.6\r\n2391310109062071110911742\r\n1259860511519520611710"
+            "title": "大聯盟經歷掉到第三輪 曾仁和：謝謝樂天桃猿的選擇 - ETtoday",
+            "description": "前旅美投手曾仁和意外在今年選秀，掉到第三輪被樂天桃猿選中，曾仁和說：「謝謝樂天桃猿的選擇。」(中華職棒)",
+            "url": "https://sports.ettoday.net/news/2029171",
+            "urlToImage": "https://cdn2.ettoday.net/images/5744/d5744209.jpg",
+            "publishedAt": "2021-07-12T16:18:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "udn 聯合新聞網"
             },
-            "author": "記者陳秋雲／台中即時報導",
-            "title": "台灣英國合作研究 攝取Omega-3可改善憂鬱症與發炎 - UDN 聯合新聞網",
-            "description": "中國醫藥大學與英國倫敦國王學院合作研究憂鬱症的生物機轉，有重要成果。當憂鬱症患者攝取Omega-3多元不飽和脂肪酸時，這...",
-            "url": "https://udn.com/news/story/7266/5596112",
-            "urlToImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/07/12/realtime/12988057.jpg&s=Y&x=101&y=0&sw=1077&sh=719&exp=3600",
-            "publishedAt": "2021-07-12T07:45:13Z",
-            "content": "Omega-3\r\nCarmine ParianteAlessandra BorsiniOmega-3\r\nBorsiniOmega-3Omega-3\r\nMBI-labOmega-3\r\n22EPADHAOmega-3\r\nEPADHA"
+            "author": "曼谷12日專電",
+            "title": "泰國7建築工人同時染Alpha和Delta病毒| 聯合新聞網：最懂你的新聞網站 - UDN 聯合新聞網",
+            "description": "泰國政府指出，曼谷一處建築工地發現有7名工人同時感染Alpha變種病毒和Delta變種病毒，這7人並未出現令人擔憂的症狀...",
+            "url": "https://udn.com/news/story/121707/5597039",
+            "urlToImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/07/12/98/12994307.jpg&s=Y&x=0&y=0&sw=880&sh=587&exp=3600",
+            "publishedAt": "2021-07-12T15:15:06Z",
+            "content": "7AlphaDelta7\r\nSupakit Sirilak7AlphaDelta\r\n7\r\n1737 132723.3% Alpha73.7%Delta\r\n4179Alpha74.1%Delta24.1%Beta1.78%Delta57.1%DeltaAlpha\r\n4628557581000"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnyes.com"
+            },
+            "author": "https://www.facebook.com/cnYES",
+            "title": "〈美股早盤〉Q2財報季即將揭幕 美股開盤漲跌不一 維珍銀河跌逾12% - Anue鉅亨",
+            "description": "隨著 Q2 財報季揭開序幕，美股周一 (12 日) 漲跌不一，道瓊工業指數開盤一度跌百點，截稿前跌幅收斂至 13 點或 0.04％，標普 500 指數與那斯達克綜合指數均於平盤震盪，費半漲 0.7%。在公告申請出售至多 5",
+            "url": "https://news.cnyes.com/news/id/4677637",
+            "urlToImage": "https://cimg.cnyes.cool/prod/news/4677637/l/247d69c803d6370cfb2bcba0fb0d5b4c.jpg",
+            "publishedAt": "2021-07-12T13:54:23Z",
+            "content": "Q2 (12 ) 13 0.04 500 0.7% 5 12%\r\n (JPM-US) (GS-US) (13 ) FactSet 500 (EPS) 64% 2009 Q4 \r\n (WFC-US) 1.6 0.7 0.6 (BAC-US) 0.5% (MS-US) 0.4%\r\n (Fed) (Jerome Powell) (14 ) \r\n10 1.348 Delta \r\n CPIPPI \r\n 5… [+542 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chinatimes.com"
+            },
+            "author": "丁世傑",
+            "title": "政院宣布加購莫德納疫苗 郭正亮曝原因 - 中時新聞網 Chinatimes.com",
+            "description": "對於行政院今（12）日宣布，明後年預計購買至少1500萬劑次世代的莫德納疫苗，前民進黨立委郭正亮表示，這一定是有壓力，而且後面還有追兵，政院就突然急了！台積電、鴻海採購BNT疫苗傳出好消息後，行政院發言人羅秉",
+            "url": "https://www.chinatimes.com/realtimenews/20210712005771-260407",
+            "urlToImage": "https://images.chinatimes.com/newsphoto/2021-07-12/656/20210712005787.jpg",
+            "publishedAt": "2021-07-12T13:39:17Z",
+            "content": "121500\r\nBNT121500\r\nBNT505\r\n1500\r\n12Yahoo TV500\r\n<ol><li></li><li></li><li></li><li></li><li></li></ol>"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ltn.com.tw"
+            },
+            "author": "自由時報",
+            "title": "誰擋郭董買疫苗？林楚茵千字文揭疑點：是中國「以疫謀亂」 - 自由時報電子報",
+            "description": "政府授權台積電、鴻海永齡基金會洽購德國BNT疫苗，而台積電、鴻海永齡也於10日與BNT代理商、中國上海復星醫藥完成簽約程序。對此，立委林楚茵今（12）日也透過臉書感謝促成此次疫苗採購的各方，更提出許多疑問來澄清「政府絕對沒有卡疫苗」，是中國不斷在阻擾我國採購，企圖要「以疫謀亂」。林楚茵引本報〈台積電、鴻海買到BNT疫苗 國台辦：中國卡疫苗謠言「不攻自破」〉一文表示，我國企業與國際藥廠的合作案，為什麼會有中國這個第三者特地跳出來澄清沒有卡疫苗？相信台灣人民和世界各國的眼睛都是雪亮的，只要中國侵略的野心不止，台灣就難…",
+            "url": "https://news.ltn.com.tw/news/politics/breakingnews/3601051",
+            "urlToImage": "https://img.ltn.com.tw/Upload/news/600/2021/07/12/phpeUpxXT.jpg",
+            "publishedAt": "2021-07-12T13:25:37Z",
+            "content": null
         },
         {
             "source": {
@@ -177,89 +164,102 @@
                 "name": "Cna.com.tw"
             },
             "author": "https://www.facebook.com/cnanewstaiwan",
-            "title": "陳時中：未來到貨多AZ疫苗 擬開放50歲以下登記意願 - 中央社即時新聞",
-            "description": "國內武漢肺炎疫苗陸續到貨，預計最快16日可開放9、10類接種對象，指揮中心指揮官陳時中今天公布，下一波到貨疫苗基本上以AZ疫苗為主，擬儘速開放50歲以下登記意願。",
-            "url": "https://www.cna.com.tw/news/firstnews/202107125012.aspx",
-            "urlToImage": "https://imgcdn.cna.com.tw/www/webphotos/WebOg/600/20210712/1152x605_07081581449.jpg",
-            "publishedAt": "2021-07-12T07:11:00Z",
-            "content": null
+            "title": "戴HELLO TAIWAN口罩 AIT新處長孫曉雅抵台履新 - 中央社即時新聞",
+            "description": "即將接任美國在台協會（AIT）台北辦事處長的美國國務院亞太副助卿孫曉雅今天抵台。AIT表示，孫曉雅將遵循防疫政策進行居家檢疫14天及自主健康管理7天後就任。",
+            "url": "https://www.cna.com.tw/news/firstnews/202107120325.aspx",
+            "urlToImage": "https://imgcdn.cna.com.tw/www/webphotos/WebCover/800/20210712/1780x1335_535451831735.jpg",
+            "publishedAt": "2021-07-12T12:20:00Z",
+            "content": "12AITAIT147\r\nHELLO TAIWAN\r\nBrent Christensen3AITSandra OudkirkAIT1979\r\nAIT\r\nAITCOVID-1914 71100712"
         },
         {
             "source": {
-                "id": null,
-                "name": "Ltn.com.tw"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "自由時報",
-            "title": "別對菲律賓動手！布林肯狠嗆中國：否則將觸發美菲共同防禦條約 - 自由時報電子報",
-            "description": "美國國務卿布林肯向中國發出警告，若解放軍在南海襲擊菲律賓軍隊，將觸發1951年簽訂的美菲共同防禦條約。據《路透》報導，中國聲稱在南海擁有「九段線」的海洋主權，但台灣、汶萊、馬來西亞、菲律賓、越南都拒絕承認，菲國也在國際法庭控告中國違反聯合國海洋法公約，是為「南海仲裁案」。",
-            "url": "https://news.ltn.com.tw/news/world/breakingnews/3600584",
-            "urlToImage": "https://img.ltn.com.tw/Upload/news/600/2021/07/12/phpzO33vy.jpg",
-            "publishedAt": "2021-07-12T06:39:18Z",
+            "author": null,
+            "title": "紅白機名作《暴坊天狗＆ Zombie Nation》確定10月28日登陸Switch - XFastest News",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMi4gFodHRwczovL25ld3MueGZhc3Rlc3QuY29tL290aGVycy85NzkyNy8lRTclQjQlODUlRTclOTklQkQlRTYlQTklOUYlRTUlOTAlOEQlRTQlQkQlOUMlRTMlODAlOEElRTYlOUElQjQlRTUlOUQlOEElRTUlQTQlQTklRTclOEIlOTclRUYlQkMlODYtem9tYmllLW5hdGlvbiVFMyU4MCU4QiVFNyVBMiVCQSVFNSVBRSU5QTEwJUU2JTlDJTg4MjglRTYlOTclQTUlRTclOTklQkIlRTklOTklQjhzd2l0Y2gv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-07-12T12:01:41Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ettoday.net"
-            },
-            "author": "ETtoday新聞雲",
-            "title": "一張圖看1000萬劑BNT24天到手 蘇貞昌發聲感謝台積電、鴻海 - ETtoday新聞雲",
-            "description": "台積電、鴻海、永齡基金會向上海復星洽購合計1000萬劑BNT（輝瑞）疫苗已完成簽約程序，最快9月出貨。對於外傳BNT疫苗採購的程序卡在政府，行政院長蘇貞昌在臉書貼出一張流程圖，從6月18日行政院宣布成立專案到7月11日完成簽署程序，他感謝台積電和永齡基金會的善心義舉。(BNT,蘇貞昌,台積電,鴻海,永齡基金會)",
-            "url": "https://www.ettoday.net/news/20210712/2028728.htm",
-            "urlToImage": "https://cdn2.ettoday.net/images/5743/d5743257.jpg",
-            "publishedAt": "2021-07-12T06:24:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ltn.com.tw"
-            },
-            "author": "自由時報",
-            "title": "本土+23例、死亡1例 陳時中：若無大型群聚、病例將維持穩定 - 自由時報電子報",
-            "description": "近期本土武漢肺炎（新型冠狀病毒病，COVID-19）病例維持在30例左右，中央流行疫情指揮中心指揮官陳時中表示，今天國內病例新增24例，包含本土病例23例、境外移入2例，以及死亡1例。除非未來有大型群聚，否則病例數應該會維持這種狀態或繼續下修。",
-            "url": "https://news.ltn.com.tw/news/life/breakingnews/3600576",
-            "urlToImage": "https://img.ltn.com.tw/Upload/news/600/2021/07/12/phpdEw85l.jpg",
-            "publishedAt": "2021-07-12T06:10:17Z",
-            "content": "2021/07/12 14:10COVID-1930242321\r\n239131010902021620711\r\n...\r\n10911742\r\n1259860511519520611710\r\n511710140191185084.5%\r\n115370106283710Ct33\r\n15273120314017362114105741\r\nAPP \r\n APP"
         },
         {
             "source": {
                 "id": null,
                 "name": "udn 聯合新聞網"
             },
-            "author": "記者黃保慧／即時報導",
-            "title": "台灣女星登坎城影展 開衩紅毯造型吸攝影師目光 - udn 噓！星聞",
-            "description": "台灣演員袁子芸參與改編自村上春樹短篇小說的日本電影「Drive My Car」入圍坎城影展，她於台灣時間11日晚間初次登...",
-            "url": "https://stars.udn.com/star/story/10090/5595734",
-            "urlToImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/07/12/realtime/12986076.jpg&s=Y&x=0&y=19&sw=1280&sh=852",
-            "publishedAt": "2021-07-12T05:46:03Z",
-            "content": "Drive My Car11\r\nNet-a-PorterARTCLUBGeorg Jensen\r\nDrive My Car\r\nDrive My Car2015"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eprice.com.tw"
-            },
-            "author": "dddd204",
-            "title": "三星Galaxy Z Fold 3 和Z Flip 3 機身全角度影片曝光，爆料八月發表四新品- 手機品牌新聞| ePrice 比價王 - ePrice",
-            "description": "三星 Galaxy Z Fold 3 和 Z Flip 3 的傳言不斷，認證跑分都已經出現後，現在兩款產品的外觀， 360 度連同開闔都被完全曝光，並有消息指出，三星將在八月舉辦發表會，而且將一口氣推出四款新產品。",
-            "url": "https://www.eprice.com.tw/mobile/talk/4523/5658703/1/",
-            "urlToImage": "https://img.eprice.com.tw/img/news/32649/fb.jpg",
-            "publishedAt": "2021-07-12T05:44:44Z",
+            "author": "記者陳慧貞／即時報導",
+            "title": "綿羊都變胖了！羅宏正盼解封衝動物園：看牠們驚訝樣 - udn 噓！星聞",
+            "description": "疫情期間三級警戒，不少遊樂園、觀光景區休園，南投清境農場的綿羊都因放假太久，毛長還變胖，藝人羅宏正直言若解封，第一件想做...",
+            "url": "https://stars.udn.com/star/story/10091/5596665",
+            "urlToImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/07/12/realtime/12991433.jpg&s=Y&x=0&y=0&sw=1279&sh=853",
+            "publishedAt": "2021-07-12T11:56:03Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Ltn.com.tw"
+                "name": "udn 聯合新聞網"
             },
-            "author": "自由時報",
-            "title": "台積電、鴻海買到BNT疫苗 國台辦：中國卡疫苗謠言「不攻自破」 - 自由時報電子報",
-            "description": "台積電、鴻海及永齡基金會與上海復星簽訂協議，將採購總計1000千萬劑BNT疫苗，中國國台辦發言人馬曉光今日在兩岸記者聯合採訪行程受訪表示，台灣近期有「謠言」，指「大陸」阻撓台灣獲得疫苗、以商逼政，而這些說法「不攻自破」。馬曉光指出，這是一個好消息，「給深陷疫情之中，苦盼疫苗的台灣同胞，帶去了福音」。並聲稱說這樣的福音還是「晚了點」，如果「台灣方面能夠從台胞生命健康福祉考慮，這件事可以早點促成」。",
-            "url": "https://news.ltn.com.tw/news/politics/breakingnews/3600524",
-            "urlToImage": "https://img.ltn.com.tw/Upload/news/600/2021/07/12/3600524_1_1.jpg",
-            "publishedAt": "2021-07-12T05:31:11Z",
+            "author": "記者林麗玉／台北即時報導",
+            "title": "柯文哲稱同志團體也是問題挨轟 北市：無汙名化或歧視 - UDN 聯合新聞網",
+            "description": "台北市長柯文哲今天防疫記者會中，提及「廣義家戶感染」時，提及聚在一起打麻將是一個問題，同志團體也是一個問題，分租套房也是...",
+            "url": "https://udn.com/news/story/6656/5596623",
+            "urlToImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/07/12/realtime/12991274.png&s=Y&x=0&y=0&sw=601&sh=395&exp=3600",
+            "publishedAt": "2021-07-12T11:41:13Z",
+            "content": "Sandra OudkirkBrent Christe..."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctee.com.tw"
+            },
+            "author": "工商時報 數位編輯",
+            "title": "台股衝萬八到頂了？謝金河曝這一關鍵 - 工商時報",
+            "description": "台股今（12日）早盤最高來到17,947點，一度有望再挑戰萬八大關，不過最終漲幅收斂，終場以17,814.33點作收，上漲152.85點。台灣經濟目前仍受新冠疫情威脅，但股市仍相當熱絡，近期頻頻挑戰新高，讓不少投資人好奇台股會漲到哪裡？對此，財訊傳媒董事長謝金河表示，沒有人知道，市場上喊的目標，其實都僅供參考，同時也要關注第二季各大企業的財報表現。近期台股屢創新高，各方開始預測接下來台股的目標，謝金河將此狀況形容成一場擂台賽，「在熱鬧的場子，大家心裡要有定數。接下來大家一定要看接下來幾個季度盈利",
+            "url": "https://ctee.com.tw/news/stocks/487598.html",
+            "urlToImage": "https://cteecors.azureedge.net/wp-content/uploads/2021/07/12/12-07658-007.jpg",
+            "publishedAt": "2021-07-12T11:39:12Z",
+            "content": "(02) 2306-3848(02) 2308-7111 #6611#6612 #6613\r\n9:00~12:0013:30~18:00"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "udn 聯合新聞網"
+            },
+            "author": "編譯田思怡",
+            "title": "海地總統刺殺案當局稱逮捕「醫師主謀」與傭兵殺手 但新疑點卻比答案還多 - UDN 聯合新聞網",
+            "description": "海地總統摩依士（Jovenel Moïse）遭暗殺案已發生了5天，但案情依舊混沌不明，新的疑點比答案還多。海地警方認定是一幫哥倫比亞傭兵刺殺了總統，並已逮捕了可能是主謀的佛州醫師；反對派則質疑摩依士是遭自己人殺害，哥倫比亞傭兵只是代罪羔羊，而暗殺案的關鍵證人、因受重傷被送往邁阿密醫治的第一夫人瑪婷(Martine Moïse)發表錄音聲明說，外籍傭兵殺了她丈夫。海地的政局也同樣無解，已有3人聲稱是國家臨時領導人，可能還會有第4人。",
+            "url": "https://vip.udn.com/vip/story/121937/5596548",
+            "urlToImage": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/07/12/realtime/12990851.jpg&s=Y&x=0&y=0&sw=1279&sh=852&exp=3600",
+            "publishedAt": "2021-07-12T11:11:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "4gamers.com.tw"
+            },
+            "author": "湯包",
+            "title": "是加不是剪，小島秀夫說明《死亡擱淺導演剪輯版》命名歧異 - 4Gamers",
+            "description": "真的有剪掉片段？小島秀夫今（12）日為了《死亡擱淺 導演剪輯版》（Death Stranding Director's Cut》內容刪減一是親上火線，強調不是剪，是「增加」。",
+            "url": "https://www.4gamers.com.tw/news/detail/48929/hideo-kojima-dont-like-to-call-death-stranding-directors-cut",
+            "urlToImage": "https://img.4gamers.com.tw/news-image/2d862155-9b74-41b3-bb34-f0c94b70e2a9.jpg",
+            "publishedAt": "2021-07-12T10:26:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Storm.mg"
+            },
+            "author": "羅立邦",
+            "title": "「蔡英文堅持BNT換包裝、因此延後4周！」趙少康： 意識形態治國的荒謬 - 風傳媒",
+            "description": "鴻海集團創辦人郭台銘及台積電洽購BNT疫苗一事告一段落，不過《中廣》董事長趙少康指出，如今蔡政府又在意識形態作祟下，要為台灣量身趕製「...",
+            "url": "https://www.storm.mg/article/3810028",
+            "urlToImage": "https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2021/04/28/20210428-034018_U4040_M686844_8fbe.jpg?itok=ku-cLrbZ",
+            "publishedAt": "2021-07-12T10:26:00Z",
             "content": null
         }
     ]
