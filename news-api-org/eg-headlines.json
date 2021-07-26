@@ -4,132 +4,41 @@
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "شهادات البنك الأهلي المصري وفوائد حتى 16% - في العارضة",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMi6gFodHRwczovL2tvcmEuZmFsM2FyZGEuY29tLzQzNzEwNS8lRDglQjQlRDklODclRDglQTclRDglQUYlRDglQTclRDglQUEtJUQ4JUE3JUQ5JTg0JUQ4JUE4JUQ5JTg2JUQ5JTgzLSVEOCVBNyVEOSU4NCVEOCVBMyVEOSU4NyVEOSU4NCVEOSU4QS0lRDglQTclRDklODQlRDklODUlRDglQjUlRDglQjElRDklOEEtJUQ5JTg4JUQ5JTgxJUQ5JTg4JUQ4JUE3JUQ4JUE2JUQ4JUFGLSVEOCVBRCVEOCVBQSVEOSU4OS0xNi_SAe4BaHR0cHM6Ly9rb3JhLmZhbDNhcmRhLmNvbS80MzcxMDUvJUQ4JUI0JUQ5JTg3JUQ4JUE3JUQ4JUFGJUQ4JUE3JUQ4JUFBLSVEOCVBNyVEOSU4NCVEOCVBOCVEOSU4NiVEOSU4My0lRDglQTclRDklODQlRDglQTMlRDklODclRDklODQlRDklOEEtJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ4JUI1JUQ4JUIxJUQ5JThBLSVEOSU4OCVEOSU4MSVEOSU4OCVEOCVBNyVEOCVBNiVEOCVBRi0lRDglQUQlRDglQUElRDklODktMTYvYW1wLw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-07-25T21:54:13Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "تونس: الرئيس يقيل رئيس الوزراء ويجمد البرلمان ويرفع الحصانة عن النواب - BBC Arabic",
-            "description": "الرئيس التونسي، قيس سعيِّد، يقيل رئيس الوزراء ويجمد البرلمان ويرفع الحصانة عن النواب، بعد ساعات من احتجاجات شعبية عنيفة.",
-            "url": "https://www.bbc.com/arabic/middleeast-57965419",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/10B11/production/_115796386_tunisian_president.jpg",
-            "publishedAt": "2021-07-25T21:32:22Z",
-            "content": "Anadolu Agency\r\n.\r\n .\r\n .\r\n - - .\r\n\" \".\r\n .\r\n<ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul>\r\n<ol><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li>… [+18 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "عاجل| الرئيس التونسي يقيل الحكومة ويجمد البرلمان ويعلن توليه السلطة التنفيذية - AlJazeera Channel قناة الجزيرة",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bVRYWWhUMnJFa2fSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-07-25T21:22:56Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "إعصار \"إن- فا\" يقتلع الأشجار ويغلق مناطق شرق الصين - AlArabiya العربية",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UGY4SmoxUzdmT2_SAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-07-25T21:00:54Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "لحظة غرق مطعم عائم في مياه ‎النيل بالقاهرة دون وقوع إصابات بشرية - AlArabiya العربية",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZDNYNHRGa1FqXzTSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-07-25T21:00:33Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Masrawy.com"
-            },
-            "author": "مصراوي",
-            "title": "\"اتلموا عليا وفتحوا الكيس بموس\".. زكي فطين عبدالوهاب يتعرض للسرقة - Masrawy-مصراوي",
-            "description": "اتلموا عليا وفتحوا الكيس بموس زكي فطين عبدالوهاب يتعرض للسرقة | مصراوى",
-            "url": "https://www.masrawy.com/arts/zoom/details/2021/7/25/2061827/-اتلموا-عليا-وفتحوا-الكيس-بموس-زكي-فطين-عبدالوهاب-يتعرض-للسرقة",
-            "urlToImage": "https://media.gemini.media/img/large/2020/3/9/2020_3_9_15_55_3_754.jpg",
-            "publishedAt": "2021-07-25T20:52:00Z",
-            "content": "- :\r\n .\r\n \"\": \".. 3.. \".\r\n: \" .. \".\r\n: \" .. .. \".\r\n \" 25\" .\r\n<li></li>"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Youm7.com"
-            },
-            "author": null,
-            "title": "ترتيب هدافي الدوري المصري عقب مباراة الاهلي والانتاج الحربي - اليوم السابع",
-            "description": "ترتيب هدافى الدورى المصري بعد مباراة اليوم بين الأهلي والإنتاج الحربي التي انتهت بفوز الأهلي بثلاثة أهداف مقابل هدفين في المباراة المؤجلة من الأسبوع الـ24 للدورى..",
-            "url": "https://www.youm7.com/story/2021/7/25/ترتيب-هدافي-الدوري-المصري-عقب-مباراة-الاهلي-والانتاج-الحربي/5401898",
-            "urlToImage": "https://img.youm7.com/large/202107250929272927.jpg",
-            "publishedAt": "2021-07-25T20:16:00Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Filgoal.com"
             },
             "author": "<a href='https://www.filgoal.com/editor/details/106559'>FilGoal</a>",
-            "title": "مؤتمر كشري: لم أحصل على حقي في الملعب ضد الأهلي.. ولكن - FilGoal.com",
-            "description": "\"الأهلي يلعب لآخر دقيقة ونعرف ذلك جيدا دافعنا جيدا واستحققنا الخروج بالنقاط الثلاثة وليس فقط التعادل، سُرقنا في النهاية ولكن هذه خبرات الأهلي وإمكانيات لاعبيه\" هكذا تحدث أحمد كشري المدير الفني للإنتاج الحربي عقب هزيمة فريقه.",
-            "url": "https://www.filgoal.com/articles/415269",
-            "urlToImage": "https://media.filgoal.com/news/verylarge/275195_0.jpg",
-            "publishedAt": "2021-07-25T20:11:00Z",
+            "title": "أولمبياد طوكيو 2020 - خسارة أبو القاسم وحمزة بصعوبة في ربع النهائي - في الجول",
+            "description": "ودع الثنائي المصري علاء أبو القاسم ومحمد حمزة منافسات سلاح الشيش من ربع النهائي بصعوبة.",
+            "url": "https://www.filgoal.com/articles/415296",
+            "urlToImage": "https://media.filgoal.com/news/verylarge/275213_0.jpg",
+            "publishedAt": "2021-07-26T08:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "الغنوشي يعتصم أمام البرلمان التونسي عقب تجميده - المصري اليوم",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yMzg1MDM20gE1aHR0cHM6Ly93d3cuYWxtYXNyeWFseW91bS5jb20vbmV3cy9kZXRhaWxzYW1wLzIzODUwMzY?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-07-26T08:07:28Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Youm7.com"
+                "name": "Alarabiya.net"
             },
-            "author": null,
-            "title": "وفاء عامر تكشف تفاصيل شائعة قتلها لشاب وهروبها: \"أنا مظلومة\" - اليوم السابع",
-            "description": "كشفت الفنانة وفاء عامر، تفاصيل شائعة قتلها لشاب وهروبها، موضحة أن من توفى هو رجل الأعمال محمد السعدنى، صديق زوجها، وكانت ترافق زوجته في المستشفى.",
-            "url": "https://www.youm7.com/story/2021/7/25/وفاء-عامر-تكشف-تفاصيل-شائعة-قتلها-لشاب-وهروبها-أنا-مظلومة/5401904",
-            "urlToImage": "https://img.youm7.com/large/202104180939523952.jpg",
-            "publishedAt": "2021-07-25T20:08:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kooora.com"
-            },
-            "author": null,
-            "title": "عبد الحفيظ يحذر من تأجيل لقاء الزمالك وأسوان - كووورة",
-            "description": "أطلق سيد عبد الحفيظ، مدير الكرة الأهلي، تصريحات نارية عقب فوز فريقه على الإنتاج الحربي 3-2 الدوري المصري الممتاز، مساء اليوم الأحد. وقال عبد الحفيظ عبر قناة ناديه مباريات الدوري المتبقية ستكون على غرا",
-            "url": "https://www.kooora.com/?n=1051981",
-            "urlToImage": "https://img.kooora.com/?i=albums%2fmatches%2f2813175%2fkoo_2021-04-09_203845.jpg",
-            "publishedAt": "2021-07-25T19:57:06Z",
+            "author": "العربية",
+            "title": "أنصار حركة النهضة يعتدون على مراسل العربية أمام البرلمان التونسي - العربية",
+            "description": "اعتدى أنصار حركة النهضة الاعتداء على مراسل \"العربية\" أمام البرلمان التونسي، الذي يقبع أمامه رئيس مجلس النواب التونسي راشد الغنوشي وعدد من أنصاره بعدما أعلن",
+            "url": "https://www.alarabiya.net/north-africa/tunisia/2021/07/26/%D8%A3%D9%86%D8%B5%D8%A7%D8%B1-%D8%AD%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9-%D9%8A%D8%AD%D8%A7%D9%88%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D9%85%D8%B1%D8%A7%D8%B3%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A",
+            "urlToImage": "https://vid.alarabiya.net/images/2021/07/26/d8011042-45cf-43b8-84a4-8cda63258992/d8011042-45cf-43b8-84a4-8cda63258992_16x9_600x338.JPG",
+            "publishedAt": "2021-07-26T08:06:00Z",
             "content": null
         },
         {
@@ -138,12 +47,103 @@
                 "name": "Masrawy.com"
             },
             "author": "مصراوي",
-            "title": "طعنها 11 مرة أمام أطفالها.. ضبط الطبيب المتهم بقتل زوجته في المنصورة - Masrawy-مصراوي",
-            "description": "طعنها 11 مرة أمام أطفالها ضبط الطبيب المتهم بقتل زوجته في المنصورة | مصراوى",
-            "url": "https://www.masrawy.com/news/news_cases/details/2021/7/25/2061776/طعنها-11-مرة-أمام-أطفالها-ضبط-الطبيب-المتهم-بقتل-زوجته-في-المنصورة",
-            "urlToImage": "https://media.gemini.media/img/large/2021/6/14/2021_6_14_12_43_50_275.jpg",
-            "publishedAt": "2021-07-25T19:02:00Z",
-            "content": "- :\r\n .\r\n \". \" .\r\n \"\" 26 11 .\r\n .\r\n .\r\n<li></li>"
+            "title": "​​سد النهصة| ​شراقي: الملء الثاني يؤجل وصول المياه إلى مصر أسبوعين.. وعلام يحدد موعد التأثير الحقيقي - مصراوي",
+            "description": "سد النهصة شراقي الملء الثاني يؤجل وصول المياه إلى مصر أسبوعين وعلام يحدد موعد التأثير الحقيقي | مصراوى",
+            "url": "https://www.masrawy.com/news/news_egypt/details/2021/7/26/2061884/-سد-النهصة-شراقي-الملء-الثاني-يؤجل-وصول-المياه-إلى-مصر-أسبوعين-وعلام-يحدد-موعد-التأثير-الحقيقي",
+            "urlToImage": "https://media.gemini.media/img/large/2021/7/21/2021_7_21_0_37_48_565.jpg",
+            "publishedAt": "2021-07-26T08:00:00Z",
+            "content": "- : \r\n .\r\n \"\" .\r\n ..\r\n : .\r\n \"\" .\r\n 90%.\r\n 3 4 4.5 7 .\r\n .\r\n \"\" \"\" \"\" 13.5 8 .\r\n .\r\n 400 500 .\r\n .\r\n \"\" 4 .. 55.5 .\r\n ."
+        },
+        {
+            "source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT Arabic",
+            "title": "عملة \"البيتكوين\" تصعد وتقترب من مستوى مهم - RT Arabic",
+            "description": "صعدت عملة \"البيتكوين\" صباح اليوم الاثنين، إلى مستوى 38 ألف دولار، وقبل ذلك جرى تداول العملة عند مستوى 39.8 ألف دولار.",
+            "url": "https://arabic.rt.com/business/1255555-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%8A%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1/",
+            "urlToImage": "https://cdni.rt.com/media/pics/2021.07/original/60fe5c194c59b73e9a2f8057.JPG",
+            "publishedAt": "2021-07-26T07:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youm7.com"
+            },
+            "author": null,
+            "title": "منتخب مصر لكرة اليد يخسر أمام الدنمارك 32 - 27 في أولمبياد طوكيو - اليوم السابع",
+            "description": "منتخب مصر لكرة اليد .. خسر منتخب مصر رجال لكرة اليد، بقيادة مديره الفنى الإسبانى روبرتو باروندو جارسيا، أمام نظيره الدنماركى، بنتيجة (32 - 27)، فى إطار ثان مواجهاته بأولمبياد طوكيو.",
+            "url": "https://www.youm7.com/story/2021/7/26/منتخب-مصر-لكرة-اليد-يخسر-أمام-الدنمارك-32-27-في/5402103",
+            "urlToImage": "https://img.youm7.com/large/202107260738283828.jpg",
+            "publishedAt": "2021-07-26T06:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Alarabiya.net"
+            },
+            "author": "العربية",
+            "title": "صحوة متأخرة.. صانع سجائر \"مارلبورو\" يدعو لحظر التدخين ! - العربية",
+            "description": "قال الرئيس التنفيذي لشركة فيليب موريس إنترناشونال، التي تصنع سجائر \"مارلبورو\" في الخارج، إن شركته ستتوقف عن بيع السجائر في المملكة المتحدة في غضون عقد من ا",
+            "url": "https://www.alarabiya.net/aswaq/special-stories/2021/07/26/%D8%B5%D8%AD%D9%88%D8%A9-%D9%85%D8%AA%D8%A3%D8%AE%D8%B1%D8%A9-%D8%B5%D8%A7%D9%86%D8%B9-%D8%B3%D8%AC%D8%A7%D8%A6%D8%B1-%D9%85%D8%A7%D8%B1%D9%84%D8%A8%D9%88%D8%B1%D9%88-%D9%8A%D8%AF%D8%B9%D9%88-%D9%84%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%AA%D8%AF%D8%AE%D9%8A%D9%86-",
+            "urlToImage": "https://vid.alarabiya.net/images/2021/07/26/fd5d5a66-de22-412e-83b3-881e5ff14bda/fd5d5a66-de22-412e-83b3-881e5ff14bda_16x9_600x338.JPG",
+            "publishedAt": "2021-07-26T05:46:00Z",
+            "content": "\"\" .\r\n Jacek Olczak Daily Mail \" \" .\r\n Olczak 2030 The Telegraph.\r\n: \" . .. 10 . \".\r\n Altria. Philip Morris USA 2008 Vectura Group .\r\n The Guardian.\r\n ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youm7.com"
+            },
+            "author": null,
+            "title": "آخر تطورات حالة مروة محمد كومبارس مسلسل عائلة الحاج متولى.. فيديو - اليوم السابع",
+            "description": "بث تلفزيون اليوم السابع، تغطية من تقديم آلا شتا حول آخر تطورات حالة الممثلة مروة محمد كومبارس مسلسل عائلة الحاج متولي، وذلك بعدما تم تداول قصة عيشها مشردة في الشارع منذ عدة أشهر.",
+            "url": "https://www.youm7.com/story/2021/7/26/آخر-تطورات-حالة-مروة-محمد-كومبارس-مسلسل-عائلة-الحاج-متولى/5402037",
+            "urlToImage": "https://img.youm7.com/large/202107260112501250.jpg",
+            "publishedAt": "2021-07-26T05:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Skynewsarabia.com"
+            },
+            "author": "سكاي نيوز عربية",
+            "title": "لقاح كورونا في مسحوق وحبوب.. الأمل يقترب - Sky News Arabia سكاي نيوز عربية",
+            "description": "الطريقة الوحيدة للحصول على لقاح مضاد لفيروس كورونا حتى الآن هي الحقن، لكن في المستقبل غير البعيد، يبدو أن هذه اللقاحات ستعطى عن طريق أجهزة الاستنشاق، أو حتى بـ\"حبة\" تلقى في الفم.",
+            "url": "https://www.skynewsarabia.com/technology/1453462-%D9%84%D9%82%D8%A7%D8%AD-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%85%D8%B3%D8%AD%D9%88%D9%82-%D9%88%D8%AD%D8%A8%D9%88%D8%A8-%D8%A7%D9%84%D8%A7%D9%94%D9%85%D9%84-%D9%8A%D9%82%D8%AA%D8%B1%D8%A8",
+            "urlToImage": "https://www.skynewsarabia.com/images/v1/2021/07/26/1453463/1200/630/1-1453463.jpg",
+            "publishedAt": "2021-07-26T05:07:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youm7.com"
+            },
+            "author": null,
+            "title": "أسعار الذهب اليوم الاثنين.. هل يفتح السوق تداولاته على صعود \"النفيس\" - اليوم السابع",
+            "description": "يفتح سوق الذهب تداولاته هذا الأسبوع اليوم الاثنين 26 يوليو 2021 بعد توقف التداول يومي السبت والأحد، وتشير التوقعات إلى حركة محدودة بالسعر العالمي لأونصة الذهب، في وقت ينتظر فيه المتداولون.",
+            "url": "https://www.youm7.com/story/2021/7/26/أسعار-الذهب-اليوم-الاثنين-هل-يفتح-السوق-تداولاته-على-صعود/5401792",
+            "urlToImage": "https://img.youm7.com/large/202105090213431343.jpg",
+            "publishedAt": "2021-07-26T05:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youm7.com"
+            },
+            "author": null,
+            "title": "أولمبياد طوكيو 2020 .. هداية ملاك تتأهل إلى ربع نهائي التايكوندو - اليوم السابع",
+            "description": "نجحت هداية ملاك لاعبة منتخب الوطني للتايكوندو ، فى الفوز على الفرنسية مـاجـدة كـيـنـيـن في منافسات دور الـ 16 لوزن 67 كجم 11-10 ، بدورة الألعاب الأولمبية طوكيو 2020.",
+            "url": "https://www.youm7.com/story/2021/7/26/أولمبياد-طوكيو-2020-هداية-ملاك-تتأهل-إلى-ربع-نهائي-التايكوندو/5402093",
+            "urlToImage": "https://img.youm7.com/large/202107250553405340.jpg",
+            "publishedAt": "2021-07-26T04:15:00Z",
+            "content": null
         },
         {
             "source": {
@@ -151,11 +151,11 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "بعد إعلان السعودية.. تعرف على شروط العمرة (تفاصيل) - Al Masry Al Youm - المصري اليوم",
+            "title": "المرزوقي: ما وقع الليلة هو قفزة جبارة إلى الوراء - AlJazeera Channel قناة الجزيرة",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yMzg0NzQ00gE1aHR0cHM6Ly93d3cuYWxtYXNyeWFseW91bS5jb20vbmV3cy9kZXRhaWxzYW1wLzIzODQ3NDQ?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bVdNbXlvLUxpcjDSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-07-25T17:48:05Z",
+            "publishedAt": "2021-07-26T01:30:12Z",
             "content": null
         },
         {
@@ -164,89 +164,63 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "أزمة تيغراي: مخاوف من امتداد الصراع إلى أقاليم مجاورة - BBC Arabic",
-            "description": "زعيم إقليم أمهرة الإثيوبي يدعو جميع السكان الذين بحوزتهم سلاح إلى التعبئة ضد متمردي تيغراي، وذلك بعد دعوة مماثلة في إقليم عفر.",
-            "url": "https://www.bbc.com/arabic/world-57955490",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/E796/production/_119568295_ba9f35d9-28df-404e-abf8-06f52d207607.jpg",
-            "publishedAt": "2021-07-25T16:29:55Z",
-            "content": "Reuters\r\n.\r\n .\r\n .\r\n .\r\n20 54 .\r\n / .\r\n .\r\n .\r\n . \"\". \r\n .\r\n<ul><li></li><li></li><li></li></ul>\r\n<ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul>\r\n<ol><li></li><li></li><li><… [+71 chars]"
+            "title": "تونس: الرئيس قيس سعيد يقيل رئيس الوزراء ويجمد البرلمان والغنوشي يتهمه بالانقلاب - BBC Arabic",
+            "description": "الرئيس التونسي، قيس سعيِّد، يقيل رئيس الوزراء ويجمد البرلمان بعد ساعات من احتجاجات شعبية عنيفة، والغنوشي يتهمه بالانقلاب على الثورة.",
+            "url": "https://www.bbc.com/arabic/middleeast-57965419",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/BB18/production/_119569874_gettyimages-1234192763.jpg",
+            "publishedAt": "2021-07-26T01:11:43Z",
+            "content": "AFP\r\n.\r\n .\r\n .\r\n \" \".\r\n- : \" \".\r\n .\r\n .\r\n \" \".\r\n .\r\n - - 2014 . \r\n : \" \" .\r\n .\r\n: \" ... \".\r\n \" \". \" \".\r\n: \" ... \".\r\n .\r\n 2019 .\r\n .\r\n .\r\n 2011.\r\n .\r\n .\r\n .\r\n .\r\n . \" \" \" \".\r\n . .\r\n .\r\n<ul><li></li><l… [+56 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Thaqfny.com"
+                "name": "Yallakora.com"
             },
-            "author": null,
-            "title": "عروض جرير على الشاشات والجوال واللاب توب تصل ل 60% خلال فترة الصيف - ثقفني",
-            "description": "عروض جرير السعودية، مكتبة جرير تقدم خصومات كبيرة، تخفيضات على اللاب توب تصل إلى 40٪، هناك أسعار غير متوقعة بمناسبة العيد، أعاده الله عليكم بالخير، ومكتبة",
-            "url": "https://www.thaqfny.com/1327773/عروض-جرير-اليوم-58/",
-            "urlToImage": "https://www.thaqfny.com/wp-content/uploads/2021/07/عروض-جرير-السعودية-4.jpg",
-            "publishedAt": "2021-07-25T15:08:09Z",
-            "content": "40 .\r\n 55% \r\n40 .\r\n:\r\n<ul><li>Razer Blade 15 ( ) 15.6 Intel Core i7-9750 H ( ) NVIDIA GeForce RTX 2080 Max Q (8 ) 512 PCIe NVMe M SSD.2 11199 13599 .</li><li>MSI Stealth 15M A11SEK 15.6 Intel Core i7… [+356 chars]"
+            "author": "أحمد شريف",
+            "title": "مباشر. منافسين المصريين في أولمبياد طوكيو اليوم الإثنين - يلا كورة",
+            "description": "زوار يلا كورة الكرام، نقدم لكم تغطية مباشرة، لفعاليات منافسات اللاعببين المصريين المشاركين في أولمبياد طوكيو 2020 والتي افتتح رسميًا عصر الجمعة بعد تأجليها عام كامل بسبب وباء فيروس كورونا المستجد \"كوفيد 19\".",
+            "url": "https://www.yallakora.com/tokyo-2020-others/2700/News/411780/مصر-في-طوكيو-من-أجل-البرونزية-هداية-ملاك-تكتسح-وسيف-عيسى-ينافس",
+            "urlToImage": "https://media.gemini.media/img/yallakora/Normal/\\2021\\7\\24\\e6-7j3lxiam4tse2021_7_24_6_47.jpg",
+            "publishedAt": "2021-07-26T00:12:00Z",
+            "content": ":\r\n2020 \" 19\".\r\n . ()\r\n2020 32 15-4. ()\r\n 11-1  16 80 \" 2020\". ()\r\n\" 2020\" . ()\r\n15-6 32 \" 2020\". ()\r\n15-11 32 \" 2020\". ()\r\n11 11-10 16 67 . ()\r\n11 2019 15-13 32 . ()\r\n4-3 2020. ()\r\n() 13 29 \" \" . ()… [+73 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Alarabiya.net"
+                "name": "Masrawy.com"
             },
-            "author": "العربية",
-            "title": "تونس.. أحد عناصر النهضة يلقي مواطناً من فوق مبنى - العربية",
-            "description": "ألقى أحد أنصار حركة النهضة أحد المحتجين كان يحمل علم تونس من على سطح مقر الحركة في القيروان.وأظهر فيديو انتشر على مواقع التواصل الاجتماعي، قيام عنصر حركة ا",
-            "url": "https://www.alarabiya.net/north-africa/2021/07/25/%D8%AA%D9%88%D9%86%D8%B3-%D8%A3%D8%AD%D8%AF-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9-%D9%8A%D9%84%D9%82%D9%8A-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D8%A7-%D9%85%D9%86-%D9%81%D9%88%D9%82-%D9%85%D8%A8%D9%86%D9%89-",
-            "urlToImage": "https://vid.alarabiya.net/images/2021/07/25/4eda6bca-955e-4737-9468-0971186c489d/4eda6bca-955e-4737-9468-0971186c489d_16x9_600x338.JPG",
-            "publishedAt": "2021-07-25T14:21:00Z",
-            "content": null
+            "author": "مصراوي",
+            "title": "6 وفيات.. الصحة تعلن بيان كورونا ليوم الأحد - Masrawy-مصراوي",
+            "description": "6 وفيات الصحة تعلن بيان كورونا ليوم الأحد | مصراوى",
+            "url": "https://www.masrawy.com/news/news_egypt/details/2021/7/26/2061902/6-وفيات-الصحة-تعلن-بيان-كورونا-ليوم-الأحد",
+            "urlToImage": "https://media.gemini.media/img/large/2021/7/24/2021_7_24_2_47_51_24.jpg",
+            "publishedAt": "2021-07-26T00:01:00Z",
+            "content": "- :\r\n 122 227612 .\r\n 39 6 .\r\n \"\" 10 .\r\n \"\" 284024 227612 16487 .\r\n \" \" \"105\" \"15335\" \"01553105105\" \" \" ."
         },
         {
             "source": {
                 "id": null,
-                "name": "Alarabiya.net"
+                "name": "Masrawy.com"
             },
-            "author": "العربية",
-            "title": "السعودية.. غرة محرم موعد عودة معتمري الخارج وهذه الآلية - العربية",
-            "description": "تتأهب نحو 500 شركة ومؤسسة عمرة لاستقبال معتمري الخارج لأداء مناسك العمرة والصلاة بالمسجد الحرام، بدءاً من غرة شهر محرم، مع اشتراط التحصين، وحسب معايير وبرت",
-            "url": "https://www.alarabiya.net/saudi-today/2021/07/25/%D8%BA%D8%B1%D8%A9-%D9%85%D8%AD%D8%B1%D9%85%D8%8C-%D9%85%D9%88%D8%B9%D8%AF-%D8%B9%D9%88%D8%AF%D8%A9-%D9%85%D8%B9%D8%AA%D9%85%D8%B1%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D8%8C-%D9%88%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%A2%D9%84%D9%8A%D8%A9",
-            "urlToImage": "https://vid.alarabiya.net/images/2020/12/12/a1d531ac-14ce-40d0-a6c6-b058fc1ac973/a1d531ac-14ce-40d0-a6c6-b058fc1ac973_16x9_600x338.jpg",
-            "publishedAt": "2021-07-25T13:34:31Z",
-            "content": null
+            "author": "مصراوي",
+            "title": "\"خطر داهم\"..نص دستوري اعتمد عليه الرئيس التونسي في إقصاء الإخوان - Masrawy-مصراوي",
+            "description": "خطر داهم نص دستوري اعتمد عليه الري يس التونسي في ا قصاء الا خوان | مصراوى",
+            "url": "https://www.masrawy.com/news/news_publicaffairs/details/2021/7/26/2061898/-خطر-داهم-نص-دستوري-اعتمد-عليه-الري-يس-التونسي-في-ا-قصاء-الا-خوان",
+            "urlToImage": "https://media.gemini.media/img/large/2020/8/20/2020_8_20_1_34_10_843.jpg",
+            "publishedAt": "2021-07-25T23:32:00Z",
+            "content": "- :\r\n \"\" .\r\n 30 .\r\n .\r\n 80 .\r\n .\r\n 80\r\n 80 .\r\n . .\r\n 30 . .\r\n . \".\r\n \" \" .\r\n \" \".\r\n \" \".\r\n \" \".\r\n \" \" \" \" \" \".\r\n \" \".\r\n 80 .\r\n \" 80 \".\r\n ."
         },
         {
             "source": {
                 "id": null,
-                "name": "Akhbarkalaan.com"
+                "name": "Masrawy.com"
             },
-            "author": null,
-            "title": "لعبة جراند ثفت أوتو 5 الإصدار الخامس تتحدى GTA 7 فكرة اللعبة وطريقة التثبيت من الموقع الرسمي - أخبارك الآن",
-            "description": "لعبة جراند ثفت أوتو 5 لعبة الفيديو الشهيرة التي يعشقها الكبار والصغار على حد سواء، حيث استطاعت اللعبة أن تحقق شعبية كبيرة للغاية منذ اللحظة الأولي",
-            "url": "https://www.akhbarkalaan.com/88429/grand-theft-auto-5-تتحدى-gta7/",
-            "urlToImage": "https://www.akhbarkalaan.com/wp-content/uploads/2021/07/grand-theft-auto-4.jpg",
-            "publishedAt": "2021-07-25T11:54:12Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Youm7.com"
-            },
-            "author": null,
-            "title": "أسعار الذهب في مصر اليوم الأحد 25-7-2021 - اليوم السابع",
-            "description": "شهدت أسعار الذهب اليوم الأحد 25 يوليو 2021 استقرار ملحوظ عند نفس مستويات الإغلاق الأسبوع المنقضي، وذلك مع توقف التداول على الذهب في البورصات العالمية والسوق المصري.",
-            "url": "https://www.youm7.com/story/2021/7/25/أسعار-الذهب-في-مصر-اليوم-الأحد-25-7-2021/5401290",
-            "urlToImage": "https://img.youm7.com/large/42016211726166992.jpg",
-            "publishedAt": "2021-07-25T11:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Youm7.com"
-            },
-            "author": null,
-            "title": "سمية الخشاب تثير الجدل من جديد والسبب روب أبيض.. صور - اليوم السابع",
-            "description": "سمية الخشاب .. أثارت النجمة سمية الخشاب الجدل خلال الساعات الماضية، بمجموعة من الصور نشرتها عبر حسابها الشخصي على إنستجرام.",
-            "url": "https://www.youm7.com/story/2021/7/25/سمية-الخشاب-تثير-الجدل-من-جديد-والسبب-روب-أبيض-صور/5401103",
-            "urlToImage": "https://img.youm7.com/large/202107251235453545.jpg",
-            "publishedAt": "2021-07-25T10:28:00Z",
+            "author": "مصراوي",
+            "title": "اليوم.. إعلان حركة تنقلات ضباط الشرطة وتسليمها لمندوبي مديريات الأمن - Masrawy-مصراوي",
+            "description": "اليوم إعلان حركة تنقلات ضباط الشرطة وتسليمها لمندوبي مديريات الأمن | مصراوى",
+            "url": "https://www.masrawy.com/news/news_cases/details/2021/7/26/2061877/اليوم-إعلان-حركة-تنقلات-ضباط-الشرطة-وتسليمها-لمندوبي-مديريات-الأمن-",
+            "urlToImage": "https://media.gemini.media/img/large/2021/6/30/2021_6_30_1_13_20_295.jpg",
+            "publishedAt": "2021-07-25T22:54:00Z",
             "content": null
         },
         {
@@ -255,11 +229,37 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "كيفية الحصول على أكواد جواهر فري فاير حقيقية وتفعيلها للحصول على الذهب والألماس - نجوم مصرية",
+            "title": "احتفالات في شوارع تونس بعد قرارات الرئيس قيس سعيد (فيديو) - المصري اليوم",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMimAFodHRwczovL3d3dy5uZ21pc3IuY29tL3RlY2gvJUQ4JUI0JUQ4JUFEJUQ5JTg2LSVEOCVBMyVEOSU4MyVEOSU4OCVEOCVBNyVEOCVBRi0lRDglQUMlRDklODglRDglQTclRDklODclRDglQjEtJUQ5JTgxJUQ4JUIxJUQ5JThBLSVEOSU4MSVEOCVBNyVEOSU4QSVEOCVCMdIBAA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yMzg0ODky0gE1aHR0cHM6Ly93d3cuYWxtYXNyeWFseW91bS5jb20vbmV3cy9kZXRhaWxzYW1wLzIzODQ4OTI?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-07-25T09:47:16Z",
+            "publishedAt": "2021-07-25T22:51:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Filfan.com"
+            },
+            "author": "محمد سلطان محمود",
+            "title": "سمية الخشاب في حوار عبر تويتر: أتمنى حكم العالم بعد 10 سنوات... وسيرجيو أجويرو تعرض للتهميش - FilFan.com",
+            "description": "أجرت الفنانة سمية الخشاب جلسة دردشة مع الجمهور عبر Twitter.",
+            "url": "https://www.filfan.com/news/135653",
+            "urlToImage": "https://media.filfan.com/NewsPics/FilfanNew/large/342334_0.JPG",
+            "publishedAt": "2021-07-25T22:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youm7.com"
+            },
+            "author": null,
+            "title": "حظك اليوم وتوقعات الأبراج الإثنين 26/7/2021 على الصعيد المهنى والعاطفى والصحى - اليوم السابع",
+            "description": "نقدم حظك اليوم لمواليد كل الأبراج على الصعيد المهنى والعاطفى والصحى، وتوقعات علماء الفلك لكل برج.",
+            "url": "https://www.youm7.com/story/2021/7/26/حظك-اليوم-وتوقعات-الأبراج-الإثنين-26-7-2021-على-الصعيد/5401297",
+            "urlToImage": "https://img.youm7.com/large/20210516113604364.jpg",
+            "publishedAt": "2021-07-25T22:00:00Z",
             "content": null
         }
     ]
