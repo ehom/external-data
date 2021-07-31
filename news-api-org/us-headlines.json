@@ -4,55 +4,107 @@
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": null,
-            "title": "Russell Westbrook makes the Lakers the favorites in the West - Kendrick Perkins | The Jump - ESPN",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9djlINF83VGVNd1XSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-07-30T21:45:04Z",
-            "content": null
+            "author": "Brie Stimson",
+            "title": "Canadian doctor accused of using own sperm to inseminate patients to pay $10.7M in tentative settlement - Fox News",
+            "description": "Hundreds of victims of a former Canadian fertility doctor, who allegedly used the wrong sperm and sometimes his own while artificially inseminating patients, will be awarded $10.7 million in a tentative agreement reached this week, according to reports.",
+            "url": "https://www.foxnews.com/health/canadian-doctor-own-sperm-inseminate-patients-settlement",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/iStock-816223244.jpg",
+            "publishedAt": "2021-07-31T09:25:50Z",
+            "content": "Hundreds of victims of a former Canadian fertility doctor, who allegedly used the wrong sperm and sometimes his own while artificially inseminating patients, will be awarded $10.7 million in a tentat… [+2755 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Mujib Mashal",
+            "title": "Body of Reuters Photographer Was Mutilated in Taliban Custody, Officials Say - The New York Times",
+            "description": "The body of Danish Siddiqui, a Pulitzer Prize winner killed in Afghanistan, was unrecognizable when it was brought to a Kandahar hospital, one official said.",
+            "url": "https://www.nytimes.com/2021/07/31/world/asia/danish-siddiqui-afghanistan-photographer.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/07/31/world/31afghanistan-journalist1/31afghanistan-journalist1-facebookJumbo.jpg",
+            "publishedAt": "2021-07-31T08:14:14Z",
+            "content": "The Taliban rose to power from the southern province in the 1990s, promising to end atrocities carried out by local militias. In recent years, Afghan forces led by Abdul Raziq, a general who was assa… [+1566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "'South Park' Creators Want To Buy Real Casa Bonita, But It's Not For Sale - TMZ",
+            "description": "\"South Park\" creators want to buy the real Casa Bonita, but the restaurant is not for sale.",
+            "url": "https://www.tmz.com/2021/07/31/south-park-creators-want-buy-casa-bonita-real-restaurant-not-for-sale/",
+            "urlToImage": "https://imagez.tmz.com/image/c0/16by9/2021/07/30/c0345be6a2f14708bca4d616dbdd288a_xl.jpg",
+            "publishedAt": "2021-07-31T07:50:00Z",
+            "content": "Trey Parker and Matt Stonewant to buy a beloved Colorado restaurant featured in \"South Park,\" but it's still just a pipedream ... because we're told Casa Bonita is NOT for sale.\r\nHere's the deal ... … [+1036 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Fredreka Schouten and Dianne Gallagher, CNN",
-            "title": "Georgia Republicans inch closer to a takeover of elections in state's largest county - CNN",
-            "description": "Republican lawmakers are seeking a state-led performance review of election officials in Fulton County, exercising new powers granted by a controversial new election law in Georgia.",
-            "url": "https://www.cnn.com/2021/07/30/politics/georgia-republicans-fulton-county-voting-law/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210220094347-02-ballot-counting-georgia-super-tease.jpg",
-            "publishedAt": "2021-07-30T21:43:00Z",
-            "content": null
+            "author": "Travis Caldwell, CNN",
+            "title": "The surge of Covid-19 infections for unvaccinated people is only beginning, experts warn - CNN",
+            "description": "With the recent increase of Covid-19 infections and hospitalizations due to the spread of the more dangerous Delta variant, health experts and officials expect the surge to worsen as long as large segments of the country remain unvaccinated.",
+            "url": "https://www.cnn.com/2021/07/31/health/us-coronavirus-saturday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210730235551-florida-covid-treatment-tent-0729-super-tease.jpg",
+            "publishedAt": "2021-07-31T07:26:00Z",
+            "content": "(CNN)With the recent increase of Covid-19 infections and hospitalizations due to the spread of the more dangerous Delta variant, health experts and officials expect the surge to worsen as long as lar… [+5884 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Julius Young",
-            "title": "'Better Call Saul' star Bob Odenkirk speaks out after collapsing on set: 'I had a small heart attack' - Fox News",
-            "description": "The Emmy-winning actor, 58, took to social media on Friday to address the reports and thanked fans and loved ones for their well wishes.",
-            "url": "https://www.foxnews.com/entertainment/better-call-saul-star-bob-odenkirk-speaks-collapsing-on-set-small-heart-attack",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Bob-Odenkirk.jpg",
-            "publishedAt": "2021-07-30T20:59:03Z",
-            "content": "Bob Odenkirk has officially spoken out about his collapse while on the New Mexico set of \"Better Call Saul\" earlier this week.\r\nThe actor, 58, took to social media on Friday to address the reports an… [+1746 chars]"
+            "author": "Aya Elamroussi, CNN",
+            "title": "New Orleans EMS can't keep up with calls due to the Covid-19 surge as mayor restores a mask mandate - CNN",
+            "description": "Emergency medical responders in New Orleans have been hit so hard by the resurgence in Covid-19 cases that the city doesn't have the capacity to handle 911 calls, the mayor said Friday as she announced a new mask mandate and a contract to increase EMS resourc…",
+            "url": "https://www.cnn.com/2021/07/31/us/new-orleans-covid-19-surge/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210731003640-bourbon-street-la-0723-super-tease.jpg",
+            "publishedAt": "2021-07-31T06:25:00Z",
+            "content": "(CNN)Emergency medical responders in New Orleans have been hit so hard by the resurgence in Covid-19 cases that the city doesn't have the capacity to handle 911 calls, the mayor said Friday as she an… [+3643 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "ESPN"
             },
-            "author": "Lee Brown",
-            "title": "TikTok star, teen were on first date when they were shot in the head during 'The Purge' screening - New York Post ",
-            "description": "Anthony Barajas, a TikTok personality with over a million followers, was on a date with Rylee Goodrich when the pair were shot at a movie theater while seeing “The Forever Purge.”",
-            "url": "https://nypost.com/2021/07/30/tiktok-star-was-on-first-date-when-he-and-teen-girl-were-both-shot-at-movies/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/07/edwards-movie-theater-1.jpg?quality=90&strip=all&w=1200",
-            "publishedAt": "2021-07-30T20:54:00Z",
-            "content": "The California teenager blasted to death during a screening of violent crime movie The Forever Purge” was on a first date with a young TikTok star who may now be brain dead, her grieving dad has reve… [+2952 chars]"
+            "author": "ESPN",
+            "title": "Olympics 2021 live updates - World record for Caeleb Dressel, sixth individual gold for Katie Ledecky and more from Tokyo - ESPN",
+            "description": "More American medals in the pool at night. Then get up early for Team USA baseball and basketball.",
+            "url": "https://www.espn.com/olympics/story/_/id/31922638/olympics-2021-live-updates-world-record-caeleb-dressel-sixth-individual-gold-katie-ledecky-more-tokyo",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0731%2Fr888467_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-07-31T05:03:45Z",
+            "content": "Let's keep these Olympic Games going. What could be better?\r\nOlympics medal tracker | Schedule\r\nAfter beginning her career 4-for-4 in Olympic individual competition, Katie Ledecky earned her first-ev… [+3791 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Christopher Mims",
+            "title": "Why Artificial Intelligence Isn’t Intelligent - The Wall Street Journal",
+            "description": "Some experts in AI think its name fuels confusion and hype of the sort that led to past ‘AI winters’ of disappointment",
+            "url": "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
+            "urlToImage": "https://images.wsj.net/im-376905/social",
+            "publishedAt": "2021-07-31T04:00:00Z",
+            "content": "A funny thing happens among engineers and researchers who build artificial intelligence once they attain a deep level of expertise in their field. Some of themespecially those who understand what act… [+1359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "/FILM"
+            },
+            "author": "Ariel Fisher",
+            "title": "Women in Film, ReFrame, and Time's Up Call Out Disney - /FILM",
+            "description": "The three prominent organizations released a statement calling out Disney for its gendered character attack of Scarlett Johansson, and we should all care.",
+            "url": "https://www.slashfilm.com/women-in-film-reframe-and-times-up-call-disney-out-for-its-abhorrent-attack-of-scarlett-johansson-in-legal-battle/",
+            "urlToImage": "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/Scarlett-Johansson-Black-Widow-Lawsuit.jpeg",
+            "publishedAt": "2021-07-31T03:37:27Z",
+            "content": "Scarlett Johansson has been all over the news lately because she decided to stand up to the largest media corporation on the planet. Johansson alleges that her contract was breached by the decision t… [+6328 chars]"
         },
         {
             "source": {
@@ -60,168 +112,103 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Colts' Carson Wentz to visit foot specialist after missing practice, surgery possible, per reports - CBS Sports",
-            "description": "Colts' Carson Wentz nursing foot injury in training camp, per report",
-            "url": "https://www.cbssports.com/nfl/news/carson-wentz-to-visit-foot-specialist-after-missing-practice-surgery-possible-per-reports/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/07/30/26a62da9-ee12-4f38-9183-cd99ccf8e2f4/thumbnail/1200x675/2eafe200e3728ce42a7d00dce1f10ebd/template.jpg",
-            "publishedAt": "2021-07-30T20:45:00Z",
-            "content": "Carson Wentz is desperately seeking a fresh start following his trade from the Philadelphia Eagles to the Indianapolis Colts, but it's off to a bit of a bumpy start in training camp. After participat… [+3352 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Peter Aitken",
-            "title": "Navy sailor accused of setting fire to billion-dollar warship denies allegations: lawyer - Fox News",
-            "description": "The sailor charged by the U.S. Navy in connection to a fire that destroyed the USS Bonhomme Richard warship in 2020 has \"absolutely\" denied any allegation of wrongdoing in the matter, his attorney told Fox News.",
-            "url": "https://www.foxnews.com/us/navy-sailor-accused-fire-warship-denies-allegations",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/07/USS-Bonhomme-Richard-3.jpg",
-            "publishedAt": "2021-07-30T20:38:54Z",
-            "content": "The sailor charged by the U.S. Navy in connection to a fire that destroyed the USS Bonhomme Richard warship in 2020 has \"absolutely\" denied any allegation of wrongdoing in the matter, his attorney to… [+3343 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Julia Musto",
-            "title": "West Nile virus reported in multiple states - Fox News",
-            "description": "Cases of West Nile virus have been reported around the country this summer, killing at least one person in California's San Luis Obispo County.",
-            "url": "https://www.foxnews.com/us/west-nile-virus-states",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/mosquito.jpg",
-            "publishedAt": "2021-07-30T20:31:23Z",
-            "content": "Cases of West Nile virus have been reported around the country this summer, killing at least one person in California's San Luis Obispo County.\r\nAccording to data from the U.S. Centers for Disease Co… [+2291 chars]"
+            "title": "Kyle Kuzma posts emotional goodbye to Los Angeles on Instagram: 'I'm a Laker for life' - CBS Sports",
+            "description": "Kyle Kuzma spent the first four years of his career with the Lakers",
+            "url": "https://www.cbssports.com/nba/news/kyle-kuzma-posts-emotional-goodbye-to-los-angeles-on-instagram-im-a-laker-for-life/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/07/31/dea7f2f4-028b-4f01-8b03-823b2f361090/thumbnail/1200x675/978b1536afe8f6d971320ad2171b9861/kyle-kuzma-ring.jpg",
+            "publishedAt": "2021-07-31T03:37:25Z",
+            "content": "The No. 27 overall pick in the NBA Draft is a crapshoot. Often, that player won't even stick in the league. When they do, it's usually as a fairly unspectacular player. But the Los Angeles Lakers fou… [+2194 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Los Angeles Times"
-            },
-            "author": "Bill Plaschke",
-            "title": "Dodgers' Andrew Friedman has another magical trade moment - Los Angeles Times",
-            "description": "Just when it looked like a division rival would make the biggest splash at the trade deadline, Andrew Friedman of the Dodgers came through again.",
-            "url": "https://www.latimes.com/sports/dodgers/story/2021-07-30/dodgers-andrew-friedman-trade-max-scherzer-trea-turner",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/e5e11d5/2147483647/strip/true/crop/3000x1575+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F68%2F0d%2F203068db41928a852799073e3308%2Fla-photos-1staff-468195-sp-1004-dodgers-24-rcg.JPG",
-            "publishedAt": "2021-07-30T19:54:17Z",
-            "content": "Wow. Just, wow.\r\nJust when you thought the Dodgers were running out of gas and Andrew Friedman was losing his magic and their championship defense was in serious jeopardy and the 2021 season was goin… [+4906 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Nadine El-Bawab",
-            "title": "Royal Caribbean shares tumble as 6 Covid cases discovered on board a ship, cruise line expands U.S. testing policy - CNBC",
-            "description": "Royal Caribbean Cruises announced that it will require all guests to test for Covid after several fully-vaccinated guests tested positive.",
-            "url": "https://www.cnbc.com/2021/07/30/royal-caribbean-says-6-covid-cases-discovered-on-board-a-ship-shares-fall.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106900080-1624275179372-gettyimages-1324579654-dji_0344_2021062034100908.jpeg?v=1624275230",
-            "publishedAt": "2021-07-30T19:22:54Z",
-            "content": "Royal Caribbean Cruises shares fell about 4% on Friday after six passengers on board its Adventure of the Seas ship tested positive for Covid-19. \r\nThe four of those guests were fully vaccinated and … [+2120 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KTRK-TV"
+                "name": "Bitcoin.com"
             },
             "author": null,
-            "title": "COVID-19: Fully vaccinated woman dies in Galveston County - KTRK-TV",
-            "description": "A fully vaccinated Galveston County woman died earlier this month from COVID-19 complications, according to the Galveston County Health District.",
-            "url": "https://abc13.com/covid-death-galveston-vaccinated-fully/10919672/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/10872860_070821-ktrk-ewn-6pm-mca-covid-death-rate-variant-irios-vid.jpg?w=1600",
-            "publishedAt": "2021-07-30T19:10:23Z",
-            "content": "GALVESTON COUNTY, Texas (KTRK) -- A woman who was fully vaccinated against COVID-19 died earlier this month from the virus, health officials said Friday.The woman, who had pre-existing medical condit… [+1421 chars]"
+            "title": "Global Cryptocurrency Adoption Doubled Since January Reaching 221 Million Users: Report – Bitcoin News - Bitcoin News",
+            "description": "A report issued by Crypto.com, a cryptocurrency exchange, discovered the number of people using crypto has reached 221 million last June.",
+            "url": "https://news.bitcoin.com/global-cryptocurrency-adoption-doubled-since-january-reaching-221-million-users-report/",
+            "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2021/07/shutterstock_678128059.jpg",
+            "publishedAt": "2021-07-31T03:21:33Z",
+            "content": "A new report issued by Crypto.com, a cryptocurrency exchange and fintech services firm, discovered that the number of people using cryptocurrencies has more than doubled since January, reaching 221 m… [+3216 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "GameSpot"
             },
-            "author": "James Leggate",
-            "title": "Several dog food products recalled after harmful substance found - Fox Business",
-            "description": "Pet food maker Sunshine Mills is voluntarily recalling certain products from Triumph, Evolve, Wild Harvest, Nurture Farms, Heart to Tail Pure Being and Elm Pet Foods, the Food and Drug Administration announced this week.",
-            "url": "https://www.foxbusiness.com/lifestyle/dog-food-recall-harmful-substance",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/01/0/0/dog-eating-food.jpg?ve=1&tl=1",
-            "publishedAt": "2021-07-30T18:48:50Z",
-            "content": "Several brands of dog food sold nationwide are being recalled over concerns the products could be contaminated with mold.\r\nPet food maker Sunshine Mills is voluntarily recalling certain products from… [+1613 chars]"
+            "author": "George Yang",
+            "title": "PSA: Halo Infinite Campaign Spoilers Have Leaked Via The Beta - GameSpot",
+            "description": "Beware of Halo Infinite campaign spoilers as data-miners have gotten their hands on some files.",
+            "url": "https://www.gamespot.com/articles/psa-halo-infinite-campaign-spoilers-have-leaked-via-the-beta/1100-6494637/",
+            "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1646/16465123/3862439-haloinfinite.jpg",
+            "publishedAt": "2021-07-31T02:52:47Z",
+            "content": "So far, many Halo fans have been enjoying the Halo Infinite multiplayer technical preview. However, it's been confirmed that campaign content was mistakenly included in the beta's files, leading to s… [+1491 chars]"
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "nbc-news",
+                "name": "NBC News"
             },
-            "author": "Dalvin Brown",
-            "title": "Boeing's Starliner relaunch gets rescheduled due to thruster mayhem at the ISS - The Washington Post",
-            "description": "An unusual occurrence at the International Space Station sparked by the newly-docked Russian Nauka aircraft caused Boeing and NASA to reschedule Starliner's relaunch.",
-            "url": "https://www.washingtonpost.com/technology/2021/07/30/boeing-starliner-launch-rescheduled/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LCXHO3XRIMI6XANSTNYGDJMC3A.jpg&w=1440",
-            "publishedAt": "2021-07-30T18:42:47Z",
-            "content": "The soccer-field-sized space station had completed about one-eighth of a turn on its axis when ground controllers regained control. NASA officials said they believed the unexpected movement had not p… [+3813 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Annie Grayer, Phil Mattingly and Kristin Wilson, CNN",
-            "title": "Democrats scramble to pass extension to eviction moratorium at the last minute - CNN",
-            "description": "Capitol Hill is scrambling Friday to put together a deal to extend the eviction moratorium for renters from the Centers for Disease Control and Prevention before it expires Saturday night, though Democrats in the House have struggled to find a proposal that h…",
-            "url": "https://www.cnn.com/2021/07/30/politics/eviction-moratorium-house-vote/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210722105247-nancy-pelosi-july-22-2021-super-tease.jpeg",
-            "publishedAt": "2021-07-30T18:38:00Z",
-            "content": "(CNN)Capitol Hill is scrambling Friday to put together a deal to extend the eviction moratorium for renters from the Centers for Disease Control and Prevention before it expires Saturday night, thoug… [+5619 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Michael Erman,Carl O'donnell",
-            "title": "U.S. approval of COVID-19 shots could boost vaccination numbers, Fauci says - Reuters",
-            "description": "Top U.S. infectious disease expert Dr. Anthony Fauci said on Friday he hopes regulators could as soon as next month start granting full approval for the use of COVID-19 vaccines, a move he said could spur unvaccinated Americans to get the shots.",
-            "url": "https://www.reuters.com/world/us/fauci-hopes-us-regulators-fully-approve-covid-19-shots-by-mid-august-2021-07-30/",
-            "urlToImage": "https://www.reuters.com/resizer/WPrGcQ2zYIn-TrzPZUJpDdOuseo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HA6GR5HRBVKXJFMZX7XBGWBO3Y.jpg",
-            "publishedAt": "2021-07-30T18:38:00Z",
-            "content": "July 30 (Reuters) - Top U.S. infectious disease expert Dr. Anthony Fauci said on Friday he hopes regulators could as soon as next month start granting full approval for the use of COVID-19 vaccines, … [+3163 chars]"
+            "author": "Dennis Romero",
+            "title": "Baltimore woman charged in deaths of niece, nephew found in truck during traffic stop - NBC News",
+            "description": "Nicole M. Johnson, 33, was charged in the deaths of her young niece and nephew. Police said the children's bodies were in a vehicle she was driving.",
+            "url": "https://www.nbcnews.com/news/us-news/baltimore-woman-charged-deaths-young-niece-nephew-n1275579",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_01/2705191/nbc-social-default.png",
+            "publishedAt": "2021-07-31T02:50:00Z",
+            "content": "A Baltimore-area woman was ordered held without bail Friday after she was charged in connection with the deaths of her young niece and nephew after police said they were found in a vehicle she was dr… [+1641 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Deadline"
             },
-            "author": "Berkeley Lovelace Jr.",
-            "title": "CDC study shows 74% of people infected in Massachusetts Covid outbreak were fully vaccinated - CNBC",
-            "description": "The CDC data published Friday was based on 469 cases of Covid associated with multiple summer events and large public gatherings in July in Massachusetts.",
-            "url": "https://www.cnbc.com/2021/07/30/cdc-study-shows-74percent-of-people-infected-in-massachusetts-covid-outbreak-were-fully-vaccinated.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106510117-15880936162020-04-27t221417z_1041435741_rc2adg9o05yu_rtrmadp_0_health-coronavirus-usa.jpeg?v=1588093686",
-            "publishedAt": "2021-07-30T18:34:01Z",
-            "content": "About three-fourths of people infected in a Massachusetts Covid-19 outbreak were fully vaccinated against the coronavirus with four of them ending up in the hospital, according to new data published … [+2600 chars]"
+            "author": "Tom Tapp",
+            "title": "Simone Biles Withdraws From 2 More Tokyo Olympics Events, Will Be Replaced By Kayla Skinner On Vault - Deadline",
+            "description": "The world’s greatest gymnast, Simone Biles, has bowed out of scheduled Olympic events for the third time this week. On Tuesday, she removed herself from women’s team competition. On Thursday, Biles said she would not participate in the individual all-around f…",
+            "url": "https://deadline.com/2021/07/simone-biles-withdraws-two-more-tokyo-olympics-events-1234807029/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2017/07/simone-biles-3.jpg?w=776",
+            "publishedAt": "2021-07-31T02:15:00Z",
+            "content": "The world’s greatest gymnast, Simone Biles, has bowed out of scheduled Olympic events for the third time this week. On Tuesday, she removed herself from women’s team competition. On Thursday, Biles s… [+2414 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ELLE.com"
+                "name": "Deadline"
             },
-            "author": "Alyssa Bailey",
-            "title": "Here's Jennifer Lopez Posing in a Tiny Bikini on a Yacht, as One Does When You're J.Lo - Yahoo Lifestyle",
-            "description": "Ben Affleck's IRL thirst trap.",
-            "url": "https://www.elle.com/culture/celebrities/a37182233/jennifer-lopez-string-bikini-yacht-photos/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/capture-d-e-cran-2021-07-30-a-13-43-49-1627668104.png?crop=1.00xw:0.320xh;0,0.0553xh&resize=1200:*",
-            "publishedAt": "2021-07-30T18:18:00Z",
-            "content": "Jennifer Lopez continued her 52nd birthday celebration week by sharing more thirst trap content for the general public—and promoting her skincare line at the same time. The singer posted two shots of… [+2479 chars]"
+            "author": "Erik Pedersen",
+            "title": "‘Clifford The Big Red Dog’ Pulled From Paramount Release Schedule Over Delta Concerns; Pic Looking For New Date - Deadline",
+            "description": "EXCLUSIVE: Paramount Pictures has curbed the planned September 17 release of its CGI/live-action feature Clifford the Big Red Dog over concerns of the delta variant. The film is complete, and there’s good early tracking (in the low 90s), however, with familie…",
+            "url": "https://deadline.com/2021/07/clifford-the-big-red-dog-release-delayed-paramount-1234807014/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/06/image003-1.jpg?w=563",
+            "publishedAt": "2021-07-31T02:00:00Z",
+            "content": "EXCLUSIVE: Paramount Pictures has curbed the planned September 17 release of its CGI/live-action feature Clifford the Big Red Dog over concerns of the delta variant. The film is complete, and there’s… [+1258 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "WPLG Local 10"
             },
-            "author": "Megan Marples and Ashley Strickland, CNN",
-            "title": "Saturn will glow brightly in the sky next week. Here's how to see it - CNN",
-            "description": "Earth will be located in between Saturn and the sun, which will be prime time to view the outer planet.",
-            "url": "https://www.cnn.com/2021/07/30/world/saturn-at-opposition-2021-scn/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210730111437-saturn-2016-file-super-tease.jpeg",
-            "publishedAt": "2021-07-30T17:56:00Z",
-            "content": null
+            "author": "Amy Viteri, Andrea Torres",
+            "title": "Miami Beach mayor opposes DeSantis' stance against face mask mandates - WPLG Local 10",
+            "description": "Miami Beach Mayor Dan Gelber is asking Gov. Ron DeSantis to support the return of face mask mandates as the U.S. Centers for Disease Control and Prevention warns the coronavirus’ evolution into the more contagious Delta variant is getting more and more people…",
+            "url": "https://www.local10.com/news/local/2021/07/31/miami-beach-mayor-opposes-desantis-stance-against-face-mask-mandates/",
+            "urlToImage": "https://www.local10.com/resizer/xyMvrRnlwY_PP_pJwELE5Vs_h3o=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/07-30-2021/t_3620c385c80c4fe8822a79eaabd7e884_name_image.jpg",
+            "publishedAt": "2021-07-31T01:47:03Z",
+            "content": "MIAMI BEACH, Fla. Miami Beach Mayor Dan Gelber is asking Gov. Ron DeSantis to support the return of face mask mandates as the U.S. Centers for Disease Control and Prevention warns the coronavirus evo… [+2990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Amanda Kooser",
+            "title": "Saturn at opposition: How to watch the ringed planet line up with Earth - CNET",
+            "description": "Break out the binoculars and telescopes. Saturn is showing off for us.",
+            "url": "https://www.cnet.com/how-to/saturn-at-opposition-how-to-the-planet-line-up-with-earth/",
+            "urlToImage": "https://www.cnet.com/a/img/_FZIenpD7Lho9fw7MFfXI1suH_E=/1200x630/2020/12/07/8a241be5-42fe-4591-a414-9738dbcb42ff/saturn-social-crop.png",
+            "publishedAt": "2021-07-31T01:40:00Z",
+            "content": "The Hubble Space Telescope took a fresh look at Saturn during its northern hemisphere summer.\r\nNASA, ESA, A. Simon (Goddard Space Flight Center), M.H. Wong (University of California, Berkeley), and t… [+1767 chars]"
         },
         {
             "source": {
@@ -229,38 +216,51 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Amanda Knox Speaks Out Against Matt Damon Film Stillwater - Entertainment Tonight",
+            "title": "Over 100 people trapped on I-70 at Glenwood Canyon following 'multiple large mudslides' overnight - Denver7 – The Denver Channel",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Mkh0SGxmZHRZWGfSAQA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SU52eVk1TmtDMWvSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-07-30T17:33:44Z",
+            "publishedAt": "2021-07-31T01:37:32Z",
             "content": null
         },
         {
             "source": {
-                "id": "politico",
-                "name": "Politico"
+                "id": "newsweek",
+                "name": "Newsweek"
             },
-            "author": "MATT DIXON",
-            "title": "DeSantis seeks to block school mask mandates in Florida - POLITICO - POLITICO",
-            "description": "DeSantis called mask mandates in schools a &quot;huge mistake.”",
-            "url": "https://www.politico.com/states/florida/story/2021/07/30/desantis-seeks-to-block-school-mask-mandates-in-florida-amid-covid-surge-1389293",
-            "urlToImage": "https://static.politico.com/51/38/e58064ae404393ea189a43b9f6fd/ap21209717201584-1.jpg",
-            "publishedAt": "2021-07-30T17:15:36Z",
-            "content": "Florida Gov. Ron DeSantis speaks on Wednesday, July 28, 2021, in Salt Lake City. | Rick Bowmer/AP Photo\r\nTALLAHASSEE Gov. Ron DeSantis vowed to reject mask mandates for school-age students on Friday,… [+4727 chars]"
+            "author": "Aila Slisco",
+            "title": "Texas Gov. Greg Abbott Accuses Biden of Creating 'Constitutional Crisis' After DOJ Lawsuit - Newsweek",
+            "description": "\"This stems from the Biden Administration's refusal to enforce immigration laws and allow illegal immigrants with COVID-19 to enter our country,\" Abbott said Friday.",
+            "url": "https://www.newsweek.com/texas-gov-greg-abbott-accuses-biden-creating-constitutional-crisis-after-doj-lawsuit-1614875",
+            "urlToImage": "https://d.newsweek.com/en/full/1859135/greg-abbott-joe-biden-covid-19-immigration-constitution.jpg",
+            "publishedAt": "2021-07-31T01:25:54Z",
+            "content": "Republican Texas Governor Greg Abbott accused President Joe Biden of starting a \"constitutional crisis\" after being sued over his order directing state troopers to pull over vehicles suspected of con… [+3825 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": null,
+                "name": "MarketWatch"
             },
-            "author": "Tyler Olson",
-            "title": "Graham, Cuellar suggest new Biden border czar amid surge under Harris' watch: 'Something has to change' - Fox News",
-            "description": "Sen. Lindsey Graham and Rep. Henry Cuellar on Friday called on President Biden to appoint former Homeland Security Secretary Jeh Johnson to run the administration's border response amid continued problems in Cuellar's border district and surging migrant numbe…",
-            "url": "https://www.foxnews.com/politics/graham-cuellar-new-biden-border-czar-surge-harris-watch",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/Jeh-Johnson.jpg",
-            "publishedAt": "2021-07-30T16:36:55Z",
-            "content": "Sen. Lindsey Graham and Rep. Henry Cuellar on Friday called on President Biden to appoint former Homeland Security Secretary Jeh Johnson to run the administration's border response amid continued pro… [+3830 chars]"
+            "author": "Associated Press",
+            "title": "31-year-old man recovering in Missouri hospital after being given a 20% chance of survival; eschewed vaccine, citing ‘strong conservative family’ - MarketWatch",
+            "description": "Daryl Barker and wife, along with eight relatives, contracted COVID-19; they say they’ll both get vaccinated as soon as his health is restored",
+            "url": "https://www.marketwatch.com/story/31-year-old-man-recovering-in-missouri-hospital-after-being-given-a-20-chance-of-survival-eschewed-vaccine-citing-strong-conservative-family-01627693838",
+            "urlToImage": "https://images.mktw.net/im-378477/social",
+            "publishedAt": "2021-07-31T01:10:00Z",
+            "content": "OSAGE BEACH, Mo. (AP) Daryl Barker was passionately against a COVID-19 vaccination, and so were his relatives. Then 10 of them got sick and Barker, at just 31, ended up in a Missouri intensive care u… [+5412 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WGN TV Chicago"
+            },
+            "author": "David Charns, Nexstar Media Wire",
+            "title": "‘I should have gotten the damn vaccine’: Las Vegas father of 5 who later died of COVID-19 texts from hospital bed - WGN TV Chicago",
+            "description": "A Las Vegas father who contracted COVID-19 while on vacation texted his fiancé from the hospital, “I should have gotten the damn vaccine.”",
+            "url": "https://wgntv.com/news/coronavirus/i-should-have-gotten-the-damn-vaccine-las-vegas-father-of-5-who-later-died-of-covid-19-texts-from-hospital-bed/",
+            "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2021/07/58782831_1627500887456967_r_.jpg?w=1280",
+            "publishedAt": "2021-07-31T01:09:00Z",
+            "content": "LAS VEGAS (KLAS) A Las Vegas father who contracted COVID-19 while on vacation texted his fiancee from the hospital, I should have gotten the damn vaccine, she later told Nexstar’s KLAS.\r\nMichael Free… [+1609 chars]"
         }
     ]
 }
