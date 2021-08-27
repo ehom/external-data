@@ -4,120 +4,159 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "NASA’s $10 Billion James Webb Space Telescope Has Successfully Completed Testing - SciTechDaily",
+            "description": "After successful completion of its final tests, NASA’s James Webb Space Telescope is being prepped for shipment to its launch site. Engineering teams have completed Webb’s long-spanning comprehensive testing regimen at Northrop Grumman’s facilities. Webb’s ma…",
+            "url": "https://scitechdaily.com/nasas-10-billion-james-webb-space-telescope-has-successfully-completed-testing/",
+            "urlToImage": "https://scitechdaily.com/images/NASAs-James-Webb-Space-Telescope.gif",
+            "publishedAt": "2021-08-27T09:41:10Z",
+            "content": "ByThaddeus Cesari, NASA's Goddard Space Flight CenterAugust 27, 2021\r\nNASA’s James Webb Space Telescope. Credit: NASA’s Goddard Space Flight Center Conceptual Image Lab\r\nAfter successful completion o… [+8336 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Vicky McKeever",
+            "title": "Treasury yields rise slightly ahead of Powell's Fed summit speech - CNBC",
+            "description": "U.S. Treasury yields rose on Friday morning, ahead of Federal Reserve Chairman Jerome Powell's speech at the central bank's Jackson Hole symposium.",
+            "url": "https://www.cnbc.com/2021/08/27/us-bonds-treasury-yields-rise-ahead-of-powells-fed-summit-speech.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106860253-16167820541965-ZH-OB-Photo-20210326-Press-8-jpg?v=1616782191",
+            "publishedAt": "2021-08-27T08:33:05Z",
+            "content": "U.S. Treasury yields rose slightly on Friday morning, ahead of Federal Reserve Chairman Jerome Powell's highly anticipated speech at the central bank's Jackson Hole symposium.\r\nThe yield on the bench… [+1452 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jon Brodkin",
+            "title": "Apple will finally let devs tell users about non-App Store purchase options - Ars Technica",
+            "description": "Proposed settlement would make it a bit easier to avoid Apple App Store commission.",
+            "url": "https://arstechnica.com/tech-policy/2021/08/apple-will-finally-let-devs-tell-users-about-non-app-store-purchase-options/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-app-store-760x380.jpg",
+            "publishedAt": "2021-08-27T05:37:30Z",
+            "content": "56 with 36 posters participating\r\nApple will finally let developers tell users about purchase options available outside the iOS App Store. The iPhone maker agreed to this and other concessionsincludi… [+7599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Juliegrace Brufke, Samuel Chamberlain",
+            "title": "GOP rages over Biden's decision to 'surrender' after Kabul airport explosion - New York Post ",
+            "description": "House Republicans bashed the Biden administration in a conference call after Thursday’s double suicide bombing at Kabul’s international airport.",
+            "url": "https://nypost.com/2021/08/27/gop-rages-over-bidens-decision-to-surrender-after-kabul-airport-explosion/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/08/gop-afghanistan-attack-index.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-08-27T05:34:00Z",
+            "content": "House Republicans bashed the Biden administration in a conference call after Thursday’s double suicide bombing at Kabul’s international airport, sources told The Post.\r\nThe bombing killed at least 13… [+3292 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "Kamala Harris stops at Pearl Harbor on way back from Asia -- but avoids press questions - Fox News",
+            "description": "Kamala Harris returned to the U.S. on Thursday, landing in Hawaii after her trip to Singapore and Vietnam. But the vice president ignored reporters’ questions – whether about Afghanistan or other topics – as she got off Air Force Two for a stop at Joint Base …",
+            "url": "https://www.foxnews.com/politics/kamala-harris-stops-at-pearl-harbor-on-way-back-from-asia-but-avoids-press-questions",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/AP21239097224960.jpg",
+            "publishedAt": "2021-08-27T05:33:13Z",
+            "content": "Kamala Harris returned to the U.S. on Thursday, landing in Hawaii after her trip to Singapore and Vietnam.\r\nBut the vice president ignored reporters questions whether about Afghanistan or other topic… [+3256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Kim Kardashian Wears Wedding Dress, Joins Kanye at 'Donda' Event - TMZ",
+            "description": "Kim Kardashian Wears Wedding Dress, Joins Kanye at 'Donda' Event",
+            "url": "https://www.tmz.com/2021/08/26/kim-kardashian-wedding-dress-kanye-west-donda/",
+            "urlToImage": "https://imagez.tmz.com/image/6e/16by9/2021/08/27/6ec1de023508450cad065e134e2b145d_xl.jpg",
+            "publishedAt": "2021-08-27T05:24:00Z",
+            "content": "Kim Kardashian did more than just support her former hubby from the audience, she got involved in the action too, wearing a wedding dress!!!\r\nKanye's performance at Soldier Field in Chicago Thursday … [+1094 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Benjamin Swasey",
+            "title": "Republican-Led Texas House Passes New Voting Restrictions - NPR",
+            "description": "The vote on the Republican-led election legislation follows unprecedented efforts by Democrats to block it.",
+            "url": "https://www.npr.org/2021/08/27/1031154177/after-a-bitter-fight-the-texas-house-passes-a-restrictive-voting-bill",
+            "urlToImage": "https://media.npr.org/assets/img/2021/08/27/ap_21238809232161_wide-c8e75d71da4dbfc1d6b993c0704f5db4959ad80a.jpg?s=1400",
+            "publishedAt": "2021-08-27T05:06:17Z",
+            "content": "Texas Republican House Speaker Dade Phelan strikes his gavel as the House votes on an amendment to election bill SB1 on Thursday. The legislation easily passed in the GOP-led chamber.\r\nEric Gay/AP\r\nM… [+3198 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China Plans Control of Tech Algorithms U.S. Can Only Dream Of - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5fd585c6-0725-11ec-ac86-5478716e7a65&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wOC0yNy9jaGluYS1wbGFucy1jb250cm9sLW9mLXRlY2gtYWxnb3JpdGhtcy11LXMtY2FuLW9ubHktZHJlYW0tb2Y=",
+            "urlToImage": null,
+            "publishedAt": "2021-08-27T04:38:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "By Rob Picheta, <a href=\"/profiles/meg-wagner\">Meg Wagner</a>, <a href=\"/profiles/melissa-mahtani\">Melissa Mahtani</a>, Melissa Macaya, <a href=\"/profiles/veronica-rocha\">Veronica Rocha</a> and <a href=\"/profiles/fernando-alfonso-iii\">Fernando Alfonso III</a>, CNN",
-            "title": "Afghanistan news: Latest on blasts reported outside Kabul airport - CNN",
-            "description": "At least 12 US service members and a number of Afghan civilians were killed in an attack at Kabul's airport, the Pentagon says. Follow here for the latest news.",
-            "url": "https://www.cnn.com/world/live-news/afghanistan-news-taliban-refugees-08-26-21-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210826104457-04-kabul-explosion-0826-super-tease.jpg",
-            "publishedAt": "2021-08-26T22:36:00Z",
-            "content": "President Biden said Thursday that he has ordered up plans to strike ISIS-K targets following the attack near the Kabul airport. \r\nTo those who carried out this attack as well as anyone who wishes Am… [+2137 chars]"
+            "author": "Devon M. Sayers and Rebekah Riess, CNN",
+            "title": "Arkansas doctor under investigation for prescribing parasite pill thousands of times for Covid-19 despite FDA warning - CNN",
+            "description": "The Arkansas Medical Board is investigating after a doctor said he prescribed an anti-parasitic drug \"thousands\" of times for treatment of Covid-19, including to inmates in an Arkansas jail.",
+            "url": "https://www.cnn.com/2021/08/26/us/covid-ivermectin-arkansas-doctor/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210826221735-ivermectin-drug-file-super-tease.jpg",
+            "publishedAt": "2021-08-27T04:36:00Z",
+            "content": "(CNN)The Arkansas Medical Board is investigating after a doctor said he prescribed an anti-parasitic drug \"thousands\" of times for treatment of Covid-19, including to inmates in an Arkansas jail.\r\nTh… [+3897 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Weather Channel"
+                "name": "Stereogum"
             },
             "author": null,
-            "title": "Tropical Storm Ida Forms, Could Hit Gulf Coast as Major Hurricane | The Weather Channel - Articles from The Weather Channel | weather.com - The Weather Channel",
-            "description": "A dangerous hurricane threat is in play for the Gulf Coast. Here's the latest forecast briefing. - Articles from The Weather Channel | weather.com",
-            "url": "https://weather.com/safety/hurricane/news/2021-08-26-tropical-storm-hurricane-ida-forecast",
-            "urlToImage": "https://s.w-x.co/ida-primary-26aug21-pm.jpg",
-            "publishedAt": "2021-08-26T21:34:45Z",
-            "content": "At a Glance\r\n<ul><li>Tropical Storm Ida has formed in the Caribbean Sea.</li><li>This system is forecast to grow into a strong hurricane in the Gulf of Mexico this weekend.</li><li>Interests along th… [+3835 chars]"
+            "title": "Kacey Musgraves Shares New Song \"Justified\": Listen - Stereogum",
+            "description": "Earlier this week, Kacey Musgraves officially announced her Golden Hour follow-up star-crossed, which will be out in just two weeks time. She also shared its title track, a rippling opening number that sets the scene for the rest of the album. It was more of …",
+            "url": "https://www.stereogum.com/2158821/kacey-musgraves-justified/music/",
+            "urlToImage": "https://static.stereogum.com/uploads/2021/08/kacey-musgraves-justified-1630016542.jpeg",
+            "publishedAt": "2021-08-27T04:00:00Z",
+            "content": "Earlier this week, Kacey Musgraves officially announced her Golden Hour follow-up star-crossed, which will be out in just two weeks time. She also shared its title track, a rippling opening number th… [+525 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "Tropical Storm Ida nears Louisiana, prompting governor's emergency declaration - Fox News",
+            "description": "Louisiana Gov. Jon Bel Edwards declared a state of emergency Thursday in anticipation of Tropical Storm Ida, which is forecast to gain strength as it approaches the northern Gulf Coast potentially on Sunday, the governor’s office confirmed in a release.",
+            "url": "https://www.foxnews.com/us/tropical-storm-ida-louisiana-governor-edwards-emergency-declaration",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/tropical-storm-ida.jpg",
+            "publishedAt": "2021-08-27T03:50:03Z",
+            "content": "Louisiana Gov. Jon Bel Edwards declared a state of emergency Thursday in anticipation of Tropical Storm Ida, which is forecast to gain strength as it approaches the northern Gulf Coast potentially on… [+2735 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Black & White & Read All Over"
+                "name": "BBC News"
             },
-            "author": "Danny Penza",
-            "title": "Reports: Cristiano Ronaldo is done at Juventus, asks club to sell him - Black & White & Read All Over",
-            "description": "Well that escalated quickly.",
-            "url": "https://www.blackwhitereadallover.com/2021/8/26/22643099/cristiano-ronaldo-jorge-mendes-juventus-manchester-city-2021-serie-a-epl-summer-transfer-rumors",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/jDDjQWtZsaWz7vLQEXLjdNzF4Yo=/0x0:3918x2051/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22807328/1334200766.jpg",
-            "publishedAt": "2021-08-26T21:16:54Z",
-            "content": "Goal Italia Romeo Agresti said that there could be a major development in the Juventus and Cristiano Ronaldo saga before the turn of midnight on Thursday.\r\nAround 11 p.m. Thursday night in Italy, tha… [+1325 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "UEFA Awards: Chelsea star Jorginho and Barcelona's Alexia Putellas take Player of the Year honors - CBS Sports",
-            "description": "Erling Haaland, N'Golo Kante, Edouard Mendy and Ruben Dias also honored",
-            "url": "https://www.cbssports.com/soccer/news/uefa-awards-chelsea-star-jorginho-and-barcelonas-alexia-putellas-take-player-of-the-year-honors/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/08/26/af0a17a3-42e7-4d9a-8967-289a9f35f908/thumbnail/1200x675/5eb9f3ed33839848b9ab95c45fc8a384/uefa-player-of-the-year-award.jpg",
-            "publishedAt": "2021-08-26T21:04:00Z",
-            "content": "Although the UEFA Champions League group-stage draw has immediately set tongues wagging about the numerous heavyweight matchups to come, Chelsea's Jorginho and Barcelona's Alexia Putellas are celebra… [+1694 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Wall Street Journal",
-            "title": "World’s largest chipmaker to raise prices, threatening costlier electronics - Fox Business",
-            "description": "The price increases come in the wake of a global semiconductor shortage that has affected Apple and most car makers, including General Motors Co. and Toyota Motor Corp.",
-            "url": "https://www.foxbusiness.com/technology/world-largest-chipmaker-raise-prices-threatening-costlier-electronics",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/08/0/0/2021-08-26T123908Z_1816186304_RC20DP9NAJRX_RTRMADP_3_TSMC-CHIPS.jpg?ve=1&tl=1",
-            "publishedAt": "2021-08-26T20:35:04Z",
-            "content": "The world’s largest contract chipmaker is raising prices by as much as 20%, according to people familiar with the matter, a move that could result in consumers paying more for electronics.\r\nDOLLAR GE… [+5080 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "Marc Raimondi",
-            "title": "Tyron Woodley, Jake Paul camps get into heated exchange after news conference - ESPN",
-            "description": "Tyron Woodley's and Jake Paul's camps got into a heated exchange Thursday following the news conference for their fight after Woodley heard a member of Paul's camp talking trash to his mother, Deborah.",
-            "url": "https://www.espn.com/boxing/story/_/id/32090684/tyron-woodley-jake-paul-camps-get-heated-exchange-news-conference",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0826%2Fr900857_1296x729_16%2D9.jpg",
-            "publishedAt": "2021-08-26T20:24:40Z",
-            "content": "CLEVELAND -- Tensions were already high this week between Jake Paul and Tyron Woodley, and on Thursday things boiled over.\r\nAfter the Paul vs. Woodley news conference at the Hilton, Woodley heard a m… [+4736 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/jon-fingas",
-            "title": "'Overwatch' hero McCree will be renamed in response to sexual harassment lawsuit - Engadget",
-            "description": "Blizzard is changing the name of McCree in 'Overwatch' after his real-life namesake left the company following its sexual harassment scandal..",
-            "url": "https://www.engadget.com/overwatch-mccree-name-change-202148856.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-08/c10857d0-06a6-11ec-9fdf-0dbdaf428223",
-            "publishedAt": "2021-08-26T20:24:31Z",
-            "content": "The sexual harassment lawsuit against Activision Blizzard will have more repercussions for game content. Blizzard is changingOverwatch character Jesse McCree's name now that his real-life namesake ha… [+1253 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Takeout"
-            },
-            "author": "Marnie Shure",
-            "title": "Wendy’s new delivery-friendly french fries are a sign of the times - The Takeout",
-            "description": "The new fries will hold up better in transit—a concern that wasn't as pressing in a pre-pandemic world.",
-            "url": "https://thetakeout.com/wendys-new-fries-stay-crispy-longer-arrive-sept-2021-1847566338",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a33a93fe71b5365ef4d09d14eb2b1522.jpg",
-            "publishedAt": "2021-08-26T20:15:00Z",
-            "content": "Amidst our boundless excitement about upcoming releases like Taco Bells Crispy Chicken Sandwich Taco and McDonalds latest all-day breakfast doughnut, we need to find room in our hearts and minds for … [+2086 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Alexandra Del Rosario",
-            "title": "‘Dancing With The Stars’ Sets First Same-Sex Pairing Featuring JoJo Siwa; Suni Lee Also Joins Season 30 – Update - Deadline",
-            "description": "ABC’s Dancing With the Stars will be breaking new ground in the upcoming 30th season. During a TCA panel for the show Thursday, host Tyra Banks and executive producer Andrew Llinares revealed that the new season will feature a same-sex partnership for the fir…",
-            "url": "https://deadline.com/2021/08/suni-lee-jojo-siwa-dancing-with-the-stars-season-30-abc-1234822185/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2021/08/Jojo-Siwa-Suni-Lee.jpg?w=1000",
-            "publishedAt": "2021-08-26T20:05:00Z",
-            "content": "ABC’s Dancing With the Stars will be breaking new ground in the upcoming 30th season. During a TCA panel for the show Thursday, host Tyra Banks and executive producer Andrew Llinares revealed that th… [+2194 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Apple chief executive Tim Cook gets $750m payout - BBC News",
+            "description": "The award of more than five million Apple shares comes as Mr Cook marks a decade as the firm's boss.",
+            "url": "https://www.bbc.com/news/business-58352098",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A1B7/production/_120299314_tv068626477.jpg",
+            "publishedAt": "2021-08-27T03:16:23Z",
+            "content": "image captionMr Cook's payout was part of a deal he struck when he took over from co-founder Steve Jobs\r\nApple chief executive Tim Cook has received more than five million shares in the technology gi… [+1868 chars]"
         },
         {
             "source": {
@@ -125,142 +164,103 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "NASA and SpaceX Launch to the International Space Station - NASA",
+            "title": "2 killed, 1 hurt in gang-related shooting near Kankakee County Courthouse - WGN News",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9OUIzbFJ2ay16VmPSAQA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QUFXOGlMakozOEnSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-08-26T19:39:48Z",
+            "publishedAt": "2021-08-27T02:54:44Z",
             "content": null
         },
         {
             "source": {
-                "id": "politico",
-                "name": "Politico"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Lara Seligman, Alexander Ward, Andrew Desiderio",
-            "title": "U.S. officials provided Taliban with names of Americans, Afghan allies to evacuate - POLITICO",
-            "description": "“Basically, they just put all those Afghans on a kill list,” said one defense official.",
-            "url": "https://www.politico.com/news/2021/08/26/us-officials-provided-taliban-with-names-of-americans-afghan-allies-to-evacuate-506957",
-            "urlToImage": "https://static.politico.com/a7/87/e165669f444580dea05a97de347d/210826-kabul-ap-773.jpg",
-            "publishedAt": "2021-08-26T19:28:36Z",
-            "content": "Basically, they just put all those Afghans on a kill list, said one defense official, who like others spoke on condition of anonymity to discuss a sensitive topic. Its just appalling and shocking and… [+2993 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Brianna Provenzano",
-            "title": "MLK Is Coming to Battle Royale Video Game Fortnite - Gizmodo",
-            "description": "The makers of the gaming phenomenon are hoping to educate America's gamer youth on the history of the Civil Rights movement.",
-            "url": "https://gizmodo.com/mlk-is-coming-to-battle-royale-video-game-fortnite-1847565479",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/10274dd673d202176ce74d01b683f306.jpg",
-            "publishedAt": "2021-08-26T19:10:00Z",
-            "content": "When you think of the online video game Fortnite, whats the first thing that pops into your head? If you answered the late Civil Rights activist Martin Luther King Jr., then theres good news for you:… [+2157 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Patrick Wintour",
-            "title": "Pakistan’s national security adviser urges west to engage with Taliban - The Guardian",
-            "description": "Afghanistan at risk of security vacuum without international push for inclusive government, says Moeed Yusuf",
-            "url": "https://amp.theguardian.com/world/2021/aug/26/pakistans-national-security-adviser-urges-west-to-engage-with-taliban",
-            "urlToImage": null,
-            "publishedAt": "2021-08-26T18:44:00Z",
-            "content": "AfghanistanAfghanistan at risk of security vacuum without international push for inclusive government, says Moeed Yusuf\r\nThu 26 Aug 2021 18.39 BST\r\nThe west has embarrassed itself by refusing to list… [+4257 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Florence Ion",
-            "title": "Google Will Continue to Pay Apple Billions to Keep You From Using... Bing? - Gizmodo",
-            "description": "Google is expected to fork over $15 billion to Apple this year to keep its search engine the default on Safari.",
-            "url": "https://gizmodo.com/google-will-continue-to-pay-apple-billions-to-keep-you-1847564608",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b3b97ade88c46617d38fa4dfca4cef2d.jpg",
-            "publishedAt": "2021-08-26T18:20:00Z",
-            "content": "Google seems to have no problem doling out cash to ensure it remains the search engine of choice. Documents have shown the company offers financial incentives to smartphone manufacturers to keep its … [+2047 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wccftech"
-            },
-            "author": "Jason R. Wilson",
-            "title": "NVIDIA RTX 3090 FE Graphics Card Spotted With A Finger Cot By Mistake - Wccftech",
-            "description": "Recently, we reported about a PowerColor consumer on Reddit purchased one of their graphics cards, the PowerColor RX 6700XT, and upon opening the package, discovered that the thermal pads that are removed during manufacturing were left on by mistake. Now, NVI…",
-            "url": "https://wccftech.com/nvidia-rtx-3090-fe-graphics-card-spotted-with-a-finger-cot-by-mistake/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2021/08/NVIDIA-RTX-3090-Glove.jpg",
-            "publishedAt": "2021-08-26T18:15:00Z",
-            "content": "Recently, we reported about a PowerColor consumer on Reddit purchased one of their graphics cards, the PowerColor RX 6700XT, and upon opening the package, discovered that the thermal pads that are re… [+2140 chars]"
+            "author": "Melissa Melissa",
+            "title": "Supreme Court blocks Biden administration's latest ban on evictions - CBS News",
+            "description": "The court's three liberal justices dissented.",
+            "url": "https://www.cbsnews.com/news/supreme-court-eviction-moratorium/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/02/4ec67b23-d332-48cf-8065-15d53f60fb2e/thumbnail/1200x630/6650c58f1a795471d4498626f7efe1e0/gettyimages-1233752605.jpg",
+            "publishedAt": "2021-08-27T02:52:00Z",
+            "content": "Washington — The Supreme Court on Thursday lifted the Biden administration's newest federal ban on evictions, granting a bid from a group of landlords to block the pandemic-related protections for re… [+5740 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Whitney Wild and Chandelis Duster, CNN",
-            "title": "Seven US Capitol Police officers sue former President Trump, Stop the Steal organizers over January 6 riot - CNN",
-            "description": "Seven US Capitol Police officers are suing former President Donald Trump, Stop the Steal rally organizers and members of far-right extremist groups, accusing them of spreading lies, using White supremacist sentiments to attempt to overthrow the 2020 election,…",
-            "url": "https://www.cnn.com/2021/08/26/politics/capitol-police-officers-sue-donald-trump-rally-organizers/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210826124140-trump-0106-super-tease.jpg",
-            "publishedAt": "2021-08-26T18:10:00Z",
-            "content": "(CNN)Seven US Capitol Police officers are suing former President Donald Trump, Stop the Steal rally organizers and members of far-right extremist groups, accusing them of spreading lies, using White … [+1227 chars]"
+            "author": "Cheri Mossburg and Christina Maxouris, CNN",
+            "title": "California health officials report signs of 'encouraging' Covid trends but warn residents not to let their guard down - CNN",
+            "description": "California health officials say the number of new Covid-19 infections reported statewide appears to be leveling off and recent trends are showing \"encouraging\" signs following a surge of cases and hospitalizations driven by the Delta variant.",
+            "url": "https://www.cnn.com/2021/08/26/us/california-health-officials-hospitalizations-plateau/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210826173841-01-california-coronavirus-0730-super-tease.jpg",
+            "publishedAt": "2021-08-27T01:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Christal Hayes",
+            "title": "'It’s becoming a reality for us': Evacuation warnings issued as Caldor Fire nears Lake Tahoe basin - USA TODAY",
+            "description": "Over 2K firefighters are battling the Caldor Fire as it nears iconic Lake Tahoe, spurring the first evacuation warnings to those inside the basin.",
+            "url": "https://www.usatoday.com/story/news/nation/2021/08/26/lake-tahoe-caldor-fire-evacuation-warnings/5608685001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/08/27/USAT/8c0d2444-dfa0-4680-bc56-8f9e1944517e-AP_Western_Wildfires_1.jpg?crop=1881,1058,x12,y847&width=1600&height=800&fit=bounds",
+            "publishedAt": "2021-08-27T01:32:35Z",
+            "content": "The Caldor fire is \"knocking on the door\" near Lake Tahoe and has become the nation's Number 1 priority for firefighting resources, officials say.\r\nUSA TODAY\r\nStory Highlights\r\n<ul><li>The Caldor Fir… [+6033 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "Www.https"
             },
-            "author": "Asia Grace",
-            "title": "Monica Lewinsky insisted that 'Impeachment' depict Clinton thong-flashing - New York Post ",
-            "description": "Bill Clinton had a thing for her thong — and Monica Lewinsky wants the world to know it.",
-            "url": "https://nypost.com/2021/08/26/monica-lewinsky-insisted-impeachment-show-clinton-thong-flashing/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/08/monica-bill-clinton-thong-hp.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2021-08-26T18:05:00Z",
-            "content": "Bill Clinton had a thing for her thong and Monica Lewinsky wants the world to know it. \r\nHoisting up her big-girl undies as a producer of FXs forthcoming series Impeachment: American Crime Story, Lew… [+1898 chars]"
+            "author": "New York Post",
+            "title": "JoJo Siwa to compete as part of first same-sex pairing on 'Dancing With the Stars' - Fox News",
+            "description": "Nickelodeon star JoJo Siwa said that she'll be dancing with a woman during the upcoming 30th season of \"Dancing with the Stars.\"",
+            "url": "https://www.https://pagesix.com/2021/08/26/jojo-siwa-will-have-a-same-sex-partner-on-dancing-with-the-stars/",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/JoJo-Siwa.jpg",
+            "publishedAt": "2021-08-27T01:03:50Z",
+            "content": "Nickelodeon star JoJo Siwa who came out as part of the LGBTQ community in January will make history as the first \"Dancing With the Stars\" contestant to be matched with a same-sex partner, ABC announc… [+1586 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "Science Magazine"
             },
-            "author": "Gael Fashingbauer Cooper",
-            "title": "See Kristen Stewart as Princess Diana in first teaser trailer for Spencer - CNET",
-            "description": "Royal life looks elegant and also impossible in this short preview of the upcoming film.",
-            "url": "https://www.cnet.com/news/see-kristen-stewart-as-princess-diana-in-first-teaser-trailer-for-spencer/",
-            "urlToImage": "https://www.cnet.com/a/img/m4ZH1J1XEGRGtjd1HSuzKYZj-8w=/1200x630/2021/08/26/b61a600c-aa91-4ace-9094-cec9d2d588a1/diana-spencer-kristen-stewart-social-crop.png",
-            "publishedAt": "2021-08-26T18:02:00Z",
-            "content": "Kristen Stewart, of Twilight fame, as Princess Diana? That casting, for the upcoming film Spencer, has struck some as odd, but there's no doubt Stewart's been made up to look the part of the late roy… [+1068 chars]"
+            "author": null,
+            "title": "Having SARS-CoV-2 once confers much greater immunity than a vaccine—but no infection parties, please - Science Magazine",
+            "description": "Israelis who had an infection were more protected against the Delta coronavirus variant than those who had an already highly effective COVID-19 vaccine",
+            "url": "https://www.sciencemag.org/news/2021/08/having-sars-cov-2-once-confers-much-greater-immunity-vaccine-no-infection-parties",
+            "urlToImage": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/_20210826_on_Naturalimmunityvsvaccination_1280x720.jpg?itok=8HZelRAs",
+            "publishedAt": "2021-08-27T00:02:00Z",
+            "content": "By Meredith WadmanAug. 26, 2021 , 8:02 PM\r\nThe natural immune protection that develops after a SARS-COV-2 infection offers considerably more of a shield against the Delta variant of the pandemic coro… [+7774 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "MMA Mania"
             },
-            "author": "Jared S. Hopkins, Sarah Toy",
-            "title": "Covid-19 Vaccine Efficacy: What Do the Numbers Really Mean? - The Wall Street Journal",
-            "description": "Shots still offer protection against serious disease, while their ability to prevent infection has declined as the Delta variant spreads",
-            "url": "https://www.wsj.com/articles/covid-19-vaccine-efficacy-what-do-the-numbers-really-mean-11629999129",
-            "urlToImage": "https://images.wsj.net/im-390479/social",
-            "publishedAt": "2021-08-26T17:32:00Z",
-            "content": "The spread of the Delta variant, an increase in vaccinated people testing positive for Covid-19, and the U.S. governments call for booster shots have raised new questions about the power of the coron… [+1649 chars]"
+            "author": "Shakiel Mahjouri",
+            "title": "Stipe Miocic to be Dana White for Jake Paul vs. Tyron Woodley weigh-in - MMA Mania",
+            "description": "Jake Paul and Tyron Woodley should be on their best behavior in the presence of former UFC Heavyweight champion Stipe Miocic.",
+            "url": "https://www.mmamania.com/2021/8/26/22643291/stipe-miocic-will-play-dana-white-role-for-jake-paul-vs-tyron-woodley-weigh-in",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mPhuzmlQufg5m_ZPgIFoXLP1DuM=/0x48:4083x2186/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21857863/1228063613.jpg.jpg",
+            "publishedAt": "2021-08-27T00:00:00Z",
+            "content": "Jake Paul and Tyron Woodley should be on their best behavior in the presence of former UFC Heavyweight champion Stipe Miocic."
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Fox News Staff",
-            "title": "Rep. Crenshaw: Biden chose 'stupidest possible option' and now we're 'paying in blood' - Fox News",
-            "description": "Rep. Dan Crenshaw criticized President Biden for his process of withdrawing troops from Afghanistan that has since led to bombings at the Kabul airport.",
-            "url": "https://www.foxnews.com/media/kabul-airport-attack-afghanistan-biden-dan-crenshaw",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/07/GettyImages-1208918824.jpg",
-            "publishedAt": "2021-08-26T17:22:39Z",
-            "content": "Rep. Dan Crenshaw, a former Navy SEAL, issued a reality-check to Americans in an interview on \"The Faulkner Focus\" following the bombings in Kabul, saying \"there are people out there that want to kil… [+1687 chars]"
+            "author": null,
+            "title": "Samsung Galaxy Z Fold 3 Review - MobileTechReview",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YXpYQzIwOXlPNjTSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-08-26T23:19:23Z",
+            "content": null
         }
     ]
 }
