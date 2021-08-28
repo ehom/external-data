@@ -4,159 +4,224 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "SciTechDaily"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": null,
-            "title": "NASA’s $10 Billion James Webb Space Telescope Has Successfully Completed Testing - SciTechDaily",
-            "description": "After successful completion of its final tests, NASA’s James Webb Space Telescope is being prepped for shipment to its launch site. Engineering teams have completed Webb’s long-spanning comprehensive testing regimen at Northrop Grumman’s facilities. Webb’s ma…",
-            "url": "https://scitechdaily.com/nasas-10-billion-james-webb-space-telescope-has-successfully-completed-testing/",
-            "urlToImage": "https://scitechdaily.com/images/NASAs-James-Webb-Space-Telescope.gif",
-            "publishedAt": "2021-08-27T09:41:10Z",
-            "content": "ByThaddeus Cesari, NASA's Goddard Space Flight CenterAugust 27, 2021\r\nNASA’s James Webb Space Telescope. Credit: NASA’s Goddard Space Flight Center Conceptual Image Lab\r\nAfter successful completion o… [+8336 chars]"
+            "author": "Shawn Boburg, Meagan Flynn, Alex Horton, Ellen McCarthy, Dalvin Brown",
+            "title": "The 13 U.S. service members killed in the Kabul airport attack: What we know so far - The Washington Post",
+            "description": "The U.S. toll from the terrorist attack at the Kabul airport has come into sharper focus as the identities of 13 killed U.S. service members begin to emerge.",
+            "url": "https://www.washingtonpost.com/national-security/2021/08/27/us-service-members-killed-kabul-airport-names/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5IUIMCQHNQI6ZM6EYRRLD3OPZA.jpg&w=1440",
+            "publishedAt": "2021-08-27T22:37:52Z",
+            "content": "The Pentagon has yet to release the names of American service members killed. In a Friday briefing, Pentagon spokesman John Kirby did not say when the remains of the service members will arrive at Do… [+9031 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ray Sanchez and Cheri Mossburg, CNN",
+            "title": "RFK assassin Sirhan Sirhan gets parole on 16th attempt; governor can review - CNN",
+            "description": "Sirhan Sirhan, the man convicted of assassinating Sen. Robert F. Kennedy in 1968, was recommended for parole on Friday. After 53 year in prison, the 77-year-old inmate's fate is now in the hands of California's governor.",
+            "url": "https://www.cnn.com/2021/08/27/us/sirhan-sirhan-parole-rfk-assassination/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210826225040-booking-photo-sirhan-sirhan-super-tease.jpg",
+            "publishedAt": "2021-08-27T22:21:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadspin"
+            },
+            "author": "Bryan Fonseca",
+            "title": "Lauri Markkanen traded to the Cleveland Cavaliers - Deadspin",
+            "description": "Big man heads to Cleveland in three-way deal with Portland, Chicago",
+            "url": "https://deadspin.com/lauri-markkanen-trade-means-cavs-fans-can-legit-dream-o-1847575093",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ca4170c2c9429ea635952c65bc23d88f.jpg",
+            "publishedAt": "2021-08-27T21:31:00Z",
+            "content": "Lauri Markkanen is finally on the move, but not to a team really anyone expected.\r\nThe 7-foot Finnish big man is the latest NBA off-season domino to drop, somewhat concluding whats been an enormous m… [+3666 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2021 Fantasy Football Draft Prep: Best ADP values on CBS, ESPN and Yahoo - CBS Sports",
+            "description": "Breaking down the best Fantasy Football ADP values on CBS, ESPN, and Yahoo",
+            "url": "https://www.cbssports.com/fantasy/football/news/2021-fantasy-football-draft-prep-best-adp-values-on-cbs-espn-and-yahoo/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/08/27/b289b0a3-570b-4e69-aac0-4886c9059f6b/thumbnail/1200x675/011b7b3091ffcf51f124f4ef742eaacd/a-j-brown-1400.jpg",
+            "publishedAt": "2021-08-27T21:25:00Z",
+            "content": "This year more than ever, ADP appears to be fractured depending on which site you draft on. Some of that has to do with the standard scoring system. CBS probably has more non-PPR drafts than anyone e… [+1140 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Florence Ion",
+            "title": "You Can Use Windows 11 on Unsupported Hardware, But You May Not Want to - Gizmodo",
+            "description": "Feel free to make your own ISO, but don't expect the best performance.",
+            "url": "https://gizmodo.com/you-can-use-windows-11-on-unsupported-hardware-but-you-1847574526",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bc113fc8dd3e5b69818134b9a5d32a54.jpg",
+            "publishedAt": "2021-08-27T20:50:00Z",
+            "content": "Windows 11 is going to be a majorupgrade. But before you can get there, Microsoft wants you to have the necessary hardware. The company published a blog post officially detailing the system requireme… [+2528 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "MATT DIXON",
+            "title": "Florida starts turning on DeSantis - POLITICO",
+            "description": "The recent surge in Covid cases has the potential to threaten the GOP governor’s political ambitions.",
+            "url": "https://www.politico.com/states/florida/story/2021/08/27/desantis-pandemic-loses-pile-up-as-delta-ravages-florida-1390539",
+            "urlToImage": "https://static.politico.com/86/bb/4dc38a5e44c9bb0bdf71845baccc/ap21230692034167-1.jpg",
+            "publishedAt": "2021-08-27T20:10:07Z",
+            "content": "Florida Governor Ron DeSantis speaks at the opening of a monoclonal antibody site. | Marta Lavandier/AP Photo\r\nTALLAHASSEE Florida Gov. Ron DeSantis has been untouchable for the past year as he comma… [+7591 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maggie Fox, CNN",
+            "title": "Unvaccinated, unmasked teacher infected more than half of students in class with Covid-19, CDC reports - CNN",
+            "description": "An unvaccinated elementary school teacher who took off their mask to read to students ended up infecting more than half of them last May -- and they went on to infect other students, family members and community members, California public health officials rep…",
+            "url": "https://www.cnn.com/2021/08/27/health/teacher-covid-students/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210827150947-student-hand-up-stock-super-tease.jpg",
+            "publishedAt": "2021-08-27T20:03:00Z",
+            "content": "(CNN)An unvaccinated elementary school teacher who took off their mask to read to students ended up infecting more than half of them last May -- and they went on to infect other students, family memb… [+5790 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Vicky McKeever",
-            "title": "Treasury yields rise slightly ahead of Powell's Fed summit speech - CNBC",
-            "description": "U.S. Treasury yields rose on Friday morning, ahead of Federal Reserve Chairman Jerome Powell's speech at the central bank's Jackson Hole symposium.",
-            "url": "https://www.cnbc.com/2021/08/27/us-bonds-treasury-yields-rise-ahead-of-powells-fed-summit-speech.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106860253-16167820541965-ZH-OB-Photo-20210326-Press-8-jpg?v=1616782191",
-            "publishedAt": "2021-08-27T08:33:05Z",
-            "content": "U.S. Treasury yields rose slightly on Friday morning, ahead of Federal Reserve Chairman Jerome Powell's highly anticipated speech at the central bank's Jackson Hole symposium.\r\nThe yield on the bench… [+1452 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Jon Brodkin",
-            "title": "Apple will finally let devs tell users about non-App Store purchase options - Ars Technica",
-            "description": "Proposed settlement would make it a bit easier to avoid Apple App Store commission.",
-            "url": "https://arstechnica.com/tech-policy/2021/08/apple-will-finally-let-devs-tell-users-about-non-app-store-purchase-options/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-app-store-760x380.jpg",
-            "publishedAt": "2021-08-27T05:37:30Z",
-            "content": "56 with 36 posters participating\r\nApple will finally let developers tell users about purchase options available outside the iOS App Store. The iPhone maker agreed to this and other concessionsincludi… [+7599 chars]"
+            "author": "Amanda Macias",
+            "title": "U.S. intelligence agencies split on Covid-19 origins, offer no high-confidence conclusions in new report - CNBC",
+            "description": "In May, Biden ordered a closer intelligence review of what he described as two likely scenarios of the origins of the Covid-19 virus.",
+            "url": "https://www.cnbc.com/2021/08/27/covid-origin-report-us-intelligence-agencies-are-divided.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106837515-1612862455448-gettyimages-1230938269-AFP_9244AV.jpeg?v=1630092702",
+            "publishedAt": "2021-08-27T19:40:09Z",
+            "content": "WASHINGTON The U.S. intelligence community said that it is divided over the exact origin of Covid-19 in China, a revelation that comes three months after President Joe Biden requested a more in-depth… [+3888 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "New York Times"
             },
-            "author": "Juliegrace Brufke, Samuel Chamberlain",
-            "title": "GOP rages over Biden's decision to 'surrender' after Kabul airport explosion - New York Post ",
-            "description": "House Republicans bashed the Biden administration in a conference call after Thursday’s double suicide bombing at Kabul’s international airport.",
-            "url": "https://nypost.com/2021/08/27/gop-rages-over-bidens-decision-to-surrender-after-kabul-airport-explosion/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/08/gop-afghanistan-attack-index.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2021-08-27T05:34:00Z",
-            "content": "House Republicans bashed the Biden administration in a conference call after Thursday’s double suicide bombing at Kabul’s international airport, sources told The Post.\r\nThe bombing killed at least 13… [+3292 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brie Stimson",
-            "title": "Kamala Harris stops at Pearl Harbor on way back from Asia -- but avoids press questions - Fox News",
-            "description": "Kamala Harris returned to the U.S. on Thursday, landing in Hawaii after her trip to Singapore and Vietnam. But the vice president ignored reporters’ questions – whether about Afghanistan or other topics – as she got off Air Force Two for a stop at Joint Base …",
-            "url": "https://www.foxnews.com/politics/kamala-harris-stops-at-pearl-harbor-on-way-back-from-asia-but-avoids-press-questions",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/AP21239097224960.jpg",
-            "publishedAt": "2021-08-27T05:33:13Z",
-            "content": "Kamala Harris returned to the U.S. on Thursday, landing in Hawaii after her trip to Singapore and Vietnam.\r\nBut the vice president ignored reporters questions whether about Afghanistan or other topic… [+3256 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Kim Kardashian Wears Wedding Dress, Joins Kanye at 'Donda' Event - TMZ",
-            "description": "Kim Kardashian Wears Wedding Dress, Joins Kanye at 'Donda' Event",
-            "url": "https://www.tmz.com/2021/08/26/kim-kardashian-wedding-dress-kanye-west-donda/",
-            "urlToImage": "https://imagez.tmz.com/image/6e/16by9/2021/08/27/6ec1de023508450cad065e134e2b145d_xl.jpg",
-            "publishedAt": "2021-08-27T05:24:00Z",
-            "content": "Kim Kardashian did more than just support her former hubby from the audience, she got involved in the action too, wearing a wedding dress!!!\r\nKanye's performance at Soldier Field in Chicago Thursday … [+1094 chars]"
+            "author": "Matthew Bloch",
+            "title": "Map: Tracking Hurricane Ida's Path - The New York Times",
+            "description": "A map showing the storm’s route as it moves toward the Gulf Coast.",
+            "url": "https://www.nytimes.com/interactive/2021/us/hurricane-ida-tracker.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/08/26/us/hurricane-ida-tracker-promo-1630008029085/hurricane-ida-tracker-promo-1630008029085-facebookJumbo-v12.jpg",
+            "publishedAt": "2021-08-27T19:37:07Z",
+            "content": "Tropical Storm Ida strengthened into a hurricane on Friday as it approached the Gulf of Mexico, according to the National Hurricane Center. Damaging, hurricane-force winds and heavy rainfall are expe… [+746 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "NPR"
             },
-            "author": "Benjamin Swasey",
-            "title": "Republican-Led Texas House Passes New Voting Restrictions - NPR",
-            "description": "The vote on the Republican-led election legislation follows unprecedented efforts by Democrats to block it.",
-            "url": "https://www.npr.org/2021/08/27/1031154177/after-a-bitter-fight-the-texas-house-passes-a-restrictive-voting-bill",
-            "urlToImage": "https://media.npr.org/assets/img/2021/08/27/ap_21238809232161_wide-c8e75d71da4dbfc1d6b993c0704f5db4959ad80a.jpg?s=1400",
-            "publishedAt": "2021-08-27T05:06:17Z",
-            "content": "Texas Republican House Speaker Dade Phelan strikes his gavel as the House votes on an amendment to election bill SB1 on Thursday. The legislation easily passed in the GOP-led chamber.\r\nEric Gay/AP\r\nM… [+3198 chars]"
+            "author": null,
+            "title": "Does Delta Variant Pose Less Risk With 6 Feet Of Distance? : Goats and Soda - NPR",
+            "description": "It was drummed into our brains: Stay 6 feet from others! Limit close contact to 15 minutes. With the highly contagious delta variant, do we need to rethink those numbers?",
+            "url": "https://www.npr.org/sections/goatsandsoda/2021/08/27/1031753581/coronavirus-faq-how-does-the-6-feet-15-minutes-rule-apply-to-the-delta-variant",
+            "urlToImage": "https://media.npr.org/assets/img/2021/08/27/gettyimages-1222645781_wide-ab53425f509d603af0b22acd3d941f598e20805a.jpg?s=1400",
+            "publishedAt": "2021-08-27T19:36:29Z",
+            "content": "People don face masks to help keep the coronavirus at bay in June in Ankara, Turkey. But what about earlier recommendations to stay 6 feet away from others and limit close contact to 15 minutes? Are … [+5178 chars]"
         },
         {
             "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
+                "id": null,
+                "name": "Fox Business"
             },
-            "author": null,
-            "title": "China Plans Control of Tech Algorithms U.S. Can Only Dream Of - Bloomberg",
-            "description": null,
-            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=5fd585c6-0725-11ec-ac86-5478716e7a65&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wOC0yNy9jaGluYS1wbGFucy1jb250cm9sLW9mLXRlY2gtYWxnb3JpdGhtcy11LXMtY2FuLW9ubHktZHJlYW0tb2Y=",
-            "urlToImage": null,
-            "publishedAt": "2021-08-27T04:38:00Z",
-            "content": "To continue, please click the box below to let us know you're not a robot."
+            "author": "Kelsey Ramirez",
+            "title": "Fed Chair Powell says inflation surge will be temporary: Here's what it means for interest rates - Fox Business",
+            "description": "Federal Reserve Chairman Jerome Powell confirmed Friday his view that today's high inflation is temporary. Here's what that means for interest rates.",
+            "url": "https://www.foxbusiness.com/personal-finance/fed-chair-powell-inflation-surge-interest-rates",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/08/0/0/Credible-Federal-Reserve-thumbnail-iStock-939248364.jpg?ve=1&tl=1",
+            "publishedAt": "2021-08-27T19:16:40Z",
+            "content": "Federal Reserve Chairman Jerome Powell confirmed\r\n confirmed Friday the central bank will begin tapering its economic stimulus this year as the economy continues to recover from the COVID-19 pandemic… [+3908 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Dave Clarke, Tom Hamburger",
+            "title": "House Jan. 6 committee seeks information from tech giants regarding attack on Capitol, attempts to overturn election - The Washington Post",
+            "description": "The panel is also requesting information on how social media companies policed their platforms.",
+            "url": "https://www.washingtonpost.com/politics/january-6-committee-republicans-trump/2021/08/27/d38c9dc2-0754-11ec-a266-7c7fe02fa374_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q4JOG3XPB4I6XANSTNYGDJMC3A.jpg&w=1440",
+            "publishedAt": "2021-08-27T19:13:45Z",
+            "content": "The committee requested all reviews, studies, reports, data, analyses, and communications regarding misinformation generated by foreign and U.S. actors, domestic violent extremists associated with th… [+5092 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Devon M. Sayers and Rebekah Riess, CNN",
-            "title": "Arkansas doctor under investigation for prescribing parasite pill thousands of times for Covid-19 despite FDA warning - CNN",
-            "description": "The Arkansas Medical Board is investigating after a doctor said he prescribed an anti-parasitic drug \"thousands\" of times for treatment of Covid-19, including to inmates in an Arkansas jail.",
-            "url": "https://www.cnn.com/2021/08/26/us/covid-ivermectin-arkansas-doctor/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210826221735-ivermectin-drug-file-super-tease.jpg",
-            "publishedAt": "2021-08-27T04:36:00Z",
-            "content": "(CNN)The Arkansas Medical Board is investigating after a doctor said he prescribed an anti-parasitic drug \"thousands\" of times for treatment of Covid-19, including to inmates in an Arkansas jail.\r\nTh… [+3897 chars]"
+            "author": "Eric Bradner and Dianne Gallagher, CNN",
+            "title": "Texas House approves GOP voting restrictions bill after months of Democratic delays - CNN",
+            "description": "The Texas House approved a raft of new voting restrictions Friday, as majority Republicans seeking to hold on to power in a rapidly changing state finally overcame months of delays by Democrats who said the measure will raise new barriers to the ballot box fo…",
+            "url": "https://www.cnn.com/2021/08/27/politics/texas-voting-bill/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210827143236-texas-state-capitol-0731-super-tease.jpg",
+            "publishedAt": "2021-08-27T19:10:00Z",
+            "content": "(CNN)The Texas House approved a raft of new voting restrictions Friday, as majority Republicans seeking to hold on to power in a rapidly changing state finally overcame months of delays by Democrats … [+6351 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Stereogum"
+                "name": "Sports Illustrated"
             },
-            "author": null,
-            "title": "Kacey Musgraves Shares New Song \"Justified\": Listen - Stereogum",
-            "description": "Earlier this week, Kacey Musgraves officially announced her Golden Hour follow-up star-crossed, which will be out in just two weeks time. She also shared its title track, a rippling opening number that sets the scene for the rest of the album. It was more of …",
-            "url": "https://www.stereogum.com/2158821/kacey-musgraves-justified/music/",
-            "urlToImage": "https://static.stereogum.com/uploads/2021/08/kacey-musgraves-justified-1630016542.jpeg",
-            "publishedAt": "2021-08-27T04:00:00Z",
-            "content": "Earlier this week, Kacey Musgraves officially announced her Golden Hour follow-up star-crossed, which will be out in just two weeks time. She also shared its title track, a rippling opening number th… [+525 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brie Stimson",
-            "title": "Tropical Storm Ida nears Louisiana, prompting governor's emergency declaration - Fox News",
-            "description": "Louisiana Gov. Jon Bel Edwards declared a state of emergency Thursday in anticipation of Tropical Storm Ida, which is forecast to gain strength as it approaches the northern Gulf Coast potentially on Sunday, the governor’s office confirmed in a release.",
-            "url": "https://www.foxnews.com/us/tropical-storm-ida-louisiana-governor-edwards-emergency-declaration",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/08/tropical-storm-ida.jpg",
-            "publishedAt": "2021-08-27T03:50:03Z",
-            "content": "Louisiana Gov. Jon Bel Edwards declared a state of emergency Thursday in anticipation of Tropical Storm Ida, which is forecast to gain strength as it approaches the northern Gulf Coast potentially on… [+2735 chars]"
+            "author": "Michael Shapiro",
+            "title": "Fox Analyst Jay Glazer Takes Victory Lap as Cristiano Ronaldo Joins Manchester United - Sports Illustrated",
+            "description": "The Fox Sports reporter isn't among the Glazers who own Manchester United. But he'll take \"FULL CREDIT\" for signing Cristiano Ronaldo anyway.",
+            "url": "https://www.si.com/soccer/2021/08/27/jay-glazer-manchester-united-victory-lap-cristiano-ronaldo-transfer",
+            "urlToImage": "https://www.si.com/.image/t_share/MTgzNDQ5NDE5MzA2MjQ3MjA2/jay-glazer-super-bowl.jpg",
+            "publishedAt": "2021-08-27T18:57:04Z",
+            "content": "Fox NFL analyst Jay Glazer is used to getting plenty of criticism online during the NFL season, but he was certainly surprised when he checked his mentions during the Super League saga in April. \r\nGl… [+1086 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Vogue"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Apple chief executive Tim Cook gets $750m payout - BBC News",
-            "description": "The award of more than five million Apple shares comes as Mr Cook marks a decade as the firm's boss.",
-            "url": "https://www.bbc.com/news/business-58352098",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A1B7/production/_120299314_tv068626477.jpg",
-            "publishedAt": "2021-08-27T03:16:23Z",
-            "content": "image captionMr Cook's payout was part of a deal he struck when he took over from co-founder Steve Jobs\r\nApple chief executive Tim Cook has received more than five million shares in the technology gi… [+1868 chars]"
+            "author": "Janelle Okwodu",
+            "title": "Kim Kardashian and Kanye West Reenact Their Wedding Vows in Balenciaga Haute Couture - Vogue",
+            "description": "During the Chicago listening party for Donda, the friendly exes reimagined their biggest moment.",
+            "url": "https://www.vogue.com/article/kanye-west-kim-kardashian-wedding-donda-event-balenciaga-couture",
+            "urlToImage": "https://assets.vogue.com/photos/612933c792865bf1ab26b3dd/16:9/w_1280,c_limit/kkw-kanye-social.jpg",
+            "publishedAt": "2021-08-27T18:53:13Z",
+            "content": "Kanye West has pulled out all the stops for the promotion of his highly-anticipated 10th album, Donda. Currently previewing the record via a series of live-streamed events, West has given his fans mu… [+1832 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Hannah Sparks",
+            "title": "Female hummingbirds avoid sexual harassment by being flashy - New York Post ",
+            "description": "Some female white-necked jacobin hummingbirds are adopting flashier plumage to avoid harassment from brutish males, a new study has revealed, leading to fewer fights at the feeder.",
+            "url": "https://nypost.com/2021/08/27/female-hummingbirds-avoid-sexual-harassment-by-being-flashy/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/08/hummingbird-88.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-08-27T18:34:30Z",
+            "content": "Birds of a feather flock together, especially when trying to avoid sexual harassment.\r\nAccording to a new study, some female hummingbirds are going undercover as their male counterparts to avoid hara… [+3108 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mitchell Clark",
+            "title": "Peloton says it’s subject to DOJ, DHS, and SEC investigations into Tread Plus injuries - The Verge",
+            "description": "In a form filed to the SEC, Peloton disclosed that it had recieved subpoenas from the Department of Justice and Department of Homeland Security, seeking information on the company’s reporting of Tread Plus injuries.",
+            "url": "https://www.theverge.com/2021/8/27/22644743/peloton-tread-plus-doj-dhs-sec-recall-cpsc",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Lze27AYVBtyxEtWa7jf46uxubxI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16033601/akrales_190328_3240_0105.jpg",
+            "publishedAt": "2021-08-27T18:34:12Z",
+            "content": "The company initially fought calls to recall its treadmills\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nPeloton has said that the US Department of Justice (DOJ) and Department of Homeland Security … [+2833 chars]"
         },
         {
             "source": {
@@ -164,103 +229,38 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "2 killed, 1 hurt in gang-related shooting near Kankakee County Courthouse - WGN News",
+            "title": "Galaxy Z Fold 3 review: The S Pen makes it a blast - CNET",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QUFXOGlMakozOEnSAQA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NkFJMTJ5NXc1SFXSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-08-27T02:54:44Z",
+            "publishedAt": "2021-08-27T18:31:10Z",
             "content": null
         },
         {
             "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
+                "id": null,
+                "name": "CNBC"
             },
-            "author": "Melissa Melissa",
-            "title": "Supreme Court blocks Biden administration's latest ban on evictions - CBS News",
-            "description": "The court's three liberal justices dissented.",
-            "url": "https://www.cbsnews.com/news/supreme-court-eviction-moratorium/",
-            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/07/02/4ec67b23-d332-48cf-8065-15d53f60fb2e/thumbnail/1200x630/6650c58f1a795471d4498626f7efe1e0/gettyimages-1233752605.jpg",
-            "publishedAt": "2021-08-27T02:52:00Z",
-            "content": "Washington — The Supreme Court on Thursday lifted the Biden administration's newest federal ban on evictions, granting a bid from a group of landlords to block the pandemic-related protections for re… [+5740 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Cheri Mossburg and Christina Maxouris, CNN",
-            "title": "California health officials report signs of 'encouraging' Covid trends but warn residents not to let their guard down - CNN",
-            "description": "California health officials say the number of new Covid-19 infections reported statewide appears to be leveling off and recent trends are showing \"encouraging\" signs following a surge of cases and hospitalizations driven by the Delta variant.",
-            "url": "https://www.cnn.com/2021/08/26/us/california-health-officials-hospitalizations-plateau/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210826173841-01-california-coronavirus-0730-super-tease.jpg",
-            "publishedAt": "2021-08-27T01:33:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Christal Hayes",
-            "title": "'It’s becoming a reality for us': Evacuation warnings issued as Caldor Fire nears Lake Tahoe basin - USA TODAY",
-            "description": "Over 2K firefighters are battling the Caldor Fire as it nears iconic Lake Tahoe, spurring the first evacuation warnings to those inside the basin.",
-            "url": "https://www.usatoday.com/story/news/nation/2021/08/26/lake-tahoe-caldor-fire-evacuation-warnings/5608685001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2021/08/27/USAT/8c0d2444-dfa0-4680-bc56-8f9e1944517e-AP_Western_Wildfires_1.jpg?crop=1881,1058,x12,y847&width=1600&height=800&fit=bounds",
-            "publishedAt": "2021-08-27T01:32:35Z",
-            "content": "The Caldor fire is \"knocking on the door\" near Lake Tahoe and has become the nation's Number 1 priority for firefighting resources, officials say.\r\nUSA TODAY\r\nStory Highlights\r\n<ul><li>The Caldor Fir… [+6033 chars]"
+            "author": "Charlie Wood",
+            "title": "How Blue Origin, SpaceX, Virgin Galactic space race could impact the atmosphere - CNBC",
+            "description": "The Bezos, Branson and Musk space race is leading scientists to try to better understand how rocket exhaust and other elements impact the environment.",
+            "url": "https://www.cnbc.com/2021/08/27/how-blue-origin-spacex-virgin-galactic-space-race-could-impact-the-atmosphere.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106913523-16267881272021-07-20t133302z_1409759657_hp1eh7k11mz01_rtrmadp_0_space-exploration-blueorigin.jpeg?v=1626788167",
+            "publishedAt": "2021-08-27T18:30:48Z",
+            "content": "Billionaire businessman Jeff Bezos is launched with three crew members aboard a New Shepard rocket on the world's first unpiloted suborbital flight from Blue Origin's Launch Site 1 near Van Horn, Tex… [+8660 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Www.https"
+                "name": "ESPN"
             },
-            "author": "New York Post",
-            "title": "JoJo Siwa to compete as part of first same-sex pairing on 'Dancing With the Stars' - Fox News",
-            "description": "Nickelodeon star JoJo Siwa said that she'll be dancing with a woman during the upcoming 30th season of \"Dancing with the Stars.\"",
-            "url": "https://www.https://pagesix.com/2021/08/26/jojo-siwa-will-have-a-same-sex-partner-on-dancing-with-the-stars/",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/JoJo-Siwa.jpg",
-            "publishedAt": "2021-08-27T01:03:50Z",
-            "content": "Nickelodeon star JoJo Siwa who came out as part of the LGBTQ community in January will make history as the first \"Dancing With the Stars\" contestant to be matched with a same-sex partner, ABC announc… [+1586 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Science Magazine"
-            },
-            "author": null,
-            "title": "Having SARS-CoV-2 once confers much greater immunity than a vaccine—but no infection parties, please - Science Magazine",
-            "description": "Israelis who had an infection were more protected against the Delta coronavirus variant than those who had an already highly effective COVID-19 vaccine",
-            "url": "https://www.sciencemag.org/news/2021/08/having-sars-cov-2-once-confers-much-greater-immunity-vaccine-no-infection-parties",
-            "urlToImage": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/_20210826_on_Naturalimmunityvsvaccination_1280x720.jpg?itok=8HZelRAs",
-            "publishedAt": "2021-08-27T00:02:00Z",
-            "content": "By Meredith WadmanAug. 26, 2021 , 8:02 PM\r\nThe natural immune protection that develops after a SARS-COV-2 infection offers considerably more of a shield against the Delta variant of the pandemic coro… [+7774 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MMA Mania"
-            },
-            "author": "Shakiel Mahjouri",
-            "title": "Stipe Miocic to be Dana White for Jake Paul vs. Tyron Woodley weigh-in - MMA Mania",
-            "description": "Jake Paul and Tyron Woodley should be on their best behavior in the presence of former UFC Heavyweight champion Stipe Miocic.",
-            "url": "https://www.mmamania.com/2021/8/26/22643291/stipe-miocic-will-play-dana-white-role-for-jake-paul-vs-tyron-woodley-weigh-in",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mPhuzmlQufg5m_ZPgIFoXLP1DuM=/0x48:4083x2186/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21857863/1228063613.jpg.jpg",
-            "publishedAt": "2021-08-27T00:00:00Z",
-            "content": "Jake Paul and Tyron Woodley should be on their best behavior in the presence of former UFC Heavyweight champion Stipe Miocic."
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Samsung Galaxy Z Fold 3 Review - MobileTechReview",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YXpYQzIwOXlPNjTSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-08-26T23:19:23Z",
-            "content": null
+            "author": "Mark Schlabach",
+            "title": "Louisville Cardinals suspend men's basketball coach Chris Mack six games for role in extortion case - ESPN",
+            "description": "Louisville Cardinals suspend men's basketball coach Chris Mack six games without pay Friday for failing to follow university guidelines while being extorted by a former assistant coach.",
+            "url": "https://www.espn.com/mens-college-basketball/story/_/id/32096612/louisville-cardinals-suspend-men-basketball-coach-chris-mack-six-games-role-extortion-case",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F1204%2Fr473168_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-08-27T18:28:47Z",
+            "content": "Louisville suspended men's basketball coach Chris Mack for six games Friday after concluding that he didn't follow university guidelines and procedures while being extorted by a former assistant coac… [+2656 chars]"
         }
     ]
 }
