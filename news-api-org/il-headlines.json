@@ -4,16 +4,211 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "Chiportal.co.il"
+            },
+            "author": "אבי בליזובסקי",
+            "title": "וויביט מדווחת על הסכם רישוי ראשון: טכנולוגיית הזיכרון שפיתחה תשולב בשבבים של SkyWater האמריקאית - Chiportal",
+            "description": "טכנולוגיית ה-ReRAM של וויביט תשולב במוצרי IoT, מכוניות, ויישומי בינה מלאכותית; SkyWater היא יצרנית השבבים האמריקאית היחידה שכל פעילותה ממוקמת",
+            "url": "https://chiportal.co.il/%d7%95%d7%95%d7%99%d7%91%d7%99%d7%98-%d7%9e%d7%93%d7%95%d7%95%d7%97%d7%aa-%d7%a2%d7%9c-%d7%94%d7%a1%d7%9b%d7%9d-%d7%a8%d7%99%d7%a9%d7%95%d7%99-%d7%a8%d7%90%d7%a9%d7%95%d7%9f-%d7%98%d7%9b%d7%a0%d7%95/",
+            "urlToImage": "https://chiportal.co.il/wp-content/uploads/2021/09/Weebit-SkyWater-Feature-Image-F.png",
+            "publishedAt": "2021-09-11T22:05:56Z",
+            "content": "-ReRAM IoT, , ; SkyWater ”\r\n (: ASX: WBT) -ReRAM SkyWater Technology (”: SKYT). SkyWater IoT, .   \r\nSkyWater , , , IoT , -. ”. SkyWater , ”. , SkyWater .\r\n 130 , Skywater , 2022. , , , IoT, . -SkyWat… [+125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Walla.co.il"
+            },
+            "author": "יואב איתיאל",
+            "title": "ביהמ\"ש האריך את מעצרם של ארבעת המחבלים שנתפסו - וואלה! חדשות",
+            "description": "האסירים שהועברו לחקירת שבכ הובאו לבית המשפט בנצרת, לדיון שאובטח בפיקודו של מפקד יחידת נחשון בשבס. הארבעה מנועים במפגש עם עוד, ובתום הדיון נמסרה להם ההחלטה. עוד אביגדור פלדמן, המייצג את זכריה זביידי, אמר: נבקש מהשופט שיעביר להם את המסר שלנו - לשתוק",
+            "url": "https://news.walla.co.il/item/3459362",
+            "urlToImage": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/2/7/9/3279869-46.jpg",
+            "publishedAt": "2021-09-11T20:31:00Z",
+            "content": "\" , \". \", . \" , , : \" - \""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Haaretz.co.il"
+            },
+            "author": "איתמר קציר",
+            "title": "גמר אליפות ארה\"ב: ליילה פרננדז - אמה רדוקאנו 1:0 (מערכה 1) - הארץ",
+            "description": "אחרי שהפתיעו את כל העולם כשהעפילו לגמר אליפות ארצות הברית, ליילה פרננדז ואמה רדוקאנו נפגשות לקרב הסינדרלות על גביע הגראנד סלאם האחרון של השנה, בסופו אחת מהן תזכה לראשונה בקריירה במייג'ור",
+            "url": "https://www.haaretz.co.il/sport/other/1.10201103",
+            "urlToImage": "https://img.haarets.co.il/img/1.10201146/2703610813.jpg?precrop=2192,1272,x8,y80&height=698&width=1200",
+            "publishedAt": "2021-09-11T20:07:00Z",
+            "content": ", , , - -19, 73 -18, 150 .\r\n , ( 3 ), (5) (2). ( ) , . 2021, ' .\r\n :\r\n , . , . , -2:2 . , . , 30:0 ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hebrewnews.com"
+            },
+            "author": null,
+            "title": "הופעת בכורה: ג'ניפר לופז ובן אפלק על השטיח האדום - Hebrew News",
+            "description": "לאחר הקאמבק התקשורתי שהצליח להרעיד את כל הביצה ההוליוודית ורחבי הרשת, צמד הכוכבים הגיע נחת ישירות לפסטיבל הסרטים בונציה וסיפק הופעת בכורה ראשונה של הז",
+            "url": "https://hebrewnews.com/article/42599",
+            "urlToImage": "https://nuhomecrm.s3.amazonaws.com/hebrewnews/4f889c5a-d46a-4534-8de4-39ff73571913.jpg",
+            "publishedAt": "2021-09-11T19:06:28Z",
+            "content": ", ' , . , , , , .\r\n, . , .\r\n , . , , '. \r\n, , , , . ."
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "רקטה נוספת שוגרה מעזה ויורטה על ידי כיפת ברזל - קול חי",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiS2h0dHBzOi8vd3d3LjkzZm0uY28uaWwvcmFkaW8vNzI2MTkzLz91dG1fc291cmNlPXNpdGUmdXRtX21lZGl1bT1idXJnZXItbWVuddIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-09-11T18:53:43Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "ynet",
                 "name": "Ynet"
             },
-            "author": "מורן אזולאי, חסן שעלאן",
-            "title": "השר בר-לב: \"הירי לעבר בית הניצב - הכרזת מלחמה על משטרת ישראל\" - ynet.co.il",
-            "description": "השר לביטחון הפנים האשים את ארגוני הפשעה במגזר הערבי בירי על ביתו של ניצב ג'מאל חכרוש, ואמר כי \"הם עשו טעות גדולה - האירוע רק יוסיף חמצן ומרץ לתוכנית למיגור הפשיעה\"",
-            "url": "https://www.ynet.co.il/news/article/sysj2x5zf",
-            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/09/11/By5N11WcfF/By5N11WcfF_0_0_850_479_0_large.jpg",
-            "publishedAt": "2021-09-11T10:20:35Z",
-            "content": ", -2016. , \" - . -2016 , , . \r\nynet \" \", , . \" - \", . \" . 40% 25-18 . , , - , \"."
+            "author": "נדב צנציפר",
+            "title": "ממשיכה לזייף: רק 1:1 למכבי ת\"א עם מכבי פ\"ת - ynet.co.il",
+            "description": "שבוע לפני העימות עם מכבי חיפה, הצהובים עם נקודה בלבד אחרי שני מחזורים אחרי שלא שמרו על שער יתרון של פריצה (31) וגם איבדו את סאבוריט שנפצע ועלול להיעדר מול הירוקים. בנדה השווה (57). ואן לוון: \"לא כך רצינו לפתוח את העונה\"",
+            "url": "https://www.ynet.co.il/sport/israelisoccer/article/rjuvnpcmf",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/09/11/SksII009GK/SksII009GK_0_0_1280_721_0_large.jpg",
+            "publishedAt": "2021-09-11T18:26:51Z",
+            "content": "\" \", . \" , . , , . , . . . \". \r\n: \" , . . . , . . , . . . , \"."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Haaretz.co.il"
+            },
+            "author": "יהושע (ג'וש) בריינר",
+            "title": "שב\"כ מעורב באופן חריג בחקירת הירי לעבר ביתו של ניצב במשטרה - הארץ",
+            "description": "במשטרה חושדים כי ארגון פשע עומד מאחורי הירי לעבר ביתו של ראש האגף לסיכול פשיעה בחברה הערבית, ג'מאל חכרוש. חכרוש התנגד לשילוב שב\"כ בחקירת עבירות אלימות בחברה הערבית",
+            "url": "https://www.haaretz.co.il/news/politics/1.10200872",
+            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10200900.1631385010!/image/498477083.jpg_gen/derivatives/headline_1200x630/498477083.jpg?wtm=1.10200900",
+            "publishedAt": "2021-09-11T18:19:00Z",
+            "content": "\" , ' , () . , . \"\" - - \", . , . , \" , \" \". \" .\r\n, \r\n\"\" , - \" , \" . , : \" \" \".\r\n, .   . \"\" : \" . , \". - \" , \".\r\n, ,   . \" (\"\" )   , 80 . \"\"  , : \" , \". , \" \".\r\n<ol><li></li></ol><ol><li></li></ol><ol… [+5 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Calcalist.co.il"
+            },
+            "author": null,
+            "title": "שיא במספר המונשמים בגל הרביעי. מספר החולים קשה - הגבוה ביותר החודש - כלכליסט",
+            "description": "מספר המונשמים עלה ל-186, בבתי החולים מאושפזים 696 חולי קורונה שמצבם קשה. אתמול אומתו 9,725 חיוביים, ומחצות - 6,676 מאומתים. שיעור החיוביים בסופ\"ש - 6.5%. מקדם ההדבקה עלה מעט ל-0.85. ירידה חדה במתחסנים",
+            "url": "https://www.calcalist.co.il/local_news/article/hks5luqmf",
+            "urlToImage": "https://images1.calcalist.co.il/picserver3/crop_images/2021/01/14/1051999/1051999_0_0_800_451_0_large.jpg",
+            "publishedAt": "2021-09-11T18:17:39Z",
+            "content": ", : 16,401 . . 9,725 , -6,676 . -118 -178 . -6.5%.\r\n1,092 , 696 . . , . 186 . .\r\n10,921 , -11, . -66% . 4,410 , 27%, 639 , -4% . -3% .\r\n241 60 , 92%. 11 . 17 -60. 13 , .\r\n, . -227 , -9,100 . , 618,43… [+249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Walla.co.il"
+            },
+            "author": "מערכת וואלה",
+            "title": "כריסטיאנו רונאלדו כבש צמד בבכורה המחודשת, תקציר המשחק - ספורט1",
+            "description": "הכוכב שחזר למנצסטר בקיץ יעלה ב-11 במשחק הביתי מול המגפייז (17:00, ספורט2). גם וראן, סאנצו ופוגבה בהרכב של השדים האדומים",
+            "url": "https://sports.walla.co.il/item/3459269",
+            "urlToImage": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/2/7/9/3279589-46.jpg",
+            "publishedAt": "2021-09-11T18:13:21Z",
+            "content": ". () ' 12 , . CR7 ' 1:4 , . \r\n. , , 36 . , -62 , (56). , , ."
+        },
+        {
+            "source": {
+                "id": "ynet",
+                "name": "Ynet"
+            },
+            "author": "אחיה ראב\"ד",
+            "title": "אזוקים בידיהם וברגליהם, בבית המשפט: הוארך מעצר המחבלים שנלכדו - ynet.co.il",
+            "description": "מעצרם של ארבעת האסירים שנתפסו הוארך בהסכמה ב-9 ימים. עו\"ד אביגדור פלדמן, סנגורו של זביידי, טען: \"בריחה מהכלא אינה מעשה ביטחוני. המלצתי שישתוק בחקירה\". לבקשת יחידת \"נחשון\" של השב\"ס, ובאופן חריג, הוחלט כי זביידי ושלושת המחבלים הנוספים שנתפסו יהיו אזוקים בידיהם …",
+            "url": "https://www.ynet.co.il/news/article/bj1q3v5gf",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/09/11/S1O7VqcfF/S1O7VqcfF_0_0_800_451_0_large.jpg",
+            "publishedAt": "2021-09-11T18:13:00Z",
+            "content": "\" , , , . \" \", . \" , . , \".\r\n, . (39) 20 ' . -2001 823 80, . \r\n, 46 ', ' . -1992 , . 15 . -2014, - - , . ' \" \".\r\n, 35 2004, . , 49 - ', - ' - ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Walla.co.il"
+            },
+            "author": "אמיר בוחבוט יניר יגנה",
+            "title": "יום שני ברציפות: כיפת ברזל יירטה רקטה ששוגרה מרצועת עזה - וואלה! חדשות",
+            "description": "התרעת צבע אדום נשמעה באזור העוטף ושדרות, אך לא דווח על נפילות. אמש, ברקע תפיסתם של המחבלים שנמלטו מכלא גלבוע, אזעקות נשמעו במועצת אשכול. בתגובה, צהל תקף יעדים ברצועה",
+            "url": "https://news.walla.co.il/item/3459356",
+            "urlToImage": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/2/1/0/3210791-46.jpg",
+            "publishedAt": "2021-09-11T18:10:00Z",
+            "content": "() - . . , .\r\n\" , . .\r\n, , . \" , \"\", . \" - . , \", ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Haaretz.co.il"
+            },
+            "author": "ג'קי חורי",
+            "title": "חמאס: האסירים שנמלטו ייכללו בכל עסקת חילופי שבויים עם ישראל - הארץ",
+            "description": "דובר הזרוע הצבאית של הארגון הוסיף כי חמאס לא יאפשר לכוחות הביטחון הישראליים לפעול במחנה הפליטים ג'נין: \"הנהגת אל-קסאם מבטיחה לתושבים שלא תאפשר כל פלישה ישראלית\"",
+            "url": "https://www.haaretz.co.il/news/politics/1.10200802",
+            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10200833.1631382486!/image/3837599466.jpg_gen/derivatives/headline_1200x630/3837599466.jpg?wtm=1.10200833",
+            "publishedAt": "2021-09-11T17:39:00Z",
+            "content": ", , () . '. \r\n\" \", , \" - \". : \" - ' . \".\r\n, MAHMUD HAMS - AFP\r\n, , - . . , . .\r\n-: \" . \". ' : \" , , , \".\r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "One.co.il"
+            },
+            "author": null,
+            "title": "מחצית ראשונה: מכבי חיפה - בני סכנין 0:0 - One",
+            "description": "דרמה גדולה בסמי עופר: ה'אס' של בכר העלה את הירוקים ליתרון בפנדל (70), רז שטיין איזן (86) אך הקשר השלים צמד בתוספת הזמן בדרך ל-3 נקודות יקרות",
+            "url": "https://www.one.co.il/Article/392666.html",
+            "urlToImage": "https://photo.one.co.il/Image/GG/7,1/1549818.jpg",
+            "publishedAt": "2021-09-11T17:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inn.co.il"
+            },
+            "author": "אורלי ברוך",
+            "title": "רקטה ששוגרה לאשכול, צה\"ל תקף ברצועה - ערוץ 7",
+            "description": "זמן קצר אחרי מעצר שני המחבלים שברחו מכלא גלבוע, יורטה רקטה ששוגרה מרצועת עזה לדרום המועצה האזורית אשכול.",
+            "url": "https://www.inn.co.il/news/504511",
+            "urlToImage": "https://a7.org/pictures/400x238/1015635.jpg?autocrop=1",
+            "publishedAt": "2021-09-11T16:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kipa.co.il"
+            },
+            "author": "שמחה ברנס",
+            "title": "הבריחה מכלא גלבוע | 4 מחבלים נלכדו, החיפושים נמשכים - כיפה",
+            "description": "זמן קצר לאחר כניסת השבת הודיעה המשטרה כי ארבעת האסירים הביטחוניים, ובהם זכריה זביידי, נלכדו בצפון כאשר הם מסתתרים בחניון משאיות. החיפושים אחר השניים האחרים נמשכים. בנט: \"המפתח להצלחה הוא שיתוף פעולה חלק ושקט בין כל העוסקים במלאכה\"",
+            "url": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1116384-%D7%94%D7%91%D7%A8%D7%99%D7%97%D7%94-%D7%9E%D7%9B%D7%9C%D7%90-%D7%92%D7%9C%D7%91%D7%95%D7%A2--4-%D7%9E%D7%97%D7%91%D7%9C%D7%99%D7%9D-%D7%A0%D7%9C%D7%9B%D7%93%D7%95-%D7%94%D7%97%D7%99%D7%A4%D7%95%D7%A9%D7%99%D7%9D-%D7%A0%D7%9E%D7%A9%D7%9B%D7%99%D7%9D/",
+            "urlToImage": "https://www.kipa.co.il/userFiles/325134_8221aeea34e2180b613c64e7b94ade18.jpg",
+            "publishedAt": "2021-09-11T16:57:53Z",
+            "content": ", 6 , .   . . , , . \r\n<ul><li>\r\n| \r\n08/09/21 20:36\r\n</li></ul> ,   .    , , .  ,   . \r\n: \r\n, 4 : , , . \r\n\"  \" : \" . , .\"\" : \" - 100 . .\" . \r\n: \r\n, , \"   - , : \" , \", ,  \" , \".\r\npic.twitter.com/ILa7tf… [+57 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globes.co.il"
+            },
+            "author": "אופיר דור",
+            "title": "תוך חצי שנה: השווי של פאפאיה גלובל זינק ל-3.7 מיליארד דולר - גלובס",
+            "description": "הסטארט-אפ הישראלי, שמפתח מערכת גלובלית לניהול שכר, גייס 250 מיליון דולר בהובלת קרן אינסייט פרטנרס • פאפאיה, חד-הקרן היחיד שמנוהל על ידי אישה מישראל, מתכונן במקביל להנפקה • \"אנחנו מתכננים להנפיק בטווח של עד 24 חודשים אבל זה כמובן תלוי בפרמטרים כמו מצב השוק\", א…",
+            "url": "https://www.globes.co.il/news/article.aspx?did=1001384371",
+            "urlToImage": "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1614842327/direct/IMG_6577_afr2p2.jpg",
+            "publishedAt": "2021-09-11T16:31:28Z",
+            "content": "- , , . (') 250 3.7 . 100 1.2 ( ). 10 2020.\r\n - . 8.75 , . , \", 4 - 1.3 .\r\n, , - . , , . - , IVP, Alkeon , Workday ', 11.\r\n -440 . , , . -2016 (\"), (\" ) (\" ) - .\r\n , \" \" -2021 100 ( ARR, ). 2020 -25 … [+184 chars]"
         },
         {
             "source": {
@@ -21,246 +216,51 @@
                 "name": "Israelhayom.co.il"
             },
             "author": null,
-            "title": "לכידת המחבלים אכן מרשימה, אך אסור לנו לשכוח את הכישלון שהוביל אליה - Israel Hayom",
-            "description": null,
-            "url": "https://www.israelhayom.co.il/news/crime/article/4491537",
-            "urlToImage": null,
-            "publishedAt": "2021-09-11T10:20:13Z",
-            "content": null
+            "title": "אל-קאעידה פרסם סרטון של המנהיג א-זוואהירי: \"ירושלים לא תיוהד\" - Israel Hayom",
+            "description": "הסרטון מאשר כי איימן א-זוואהירי, שתפס את השליטה באל-קאעידה מאז חיסולו של בן לאדן,  עודנו בחיים • עם זאת, הוא אינו מתייחס לאירועים באפגניסטן, ולכן עולה ספק באשר למועד צילום הווידאו • א-זוואהירי תקף בסרטון את ה\"משת\"פים\" של ארה\"ב בעולם הערבי לשיטתו, ובראשם ערב ה…",
+            "url": "https://www.israelhayom.co.il/news/world-news/other/article/4496535",
+            "urlToImage": "https://www.israelhayom.co.il/wp-content/uploads/2021/09/11/Capture_24-960x640.jpg",
+            "publishedAt": "2021-09-11T16:28:13Z",
+            "content": "-20 - \", () , -, . 60 , ' SITE, - \" ,\" \"\"\" \" , , \" \", , .\r\n, , , \" \", . , \" \" \" .\r\n, 2011. , , - , . , , 2020, , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Calcalist.co.il"
+            },
+            "author": null,
+            "title": "העמלות בדרך להיחתך: פסיקת אפל־אפיק תייצר תחרות לאפסטור - כלכליסט",
+            "description": "המשפט המתוקשר שניהלה יצרנית פורטנייט נגד אפל לא הסתיים כפי שקיוותה בהכרזת אפל כמונופול בלתי חוקי, אבל הכרעתו תאפשר לעקוף את מערך התשלומים שלה. אנליסט: \"חברות תוכנה יוכלו למכור ב־iOS מבלי להעביר לאפל 30%\"",
+            "url": "https://www.calcalist.co.il/technology/article/hjdksh9gy",
+            "urlToImage": "https://images1.calcalist.co.il/picserver3/crop_images/2021/09/11/r1xg11N9fF/r1xg11N9fF_0_0_1280_720_0_large.jpg",
+            "publishedAt": "2021-09-11T15:14:08Z",
+            "content": "window._taboola = window._taboola || [];\r\n _taboola.push({flush: true});"
         },
         {
             "source": {
                 "id": null,
                 "name": "Haaretz.co.il"
             },
-            "author": "יהושע (ג'וש) בריינר, עדי חשמונאי",
-            "title": "רוכב טרקטורון דיווח על דמויות חשודות, והגששים הובילו בתוך שעות אל זביידי - הארץ",
-            "description": "מעצרם של זכריה זביידי ומוחמד עראדה, שנמלטו מכלא גלבוע, התאפשר בזכות מידע שהתקבל אמש במקביל למעצר שני האסירים הנוספים בנצרת. במערכת הביטחון מעריכים כי אחד משני הנמלטים הנותרים כבר נמצא בגדה המערבית",
-            "url": "https://www.haaretz.co.il/news/politics/1.10199460",
-            "urlToImage": "https://img.haarets.co.il/img/1.10199500/1789067356.jpeg?precrop=1584,921,x16,y133&height=698&width=1200",
-            "publishedAt": "2021-09-11T08:32:00Z",
-            "content": "() - , . , . - ' - .\r\n, 19:00 -, - -  . , , . , .\r\n, . 1:00 , \", . 4:30 ; .\r\n: 45\r\n : \r\n : . , \r\n : \r\n : '\r\n: 39\r\n : ' \r\n : 19 , \r\n : , '\r\n: 46\r\n : ' \r\n : 25 , \r\n : , '\r\n: 49\r\n : ' \r\n : 18 , \r\n : -, … [+142 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Walla.co.il"
-            },
-            "author": "אמיר בוחבוט",
-            "title": "הגששים והעקבות שהובילו למפנה: נתיב הבריחה של זביידי - וואלה! חדשות",
-            "description": "הגששים הבכירים של חטיבת הבקעה הובילו לנקודת המפנה במצוד אחר ששת המחבלים שנמלטו מכלא גלבוע. זאת, כשאיתרו עקבות ופריטים שהניעו את כוחות הביטחון, וכן בהתעקשותם כי חלק מהאסירים ברחו לכיוון אזור נצרת. ארבעת האסירים שנעצרו הועברו לאחריות שבכ ונמצאים בחקירה",
-            "url": "https://news.walla.co.il/item/3459299",
-            "urlToImage": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/2/7/9/3279517-46.jpg",
-            "publishedAt": "2021-09-11T08:00:00Z",
-            "content": ", , \" - . , , ' - .\r\n, 22:00, , , , . , -5:00 , , - - - ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sport5.co.il"
-            },
-            "author": null,
-            "title": "ממכבי תל אביב ועד מכבי חיפה: ההרכבים המשוערים לשבת - ספורט 5 - ערוץ הספורט",
-            "description": "אל תשכחו לבצע שינויים בליגת החלומות של weSure עד 17:30",
-            "url": "https://www.sport5.co.il/articles.aspx?folderid=64&docid=381909",
-            "urlToImage": "https://www.sport5.co.il/Sip_Storage/FILES/0/size944x700/1126820.jpg",
-            "publishedAt": "2021-09-11T07:52:00Z",
-            "content": "() - . -18:00 weSure. , :\r\n : ; ', , , ( ); , , ; ( ), , '.\r\n \": ,  , , , ; , , ; , , .\r\n : ; ' ( ), , , '; , , ; , , '.\r\n : '; ' , , , ; , , ; , , .\r\n \": ; ', , , ; , , ; , , ( ).\r\n \": ; , , , ; , ,… [+82 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sport5.co.il"
-            },
-            "author": null,
-            "title": "הקבוצה של המדינה: כך באיירן מינכן דורסת את היריבות - ספורט 5 - ערוץ הספורט",
-            "description": "אחרי לברקוזן, ורדר ברמן ובורוסיה דורטמונד, באיירן מינכן ניצלה את כוחה גם מול ר.ב. לייפציג והפשיטה אותה מנכסיה כדי לשמר את השליטה בגרמניה. וגם: מה הקשר לסופרליג?",
-            "url": "https://www.sport5.co.il/articles.aspx?folderid=609&docid=381801",
-            "urlToImage": "https://www.sport5.co.il/Sip_Storage/FILES/4/size944x700/1126564.jpg",
-            "publishedAt": "2021-09-11T07:31:00Z",
-            "content": ", \"\" - , , . , , , . : , .\r\n , , , , . , (2013), (2014) (2016) . 2021 ( , , ), . , , , .\r\n . , . -2002 ( ', , ) -2004 ( , ). . , , , , - . .\r\n . 1. . 2. , , () , . 3. , , , , ( ).\r\n , , - . \"\" , . , … [+17 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Globes.co.il"
-            },
-            "author": "שירות גלובס",
-            "title": "בגלל חשש לקריסה: דיירי בניין מגורים בחולון פונו - גלובס",
-            "description": "בקירות הבניין, ברחוב סרלין בעיר, נוצרו סדקים, והתפתחו שינויים מבניים שמנעו את פתיחת הדלתות בו • גם ציר התנועה באזור נחסם • לפני כחודש נהרס ברמת גן בניין בנסיבות דומות",
-            "url": "https://www.globes.co.il/news/article.aspx?did=1001384370",
-            "urlToImage": "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1631346093/direct/WhatsApp_Image_2021-09-11_at_10.40.56_o08yca.jpg",
-            "publishedAt": "2021-09-11T07:08:16Z",
-            "content": "(') . , , .\r\n , .\r\n , , .\r\n. , , , . \" . , \", , \" \" , ."
-        },
-        {
-            "source": {
-                "id": "ynet",
-                "name": "Ynet"
-            },
-            "author": "אטילה שומפלבי, אלכסנדרה לוקש",
-            "title": "סגן שר הביטחון: \"המחבלים שנותרו ייתפסו, אין לנו כוונה להרוג אף אחד\" - ynet.co.il",
-            "description": "בבוקר שאחרי תפיסת ארבעה מבין ששת המחבלים שנמלטו מכלא גלבוע, התראיין אלון שוסטר לאולפן ynet וסירב להתייחס ישירות לשאלה אם ישראל תפעל גם ביו\"ש. \"אני שבע רצון מתפיסת המחבלים ללא אלימות\", אמר. \"הם יחזרו לכלא לשנים הארוכות שמחכות להם\"",
-            "url": "https://www.ynet.co.il/news/article/b10n1ayzy",
-            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/09/11/rkcMX3FfF/rkcMX3FfF_0_0_850_479_0_large.jpg",
-            "publishedAt": "2021-09-11T06:49:59Z",
-            "content": "( ) , ynet: \" . , . . , \".\r\n- . , . ?\r\n\" , , , , . . . \"."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Walla.co.il"
-            },
-            "author": "וואלה! כסף",
-            "title": "החברה הישראלית עם השווי הגדול בנאסד\"ק, עושה זאת שוב - וואלה! כסף",
-            "description": "ה- FDA העניק מעמד של “טכנולוגיה פורצת דרך” למכשיר של חברת נובוקיור לטיפול בסרטן כבד. פיתחה טכנולוגיה חדשנית שפוגעת בתהליך החלוקה של התאים הסרטניים",
-            "url": "https://finance.walla.co.il/item/3459296",
-            "urlToImage": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/2/3/1/0/2310764-46.jpg",
-            "publishedAt": "2021-09-11T06:29:00Z",
-            "content": "- FDA \" \" (NovoTTF-200T), , (, Anti PD-L1) (). \r\n, \", TTFields ((Tumor Treating Fields , .\r\n, - FDA ( ). \r\n- FDA 2 (HEPANOVA), - TTFields , . \r\n76% , 9.5% . 12 91%, 18% . \r\n- FDA TTFields , ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mako.co.il"
-            },
-            "author": "mako",
-            "title": "N12 - חיסון פייזר לבני 11-5 יאושר עד סוף אוקטובר - mako",
-            "description": "גורמים שונים מסרו לסוכנות הידיעות רויטרס על הכוונה לאשר את החיסון גם עבור ילדים • ד\"ר אנתוני פאוצ'י הבהיר כי הציפייה בארה\"ב היא לאישור מהיר של החיסון לילדים",
-            "url": "https://www.mako.co.il/news-lifestyle/2021_q3/Article-ad29785c873db71026.htm",
-            "urlToImage": "https://img.mako.co.il/2021/09/10/pfizer2021_re_autoOrient_i.jpg",
-            "publishedAt": "2021-09-11T06:26:00Z",
-            "content": ": \r\n? \" 11-5 , () .\r\n , . , \" (FDA), .\r\n 11-5 \" ', \" , . -FDA .\r\n . .\r\n \" , , \" \". , . ."
-        },
-        {
-            "source": {
-                "id": "ynet",
-                "name": "Ynet"
-            },
-            "author": "רון בן ישי",
-            "title": "המחבלים הבורחים קיוו לסיוע מישראלים, ולא ממש קיבלו - ynet.co.il",
-            "description": "את הכוננות לא צריך להוריד, כי שניים עדיין חופשיים - וגם המהומות בשטחים עלולות להתגבר לנוכח התסכול מקלות התפיסה. היחסים בין הפלסטינים לחברה הערבית בישראל עומדים למבחן | פרשנות",
-            "url": "https://www.ynet.co.il/news/article/s19ar2yzy",
-            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/09/11/r1DxrTYGK/r1DxrTYGK_0_0_850_479_0_large.jpg",
-            "publishedAt": "2021-09-11T06:01:50Z",
-            "content": ""
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Walla.co.il"
-            },
-            "author": "פז חסדאי",
-            "title": "נובאק דג'וקוביץ' ייקח לך את הנשמה: אליפות ארה\"ב - וואלה! ספורט",
-            "description": "נובאק דג׳וקוביץ׳ לא אהב את איך שאנדי רודיק הגדיר אותו, אבל הניצחון שלו על זברב הוכיח את העוצמות ההיסטוריות שלו, ולמה תמיד ייזכר בצורה שונה מפדרר",
-            "url": "https://sports.walla.co.il/item/3459289",
-            "urlToImage": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/2/7/9/3279491-46.jpg",
-            "publishedAt": "2021-09-11T06:00:00Z",
-            "content": ", 18, 19. , , ', , -2.5 . , , , . , .\r\n. . , , . . \" \", , . \" , , . \", , , , , .\r\n\" \", , , , 19. , . . , \" \" ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Themarker.com"
-            },
-            "author": "שגיא כהן",
-            "title": "תוצאות הקרב בין פורטנייט ואפל: מכה קלה בכנף – סדק גדול בגן הסגור - TheMarker",
-            "description": "בינתיים הנזק לאפל לא נראה דרמטי, אבל אם ההחלטה תסלול את הדרך לתביעות ולפסיקות נוספות כמו גם לצעדים רגולטוריים מרחיקי לכת, היא עשויה להיות רגע מפתח בתולדות תעשיית האפליקציות",
-            "url": "https://www.themarker.com/technation/.premium-1.10199382",
-            "urlToImage": "https://img.haarets.co.il/img/1.10191818/917657241.jpg?precrop=1295,754,x356,y594&height=698&width=1200",
-            "publishedAt": "2021-09-11T05:30:00Z",
-            "content": ""
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hayadan.org.il"
-            },
-            "author": null,
-            "title": "חיסון לקורונה דרך העור - הידען",
-            "description": "כנס \"ננו טק-ישראל 2021\", שיתקיים בין התאריכים 4-6 באוקטובר בבנייני האומה בירושלים, יציג פיתוחים למלחמה בנגיף הקורונה, בין היתר חיסון דרך העור, אשר ניסויים",
-            "url": "https://www.hayadan.org.il/חיסון-לקורונה-דרך-העור",
-            "urlToImage": "https://www.hayadan.org.il/images/content3/2021/09/מערכת-מניעת-וירוסים.jpg",
-            "publishedAt": "2021-09-11T05:02:56Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Globes.co.il"
-            },
-            "author": "וואלה! NEWS",
-            "title": "ארבעה מתוך ששת המחבלים הנמלטים מכלא גלבוע נתפסו - גלובס",
-            "description": "בין האסירים שנתפסו גם זכריה זביידי, שנלכד יחד עם המחבל מחמד עראדה סמוך לשעה חמש בבוקר • אמש נתפסו שני המחבלים הראשונים, יעקוב קאדרי ו‏מוחמד עארידה, עליהם דיווחה משפחה בנצרת • המצוד אחר יתר האסירים נמשך",
-            "url": "https://www.globes.co.il/news/article.aspx?did=1001384369",
-            "urlToImage": "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1631336305/direct/%D7%93%D7%95%D7%91%D7%A8%D7%95%D7%AA_%D7%94%D7%9E%D7%A9%D7%98%D7%A8%D7%94_qnjpas.png",
-            "publishedAt": "2021-09-11T05:02:01Z",
-            "content": "(') , , - - . . \" \" . \", .\r\n \" . , , . , . \" \", . \" , \" \".\r\n , , , . , . , , , . \r\n . , '. ! , . \r\n , \" , \" -. \" . \r\n\" , , . \" .\r\n , , . , . , . , \" ' ', . . \" .\r\n : -, , \" \" \". pic.twitter.com/D3jvD… [+257 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "13news.co.il"
-            },
-            "author": "אור הלר, מאור צור",
-            "title": "זכריא זביידי ומחבל נוסף נתפסו מזרחית לנצרת - חדשות 13",
-            "description": "זביידי, יחד עם מוחמד עארדה, נתפסו בחניון משאיות בכפר אום אל גאנם אחרי שאמש נתפסו שני מחבלים נוספים. הערכה: הנמלטים לא קיבלו סיוע מחוץ לכלא. נמשך המצוד אחר 2 המחבלים הנותרים",
-            "url": "https://13news.co.il/item/news/politics/security/zbidii-arrest-1346394/",
-            "urlToImage": "https://media.reshet.tv/image/upload/t_og_image/v1631327824/WhatsApp_Image_2021-09-11_at_0-1_itfhl5.jpg",
-            "publishedAt": "2021-09-11T02:55:12Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mako.co.il"
-            },
-            "author": "ערד ניר",
-            "title": "N12 - חשיפה | המדען הראשי של 'פייזר' בהקלטה: \"ישראל היא מעבדה\" - mako",
-            "description": "סגן נשיא 'פייזר' והמדען הראשי בחברה, ד\"ר פיליפ דורמיצר, נשמע בהקלטה שחשפנו הערב ב\"אולפן שישי\" מתייחס לישראל כמעבדה",
-            "url": "https://www.mako.co.il/news-lifestyle/2021_q3/Article-16429df2a50db71027.htm",
-            "urlToImage": "https://img.mako.co.il/2021/02/19/pfizerr_autoOrient_i.jpg",
-            "publishedAt": "2021-09-10T17:10:00Z",
-            "content": "\" \":  () \" \" \" , , , . ''. \r\n\" , \", \" , \" ( ) . : , \". \r\n\" - \" | : \r\nshutterstock\r\n\" - , \"\" . , \" -, \" \". \r\n : \" , , \". \r\n '' \r\n ()   '' . .   , .\r\n \" \", , , .\r\n '', . , '' .\r\n , , . , .\r\n '' , | : \r… [+65 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Timeout.co.il"
-            },
-            "author": null,
-            "title": "אנט של הספארקס: זה מחזמר? אופרה? ואיך אדם דרייבר שר? - טיים אאוט",
+            "author": "אורי קליין",
+            "title": "\"אנט\" הוא אירוע בתולדות הקולנוע בן זמננו - ביקורת סרטים - הארץ",
             "description": "***",
-            "url": "https://timeout.co.il/אנט-ביקורת/",
-            "urlToImage": "https://medias.timeout.co.il/www/uploads/2021/09/WhatsApp-Image-2021-09-10-at-17.17.53-1140x641.jpeg",
-            "publishedAt": "2021-09-10T15:10:46Z",
-            "content": ". . , ' ( ), , . . , .\r\n (\" \") \"Holy Motors\". , , , , \"\". ( , \" \" ). \"\" , .\r\n E!, ' '. ( ) , ( ). ( ) , , . , . , , , , . .\r\n \" ? . … . \". , , , , . . \" … , \", , . , . , .\r\n , , , . \" … \", ( \" \"). \" … [+210 chars]"
+            "url": "https://www.haaretz.co.il/gallery/cinema/movie-reviews/.premium-REVIEW-1.10200369",
+            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10200397.1631370258!/image/1144324845.jpg_gen/derivatives/headline_1200x630/1144324845.jpg",
+            "publishedAt": "2021-09-11T14:09:00Z",
+            "content": ", . ,"
         },
         {
             "source": {
-                "id": null,
-                "name": "Bizportal.co.il"
+                "id": "ynet",
+                "name": "Ynet"
             },
-            "author": null,
-            "title": "\"ביטקוין זה כמו בולים\" אומרים השבדים, ומה חושבים האמריקאים? - Bizportal",
-            "description": "הדעות בנוגע למטבעות הוירטואליים ממשיכות להיות חלוקות. האם הביטקוין יעלה או ירד - ומה יהיה השער שלו בעוד שלושה חודשים?",
-            "url": "https://www.bizportal.co.il/digital-currency/news/article/796121",
-            "urlToImage": "https://res.cloudinary.com/bizportal/image/upload/v1609665178/giflib/news/BITCON UP OR DOWN 10092021.PNG",
-            "publishedAt": "2021-09-10T15:02:00Z",
-            "content": "BITCOIN-2.29%BITCOIN45,416.1-2.29%:46,479.91:0:47,419.95:44,738.28:-- :  -4% 45.1 ( -53 ),  \r\nETHEREUM-4.83%ETHEREUM3,288.95-4.83%:3,456:0:3,552.97:3,206.41:-- :   -8% 3.27 . , , -9.4% 2.3 .\r\n(Stefan… [+139 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "13news.co.il"
-            },
-            "author": "חדשות 13",
-            "title": "מקרה רביעי תוך יומיים: בן 30 טבע למוות בחוף במכמורת - חדשות 13",
-            "description": "נקבע מותו של גבר שטבע ופונה לבית החולים הלל יפה בחדרה תוך פעולות החייאה. עמו טבעו עוד שניים, כאשר אחד פונה במצב בינוני, והאחר לא נפגע",
-            "url": "https://13news.co.il/item/news/domestic/articles/four-deaths-on-holiday-1343559/",
-            "urlToImage": "https://media.reshet.tv/image/upload/t_og_image/v1627152739/WhatsApp_Image_2021-07-24_at_2_gheue8.jpg",
-            "publishedAt": "2021-09-10T13:44:51Z",
-            "content": null
+            "author": "ynet",
+            "title": "המוזיקאי הבריטי מייקל צ'פמן הלך לעולמו - ynet.co.il",
+            "description": "מייקל צ'פמן, אחד מאמני הפולק הגדולים של בריטניה, הלך לעולמו בגיל 80. במהלך הקריירה הענפה שלו צ'פמן הוציא יותר מ-40 אלבומים והשפיע על אמנים כמו דיוויד בואי, אלטון ג'ון ואהוד בנאי, שהופיע איתו ביחד בישראל",
+            "url": "https://www.ynet.co.il/entertainment/article/r14v8xqgf",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2013/09/09/4851438/4851438_1_138_787_444_0_large.jpg",
+            "publishedAt": "2021-09-11T13:26:16Z",
+            "content": "' 80 , . \", , , ', , , , \", . ' . \r\n-1969 Rainmaker , : Fully Qualified Survivor ,Window (1970), -Wrecked Again (1971). -1973 Millstone Grit. ' ' , , -40 , ."
         }
     ]
 }
