@@ -4,16 +4,68 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "WSB Atlanta"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "WSBTV.com News Staff",
-            "title": "4 injured in DeKalb County apartment explosion, officials say - WSB Atlanta",
-            "description": "At some point, there was an explosion, which trapped multiple people inside.",
-            "url": "https://www.wsbtv.com/news/local/dekalb-county/2-unaccounted-least-2-injured-after-explosion-dekalb-apartment-officials-say/4WJEV4IHJJHS7ARATTJPOEJI7M/",
-            "urlToImage": "https://d1hfln2sfez66z.cloudfront.net/09-12-2021/t_d6f5a164f0644393bf2eee183b638f1d_name_Explosion1.png",
-            "publishedAt": "2021-09-12T21:36:38Z",
-            "content": "DEKALB COUNTY, Ga. — Fire officials say an explosion and collapse at a DeKalb County apartment building has left at least four people hospitalized with their injuries.\r\nPolice said they were called t… [+2855 chars]"
+            "author": "Nectar Gan and Steve George, CNN",
+            "title": "China's strict 21 day quarantine under question after new outbreak emerges - CNN",
+            "description": "A man who completed 21 days of mandatory quarantine upon returning to China from overseas has been identified as the likely source of a new outbreak, raising questions over the sustainability of the country's stringent zero-Covid strategy.",
+            "url": "https://www.cnn.com/2021/09/13/china/fujian-covid-outbreak-mic-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210913004738-fujian-covid-outbreak-mic-intl-hnk-super-tease.jpg",
+            "publishedAt": "2021-09-13T10:32:00Z",
+            "content": "A version of this story appeared in CNN's Meanwhile in China newsletter, a three-times-a-week update exploring what you need to know about the country's rise and how it impacts the world. Sign up her… [+6175 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Madeline Holcombe and Jackson Dill, CNN",
+            "title": "Flash flood risk grows for coastal Texas and Louisiana as Tropical Storm Nicholas takes aim - CNN",
+            "description": "Tropical Storm Nicholas is making its way toward Texas and Louisiana, threatening to drench the region for much of the week and leave some communities flooded.",
+            "url": "https://www.cnn.com/2021/09/13/weather/tropical-storm-nicholas-monday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210913031247-tropical-storm-nicholas-monday-super-tease.jpg",
+            "publishedAt": "2021-09-13T10:10:00Z",
+            "content": "(CNN)Tropical Storm Nicholas is making its way toward Texas and Louisiana, threatening to drench the region for much of the week and leave some communities flooded.\r\nHaving slowed to a near stand-sti… [+2533 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sophia Saifi, CNN",
+            "title": "First Pakistan International Airlines flight since foreign troop withdrawal lands in Kabul - CNN",
+            "description": "A Pakistan International Airlines (PIA) passenger plane from Islamabad touched down in Kabul on Monday morning, according to an airline spokesman.",
+            "url": "https://www.cnn.com/2021/09/13/asia/afghanistan-first-flight-from-pakistan-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210913034920-02-kabul-airport-0913-pakistan-international-airlines-super-tease.jpg",
+            "publishedAt": "2021-09-13T09:49:00Z",
+            "content": "Islamabad, Pakistan (CNN)A Pakistan International Airlines (PIA) passenger plane from Islamabad touched down in Kabul on Monday morning, according to an airline spokesman.\r\nThis marks the first fligh… [+565 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Israel hits Hamas targets in Gaza in response to rocket fire - Fox News",
+            "description": "Israeli aircraft struck a series of targets in the Gaza Strip early Monday in response to rocket launches out of the Hamas-ruled territory.",
+            "url": "https://www.foxnews.com/world/israel-hits-hamas-targets-gaza-response-rocket-fire",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/AP21255543311084.jpg",
+            "publishedAt": "2021-09-13T09:33:47Z",
+            "content": "Israeli aircraft struck a series of targets in the Gaza Strip early Monday in response to rocket launches out of the Hamas-ruled territory. It was the third consecutive night of fighting between the … [+3367 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew Webster",
+            "title": "Fortnite season 8 is all about the cubes - The Verge",
+            "description": "Fortnite Chapter 2: Season 8 has arrived, and it’s called “Cubed.” The season adds a new battle pass with characters like Dark Jonesy, as well as returning weapons including the harpoon gun.",
+            "url": "https://www.theverge.com/2021/9/13/22666441/fortnite-chapter-2-season-8-battle-pass-cubes",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/BVPv2AliaH84kHTFRoWBf1uevdw=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22844810/S18_SS_BP_1920x1080_01.jpg",
+            "publishedAt": "2021-09-13T09:05:07Z",
+            "content": "Kevin!"
         },
         {
             "source": {
@@ -21,64 +73,64 @@
                 "name": "NPR"
             },
             "author": "",
-            "title": "Texas, Louisiana Could See Heavy Rains As New Tropical Storm Forms - NPR",
-            "description": "Heavy rain could start late Sunday and run through at least Tuesday, causing flooding, high winds and deadly storm surge.",
-            "url": "https://www.npr.org/2021/09/12/1036464751/tropical-storm-nicholas-heads-toward-texas-and-louisiana",
-            "urlToImage": "https://media.npr.org/assets/img/2021/09/12/screen-shot-2021-09-12-at-2.58.50-pm_wide-e727b88d2cbbe1d2996e39bb54a520d46e560ae4.png?s=1400",
-            "publishedAt": "2021-09-12T20:49:40Z",
-            "content": "A tropical storm brewing in the Gulf of Mexico is poised to drench coastal areas of Texas and Louisiana over the next several days. It's just the latest of a fairly active tropical season, which has … [+1680 chars]"
+            "title": "The Delta Variant Is Causing Concern Over Long COVID, Even For The Vaccinated : Shots - Health News - NPR",
+            "description": "As the Delta variant causes more vaccinated people to get \"breakthrough infections,\" concerns are rising that even the vaccinated could develop long COVID symptoms in rare cases.",
+            "url": "https://www.npr.org/sections/health-shots/2021/09/13/1032844687/what-we-know-about-breakthrough-infections-and-long-covid",
+            "urlToImage": "https://media.npr.org/assets/img/2021/09/07/image_wide-6e81978cce1529c49ea5d0dba3d468d826b3a295.jpeg?s=1400",
+            "publishedAt": "2021-09-13T09:03:00Z",
+            "content": "Weeks after getting sick from COVID-19, Kathleen Hipps is still experiencing symptoms, even though she was fully vaccinated.\r\nKathleen Hipps\r\nLike millions of others, Kathleen Hipps thought she was s… [+6284 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNET"
+                "name": "The Guardian"
             },
-            "author": "Kevin Knezevic",
-            "title": "Fortnite shuts down after Operation: Sky Fire event - CNET",
-            "description": "Players will have to go outside and touch some grass today.",
-            "url": "https://www.cnet.com/news/fortnite-shuts-down-after-operation-sky-fire-event/",
-            "urlToImage": "https://www.cnet.com/a/img/7q2YRLyNvl_ox-KHwQwB46S--2o=/1200x630/2021/09/12/9597ab9b-f9c6-408a-96fe-261b9a00d844/screen-shot-2021-09-12-at-4-44-45-pm.png",
-            "publishedAt": "2021-09-12T20:48:00Z",
-            "content": "Season 8 can't come soon enough.\r\nEpic Games\r\nFortnite Season 7 ending event, Operation: Sky Fire, had players go through a crazy space ride with an exciting cliffhanger. To add to the tension, publi… [+2504 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "YouTube is also forcing the popular Rythm Discord music bot offline - The Verge",
-            "description": "YouTube is forcing the closure of the most popular music bot on Discord. Rythm is closing on September 15th, after a legal cease and desist from Google.",
-            "url": "https://www.theverge.com/2021/9/12/22669502/youtube-discord-rythm-music-bot-closure",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/JzWPYqjzWg3AHpklAOMMWraxZlk=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11936571/acastro_180806_1777_youtube_cancel_0001.jpg",
-            "publishedAt": "2021-09-12T20:46:11Z",
-            "content": "The Rythm Discord music bot is disappearing on September 15th\r\nIllustration by Alex Castro / The Verge\r\nJust weeks after forcing the Groovy Discord music bot offline, Google-owned YouTube is now turn… [+2609 chars]"
+            "author": "Hugo Lowell",
+            "title": "Trump’s White House chief of staff is target of Capitol attack records request - The Guardian",
+            "description": "House select committee investigating 6 January wants telecom and social media companies to preserve records on Mark Meadows",
+            "url": "https://amp.theguardian.com/us-news/2021/sep/13/mark-meadows-records-trump-capitol-attack-committee",
+            "urlToImage": null,
+            "publishedAt": "2021-09-13T09:00:00Z",
+            "content": "US Capitol attackHouse select committee investigating 6 January wants telecom and social media companies to preserve records on Mark Meadows \r\nMon 13 Sep 2021 05.00 EDT\r\nThe House select committee in… [+6196 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Slate Magazine"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Daniel Politi",
-            "title": "New York Hospital Will Stop Delivering Babies After Staffers Quit Over Vaccine Mandate - Slate",
-            "description": "The Lewis County General Hospital in upstate New York will put a \"pause\" on delivering babies after several resignations in the maternity department.",
-            "url": "https://slate.com/news-and-politics/2021/09/new-york-hospital-lewis-county-delivering-babies-covid.html",
-            "urlToImage": "https://compote.slate.com/images/23e19bd5-f2a9-4c67-962c-110a9469fbec.jpeg?width=780&height=520&rect=6240x4160&offset=0x0",
-            "publishedAt": "2021-09-12T20:37:00Z",
-            "content": "A hospital in upstate New York said it will stop delivering babies for a while later this month after several staff members quit over a COVID-19 vaccine mandate. At least six staffers of the maternit… [+2361 chars]"
+            "author": "Jeanny Yu and Chloe Lo",
+            "title": "China Tech Shares Slide on Latest Volley of Internet Curbs - Yahoo Finance",
+            "description": "(Bloomberg) -- Chinese technology shares fell once again Monday on the latest moves from Beijing to reshape online businesses.Traders mulled a report that...",
+            "url": "https://finance.yahoo.com/news/china-tech-shares-slump-latest-035823558.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Iz44ItlNK_SiZ0851Lr3hg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/c907a338419725af93678dc94a39d16b",
+            "publishedAt": "2021-09-13T08:18:52Z",
+            "content": "(Bloomberg) -- Chinese technology shares fell once again Monday on the latest moves from Beijing to reshape online businesses.\r\nTraders mulled a report that the government intends to break up Ant Gro… [+2484 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Mail"
+                "name": "HuffPost"
             },
-            "author": "Ariel Zilber",
-            "title": "Former FDA chief says COVID-19 vaccine could be approved for kids ages 5 and up by October - Daily Mail",
-            "description": "Scott Gottlieb, who headed the FDA under former President Donald Trump, says that the emergency use approval process for vaccinating young children could be done in a matter of weeks.",
-            "url": "https://www.dailymail.co.uk/news/article-9983371/Former-FDA-chief-says-COVID-19-vaccine-approved-kids-ages-5-October.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2021/09/12/21/47825689-0-image-a-4_1631477369082.jpg",
-            "publishedAt": "2021-09-12T20:34:07Z",
-            "content": "American children between the ages of 5 and 11 could be eligible for the COVID-19 vaccine by the end of October, according to the former head of the Food and Drug Administration.\r\nScott Gottlieb, who… [+7196 chars]"
+            "author": "Ed Mazza",
+            "title": "Conor McGregor Scuffles With Machine Gun Kelly On VMAs Red Carpet - HuffPost",
+            "description": "The UFC star later called the singer a \"little Vanilla Ice boy rapper\" while denying that anything had happened.",
+            "url": "https://www.huffpost.com/entry/conor-mcgregor-machine-gun-kelly_n_613ed9b2e4b0628d095d11ca",
+            "urlToImage": "https://img.huffingtonpost.com/asset/613edbe4410000f1f583903f.jpeg?cache=pv0odzwlou&ops=1778_1000",
+            "publishedAt": "2021-09-13T06:58:00Z",
+            "content": "UFC star Conor McGregor appeared to want a piece of Machine Gun Kelly during a red-carpet incident at the MTV Video Music Awards on Sunday night. \r\nFootage from the scene shows McGregor throwing a dr… [+1916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Eustance Huang",
+            "title": "China will reportedly break up Ant Group's Alipay and force creation of new loans app - CNBC",
+            "description": "Beijing plans to break up Ant Group's Alipay and create a separate app for the fintech giant's loans business, the Financial Times reported Monday.",
+            "url": "https://www.cnbc.com/2021/09/13/china-to-split-ant-groups-alipay-force-creation-of-new-loans-app-ft.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106917819-1627434838534-gettyimages-1230691179-CHINA_ANT_GROUP.jpeg?v=1631501646",
+            "publishedAt": "2021-09-13T05:43:06Z",
+            "content": "Beijing plans to break up Ant Group's Alipay and create a separate app for the fintech giant's loans business, according to a Financial Times report on Monday.\r\nRegulators previously ordered Ant to s… [+1370 chars]"
         },
         {
             "source": {
@@ -86,77 +138,51 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Postgame Press Conference (Week 1 at Bills) Coach Mike Tomlin | Pittsburgh Steelers - Pittsburgh Steelers",
+            "title": "Why Bears should go all in with Justin Fields | Peacock Sunday Night Football Final | NBC Sports - NBC Sports",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aERjc0xhSzZMcnPSAQA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TW9rX0ZKVHpxMknSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-09-12T20:30:34Z",
+            "publishedAt": "2021-09-13T05:41:38Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Mary Anastasia O’Grady",
-            "title": "El Salvador Runs a Bitcoin Scam - The Wall Street Journal",
-            "description": "The cryptocurrency as obligatory legal tender undermines dollarization.",
-            "url": "https://www.wsj.com/articles/el-salvadors-bitcoin-scam-dollar-crypto-currency-monetary-policy-11631470517",
-            "urlToImage": "https://images.wsj.net/im-399659/social",
-            "publishedAt": "2021-09-12T20:17:00Z",
-            "content": "Ever since Iran was denied access in 2012 to the Society for Worldwide Interbank Financial Telecommunication, a Brussels-based global banking network known as Swift, the axis of evil and its allies h… [+356 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "David Weigel, Colby Itkowitz, Gregory S. Schneider",
-            "title": "Democrats try to put Trump on the ballot in California, Virginia and New Jersey races. - The Washington Post",
-            "description": "In elections in California, Virginia and New Jersey, Democrats are trying to turn out Democrats by tying Republican candidates to the former president.",
-            "url": "https://www.washingtonpost.com/politics/california-recall-democrats/2021/09/12/32bd2d3c-1274-11ec-9cb6-bf9351a25799_story.html",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4TW6LYQSQII6ZCBPFXIVUBT5YQ.jpg&w=1440",
-            "publishedAt": "2021-09-12T20:13:46Z",
-            "content": "Trumpism is still alive all across this country, Newsom said at a recent campaign stop in east L.A., talking to volunteers for a Black voter outreach group before they began knocking on doors. Is it … [+11595 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.https"
-            },
-            "author": "New York Post",
-            "title": "Al Qaeda leader, believed dead, appears in video on 9/11 anniversary - Fox News",
-            "description": "Al-Qaeda leader Ayman al-Zawahiri appeared ​in a video released Saturday — the 20th anniversary of the 9/11 attacks — raising questions over his rumored death.",
-            "url": "https://www.https://nypost.com/2021/09/12/al-qaeda-leader-ayman-al-zawahiri-seen-in-video-after-death-rumors/",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Al-Qaeda-leader.jpg",
-            "publishedAt": "2021-09-12T20:06:58Z",
-            "content": "Al-Qaeda leader Ayman al-Zawahiri appeared in a video released Saturday the 20th anniversary of the Sept. 11 attacks raising questions over his rumored death.\r\nThe US-based SITE Intelligence Group, w… [+2223 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Delia Gallagher, Jessie Gretener and Hannah Ryan, CNN",
-            "title": "Orban gives Pope a loaded gift during visit to Hungary - CNN",
-            "description": "Pope Francis urged Hungarians to be more \"open\" and \"considered\" during an open-air mass in Budapest after meeting the country's hardline Prime Minister Viktor Orban on Sunday.",
-            "url": "https://www.cnn.com/2021/09/12/world/pope-francis-hungary-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210912105055-viktor-orban-pope-francis-09-12-2021-super-tease.jpg",
-            "publishedAt": "2021-09-12T20:05:00Z",
-            "content": null
+            "author": "Madeline Holcombe, CNN",
+            "title": "It may take many, many more vaccine mandates to end the Covid-19 pandemic, Fauci says - CNN",
+            "description": "Millions of Americans still need to get vaccinated to slow or stop the spread of Covid-19 and getting the pandemic under control could take \"many, many\" more vaccine mandates, Dr. Anthony Fauci said.",
+            "url": "https://www.cnn.com/2021/09/13/health/us-coronavirus-monday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210913003041-us-coronavirus-monday-0913-super-tease.jpg",
+            "publishedAt": "2021-09-13T05:36:00Z",
+            "content": "(CNN)Millions of Americans still need to get vaccinated to slow or stop the spread of Covid-19 and getting the pandemic under control could take \"many, many\" more vaccine mandates, Dr. Anthony Fauci … [+6275 chars]"
         },
         {
             "source": {
-                "id": "engadget",
-                "name": "Engadget"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "https://www.engadget.com/about/editors/jon-fingas",
-            "title": "Epic appeals ruling in lawsuit against Apple over App Store rules - Engadget",
-            "description": "Epic has appealed a ruling in a lawsuit against Apple that still left the 'Fortnite' developer paying damages..",
-            "url": "https://www.engadget.com/epic-appeals-apple-lawsuit-ruiling-193324451.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-09/75b67c30-13fd-11ec-bbfe-8a08e5d23974",
-            "publishedAt": "2021-09-12T19:33:52Z",
-            "content": "Epic may have scored a notable victory in its lawsuit against Apple, but it's dissatisfied enough to keep the legal battle going. The Vergereports Epic has filed an appeal against the ruling. The ini… [+1042 chars]"
+            "author": "Julius Young",
+            "title": "Madonna's MTV VMAs show opening ensemble goes viral during surprise appearance - Fox News",
+            "description": "Fans of Madonna might recall her antics way back in 1984 during the inaugural VMAs when she took the stage to perform “Like a Virgin” rocking a wedding dress.",
+            "url": "https://www.foxnews.com/entertainment/madonna-trends-twitter-risque-show-opening",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Madonna-mtv-vmas-2021_coat.jpg",
+            "publishedAt": "2021-09-13T04:49:17Z",
+            "content": "Madonna's surprise appearance and her ensemble at the 2021 MTV VMAs had Twitter in a frenzy Sunday evening. \r\nThe \"Material Girl\" hit the stage in her full Madonna glory when she opened up a beige tr… [+2049 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Ohm Youngmisuk",
+            "title": "US Open 2021 - Daniil Medvedev beats Novak Djokovic at his own game to lock up first Grand Slam title - ESPN",
+            "description": "Daniil Medvedev didn't give Novak Djokovic, the \"greatest tennis player in history\" in his eyes, much room for error in the US Open final.",
+            "url": "https://www.espn.com/tennis/story/_/id/32200987/us-open-2021-daniil-medvedev-beats-novak-djokovic-own-game-lock-first-slam-title",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0913%2Fr908382_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-09-13T03:28:02Z",
+            "content": "NEW YORK -- One sleepless night during Wimbledon, Daniil Medvedev began to envision what he would do if he won the sport's most fabled tournament.\r\nThe Russian player knew if he did, he would have to… [+6520 chars]"
         },
         {
             "source": {
@@ -164,103 +190,77 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Odell Beckham Jr. a late scratch for Browns in Week 1, Tyrann Mathieu and Frank Clark out for Chiefs - CBS Sports",
-            "description": "Several star players won't play in the Browns-Chiefs opener",
-            "url": "https://www.cbssports.com/nfl/news/odell-beckham-jr-a-late-scratch-for-browns-in-week-1-tyrann-mathieu-and-frank-clark-out-for-chiefs/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/12/08/c130b480-7d4c-425f-ad31-1c6644c1d18b/thumbnail/1200x675/c2e17901f1950775563682425e5e76a6/new-team.jpg",
-            "publishedAt": "2021-09-12T19:26:41Z",
-            "content": "The Cleveland Browns and Kansas City Chiefs meet in Week 1 in what many consider a potential AFC Championship preview. Both teams will be without key players at the 4:25 p.m. ET kickoff, however. Cle… [+2206 chars]"
+            "title": "NFL Week 1 grades: Bengals get an 'A-' for wild OT win over Vikings, Packers get an 'F' for embarrassing loss - CBS Sports",
+            "description": "Here are the Week 1 grades for every team that played on Sunday",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-1-grades-bengals-get-an-a-for-wild-ot-win-over-vikings-packers-get-an-f-for-embarrassing-loss/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/09/09/c4eb768b-591d-46a1-b365-4cf40e6836d4/thumbnail/1200x675/94a055287e7a1874d7f228a8212e704f/gettyimages-1234965030.jpg",
+            "publishedAt": "2021-09-13T03:25:00Z",
+            "content": "There were plenty of questions swirling about the Bengals heading into their regular-season opener on Sunday and they answered most of them during a wild 27-24 overtime victory against the Vikings. \r… [+3489 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "nbc-news",
+                "name": "NBC News"
             },
-            "author": "Paulina Dedaj",
-            "title": "Jaguars' Trevor Lawrence throws deep to Chris Manhertz for first NFL touchdown pass - Fox News",
-            "description": "Jaguars' rookie quarterback Trevor Lawrence pulled Jacksonville out of a 14-0 hole in the first half of Sunday’s season opener against the Houston Texans after launching a 25-yard touchdown pass, the first of his NFL career.",
-            "url": "https://www.foxnews.com/sports/jaguars-trevor-lawrence-chris-manhertz-first-nfl-touchdown-pass",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/AP21255624846582.jpg",
-            "publishedAt": "2021-09-12T19:14:13Z",
-            "content": "Jaguars'\r\n rookie quarterback Trevor Lawrence\r\n pulled Jacksonville out of a 14-0 hole in the first half of Sundays season opener against the Houston Texans\r\n after launching a 25-yard touchdown pass… [+1225 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Mychael Schnell",
-            "title": "Hospital to stop delivering babies after 30 staffers quit over vaccine mandate | TheHill - The Hill",
-            "description": "A hospital in upstate New York will stop delivering babies later ...",
-            "url": "https://thehill.com/homenews/state-watch/571895-hospital-says-it-will-stop-delivering-babies-after-maternity-ward",
-            "urlToImage": "https://thehill.com/sites/default/files/article_images/babymaternityward03212017getty.jpg",
-            "publishedAt": "2021-09-12T19:08:26Z",
-            "content": "A hospital in upstate New York will stop delivering babies later this month after 30 staffers quit in protest of the facilitys COVID-19 vaccine mandate.\r\nLewis County Health System CEO Gerald Cayer a… [+2471 chars]"
+            "author": "Tim Stelloh",
+            "title": "Alabama heart patient dies after hospital contacts 43 ICUs in 3 states, family says - NBC News",
+            "description": "An Alabama man died after the emergency staff at his local hospital contacted dozens of intensive care units and was unable to find him a bed, his family said.",
+            "url": "https://www.nbcnews.com/news/us-news/alabama-heart-patient-dies-after-hospital-contacts-43-icus-3-n1279025",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_36/3505316/210912-ray-demonia-cullman-axc-1109p.jpeg",
+            "publishedAt": "2021-09-13T03:14:00Z",
+            "content": "An Alabama antiques dealer died this month of a \"cardiac event\" after the emergency staff at his local hospital contacted dozens of intensive care units in three states and was unable to find him a b… [+1444 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eonline.com"
+                "name": "New York Times"
             },
-            "author": "Corinne Heller",
-            "title": "Watch Ben Affleck Protect Jennifer Lopez From an Overzealous Fan - E! NEWS",
-            "description": "No pictures! After making their red carpet return as a couple, Ben Affleck and Jennifer Lopez were approached by a man seeking a selfie with them. The actor took action.",
-            "url": "https://www.eonline.com/news/1302062/ben-affleck-protects-jennifer-lopez-from-an-overzealous-fan",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021810/rs_1200x1200-210910161224-1200-ben-affleck-jennifer-lopez-venice.ct.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2021-09-12T18:49:00Z",
-            "content": "Ben the bodyguard!\r\nOn Saturday, Sept. 11, a day after making their red carpet return as a couple at the 2021 Venice Film Festival, Ben Affleck and Jennifer Lopez headed to the city's Marco Polo Airp… [+762 chars]"
+            "author": "Jesus Jiménez",
+            "title": "Britney Spears Announces Engagement to Longtime Boyfriend Sam Asghari - The New York Times",
+            "description": "In the wake of recent developments in the battle over her conservatorship, the singer announced plans to wed for the third time.",
+            "url": "https://www.nytimes.com/2021/09/12/arts/music/britney-spears-engaged-sam-asghari.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/09/12/lens/12xp-britney-01/12xp-britney-01-facebookJumbo.jpg",
+            "publishedAt": "2021-09-13T02:58:04Z",
+            "content": "Britney Spears announced on Sunday that she was engaged to her longtime boyfriend, Sam Asghari, three months after she told a Los Angeles judge that the conservatorship that has governed her life sin… [+768 chars]"
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Mychael Schnell",
-            "title": "Taliban minister says women can study in gender-segregated university classrooms | TheHill - The Hill",
-            "description": "The Taliban’s new minister of higher education said women in Afgh...",
-            "url": "https://thehill.com/policy/international/571893-taliban-minister-says-women-can-study-in-gender-segregated-university",
-            "urlToImage": "https://thehill.com/sites/default/files/article_images/afghanwomenprotest_09022021getty.jpg",
-            "publishedAt": "2021-09-12T18:08:04Z",
-            "content": "The Talibans new minister of higher education said women in Afghanistan will be allowed to study in gender-segregated university classrooms.\r\nAbdul Baqi Haqqani outlined the governments plans for cla… [+2385 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SheKnows"
-            },
-            "author": "Delilah Gray",
-            "title": "Britney Spears’s Boyfriend Is Telling Everyone to Calm Down After Latest Instagram Post - SheKnows",
-            "description": "On Sept. 10, Britney Spears fans went insane after her boyfriend of four years, Sam Asghari, posted a picture of a stunning engagement ring on his Instagram story. Fans realized, and sobbed, when they found out that the stunning ring had the inscription “Lion…",
-            "url": "https://www.sheknows.com/entertainment/articles/2486423/britney-spears-boyfriend-sam-asghari-instagram/",
-            "urlToImage": "https://www.sheknows.com/wp-content/uploads/2021/09/britney.spears.sam_.asghari.jpg?w=1024",
-            "publishedAt": "2021-09-12T17:58:00Z",
-            "content": "On Sept. 10, Britney Spears fans went insane after her boyfriend of four years, Sam Asghari, posted a picture of a stunning engagement ring on his Instagram story. Fans realized, and sobbed, when the… [+1423 chars]"
+            "author": "PIPER HUDSPETH BLACKBURN Associated Press",
+            "title": "Barrett concerned about public perception of Supreme Court - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/Politics/wireStory/barrett-concerned-public-perception-supreme-court-79983899",
+            "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_c2952de92a80430387fbcd1d1be199df_16x9_992.jpg",
+            "publishedAt": "2021-09-13T02:25:12Z",
+            "content": "LOUISVILLE, Ky. -- Supreme Court Justice Amy Coney Barrett expressed concerns Sunday that the public may increasingly see the court as a partisan institution.\r\nJustices must be hyper vigilant to make… [+4137 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "New York Times"
             },
-            "author": "FRANCES D'EMILIO",
-            "title": "Custody fight over child, 6, who survived Italy cable crash - Yahoo News",
-            "description": "A six-year-old boy who was the sole survivor of a cable car crash this year in northern Italy is at the center of a bitter custody battle between his...",
-            "url": "https://news.yahoo.com/custody-fight-over-child-6-174642694.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hHqZDtOxm8d0bjIgtDsxsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/2svqEEv31exQnIdUVApn4g--~B/aD0zNjQ4O3c9NTQ3MjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/4e68d9916622d28dcb0c65a4870a0284",
-            "publishedAt": "2021-09-12T17:46:42Z",
-            "content": "ROME (AP) A six-year-old boy who was the sole survivor of a cable car crash this year in northern Italy is at the center of a bitter custody battle between his maternal grandparents in Israel and his… [+3332 chars]"
+            "author": "Choe Sang-Hun",
+            "title": "North Korea Reports Test of New Cruise Missile as Arms Race Intensifies - The New York Times",
+            "description": "The test was not a violation of U.N. sanctions but signaled the development of increasingly powerful weapons on the Korean Peninsula.",
+            "url": "https://www.nytimes.com/2021/09/13/world/asia/north-korea-cruise-missile-arms-race.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/09/13/world/13nkorea-1/merlin_194645655_0afc92d2-ed9b-43f3-a8ee-f4c1a41a6408-facebookJumbo.jpg",
+            "publishedAt": "2021-09-13T02:03:19Z",
+            "content": "In recent years, the United States has eased the so-called missile guidelines that placed limits on the range and warhead weight of ballistic missiles that South Korea was allowed to develop. After N… [+1648 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Kim Lyons",
-            "title": "The first iPhone with 1TB of storage is reportedly coming Tuesday - The Verge",
-            "description": "Ahead of Apple’s California Streaming event on September 14th, a new investor report from analyst Ming-Chi Kuo says he expects the iPhone 13 Pro and iPhone 13 Pro Max to have a 1TB storage configuration.",
-            "url": "https://www.theverge.com/2021/9/12/22670072/apple-iphone-13-pro-models-1tb-storage-kuo",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/gAXVb_WhDgd8U9o2cbzjPVtCrx8=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21973520/vpavic_4243_20201017_0077.0.jpg",
-            "publishedAt": "2021-09-12T17:29:44Z",
-            "content": "Analyst Ming-Chi Kuo made the prediction Sunday, days before Apples fall event\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nLast years iPhone 1… [+1339 chars]"
+            "author": null,
+            "title": "Larry Elder levels accusation against Gavin Newsom’s wife two days before recall election - Sacramento Bee",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vd3d3LnNhY2JlZS5jb20vbmV3cy9wb2xpdGljcy1nb3Zlcm5tZW50L2NhcGl0b2wtYWxlcnQvYXJ0aWNsZTI1NDE5MTgxMy5odG1s0gFTaHR0cHM6Ly9hbXAuc2FjYmVlLmNvbS9uZXdzL3BvbGl0aWNzLWdvdmVybm1lbnQvY2FwaXRvbC1hbGVydC9hcnRpY2xlMjU0MTkxODEzLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-09-13T01:50:00Z",
+            "content": null
         }
     ]
 }
