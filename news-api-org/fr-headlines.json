@@ -4,185 +4,29 @@
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "BFMTV"
             },
             "author": null,
-            "title": "Cyclisme. Chris Anker Sørensen, ancien coureur pro, est décédé dans un accident de la route - Ouest-France",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiqQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvc3BvcnQvY3ljbGlzbWUvY3ljbGlzbWUtY2hyaXMtYW5rZXItc29lcmVuc2VuLWFuY2llbi1jb3VyZXVyLXByby1lc3QtZGVjZWRlLWRhbnMtdW4tYWNjaWRlbnQtZGUtbGEtcm91dGUtMTM1N2YzZDAtMThjMC0xMWVjLWEwZDMtN2JkNjRhYzg0NWYw0gGpAWh0dHBzOi8vYW1wLm91ZXN0LWZyYW5jZS5mci9zcG9ydC9jeWNsaXNtZS9jeWNsaXNtZS1jaHJpcy1hbmtlci1zb2VyZW5zZW4tYW5jaWVuLWNvdXJldXItcHJvLWVzdC1kZWNlZGUtZGFucy11bi1hY2NpZGVudC1kZS1sYS1yb3V0ZS0xMzU3ZjNkMC0xOGMwLTExZWMtYTBkMy03YmQ2NGFjODQ1ZjA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-09-18T20:54:37Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Maxifoot.fr"
-            },
-            "author": null,
-            "title": "Hwang enfonce les Verts - Débrief et NOTES des joueurs (ASSE 1-2 FCGB) - Maxifoot",
-            "description": "Dans le match de la peur de la 6e journée de Ligue 1, Bordeaux s'est imposé sur la pelouse de Saint-Étienne (1-2), ce samedi. Plus r&ea ...",
-            "url": "https://www.maxifoot.fr/football/article-48479.htm",
-            "urlToImage": "//photo.maxifoot.fr/bordeaux-joie-63.jpg",
-            "publishedAt": "2021-09-18T20:54:00Z",
-            "content": "Dans le match de la peur de la 6e journée de Ligue 1, Bordeaux s'est imposé sur la pelouse de Saint-Étienne (1-2), ce samedi. Plus réalistes, les Girondins ont pu compter sur un Hwang Ui-jo des grand… [+11796 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Foot National"
-            },
-            "author": "Victor Willems",
-            "title": "Lens - Lille : la LFP va se pencher sur les incidents dès mercredi, des blessés et des interpellations ef... - Foot National",
-            "description": "Alors que le derby entre Lens et le LOSC a été émaillé par des incidents entre supporters à la mi-temps, la LFP va se pencher sur ce dossier dès mercredi lors de sa Commission de discipline.",
-            "url": "https://www.foot-national.com/ligue-1/lens-lille-la-lfp-va-se-pencher-sur-les-incidents-des-mercredi--des-blesses-et-des-interpellations-effectuees--680685",
-            "urlToImage": "https://media.foot-national.com/photo_article/680685/265841/1200-L-lens-lille-la-lfp-va-se-pencher-sur-les-incidents-ds-mercredi-des-blesss-et-des-interpellations-effectues.jpg",
-            "publishedAt": "2021-09-18T20:50:45Z",
-            "content": "Zapping Foot National TOP 10 : Le classement des meilleurs buteurs de Ligue 2\r\nLe match entre le RC Lens et le LOSC s'est soldé par un succès des Lensois sur le score d'un but à zéro, permettant aux … [+1799 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Le Parisien"
-            },
-            "author": "Alexandre  Sulzer",
-            "title": "Présidentielle 2022 : à Nice, Éric Zemmour passe en mode meeting - Le Parisien",
-            "description": "Debout devant ses fans, le polémiste a poursuivi ce samedi sa tournée de promotion de son nouveau livre. Il en a aussi profité pour répondre à ce qu’il croit être des «caricatures» de lui dans la presse.",
-            "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2022-a-nice-eric-zemmour-passe-en-mode-meeting-18-09-2021-JOH5HS2ZGNBWPHRCWQPKYEVE3Q.php",
-            "urlToImage": "https://www.leparisien.fr/resizer/JEu5qYZXviXLpZBEbVewBT_JygU=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/2JT7U3WUHVAGRK7WBHJLIY3EDI.jpg",
-            "publishedAt": "2021-09-18T20:19:00Z",
-            "content": "Profitez des avantages de loffre numérique\r\n<ul><li>Lintégralité des articles et vidéos</li><li>Linfo locale qui vous concerne</li><li>Votre journal numérique dès 6h00</li><li>Une navigation sans pub… [+81 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.lci.fr"
-            },
-            "author": "La rédaction de LCI",
-            "title": "EN DIRECT - Opposition au pass sanitaire : 80.000 manifestants dans toute la France, selon l'Intérieur - LCI",
-            "description": "CORONAVIRUS - 7414 nouvelles infections au Covid-19 ont été recensées par Santé publique France, ce samedi, contre 9601 le 11 septembre, soit une baisse de plus de 22%. Les autres indicateurs diminuent également. Suivez les dernières informations.. Santé : vi…",
-            "url": "https://www.lci.fr/sante/en-direct-pandemie-covid-19-coronavirus-en-france-variant-delta-vaccins-opposition-au-pass-sanitaire-80-000-manifestants-dans-toute-la-france-selon-l-interieur-2196156.html",
-            "urlToImage": "https://photos.lci.fr/images/1280/720/hopital-soignant-france-infirmiere-covid-6c2e44-0@1x.jpeg",
-            "publishedAt": "2021-09-18T20:02:58Z",
-            "content": "LA TROISIÈME DOSE \"CONTRAIRE A L’ÉTHIQUE\"\r\nLe patron du géant mondial de la production de vaccins \"Serum Institute of India\", Adar Poonawalla, a estimé ce 17 septembre qu’il était \"contraire à l’éthi… [+1105 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Covid-19. La baisse du nombre de malades se poursuit en France - Ouest-France",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMilgFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvc2FudGUvdmlydXMvY29yb25hdmlydXMvY292aWQtMTktbGEtYmFpc3NlLWR1LW5vbWJyZS1kZS1tYWxhZGVzLXNlLXBvdXJzdWl0LWVuLWZyYW5jZS1kMmY0ZTJhZS0xOGI0LTExZWMtYTBkMy03YmQ2NGFjODQ1ZjDSAZYBaHR0cHM6Ly9hbXAub3Vlc3QtZnJhbmNlLmZyL3NhbnRlL3ZpcnVzL2Nvcm9uYXZpcnVzL2NvdmlkLTE5LWxhLWJhaXNzZS1kdS1ub21icmUtZGUtbWFsYWRlcy1zZS1wb3Vyc3VpdC1lbi1mcmFuY2UtZDJmNGUyYWUtMThiNC0xMWVjLWEwZDMtN2JkNjRhYzg0NWYw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-09-18T19:28:05Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.tf1.fr"
-            },
-            "author": null,
-            "title": "The Voice All Stars – Olympe chante \"You Say\" de Lauren Daigle - TF1",
-            "description": "Impossible d’oublier l’emblématique Olympe. Grand finaliste de la saison 2, la victoire de Yoann Fréget d’une courte tête l’empêche d’accéder au titre. Loin d’être amer, il s’est même fait tatouer la date de son audition à l’aveugle, un jour qui a scellé le d…",
-            "url": "https://www.tf1.fr/tf1/the-voice/videos/the-voice-all-stars-olympe-chante-you-say-de-lauren-daigle-00065075.html",
-            "urlToImage": "https://photos.tf1.fr/1200/720/olympa-1ea939-4972dd-0@1x.jpg",
-            "publishedAt": "2021-09-18T19:25:00Z",
-            "content": ""
+            "title": "EN DIRECT - Crise des sous-marins: Attal annonce qu'il y aura un appel entre Macron et Biden - BFMTV",
+            "description": "A sept mois de la présidentielle, ce dimanche est à nouveau très politique: résultat du premier tour de la primaire EELV, le Congrès du PS qui continue, et le porte-parole du gouvernement Gabriel Attal à 12h dans BFM politique.",
+            "url": "https://www.bfmtv.com/politique/en-direct-presidentielle-2022-le-foll-refuse-de-se-rallier-a-hidalgo_LN-202109190034.html",
+            "urlToImage": "https://images.bfmtv.com/GGzMSJt2kmEjqJVwyEa0vVyhIYs=/0x0:1024x576/1024x0/images/Gabriel-Attal-invite-de-BFM-Politique-dimanche-19-septembre-2021-1130853.jpg",
+            "publishedAt": "2021-09-19T10:35:48Z",
+            "content": "C'est le dernier jour de vote pour le premier tour pour les 122 670 inscrits à la primaire des écologistes.\r\nEn lice pour cette primaire ouverte, 5 candidats : le maire de Grenoble, Eric Piolle, l'eu… [+445 chars]"
         },
         {
             "source": {
                 "id": "le-monde",
                 "name": "Le Monde"
             },
-            "author": "Le Monde avec AFP",
-            "title": "Passe sanitaire : environ 80 000 manifestants en France, selon le ministère de l'intérieur - Le Monde",
-            "description": "Les chiffres sont de nouveau en baisse pour ce dixième samedi de mobilisation contre le passe sanitaire et l’obligation vaccinale.",
-            "url": "https://www.lemonde.fr/societe/article/2021/09/18/passe-sanitaire-environ-80-000-manifestants-en-france-selon-le-ministere-de-l-interieur_6095177_3224.html",
-            "urlToImage": "https://img.lemde.fr/2021/09/18/342/0/4104/2052/1440/720/60/0/4c9e3c7_5663997-01-06.jpg",
-            "publishedAt": "2021-09-18T19:11:35Z",
-            "content": "Des manifestants contre le passe sanitaire, à Nantes, samedi 18 septembre 2021. SEBASTIEN SALOM-GOMIS / AFP\r\nIls étaient de nouveau plusieurs dizaines de milliers à manifester en France, samedi 18 se… [+4275 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "20 Minutes"
-            },
-            "author": "20 Minutes avec AFP",
-            "title": "Jean-Yves Le Drian évoque un « mensonge » et une « crise grave » - 20 Minutes",
-            "description": "Le ministre des Affaires étrangères a par ailleurs jugé que « ce qui vient de se passer » pèserait sur la définition du nouveau concept stratégique de l'Otan",
-            "url": "https://www.20minutes.fr/monde/3127223-20210918-sous-marins-jean-yves-drian-evoque-mensonge-crise-grave",
-            "urlToImage": "https://img.20mn.fr/zwkpWNATTUa4t4jo-7W5fyk/648x360_ministre-affaires-etrangeres-jean-yves-drian.jpg",
-            "publishedAt": "2021-09-18T19:10:09Z",
-            "content": "Le chef de la diplomatie française Jean-Yves Le Drian a évoqué samedi la « crise grave » provoquée par le torpillage d'un mégacontrat de sous-marins français à Canberra, dénonçant un « mensonge (...)… [+674 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.lci.fr"
-            },
-            "author": "La rédaction de LCI",
-            "title": "Hautes-Pyrénées : un mort et deux blessés graves lors d'une rixe entre bikers à Tarbes - LCI",
-            "description": "BAGARRE - Un festival sur la culture américaine à Tarbes a été endeuillé samedi après le déclenchement d'une rixe entre une cinquantaine de bikers. Un homme a été tué et deux autres ont été grièvement blessés. L'auteur présumé serait en fuite.",
-            "url": "https://www.lci.fr/justice-faits-divers/hautes-pyrenees-tarbes-un-mort-et-deux-blesses-graves-lors-d-une-rixe-entre-bikers-2196649.html",
-            "urlToImage": "https://photos.lci.fr/images/1280/720/brassard-police-illustration-rambouillet-f1c80c-0@1x.jpeg",
-            "publishedAt": "2021-09-18T19:01:21Z",
-            "content": "La joie de retrouver des activités ouvertes au public aura été de courte durée à Tarbes (Haute-Pyrénées). Samedi 18 septembre vers 15h30, durant l'American Saloon au parc des expositions, regroupant … [+908 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Francetvinfo.fr"
-            },
-            "author": null,
-            "title": "Affaire des sous-marins : \"Il y a vraiment une crise grave\" entre la France, l'Australie et les Etats-Unis, dé - Franceinfo",
-            "description": "Le ministre des Affaires étrangères était l'invité du 20 heures samedi pour revenir sur l'annulation du contrat de sous-marins qui liait Paris et Sydney.",
-            "url": "https://www.francetvinfo.fr/monde/usa/affaire-des-sous-marins-il-y-a-vraiment-une-crise-grave-entre-la-france-l-australie-et-les-etats-unis-deplore-le-ministre-des-affaires-etrangeres-sur-france-2_4776039.html",
-            "urlToImage": "https://www.francetvinfo.fr/pictures/iNgkzX4G8A1-wWvXWbXtARanMKA/1500x843/2021/09/18/phptmOgcp.png",
-            "publishedAt": "2021-09-18T18:28:07Z",
-            "content": "Le ministre des Affaires étrangères était l'invité du 20 heures samedi pour revenir sur l'annulation du contrat de sous-marins qui liait Paris et Sydney. Une décision \"symbolique\". Invité du 20 heure… [+3611 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "20 Minutes"
-            },
-            "author": "20 Minutes avec AFP",
-            "title": "Crise à la frontière : Washington promet d'accélérer le rythme des expulsions de migrants par avion - 20 Minutes",
-            "description": "L'administration Biden a rappelé « que nos frontières ne sont pas ouvertes et que personne ne devrait faire ce dangereux voyage »",
-            "url": "https://www.20minutes.fr/politique/3127199-20210918-crise-frontiere-washington-promet-accelerer-rythme-expulsions-migrants-avion",
-            "urlToImage": "https://img.20mn.fr/sew7ToGsTrW1MHYZL7qmCg/648x360_migrants-mexicains-tentant-rejoindre-etats-unis-rio-grande.jpg",
-            "publishedAt": "2021-09-18T18:13:12Z",
-            "content": "Le gouvernement américain de Joe Biden a annoncé samedi qu'il allait accélérer le rythme des expulsions par avion des plus de 10.000 migrants, surtout des Haïtiens, regroupés depuis plusieurs jours s… [+3606 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Frandroid"
-            },
-            "author": "Yazid Amer",
-            "title": "Les objets connectés qui peuvent aider à économiser de l’eau - Frandroid",
-            "description": "Ouvrir un robinet est un geste simple et quotidien, qui nous fait parfois oublier que c’est une ressource aussi précieuse que vitale. Nous n’y pensons presque plus tant elle est facile d’accès dans nos contrées. Elle a pourtant un coût et son gaspillage est é…",
-            "url": "https://www.frandroid.com/produits-android/maison-connectee/1036783_les-objets-connectes-qui-peuvent-aider-a-economiser-leau",
-            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2021/09/salle-de-bain-connectee.jpg",
-            "publishedAt": "2021-09-18T17:59:03Z",
-            "content": "Ouvrir un robinet est un geste simple et quotidien, qui nous fait parfois oublier que cest une ressource aussi précieuse que vitale. Nous ny pensons presque plus tant elle est facile daccès dans nos … [+16250 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BFMTV"
-            },
-            "author": null,
-            "title": "Covid-19: Véran affiche son optimisme et entrevoit des allègements, notamment sur le pass sanitaire - BFMTV",
-            "description": "Le ministre de la Santé a évoqué la possibilité d'alléger les restrictions sanitaires si la situation sanitaire continue à s'améliorer.",
-            "url": "https://www.bfmtv.com/sante/covid-19-veran-affiche-son-optimisme-et-entrevoit-des-allegements-notamment-sur-le-pass-sanitaire_AN-202109180249.html",
-            "urlToImage": "https://images.bfmtv.com/4VqCyuVhuChSTFjF1WHJYGEFC9U=/0x0:768x432/768x0/images/Olivier-Veran-se-donne-jusqu-a-septembre-avant-d-imposer-la-vaccination-aux-soignants-en-particuliers-ceux-qui-travaillent-dans-les-Ehpad-1057822.jpg",
-            "publishedAt": "2021-09-18T17:50:36Z",
-            "content": "Le ministre de la Santé a évoqué la possibilité d'alléger les restrictions sanitaires si la situation sanitaire continue à s'améliorer.\r\nAprès Emmanuel Macron, c'est le ministre de la Santé Olivier V… [+1703 chars]"
+            "author": "Aude Dassonville, Sandrine Cassini",
+            "title": "Eric Zemmour, une ascension médiatique entre attraction et répulsion - Le Monde",
+            "description": "Il aura fallu dix-neuf ans au journaliste du « Figaro » pour passer de commentateur à acteur d’un jeu politique qu’il espère déstabiliser. Une carrière audiovisuelle menée à coups de provocations, que ses employeurs auront paresseusement tenté de contenir.",
+            "url": "https://www.lemonde.fr/actualite-medias/article/2021/09/19/eric-zemmour-une-ascension-mediatique-entre-attraction-et-repulsion_6095217_3236.html",
+            "urlToImage": "https://img.lemde.fr/2021/09/18/395/0/4741/2370/1440/720/60/0/010835d_5664882-01-06.jpg",
+            "publishedAt": "2021-09-19T09:59:38Z",
+            "content": "Eric Zemmour lors de lévénement de promotion de son livre « La France na pas dit son dernier mot », samedi 18 septembre à Nice. VALERY HACHE / AFP\r\nLe 11 septembre sur France 2, Eric Zemmour a été cu… [+2970 chars]"
         },
         {
             "source": {
@@ -190,51 +34,38 @@
                 "name": "L'equipe"
             },
             "author": "Rédaction",
-            "title": "Salaire de Lionel Messi au PSG : Leonardo dément les chiffres de « L'Équipe » - L'Équipe.fr",
-            "description": "Leonardo, le directeur sportif du PSG, a contesté ce samedi les chiffres donnés par « L'Équipe » sur le salaire de Lionel Messi.",
-            "url": "https://www.lequipe.fr/Football/Actualites/Salaire-de-lionel-messi-au-psg-leonardo-dement-les-chiffres-de-l-equipe/1286385",
-            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/leonardo-le-directeur-sportif-du-psg-f-faugere-l-equipe/1500000001544457/0:0,1997:1331-640-427-75/31b41.jpg",
-            "publishedAt": "2021-09-18T17:29:40Z",
-            "content": "« C'est très loin de la réalité, sur la durée et les chiffres, a expliqué Leonardo. Il y a des clauses de confidentialité, mais je peux dire que ce n'est pas la vérité. »"
+            "title": "Kylian Mbappé est bien dans le groupe du PSG pour affronter Lyon - L'Équipe.fr",
+            "description": "Touché au gros orteil du pied gauche mercredi, Kylian Mbappé figure bien dans le groupe de 22 joueurs retenus par Mauricio Pochettino pour affronter Lyon, ce dimanche soir (20h45) au Parc des Princes.",
+            "url": "https://www.lequipe.fr/Football/Actualites/Kylian-mbappe-est-bien-dans-le-groupe-du-psg-pour-affronter-lyon/1286503",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/kylian-mbappe-figure-bien-dans-le-groupe-parisien-pour-defier-l-ol-a-reau-l-equipe/1500000001544672/141:218,1672:1239-640-427-75/83a68.jpg",
+            "publishedAt": "2021-09-19T09:32:58Z",
+            "content": "Touché au gros orteil du pied gauche mercredi en Ligue des champions à Bruges, Kylian Mbappé, qui avait dû quitter la pelouse dès la 50e minute, est bien dans le groupe du PSG pour défier l'OL dimanc… [+170 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Clubic"
+                "name": "Pure People"
             },
-            "author": "Noëllie Mautaint",
-            "title": "Microsoft Office 2021 sera disponible le 5 octobre sur Windows et macOS - Clubic",
-            "description": "Microsoft a enfin communiqué la date de sortie d’Office 201. La suite bureautique destinée aux particuliers et professionnels arrivera donc en même temps que Windows 11.",
-            "url": "https://www.clubic.com/pro/entreprises/microsoft/actualite-385029-microsoft-office-2021-sera-disponible-le-5-octobre-sur-windows-et-macos.html",
-            "urlToImage": "https://pic.clubic.com/v1/images/1864807/raw?width=900&height=600&fit=max&hash=4411fe72fe9153b4425a2760b62bbeef0a8fa135",
-            "publishedAt": "2021-09-18T17:00:00Z",
-            "content": "Microsoft a enfin communiqué la date de sortie dOffice 201. La suite bureautique destinée aux particuliers et professionnels arrivera donc en même temps que Windows 11.\r\nIl ne sera cependant pas néce… [+1736 chars]"
+            "author": "Claire Ageef-Legrand",
+            "title": "Adele en couple avec Rich Paul : grande officialisation et première photo à un mariage ! - Pure People",
+            "description": "Adele a retrouvé l'amour ! La chanteuse anglaise de 33 ans a présenté officiellement son nouveau petit-ami à ses fans via son compte Instagram. Très proches, les amoureux ont posé très tendrement sur un cliché simplement légendé par un coeur rouge...",
+            "url": "https://www.purepeople.com/article/adele-en-couple-avec-rich-paul-grande-officialisation-et-premiere-photo-a-un-mariage_a454432/1",
+            "urlToImage": "https://static1.purepeople.com/articles/2/45/44/32/@/6537241-adele-elle-officialise-avec-son-nouvea-opengraph_1200-1.jpg",
+            "publishedAt": "2021-09-19T09:01:00Z",
+            "content": "Le nouveau chéri d'Adele va bientôt fêter ses 40 ans (le 16 décembre prochain) et est un agent sportif américain basé à Cleveland. Businessman, il a créé Klutch Sports Group qui représente un certain… [+763 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Francetvinfo.fr"
+                "name": "Les Numériques"
             },
-            "author": null,
-            "title": "Dépistage du Covid-19 : le Conseil scientifique préconise des tests systématiques et hebdomadaires à l'école - franceinfo",
-            "description": "Selon un avis du 13 septembre cité par \"Le Monde\", les scientifiques estiment que seuls les enfants détectés positifs doivent être renvoyés chez eux.",
-            "url": "https://www.francetvinfo.fr/sante/maladie/coronavirus/covid-19-le-conseil-scientifique-preconise-un-depistage-systematique-et-hebdomadaire-a-l-ecole_4775985.html",
-            "urlToImage": "https://www.francetvinfo.fr/pictures/1xnP-9xXRNSkUIBeM8xEGGt-mkA/1500x843/2021/09/18/phpQBxk1u.jpg",
-            "publishedAt": "2021-09-18T16:46:31Z",
-            "content": "Selon un avis du 13 septembre cité par \"Le Monde\", les scientifiques estiment que seuls les enfants détectés positifs doivent être renvoyés chez eux.Ses recommandations ne vont pas dans le sens du pr… [+1410 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Seine-et-Marne. Une automobiliste fonce sur une terrasse à Fontainebleau - Ouest-France éditions locales",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiqgFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvaWxlLWRlLWZyYW5jZS9mb250YWluZWJsZWF1LTc3MzAwL3NlaW5lLWV0LW1hcm5lLXVuZS1hdXRvbW9iaWxpc3RlLWZvbmNlLXN1ci11bmUtdGVycmFzc2UtYS1mb250YWluZWJsZWF1LWMzMGY3YzllLTE4OTgtMTFlYy1hMGQzLTdiZDY0YWM4NDVmMNIBqgFodHRwczovL2FtcC5vdWVzdC1mcmFuY2UuZnIvaWxlLWRlLWZyYW5jZS9mb250YWluZWJsZWF1LTc3MzAwL3NlaW5lLWV0LW1hcm5lLXVuZS1hdXRvbW9iaWxpc3RlLWZvbmNlLXN1ci11bmUtdGVycmFzc2UtYS1mb250YWluZWJsZWF1LWMzMGY3YzllLTE4OTgtMTFlYy1hMGQzLTdiZDY0YWM4NDVmMA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-09-18T16:29:41Z",
-            "content": null
+            "author": "Kevin Hiot",
+            "title": "Comparatif Duel : OnePlus Nord CE 5G vs Xiaomi Redmi Note 10 5G - Les Numériques",
+            "description": "OnePlus Nord CE 5G vs Xiaomi Redmi Note 10 5G : comparez les deux produits en face à face pour faire le meilleur choix avec Les Numériques.",
+            "url": "https://www.lesnumeriques.com/telephone-portable/face-a-face/63793-62317.html",
+            "urlToImage": "https://dyw7ncnq1en5l.cloudfront.net/optim/publication-versus/16/168053/d4e00da8-duel-de-smartphones-oneplus-nord-ce-5g-vs-xiaomi-redmi-note-10-5g__908_512__0-35-1280-756.jpeg",
+            "publishedAt": "2021-09-19T09:00:00Z",
+            "content": "Si les deux modèles présentent un étalage de trois modules photo, le OnePlus s'avère un peu plus intéressant, puisqu'il propose un module principal de 64 mégapixels ainsi qu'un ultra grand-angle de 8… [+659 chars]"
         },
         {
             "source": {
@@ -242,25 +73,194 @@
                 "name": "Francetvinfo.fr"
             },
             "author": null,
-            "title": "Mobilisation des chasseurs : 42 000 manifestants dans cinq rassemblements pour défendre les chasses traditionn - franceinfo",
-            "description": "Les chasseurs se sont mobilisés pour défendre les chasses traditionnelles dans plusieurs villes de France samedi 18 septembre.",
-            "url": "https://www.francetvinfo.fr/monde/environnement/biodiversite/au-moins-40-000-chasseurs-manifestent-a-mont-de-marsan-amiens-redon-et-caen_4775919.html",
-            "urlToImage": "https://www.francetvinfo.fr/pictures/gIAhj4F0iQB01RdFN20JfLZA2-c/1500x843/2021/09/18/phpyKEckd.jpg",
-            "publishedAt": "2021-09-18T15:45:43Z",
-            "content": "Les chasseurs se sont mobilisés pour défendre les chasses traditionnelles dans plusieurs villes de France samedi 18 septembre.La mobilisation des chasseurs samedi a mobilisé 42 000 personnes lors de … [+1734 chars]"
+            "title": "Elections législatives en Russie : Google suspend l'accès à des consignes de vote de l'opposant Alexeï Navalny - franceinfo",
+            "description": "Les listes de deux candidats soutenues par l'opposant russe étaient publiées sur Google Docs avant la fin des élections, dimanche.",
+            "url": "https://www.francetvinfo.fr/internet/reseaux-sociaux/twitter/elections-legislatives-en-russie-google-suspend-l-acces-a-des-consignes-de-vote-de-l-opposant-alexei-navalny_4776625.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/ac24yj8ppYyeyCIJ8DFqsyopD6s/1500x843/2021/06/09/phpGy8Sj5.jpg",
+            "publishedAt": "2021-09-19T08:36:13Z",
+            "content": "Les listes de deux candidats soutenues par l'opposant russe étaient publiées sur Google Docs avant la fin des élections, dimanche.Le choix n'est pas passé inaperçu. Le géant américain Google a décidé… [+1498 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Paris Match"
+                "name": "20 Minutes"
             },
-            "author": "Paris Match",
-            "title": "Antonio Banderas et sa fille Stella, duo complice sur le tapis rouge de Saint-Sébastien - Paris Match",
-            "description": "Antonio Banderas est arrivé vendredi sur le tapis rouge du festival de Saint-Sébastien au bras de sa fille Stella.",
-            "url": "https://www.parismatch.com/People/Antonio-Banderas-et-sa-fille-Stella-duo-complice-sur-le-tapis-rouge-de-Saint-Sebastien-1758826",
-            "urlToImage": "https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/people/antonio-banderas-et-sa-fille-stella-duo-complice-sur-le-tapis-rouge-de-saint-sebastien-1758826/28940603-1-fre-FR/Antonio-Banderas-et-sa-fille-Stella-duo-complice-sur-le-tapis-rouge-de-Saint-Sebastien.jpg",
-            "publishedAt": "2021-09-18T15:26:00Z",
-            "content": "Antonio Banderas est arrivé vendredi sur le tapis rouge du festival de Saint-Sébastien au bras de sa fille Stella. Le duo complice a fait la joie des photographes. Lacteur espagnol Antonio Banderas e… [+1611 chars]"
+            "author": "20 Minutes avec AFP",
+            "title": "Tarbes : Une bagarre entre bikers fait un mort et deux blessés graves en marge de l’American Saloon - 20minutes.fr",
+            "description": "La bagarre a opposé plus d’une centaine de bikers. L’auteur présumé des coups mortels est en fuite",
+            "url": "https://www.20minutes.fr/faits_divers/3127507-20210919-tarbes-bagarre-entre-bikers-fait-mort-deux-blesses-graves-marge-american-saloon",
+            "urlToImage": "https://img.20mn.fr/qg9QgCI4Q9CjH4R-zUZoxyk/648x360_motos-illustration.jpg",
+            "publishedAt": "2021-09-19T08:33:03Z",
+            "content": "Samedi, en marge de l'American Saloon qui se tenait au Parc des Expositions de Tarbes, dans les \r\nHautes-Pyrénées, une violente \r\nrixe a fait un mort et deux blessés graves. Alors que se tenait ce sa… [+987 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Public"
+            },
+            "author": "Public",
+            "title": "\"Il te manque du sport\", Florent Pagny est-il allé trop loin avec un talent dans \"The Voice All Stars\" ? Twitter choqué ! - Public",
+            "description": "Samedi 18 septembre, TF1 proposait un deuxième épisode de The Voice All Stars avec évidemment le retour de plusieurs candidats emblématiques comme par exemple, Terrence, Ogee, Yoann Launay, Atef, Louise Combier ou encore Louis Delort. Le jeune homme avait été…",
+            "url": "https://www.public.fr/News/Il-te-manque-du-sport-Florent-Pagny-est-il-alle-trop-loin-avec-un-talent-dans-The-Voice-All-Stars-Twitter-choque-1685149",
+            "urlToImage": "https://resize-public.ladmedia.fr/img/var/public/storage/images/news/il-te-manque-du-sport-florent-pagny-est-il-alle-trop-loin-avec-un-talent-dans-the-voice-all-stars-twitter-choque-1685149/44643745-1-fre-FR/Il-te-manque-du-sport-Florent-Pagny-est-il-alle-trop-loin-avec-un-talent-dans-The-Voice-All-Stars-Twitter-choque.jpg",
+            "publishedAt": "2021-09-19T08:14:00Z",
+            "content": "Samedi 18 septembre, TF1 proposait un deuxième épisode de The Voice All Stars avec évidemment le retour de plusieurs candidats emblématiques comme par exemple, Terrence, Ogee, Yoann Launay, Atef, Lou… [+2052 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": null,
+            "title": "Présidentielle 2022 : Stéphane Le Foll veut se présenter à la primaire du PS face à Anne Hidalgo et critique s - franceinfo",
+            "description": "Le maire du Mans a de nouveau appelé la candidate du PS à débattre, dans les colonnes du \"Journal du dimanche\".",
+            "url": "https://www.francetvinfo.fr/politique/ps/primaire-a-gauche/election-presidentielle-2022-stephane-le-foll-critique-le-refus-du-debat-et-veut-se-presenter-a-la-primaire-du-ps-face-a-anne-hidalgo_4776591.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/KlC_LLwdm2vet4-982MvdTW7uVA/1500x843/2021/09/19/phpMe0S86.jpg",
+            "publishedAt": "2021-09-19T07:24:08Z",
+            "content": "Le maire du Mans a de nouveau appelé la candidate du PS à débattre, dans les colonnes du \"Journal du dimanche\".Il n'a pas dit son dernier mot. Le maire du Mans (Sarthe) Stéphane Le Foll maintient sa … [+1461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Butfootballclub.fr"
+            },
+            "author": "Alexandre Corboz",
+            "title": "RC Lens – LOSC : des premières sanctions tombent dimanche, vers un huis-clos pour Bollaert ? - But! Football Club",
+            "description": "Les premières conséquences des incidents du derby RC Lens - LOSC pourraient être connues dès ce dimanche. La réponse de la LFP ne tardera pas non plus...",
+            "url": "https://www.butfootballclub.fr/ligue-1/rc-lens-losc-des-premieres-sanctions-tombent-dimanche-vers-un-huis-clos-pour-bollaert-680703",
+            "urlToImage": "https://static.butfootballclub.fr/photo_article/680703/265850/1200-L-rc-lens-losc-des-premires-sanctions-tombent-dimanche-vers-un-huis-clos-pour-bollaert.jpg",
+            "publishedAt": "2021-09-19T07:22:28Z",
+            "content": "Zapping But! Football Club Ligue des Champions : le top 10 des meilleurs buteurs de l'histoire\r\nSamedi, le derby du Nord entre Lens et Lille (1-0) a été marqué par de graves incidents à la mi-temps e… [+2634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lefigaro.fr"
+            },
+            "author": "Le Figaro avec AFP",
+            "title": "Algérie : Bouteflika sera inhumé aux côtés des héros de la guerre d'indépendance - Le Figaro",
+            "description": "Malgré l'embarras des autorités et des médias, le président déchu reposera dans le carré des martyrs du cimetière d'El Alia.",
+            "url": "https://www.lefigaro.fr/international/algerie-bouteflika-sera-inhume-aux-cotes-des-heros-de-la-guerre-d-independance-20210919",
+            "urlToImage": "https://i.f1g.fr/media/cms/704x396_cropupscale/2021/09/19/099a93ae8465a2b67a49770913b60ee648667f75f1664768f16ed9140f48f101.jpg",
+            "publishedAt": "2021-09-19T07:20:54Z",
+            "content": "Malgré l'embarras des autorités et des médias, le président déchu reposera dans le carré des martyrs du cimetière d'El Alia.L'ex-président algérien Abdelaziz Bouteflika, décédé vendredi, sera inhumé … [+3841 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.lci.fr"
+            },
+            "author": "La rédaction de LCI",
+            "title": "L'Australie avait de \"profondes et sérieuses réserves\" concernant les sous-marins français, riposte son gouvernement - LCI",
+            "description": "DIPLOMATIE - Le Premier ministre australien Scott Morrison assure que le gouvernement français savait que Canberra avait de \"profondes et graves réserves\" concernant les sous-marins, dont la rupture du contrat a provoqué une importante crise entre la France, …",
+            "url": "https://www.lci.fr/international/l-australie-avait-de-profondes-et-serieuses-reserves-concernant-les-sous-marins-francais-riposte-son-gouvernement-2196676.html",
+            "urlToImage": "https://photos.lci.fr/images/1280/720/scott-morrisson-02bc9b-0@1x.jpeg",
+            "publishedAt": "2021-09-19T07:10:40Z",
+            "content": "La crise diplomatique entre la France et l'Australie se poursuit, voire s'aggrave. Le Premier ministre australien Scott Morrison a déclaré ce dimanche que le gouvernement français savait que Canberra… [+2840 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ozap"
+            },
+            "author": null,
+            "title": "Audiences : \"The Voice All Stars\" leader devant la rediff de Fr3, \"The Artist\" sous le million - OZAP",
+            "description": "Les audiences de la soirée du samedi 18 septembre 2021.",
+            "url": "https://www.ozap.com/actu/audiences-the-voice-all-stars-leader-devant-la-rediff-de-fr3-the-artist-sous-le-million/608571",
+            "urlToImage": "https://static1.ozap.com/articles/1/60/85/71/@/4653339-nagui-opengraph_1200-1.jpg",
+            "publishedAt": "2021-09-19T07:06:37Z",
+            "content": "Samedi soir, TF1 domine les audiences avec le deuxième numéro de \"The Voice All Stars\", produit par ITV Studios et animé par Nikos Aliagas. Les audiences à l'aveugle d'anciens candidats du télécroche… [+2325 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "20 Minutes"
+            },
+            "author": "20 Minutes avec AFP",
+            "title": "Afrique du Sud : Le nouveau maire de Johannesburg meurt à 46 ans dans un accident de voiture - 20 Minutes",
+            "description": "Jolidee Matongo, 46 ans, avait été élu le 10 août à la tête de la capitale économique d’Afrique du Sud après la mort du Covid-19 de son prédécesseur",
+            "url": "https://www.20minutes.fr/monde/3127499-20210919-afrique-sud-nouveau-maire-johannesburg-meurt-46-ans-accident-voiture",
+            "urlToImage": "https://img.20mn.fr/B-T1BryKSIuO_dr-OM-UbSk/648x360_centre-ville-johannesburg-illustration.jpg",
+            "publishedAt": "2021-09-19T06:38:18Z",
+            "content": "La capitale économique de lAfrique du Sud est une nouvelle fois en deuil. Le maire de Johannesburg, Jolidee Matongo, a été tué samedi dans un \r\naccident de voiture un peu plus dun mois après son élec… [+671 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Europe 1"
+            },
+            "author": null,
+            "title": "INFO EUROPE 1 - Découvrez le courrier de Darmanin envoyé à la maison d'édition Nawa - Europe 1",
+            "description": "Le ministre de l'Intérieur Gérald Darmanin&nbsp;a annoncé vendredi son intention de dissoudre la maison d'édition Nawa, le &quot;centre d’études orientales et de traduction&quot;, qui publie et diffuse plusieurs ouvrages faisant la promotion du jihad. Europe …",
+            "url": "https://www.europe1.fr/societe/info-europe-1-decouvrez-le-courrier-de-darmanin-envoye-a-la-maison-dedition-nawa-4067266",
+            "urlToImage": "https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/societe/info-europe-1-decouvrez-le-courrier-de-darmanin-envoye-a-la-maison-dedition-nawa-4067266/57633723-1-fre-FR/INFO-EUROPE-1-Decouvrez-le-courrier-de-Darmanin-envoye-a-la-maison-d-edition-Nawa.jpg",
+            "publishedAt": "2021-09-19T06:32:51Z",
+            "content": "INFO EUROPE 1C'est une décision forte de Gérald Darmanin qui demande des justifications. Le ministre de l'Intérieur veut dissoudre la maison d'édition Nawa située en Ariège, le \"centre détudes orient… [+2774 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Midi Libre"
+            },
+            "author": "Morgane Masson",
+            "title": "Covid-19 : Olivier Véran optimiste sur la levée du pass sanitaire et l'allègement des restrictions - Midi Libre",
+            "description": "S'il est encore trop tôt pour lever les restrictions sanitaires, le ministre de la Santé s'est montré optimiste dans l'interview qu'il accorde ce dimanche 19 septembre au Parisien.",
+            "url": "https://www.midilibre.fr/2021/09/19/covid-19-olivier-veran-optimiste-sur-la-levee-du-pass-sanitaire-et-lallegement-des-restrictions-9799442.php",
+            "urlToImage": "https://images.midilibre.fr/api/v1/images/view/6146d3fa3e45463f893482f4/large/image.jpg?v=2",
+            "publishedAt": "2021-09-19T06:20:00Z",
+            "content": "S'il est encore trop tôt pour lever les restrictions sanitaires, le ministre de la Santé s'est montré optimiste dans l'interview qu'il accorde ce dimanche 19 septembre au Parisien.\r\n Olivier Véran re… [+2075 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BFMTV"
+            },
+            "author": null,
+            "title": "Impôt sur le revenu: qui en paie, combien ça rapporte? - BFM Business",
+            "description": "En 2020, 1096 milliards d'euros ont été déclarés au titre de l'impôt sur le revenu. Les 45% de contribuables assujettis ont payé 76,9 milliards pour une moyenne de 4520 euros.",
+            "url": "https://www.bfmtv.com/economie/patrimoine/impots-fiscalite/impot-sur-le-revenu-qui-en-paie-combien-ca-rapporte_AN-202109190019.html",
+            "urlToImage": "https://images.bfmtv.com/PX65yWuqXe77KX5k6A6N1H71fqA=/4x38:372x245/368x0/images/1116130.jpg",
+            "publishedAt": "2021-09-19T06:13:00Z",
+            "content": "En 2020, 1096 milliards d'euros ont été déclarés au titre de l'impôt sur le revenu. Les 45% de contribuables assujettis ont payé 76,9 milliards pour une moyenne de 4520 euros.\r\nQue rapporte limpôt su… [+4094 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Le Parisien"
+            },
+            "author": "Anissa Hammadi",
+            "title": "Covid-19 : non, la «maladie de Lille» n’existe pas - Le Parisien",
+            "description": "Sur les réseaux sociaux, de nombreux internautes évoquent une mystérieuse « maladie de Lille », dont les symptômes ressemblent à ceux du Covid-19. Pour les médecins, il s’agirait seulement du retour en force des virus saisonniers, comme l’angine.",
+            "url": "https://www.leparisien.fr/societe/sante/covid-19-non-la-maladie-de-lille-nexiste-pas-19-09-2021-R6UPU6SNVVF6DJMLQ7R2UEXGPE.php",
+            "urlToImage": "https://www.leparisien.fr/resizer/0MtBznp6iDMTQBStR3wpb-kzD7M=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/2UYHVZGFVBDU3I4BLOGDILSBAM.jpg",
+            "publishedAt": "2021-09-19T06:03:00Z",
+            "content": "Depuis quelques jours, bon nombre de jeunes internautes expriment leur panique à lidée davoir attrapé « la maladie de Lille ». Aussi connue sous le nom de « variant Masséna » et de « Solfé-rhinophary… [+2983 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": null,
+            "title": "Les premiers touristes de SpaceX sont de retour sur Terre après trois jours dans l'espace - franceinfo",
+            "description": "Les quatre passagers sont arrivés samedi soir après avoir réalisé chaque jour plus de 15 fois le tour de la planète.",
+            "url": "https://www.francetvinfo.fr/sciences/astronomie/les-premiers-touristes-de-spacex-sont-de-retour-sur-terre-apres-trois-jours-dans-l-espace_4776563.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/12UJ-_-SItdTVWQdL9NY2oXXDWk/1500x843/2021/09/19/php2Fe132.jpg",
+            "publishedAt": "2021-09-19T05:54:24Z",
+            "content": "Les quatre passagers sont arrivés samedi soir après avoir réalisé chaque jour plus de 15 fois le tour de la planète.Mission accomplie. Les quatre premiers touristes spatiaux de SpaceX ont regagné la … [+1419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": null,
+            "title": "L'ex-cycliste danois Chris Anker Sorensen décède après un accident en Belgique - franceinfo",
+            "description": "L'ancien grimpeur danois est décédé samedi à 37 ans après avoir été percuté à vélo par un automobiliste en Belgique.",
+            "url": "https://www.francetvinfo.fr/sports/cyclisme/l-ex-cycliste-danois-chris-anker-sorensen-decede-apres-un-accident-en-belgique_4776561.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/DwHjU6ixBbHhQRyMfzLkyMMFbFU/1500x843/2021/09/19/phpm6sY2k.jpg",
+            "publishedAt": "2021-09-19T05:36:51Z",
+            "content": "L'ancien grimpeur danois est décédé samedi à 37 ans après avoir été percuté à vélo par un automobiliste en Belgique.L'Union cycliste internationale (UCI) a annoncé samedi la mort de l'ancien coureur … [+1624 chars]"
         }
     ]
 }
