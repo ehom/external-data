@@ -1,83 +1,200 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 33,
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "One.co.il"
             },
-            "author": null,
-            "title": "מחצית ראשונה: יובנטוס - סמפדוריה 0:0 - One",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiKWh0dHBzOi8vd3d3Lm9uZS5jby5pbC9BcnRpY2xlLzM5MzY2MC5odG1s0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-09-26T10:30:00Z",
+            "author": "תומר חבז",
+            "title": "צפו: סגל התעמת עם שוטרים ועוכב לפני המשחק - One",
+            "description": "רגע לפני המשחק של נתניה מול הפועל חדרה, הבעלים התעמת עם השוטרים בעקבות התורים הארוכים. נתניה מסרה: \"דין ודברים שהסתיימו ברגע שהתברר שזה סגל\"",
+            "url": "https://www.one.co.il/Article/393706.html",
+            "urlToImage": "https://photo.one.co.il/Image/GG/7,1/1553257.jpg",
+            "publishedAt": "2021-09-26T22:16:13Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Walla.co.il"
+            },
+            "author": "סוניה גורודיסקי",
+            "title": "בני 12-3 שהחלימו בחצי השנה האחרונה - לא יחויבו בבדיקת אנטיגן כדי להיכנס לבתיה\"ס - וואלה! חדשות",
+            "description": "ברקע מבצע בדיקות האנטיגן במתחמי מדא ובבתי הספר, הודיעו משרדי הבריאות והחינוך כי ילדים שהחלימו מהנגיף לא יידרשו לבצע אותן כתנאי כניסה למוסדות החינוך עם חזרת הלימודים בתום חופשת הסוכות. לדברי מדא, יותר מחצי מיליון טרם הגיעו לקחת את ערכות הבדיקה",
+            "url": "https://news.walla.co.il/item/3461764",
+            "urlToImage": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/2/7/6/3276339-46.jpg",
+            "publishedAt": "2021-09-26T21:55:12Z",
+            "content": "\" , . \", \r\n<ul><li>\r\n\" \" \r\n</li><li>\r\n' '\r\n</li><li>\r\n\": -560...\r\n</li><li>\r\n</li><li>\r\n</li><li>\r\n-FDA : \r\n</li><li>\r\n\" ' ...\r\n</li><li>\r\n: , ...\r\n</li><li>\r\n\", 26...\r\n</li><li>\r\n</li><li>\r\n: ...\r\n<… [+178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Walla.co.il"
+            },
+            "author": "אבנר שביט",
+            "title": "\"עוד סיפור אחד\" ניתן לצפייה, וגם זה משהו: ביקורת סרט - וואלה! תרבות",
+            "description": "בסרטו הראשון כבמאי, מנסה גורי אלפי להוכיח שעדיין אפשר ליצור קומדיות רומנטיות, גם בימינו וגם בעברית. התוצאה, עוד סיפור אחד, סובלת מאינספור כשלים, אבל היא לא פוגענית ולא מביכה, ובזכות אלפי עצמו ודינה סנדרסון, לפעמים אפילו חביבה",
+            "url": "https://e.walla.co.il/item/3461577",
+            "urlToImage": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/2/8/3/3283310-46.jpg",
+            "publishedAt": "2021-09-26T20:14:40Z",
+            "content": "' , . , . , . \r\n, ' , . \" \", \" \", \" \" \" \" \" \", .\r\n, , . , \" \", , .\r\n , \" \" : ; , \" \" ; ; , \" \". , \" \", . : , , , , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Walla.co.il"
+            },
+            "author": "מערכת וואלה",
+            "title": "מכבי תל אביב הביסה את הפועל אילת וזכתה בגביע ווינר - וואלה! ספורט",
+            "description": "האלופה קיבלה משחק טוב מנאנלי (19) וסורקין (16) בדרך ל-62:92 קליל על הדרומיים ולזכייה תשיעית במפעל, רגע לפני פתיחת היורוליג",
+            "url": "https://sports.walla.co.il/item/3461709",
+            "urlToImage": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/2/8/5/3285624-46.jpg",
+            "publishedAt": "2021-09-26T19:32:00Z",
+            "content": ": ' 19 , 6 , 6 -5 , 16, 10 -5 , 11 -4 , ' 9 -5 , ' 8, ' 8, ' 7, 6, 6, 2. ' (01:43 ) , .\r\n : ' 11 -7 , 10 -6 , 10 -5 , 10 -7 , 7, 6, 4, 2, 2, 2. (02:52 ) (01:43) , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Srugim.co.il"
+            },
+            "author": "https://www.facebook.com/profile.php?id=100006673444839",
+            "title": "\"בושה\" | הליכוד: \"ההצעה לרביב דרוקר - שערוריה\" - סרוגים - סרוגים",
+            "description": "על פי הדיווח באתר 'וואלה', תאגיד השידור הציע לרביב דרוקר לעבור אליהם מחדשות 13 תמורת 10 מיליון שקלים בשנה. בליכוד תקפו: אנשי השמאל בתקשורת מכניסים את כספי",
+            "url": "https://www.srugim.co.il/602068-%d7%91%d7%95%d7%a9%d7%94-%d7%94%d7%9c%d7%99%d7%9b%d7%95%d7%93-%d7%94%d7%94%d7%a6%d7%a2%d7%94-%d7%9c%d7%a8%d7%91%d7%99%d7%91-%d7%93%d7%a8%d7%95%d7%a7%d7%a8-%d7%a9%d7%a2%d7%a8%d7%95%d7%a8",
+            "urlToImage": "https://www.srugim.co.il/i/wp-content/uploads/2021/06/F210603YS10-scaled__w500h261q80.jpg",
+            "publishedAt": "2021-09-26T19:28:38Z",
+            "content": "'' 13 '', 10 .\r\n \" , , : \" \", \".\r\n \" . . \".\r\n, '', -400,000 , 235,000 13. , .\r\n '', .\r\n : \" . \".\r\n 13 : \" \". .\r\n ? ? ? /"
         },
         {
             "source": {
                 "id": "ynet",
                 "name": "Ynet"
             },
-            "author": "חסן שעלאן",
-            "title": "האב שוהה לצד מיטת בן ה-6 שנפצע קשה מירי: \"מחכה שיתעורר ויקרא לי 'אבא, אבא'\" - ynet.co.il",
-            "description": "איהם עבד אלהאדי נפגע מכדור תועה שפגע במכונית של דודו באום אל-פחם בזמן שחזרו מחתונה, ומאז הוא מאושפז במצב קשה. לאביו ששוהה לצידו אין ציפיות מהמשטרה: \"הם רק מחלקים דו\"חות, אבל לא מגיעים לרוצחים. בסוף יסגרו את התיק מחוסר ראיות\"",
-            "url": "https://www.ynet.co.il/news/article/s1m3z2tmf",
-            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/09/26/S1Gz982TXt/S1Gz982TXt_229_59_919_518_0_large.jpg",
-            "publishedAt": "2021-09-26T10:00:22Z",
-            "content": ", , 101 19:23. \", -26 , -19 , .\r\n. \" , \", . \" . . . . , . ', '\".\r\n\" \", . \" \", . . , . , . \".\r\n-120 , , -. \" ? ?\", , . \" \", . \" , . , . . . \". \r\n'', 30 , . '' . 25 . '' .\r\n, . (56) - . , 19 - . -30 ."
+            "author": "אלישע בן קימון",
+            "title": "מפקד אוגדת איו\"ש למשפחות הלוחמים הפצועים: \"הבנים שלכם גיבורים ואמיצים, הצילו חיים בפעולה נועזת\" - ynet.co.il",
+            "description": "תת-אלוף יניב אלאלוף הגיע למחלקה לטיפול נמרץ בבית החולים רמב\"ם, שם מאושפזים הקצין והלוחם שנפצעו בקרב היריות עם מחבלי חמאס שתכננו לבצע פיגועים בשטח ישראל: \"מנעו פיגוע והרג של אזרחי מדינת ישראל\". מוקדם יותר נרשם שיפור מעודד במצבם: \"יהיו עוד ניתוחים\"",
+            "url": "https://www.ynet.co.il/news/article/r1ilkbrqf",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/09/26/S11u1QRmY/S11u1QRmY_133_131_1003_565_0_large.jpg",
+            "publishedAt": "2021-09-26T18:58:00Z",
+            "content": ", () \", - , \" - . \" \", . \" \".\r\n, - -20 . \", . , ', , . , . , .\r\n, \" -, . \" \", - -ynet. \" . - , \". \" - \".\r\n\" , , , \" \", . \" \", \". \" . \", \" \". . , - \"."
         },
         {
             "source": {
                 "id": null,
-                "name": "Bizportal.co.il"
+                "name": "Walla.co.il"
+            },
+            "author": "מירב כהן",
+            "title": "מי זכאי באופן אוטומטי ומי יזדקק לחיסון נגד קורונה? ההנחיות המעודכנות לתו הירוק - וואלה! חדשות",
+            "description": "נוכח השינוי בהנחיות החל מיום ראשון הבא, כשבין היתר תישלל הזכאות לתו למחלימים שאינם מחוסנים ועברה חצי שנה מאז שאובחנו חיוביים, וואלה! עושה לכם סדר. מי צריך למהר לקבוע תור לחיסון - ואיך בדיקה סרולוגית תשפיע על הזכאות שלכם? כל מה שצריך לדעת",
+            "url": "https://news.walla.co.il/item/3461738",
+            "urlToImage": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/2/8/5/3285509-46.jpg",
+            "publishedAt": "2021-09-26T18:50:00Z",
+            "content": ", () - . .\r\n\" , , , \", . \" , , \" . \".\r\n, , 2,616 - 3.96% 66.732 . 7 . -17 -711 -215. 63,022 ."
+        },
+        {
+            "source": {
+                "id": "ynet",
+                "name": "Ynet"
+            },
+            "author": "ynet",
+            "title": "\"ויהי בוקר\" הוא הזוכה הגדול בפסטיבל חיפה - ynet.co.il",
+            "description": "\"ויהי בוקר\", סרטו של ערן קולירין, הוא הזוכה בתחרות הקולנוע הישראלי העלילתי בפסטיבל הסרטים הבינלאומי חיפה. הסרט זכה גם בפרס התסריט שהוענק לקולירין, ובפרס השחקן הטוב ביותר שהוענק לאיהאב אליאס סלאמי. בפרס הסרט התיעודי הטוב ביותר זכה \"דיוקן\", שעוסק באלימות בתוך ה…",
+            "url": "https://www.ynet.co.il/entertainment/article/s1ot6wcxt",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/06/03/S1uA3fLqu/S1uA3fLqu_444_0_2191_1233_0_large.jpg",
+            "publishedAt": "2021-09-26T17:30:47Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globes.co.il"
+            },
+            "author": "גד פרץ",
+            "title": "האם כלירמרק ואיש העסקים יריב לרנר יהיו המפעילים של אקספון? - גלובס",
+            "description": "קרן ההשקעות ואיש העסקים חתמו על הסכם עם סלקום במסגרתו הם יהיו מוכנים להפעיל את אקספון כמפעיל סלולרי מלא • ההודעה נמסרה לעו\"ד עמית לדרמן לקראת כינוס אסיפת הנושים של אקספון ביום חמישי הקרוב",
+            "url": "https://www.globes.co.il/news/article.aspx?did=1001385475",
+            "urlToImage": "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1625137778/direct/32285713-812c-4811-9a69-76aec8c30563_tuvuhu.jpg",
+            "publishedAt": "2021-09-26T17:27:10Z",
+            "content": ".\r\n \" . .\r\n , \" - . . \" \" .\r\n .\r\n . .\r\n, , - . \" .\r\n, , , \" . , , .\r\n, .\r\n, .\r\n , . , .\r\n .\r\n ( , ..) , , , -10 .\r\n , , , . , , ( ) ( ) 2021."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mako.co.il"
+            },
+            "author": "עמית ולדמן אסף יחזקאלי",
+            "title": "N12 - מדגמים ראשונים בגרמניה: קרב צמוד בין שתי המפלגות הגדולות - mako",
+            "description": "הקלפיות ברחבי גרמניה נסגרו - והמדגמים הראשונים לא נותנים תשובה לשאלה מי יכהן כקנצלר הבא של גרמניה - אולף שולץ או ארמין לאשט",
+            "url": "https://www.mako.co.il/news-world/2021_q3/Article-8eb916482e22c71026.htm",
+            "urlToImage": "https://img.mako.co.il/2021/09/26/GERMAN_autoOrient_i.jpg",
+            "publishedAt": "2021-09-26T16:28:00Z",
+            "content": ":  () , - CDU - , - SPD. - 25-26% , . , SPD .  \r\n , , 16 . , - , , , .  \r\n#btw21 | Prognose ARD 18.00 Uhr\r\nCDU/CSU - 25,0%SPD - 25,0%AfD - 11,0%FDP - 11,0%LINKE - 5,0%Grüne - 15,0% pic.twitter.com/Bj… [+451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Calcalist.co.il"
             },
             "author": null,
-            "title": "בוליגו קפיטל תתחיל להיסחר בבורסה בת\"א; לפי שווי של 100 מיליון דולר - Bizportal",
-            "description": "חברת השקעות הנדל\"ן שפועלת בארה\"ב, השלימה הנפקה ראשונית בה החברה גייסה 20 מיליון דולר;  ניירות הערך של בוליגו יירשמו למסחר בבורסה לאחר החג, החל מיום חמישי הקרוב.",
-            "url": "https://www.bizportal.co.il/capitalmarket/news/article/796444",
-            "urlToImage": "https://res.cloudinary.com/bizportal/image/upload/v1609665178/giflib/news/תמונה איתי גורן מנכל בוליגו קפיטל קרדיט אושרית חכמון 1.jpg",
-            "publishedAt": "2021-09-26T09:56:00Z",
-            "content": "\" \", (Buligo Capital) , 20 , 100 . , .\r\n-75 -61 . -40 , 12 . -64 .\r\n2012 , , , \" \", - (-70% ), . -750 , -100 , 2.3 .\r\n, -36 . \" . , (Promote) .\r\n\", , -, , .\r\n, Deloitte.   - -EY."
+            "title": "מנכ\"ל סנטינל וואן העביר לגרושתו מניות בשווי של 124 מיליון דולר - כלכליסט",
+            "description": "כך לפי דיווח של חברת הסייבר לרשות ניירות ערך בארה\"ב. מניית סנטינל וואן שהקים תומר וינגרטן זינקה ב-74% מאז שהונפקה ביוני האחרון לפי שווי של 9 מיליארד דולר",
+            "url": "https://www.calcalist.co.il/market/article/hjxdmmcqk",
+            "urlToImage": "https://images1.calcalist.co.il/picserver3/crop_images/2021/06/30/Hy5vug9hO/Hy5vug9hO_820_1692_1541_868_0_large.jpg",
+            "publishedAt": "2021-09-26T15:49:10Z",
+            "content": "\" , , 124 , (SEC). 4.83 , 295.1 . -74% , .\r\n, . B, , A. B 20 , 1 A. .\r\n, -2013. . , . 1.2 9 . -21%. \r\n, 35 -61 NYSE , 74.5%. 16.2 , . -16.19 . (31.7 ), ' (15.6). \r\nwindow._taboola = window._taboola |… [+36 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sport5.co.il"
+                "name": "Haaretz.co.il"
+            },
+            "author": "גרדיאן",
+            "title": "דיווח: תוכנת הריגול פגסוס זוהתה במכשירי הטלפון של 5 שרים בצרפת - הארץ",
+            "description": "על פי הפרסום באתר \"מדיהפרט\" הצרפתי, שמתבסס על כמה מקורות אנונימיים, דו\"ח מודיעין קבע כי זוהו ראיות להדבקות בתוכנה שפיתחה NSO Group הישראלית; בחברה דחו את הטענות",
+            "url": "https://www.haaretz.co.il/captain/software/.premium-1.10243652",
+            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10243755.1632668833!/image/750312486.jpg_gen/derivatives/headline_1200x630/750312486.jpg?wtm=1.10243755",
+            "publishedAt": "2021-09-26T14:53:00Z",
+            "content": ",   , , \" .\r\n\" \", 17 \"\" \"\", , , .\r\n...\r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Haaretz.co.il"
+            },
+            "author": "ד-פ-א, רויטרס",
+            "title": "היסטוריה במדינה השמרנית: אזרחי שווייץ הצביעו בעד נישואים גאים - הארץ",
+            "description": "הפרלמנט השווייצרי אישר בשנה שעברה נישואים חד-מיניים, אך הצעד עבר להכרעת הציבור  בעקבות התנגדות השמרנים. על פי המדגמים, 64% מהמצביעים במשאל העם יישרו קו עם המחוקקים",
+            "url": "https://www.haaretz.co.il/news/world/europe/.premium-1.10243694",
+            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10243735.1632668914!/image/106954315.jpg_gen/derivatives/headline_1200x630/106954315.jpg?wtm=1.10243735",
+            "publishedAt": "2021-09-26T14:53:00Z",
+            "content": "- ().\r\n- , , , . -2017 .\r\n(gfs.bern), 64%...\r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Inn.co.il"
             },
             "author": null,
-            "title": "הצד של הפועל: למה ויתרו על אלטמן? - ספורט 5 - ערוץ הספורט",
-            "description": "הפגישה בשנה שעברה, ההעדפה של שלומי אזולאי הקשר על פניו מה הייתה ההתפשרות מצד השחקן. אחרי פוסט הפרידה הכואב, הקבוצה מספקת את הצד שלה לעזיבה. הסיפור מבפנים",
-            "url": "https://www.sport5.co.il/articles.aspx?folderid=64&docid=382921",
-            "urlToImage": "https://www.sport5.co.il/Sip_Storage/FILES/9/size944x700/1130319.jpg",
-            "publishedAt": "2021-09-26T09:56:00Z",
-            "content": ", . \" , : \" . , \".\r\n \" , . \" , , \", \", -3 220 . , \".\r\n\" , , , \", \", \" , , . \" \".\r\n : \" , , . 200 , - 400 , . , , . , , \"."
+            "title": "המרכז הרפואי שיבא: מצבו של איציק סעידיאן עדיין מוגדר קשה ותהליך החזרה להכרה - מורכב - ערוץ 7",
+            "description": null,
+            "url": "https://www.inn.co.il/flashes/829563",
+            "urlToImage": null,
+            "publishedAt": "2021-09-26T14:44:54Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "Bhol.co.il"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "יענקי פרבר",
-            "title": "מיליארדר מציע 120 מיליון דולר על שטח הבניין שקרס במיאמי - בחדרי חרדים",
-            "description": "איש נדל\"ן מיליארדר מדובאי, מציע 120 מיליון דולר עבור האתר המשתרע על פני 2 דונם, שם קרס מגדל הדירות בפלורידה ביוני והביא למותם של 98 בני אדם, בהם 30 יהודים",
-            "url": "https://www.bhol.co.il/news/1277550",
-            "urlToImage": "https://www.bhol.co.il/media/917422/e6gbm6gwuaghfgm.jpg?anchor=center&mode=crop&width=200&height=200&rnd=132707938520000000",
-            "publishedAt": "2021-09-26T09:44:00Z",
-            "content": "2009 © \" , , :, , , , , , , , , , | NG|SEO Israel \r\n."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Maariv.co.il"
-            },
-            "author": "אלון חכמון",
-            "title": "\"כמו ברווזים במטווח\": קליעים שנורו מהפזורה פגעו בבתים בעומר - מעריב",
-            "description": "קליעים שנורו הלילה מאזור היישוב הבדואי תל שבע ומאזור לקיה פגעו בבתי תושבים ביישוב עומר הסמוך. תושבת שביתה נפגע כתבה: \"אני לא רוצה לחשוב מה היה קורה אם אחד הילדים חס וחלילה היה שם\"",
-            "url": "https://www.maariv.co.il/news/military/Article-866977",
-            "urlToImage": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/666068",
-            "publishedAt": "2021-09-26T09:42:00Z",
+            "author": null,
+            "title": "עזה? חמאס כמעט הוציא פיגוע מתחומי יו״ש - Israeldefense.co.il",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiKmh0dHBzOi8vd3d3LmlzcmFlbGRlZmVuc2UuY28uaWwvbm9kZS81MTk3MtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-09-26T14:07:00Z",
             "content": null
         },
         {
@@ -86,25 +203,51 @@
                 "name": "Ynet"
             },
             "author": "ynet",
-            "title": "האזנות סתר וקשר ישראלי: החשיפות בסרט הדוקו החדש על בריטני ספירס - ynet.co.il",
-            "description": "הסרט הדוקומנטרי \"לשלוט בבריטני ספירס\" של ה\"ניו יורק טיימס\" חושף כי הזמרת הייתה נתונה להאזנות ולפיקוח מתמיד, כולל מעקב על הטלפון שלה במשך שנים. על אבטחתה היה ממונה יוצא צה\"ל בשם עידן ימיני",
-            "url": "https://www.ynet.co.il/entertainment/article/bypj59txy",
-            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/07/01/BJU11u2c2d/BJU11u2c2d_401_0_2349_1323_0_large.jpg",
-            "publishedAt": "2021-09-26T09:34:56Z",
-            "content": ". , \" \" ( , ) , - - . , ' , , . , , . \" \", . \r\n\" \" , \". . , -2012 , - . , , , . , .\r\n\" \", 2019 , . , , , - . \" \".\r\n, , ' , 13 . . , , . , \" \" , . , . , -29 , , - \" \"."
+            "title": "רעידת אדמה שנמשכה כ-90 דקות תועדה במאדים - ynet.co.il",
+            "description": "סוכנות החלל האמריקנית הודיעה כי הנחתת InSight תיעדה לאחרונה שלוש רעידות אדמה בכוכב הלכת השכן, בעוצמה של 4.1 ו-4.2. הרעידה האחרונה נמשכה כשעה וחצי. מדובר בשלוש הרעידות החזקות ביותר שתועדו במאדים",
+            "url": "https://www.ynet.co.il/environment-science/article/b1t1ikcxt",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/01/05/HkelzKWAP/HkelzKWAP_0_0_1600_900_0_large.jpg",
+            "publishedAt": "2021-09-26T13:04:34Z",
+            "content": "4.1 -4.2 -25 - 4.2 - -18 . -90 .\r\n\" 4.2, , -8,500 \" . -1,600 \" . \r\n( ), -9,700 . ( ) 4,000 , 10 , . .\r\nInsight - INterior exploration using Seismic Investigations, Geodesy and Heat Transport - \" , \".… [+28 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Calcalist.co.il"
+            },
+            "author": null,
+            "title": "לבנת פורן של המשכנתאות: סירוב מהבנק? לא עם \"משכנתא מאושרת\" - כלכליסט",
+            "description": "הביקושים למשכנתאות בחודשים האחרונים שוברים שיאים, והמשימה של קבלת משכנתא מהבנק הפכה לקשה מאי פעם. אולם גם אם הגשתם בקשה לקבלת משכנתא וסורבתם, עדיין לא הכל אבוד - הכירו יועץ המשכנתאות מרטין בוקסדורף, מומחה לטיפול במסורבי משכנתא",
+            "url": "https://www.calcalist.co.il/article/rkdoxtamf",
+            "urlToImage": "https://images1.calcalist.co.il/picserver3/crop_images/2021/09/26/HkP8cJA7Y/HkP8cJA7Y_0_0_1273_716_0_large.jpg",
+            "publishedAt": "2021-09-26T12:51:03Z",
+            "content": ": , , . ? - . , . , , , . \r\n, . - , , ' , . , ? , , , . \r\n, . . - ' , , , , . ? , , . , , . \r\n, . , , . , , , . , . , , , , . \r\nwindow._taboola = window._taboola || [];\r\n _taboola.push({flush: true});"
         },
         {
             "source": {
                 "id": "ynet",
                 "name": "Ynet"
             },
-            "author": "אטילה שומפלבי",
-            "title": "מנכ\"ל משרד החינוך: \"ילד בלי בדיקה יישאר מחוץ לבית הספר\" - ynet.co.il",
-            "description": "לקראת החזרה מחופשת החג, ועל רקע נתוני התחלואה שנותרים יציבים גם היום, יגאל סלוביק אמר לאולפן ynet כי הוא תומך בהחלטת הממשלה לא לשלם למורים שמסרבים להתחסן או להיבדק: \"הם עשו את הבחירה שלהם\". לדבריו, \"אנחנו סומכים על ההורים - אין לנו דרך אחרת\"",
-            "url": "https://www.ynet.co.il/news/article/hk11vhk6xk",
-            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/09/21/H19ZDiP7F/H19ZDiP7F_34_46_1007_567_0_large.jpg",
-            "publishedAt": "2021-09-26T09:26:30Z",
-            "content": "\" ( ') , . ynet : \" \". , : \" \". \r\n, . . 2,616 , 66,732 . 3.96%. 711 , 215 . \r\n\" , -1 \", . \" . , 300 , -15 . \".\r\n- , ?\r\n\" , . . - 100 , -400 . . \". \r\n- ?\r\n\" . . . ? . ? . , . - \". \r\n- ? ?\r\n\" 300 . , .… [+103 chars]"
+            "author": "סוכנויות הידיעות",
+            "title": "ה-1 באירופה: רוב נשי בפרלמנט באיסלנד - ynet.co.il",
+            "description": "המדינה השוויונית בעולם תהיה גם הראשונה באירופה עם רוב נשי בפרלמנט: בבחירות באיסלנד נבחרו 33 נשים לפרלמנט, שבו 63 מושבים בסך הכול",
+            "url": "https://www.ynet.co.il/news/article/ryjs9aa7f",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/09/26/SJKjdRaQt/SJKjdRaQt_583_172_2027_1142_0_large.jpg",
+            "publishedAt": "2021-09-26T12:33:45Z",
+            "content": ", 370,000 , . 1961. 12 . , , . \r\nAFP - 47%. - 50% : (61%), (53%), (51%), (50% )."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Walla.co.il"
+            },
+            "author": "מערכת וואלה",
+            "title": "לראשונה זה 40 שנה: הסרט \"לשחרר את שולי\" מכר יותר ממיליון כרטיסים - וואלה! תרבות",
+            "description": "לשחרר את שולי של שלישיית מה קשור כבש את המקום הרביעי בטבלת 10 הסרטים הישראלים הגדולים של כל הזמנים, כשלפניו הקלאסיקות סאלח שבתי, קזבלן ואסקימו לימון. עם כניסתו לטבלה הוא דחק למקום החמישי את שתי אצבעות מצידון",
+            "url": "https://e.walla.co.il/item/3461688",
+            "urlToImage": "https://img.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/1/9/9/3199263-46.jpg",
+            "publishedAt": "2021-09-26T11:44:00Z",
+            "content": ": \" \", \" \", - () . -1 \" \" . , 40 .\r\n\" \" 10 , \" \", \"\" \" \". \" \", 10 1986.\r\n, , : \"' ' , . \"."
         },
         {
             "source": {
@@ -112,155 +255,12 @@
                 "name": "Inn.co.il"
             },
             "author": null,
-            "title": "רביד פלוטניק - \"הרעיונות באים מעצמם\" - ערוץ 7",
+            "title": "יהודה ג'אד נאמן, יוצר קולנוע וחתן פרס ישראל, הלך לעולמו - ערוץ 7",
             "description": null,
-            "url": "https://www.inn.co.il/news/526714",
+            "url": "https://www.inn.co.il/news/526728",
             "urlToImage": null,
-            "publishedAt": "2021-09-26T09:16:52Z",
+            "publishedAt": "2021-09-26T11:29:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "G-rafa.co.il"
-            },
-            "author": "רון פיירמן",
-            "title": "תמונות חדשות של Samsung Galaxy S22 Ultra מאשרות את חזרתו של Galaxy Note - Girafa",
-            "description": "תמונות חדשות של Samsung Galaxy S22 Ultra מאשרות את חזרתו של Galaxy Note",
-            "url": "https://g-rafa.co.il/samsung-galaxy-s22-ultra-in-render-pics/",
-            "urlToImage": "https://g-rafa.co.il/wp-content/uploads/2019/12/note-stylus.jpeg",
-            "publishedAt": "2021-09-26T09:01:54Z",
-            "content": "Galaxy S22 - Galaxy Note. S22. OnLeaks@. . .\r\nSamsung Galaxy S22 Ultra. : OnLeaks x Digit.in@\r\nS-Pen . . , Samsung Galaxy S22 Note Ultra. .\r\nSamsung Galaxy S22 Ultra. : OnLeaks x Digit.in@\r\n6.8 . .\r\n… [+199 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Haaretz.co.il"
-            },
-            "author": "יניב קובוביץ, עדי חשמונאי, ג'קי חורי",
-            "title": "קצין וחייל מדובדבן נפצעו קשה במבצע המעצרים הלילה בגדה - הארץ",
-            "description": "חמישה פלסטינים נהרגו במבצע המעצרים שנערך באזור ג'נין ורמאללה. בצה\"ל בודקים אם הקצין והחייל נפצעו מאש הפלסטינים או מירי חבריהם לכוח",
-            "url": "https://www.haaretz.co.il/news/politics/1.10242656",
-            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10242621.1632646699!/image/2700687090.jpg_gen/derivatives/headline_1200x630/2700687090.jpg?wtm=1.10242621",
-            "publishedAt": "2021-09-26T08:50:00Z",
-            "content": "\" .  \r\n' . \" \r\n', JAAFAR ASHTIYEH - AFP\r\n() ' . \" .   , .\r\n, . \" , \" , , \" \".\r\n, . \" , \" . \" . , , , .\r\n\" \". \" , \". \r\n. \" . \r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>\r\n*#"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bhol.co.il"
-            },
-            "author": "ישראל לפקוביץ",
-            "title": "התוכנית של שרת הפנים למלחמה בבניינים קורסים - בחדרי חרדים",
-            "description": "שרת הפנים איילת שקד בוחנת פתרון שיאפשר הריסה ובנייה מחדש בהליך מזורז של בנייני דירות שעלולים לקרוס, המהלך מגיע לאחר מקרים רבים של בניינים שהתגלו כמסוכנים ועומדים בפני התמוטטות",
-            "url": "https://www.bhol.co.il/news/1277623",
-            "urlToImage": "https://www.bhol.co.il/media/934687/f210913avs03.jpg?anchor=center&mode=crop&width=200&height=200&rnd=132760735120000000",
-            "publishedAt": "2021-09-26T08:23:00Z",
-            "content": "2009 © \" , , :, , , , , , , , , , | NG|SEO Israel \r\n."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sport5.co.il"
-            },
-            "author": null,
-            "title": "''מכבי הגיעה מנופחת'': ברקו מנתח - ספורט 5 - ערוץ הספורט",
-            "description": "הקוסם ביקר את מחזיקת הגביע (''חלשה, קובאס היה לפני שבוע שחקן פרמייר-ליג ואמש שחקן ליגה לאומית''), והוריד את ב''ש לקרקע (''ניצחון גדול, אבל עדיין לא קבוצה לאליפות''). צפו בדיון",
-            "url": "https://www.sport5.co.il/articles.aspx?folderid=64&docid=382890",
-            "urlToImage": "https://www.sport5.co.il/Sip_Storage/FILES/8/size944x700/1130228.jpg",
-            "publishedAt": "2021-09-26T08:22:00Z",
-            "content": ", \" - \" . , , () 2:0 . , ' \" \" . \r\n\" ? \", . \" ... \" , \". \r\n , \", . \" , . , , , 0:1 , . , , \".\r\n \" \": \" , - . , . , , \".\r\n\" \", . \" -, . , . \" ? , \".\r\n , ' , \": \" , \" . , \" . \" , . \" \" . \" . \" , , \"."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bizportal.co.il"
-            },
-            "author": null,
-            "title": "הערכה: השנה היצוא יעלה לשיא כל הזמנים של 135 מיליארד דולר - Bizportal",
-            "description": "היצוא במחצית השנה הראשונה הסתכם ב-67.6 מיליארד דולר, צמיחה של כ-24% לעומת החציון הראשון של השנה שעברה - וגם לעומת שנת 2019, כלומר לפני הקורונה",
-            "url": "https://www.bizportal.co.il/general/news/article/796435",
-            "urlToImage": "https://res.cloudinary.com/bizportal/image/upload/v1609665178/giflib/news/ספינה יבוא יצוא 13062021.jpg",
-            "publishedAt": "2021-09-26T07:57:00Z",
-            "content": "2021  -135 , -15 ,   ,  2021, .\r\n, -67.6 , -24% 2020, 2019, . 2019 -55.5 .\r\n-11%, , -38%  2021. , .\r\n, -51.4% 48.6% , . . , -30% -18%  2021  .\r\n?, \" , , 29% 48% . , -110% -77%.\r\n, . -13% , -111% 2020… [+178 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "News1.co.il"
-            },
-            "author": null,
-            "title": "News1 | להתייחס לגל הרציחות כמו למלחמה - News1 מחלקה ראשונה",
-            "description": null,
-            "url": "https://www.news1.co.il/PageLoad.aspx?adid=9492&pageUrl=Archive/0024-D-150520-00.html",
-            "urlToImage": null,
-            "publishedAt": "2021-09-26T07:50:16Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Haaretz.co.il"
-            },
-            "author": "נתנאל שלומוביץ",
-            "title": "\"הקדושים של ניוארק\": טוני סופרנו מגיע למסך הגדול, והוא קטן מתמיד - הארץ",
-            "description": "***",
-            "url": "https://www.haaretz.co.il/gallery/cinema/movie-reviews/.premium-REVIEW-1.10241510",
-            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10242561.1632641717!/image/3533024994.jpg_gen/derivatives/headline_1200x630/3533024994.jpg",
-            "publishedAt": "2021-09-26T07:41:00Z",
-            "content": "' \"\" ,"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Themarker.com"
-            },
-            "author": "גרדיאן",
-            "title": "האם ג'ף בזוס שולח את \"קפטן קירק\" לחלל בגיל 90? - TheMarker",
-            "description": "האתר TMZ דיווח כי השחקן ויליאם שאטנר יישלח בחודש הבא לחלל על ידי חברת בלו אוריג'ין של בזוס, וייהפך בכך לאדם המבוגר ביותר שאי פעם טס לחלל",
-            "url": "https://www.themarker.com/wallstreet/.premium-1.10242474",
-            "urlToImage": "https://www.themarker.com/polopoly_fs/1.10242709.1632645951!/image/389078781.PNG_gen/derivatives/headline_1200x630/389078781.PNG",
-            "publishedAt": "2021-09-26T06:55:00Z",
-            "content": ", . , ' \" \" - 90.\r\nTMZ, ' ' , 15 .\r\n, , ' . -TMZ , \"\".\r\n, ...\r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "מאבק הרופאים המתמחים עולה שלב: מאיימים בהתפטרות המונית - Doctors Only",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiKWh0dHBzOi8vZG9jdG9yc29ubHkuY28uaWwvMjAyMS8wOS8yMzkzNjcv0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-09-26T05:06:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bhol.co.il"
-            },
-            "author": "ישראל לפקוביץ",
-            "title": "מחקר בינלאומי מגלה כי החיסון לשפעת מסייע גם מול הקורונה - בחדרי חרדים",
-            "description": "ממחקר בינלאומי עולה כי חיסון נגד שפעת מפחית את הסיכון להתאשפז בכ-40%. נתון נוסף מציין כי החיסון מגן גם מפני קורונה קשה עבור מי שאינם רשאים להתחסן עדיין, כמו בני 12 ומטה | נמצא קשר סטטיסטי ישיר בין הסיכון לפתח תסמיני קורונה חמורים לבין אי-חיסון נגד שפעת",
-            "url": "https://www.bhol.co.il/news/1277586",
-            "urlToImage": "https://www.bhol.co.il/media/843800/f201022dc10.jpg?anchor=center&mode=crop&width=200&height=200&rnd=132478994500000000",
-            "publishedAt": "2021-09-26T04:56:00Z",
-            "content": ", . ' '.\r\n , , , .\r\n , . -2.5 , -90 . , , : 50 , , 12 .\r\n , -75 , \" , , , . , , . . , , . 15 30, 60 -120 .\r\n , - . -40% , , . , . , 12, .\r\n\" , , : \" , 75 , , -38 . , , - \".\r\n\" : \" (), , . . , , , , '… [+48 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ice.co.il"
-            },
-            "author": "מערכת ice",
-            "title": "מאסק מפרק את החבילה בפעם החמישית, ומה עם הילד? - אייס",
-            "description": "אילון מאסק האיש העשיר בעולם ומי שעומד מאחורי טסלה מפריד כוחות מבת זוגו ואם בנו הצעיר בן השנה וחצי ששמו עמד מאחורי סוגיית רישום האוכלוסין המוזרה בעולם",
-            "url": "http://www.ice.co.il/financial-gossip/news/article/831158",
-            "urlToImage": "https://img.ice.co.il/giflib/news/07ice24062021.jpg",
-            "publishedAt": "2021-09-26T04:51:00Z",
-            "content": "'spaceX . X AE A XII   X Æ A-12, ."
         }
     ]
 }
