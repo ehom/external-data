@@ -575,20 +575,22 @@
             "uri": "nyt://article/e427bee6-719f-5806-936f-b763198a034a",
             "byline": "By Jeannette Catsoulis",
             "item_type": "Article",
-            "updated_date": "2021-09-30T07:00:06-04:00",
-            "created_date": "2021-09-30T07:00:06-04:00",
-            "published_date": "2021-09-30T07:00:06-04:00",
+            "updated_date": "2021-09-30T12:18:13-04:00",
+            "created_date": "2021-09-30T07:00:07-04:00",
+            "published_date": "2021-09-30T07:00:07-04:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
                 "Movies",
-                "Black As Night (Movie)",
+                "Black as Night (Movie)",
                 "Bingo Hell (Movie)"
             ],
-            "org_facet": [],
+            "org_facet": [
+                "Blumhouse Productions"
+            ],
             "per_facet": [
-                "Gigi Saul Guerrero",
-                "Maritte Lee Go"
+                "Go, Maritte Lee",
+                "Guerrero, Gigi Saul"
             ],
             "geo_facet": [],
             "multimedia": [
@@ -654,7 +656,7 @@
             "uri": "nyt://article/0555771e-2d63-5bd0-9820-b3496a00fcea",
             "byline": "By Glenn Kenny",
             "item_type": "Article",
-            "updated_date": "2021-09-30T07:00:07-04:00",
+            "updated_date": "2021-09-30T12:50:38-04:00",
             "created_date": "2021-09-30T07:00:07-04:00",
             "published_date": "2021-09-30T07:00:07-04:00",
             "material_type_facet": "",
@@ -665,7 +667,7 @@
             ],
             "org_facet": [],
             "per_facet": [
-                "James Ashcroft"
+                "Ashcroft, James (1978- )"
             ],
             "geo_facet": [],
             "multimedia": [
@@ -812,22 +814,18 @@
             "uri": "nyt://article/d17a6f1e-eac4-5e19-8e66-7e371a479884",
             "byline": "By Richard Sandomir",
             "item_type": "Article",
-            "updated_date": "2021-09-30T11:29:00-04:00",
-            "created_date": "2021-09-30T11:29:00-04:00",
-            "published_date": "2021-09-30T11:29:00-04:00",
+            "updated_date": "2021-09-30T12:43:02-04:00",
+            "created_date": "2021-09-30T11:29:01-04:00",
+            "published_date": "2021-09-30T11:29:01-04:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
                 "Deaths (Obituaries)",
-                "Autism",
-                "Rain Man (Movie)"
+                "Autism"
             ],
-            "org_facet": [
-                "Autism Society",
-                "Autism Services Center"
-            ],
+            "org_facet": [],
             "per_facet": [
-                "Ruth Sullivan"
+                "Sullivan, Ruth 1924-2021"
             ],
             "geo_facet": [],
             "multimedia": [
@@ -969,30 +967,106 @@
         {
             "section": "movies",
             "subsection": "",
+            "title": "‘Falling for Figaro’ Review: When the Overtures Are Operatic",
+            "abstract": "An American finance executive leaves behind her cushy life in favor of a musical career in this humdrum romance set in the Scottish Highlands.",
+            "url": "https://www.nytimes.com/2021/09/30/movies/falling-for-figaro-review.html",
+            "uri": "nyt://article/ab5c0ced-423b-5122-acef-f8ce12687531",
+            "byline": "By Beatrice Loayza",
+            "item_type": "Article",
+            "updated_date": "2021-09-30T12:53:04-04:00",
+            "created_date": "2021-09-30T07:00:07-04:00",
+            "published_date": "2021-09-30T07:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Falling for Figaro (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Lumley, Joanna",
+                "Macdonald, Danielle (Actor)",
+                "Lewin, Ben"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/09/30/arts/30falling-pix/merlin_195150480_581e3fa2-7b36-451a-859e-d2f1fd697826-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1327,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Joanna Lumley and Danielle Macdonald in “Falling for Figaro,” directed by Ben Lewin.",
+                    "copyright": "IFC Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/09/30/arts/30falling-pix/30falling-pix-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Joanna Lumley and Danielle Macdonald in “Falling for Figaro,” directed by Ben Lewin.",
+                    "copyright": "IFC Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/09/30/arts/30falling-pix/30falling-pix-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Joanna Lumley and Danielle Macdonald in “Falling for Figaro,” directed by Ben Lewin.",
+                    "copyright": "IFC Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/09/30/arts/30falling-pix/30falling-pix-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Joanna Lumley and Danielle Macdonald in “Falling for Figaro,” directed by Ben Lewin.",
+                    "copyright": "IFC Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2021/09/30/arts/30falling-pix/merlin_195150480_581e3fa2-7b36-451a-859e-d2f1fd697826-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 123,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Joanna Lumley and Danielle Macdonald in “Falling for Figaro,” directed by Ben Lewin.",
+                    "copyright": "IFC Films"
+                }
+            ],
+            "short_url": "https://nyti.ms/3uylOXy"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
             "title": "‘The Addams Family 2’ Review: Wednesday Goes West",
             "abstract": "America’s creepiest family takes a road trip in this animated sequel, though their antics are far more kooky than spooky.",
             "url": "https://www.nytimes.com/2021/09/30/movies/the-addams-family-2-review.html",
             "uri": "nyt://article/696cfe43-cf67-56f7-a525-2de5db554698",
             "byline": "By Lena Wilson",
             "item_type": "Article",
-            "updated_date": "2021-09-30T07:00:06-04:00",
+            "updated_date": "2021-09-30T12:10:54-04:00",
             "created_date": "2021-09-30T07:00:06-04:00",
             "published_date": "2021-09-30T07:00:06-04:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
+                "The Addams Family 2 (Movie)",
                 "Movies",
-                "Animated Films",
-                "The Addams Family 2 (Movie)"
+                "Animated Films"
             ],
             "org_facet": [],
             "per_facet": [
-                "Moretz, Chloe Grace",
-                "Hader, Bill",
-                "Theron, Charlize",
-                "Isaac, Oscar",
                 "Tiernan, Greg (Film Director)",
-                "Vernon, Conrad"
+                "Vernon, Conrad",
+                "Brousseau, Laura"
             ],
             "geo_facet": [],
             "multimedia": [
@@ -1003,7 +1077,7 @@
                     "width": 2048,
                     "type": "image",
                     "subtype": "photo",
-                    "caption": "A scene from “The Addams Family 2,” from the directors Greg Tiernan and Conrad Vernon.",
+                    "caption": "A scene from &ldquo;The Addams Family 2,&rdquo; from the directors Greg Tiernan and Conrad Vernon.",
                     "copyright": "Metro Goldwyn Mayer Pictures/Metro Goldwyn Mayer Pictures, via Associated Press"
                 },
                 {
@@ -1013,7 +1087,7 @@
                     "width": 75,
                     "type": "image",
                     "subtype": "photo",
-                    "caption": "A scene from “The Addams Family 2,” from the directors Greg Tiernan and Conrad Vernon.",
+                    "caption": "A scene from &ldquo;The Addams Family 2,&rdquo; from the directors Greg Tiernan and Conrad Vernon.",
                     "copyright": "Metro Goldwyn Mayer Pictures/Metro Goldwyn Mayer Pictures, via Associated Press"
                 },
                 {
@@ -1023,7 +1097,7 @@
                     "width": 150,
                     "type": "image",
                     "subtype": "photo",
-                    "caption": "A scene from “The Addams Family 2,” from the directors Greg Tiernan and Conrad Vernon.",
+                    "caption": "A scene from &ldquo;The Addams Family 2,&rdquo; from the directors Greg Tiernan and Conrad Vernon.",
                     "copyright": "Metro Goldwyn Mayer Pictures/Metro Goldwyn Mayer Pictures, via Associated Press"
                 },
                 {
@@ -1033,7 +1107,7 @@
                     "width": 210,
                     "type": "image",
                     "subtype": "photo",
-                    "caption": "A scene from “The Addams Family 2,” from the directors Greg Tiernan and Conrad Vernon.",
+                    "caption": "A scene from &ldquo;The Addams Family 2,&rdquo; from the directors Greg Tiernan and Conrad Vernon.",
                     "copyright": "Metro Goldwyn Mayer Pictures/Metro Goldwyn Mayer Pictures, via Associated Press"
                 },
                 {
@@ -1043,7 +1117,7 @@
                     "width": 190,
                     "type": "image",
                     "subtype": "photo",
-                    "caption": "A scene from “The Addams Family 2,” from the directors Greg Tiernan and Conrad Vernon.",
+                    "caption": "A scene from &ldquo;The Addams Family 2,&rdquo; from the directors Greg Tiernan and Conrad Vernon.",
                     "copyright": "Metro Goldwyn Mayer Pictures/Metro Goldwyn Mayer Pictures, via Associated Press"
                 }
             ],
@@ -1058,22 +1132,25 @@
             "uri": "nyt://article/90c0be7a-46d5-5a23-a27b-4da8d35dd336",
             "byline": "By Glenn Kenny",
             "item_type": "Article",
-            "updated_date": "2021-09-30T07:00:06-04:00",
+            "updated_date": "2021-09-30T12:25:45-04:00",
             "created_date": "2021-09-30T07:00:06-04:00",
             "published_date": "2021-09-30T07:00:06-04:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
                 "Documentary Films and Programs",
-                "Music"
+                "Music",
+                "Stadiums and Arenas",
+                "Enormous: The Gorge Story (Movie)"
             ],
-            "org_facet": [],
+            "org_facet": [
+                "Gorge Amphitheater (George, Wash)"
+            ],
             "per_facet": [
-                "Nic Davis"
+                "Davis, Nic (Filmmaker)"
             ],
             "geo_facet": [
-                "Washington (State)",
-                "Enormous: The Gorge Story"
+                "Washington (State)"
             ],
             "multimedia": [
                 {
@@ -1128,87 +1205,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/3uoA8BT"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "‘Falling for Figaro’ Review: When the Overtures Are Operatic",
-            "abstract": "An American finance executive leaves behind her cushy life in favor of a musical career in this humdrum romance set in the Scottish Highlands.",
-            "url": "https://www.nytimes.com/2021/09/30/movies/falling-for-figaro-review.html",
-            "uri": "nyt://article/ab5c0ced-423b-5122-acef-f8ce12687531",
-            "byline": "By Beatrice Loayza",
-            "item_type": "Article",
-            "updated_date": "2021-09-30T07:00:06-04:00",
-            "created_date": "2021-09-30T07:00:06-04:00",
-            "published_date": "2021-09-30T07:00:06-04:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "Falling for Figaro (Movie)"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Ben Lewin",
-                "Lumley, Joanna",
-                "Danielle Macdonald"
-            ],
-            "geo_facet": [
-                "Scotland"
-            ],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2021/09/30/arts/30falling-pix/merlin_195150480_581e3fa2-7b36-451a-859e-d2f1fd697826-superJumbo.jpg",
-                    "format": "superJumbo",
-                    "height": 1327,
-                    "width": 2048,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "From left, Joanna Lumley and Danielle Macdonald in “Falling for Figaro,” directed by Ben Lewin.",
-                    "copyright": "IFC Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2021/09/30/arts/30falling-pix/30falling-pix-thumbStandard.jpg",
-                    "format": "Standard Thumbnail",
-                    "height": 75,
-                    "width": 75,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "From left, Joanna Lumley and Danielle Macdonald in “Falling for Figaro,” directed by Ben Lewin.",
-                    "copyright": "IFC Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2021/09/30/arts/30falling-pix/30falling-pix-thumbLarge.jpg",
-                    "format": "thumbLarge",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "From left, Joanna Lumley and Danielle Macdonald in “Falling for Figaro,” directed by Ben Lewin.",
-                    "copyright": "IFC Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2021/09/30/arts/30falling-pix/30falling-pix-mediumThreeByTwo210.jpg",
-                    "format": "mediumThreeByTwo210",
-                    "height": 140,
-                    "width": 210,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "From left, Joanna Lumley and Danielle Macdonald in “Falling for Figaro,” directed by Ben Lewin.",
-                    "copyright": "IFC Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2021/09/30/arts/30falling-pix/merlin_195150480_581e3fa2-7b36-451a-859e-d2f1fd697826-articleInline.jpg",
-                    "format": "Normal",
-                    "height": 123,
-                    "width": 190,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "From left, Joanna Lumley and Danielle Macdonald in “Falling for Figaro,” directed by Ben Lewin.",
-                    "copyright": "IFC Films"
-                }
-            ],
-            "short_url": "https://nyti.ms/3uylOXy"
         },
         {
             "section": "movies",
