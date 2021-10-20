@@ -4,68 +4,250 @@
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tierney Sneed, CNN",
+            "title": "Hurry up and wait: Trump's best legal shot at blocking the release of his January 6 docs - CNN",
+            "description": "The next few weeks will be pivotal if former President Donald Trump is hoping to bury the House's request for January 6 documents in years of litigation.",
+            "url": "https://www.cnn.com/2021/10/20/politics/trump-national-archives-lawsuit-strategy/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211019203409-donald-trump-1018-restricted-super-tease.jpg",
+            "publishedAt": "2021-10-20T10:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "New York Times"
+                "name": "Fox Business"
             },
-            "author": "Alan Rappeport, Jonathan Weisman",
-            "title": "Democrats to Scale Back Proposal for Banks to Report Account Balances to IRS - The New York Times",
-            "description": "Banks would have to provide data on accounts with annual deposits or withdrawals exceeding $10,000, not including payroll and beneficiary deposits, rather than $600.",
-            "url": "https://www.nytimes.com/2021/10/19/us/politics/irs-bank-account-reporting-requirement.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/10/20/business/19dc-irs-print/merlin_191142288_af538573-eb86-41d6-aa66-e81007dfa8da-facebookJumbo.jpg",
-            "publishedAt": "2021-10-19T22:16:30Z",
-            "content": "In a letter to House Democrats last month, Ms. Yellen urged lawmakers not to water down the information-reporting proposal. Originally, that part of the plan was projected to raise $460 billion over … [+1418 chars]"
+            "author": "Associated Press",
+            "title": "US stocks flat ahead of additional third-quarter earnings reports Wednesday - Fox Business",
+            "description": "U.S. stocks were flat early Wednesday morning as earnings reports continued to exceed estimates.",
+            "url": "https://www.foxbusiness.com/markets/us-stocks-flat-ahead-of-additional-third-quarter-earnings-reports-wednesday",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2017/11/0/0/7725b30c-nyse-trader-investing2.jpg?ve=1&tl=1",
+            "publishedAt": "2021-10-20T08:13:50Z",
+            "content": "U.S. stocks\r\n were flat early Wednesday morning as earnings\r\n reports continued to exceed estimates. \r\nStocks in this Article\r\nTwo Dow members – Verizon and IBM – will post their third quarter earnin… [+3076 chars]"
         },
         {
             "source": {
-                "id": "politico",
-                "name": "Politico"
+                "id": "engadget",
+                "name": "Engadget"
             },
-            "author": "Claire Rafford",
-            "title": "DHS Secretary Alejandro Mayorkas tests positive for Covid - POLITICO",
-            "description": "A Homeland Security spokesperson said the secretary was fully vaccinated and experiencing “only mild congestion.”",
-            "url": "https://www.politico.com/news/2021/10/19/secretary-mayorkas-tests-positive-for-covid-19-516253",
-            "urlToImage": "https://static.politico.com/43/5f/aac1b99f4763a0210d27f6b37f73/21101019-mayorkas-ap-773.jpg",
-            "publishedAt": "2021-10-19T22:11:00Z",
-            "content": "Neither Biden nor any principal officials have been found to be a close contact of Mayorkas, the White House said Tuesday. The most recent contact took place at an outdoor event outside of the 48-hou… [+464 chars]"
+            "author": "https://www.engadget.com/about/editors/steve-dent",
+            "title": "Netflix co-CEO says he 'screwed up' communication over Dave Chappelle special | Engadget - Engadget",
+            "description": "Netflix co-CEO Ted Sarandos has said he \"screwed up\" communication with employees following a backlash over Dave Chappelle's 'The Closer.'.",
+            "url": "https://www.engadget.com/netflix-ceo-says-he-screwed-up-internal-communication-over-dave-chappelle-special-080412118.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-10/13476990-3173-11ec-af4f-56e641bd9a60",
+            "publishedAt": "2021-10-20T08:06:25Z",
+            "content": "Netflix co-CEO Ted Sarandos has said he \"screwed up\" communication with employees following a backlash over Dave Chappelle's The Closer, according to Variety. At the same time, he stood by the show, … [+2642 chars]"
         },
         {
             "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Dartunorro Clark, Andrew Blankstein",
-            "title": "GOP Rep. Jeff Fortenberry charged with lying to FBI about campaign contributions - NBC News",
-            "description": "A federal grand jury in Los Angelos indicted Rep. Jeff Fortenberry, R-Neb., on Tuesday for lying to the FBI about campaign contributions funneled to him from a Lebanese-Nigerian billionaire.",
-            "url": "https://www.nbcnews.com/politics/politics-news/gop-rep-jeff-fortenberry-charged-lying-fbi-about-campaign-contributions-n1281927",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_42/3513700/211019-jeff-fortenberry-ew-500p.jpg",
-            "publishedAt": "2021-10-19T21:32:00Z",
-            "content": "Rep. Jeff Fortenberry, R-Neb., was charged on Tuesday with lying to the FBI about contributions to his 2016 re-election campaign to him from a Lebanese-Nigerian billionaire.\r\nA federal grand jury in … [+2002 chars]"
+            "author": "Albert Aji",
+            "title": "Bombing hits military bus in Syrian capital, killing 14 - Associated Press",
+            "description": "DAMASCUS, Syria (AP) — Two roadside bombs exploded near a bus carrying troops during the morning rush hour in the Syrian capital early Wednesday, killing 14 people and wounding others, state TV reported.",
+            "url": "https://apnews.com/article/middle-east-syria-damascus-43594621126f2ad204cd694165559bb8",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/975e19115a1a4e98829deddc99d1b9f1/3000.jpeg",
+            "publishedAt": "2021-10-20T07:52:30Z",
+            "content": "DAMASCUS, Syria (AP) Two roadside bombs exploded near a bus carrying troops during the morning rush hour in the Syrian capital early Wednesday, killing 14 people and wounding others, state TV reporte… [+1563 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Sherry Liang, CNN",
-            "title": "October night skies bring full moon and meteor shower - CNN",
-            "description": "This week's celestial forecast contains a full hunter's moon from October 19 to October 20 and the Orionid meteor shower on October 21. But the moon may obscure visibility of the meteor shower.",
-            "url": "https://www.cnn.com/2021/10/19/world/full-moon-october-orionid-meteor-shower-scn/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018143024-hunters-moon-2020-super-tease.jpg",
-            "publishedAt": "2021-10-19T21:21:00Z",
-            "content": "(CNN)October's full moon, the hunter's moon, and the Orionid meteor shower are on this week's celestial forecast, but you might only be able to catch one of them.\r\nThe hunter's moon will be fullest a… [+3058 chars]"
+            "author": "Aya Elamroussi, CNN",
+            "title": "California is under a statewide drought emergency as it sees its driest year in nearly a century - CNN",
+            "description": "After California saw its driest year on record in nearly 100 years, the entire state is now under a drought emergency, officials said Tuesday.",
+            "url": "https://www.cnn.com/2021/10/20/weather/california-drought-emergency-expanded/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211019233101-01-california-drought-emergency-super-tease.jpg",
+            "publishedAt": "2021-10-20T07:41:00Z",
+            "content": "(CNN)After California saw its driest year on record in nearly 100 years, the entire state is now under a drought emergency, officials said Tuesday.\r\nCalifornia Gov. Gavin Newsom issued a statewide dr… [+4298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "UK doctors call for urgent return of Covid restrictions as experts monitor new mutation - CNBC",
+            "description": "U.K. medical professionals have issued an urgent plea to the British government to reimpose Covid restrictions just as experts watch a virus mutation closely.",
+            "url": "https://www.cnbc.com/2021/10/20/uk-doctors-call-for-return-of-covid-restrictions-new-mutation-watched.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106962972-1634710705822-gettyimages-1231994594-AFP_96V9JW.jpeg?v=1634710746",
+            "publishedAt": "2021-10-20T07:28:52Z",
+            "content": "Firefighter Dan Joslin wearing a face shield helps prone a Covid-19 patient as he works alongside critical care nurses in the Intensive Care Unit at Queen Alexandra Hospital in Portsmouth, southern E… [+7191 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": null,
+            "title": "Google Tensor explained: Why the Pixel 6 has a custom chip, specs, and what it does - 9to5Google",
+            "description": "In teasing the Pixel 6, Google very much framed the preview around its first custom-built System on a Chip (SoC). The Google Tensor chip...",
+            "url": "https://9to5google.com/2021/10/20/google-tensor-chip/",
+            "urlToImage": "https://i1.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/10/google-tensor-cover-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-10-20T07:00:00Z",
+            "content": "In teasing the Pixel 6 at the start of August, Google very much framed the preview around its first custom-built System on a Chip (SoC). At the Pixel Fall Event today, Google fully detailed Tensor an… [+6563 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Stefano Pozzebon and Isa Soares, CNN",
+            "title": "Brazilian senators abandon call for homicide charges against President Bolsonaro - CNN",
+            "description": "Brazilian senators investigating President Jair Bolsonaro's handling of the pandemic decided late on Tuesday to withdraw recommendations for charges of mass homicide and genocide against him, CNN affiliate CNN Brasil reported.",
+            "url": "https://www.cnn.com/2021/10/20/americas/brazil-bolsonaro-covid-19-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211020021423-jair-bolsonaro-1019-super-tease.jpg",
+            "publishedAt": "2021-10-20T06:52:00Z",
+            "content": "(CNN)Brazilian senators investigating President Jair Bolsonaro's handling of the pandemic decided late on Tuesday to withdraw recommendations for charges of mass homicide and genocide against him, CN… [+2180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Joon Lee",
+            "title": "Nathan Eovaldi, Boston Red Sox take issue with pivotal ball-strike call in loss to Houston Astros - ESPN",
+            "description": "Nathan Eovaldi and the Red Sox took issue with a ninth-inning ball-strike call that allowed the Astros to go on a run and win Game 4 of the ALCS on Tuesday night.",
+            "url": "https://www.espn.com/mlb/story/_/id/32434976/nathan-eovaldi-boston-red-sox-take-issue-pivotal-ball-strike-call-loss-houston-astros",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1020%2Fr925590_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-10-20T06:14:37Z",
+            "content": "BOSTON -- Red Sox pitcher Nathan Eovaldi took two steps toward the dugout when his 1-2 curveball against Houston Astros catcher Jason Castro landed in the glove of catcher Christian Vazquez close to … [+3391 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Japanese volcano spews plumes of ash, people warned away - Reuters",
+            "description": "A volcano erupted in Japan on Wednesday, blasting ash several miles into the sky and prompting officials to warn against the threat of lava flows and falling rocks, but there were no immediate reports of casualties or damage.",
+            "url": "https://www.reuters.com/world/asia-pacific/japans-mount-aso-erupts-alert-level-raised-2021-10-20/",
+            "urlToImage": "https://www.reuters.com/resizer/hLEJ6C3dRsMKt2ynwdrGb-C3DFQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LYRSXQDKLZNSLO5EZYVC27IVHQ.jpg",
+            "publishedAt": "2021-10-20T06:08:00Z",
+            "content": "TOKYO, Oct 20 (Reuters) - A volcano erupted in Japan on Wednesday, blasting ash several miles into the sky and prompting officials to warn against the threat of lava flows and falling rocks, but ther… [+1278 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ivana Kottasová, CNN\nVideo and Photos by Temujin Doran, CNN\nDesign by Carlotta Dotto, CNN",
+            "title": "The world is banking on giant carbon-sucking fans to clean our climate mess. It's a big risk. - CNN",
+            "description": null,
+            "url": "https://www.cnn.com/2021/10/20/world/carbon-capture-storage-climate-iceland-intl-cmd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211018110821-01-carbfix-climeworks-iceland-carbon-storage-super-tease.jpg",
+            "publishedAt": "2021-10-20T06:06:00Z",
+            "content": "About 800,000 years ago\r\n700,000 years ago\r\n600,000 years ago\r\n500,000 years ago\r\n400,000 years ago\r\n300,000 years ago\r\n200,000 years ago\r\n100,000 years ago\r\nSecond Industrial Revolution (1870)\r\nCO l… [+784 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "George Back",
+            "title": "'Bachelorette' contestant sent home after his creepy pre-planned playbook is exposed - Yahoo Entertainment",
+            "description": "Season 18 of \"The Bachelorette\" premiered Monday, featuring Michelle Young as the woman searching for Mr. Right.",
+            "url": "https://www.yahoo.com/entertainment/bachelorette-contestant-sent-home-after-his-creepy-pre-planned-playbook-is-exposed-055102253.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_miwzL5n8bNKa5KvgaENsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2021-10/1658a990-3165-11ec-99bf-19e2dad23d1b",
+            "publishedAt": "2021-10-20T05:54:29Z",
+            "content": "Season 18 of The Bachelorette\r\n premiered Monday, featuring Michelle Young as the woman searching for Mr. Right. While Young was introduced to several promising suitors, the sleuthing skills of forme… [+1789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Weizhen Tan",
+            "title": "Panic ordering by retailers is making the supply chain crisis 'even worse' - CNBC",
+            "description": "Retailers and manufacturers are overordering or placing orders too early as they panic over the supply chain crisis, and that's not helping, experts told CNBC.",
+            "url": "https://www.cnbc.com/2021/10/20/retailers-manufacturers-over-ordering-amid-supply-chain-crisis.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106960321-1634221848960-106960321-1634213223362-gettyimages-1235870294-PORT_OF_LA.jpg?v=1634621266",
+            "publishedAt": "2021-10-20T05:36:46Z",
+            "content": "Shipping containers in the Port of Los Angeles in Los Angeles, California, U.S., on Wednesday, Oct. 13, 2021.\r\nRetailers and manufacturers are overordering or placing orders too early amid panic over… [+2637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SFGate"
+            },
+            "author": "Alex Shultz",
+            "title": "Warriors' Steph Curry has awful shooting night vs. Lakers, but still pulls off ultra-rare feat - SF Gate",
+            "description": "'I played like trash,' Curry said afterward. But he still achieved a big-time statline.",
+            "url": "https://www.sfgate.com/warriors/article/Warriors-Steph-Curry-has-unusual-night-vs-lakers-16547393.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/22/32/43/21604561/3/rawImage.jpg",
+            "publishedAt": "2021-10-20T05:01:30Z",
+            "content": "Steph Curry couldn't buy a shot during the Golden State Warriors' season opener against the Los Angeles Lakers.\"I played like trash,\" Curry told TNT afterward.He said it, not me. But he's not wrong, … [+1195 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brie Stimson",
+            "title": "Pig kidney transplant successfully tested on deceased woman - Fox News",
+            "description": "A pig kidney was successfully tested on a dead patient last month for the first time without being immediately rejected.",
+            "url": "https://www.foxnews.com/science/pig-kidney-transplant-successfully-tested-on-deceased-woman",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/AP21291621651363.jpg",
+            "publishedAt": "2021-10-20T04:35:42Z",
+            "content": "A pig kidney was successfully tested on a dead patient at a hospital in New York last month for the first time without being immediately rejected. \r\nWhile pig organs are similar to human ones, a suga… [+3373 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foxtv.com"
+            },
+            "author": "FOX TV Digital Team",
+            "title": "Brian Laundrie lookalike has hotel door kicked in by US Marshals, deputies in arrest attempt - FOX 5 Atlanta",
+            "description": "“I said, ‘You might want to change your appearance for a while or this will continue to happen where you go,’” Graham County Sherrif Jerry Crisp told Severin Beckwith, the Brian Laundrie doppelgänger.",
+            "url": "https://www.foxtv.com/news/brian-laundrie-lookalike-has-hotel-door-kicked-in-by-us-marshals-deputies-in-arrest-attempt",
+            "urlToImage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2021/10/1280/720/Brian-Laundrie-lookalike.jpg?ve=1&tl=1",
+            "publishedAt": "2021-10-20T04:34:56Z",
+            "content": "FONTANA DAM, N.C. - A man visiting a resort off the Appalachian Trail in North Carolina got his hotel door kicked in by U.S. Marshals and sheriff’s deputies after being mistaken for Brian Laundrie wh… [+6320 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Bill Plaschke",
+            "title": "Dodgers' Game 3 win shows why they'll beat Braves in NLCS - Los Angeles Times",
+            "description": "The Dodgers' season was on the verge of annihilation until Cody Bellinger and Mookie Betts delivered one of the greatest comebacks in franchise history.",
+            "url": "https://www.latimes.com/sports/dodgers/story/2021-10-19/dodgers-defeat-atlanta-braves-great-comeback-nlds-game-3-mlb",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/4c068ba/2147483647/strip/true/crop/3157x1657+1+143/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2Fe2%2F2b1fe9b34ef184f3a49647e2e21e%2Fla-photos-1staff-857262-sp-1019-dodgers-nlcs-rcg-142.JPG",
+            "publishedAt": "2021-10-20T04:19:00Z",
+            "content": "It was over.\r\nThe game, the series, the season, it was over.\r\nThe Dodgers trailed by three runs that felt like 30, they were down to their final five outs, the Atlanta Braves were on the verge of a t… [+6113 chars]"
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Loren Grush",
-            "title": "How corrosive valves may have delayed the launch of Boeing’s Starliner - The Verge",
-            "description": "Boeing is continuing to hone in on the issue that prevented its Starliner spacecraft from launching on schedule this August. The company thinks that a mixture of humidity and corrosion is to blame.",
-            "url": "https://www.theverge.com/2021/10/19/22735198/boeing-starliner-nasa-sticky-valves-oxidizer-corrosion-launch-delay",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/KC55nRTp8JqO8kQfEquJWg2bJvQ=/0x8:4459x2343/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22940048/1234402998.jpg",
-            "publishedAt": "2021-10-19T21:09:44Z",
-            "content": "The company is still working on the issue\r\nBoeings Starliner seen rolling out to its launchpad, ahead of the August delay\r\nPhoto by /NASA via Getty Images\r\nBoeing says it is narrowing down the source… [+5275 chars]"
+            "author": "Sam Byford",
+            "title": "Oppo reportedly developing own chips for flagship phones - The Verge",
+            "description": "Oppo is reportedly planning to develop its own smartphone chips, like Google has done with the new Pixel 6. The move could have a major impact on Qualcomm and MediaTek, who dominate the chip market for Chinese phone makers.",
+            "url": "https://www.theverge.com/2021/10/20/22735935/oppo-own-chip-development-google-tensor-qualcomm",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/tI05RX6dZT9U_KZZfdAQteTiPdw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22480716/DSCF7705.jpg",
+            "publishedAt": "2021-10-20T04:02:01Z",
+            "content": "Could OnePlus ditch Qualcomm too?\r\nOppos current Find X3 Pro flagship phone.\r\nPhoto by Sam Byford / The Verge\r\nOppo is developing its own high-end chips for flagship mobile phones, according to a rep… [+1321 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Mike Murphy",
+            "title": "Facebook plans to soon rebrand with a new name: report - MarketWatch",
+            "description": "New name expected next week, expected to tie in ‘metaverse’",
+            "url": "https://www.marketwatch.com/story/facebook-plans-to-soon-rebrand-with-a-new-name-report-11634701715",
+            "urlToImage": "https://images.mktw.net/im-411651/social",
+            "publishedAt": "2021-10-20T03:48:00Z",
+            "content": "Facebook Inc. may soon have a new name.The Verge reported Tuesday night that Facebook \r\n FB,\r\n +1.39%\r\nplans to change its company name next week, in order to align its brand name more toward the met… [+1242 chars]"
         },
         {
             "source": {
@@ -73,194 +255,12 @@
                 "name": "9to5Mac"
             },
             "author": null,
-            "title": "From Tensor to Live HDR+ Video, Google’s Pixel 6 Pro is going & taking after the iPhone 13 Pro - 9to5Mac",
-            "description": "Compared to previous generations, Google is going after Apple (and Samsung) much more aggressively with the Pixel 6 and Pixel 6 Pro...",
-            "url": "https://9to5mac.com/2021/10/19/google-pixel-6-pro/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/pixel_6_pro_8.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2021-10-19T21:00:00Z",
-            "content": "Compared to previous generations, Google is going after Apple (and Samsung) much more aggressively with the Pixel 6 and Pixel 6 Pro. Google this morning fully detailed the Pixel 6 and Pixel 6 after t… [+4403 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Sami Fathi",
-            "title": "How the Mouse Pointer Deals with the Notch on the MacBook Pro - MacRumors",
-            "description": "The new 14-inch and 16-inch MacBook Pros both feature a notch, a first for the Mac. Given we've never had a notch on a Mac, there are some...",
-            "url": "https://www.macrumors.com/2021/10/19/macbook-pro-mouse-pointer-and-notch/",
-            "urlToImage": "https://images.macrumors.com/t/JrIVLu5FLZjoy1pnisy1Yf8nfG4=/2500x/https://images.macrumors.com/article-new/2021/10/macbook-pro-2021-notch-feature2.jpg",
-            "publishedAt": "2021-10-19T20:57:19Z",
-            "content": "The new 14-inch and 16-inch MacBook Pros both feature a notch, a first for the Mac. Given we've never had a notch on a Mac, there are some questions over how macOS handles the notch, and more specifi… [+1388 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Daniel Canova",
-            "title": "76ers boot Ben Simmons out of practice, Joel Embiid takes shot at teammate: 'I don’t care about that man' - Fox News",
-            "description": "Ben Simmons and the Philadelphia 76ers aren’t off to a great start.",
-            "url": "https://www.foxnews.com/sports/76ers-boot-ben-simmons-out-practice-joel-embiid-shot-teammate-dont-care-about-man",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/AP21291623205806.jpg",
-            "publishedAt": "2021-10-19T20:52:19Z",
-            "content": "Ben Simmons and the Philadelphia 76ers arent off to a great start.\r\nThe team suspended Simmons for one game and he will miss the season opener on Wednesday night against the New Orleans Pelicans afte… [+2383 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Bill Chappell",
-            "title": "A drone company is working to airlift dogs stranded by the volcano in La Palma - NPR",
-            "description": "The company, Aerocamaras, has received permits it needs to try a unique rescue, in which a drone will drop a net on each dog, so it can whisk it over lava and to safety.",
-            "url": "https://www.npr.org/2021/10/19/1047360268/drone-rescue-dogs-volcano-la-palma-spain",
-            "urlToImage": "https://media.npr.org/assets/img/2021/10/19/2021-10-19t140703z_2_lynxmpeh9i0te_rtroptp_4_spain-volcano-drone-dogs_wide-6a5671c2c7f4c0159911f273ff411335ab74706b.jpg?s=1400",
-            "publishedAt": "2021-10-19T20:40:01Z",
-            "content": "A dog lies on the ash-covered earth surrounded by volcanic lava following an eruption of the Cumbre Vieja volcano, in the area of Todoque on the Canary Island of La Palma, Spain in this undated scree… [+2530 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "Alaina Getzenberg",
-            "title": "Buffalo Bills say TE Dawson Knox fractured hand in loss to Tennessee Titans - ESPN",
-            "description": "Bills tight end Dawson Knox suffered a broken hand in Monday night's loss to the Titans, per coach Sean McDermott.",
-            "url": "https://www.espn.com/nfl/story/_/id/32431810/buffalo-bills-say-te-dawson-knox-fractured-hand-loss-tennessee-titans",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1019%2Fr925327_1296x729_16%2D9.jpg",
-            "publishedAt": "2021-10-19T20:21:30Z",
-            "content": "BUFFALO, N.Y. -- Bills tight end Dawson Knox suffered a fracture in his right hand during the team's 34-31 loss to the Tennessee Titans on Monday night, per coach Sean McDermott.\r\n\"Don't know much mo… [+1784 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Jack Nicas",
-            "title": "Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide - The New York Times",
-            "description": "A long-awaited report from a panel of Brazilian senators concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity.",
-            "url": "https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/10/19/world/19brazil/19brazil-facebookJumbo.jpg",
-            "publishedAt": "2021-10-19T20:21:18Z",
-            "content": "The committee was scheduled to release the report on Wednesday and then vote on it a week later. The group of seven opposition senators generally agree on the report, Mr. Calheiros said, suggesting t… [+1906 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CoinDesk"
-            },
-            "author": "Bradley Keoun",
-            "title": "First Bitcoin Futures ETF 'BITO' Tops $1B Trading Volume on First Day - CoinDesk",
-            "description": "The fund’s price rose to $41.94 at the close, up 4.9% from the initial $40 net asset value.",
-            "url": "https://www.coindesk.com/markets/2021/10/19/first-bitcoin-futures-etf-bito-nears-1b-trading-volume-on-first-day/",
-            "urlToImage": "https://www.coindesk.com/resizer/69TlqPspMEQpwyrBr-cstOh1m7U=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MCJE3JFNR5EBBEEVWVGDEXHG6E.jpg",
-            "publishedAt": "2021-10-19T20:16:00Z",
-            "content": "Jeff Dorman, chief investment officer of Arca Funds, wrote in a newsletter Tuesday that this was a long, arduous road for many, and becomes yet another indication that digital assets are crossing int… [+12 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Oliver Darcy, CNN Business",
-            "title": "CNN's John King discloses he is immunocompromised - CNN",
-            "description": "CNN anchor and Chief National Correspondent John King told viewers on Tuesday that he has multiple sclerosis and is immunocompromised.",
-            "url": "https://www.cnn.com/2021/10/19/media/john-king-multiple-sclerosis/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211019134946-john-king-super-tease.jpg",
-            "publishedAt": "2021-10-19T19:48:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Tyler Kingkade and Antonia Hylton",
-            "title": "Oklahoma's anti-critical race theory law violates free speech rights, ACLU suit says - Yahoo News",
-            "description": "The ACLU federal lawsuit in Oklahoma is the first to challenge a state law implemented to prevent the teaching of critical race theory.",
-            "url": "https://news.yahoo.com/oklahomas-anti-critical-race-theory-194607631.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/WCwvkfia2uVR8DJ5PHXyhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/1ZDSmXejo4EWLpMpcSsLsQ--~B/aD0xNDA2O3c9MjUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/nbc_news_122/96882f8c672140102f21fce14d6a4fe3",
-            "publishedAt": "2021-10-19T19:46:07Z",
-            "content": "OKLAHOMA CITY A coalition of civil rights groups sued the state of Oklahoma on Tuesday over a law limiting instruction about race and gender in public schools. It is the first federal lawsuit to chal… [+6348 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Andrew Miller",
-            "title": "Psaki denies transporting illegal immigrants at 2:30 am is 'middle of the night,' calls it 'early flight' - Fox News",
-            "description": "White House press secretary Jen Psaki claimed that unaccompanied illegal immigrant children being flown from the southern border to suburban New York at 2:30 a.m. were not being flown \"in the middle of the night.\"",
-            "url": "https://www.foxnews.com/politics/psaki-denies-transporting-migrants-at-230-am-is-middle-of-the-night-calls-it-early-flight",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/101521immigrants40CS.jpeg",
-            "publishedAt": "2021-10-19T19:44:51Z",
-            "content": "White House press secretary Jen Psaki claimed that unaccompanied illegal immigrant\r\n children being flown from the southern border to suburban New York\r\n at 2:30 a.m. were not being flown \"in the mid… [+2573 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Tom Winter, Michael Kosnar, Laura Strickler, Jonathan Dienst, Keir Simmons",
-            "title": "FBI agents swarm Washington home of Russian oligarch Oleg Deripaska - NBC News",
-            "description": "FBI agents swarmed the home of Russian oligarch Oleg Deripaska in Washington, D.C., on Tuesday, an agency spokesperson confirmed to NBC News.",
-            "url": "https://www.nbcnews.com/politics/justice-department/fbi-agents-swarm-d-c-home-russian-oligarch-oleg-deripaska-n1281844",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_42/3513564/211019-oleg-deripaska-jm-1109.jpg",
-            "publishedAt": "2021-10-19T19:28:00Z",
-            "content": "FBI agents on Tuesday swarmed the home of Russian oligarch Oleg Deripaska in Washington, D.C., an agency spokesperson confirmed to NBC News.\r\nThe reason for their presence wasnt immediately clear. Th… [+2008 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.https"
-            },
-            "author": "New York Post",
-            "title": "Travis Barker proposed to Kourtney Kardashian with engagement ring estimated at $1M valuation - Fox News",
-            "description": "Travis Barker proposed to the Poosh founder during a romantic beach dinner date on Sunday, popping the question with an enormous diamond ring.",
-            "url": "https://www.https://pagesix.com/2021/10/18/details-on-kourtney-kardashians-engagement-ring-from-travis-barker/",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Kourtney-Kardashian-Travis-Barber-UFC-2021-Getty.jpg",
-            "publishedAt": "2021-10-19T19:10:41Z",
-            "content": "Kourtney Kardashians left finger is certainly the most interesting to look at.\r\nTravis Barker proposed to the Poosh founder during a romantic beach dinner date on Sunday, popping the question with an… [+2710 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Joe Hernandez",
-            "title": "Labor and supply shortages prompt Zillow to stop buying homes through 2021 - NPR",
-            "description": "Supply and labor shortages, and a backlog of work already underway, are to blame, the company says. But it will complete purchases that are already under contract in its program to flip properties.",
-            "url": "https://www.npr.org/2021/10/19/1047314489/zillow-stops-buying-homes-renovating-program",
-            "urlToImage": "https://media.npr.org/assets/img/2021/10/19/gettyimages-1227409001_wide-85960ce89ceeb4a6fcb47e888a5cc39f649bb46b.jpg?s=1400",
-            "publishedAt": "2021-10-19T19:03:22Z",
-            "content": "A construction worker works on the roof of an apartment home in May 2020 in Uniondale, N.Y.\r\nAl Bello/Getty Images\r\nThe real estate website Zillow announced it would stop buying and renovating homes … [+2327 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Super Smash Bros. Ultimate - 11 Minutes of Sora Gameplay - IGN",
-            "description": "Sora from Kingdom Hearts is finally here! Check out 11 minutes of Sora in Smash Bros. played in online quickplay.#IGN #Sora #SuperSmashBrosUltimate",
-            "url": "https://www.youtube.com/watch?v=uive9oONlJQ",
-            "urlToImage": "https://i.ytimg.com/vi/uive9oONlJQ/maxresdefault.jpg",
-            "publishedAt": "2021-10-19T18:57:23Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Thomas Franck",
-            "title": "Biden's pick to run a key bank regulator runs into Democratic resistance in the Senate - CNBC",
-            "description": "Senate Democrats are fractured over whether to support Saule Omarova, Biden's indicated choice to lead the Office of the Comptroller of the Currency.",
-            "url": "https://www.cnbc.com/2021/10/19/biden-pick-to-run-bank-regulator-faces-democratic-resistance-in-senate.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106961947-1634570928274-senate-banking.jpg?v=1634571032",
-            "publishedAt": "2021-10-19T18:29:34Z",
-            "content": "President Joe Biden's pick to run one of Washington's most important banking industry regulators might not have enough support for confirmation in the Senate.\r\nSenate Democrats are fractured over whe… [+5937 chars]"
+            "title": "MacBook Pro price too high? There are worse ways to give Apple $2,000 - 9to5Mac",
+            "description": "I might’ve overlooked one meme that’s already defining the new MacBook Pro for some. The starting price of $1,999 for the base model 14-inch is a cause for refrain from some would-be buyers. I won’t argue for a moment that two grand isn’t a lot of money, but …",
+            "url": "https://9to5mac.com/2021/10/19/macbook-air-vs-macbook-pro/",
+            "urlToImage": "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Screen-Shot-2021-10-18-at-1.47.12-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-10-20T03:00:00Z",
+            "content": "I might’ve overlooked one meme that’s already defining the new MacBook Pro for some. \r\nThe starting price of $1,999 for the base model 14-inch is a cause for refrain from some would-be buyers. I won’… [+1743 chars]"
         }
     ]
 }
