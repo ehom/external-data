@@ -4,146 +4,68 @@
     "articles": [
         {
             "source": {
-                "id": "lenta",
-                "name": "Lenta"
-            },
-            "author": null,
-            "title": "Умер сыгравший Мориарти в советском «Шерлоке Холмсе» актер Виктор Евграфов - Lenta.ru",
-            "description": "Умер советский и российский актер театра и кино, каскадер Виктор Евграфов, который сыграл Мориарти в советском Шерлоке. По предварительным данным, причиной смерти стал оторвавшийся тромб. Евграфову было 73 года. Известно, что артиста похоронят на родине в Сам…",
-            "url": "https://lenta.ru/news/2021/10/20/evgrafov/",
-            "urlToImage": "https://icdn.lenta.ru/images/2021/10/20/13/20211020130817940/share_90ef149775944d36765e6847f675bd1d.jpg",
-            "publishedAt": "2021-10-20T10:09:00Z",
-            "content": ", , «». Telegram- Mash.\r\n , . 73 . , « ».\r\n 10 1948 ( ). 1976 , . 1980 « » « » « ». .\r\n , 32 . 1994- « »."
-        },
-        {
-            "source": {
-                "id": "lenta",
-                "name": "Lenta"
-            },
-            "author": null,
-            "title": "Дерипаска объяснил обыск в домах своей семьи в США «запредельной тупостью» - Lenta.ru",
-            "description": "Российский бизнесмен Олег Дерипаска прокомментировал прошедшие 19 октября обыски в домах в США, принадлежащих его родственникам. В своем Telegram-канале он объяснил происходящее «запредельной тупостью части американского истеблишмента», которое продолжает кор…",
-            "url": "https://lenta.ru/news/2021/10/20/tak_ih/",
-            "urlToImage": "https://icdn.lenta.ru/images/2021/10/20/12/20211020123950565/share_1145f6b76f68cd7c9a9cc36783325018.jpg",
-            "publishedAt": "2021-10-20T09:57:00Z",
-            "content": ", 19 , , . Telegram- « ».\r\n , - « 2016 », « ». , « ( ) », .\r\n« : *** () ? , *** () », .\r\n, 30 , , , « ». « », « , ».\r\n , « », , « » « ».\r\n , , , . , , ."
-        },
-        {
-            "source": {
-                "id": "rbc",
-                "name": "RBC"
-            },
-            "author": null,
-            "title": "Сенаторы США потребовали от Facebook прекратить разработку кошелька Novi - РБК",
-            "description": "19 октября Facebook сообщила о запуске пилотного тестирования собственного криптокошелька. В качестве кастодиального партнера компания выбрала первую публичную криптобиржу Coinbase",
-            "url": "https://www.rbc.ru/crypto/news/616fd8319a7947359bd847e6",
-            "urlToImage": "https://s.rbk.ru/v2_crypto_static/current/images/social-icon-v1.png",
-            "publishedAt": "2021-10-20T09:23:22Z",
-            "content": "« » Facebook Novi Diem. , , , , ,  Facebook , .\r\n , , . , Facebook , Diem .\r\n19 Facebook Novi. Coinbase.\r\n Diem Association, , . , Novi . , (FinCEN) Diem, .\r\nFacebook 2020 , - . Facebook , Libra Diem… [+61 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.e1.ru"
-            },
-            "author": null,
-            "title": "Совещание Путина о нерабочих днях: онлайн-трансляция 20 октября 2021 года | e1.ru - новости Екатеринбурга - Новости Екатеринбурга – e1.ru",
-            "description": "В случае принятия решения отдыхать будем с 1 ноября (некоторые регионы — еще раньше)",
-            "url": "https://www.e1.ru/text/health/2021/10/20/70202891/",
-            "urlToImage": "https://static.ngs.ru/news/2021/social/3dbad71cb9e4c786afbac2be13058f.png",
-            "publishedAt": "2021-10-20T09:16:15Z",
-            "content": ", , 51% 78 \r\n (, , 270 ). , ( , , , ), .\r\n 45%: 153 ( 515 ). 11 \r\n , : 200 100 ."
-        },
-        {
-            "source": {
-                "id": "lenta",
-                "name": "Lenta"
-            },
-            "author": null,
-            "title": "На нефтяных месторождениях России предложили майнить криптовалюту - Lenta.ru",
-            "description": "Российские нефтяные компании предложили использовать месторождения для добычи криптовалюты. Нефтяники предлагают майнить криптовалюту на электричестве, полученном с использованием попутного нефтяного газа, выделяемого при добыче нефти. Минпромторг направил пи…",
-            "url": "https://lenta.ru/news/2021/10/20/btc/",
-            "urlToImage": "https://icdn.lenta.ru/images/2021/10/20/11/20211020112237798/share_7286fe6a880b4b60da3bfe619c2a4d35.jpg",
-            "publishedAt": "2021-10-20T08:58:00Z",
-            "content": ", «». , .\r\n , (), . .\r\n , , , . « ». 2020 - . Forklog, « » 1,8 .\r\n . , , . , (), . , , , . , , .\r\n , . « » ()."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Interfax.ru"
-            },
-            "author": null,
-            "title": "В России установлен новый антирекорд по числу умерших от COVID пациентов - Интерфакс",
-            "description": "Суточный прирост новых заболевших коронавирусной инфекцией в РФ составил 34 073 случая, умерли за сутки 1 028 пациентов - это новый антирекорд, следует из данных оперативного штаба, обнародованных в среду.",
-            "url": "https://www.interfax.ru/russia/798322",
-            "urlToImage": "https://www.interfax.ru/aspimg/798322.jpg",
-            "publishedAt": "2021-10-20T08:33:00Z",
-            "content": ". 20 . INTERFAX.RU - 34 073 , 1 028 - , , .\r\n 24 . 16 . - 76, - - 62, - 40.\r\n 34 325 , , , (33740).\r\n5 847 COVID-19, - - 3 274, - 2 590 ( , 2 955 ).\r\n 930 COVID-19 , 728 - , 698 - , 668 - , 612 - , 6… [+178 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Sports.ru"
             },
             "author": null,
-            "title": "Дмитрий Мусэрский: «Положительный результат дала допинг-проба, взятая в 2013 году. Но тогда это скрыли и от ме - Sports.ru",
-            "description": "Олимпийский чемпион Дмитрий Мусэрский прокомментировал информацию о дисквалификации за нарушение антидопинговых правил.",
-            "url": "https://www.sports.ru/volleyball/1102332423-dmitrij-muserskij-polozhitelnyj-rezultat-dala-doping-proba-vzyataya-v-.html",
-            "urlToImage": "https://www.sports.ru/dynamic_images/news/110/233/242/3/share/93ac0e.jpg",
-            "publishedAt": "2021-10-20T08:31:00Z",
-            "content": ". \r\n -   « », 2018 .\r\n 5 2021 4 2022 . \r\n« , -, () -2013.\r\n , WADA. , .\r\n WADA WADA, , , -. . WADA , .\r\n 2021 , 2013 , . , .\r\n , , », . \r\n 9 , 2013"
+            "title": "Сергей Семак: «Юве» был удачливее «Зенита». У Клаудиньо ушиб, у Малкома все может быть сложнее» - Sports.ru",
+            "description": "Главный тренер «Зенита» Сергей Семак высказался после матча Лиги чемпионов с «Ювентусом» (0:1), передает корреспондент Sports.ru Александр Дорский.",
+            "url": "https://www.sports.ru/football/1102364621-semak-pro-01-s-yuve-oni-byli-udachlivee-zenita-v-realizaczii-rezultat-.html",
+            "urlToImage": "https://www.sports.ru/dynamic_images/news/110/236/462/1/share/d5a3d1.jpg",
+            "publishedAt": "2021-10-20T21:58:00Z",
+            "content": "«» «» (0:1), Sports.ru .\r\n «» , . . , , .\r\n ? , ?\r\n . , . , , , , .\r\n , . , .\r\n , ?\r\n , , . , «» . .\r\n«» . ? «»?\r\n . , . , «». , .\r\n , .\r\n ?\r\n . , .\r\n ?\r\n , . , ."
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": null,
+            "title": "Популярный препарат оказался бесполезен против COVID-19. Осложнения и побочные эффекты: к каким выводам пришли ученые? - Lenta.ru",
+            "description": "Проведенное в больницах по всему миру клиническое исследование показало, что интерферон бета-1а неэффективен в качестве средства против COVID-19. Что такое интерфероны, сколько их всего и все ли они бесполезны как средство против коронавирусной инфекции — в м…",
+            "url": "https://lenta.ru/brief/2021/10/21/interferons/",
+            "urlToImage": "https://icdn.lenta.ru/images/2021/10/20/14/20211020141324905/share_8f33021f7eebd33aee02788a95692511.jpg",
+            "publishedAt": "2021-10-20T21:01:47Z",
+            "content": "Adaptive COVID-19 Treatment Trial 3 (ACTT-3) c 2020 63 . 56, , , . - , , . \r\n969 , 58 , -1 , . 487 44 . 100-200 . 30 , . , COVID-19. \r\n2020 COVID-19, . , . \r\n14- . , . , ( ), , , , . 21 , 16. 15 , ."
         },
         {
             "source": {
                 "id": null,
-                "name": "Championat.com"
+                "name": "Sportbox.ru"
             },
-            "author": "Георгий Горностаев",
-            "title": "Александр Овечкин вышел на второе место в НХЛ по количеству голов в пустые ворота - Чемпионат",
-            "description": "Завершился матч Национальной хоккейной лиги, в котором «Вашингтон Кэпиталз» принимал «Колорадо Эвеланш». Встреча прошла в Вашингтоне на стадионе «Кэпитал Уан-Арена» и завершилась победой хозяев со счётом 6:3. Один из голов забил российский нападающий Александ…",
-            "url": "https://www.championat.com/hockey/news-4488275-ovechkin-vyshel-na-vtoroe-mesto-v-nhl-po-kolichestvu-golov-v-pustye-vorota.html",
-            "urlToImage": "https://img.championat.com/news2/social/b/3b/4488275.jpg",
-            "publishedAt": "2021-10-20T08:10:25Z",
-            "content": ", « » « ». « -» 6:3. .\r\n 3- 40 , TSN Stats Center. 2- . 56 .\r\n , . 734 , 741.\r\n (894), (801), (766). (731)."
+            "author": null,
+            "title": "Манчестер Юнайтед - Аталанта. 3:2. Криштиану Роналду - news.Sportbox.ru",
+            "description": null,
+            "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Liga_Chempionov/spbvideo_NI1423520_clip_Manchester_Junajted___Atalanta_32_Krishtianu_Ronaldu",
+            "urlToImage": "https://s-cdn.sportbox.ru/images/shares/1200x600/node/28/1423520.jpg",
+            "publishedAt": "2021-10-20T20:42:39Z",
+            "content": "© « » 2007 2021.16 \r\n «www.sportbox.ru»     ,   ().\r\n № 77-72613  04.04.2018\r\n — www.sportbox.ru\r\n () «www.sportbox.ru»: « »\r\n «www.sportbox.ru»: ..\r\n «www.sportbox.ru»: +7 (495) 653 8419\r\n «www.spor… [+27 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "3dnews.ru"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Сирия: при подрыве автобуса с военными в Дамаске погибло более 10 человек - Би-би-си Русская служба",
-            "description": "По меньшей мере 14 человек погибли в результате подрыва автобуса с военными в центре Дамаска, сообщают государственные СМИ Сирии.",
-            "url": "https://www.bbc.com/russian/news-58978256",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_russian/E4DD/production/_121098585_mediaitem121098584.jpg",
-            "publishedAt": "2021-10-20T07:59:13Z",
-            "content": ", Reuters\r\n14 . - 2017 , 31 , \" \" ( ).\r\n \" \", , . , . \r\n , . \r\n ( ) , . , , .\r\n, , ."
+            "author": null,
+            "title": "Первые тесты графики Apple M1 Max: действительно близко к мобильным GeForce RTX 3080 и Radeon RX 6800M - 3DNews",
+            "description": "В начале этой недели компания Apple представила обновлённые 14- и 16-дюймовые ноутбуки MacBook Pro, в составе которых используются новые однокристальные платформы M1 Pro и M1 Max.",
+            "url": "https://3dnews.ru/1051785/pervie-testi-grafiki-apple-m1-max-deystvitelno-blizko-k-mobilnim-geforce-rtx-3080-i-radeon-rx-6800m",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2021/10/20/1051785/pjUkPDSenV7PTFHjC.jpg",
+            "publishedAt": "2021-10-20T20:37:00Z",
+            "content": "Apple 14- 16- MacBook Pro, M1 Pro M1 Max. M1 Max, , Apple .\r\n: Apple\r\n, Apple M1 Max 32- GPU. 16 , 8 - (ALU). 4096 . Apple,  M1 Max 10,4 . , GeForce RTX 3060, 10,91 .\r\n Apple , GPU M1 Max 60 GeForce … [+439 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Championat.com"
+                "id": "lenta",
+                "name": "Lenta"
             },
-            "author": "Александр Насонов",
-            "title": "Евгения Медведева показала серию фото с Даней Милохиным в образе советских школьников - Чемпионат",
-            "description": "Двукратная чемпионка мира по фигурному катанию Евгения Медведева перепостила в «сториз» своего «инстаграма» серию снимков с телешоу «Ледниковый период». В очередном эпизоде Медведева и её партнёр, тиктокер Даня Милохин, предстали в образе советских школьников…",
-            "url": "https://www.championat.com/figureskating/news-4488257-evgeniya-medvedeva-pokazala-seriyu-foto-s-danej-milohinym-v-obraze-sovetskih-shkolnikov.html",
-            "urlToImage": "https://img.championat.com/news2/social/e/d2/4488257.jpg",
-            "publishedAt": "2021-10-20T07:57:22Z",
-            "content": ""
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Почему сирийские беженцы боятся возвращаться домой? Три истории - Би-би-си Русская служба",
-            "description": "Сирийских беженцев по возвращении домой ждет насилие, нищета и преследования властей. Сирийский президент Башар Асад зовет соотечественников на родину восстанавливать страну, но на деле Сирия все еще небезопасна для них, утверждают правозащитники из Human Rig…",
-            "url": "https://www.bbc.com/russian/features-58970096",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_russian/FCA2/production/_121147646_gettyimages-170364968.jpg",
-            "publishedAt": "2021-10-20T07:57:07Z",
-            "content": ", AFP\r\n, . , , Human Rights Watch. Amnesty International - .\r\n\" , , , , \", - . \r\n -- , .\r\n , . - , . - . \r\n2011-. , , - , , .\r\n\" . - - . . \".\r\n - , . . , , .\r\n\" . , \", - .\r\n , - . , , , . , . .\r\n\" . … [+1068 chars]"
+            "author": null,
+            "title": "«Спартак» осудил нападение зрителя VIP-ложи на журналиста - Lenta.ru",
+            "description": "«Спартак» отреагировал на нападение зрителя VIP-ложи на журналиста. «Клуб решительно осуждает факт нападения на журналиста РБК, которое произошло возле нашего стадиона», — заявили в пресс-службе. Выяснилось, что напавшим оказался бывший лидер фанатского движе…",
+            "url": "https://lenta.ru/news/2021/10/20/sprtk/",
+            "urlToImage": "https://icdn.lenta.ru/images/2021/10/20/23/20211020232315941/share_c994a1c29e933be6e742b96d0f677be5.jpg",
+            "publishedAt": "2021-10-20T20:24:00Z",
+            "content": "«» VIP- . .\r\n« , . . - », - «».\r\nTelegram- «112» , «» . , . .\r\n, «» «» « » . . «» .\r\n «» «» 20 . . . .\r\n 60 . , «» . «» , , «--»."
         },
         {
             "source": {
@@ -151,38 +73,51 @@
                 "name": "Ria.ru"
             },
             "author": "",
-            "title": "В Москву прибыла делегация талибов - РИА НОВОСТИ",
-            "description": "В российскую столицу приехала делегация талибов, в городе должны пройти переговоры \"Московского формата\" по Афганистану. РИА Новости, 20.10.2021",
-            "url": "https://ria.ru/20211020/taliby-1755331510.html",
-            "urlToImage": "https://cdnn21.img.ria.ru/images/sharing/article/1755331510.jpg?17553509231634718538",
-            "publishedAt": "2021-10-20T07:41:15Z",
-            "content": "https://ria.ru/20211020/taliby-1755331510.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdnn21.img.ria.ru/images/07e5/0a/14/1755350929_0:… [+632 chars]"
+            "title": "В Турции арестовали четверых россиян по обвинению в шпионаже - РИА НОВОСТИ",
+            "description": "В Турции арестовали четырех россиян, одного украинца и одного гражданина Узбекистана по обвинению в военном и политическом шпионаже, а также подготовке... РИА Новости, 20.10.2021",
+            "url": "https://ria.ru/20211020/arest-1755492093.html",
+            "urlToImage": "https://cdnn21.img.ria.ru/images/sharing/article/1755492093.jpg?10298851181634762563",
+            "publishedAt": "2021-10-20T19:28:02Z",
+            "content": "https://ria.ru/20211020/arest-1755492093.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdnn21.img.ria.ru/images/102988/51/1029885119_0:14… [+625 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Svoboda.org"
+                "id": "lenta",
+                "name": "Lenta"
             },
-            "author": "RFE/RL",
-            "title": "Совбез ООН проведёт экстренное заседание после ракетных испытаний КНДР - Радио Свобода ",
-            "description": "Пхеньян объявил об успешном испытании ракеты морского базирования",
-            "url": "https://www.svoboda.org/a/sovbez-oon-provedyon-ekstrennoe-zasedanie-posle-raketnyh-ispytaniy-kndr/31520406.html",
-            "urlToImage": "https://gdb.rferl.org/E82965B6-E24A-4EEF-AE56-A6E5673E6063.jpg",
-            "publishedAt": "2021-10-20T07:40:59Z",
-            "content": "No media source currently available"
+            "author": null,
+            "title": "ВОЗ подтвердила начало финальной стадии рассмотрения «Спутника V» - Lenta.ru",
+            "description": "Всемирная организация здравоохранения (ВОЗ) подтвердила начало финальной стадии рассмотрения российской вакцины «Спутник V». Об этом сообщает Российский фонд прямых инвестиций (РФПИ). Отмечается, что вскоре Россию должна посетить группа инспекторов организаци…",
+            "url": "https://lenta.ru/news/2021/10/20/vos_spv/",
+            "urlToImage": "https://icdn.lenta.ru/images/2021/10/20/22/20211020221412035/share_0ee4e94133ca71290a0a0aabaacd5d2e.jpg",
+            "publishedAt": "2021-10-20T19:27:00Z",
+            "content": "() « V». (), Twitter- .\r\n« , \" V\" », . , .\r\n, « V» . , , .\r\n « V» 70 , 4 . 20 14 . 97,6 . «»- 83,1 ."
         },
         {
             "source": {
                 "id": "rt",
                 "name": "RT"
             },
-            "author": "RT на Русском",
-            "title": "Два российских Су-30 сопроводили над Чёрным морем четыре самолёта ВВС США - RT на русском",
-            "description": "Два российских истребителя Су-30 сопроводили над Чёрным морем два бомбардировщика В-1В и два самолёта-заправщика KC-135 ВВС США. Об этом сообщили в Национальном центре управления обороной России.",
-            "url": "https://russian.rt.com/russia/news/919326-rossiya-istrebiteli-samolyot-soprovozhdenie",
-            "urlToImage": "https://cdni.rt.com/russian/images/2021.10/article/616fbd6aae5ac95bce6cd748.png",
-            "publishedAt": "2021-10-20T07:02:47Z",
-            "content": null
+            "author": null,
+            "title": "Interia: «призрак войны вернулся» — Дуда призвал к ответным мерам против России - RT на русском",
+            "description": "Необходимо найти новые ответные меры как на растущую военную угрозу со стороны России, так и на усилившиеся гибридные атаки, заявил президент Польши Анджей Дуда. Материал представлен в пересказе ИноТВ.",
+            "url": "https://russian.rt.com/inotv/2021-10-20/Interia-prizrak-vojni-vernulsya-",
+            "urlToImage": "https://cdni.rt.com/inotv/s/content/0/a/m/3/1432723_1_1342102_1_2020-12-09T153224Z_454598047_RC2RJK9YG6LO_RTRMADP_3_CZECH-POLAND_big_big.JPG",
+            "publishedAt": "2021-10-20T19:16:45Z",
+            "content": "— 2021 : « ». «, , », — .  \r\n« , , , , «-2021» , , - », — . , . , , -.\r\n« , . , , », — . , , , , , , .\r\n , . . , 2016 . « - , , , , », — . « , . , , - , , », — ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ria.ru"
+            },
+            "author": "",
+            "title": "В Сочи провели следственные действия с Собчак - РИА НОВОСТИ",
+            "description": "В УВД Сочи провели следственные действия с телеведущей Ксенией Собчак, которая является свидетелем по уголовному делу о ДТП, сообщили в пресс-центре МВД РФ. РИА Новости, 20.10.2021",
+            "url": "https://ria.ru/20211020/sobchak-1755490358.html",
+            "urlToImage": "https://cdnn21.img.ria.ru/images/sharing/article/1755490358.jpg?15796260511634757872",
+            "publishedAt": "2021-10-20T19:07:13Z",
+            "content": "https://ria.ru/20211020/sobchak-1755490358.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdnn21.img.ria.ru/images/07e4/0a/0d/1579626069_0… [+706 chars]"
         },
         {
             "source": {
@@ -190,64 +125,38 @@
                 "name": "RBC"
             },
             "author": null,
-            "title": "Биткоин подорожал до $64,4 тыс. и обновил максимум с апреля - РБК",
-            "description": "Стоимость первой криптовалюты приблизилась к пиковым значениям в $64,8 тыс. До обновления рекорда активу остается менее 1% роста",
-            "url": "https://www.rbc.ru/crypto/news/616fbbca9a794729cf9e6ce1",
-            "urlToImage": "https://s.rbk.ru/v2_crypto_static/current/images/social-icon-v1.png",
-            "publishedAt": "2021-10-20T06:59:28Z",
-            "content": "20 Binance $64,4 . $64,8 . 0,6%.\r\n 9:45 $63,7 . 3%. $1,2 $39 , CoinGecko.\r\n , (ETF), - (CME Group). Bitcoin Strategy ETF ProShares BITO - (NYSE).\r\n -ETF. \r\n Fidelity Investments , $100 . 2023 . , , .… [+35 chars]"
-        },
-        {
-            "source": {
-                "id": "lenta",
-                "name": "Lenta"
-            },
-            "author": null,
-            "title": "Названы лучшая и худшая пенсионные системы мира - Lenta.ru",
-            "description": "В Исландии самая лучшая пенсионная система в мире. Страна заняла первое место в глобальном пенсионном индексе Mercer CFA Institute. Нидерланды и Дания оказались на втором и третьем месте соответственно. Из 43 стран рейтинга Таиланд занял последнее место, за н…",
-            "url": "https://lenta.ru/news/2021/10/19/pens/",
-            "urlToImage": "https://icdn.lenta.ru/images/2021/10/19/15/20211019153328464/share_fef3843679d4fe9b88dd337f959b6c9e.jpg",
-            "publishedAt": "2021-10-20T06:43:00Z",
-            "content": ". Mercer CFA Institute.\r\n. , , .\r\n . , 43 , - , « , ». .\r\n , 9- 28- , . , 19- , , , Mercer CFA Institute.\r\n . ."
-        },
-        {
-            "source": {
-                "id": "lenta",
-                "name": "Lenta"
-            },
-            "author": null,
-            "title": "В еще одном российском регионе введут обязательную вакцинацию для части жителей - Lenta.ru",
-            "description": "На Ставрополье вводится обязательная вакцинация для части жителей. Об этом сообщил губернатор региона Владимир Владимиров в прямом эфире в Instagram, его цитирует ТАСС. Он рассказал, что обязательная вакцинация коснется сотрудников социальной сферы, общепита …",
-            "url": "https://lenta.ru/news/2021/10/20/privit/",
-            "urlToImage": "https://icdn.lenta.ru/images/2021/10/20/09/20211020093452048/share_6dce56314aa53aedfdfa038027271cd6.jpg",
-            "publishedAt": "2021-10-20T06:36:00Z",
-            "content": ". Instagram, .\r\n« , , . 400 , »,   .\r\n , , , .\r\n , COVID-19 .\r\n. , , , , ."
+            "title": "Инфляция в России ускорилась до максимума с февраля 2016 года - РБК",
+            "description": "Годовая инфляция достигла 7,78%. В прошлый раз она поднималась выше этой отметки в феврале 2016 года. На фоне инфляции, превышающей все прогнозы, ЦБ на этой неделе вновь повысит ключевую ставку, считают опрошенные РБК аналитики",
+            "url": "https://www.rbc.ru/economics/20/10/2021/6170526a9a794772f2b80357",
+            "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/9/96/756347541021969.jpg",
+            "publishedAt": "2021-10-20T18:21:41Z",
+            "content": "26,54 30% . , 14%,  — 17%,  — 19%.\r\n 0,14%, 7,68%. 0,33% (6,72% ).\r\n  — 5,8 7,4%. ,  — , . - , - COVID-19.\r\n , - « ». - , , « », .\r\n , , , 22 , , . 0,5 .. — 6,75 7,25%, 0,25 .."
         },
         {
             "source": {
                 "id": null,
-                "name": "Klops.ru"
+                "name": "BBC News"
             },
-            "author": null,
-            "title": "Российская полиция приняла на вооружение пистолет Лебедева - КЛОПС - главный новостной сайт Калининграда",
-            "description": "ПЛК заменит морально устаревший ПМ",
-            "url": "https://klops.ru/news/2021-10-20/242318-rossiyskaya-politsiya-prinyala-na-vooruzhenie-pistolet-lebedeva",
-            "urlToImage": "https://1.assets.klops.ru/media/W1siZiIsIjIwMjEvMTAvMjAvYWUycDRhNnlwX2ZpbGUuanBlZyJdLFsicCIsInRodW1iIiwiMTIwMHg2MzArMCs4NSJdLFsicCIsInRodW1iIiwiMTIwMHg2MzAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0/file.jpg?sha=d2b075af6bca9223",
-            "publishedAt": "2021-10-20T06:30:20Z",
-            "content": "(). , 20 , .\r\n (), 1948 . « », . \r\n «». , . 919 . 14 . ."
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Коронавирус в мире: новая мутация \"Дельты\", рост числа заболевших и планы ужесточения мер - Би-би-си Русская служба",
+            "description": "Власти Британии не спешат возвращать обязательное маски в людных местах несмотря на рост новых случаев. Они не теряют уверенности в вакцинации. Тем временем ученые выявили новый вариант штамма \"Дельта\". Насколько он опасен?",
+            "url": "https://www.bbc.com/russian/news-58984040",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_russian/320F/production/_121151821_e278a8f5-2ac1-4b5c-87bc-2ff922c966a0.jpg",
+            "publishedAt": "2021-10-20T18:20:06Z",
+            "content": ", Getty Images\r\n, , - - Covid-19. 50 . . \r\n . - - \" \", , . \r\n \" \" . , , .\r\n\" , \", - -. \r\n, , . , \" \": , , , , ( ).\r\n , : MSD Pfizer. , . \r\n 40 . 130, 19- 223. 10% 1100 .\r\n, 18 , . \r\n . \r\n 12-15 , . 1… [+253 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Radiokp.ru"
+                "name": "Championat.com"
             },
-            "author": "Семён Ракшин",
-            "title": "«Я спасаю Сталина»: Бузова рассказала, как переделала роль в МХАТовской постановке под себя - РАДИО «КОМСОМОЛЬСКАЯ ПРАВДА»",
-            "description": "Она призналась, что долго искала грань между серьезностью и юмором.",
-            "url": "https://radiokp.ru/znamenitosti/spasala-stalina-buzova-priznalas-kak-peredelala-rol-v-mkhatovskom-spektakle-pod-sebya_nid490607_au45626au",
-            "urlToImage": "https://radiokp.ru/sites/default/files/styles/kp_670_446/public/2021-10/20210625_gaf_rk39_025_0.jpg?itok=LBZD1dwL",
-            "publishedAt": "2021-10-20T06:19:46Z",
-            "content": "radiokp.ru , 77-76389 26.07.2019 .« « ». : .: . e : . : .\r\nradiokpweb@kp.ru : +7 (495) 665-75-28 127015, . , . , .5 .8 , 7\r\n , radiokp.ru (www.radiokp.ru), « « » ©, .: +7 (495) 970-19-51 (kp@kp.ru)\r\n… [+47 chars]"
+            "author": "Михаил Рождественский",
+            "title": "Как «Спартаку» выйти в плей-офф Лиги Европы? Расклады в группе после проигрыша «Лестеру» - Чемпионат",
+            "description": "Есть три сценария, но трудно будет при любом из них.",
+            "url": "https://www.championat.com/football/article-4488929-spartak-lester-3-4-rasklady-v-gruppe-ligi-evropy-chto-nuzhno-dlya-vyhoda-v-plej-off.html",
+            "urlToImage": "https://img.championat.com/news/social/5/db/4488929.jpg",
+            "publishedAt": "2021-10-20T18:05:13Z",
+            "content": "«» , . 3- «». , , . «» , . . «» , 3:4.\r\n , «» «», «» . , - 3 , C . «», 6 . «» (4) . «» (1). \r\n: . , , 1/8 , -. 1/16 . , , - . .\r\n «» . 4 - «», . 24 «». , . «» «», «». 9 .\r\n . «» «» , 21 . , . : «» , … [+85 chars]"
         },
         {
             "source": {
@@ -255,12 +164,103 @@
                 "name": "Lenta"
             },
             "author": null,
-            "title": "Сергея Безрукова госпитализировали с коронавирусом - Lenta.ru",
-            "description": "Народного артиста России Сергея Безрукова госпитализировали с коронавирусом. Об этом сам актер заявил в Instagram, прикрепив фото из больницы. «Дорогие мои! Ну вот и я приболел, ковид. Сказались перегрузки, видать, иммунитет сдал немного», — написал Безруков,…",
-            "url": "https://lenta.ru/news/2021/10/20/bezrukow/",
-            "urlToImage": "https://icdn.lenta.ru/images/2021/10/20/09/20211020090015107/share_edea66c9899d92052219343937e2bfea.jpg",
-            "publishedAt": "2021-10-20T06:06:00Z",
-            "content": ". Instagram, .\r\n« ! , . , , », , , .\r\n , « - » . « » .\r\n , , .\r\n, . . 67- , ."
+            "title": "Дефицит чипов ударил по Renault - Lenta",
+            "description": "Глобальный дефицит полупроводников ударил по Renault. Из-за проблем с поставками французская автомобилестроительная компания сократит объемы производства в 2021 году не меньше, чем на 300 тысяч машин. Как заявила организация автомобильной промышленности и тра…",
+            "url": "https://lenta.ru/news/2021/10/20/ren/",
+            "urlToImage": "https://icdn.lenta.ru/images/2021/10/20/17/20211020170839963/share_c25bf7ea482ccdbe817a1adb9719f745.jpg",
+            "publishedAt": "2021-10-20T17:25:00Z",
+            "content": "Renault. - 2021 , 300 , Reuters , .\r\n , 2021 Renault 300-400 , . , 350 380 . Renault , 220 .\r\nPFA, 2022 . PFA , . , , .\r\nRenault , 2030 90 . 2035 65 2030 . , 2030 55 , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Apple выпустила с MacBook Pro первую в мире зарядку с USB Power Delivery 3.1 — она обеспечит 140 Вт любым совместимым устройствам - 3DNews",
+            "description": "Новое зарядное устройство Apple мощностью 140 Вт, которое поставляется в комплекте с новым 16-дюймовым MacBook Pro, стало первым на рынке, которое соответствует стандарту USB Power Delivery 3.",
+            "url": "https://3dnews.ru/1051765/apple-vipustila-s-macbook-pro-pervuyu-v-mire-zaryadku-susb-power-delivery-31-ono-obespechit-140-vt-lyubim-sovmestimim-ustroystvam",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2021/10/20/1051765/899899999.jpg",
+            "publishedAt": "2021-10-20T17:11:00Z",
+            "content": "Apple 140 , 16- MacBook Pro, , USB Power Delivery 3.1. , 140, 180 240 , USB Type-C Release 2.1. MacBook Pro, $99.\r\ntheverge.com\r\nUSB PD 3.1 , Apple , . , MacBook Pro , USB PD 3.1.\r\n 100 . , . , DELL … [+163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Starhit.ru"
+            },
+            "author": null,
+            "title": "Ольга Бузова: «У меня старый айфон. Новый я куплю сестре и ее мужу» - StarHit.ru",
+            "description": "Экс-ведущая «ДОМа-2» неплохо зарабатывает, но порой жалеет денег для себя. Зато Ольга Бузова привыкла радовать близких дорогими подарками.",
+            "url": "https://www.starhit.ru/novosti/olga-buzova-u-menya-staryiy-ayfon-novyiy-ya-kuplyu-sestre-i-ee-muju-255645/",
+            "urlToImage": "https://n1s1.starhit.ru/5d/71/e0/5d71e076df4fc5a7d82b88821d652010/1200x630_0_8b4d9a710753c37e3565eb2e282ec88e@1200x630_0xac120003_10450283721634729332.jpg",
+            "publishedAt": "2021-10-20T17:00:00Z",
+            "content": ", .\r\n« , , « ». . , , . , , . , , . , - , , , . ? , . , . 200 », 35- .\r\n, . , , .\r\n« -!»: « . , , , , - . , , - . , , ? , . , », .\r\n, , , .\r\n« . , , , . . , . . . , , , , , , . . , , , , , , », «».\r\n… [+24 chars]"
+        },
+        {
+            "source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT на Русском",
+            "title": "Бальбек отреагировал на заявление генсека НАТО о приостановке работы миссии России - RT на русском",
+            "description": "Политолог Руслан Бальбек прокомментировал в беседе с RT заявление генсека НАТО Йенса Столтенберга о том, что решение России о приостановке работы миссии не способствует диалогу, но альянс остаётся открытым к контактам.",
+            "url": "https://russian.rt.com/world/news/919569-politolog-balbek-gensek-nato-rossiya",
+            "urlToImage": "https://cdni.rt.com/russian/images/2021.10/article/6170366bae5ac92dd24279bb.png",
+            "publishedAt": "2021-10-20T16:49:54Z",
+            "content": "« , . , , «». , , , , », — .\r\n , « ».\r\n« , , , , . ... , , », — .\r\n  .\r\n , , ,   .\r\n18 ,  .   , .\r\n    ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cybersport.ru"
+            },
+            "author": null,
+            "title": "God of War на ПК — первые скриншоты из игры с улучшенной графикой - CyberSport.ru",
+            "description": "Авторы God of War представили первые скриншоты из порта игры на ПК. Изображения были опубликованы на странице экшена в Steam с пометкой Captured on PC (от англ.",
+            "url": "https://www.cybersport.ru/games/articles/god-of-war-na-pk-pervye-skrinshoty-igry-s-uluchshennoi-grafikoi",
+            "urlToImage": "https://www.cybersport.ru/material/social/image/fb/581089",
+            "publishedAt": "2021-10-20T16:31:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.mk.ru"
+            },
+            "author": null,
+            "title": "В Польше мигранты пошли на штурм государственной границы - Московский Комсомолец",
+            "description": "Группа нелегальных мигрантов попыталась прорваться на территорию Польши со стороны Белоруссии, в их отношении польские пограничники применили слезоточивый газ и физическую силу",
+            "url": "https://www.mk.ru/politics/2021/10/20/v-polshe-migranty-poshli-na-shturm-gosudarstvennoy-granicy.html",
+            "urlToImage": "https://static.mk.ru/upload/entities/2021/10/20/19/articles/facebookPicture/00/3d/11/4b/2e6d4194dccfb52bddc4f38b2170ffde.jpg",
+            "publishedAt": "2021-10-20T16:20:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Svoboda.org"
+            },
+            "author": "RFE/RL",
+            "title": "Михаил Саакашвили въехал в Грузию в трейлере с молочными продуктами - Радио Свобода ",
+            "description": "Об этом сообщает прокуратура Грузии",
+            "url": "https://www.svoboda.org/a/mihail-saakashvili-vehal-v-gruziyu-v-treylere-s-molochnymi-produktami/31521224.html",
+            "urlToImage": "https://gdb.rferl.org/BE54E73E-0E32-450B-8C81-A7DBC0C01890_cx0_cy6_cw0_w1200_r1.jpg",
+            "publishedAt": "2021-10-20T15:38:36Z",
+            "content": "No media source currently available"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Из кода браузера Chrome окончательно удалили поддержку протокола FTP - 3DNews",
+            "description": "Команда разработчиков Chromium сделала то, о чем уже давно предупреждала &mdash; не просто отключила в настройках, а окончательно удалила из кода браузера поддержку протокола FTP.",
+            "url": "https://3dnews.ru/1051762/iz-koda-brauzera-chrome-okonchatelno-udalili-poddergku-protokola-ftp",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2021/10/20/1051762/chrome.jpg",
+            "publishedAt": "2021-10-20T14:54:00Z",
+            "content": "Chromium , — , FTP. Chrome 95.\r\n: google.com\r\n. FTP Chrome, , , .\r\n FTP Chrome 72, , IT-. Chrome 88 , .\r\nFTP Firefox. , Chromium, , FTP, Internet Explorer, 2022 Microsoft .\r\n — 50 , . FTPS SFTP Googl… [+6 chars]"
         }
     ]
 }
