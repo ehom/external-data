@@ -4,15 +4,67 @@
     "articles": [
         {
             "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Peter Rudegeair",
+            "title": "Robinhood Hack Exposes Millions of Customer Names, Email Addresses - The Wall Street Journal",
+            "description": "Trading app says the incident took place last week and that the breach has since been contained",
+            "url": "https://www.wsj.com/articles/robinhood-hack-exposes-millions-of-customer-names-email-addresses-11636408263",
+            "urlToImage": "https://images.wsj.net/im-431306/social",
+            "publishedAt": "2021-11-08T22:18:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Tyler Mauldin, CNN Meteorologist",
-            "title": "New high-resolution climate model predicts more extreme weather events in the future - CNN",
-            "description": "A first-of-its-kind study uses a new high-resolution climate model showing local climate-fueled extreme weather risks projected decades in advance -- and the results aren't good.",
-            "url": "https://www.cnn.com/2021/11/07/weather/weather-extreme-rainfall-climate-change/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210717191244-06b-western-europe-flood-0717-germany-super-tease.jpg",
-            "publishedAt": "2021-11-08T10:03:00Z",
+            "author": "AnneClaire Stapleton, Hannah Ritchie and Mitch McCluskey, CNN",
+            "title": "China is building mock versions of US military ships in the desert - CNN",
+            "description": "China's military has constructed mock-ups in the shape of a US Navy aircraft carrier and US warships, possibly for target practice, in the desert of Xinjiang, according to Maxar satellite images reviewed by the independent United States Naval Institute (USNI).",
+            "url": "https://www.cnn.com/2021/11/08/asia/chinese-military-mock-targets-us-aircraft-carrier-warships-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211108123228-02-china-warship-target-satellite-super-tease.jpg",
+            "publishedAt": "2021-11-08T21:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chloe Melas",
+            "title": "Travis Scott to cover funeral costs of Astroworld victims - CNN",
+            "description": "Travis Scott will cover all funeral costs for the eight victims who died at his Astroworld Festival on Friday, according to a statement released Monday by a representative for the rapper and producer.",
+            "url": "https://www.cnn.com/2021/11/08/entertainment/travis-scott-funeral-costs/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211106123522-10-astroworld-houston-travis-scott-super-tease.jpg",
+            "publishedAt": "2021-11-08T21:53:00Z",
+            "content": "(CNN)Travis Scott will cover all funeral costs for the eight victims who died at his Astroworld Festival on Friday, according to a statement released Monday by a representative for the rapper and pro… [+1071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Justice Department indicts two men over REvil ransomware attacks - NPR",
+            "description": "The attacks shut down a meat processing plant and an internet software provider earlier this year.",
+            "url": "https://www.npr.org/2021/11/08/1053599349/u-s-indicts-2-men-behind-ransomware-attacks-over-the-summer",
+            "urlToImage": "https://media.npr.org/assets/img/2021/11/08/ap_21312647209235_wide-51bbb8880d83f471cd787b0243285b2935d963e0.jpg?s=1400",
+            "publishedAt": "2021-11-08T21:03:00Z",
+            "content": "Attorney General Merrick Garland announced indictments against two men connected with ransomware attacks last summer.\r\nAndrew Harnik/AP\r\nThe Justice Department says authorities have indicted two men … [+3562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "NASA's SpaceX Crew-2 Returns Home: Splashdown - NASA",
+            "description": "Their spacecraft has undocked from the International Space Station, and four astronauts are on the journey home to Earth. Watch live as the SpaceX Crew Drago...",
+            "url": "https://www.youtube.com/watch?v=FLdl-wM7kGo",
+            "urlToImage": "https://i.ytimg.com/vi/FLdl-wM7kGo/maxresdefault_live.jpg",
+            "publishedAt": "2021-11-08T20:49:35Z",
             "content": null
         },
         {
@@ -20,247 +72,195 @@
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Frank Holland",
-            "title": "Walmart is using fully driverless trucks to ramp up its online grocery business - CNBC",
-            "description": "\"Taking the driver out is the holy grail of this technology,\" Gatik CEO Gautam Narang, who founded the autonomous trucking company in 2017, told CNBC.",
-            "url": "https://www.cnbc.com/2021/11/08/walmart-is-using-fully-driverless-trucks-to-ramp-up-its-online-grocery-business.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106971628-1636137435152WALMART1.jpg?v=1636153072",
-            "publishedAt": "2021-11-08T10:00:01Z",
-            "content": "Walmart said Monday it has started using fully driverless trucking in its online grocery business, aiming to increase capacity and reduce inefficiencies.\r\nWalmart and Silicon Valley start-up Gatik sa… [+3778 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Tesla shares fall after Twitter users vote for Musk to sell stock - Reuters",
-            "description": "Tesla Inc shares fell 7.5% in premarket trading on Monday as investors prepared for its chief Elon Musk's <a href=\"https://www.reuters.com/business/autos-transportation/musk-should-sell-10-his-tesla-stock-twitter-users-say-2021-11-07/\" target=\"_blank\">propose…",
-            "url": "https://www.reuters.com/business/tesla-shares-fall-after-musks-twitter-poll-backs-stake-sale-2021-11-08/",
-            "urlToImage": "https://www.reuters.com/resizer/YzHCxyWxm4fK1-CBkVQusbvOh6Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6DQ4JYBYBNIVRARLACK7QNXKZM.jpg",
-            "publishedAt": "2021-11-08T09:44:00Z",
-            "content": "The logo of car manufacturer Tesla is seen at a dealership in London, Britain, May 14, 2021. REUTERS/Matthew ChildsNov 8 (Reuters) - Tesla Inc shares fell 7.5% in premarket trading on Monday as inves… [+3009 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Catie Keck",
-            "title": "Disney Plus is giving away a month for $2 for new and returning streamers - The Verge",
-            "description": "Disney Plus is offering new and eligible returning subscribers one month of Disney Plus for $2. The offer is one of several promotions the service has announced as part of its anticipated Disney Plus Day event taking place on November 12th.",
-            "url": "https://www.theverge.com/2021/11/8/22766153/disney-plus-day-2-subscription-amc-theaters",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/UNwCDDyNGwQAeUhyZpyrem-mAUU=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13412121/disneyplus.0.jpg",
-            "publishedAt": "2021-11-08T08:05:00Z",
-            "content": "In celebration of its big Disney Plus Day event\r\nImage: Disney\r\nDisney Plus is offering a pretty killer deal for streamers who may have left or have yet to try its service. For new and eligible retur… [+2342 chars]"
+            "author": "Kevin Breuninger",
+            "title": "Trump allies Michael Flynn, Jason Miller, John Eastman subpoenaed in Jan. 6 House probe - CNBC",
+            "description": "Michael Flynn, Jason Miller, John Eastman, Bernard Kerik, Bill Stepien and Angela McCallum are linked to Trump's election-flipping efforts, the panel said.",
+            "url": "https://www.cnbc.com/2021/11/08/trump-allies-michael-flynn-jason-miller-john-eastman-subpoenaed-in-jan-6-house-probe.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106575588-15919684372020-06-01t000000z_1431076729_rc2k0h9t03tu_rtrmadp_0_usa-trump-flynn.jpeg?v=1636404118",
+            "publishedAt": "2021-11-08T20:37:04Z",
+            "content": "The House committee investigating the deadly Capitol invasion said Monday it issued subpoenas to several high-profile allies of former President Donald Trump, including former national security advis… [+4521 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Ringer"
+                "name": "Vulture"
             },
-            "author": "Rodger Sherman",
-            "title": "The Winners and Losers of NFL Week 9 - The Ringer",
-            "description": "Josh Allen feasted on Josh Allen, the ManningCast curse claimed another victim, and Jordan Love had a rough NFL debut",
-            "url": "https://www.theringer.com/nfl/2021/11/8/22769018/winners-and-losers-week-9-josh-allen-manningcast-jordan-love",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qvw4AxCUxeFAETjVR6DhnLjJ22I=/0x86:1200x714/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22994909/Week9WinnersLosers_Getty_Ringer.jpg",
-            "publishedAt": "2021-11-08T08:04:15Z",
-            "content": "Every week this NFL season, we will celebrate the electric plays, investigate the colossal blunders, and explain the inexplicable moments of the most recent slate. Welcome to Winners and Losers. Whic… [+20267 chars]"
-        },
-        {
-            "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
-            },
-            "author": "BuzzFeed",
-            "title": "Sarah Jessica Parker Says She's Received A Lot Of Backlash For Looking Older While Filming \"And Just Like That\" - Yahoo Lifestyle",
-            "description": "\"It almost feels as if people don’t want us to be perfectly OK with where we are.\"View Entire Post ›",
-            "url": "https://www.buzzfeed.com/joyannjeffrey/sarah-jessica-parker-and-just-like-that-aging",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/DzWmsna0daLsmI_loLFX1A--~B/aD00MTU7dz02MjU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/buzzfeed_articles_778/d445905e86111649bbc8b93d6209b6f5",
-            "publishedAt": "2021-11-08T07:21:16Z",
-            "content": "These are the best hair wavers, crimpers, and jumbo wavers. While hair trends come and go quickly, effortless, beachy waves have always been stylish (whether you actually scored them on the beach or … [+163 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tennessean"
-            },
-            "author": "Ben Arthur, The Tennessean",
-            "title": "What Adrian Peterson said about his Tennessee Titans debut on Sunday Night Football - Tennessean",
-            "description": "Future Hall of Famer Adrian Peterson had 10 carries for 21 yards and a touchdown in his Tennessee Titans debut Sunday night.",
-            "url": "https://www.tennessean.com/story/sports/nfl/titans/2021/11/07/what-adrian-peterson-said-about-his-tennessee-titans-debut-los-angeles-rams/6189966001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2021/11/08/PNAS/d46ae975-875b-41d4-89a2-76406d55457e-titans_rams_040.jpg?auto=webp&crop=4265,2400,x0,y0&format=pjpg&width=1200",
-            "publishedAt": "2021-11-08T06:58:44Z",
-            "content": "INGLEWOOD, Calif. – Veteran running back Adrian Peterson acknowledged that he left much to be desired in his Tennessee Titans debut. \r\n“I felt like it was OK,” Peterson said. “I think we left a lot o… [+2089 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "XDA Developers"
-            },
-            "author": "Kishan Vyas",
-            "title": "Google explains why the Pixel 6 fingerprint scanner may feel slower at times - XDA Developers",
-            "description": "Google has shed more light on why the Pixel 6 fingerprint scanner might feel sluggish sometimes. Read on to know more.",
-            "url": "https://www.xda-developers.com/google-explains-pixel-6-slower-fingerprint-scanner/",
-            "urlToImage": "https://www.xda-developers.com/files/2021/10/Google-Pixel-6-Pro-Now-Playing-Watermarked.jpg",
-            "publishedAt": "2021-11-08T06:26:00Z",
-            "content": "Almost all flagships and upper-midrange phones nowadays come equipped with an in-display fingerprint reader. Google was the only major OEM that kept using the good old rear-mounted capacitive fingerp… [+2062 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Authority"
-            },
-            "author": null,
-            "title": "Samsung Galaxy S21 FE, S22 launch details leak: Just a month apart? - Android Authority",
-            "description": "A new leak may have given us all the Galaxy S22 and Galaxy S21 FE launch details, including release dates and pre-order info.",
-            "url": "https://www.androidauthority.com/galaxy-s21-fe-s22-launches-3054286/",
-            "urlToImage": "https://cdn57.androidauthority.net/wp-content/uploads/2021/09/Samsung-Galaxy-S22-Plus-91mobiles-onleaks-scaled.jpg",
-            "publishedAt": "2021-11-08T06:08:48Z",
-            "content": "<ul><li>Tipster Jon Prosser has revealed apparent Galaxy S22 and Galaxy S21 FE launch details.</li><li>Its believed the phones will be launched roughly a month apart.</li></ul>\r\nWe were initially exp… [+1503 chars]"
+            "author": "Natalie Lin",
+            "title": "The Crown Consultant and Friend of Princess Diana Quits Over Her Portrayal - Vulture",
+            "description": "“I realized that particular story line would not necessarily be told as respectfully or compassionately as I had hoped,” Jemima Khan said.",
+            "url": "https://www.vulture.com/2021/11/the-crown-jemima-khan-quits-over-princess-diana-storyline.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/660/b8e/d327e098fa5aa6501b5ac9896360368768-the-crown.1x.rsocial.w1200.jpg",
+            "publishedAt": "2021-11-08T20:10:37Z",
+            "content": "British television producer and close friend of the late Princess Diana, Jemima Khan, says she has pulled her contributions from the upcoming season of The Crown. Khan told the U.K.s Sunday Times tha… [+1572 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Alaa Elassar, CNN",
-            "title": "Lawsuit filed against Travis Scott, Live Nation and others following Astroworld Festival tragedy - CNN",
-            "description": "A lawsuit has been filed following the Astroworld Festival tragedy that left eight people dead and dozens injured in Houston on Friday night.",
-            "url": "https://www.cnn.com/2021/11/08/us/astroworld-lawsuit-travis-scott-festival/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211106153202-12-astroworld-houston-super-tease.jpg",
-            "publishedAt": "2021-11-08T05:08:00Z",
-            "content": "(CNN)A lawsuit has been filed following the Astroworld Festival tragedy that left eight people dead and dozens injured in Houston on Friday night.\r\nA concertgoer who was injured during the festival i… [+4055 chars]"
+            "author": "Chris Isidore, CNN Business",
+            "title": "Taxes, not Twitter, are the real reason Elon Musk might sell some Tesla shares - CNN",
+            "description": "If and when Elon Musk sells a large chunk of his Tesla shares, it'll probably have relatively little to do with a Twitter poll among his loyal followers — and everything to do with a looming multi-billion-dollar tax bill.",
+            "url": "https://www.cnn.com/2021/11/08/investing/elon-musk-tesla-stock-sale-taxes-twitter/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211026131526-elon-musk-0923-super-tease.jpg",
+            "publishedAt": "2021-11-08T20:08:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "KSL.com"
+                "name": "NPR"
             },
-            "author": "Matt O'Brien, Associated Press, Barbara Ortutay, Associated Press",
-            "title": "Plenty of pitfalls await Zuckerberg's 'metaverse' plan - KSL.com",
-            "description": "A  virtual reality construct intended to supplant the internet, merge virtual life with real life and create endless new playgrounds for everyone — he promised that",
-            "url": "https://www.ksl.com/article/50278287/plenty-of-pitfalls-await-zuckerbergs-metaverse-plan",
-            "urlToImage": "https://img.ksl.com/slc/2849/284947/28494726.jpg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2021-11-08T04:50:14Z",
-            "content": "Estimated read time: 6-7 minutes\r\nWASHINGTON When Mark Zuckerberg announced ambitious plans to build the \"metaverse\" a virtual reality construct intended to supplant the internet, merge virtual life … [+7159 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kotaku"
-            },
-            "author": "Luke Plunkett",
-            "title": "Metal Gear Solid Games Are Being Removed Over Historical Footage - Kotaku",
-            "description": "Metal Gear Solid 2 & 3 are being 'temporarily removed' from shopfronts",
-            "url": "https://kotaku.com/metal-gear-solid-games-being-removed-over-historical-fo-1848013833",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b78c9cfc98cda52ccc2b4c6c8318b781.jpg",
-            "publishedAt": "2021-11-08T04:30:00Z",
-            "content": "Konami just announced that both Metal Gear Solid 2 and Metal Gear Solid 3 are being taken down from online shopfronts after issues emerged with licenses for select historical archive footage used in-… [+2191 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Samantha Lock",
-            "title": "Teenager rescued after showing domestic violence hand signal to passing motorist, police say - The Guardian",
-            "description": "Gesture used to indicate distress has become popular on social media platform TikTok",
-            "url": "https://amp.theguardian.com/us-news/2021/nov/08/teenager-rescued-after-showing-domestic-violence-hand-signal-to-passing-motorist-police-say",
-            "urlToImage": null,
-            "publishedAt": "2021-11-08T04:00:00Z",
-            "content": "US newsGesture used to indicate distress has become popular on social media platform TikTok\r\nA missing teenage girl was rescued in the US after using a hand gesture that signals distress or domestic … [+2320 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KGO-TV"
-            },
-            "author": "Cornell Barnard",
-            "title": "Fremont family urges suspect to surrender after toddler dies, caught in crossfire of I-880 shooting - KGO-TV",
-            "description": "The family of a toddler is heartbroken and wants the shooting suspect to surrender after 23-month-old Jasper Wu lost his life on Oakland highway.",
-            "url": "https://abc7news.com/jasper-wu-23-month-killed-fremont-family-baby-shot/11210010/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/11210173_110721-kgo-5p-880-shooting-img.jpg?w=1600",
-            "publishedAt": "2021-11-08T03:01:06Z",
-            "content": "FREMONT, Calif. (KGO) -- The family of a Fremont toddler is heartbroken, a day after 23-month old Jasper Wu lost his life. The CHP says he was likely killed by a stray bullet on Interstate 880 in Oak… [+2252 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Mike Jones, USA TODAY",
-            "title": "Where does Odell Beckham Jr. go next? Keep an eye on the Seahawks. - USA TODAY",
-            "description": "Quarterback Russell Wilson has urged Seahawks brass to go after Odell Beckham Jr., and in recent days, team officials have done research on WR.",
-            "url": "https://www.usatoday.com/story/sports/nfl/seahawks/2021/11/07/odell-beckham-jr-seahawks-like-wide-receiver-russell-wilson/6334869001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2021/11/06/USAT/87175118-09ab-48cc-a9f1-678ce0e5f5af-USATSI_16977880.jpg?auto=webp&crop=3607,2029,x105,y1480&format=pjpg&width=1200",
-            "publishedAt": "2021-11-08T02:30:25Z",
-            "content": "Now that the Cleveland Browns have granted Odell Beckham Jr. his release, it’s expected he will pass through waivers unclaimed and then hit free agency, where he will receive the opportunity to sign … [+1367 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Sydney Airport agrees to $17.5bn buyout deal - BBC News",
-            "description": "The offer from a group of infrastructure investors is one of Australia's biggest ever takeover bids.",
-            "url": "https://www.bbc.com/news/business-59202196",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7997/production/_121472113_gettyimages-1350520772.jpg",
-            "publishedAt": "2021-11-08T02:16:24Z",
-            "content": "Image source, Getty Images\r\nImage caption, Fully vaccinated international travellers arriving in Sydney no longer have to quarantine\r\nSydney Airport has agreed to accept a A$23.6bn (£13bn; $17.5bn) t… [+1794 chars]"
+            "author": null,
+            "title": "Migrants aided by Belarus try to push across Polish border - NPR",
+            "description": "A large group of migrants sought to push their way over the border from Belarus into Poland. European Union leaders accuse the Belarusian government of organizing the illegal passage of migrants.",
+            "url": "https://www.npr.org/2021/11/08/1053608851/migrants-aided-by-belarus-try-to-push-across-polish-border",
+            "urlToImage": "https://media.npr.org/assets/img/2021/11/08/ap21312547151963_wide-e11ffd5911833b64361d6339dd52ded36b2fd7f3.jpg?s=1400",
+            "publishedAt": "2021-11-08T20:07:25Z",
+            "content": "Migrants from the Middle East and elsewhere break down the fence as they gather at the Belarus-Poland border near Grodno, Belarus on Monday.\r\nLeonid Shcheglov/BelTA via AP\r\nWARSAW, Poland Hundreds if… [+5712 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Deadline"
             },
-            "author": "Rosy Cordero",
-            "title": "‘Dexter: New Blood’: Michael C. Hall Celebrates Return Of Serial Killer: “It Was Wild!” - Deadline",
-            "description": "ALERT: This story contains details of tonight’s premiere of Showtime’s Dexter: New Blood premiere  Nearly a decade after Showtime’s Dexter concluded after 8 seasons, serial killer Dexter Morgan (Michael C. Hall) is back in the limited series New Blood—and boy…",
-            "url": "https://deadline.com/2021/11/dexter-new-blood-michael-c-hall-premiere-interview-1234869672/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2021/11/DexterNewBlood_101_6501_R.jpg?w=1024",
-            "publishedAt": "2021-11-08T02:06:00Z",
-            "content": "ALERT: This story contains details of tonight’s premiere of Showtime’s Dexter: New Blood premiere \r\nNearly a decade after Showtime’s Dexterconcluded after 8 seasons, serial killer Dexter Morgan (Mich… [+5491 chars]"
+            "author": "Nellie Andreeva",
+            "title": "Emilio Estevez Speaks Out About His ‘Mighty Ducks: Game Changers’ Exit, Reveals Long-Haul Covid - Deadline",
+            "description": "EXCLUSIVE: Mighty Ducks franchise star Emilio Estevez is speaking out about the circumstances surrounding his departure from Disney+’s series Mighty Ducks: Game Changers ahead of its second season. In the lengthy response to Deadline’s November 5 story about …",
+            "url": "https://deadline.com/2021/11/emilio-estevez-long-haul-covid-mighty-ducks-exit-statement-disney-plus-1234869916/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/11/image-8.jpeg?w=1024",
+            "publishedAt": "2021-11-08T20:03:00Z",
+            "content": "EXCLUSIVE: Mighty Ducks franchise star Emilio Estevez is speaking out about the circumstances surrounding his departure from Disney+’s series Mighty Ducks: Game Changers ahead of its second season.\r\n… [+5509 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ScienceAlert"
+                "name": "The Guardian"
             },
-            "author": "Jacinta Bowler",
-            "title": "Poor ISS Astronauts Will Return Home in Diapers as SpaceX's Toilet Keeps Leaking Pee - ScienceAlert",
-            "description": "After almost 200 days in space, four astronauts are returning to Earth this week from the International Space Station (ISS). The only problem? The eight-or-so-hour mission will be toilet-less after the SpaceX Dragon capsule toilet was found to leak",
-            "url": "https://www.sciencealert.com/poor-iss-astronauts-will-have-to-come-home-in-nappies-cause-spacex-s-toilet-keeps-leaking-pee",
-            "urlToImage": "https://www.sciencealert.com/images/2021-11/processed/CrewISS5556SpaceOlympics_1024.jpg",
-            "publishedAt": "2021-11-08T01:44:10Z",
-            "content": "After almost 200 days in space, four astronauts are returning to Earth this week from the International Space Station (ISS). The only problem? The eight-or-so-hour mission will be toilet-less after t… [+3022 chars]"
+            "author": "Donna Lu",
+            "title": "Earth's first continents emerged from the ocean 700m years earlier than thought - The Guardian Australia",
+            "description": "Ancient rock forms suggest world’s first stable cratons rose above sea level more than 3bn years ago",
+            "url": "https://amp.theguardian.com/australia-news/2021/nov/09/earths-first-continents-emerged-from-the-ocean-700m-years-earlier-than-thought",
+            "urlToImage": null,
+            "publishedAt": "2021-11-08T20:02:00Z",
+            "content": "Australia newsAncient rock forms suggest worlds first stable cratons rose above sea level more than 3bn years ago\r\nThe Earths first continents rose out of the ocean 700m years earlier than previously… [+3213 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Aria Bendix",
+            "title": "Pfizer COVID-19 vaccine side effects for kids 5 to 11: chart - Business Insider",
+            "description": "Kids receive one-third of the standard dose given to adults, so they can generally expect fewer side effects.",
+            "url": "https://www.businessinsider.com/pfizer-covid-vaccine-side-effects-kids-dose-2021-11",
+            "urlToImage": "https://i.insider.com/61845643326b26001834e855?width=1200&format=jpeg",
+            "publishedAt": "2021-11-08T19:50:54Z",
+            "content": "At long last, kids are starting to filter into pharmacies and clinics for COVID-19 shots.\r\nThe Food and Drug Administration authorized a lower dose of Pfizer's vaccine for emergency use in children a… [+3041 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Tdalabamamag.com"
+                "name": "ESPN"
             },
-            "author": "Patrick Dowd",
-            "title": "Panthers LB accuses Patriots QB Mac Jones of being a dirty player - Touchdown Alabama Magazine",
-            "description": "After a war on the field between the Panthers and Patriots on Sunday, there was a war of words in the media. Following the Patriots 24-6 win, Panthers linebacker Hasson Reddick accused quarterback Mac Jones of being a dirty player referring to a forced fumble…",
-            "url": "https://tdalabamamag.com/2021/11/07/panthers-patriots-mac-jones-dirty/",
-            "urlToImage": "https://i0.wp.com/tdalabamamag.com/wp-content/uploads/2021/11/USATSI_17115177.webp?resize=1000%2C600&ssl=1",
-            "publishedAt": "2021-11-08T01:03:20Z",
-            "content": "After a war on the field between the Panthers and Patriots on Sunday, there was a war of words in the media.\r\nFollowing the Patriots 24-6 win, Panthers linebacker Hasson Reddick accused quarterback M… [+1578 chars]"
+            "author": "Paul Gutierrez",
+            "title": "Las Vegas Raiders cut 2020 first-round CB Damon Arnette after video with death threats - ESPN",
+            "description": "The Raiders have waived cornerback Damon Arnette, the team's second of two first-round draft picks in 2020, after video surfaced of Arnette making death threats while brandishing firearms.",
+            "url": "https://www.espn.com/nfl/story/_/id/32584857/las-vegas-raiders-cut-ex-first-round-cb-damon-arnette-video-death-threats",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0823%2Fr899572_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-11-08T19:43:50Z",
+            "content": "HENDERSON, Nev. -- The Las Vegas Raiders have waived second-year cornerback Damon Arnette, a first-round pick in 2020, after video surfaced this weekend of Arnette making death threats while brandish… [+3348 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WFAA.com"
+                "name": "New York Times"
             },
-            "author": "William Joy (WFAA)",
-            "title": "Family says North Texas man died after being trampled while saving his fiancée at Astroworld Festival - WFAA.com",
-            "description": "A funeral service was held for Danish Baig, 27, in Colleyville Sunday following the tragic events in Houston.",
-            "url": "https://www.wfaa.com/article/news/local/family-says-north-texas-man-died-being-trampled-while-saving-fiancee-at-astroworld-festival/287-3c3b388a-d138-4b82-89c4-e0f77cf73ddd",
-            "urlToImage": "https://media.wfaa.com/assets/WFAA/images/d26e28fc-805f-4e44-8943-fa06ae40fdaf/d26e28fc-805f-4e44-8943-fa06ae40fdaf_1140x641.jpg",
-            "publishedAt": "2021-11-08T01:03:11Z",
-            "content": "COLLEYVILLE, Texas A North Texas man who is being called a hero by his family was among the eight people who died at the Astroworld Festival in Houston late Friday.\r\nDanish Baig, 27, of Euless was id… [+2004 chars]"
+            "author": "Shaila Dewan",
+            "title": "Does Adding Police Officers Reduce Crime? The Results Are Mixed - The New York Times",
+            "description": "Other anti-crime measures might be more effective, experts say, and avoid the downsides of policing.",
+            "url": "https://www.nytimes.com/2021/11/08/us/police-crime.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/10/28/us/police-crime-3/police-crime-3-facebookJumbo.jpg",
+            "publishedAt": "2021-11-08T19:21:53Z",
+            "content": "With more national focus on those drawbacks, not all voters are enthusiastic about beefing up police forces, even in cities with sharply increasing homicide numbers.Last week, residents of Austin, Te… [+2090 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "Niantic reveals its vision for a ‘real-world metaverse,’ releases Lightship AR Developer Kit - TechCrunch",
+            "description": "AR technology company Niantic, best known for Pokémon GO, announced today that it will launch Lightship, an AR Developer Kit (ARDK) that will make building augmented reality experiences more accessible. This free, openly available technology will help Niantic…",
+            "url": "http://techcrunch.com/2021/11/08/niantic-reveals-its-vision-for-a-real-world-metaverse-releases-lightship-ar-developer-kit/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/niantic-lightship-1.jpeg?w=667",
+            "publishedAt": "2021-11-08T19:19:19Z",
+            "content": "AR technology company Niantic, best known for Pokémon GO, announced today that it will launch Lightship, an AR Developer Kit (ARDK) that will make building augmented reality experiences more accessib… [+2268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Aurelien Breeden",
+            "title": "French Catholic Church Will Sell Assets to Compensate Abuse Victims - The New York Times",
+            "description": "The measure was one of several measures announced by French bishops, one month after a landmark report on sexual abuse by clergy members in France.",
+            "url": "https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/11/08/world/08france-church1/08france-church1-facebookJumbo.jpg",
+            "publishedAt": "2021-11-08T19:16:25Z",
+            "content": "Its the sign of a positive dynamic, which must still be confirmed, Jérôme Chapuis, the editor in chief of La Croix, a respected Catholic newspaper in France, wrote in an editorial on Sunday. Because … [+1625 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Max Greenwood",
+            "title": "Murphy campaign calls on Ciattarelli to concede NJ governor election | TheHill - The Hill",
+            "description": "New Jersey Gov. Phil Murphy’s (D) campaign is calling on his Republican opponent Jack Ciattarelli...",
+            "url": "https://thehill.com/homenews/campaign/580575-murphy-campaign-calls-on-ciattarelli-to-concede-nj-governor-election",
+            "urlToImage": "https://thehill.com/sites/default/files/murphyphil_getty.jpg",
+            "publishedAt": "2021-11-08T18:51:29Z",
+            "content": "New Jersey Gov. Phil MurphyPhil MurphyCORRECTED: Guardian op-ed says Trump is likely 'Biden's best hope for re-election'GOP senator: Republican candidates want Trump endorsement, but will 'win on iss… [+2873 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WKRC TV Cincinnati"
+            },
+            "author": "WKRC",
+            "title": "Teen rescued in Ky. after making hand gesture she learned on TikTok to signal for help - WKRC TV Cincinnati",
+            "description": "LAUREL COUNTY, Ky. (WKYT/CNN Newsource/WKRC) - While the TikTok app has been criticized for encouraging some dangerous behavior, here's a story of how it may have helped saved a life. A 16-year-old girl from North Carolina has been reunited with her family af…",
+            "url": "https://local12.com/news/nation-world/teen-rescued-in-kentucky-after-making-hand-gesture-she-learned-on-tiktok-to-signal-for-help-tiktok-kidnapping-domestic-violence-ohio-asheville-carolina-james-herbert-brick",
+            "urlToImage": "https://static-15.sinclairstoryline.com/resources/media/b2fca181-07fe-4d8d-a471-f7294276aedb-large16x9_211107145759handsignalhelptiktoklivevideo.jpg?1636396245554",
+            "publishedAt": "2021-11-08T18:33:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Winners and losers from NFL Week 9, plus teams that might land Odell Beckham Jr. and Bears-Steelers picks - CBS Sports",
+            "description": "Here's everything you need to know about the NFL for Nov. 8",
+            "url": "https://www.cbssports.com/nfl/news/winners-and-losers-from-nfl-week-9-plus-teams-that-might-land-odell-beckham-jr-and-bears-steelers-picks/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/11/08/dee54668-df15-4698-8dbd-d799710bc1a1/thumbnail/1200x675/906f578214d711571647678c933e0133/broncoswin.jpg",
+            "publishedAt": "2021-11-08T18:26:00Z",
+            "content": "Welcome to the Monday edition of the Pick Six newsletter!\r\nIf I learned one thing from watching football yesterday, it's that the good teams might be bad and the bad teams might be good, which is jus… [+20762 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Lone survivor shot by Kyle Rittenhouse at Kenosha protests testifies he thought he \"was going to die\" - CBS News",
+            "description": "Gaige Grosskreutz, 27, had a gun in has hand, with his arms raised, when Rittenhouse fired, shooting him in the bicep.",
+            "url": "https://www.cbsnews.com/news/kyle-rittenhouse-shooting-survivor-gaige-grosskreutz-testifies-i-was-going-to-die/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/11/08/a79395dc-1b76-4652-a030-b62a0469b4c9/thumbnail/1200x630/797b0e7ac660c121e1f53d090eca3a95/ap21312607184284.jpg",
+            "publishedAt": "2021-11-08T18:25:00Z",
+            "content": "A witness at Kyle Rittenhouse's murder trial testified Monday that he confronted a rifle-toting Rittenhouse with a gun of his own to try to stop the bloodshed, and thought he was going to die as he c… [+6403 chars]"
         }
     ]
 }
