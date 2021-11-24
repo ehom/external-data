@@ -4,119 +4,93 @@
     "articles": [
         {
             "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Denise Chow",
+            "title": "NASA launches first mission to test asteroid deflection - NBC News",
+            "description": "NASA will crash a spacecraft into an asteroid for the first time ever as part of the Double Asteroid Redirection Test (DART), a planetary defense mission.",
+            "url": "https://www.nbcnews.com/science/space/nasa-launch-first-ever-mission-test-asteroid-deflection-rcna5698",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/211124-nasa-asteroid-dart-mb-0950-f4cb94.jpg",
+            "publishedAt": "2021-11-24T10:09:00Z",
+            "content": "The probe will spend almost a year journeying to an asteroid system more than 6.5 million miles away from Earth. The mission's target is Dimorphos, a space rock measuring 525 feet across that orbits … [+2660 chars]"
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Kay Jones, Claudia Dominguez, Holly Yan, Travis Caldwell and Amir Vera, CNN",
-            "title": "The suspect in the deadly Waukesha parade crash has been charged with 5 counts of first-degree intentional homicide, prosecutors say a sixth victim has died - CNN",
-            "description": "A child has died after a man allegedly rammed his SUV through a Christmas parade in Waukesha, Wisconsin, bringing the death toll to six, according to prosecutors Tuesday.",
-            "url": "https://www.cnn.com/2021/11/23/us/waukesha-car-parade-crowd-tuesday/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211122131953-12-waukesha-incident-112221-super-tease.jpg",
-            "publishedAt": "2021-11-23T22:36:00Z",
-            "content": "(CNN)A child has died after a man allegedly rammed his SUV through a Christmas parade in Waukesha, Wisconsin, bringing the death toll to six, according to prosecutors Tuesday.\r\nDarrell E. Brooks, 39,… [+6301 chars]"
+            "author": "Francesca Street, CNN",
+            "title": "Great Barrier Reef explodes into life in 'magical' spawning event - CNN",
+            "description": "The Great Barrier Reef has \"given birth\" in its annual coral spawn, creating a cacophony of color on the Australian landmark.",
+            "url": "https://www.cnn.com/travel/article/great-barrier-reef-coral-spawn-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211123164201-20211123-flynn-reef-point-break-acropora-releasingcredit-gareth-phillips-reef-teach135-super-tease.jpg",
+            "publishedAt": "2021-11-24T07:37:03Z",
+            "content": "(CNN) The Great Barrier Reef has \"given birth\" in its annual coral spawn, creating a cacophony of color on the Australian landmark.\r\nScientists working beneath the waves say they witnessed the event,… [+3002 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "ESPN"
             },
-            "author": "Guardian staff reporter",
-            "title": "Jury awards $25m in damages over deadly 2017 Charlottesville far-right rally - The Guardian",
-            "description": "Nine people who were physically or emotionally injured during the two days of demonstrations will receive payment",
-            "url": "https://amp.theguardian.com/us-news/2021/nov/23/charlottesville-white-nationalist-rally-trial",
+            "author": "Myron Medcalf",
+            "title": "No. 1 Gonzaga dominates No. 2 UCLA in men's basketball showdown - ESPN",
+            "description": "No. 1 Gonzaga dominated No. 2 UCLA in an 83-63 victory Tuesday night that turned an anticipated showdown into a showcase for the Bulldogs.",
+            "url": "https://www.espn.com/mens-college-basketball/story/_/id/32703594/no-1-gonzaga-dominates-no-2-ucla-marquee-men-basketball-matchup",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1124%2Fr941625_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-11-24T07:07:41Z",
+            "content": "LAS VEGAS -- After his team's 83-63 win over UCLA on Tuesday night at T-Mobile Arena, Gonzaga's Drew Timme said the Bulldogs had not sent a message with their dominant victory to anyone outside their… [+2968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Tessa Koumoundouros",
+            "title": "This Ancient Human Relative 'Walked Like a Human, But Climbed Like an Ape' - ScienceAlert",
+            "description": "Sometime between 7-6 million years ago, our primate ancestors stood up and began to walk on two legs.",
+            "url": "https://www.sciencealert.com/this-ancient-human-relative-walked-like-a-human-but-climbed-like-an-ape",
+            "urlToImage": "https://www.sciencealert.com/images/2021-11/processed/IssaPortraitAndFullBody_1024.jpg",
+            "publishedAt": "2021-11-24T06:34:38Z",
+            "content": "Sometime between 7-6 million years ago, our primate ancestors stood up and began to walk on two legs.\r\nA defining moment along the winding evolutionary roads to becoming human, this is the feature re… [+3728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Dom Calicchio",
+            "title": "Biden expected to nominate Shalanda Young for budget director - Fox Business",
+            "description": "President Biden on Wednesday is expected to nominate Shalanda Young to be permanent director of the Office of Management and Budget, Fox News has learned.",
+            "url": "https://www.foxbusiness.com/politics/biden-shalanda-young-budget-director-omb-nomination",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/0/0/Shalanda-Youngggg.jpg?ve=1&tl=1",
+            "publishedAt": "2021-11-24T06:24:53Z",
+            "content": "President Biden on Wednesday is expected to nominate Shalanda Young to be permanent director of the Office of Management and Budget, Fox News has learned.\r\nIf confirmed by the Senate, Young would bec… [+1704 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Kenneth Garger",
+            "title": "Kyle Rittenhouse met with Donald Trump at Mar-a-Lago after acquittal - New York Post",
+            "description": "Kyle Rittenhouse met with Donald Trump at the former president’s Mar-a-Lago club after the teen was acquitted of all charges in his homicide trial last week.",
+            "url": "https://nypost.com/2021/11/24/kyle-rittenhouse-and-donald-trump-meet-at-mar-a-lago-after-acquittal/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/11/trump-rittenhouse-index.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-11-24T05:13:00Z",
+            "content": "Kyle Rittenhouse met with Donald Trump at the former presidents Mar-a-Lago club after the teen was acquitted of all charges in his homicide trial last week.\r\nThe meeting between the two was disclosed… [+1396 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Amazon Studios Is Closing in on a Mass Effect Adaptation | CBR - CBR",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiPWh0dHBzOi8vd3d3LmNici5jb20vbWFzcy1lZmZlY3QtYWRhcHRhdGlvbi1kZWFsLWNsb3NlLWFtYXpvbi_SAUFodHRwczovL3d3dy5jYnIuY29tL21hc3MtZWZmZWN0LWFkYXB0YXRpb24tZGVhbC1jbG9zZS1hbWF6b24vYW1wLw?oc=5",
             "urlToImage": null,
-            "publishedAt": "2021-11-23T22:11:00Z",
-            "content": "VirginiaNine people who were physically or emotionally injured during the two days of demonstrations will receive payment\r\nTue 23 Nov 2021 21.06 GMT\r\nA jury has awarded more than $25m in damages agai… [+5799 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Luke Broadwater, Alan Feuer",
-            "title": "House Panel Investigating Capitol Attack Subpoenas Proud Boys and Oath Keepers - The New York Times",
-            "description": "Investigators believe three militia or paramilitary groups have information about the deadly siege on Jan. 6.",
-            "url": "https://www.nytimes.com/2021/11/23/us/politics/jan-6-proud-boys-oathkeepers.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/11/23/us/politics/23dc-investigate/merlin_182917185_9d2e07f3-ce5c-48c1-b8d0-38713dc171e6-facebookJumbo.jpg",
-            "publishedAt": "2021-11-23T22:05:11Z",
-            "content": "At the same time, the panel is struggling to compel some of those allies to comply with its investigation. Federal prosecutors have indicted Stephen K. Bannon, a former top aide to Mr. Trump, on cont… [+2181 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Chicago Tribune"
-            },
-            "author": "Colleen Kane",
-            "title": "How Matt Nagy report set off strange day for Chicago Bears - Chicago Tribune",
-            "description": "Matt Nagy has faced questions about his job security with the Chicago Bears before, but never quite like Tuesday morning after a report said his firing was imminent after Thursday’s game.",
-            "url": "https://www.chicagotribune.com/sports/bears/ct-chicago-bears-matt-nagy-20211123-snvecmeby5bfblcp3hkkcfthee-story.html",
-            "urlToImage": "https://www.chicagotribune.com/resizer/s6RLI77juaXetzL_J0ZkYiqlMLM=/1200x0/left/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3PXFTLJYSJHGZOFCXPJSFPAUHE.jpg",
-            "publishedAt": "2021-11-23T22:03:00Z",
-            "content": "Matt Nagy has faced questions about his job security with the Chicago Bears before, but never quite like Tuesday morning at Halas Hall.\r\nAs the Bears were in the middle of preparing for Thursdays gam… [+8080 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Tanaya Macheel",
-            "title": "Stocks making the biggest moves after hours: Nordstrom, Gap, VMware, HP and more - CNBC",
-            "description": "These are the stocks posting the largest moves after the bell.",
-            "url": "https://www.cnbc.com/2021/11/23/stocks-making-the-biggest-moves-after-hours-nordstrom-gap-vmware-hp-and-more.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106933060-1629904031016-gettyimages-1320232942-dsc01750_2021052650717452.jpeg?v=1637701586",
-            "publishedAt": "2021-11-23T21:47:18Z",
-            "content": "Check out the companies making headlines after the bell:\r\nNordstrom Shares of the department store chain tumbled roughly 20% following its quarterly results. Nordstrom reported earnings of 39 cents p… [+1451 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Robert Lee Hotz",
-            "title": "NASA Planetary Defense Mission Aims to Push Distant Asteroid Off Its Path - The Wall Street Journal",
-            "description": "Move will test technique that one day might avert an apocalyptic collision with Earth",
-            "url": "https://www.wsj.com/articles/nasas-asteroid-defense-mission-to-smash-probe-into-distant-space-rock-11637679600",
-            "urlToImage": "https://images.wsj.net/im-439530/social",
-            "publishedAt": "2021-11-23T21:08:00Z",
-            "content": "The first planetary defense mission takes to the skies early Wednesday, when the National Aeronautics and Space Administration launches a space probe designed to deflect a distant asteroid in a test … [+508 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Zolan Kanno-Youngs, Stanley Reed, Jim Tankersley",
-            "title": "Biden to Tap Into U.S. Oil Reserves to Combat Rising Gas Prices - The New York Times",
-            "description": "In an attempt to reduce energy prices, the U.S. will release 50 million barrels of crude. Five other nations also will dip into stockpiles.",
-            "url": "https://www.nytimes.com/2021/11/23/business/biden-oil-reserves-gas-prices.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/11/23/business/23dc-oilreserve01alt/23dc-oilreserve01alt-facebookJumbo.jpg",
-            "publishedAt": "2021-11-23T21:07:42Z",
-            "content": "Helima Croft, head of global commodities at RBC Capital Markets, an investment bank, said OPEC Plus could choose to respond at its next meeting, on Dec. 2.\r\nIf OPEC wants to be obstructionist, they c… [+1281 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "George Dvorsky",
-            "title": "Mammoth Tusk Found at the Bottom of Pacific Ocean Stuns Scientists - Gizmodo",
-            "description": "The tusk, belonging to an extinct Columbian mammoth, was found resting on the seafloor nearly 2 miles beneath the surface.",
-            "url": "https://gizmodo.com/mammoth-tusk-found-at-the-bottom-of-pacific-ocean-stuns-1848111748",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/77593e67fe2458d3fc2e5e306d32004e.jpg",
-            "publishedAt": "2021-11-23T21:04:00Z",
-            "content": "Marine biologists expect to find all sorts of strange stuff in the deep sea, but a mammoth tusk aint one of them.\r\nMarine biologist Steven Haddock and ROV pilot Randy Prickett first spotted the tusk … [+3446 chars]"
-        },
-        {
-            "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
-            },
-            "author": "[{\"@type\":\"Person\",\"name\":\"Allie Hayes\",\"url\":\"https://www.buzzfeed.com/alliehayes\",\"jobTitle\":\"BuzzFeed Staff\"}]",
-            "title": "It's Time To Bid A Fond Farewell To These 64 Titles Leaving Netflix In December 2021 - BuzzFeed",
-            "description": "So much goodness, so little time left to watch!",
-            "url": "https://www.buzzfeed.com/alliehayes/leaving-netflix-december-2021",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2021-11/23/20/enhanced/e8a9ec6e27cb/original-2673-1637699219-2.jpg?crop=1581:830;0,0%26downsize=1250:*",
-            "publishedAt": "2021-11-23T21:03:07Z",
+            "publishedAt": "2021-11-24T04:58:00Z",
             "content": null
         },
         {
@@ -125,142 +99,168 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Perk's message to Isaiah Stewart on altercation with LeBron: You can't do that! | This Just In - ESPN",
-            "description": "Perk's message to Isaiah Stewart on altercation with LeBron: You can’t do that! | This Just InKendrick Perkins reacts to the NBA suspending LeBron James for ...",
-            "url": "https://www.youtube.com/watch?v=1VYr9pHuCrU",
-            "urlToImage": "https://i.ytimg.com/vi/1VYr9pHuCrU/hqdefault.jpg",
-            "publishedAt": "2021-11-23T21:00:00Z",
+            "title": "India: 'Cryptocurrency regulation' regulation bill could be tabled soon | WION | World English News - WION",
+            "description": "The India Prime Minister Narendra Modi-led government has listed a bill for the upcoming Parliament session that reportedly seeks to prohibit all private cry...",
+            "url": "https://www.youtube.com/watch?v=QXfxbBsdJck",
+            "urlToImage": "https://i.ytimg.com/vi/QXfxbBsdJck/maxresdefault.jpg",
+            "publishedAt": "2021-11-24T04:39:25Z",
             "content": null
         },
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Ann E. Marimow",
-            "title": "Justice Dept. asks court to reinstate Biden's vaccination policy for businesses - The Washington Post",
-            "description": "Dozens of legal challenges primarily from Republican-led states, private employers and conservative groups have been consolidated before a single court.",
-            "url": "https://www.washingtonpost.com/politics/courts_law/biden-vaccine-mandate/2021/11/23/fc823aa4-4c71-11ec-b73b-a00d6e559a6e_story.html",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JBF6Z5CBRUI6ZI5KAJK63QBOW4.jpg&w=1440",
-            "publishedAt": "2021-11-23T20:35:24Z",
-            "content": "Dozens of legal challenges primarily from Republican-led states, private employers and conservative groups have been consolidated before a single court, the U.S. Court of Appeals for the 6th Circuit.… [+3675 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "The Associated Press",
-            "title": "CVS, Walmart and Walgreens are responsible for role in opioid crisis, jury finds - NBC News",
-            "description": "Three retail pharmacy chains recklessly distributed massive amounts of pain pills in two Ohio counties, a federal jury said Tuesday.",
-            "url": "https://www.nbcnews.com/news/us-news/cvs-walmart-walgreens-are-responsible-role-opioid-crisis-jury-finds-rcna6523",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/211123-walgreens-al-1430-188fc8.jpg",
-            "publishedAt": "2021-11-23T20:34:45Z",
-            "content": "CLEVELAND Three retail pharmacy chains recklessly distributed massive amounts of pain pills in two Ohio counties, a federal jury said Tuesday in a verdict that could set the tone for U.S. city and co… [+3717 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Audrey Conklin",
-            "title": "Brian Laundrie autopsy: Forensic anthropologist says fugitive died of suicide - Fox News",
-            "description": "Deceased fugitive Brian Laundrie died of suicide, a forensic anthropologist told Laundrie family attorney Steven Bertolino on Tuesday.",
-            "url": "https://www.foxnews.com/us/brian-laundrie-autopsy-results",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/LAUNDRIE-FAMILY-INSET-.jpg",
-            "publishedAt": "2021-11-23T20:26:30Z",
-            "content": "CLICK HERE TO GET THE FOX NEWS APP\r\nDeceased fugitive Brian Laundrie died of suicide, a forensic anthropologist told Laundrie family attorney Steven Bertolino on Tuesday.\r\nLaundrie took his own life … [+3670 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Daniel Canova",
-            "title": "Giants fire offensive coordinator Jason Garrett - Fox News",
-            "description": "Jason Garrett is out of New York.",
-            "url": "https://www.foxnews.com/sports/giants-fire-offensive-coordinator-jason-garrett",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/AP21327716238370.jpg",
-            "publishedAt": "2021-11-23T20:24:09Z",
-            "content": "Jason Garrett is out of New York.\r\nThe Giants announced on Tuesday that theyve fired their offensive coordinator after a poor performance against the Tampa Bay Buccaneers on Monday Night Football.\r\nC… [+1501 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "US jury awards $25m in damages over Unite the Right rally - BBC News",
+            "description": "Those injured in Charlottesville accused organisers of conspiring to commit racially motivated violence.",
+            "url": "https://www.bbc.com/news/world-us-canada-59355019",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C4B/production/_121774130_rally.jpg",
+            "publishedAt": "2021-11-24T04:36:18Z",
+            "content": "Image source, Getty Images\r\nImage caption, Richard Spencer, who coined the term \"alt-right\", was among the defendants\r\nA US jury has awarded $25m (£19m) in damages against the organisers of a deadly … [+4365 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "WSB Atlanta"
             },
-            "author": "",
-            "title": "Fantasy Football Week 12 running back rankings: Saquon Barkley, Miles Sanders return with question marks - CBSSports.com",
-            "description": "Uncertainty is the word for more and more NFL and Fantasy backfields.",
-            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-12-running-back-rankings-saquon-barkley-miles-sanders-return-with-question-marks/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/10/15/b47b644a-fa2d-4baa-9d48-a0be9f5ff4a0/thumbnail/1200x675/735f19636b74df5258aa6d8750c94861/miles-sanders-7.jpg",
-            "publishedAt": "2021-11-23T20:11:58Z",
-            "content": "Week 11 saw the return of three big-name running backs from injury, and while it was nice to see Saquon Barkley, Clyde Edwards-Helaire, and Miles Sanders back on the field, I'm not sure we saw enough… [+3367 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Catherine Thorbecke",
-            "title": "Macy's iconic Thanksgiving Day Parade balloons are now NFTs - ABC News",
-            "description": "",
-            "url": "https://abcnews.go.com/Business/macys-iconic-thanksgiving-day-parade-balloons-now-nfts/story?id=81348581",
-            "urlToImage": "https://s.abcnews.com/images/Business/macys-thanksgiving-parade-01-gty-jc-211123_1637691129115_hpMain_16x9_992.jpg",
-            "publishedAt": "2021-11-23T20:03:40Z",
-            "content": "Macy's is turning some of the iconic balloon designs from its annual Thanksgiving Day parades into non-fungible tokens (NFTs), some of which will be auctioned to benefit the Make-A-Wish foundation.\r\n… [+2301 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Tim De Chant",
-            "title": "Elizabeth Holmes throws scientists under the bus - Ars Technica",
-            "description": "Holmes' rosy view of Theranos technology was shaped by others, she claims.",
-            "url": "https://arstechnica.com/tech-policy/2021/11/elizabeth-holmes-throws-scientists-under-the-bus/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/GettyImages-1236732798-760x380.jpg",
-            "publishedAt": "2021-11-23T19:22:09Z",
-            "content": "Enlarge/ Elizabeth Holmes, founder of Theranos Inc., arrives at federal court in San Jose, California, on Monday, Nov. 22, 2021. Holmes targeted ultra-wealthy families as early backers of Theranos to… [+4600 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WTAE Pittsburgh"
-            },
-            "author": "Kylie Walker",
-            "title": "Medical examiner identifies 5-year-old boy police say was shot and killed by sibling in Penn Hills - WTAE Pittsburgh",
-            "description": "The victim was identified Tuesday morning as Connor Wolfe, 5, of Penn Hills.",
-            "url": "https://www.wtae.com/article/penn-hills-police-investigation-prescott-drive/38325297",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/vlcsnap-2021-11-22-18h25m17s822-1637623536.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-            "publishedAt": "2021-11-23T18:57:00Z",
-            "content": "PENN HILLS, Pa. —On Tuesday morning, the Allegheny County Medical Examiner's office identified a 5-year-old boy that police say died after he was shot by a 6-year-old sibling inside a home in Penn Hi… [+1645 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Boryana Dzhambazova, Livia Albeck-Ripka",
-            "title": "Bulgaria Bus Crash Kills Dozens - The New York Times",
-            "description": "The bus, which had Macedonian plates, caught fire on a highway on the way back from a trip to Istanbul, officials said.",
-            "url": "https://www.nytimes.com/2021/11/23/world/europe/bulgaria-bus-crash-north-macedonia.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/11/23/world/23bulgaria-crash/23bulgaria-crash-facebookJumbo.jpg",
-            "publishedAt": "2021-11-23T18:50:17Z",
-            "content": "Photographs from the scene showed the charred remains of the bus on the roadside.\r\nBoyko Rashkov, the Bulgarian interior minister, visited the site of the accident on Tuesday. The picture is horrifyi… [+1148 chars]"
+            "author": "Theresa Seiger, Cox Media Group National Content Desk",
+            "title": "Brian Laundrie died of self-inflicted gunshot wound, medical examiner confirms - WSB Atlanta",
+            "description": "An attorney representing the family of Brian Laundrie told reporters Tuesday that the 23-year-old died of a self-inflicted gunshot wound.",
+            "url": "https://www.wsbtv.com/news/trending/brian-laundrie-autopsy-update-expected-soon-attorney-says/VZI3FVMZFRHGPLOHZSULCXS2XE/",
+            "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/w_92Kq2xvb0mHw_MOw5bDc4Cf3s=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/T7STTZNOG5CY7EZOQYTESKAK4E.jpg",
+            "publishedAt": "2021-11-24T04:34:00Z",
+            "content": "An attorney representing the family of Brian Laundrie told reporters Tuesday that the 23-year-old died of a self-inflicted gunshot wound.\r\n&gt;&gt; Read more trending news\r\nAuthorities found Laundrie… [+3086 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Eliott C. McLaughlin and Devon M. Sayers, CNN",
-            "title": "Jury begins deliberations in Ahmaud Arbery murder trial after prosecutor delivers final rebuttal - CNN",
-            "description": "The prosecutor in the Ahmaud Arbery murder trial sought Tuesday to simplify the events that led to Arbery's death, taking the podium the day after defense teams spent much of their closing arguments trying to criminalize Arbery, alleging he brought his death …",
-            "url": "https://www.cnn.com/2021/11/23/us/ahmaud-arbery-killing-trial-tuesday-closing-arguments/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211123032220-03-arbery-closing-dunikoski-1122-super-tease.jpg",
-            "publishedAt": "2021-11-23T18:40:00Z",
-            "content": "Brunswick, Georgia (CNN)The prosecutor in the Ahmaud Arbery murder trial sought Tuesday to simplify the events that led to Arbery's death, taking the podium the day after defense teams spent much of … [+9681 chars]"
+            "author": "Raja Razek, CNN",
+            "title": "15-year-old charged with attempted murder in connection with a shooting near a Colorado school that left six teens injured, police say - CNN",
+            "description": "A 15-year-old boy has been arrested in connection with a shooting at a park in Aurora, Colorado, that left six teenagers recovering from gunshot wounds, police said Tuesday.",
+            "url": "https://www.cnn.com/2021/11/23/us/colorado-aurora-park-shooting-arrest/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211115164107-03-aurora-colorado-park-shooting-screenshot-super-tease.jpg",
+            "publishedAt": "2021-11-24T04:26:00Z",
+            "content": "(CNN)A 15-year-old boy has been arrested in connection with a shooting at a park in Aurora, Colorado, that left six teenagers recovering from gunshot wounds, police said Tuesday. \r\nThe teen was charg… [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Biden administration invites Taiwan to the Summit for Democracy, a move likely to anger China - CNBC",
+            "description": "The Biden administration invited Taiwan to its \"Summit for Democracy\" next month, according to a list of participants published, a move likely to anger China.",
+            "url": "https://www.cnbc.com/2021/11/24/biden-administration-invites-taiwan-to-its-summit-for-democracy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106979795-1637726519188-gettyimages-1235813682-_ABU9397.jpeg?v=1637726270",
+            "publishedAt": "2021-11-24T04:14:00Z",
+            "content": "The Biden administration has invited Taiwan to its \"Summit for Democracy\" next month, according to a list of participants published on Tuesday, a move likely to infuriate China, which views the democ… [+2112 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Kris Maher",
+            "title": "Walgreens, Walmart and CVS Pharmacies Contributed to Opioid Epidemic, Ohio Jury Finds - The Wall Street Journal",
+            "description": "Two state counties argued pharmacy chains created public nuisance by enabling opioid crisis",
+            "url": "https://www.wsj.com/articles/ohio-jury-finds-pharmacies-operated-by-cvs-walgreens-walmart-contributed-to-opioid-epidemic-11637695351",
+            "urlToImage": "https://images.wsj.net/im-440256/social",
+            "publishedAt": "2021-11-24T04:13:00Z",
+            "content": "A federal jury in Cleveland on Tuesday found that the companies owning CVS, Walgreens and Walmart pharmacies were liable for contributing to the opioid epidemic in two Ohio countiesthe first, potenti… [+468 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Alyssa Barbieri",
+            "title": "Report: Matt Nagy met with Bears ownership Tuesday before canceling rest of day’s meetings - Yahoo Sports",
+            "description": "According to the Chicago Tribune’s Brad Biggs, Matt Nagy met with Bears ownership Tuesday before canceling the rest of the day’s meetings",
+            "url": "https://bearswire.usatoday.com/2021/11/23/bears-matt-nagy-fired-speculation-met-with-ownership-tuesday/",
+            "urlToImage": "https://bearswire.usatoday.com/wp-content/uploads/sites/63/2021/09/3e0b415dd3b247aa838cf539f4b430fc.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2021-11-24T03:28:19Z",
+            "content": "If there was a word to describe the events that unfolded with the Chicago Bears on Tuesday, it’s dysfunction. Then again, that’s nothing new for this franchise.\r\nAt the center of the chaos was head c… [+1909 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Megan Sheets",
+            "title": "Wisconsin parade news – latest: Darrell Brooks appears in court as prosecutors announce sixth Waukesha victim - The Independent",
+            "description": "Follow the latest updates",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/wisconsin-waukesha-victim-darrell-brooks-live-b1963284.html",
+            "urlToImage": "https://static.independent.co.uk/2021/11/23/17/2021-11-23T155330Z_435044062_RC2A0R96F3VF_RTRMADP_3_WISCONSIN-PARADE.JPG?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-11-24T03:02:42Z",
+            "content": "Darrell Brooks appears in court following Wisconsin parade attack\r\nDarrell Brooks appeared in court today for a preliminary hearing on charges for allegedly killing six people by ramming his car into… [+8810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Ringer"
+            },
+            "author": "Jodi Walker",
+            "title": "‘The Bachelorette’ Recap: Listen to the Children - The Ringer",
+            "description": "Clayton meets Michelle’s students (and the back seat of a departing SUV), Brandon meets the parents, and Nayte once again meets the benefits of being tall",
+            "url": "https://www.theringer.com/2021/11/23/22799620/the-bachelorette-season-18-episode-6-recap-brandon-clayton-dumped",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/r8p9K3DbIZXqBefcuA-XcSaiEJ8=/0x0:1200x628/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23039104/BacheloretteMichelleEp06_ABC_Ringer.jpeg",
+            "publishedAt": "2021-11-24T03:02:03Z",
+            "content": "There comes a time in every Bachelorettes journey when she has to look past her boyfriends Johnny Bravo chin, well beyond his 2013 One Direction hair, and even the gleaming rows of orthodontia his pa… [+15764 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Billboard"
+            },
+            "author": "Paul Grein",
+            "title": "Grammy Nominations in the Post-Committee Era: Who Benefited & Who Didn’t? (Analysis) - Billboard",
+            "description": "Tony Bennett & Lady Gaga and ABBA might want to thank the Recording Academy for getting rid of its nominations review committee. Wizkid might feel differently.",
+            "url": "https://www.billboard.com/music/awards/grammy-nominations-analysis-review-committees-1235002304/",
+            "urlToImage": "https://www.billboard.com/wp-content/uploads/2021/08/lady-gaga-tony-bennett-2021-press-billboard-1548-1628041075.jpg?w=1024",
+            "publishedAt": "2021-11-24T02:23:57Z",
+            "content": "Tony Bennett &amp; Lady Gaga and ABBA might want to thank the Recording Academy for getting rid of its nominations review committees. Wizkid might feel differently.\r\nThis year, for the first time in … [+6901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Solar Energy Breakthrough: Ultrathin Solar Cells Using 2D Perovskites Get a Boost - SciTechDaily",
+            "description": "Rice lab finds 2D perovskite compound has the right stuff to challenge bulkier products. Rice University engineers have achieved a new benchmark in the design of atomically thin solar cells made of semiconducting perovskites, boosting their efficiency while r…",
+            "url": "https://scitechdaily.com/solar-energy-breakthrough-ultrathin-solar-cells-using-2d-perovskites-get-a-boost/",
+            "urlToImage": "https://scitechdaily.com/images/2D-Perovskite-Solar-Cell-for-Testing-scaled.jpg",
+            "publishedAt": "2021-11-24T02:12:46Z",
+            "content": "ByRice UniversityNovember 23, 2021\r\nA two-dimensional coat of a perovskite compound is the basis for an efficient solar cell that might stand up to environmental wear and tear, unlike earlier perovsk… [+9225 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gaming INTEL"
+            },
+            "author": null,
+            "title": "GameStop Thanksgiving Stores List Not Released for PS5 & Xbox Restock Bundle Event - Gaming INTEL",
+            "description": "GameStop will have a PS5 & Xbox Series X Thanksgiving in-store restock, here are all the tips needed to learn if your store is participating.",
+            "url": "https://gamingintel.com/gamestop-thanksgiving-stores-list-for-ps5-xbox-restock-bundle-event/",
+            "urlToImage": "https://gamingintel.com/wp-content/uploads/2021/11/GameStop-Thanksgiving-Stores-List-Not-Released-for-PS5-Xbox-Restock-Bundle-Event.jpg",
+            "publishedAt": "2021-11-24T02:08:24Z",
+            "content": "GameStop in-store event participating locations are not available this time, but we still have some tricks for you to get your console.\r\nMost retailers have already announced their console restock pl… [+1975 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Antonio Planas, The Associated Press, Dennis Romero",
+            "title": "String of 'organized retail robberies' lead California investigators to social media - NBC News",
+            "description": "California mayors in Walnut Creek and Hayward said Tuesday police are probing what role social media played in two recent swarming thefts at businesses.",
+            "url": "https://www.nbcnews.com/news/us-news/role-social-media-investigated-swarming-business-thefts-california-rcna6544",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/211122-chicago-smash-grab-snip-ac-446p-1d659f.jpg",
+            "publishedAt": "2021-11-24T01:55:00Z",
+            "content": "Mayors in California are investigating the possibility that thieves used social media to facilitate two quick-hitting thefts, including one Saturday night in which dozens of people were reported to h… [+4636 chars]"
         }
     ]
 }
