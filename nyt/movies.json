@@ -287,7 +287,7 @@
             "uri": "nyt://article/f2d0066f-fbbb-597d-8122-e53714498941",
             "byline": "By Wendell Jamieson",
             "item_type": "Article",
-            "updated_date": "2021-11-30T09:31:17-05:00",
+            "updated_date": "2021-11-30T10:41:19-05:00",
             "created_date": "2021-11-29T15:51:50-05:00",
             "published_date": "2021-11-29T15:51:50-05:00",
             "material_type_facet": "",
@@ -295,12 +295,15 @@
             "des_facet": [
                 "Deaths (Obituaries)",
                 "Actors and Actresses",
-                "Movies"
+                "Movies",
+                "Cosmetics and Toiletries",
+                "Theater",
+                "Astrology",
+                "Writing and Writers"
             ],
             "org_facet": [],
             "per_facet": [
-                "Dahl, Arlene",
-                "Lamas, Lorenzo"
+                "Dahl, Arlene"
             ],
             "geo_facet": [],
             "multimedia": [
@@ -361,17 +364,64 @@
             "short_url": "https://nyti.ms/3xx4fZu"
         },
         {
+            "section": "movies",
+            "subsection": "",
+            "title": "The Gotham Awards Find a Big Winner in ‘The Lost Daughter’",
+            "abstract": "The film, adapted from an Elena Ferrante story by the director-writer Maggie Gyllenhaal, took home top feature, among other honors.",
+            "url": "https://www.nytimes.com/2021/11/30/movies/gotham-awards-winners.html",
+            "uri": "nyt://article/3b08cd02-03ac-579a-97a3-741defaf5367",
+            "byline": "By Kyle Buchanan",
+            "item_type": "Article",
+            "updated_date": "2021-11-30T10:51:51-05:00",
+            "created_date": "2021-11-30T10:51:51-05:00",
+            "published_date": "2021-11-30T10:51:51-05:00",
+            "material_type_facet": "",
+            "kicker": "The Projectionist",
+            "des_facet": [
+                "Movies",
+                "Gotham Independent Film Awards",
+                "Coda (Movie)",
+                "Drive My Car (Movie)",
+                "Flee (Movie)",
+                "The Lost Daughter (Movie)",
+                "The Power of the Dog (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Campion, Jane",
+                "Gyllenhaal, Maggie",
+                "Colman, Olivia",
+                "Johnson, Dakota",
+                "Jones, Emilia (2002- )",
+                "Stewart, Kristen"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/30/arts/30gothams1/merlin_198557562_14522b69-2030-492f-9c6d-bfd30fc5ed14-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Maggie Gyllenhaal was a repeat visitor to the stage of the Gotham Awards.",
+                    "copyright": "Jemal Countess/Getty Images for the Gotham Film & Media Institute"
+                }
+            ],
+            "short_url": "https://nyti.ms/3rnL3w3"
+        },
+        {
             "section": "t-magazine",
             "subsection": "",
             "title": "Tony Kushner, Oracle of the Upper West Side",
-            "abstract": "The most important living American playwright has a number of new projects on the horizon — and plenty more to say about how to make and enjoy art in an era of ongoing turbulence.",
+            "abstract": "When Steven Spielberg asked Kushner, America’s most important living playwright, to take on ‘West Side Story,’ he thought, ‘He’s lost his mind.’ But he dared.",
             "url": "https://www.nytimes.com/2021/11/30/t-magazine/tony-kushner-caroline-west-side.html",
             "uri": "nyt://article/d5985690-c962-5d5d-b08d-470cb5dbbcf0",
             "byline": "By A.O. Scott",
             "item_type": "Article",
-            "updated_date": "2021-11-30T05:00:25-05:00",
-            "created_date": "2021-11-30T05:00:25-05:00",
-            "published_date": "2021-11-30T05:00:25-05:00",
+            "updated_date": "2021-11-30T11:16:25-05:00",
+            "created_date": "2021-11-30T05:00:26-05:00",
+            "published_date": "2021-11-30T05:00:26-05:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
@@ -1363,48 +1413,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/3DNm4Wh"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "‘Touchy Feely,’ ‘Maggie’ and Other Streaming Gems",
-            "abstract": "A look at off-the-radar recommendations for home viewing, including indie comedy-dramas, genre hybrids and informative documentaries about influential outsiders.",
-            "url": "https://www.nytimes.com/2021/11/22/movies/offbeat-streaming-movies.html",
-            "uri": "nyt://article/8819600d-d824-55ff-8109-f2c9736191fd",
-            "byline": "By Jason Bailey",
-            "item_type": "Article",
-            "updated_date": "2021-11-23T09:43:38-05:00",
-            "created_date": "2021-11-22T18:01:35-05:00",
-            "published_date": "2021-11-22T18:01:35-05:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "Adult Beginners (Movie)",
-                "Begin Again (Movie)",
-                "Cymbeline (Movie)",
-                "First Date (Movie)",
-                "Maggie (Movie)",
-                "No No: A Dockumentary (Movie)",
-                "The Year of Spectacular Men (Movie)",
-                "Don Jon (Movie)"
-            ],
-            "org_facet": [],
-            "per_facet": [],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2013/09/06/arts/22beyond1/TOUCHY-superJumbo.jpg",
-                    "format": "superJumbo",
-                    "height": 1021,
-                    "width": 1858,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Rosemarie DeWitt plays a massage therapist in “Touchy Feely.”",
-                    "copyright": "Magnolia Pictures"
-                }
-            ],
-            "short_url": "https://nyti.ms/3FDUI5p"
         }
     ]
 }
