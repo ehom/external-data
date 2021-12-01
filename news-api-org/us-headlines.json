@@ -4,6 +4,123 @@
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amir Vera, Taylor Romine and Kelly McCleary, CNN",
+            "title": "Authorities look for possible motive behind 15-year-old Michigan high school shooting suspect. Here's what we know - CNN",
+            "description": "School bells were replaced by police sirens Tuesday after a mass shooting at Oxford High School in Oxford, Michigan, left three students dead, officials said.",
+            "url": "https://www.cnn.com/2021/12/01/us/oxford-high-school-shooting-what-we-know/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211130143622-02-oxford-mi-lockdown-1130-screengrab-super-tease.jpg",
+            "publishedAt": "2021-12-01T10:14:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Azi Paybarah, Reed Abelson",
+            "title": "Federal Judge Blocks Vaccine Mandate for Health Workers - The New York Times",
+            "description": "The ruling is a setback for the administration’s effort to require vaccination for hospital and nursing home workers, which had been set to start next week.",
+            "url": "https://www.nytimes.com/2021/11/30/world/vaccine-mandate-health-workers-blocked.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/11/30/multimedia/30-virusbrief-antivax/30-virusbrief-antivax-facebookJumbo.jpg",
+            "publishedAt": "2021-12-01T09:06:00Z",
+            "content": "A federal judge issued a preliminary injunction on Tuesday to halt the start of President Bidens national vaccine mandate for health care workers, which had been set to begin next week. \r\nThe injunct… [+994 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Matt Wilstein",
+            "title": "Colbert Exposes Known 'Liar' Dr. Oz Ahead of Senate Run - The Daily Beast",
+            "description": "“Dr. Oz may not just have fake medical claims, he may have fake Pennsylvania claims,” the “Late Show” host told viewers Tuesday night.",
+            "url": "https://www.thedailybeast.com/stephen-colbert-exposes-known-liar-dr-oz-ahead-of-pennsylvania-senate-run",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1638337012/SC_42_vw4lfz",
+            "publishedAt": "2021-12-01T08:32:47Z",
+            "content": "Stephen Colbert kicked off his run of jokes about Dr. Mehmet Ozs big campaign announcement on Tuesday with a bit of a softball: Turns out, running for Senate is the one weird trick to reduce belly fa… [+1264 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Ellie Harrison",
+            "title": "Alice Sebold biopic axed after man’s rape conviction is overturned - The Independent",
+            "description": "Anthony Broadwater was exonerated of crime after film’s executive producer noticed glaring discrepancies in prosecutor’s case",
+            "url": "https://www.independent.co.uk/arts-entertainment/films/news/alice-sebold-rape-lucky-film-b1967461.html",
+            "urlToImage": "https://static.independent.co.uk/2021/11/30/14/newFile-4.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2021-12-01T08:16:21Z",
+            "content": "Plans to adapt Alice Sebolds 1999 memoir Lucky have been scrapped, after the man she accused of raping her had his conviction overturned.\r\nAnthony Broadwater spent 16 years in prison after being conv… [+4114 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rachel Pannett",
+            "title": "Marjorie Taylor Greene, in feud with Nancy Mace on Islamophobia, launches personal attack over abortion - The Washington Post",
+            "description": "Republican Rep. Nancy Mace, who has been criticized by former president Donald Trump, is a rape survivor who supports restrictions on abortion but champions exemptions for victims of sexual abuse.",
+            "url": "https://www.washingtonpost.com/nation/2021/12/01/nancy-mace-twitter-marjorie-taylor-greene/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TON4QMSH4MI6ZPWKHTDRAO6YCQ.jpg&w=1440",
+            "publishedAt": "2021-12-01T08:07:19Z",
+            "content": "She wrote on Twitter Tuesday that Mace is never attacked by Democrats or moderate Republicans because she is not conservative, shes pro-abort.\r\nMace (S.C.), who is a rape survivor, supports restricti… [+3764 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Air travelers to U.S. set to face tougher COVID-19 testing - Reuters",
+            "description": "The U.S. is moving to require that all air travelers entering the country show a negative COVID-19 test performed within one day of departure in response to concerns about a new coronavirus variant, the Centers for Disease Control and Prevention (CDC) said la…",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-urges-americans-avoid-travel-niger-poland-over-covid-19-2021-11-30/",
+            "urlToImage": "https://www.reuters.com/resizer/jNOWIgYDw1hNuoV2WmORb5-ACAo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W2WXJ5L65VMB3B7A2U2PSQUKZE.jpg",
+            "publishedAt": "2021-12-01T07:34:00Z",
+            "content": "WASHINGTON, Nov 30 (Reuters) - The U.S. is moving to require that all air travelers entering the country show a negative COVID-19 test performed within one day of departure in response to concerns ab… [+2782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Anmar Frangoul",
+            "title": "IEA says renewable power installations are set for a record year, warns of net-zero uncertainty - CNBC",
+            "description": "IEA executive director Fatih Birol says \"a new global energy economy is emerging.\"",
+            "url": "https://www.cnbc.com/2021/12/01/renewable-power-installations-set-for-record-year-iea.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106982280-1638289197048-gettyimages-1286008067-20201106_9177.jpeg?v=1638289361",
+            "publishedAt": "2021-12-01T06:55:38Z",
+            "content": "The world is set to add nearly 290 gigawatts of renewable power capacity this year, according to the International Energy Agency, with the Paris-based organization expecting 2021 to \"set a fresh all-… [+3743 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Fantasy Football Week 13 Waiver Wire: Dalvin Cook and Christian McCaffrey injuries create need and options - CBSSports.com",
+            "description": "Lineup options with Panthers, Browns, Packers and Titans on byes.",
+            "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-13-waiver-wire-dalvin-cook-and-christian-mccaffrey-injuries-create-need-and-options/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/09/28/5ebb0c96-7c63-4a90-821d-07add43a20e8/thumbnail/1200x675/efa6400df7f54dc3092ade4ed48bfccd/chuba-hubbard-1400.jpg",
+            "publishedAt": "2021-12-01T05:52:00Z",
+            "content": "The injury report coming out of Week 12 was brutal. It was not a pleasant Thanksgiving weekend for many Fantasy managers.\r\nIt started Thursday when D'Andre Swift (shoulder) and Darren Waller (knee) w… [+9141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "ESPN staff",
+            "title": "Ohio State defeats No. 1 Duke -- What it means for the Buckeyes, the Blue Devils and college basketball - ESPN",
+            "description": "Duke faded late in a 71-66 loss to Ohio State in the Big Ten / ACC Challenge. Here are the implications for college hoops.",
+            "url": "https://www.espn.com/mens-college-basketball/story/_/id/32758907/ohio-state-defeats-no-1-duke-means-buckeyes-blue-devils-college-basketball",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1201%2Fr944708_1296x729_16%2D9.jpg",
+            "publishedAt": "2021-12-01T05:27:17Z",
+            "content": "The top-ranked Duke Blue Devils' reign as college basketball's undisputed team to beat was short-lived. Despite leading for much of the game, the Blue Devils faded late in a 71-66 loss to the unranke… [+8842 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "New York Times"
             },
@@ -12,255 +129,138 @@
             "description": "The Federal Reserve chair, Jerome Powell, said persistent inflation might require a more aggressive approach by the central bank. Wall Street was already uneasy.",
             "url": "https://www.nytimes.com/2021/11/30/business/stock-markets-omicron.html",
             "urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-            "publishedAt": "2021-11-30T22:00:42Z",
+            "publishedAt": "2021-12-01T05:20:00Z",
             "content": "Stock prices were falling around the world before Mr. Powells testimony as investors struggled to understand the danger posed by the Omicron variant, which began roiling markets last week. The Stoxx … [+2616 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Tom Winter, Corky Siemaszko",
-            "title": "Jeffrey Epstein's longtime pilot testifies in trial of Ghislaine Maxwell - NBC News",
-            "description": "The longtime pilot of Jeffrey Epstein testified Tuesday that he remembers meeting one of the women who have accused Ghislaine Maxwell of sex trafficking",
-            "url": "https://www.nbcnews.com/news/us-news/jeffrey-epsteins-longtime-pilot-testifies-trial-ghislaine-maxwell-rcna7078",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/211130-ghislaine-maxwell-mn-1045-5738c5.jpg",
-            "publishedAt": "2021-11-30T21:58:48Z",
-            "content": "The first of the four women who say Ghislaine Maxwell groomed them to have sex with Jeffrey Esptein and others took the stand Tuesday and, in graphic detail, described how she was taught to satisfy a… [+3743 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Spencer Kimball",
-            "title": "FDA advisory panel narrowly endorses Merck's oral Covid treatment pill, despite reduced efficacy and safety questions - CNBC",
-            "description": "The FDA's Antimicrobial Drugs Advisory Committee voted 13 to 10 to recommend emergency authorization of molnupiravir, an oral antiviral drug to fight Covid.",
-            "url": "https://www.cnbc.com/2021/11/30/fda-advisory-panel-narrowly-endorses-mercks-oral-covid-treatment-pill-despite-reduced-efficacy.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106982384-1638297830063-gettyimages-1236371338-porzycki-molnupir211105_npVOG.jpeg?v=1638297866",
-            "publishedAt": "2021-11-30T21:54:16Z",
-            "content": "A Food and Drug Administration advisory panel on Tuesday narrowly endorsed the uPse of Merck and Ridgeback Biotherapeutics' oral Covid treatment pill, despite questions about the drug's effectiveness… [+8749 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Trip Gabriel",
-            "title": "Dr. Oz Says He’s Running for Senate in Pennsylvania - The New York Times",
-            "description": "Dr. Mehmet Oz, who is running as a Republican for an open Senate seat, described his frustration with the “arrogant, closed-minded people in charge” who shut schools and businesses during the pandemic.",
-            "url": "https://www.nytimes.com/2021/11/30/us/politics/dr-oz-senate-run-pennsylvania.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/11/30/us/politics/30oz-senate-1/30oz-senate-1-facebookJumbo.jpg",
-            "publishedAt": "2021-11-30T21:38:39Z",
-            "content": "Dr. Mehmet Oz, a celebrity physician known as the host of the Dr. Oz Show, announced on Tuesday that he would run for Senate in Pennsylvania, jumping into a crowded Republican primary for an open sea… [+830 chars]"
+            "author": "Michael M. Grynbaum, John Koblin",
+            "title": "Chris Cuomo Is Suspended by CNN After Details of Help He Gave Andrew - The New York Times",
+            "description": "The cable news network’s top-rated anchor was an intimate adviser to Andrew Cuomo in the last 18 months of his governorship.",
+            "url": "https://www.nytimes.com/2021/11/30/business/media/chris-cuomo-suspended-cnn.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/11/30/multimedia/30chris-cuomo-cnn/30chris-cuomo-cnn-facebookJumbo.jpg",
+            "publishedAt": "2021-12-01T05:19:00Z",
+            "content": "But the testimony and text messages released this week suggested that Mr. Cuomo did reach out to other journalists. When asked, I would reach out to sources, other journalists, to see if they had hea… [+2665 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rachel Janfaza, CNN",
+            "title": "City Councilman Andre Dickens will become Atlanta's next mayor, CNN projects - CNN",
+            "description": "City Councilman Andre Dickens will become Atlanta's next mayor, CNN projects, defeating City Council President Felicia Moore in a runoff election to determine who will hold the city's top post.",
+            "url": "https://www.cnn.com/2021/11/30/politics/atlanta-mayor-race-andre-dickens/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211130235328-andre-dickens-victory-speech-1130-super-tease.jpg",
+            "publishedAt": "2021-12-01T05:18:00Z",
+            "content": "(CNN)City Councilman Andre Dickens will become Atlanta's next mayor, CNN projects, defeating City Council President Felicia Moore in a runoff election to determine who will hold the city's top post. … [+2134 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rivals.com"
+            },
+            "author": null,
+            "title": "EXCLUSIVE: Everything Brian Kelly told Notre Dame players in exit meeting - Irish Illustrated",
+            "description": "Former Notre Dame head coach Brian Kelly addressed Fighting Irish players Tuesday. Here's everything he said.",
+            "url": "https://notredame.rivals.com/news/exclusive-everything-brian-kelly-told-notre-dame-players-in-exit-meeting",
+            "urlToImage": "https://images.rivals.com/image/upload/f_auto,q_auto,t_headline_primary/gldzya4ghlm6agjzixnz",
+            "publishedAt": "2021-12-01T05:12:47Z",
+            "content": "BlueandGold.com has obtained a video of former Notre Dame head coach Brian Kelly's short speech to the Fighting Irish football team at Tuesday morning's meeting. The video was received from an anonym… [+3236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Reuters",
+            "title": "Cathie Wood's ARK buys a million Twitter shares after Dorsey steps down - Fox Business",
+            "description": "",
+            "url": "https://www.foxbusiness.com/markets/cathie-woods-ark-buys-a-million-twitter-shares-after-dorsey-steps-down",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/0/0/Cathir-Wood-ARK-2.jpg?ve=1&tl=1",
+            "publishedAt": "2021-12-01T03:52:14Z",
+            "content": "Cathie Wood's ARK Investment Management bought more than a million shares of Twitter Inc, a day after Jack Dorsey stepped down as the chief executive of the social networking site.\r\nGET FOX BUSINESS … [+876 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Hannah Yasharoff, USA TODAY",
+            "title": "'The Bachelorette' recap: Michelle makes franchise history with her final four men - USA TODAY",
+            "description": "\"The Bachelorette\" made history Tuesday night: All four of the remaining contestants are Black, a first for the \"Bachelor\" franchise.",
+            "url": "https://www.usatoday.com/story/entertainment/tv/2021/12/01/the-bachelorette-clayton-next-bachelor-michelle-makes-history/8806950002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/11/30/USAT/14538cf9-3282-4f9c-8ed9-1ad7f94509cc-167152_5399.jpg?auto=webp&crop=1885,1061,x443,y200&format=pjpg&width=1200",
+            "publishedAt": "2021-12-01T03:01:57Z",
+            "content": "\"The Bachelorette\" made history Tuesday night: All four of the remaining suitors vying for Michelle's affection are Black, a first for ABC's reality dating franchise. \r\nMichelle, the third Black Bach… [+5317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Meredith B. Kile‍",
+            "title": "'The Voice' Top 8 Revealed: Girl Named Tom, Wendy Moten, Jim and Sasha Allen and More! - Entertainment Tonight",
+            "description": "Is your favorite performer headed to the season 21 semifinals?",
+            "url": "https://www.etonline.com/the-voice-top-8-revealed-girl-named-tom-wendy-moten-jim-and-sasha-allen-and-more-175873",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2021-11/GettyImages-1236900386.jpg?h=c6980913&itok=trTtQvCw",
+            "publishedAt": "2021-12-01T02:00:57Z",
+            "content": "The Voice season 21 semifinals are almost here, and it's all up to the viewer votes to decide who will make it through!\r\nFollowing the Top 10 performances on Monday night, Tuesday's live show feature… [+1079 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "James Peckham",
+            "title": "Xiaomi 12 will be 'available soon' with a Qualcomm Snapdragon 8 Gen 1 chipset - TechRadar",
+            "description": "The phone's name was confirmed during Tech Summit 2021",
+            "url": "https://www.techradar.com/news/xiaomi-12-will-be-available-soon-with-a-qualcomm-snapdragon-8-gen-1-chipset",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZcTmTmfKbosk4EswB8jzFP-1200-80.jpg",
+            "publishedAt": "2021-12-01T01:59:27Z",
+            "content": "The Xiaomi 12 is coming soon, and the company's CEO has confirmed it'll be the first smartphone announced that will feature the Qualcomm Snapdragon 8 Gen 1 chipset (previously anticipated to be named… [+1121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Ethan Millman",
+            "title": "Half of AstroWorld Victims’ Families Reject Travis Scott’s Offer for Funeral Expenses - Rolling Stone",
+            "description": "\"If you gave a shit about these families, you wouldn’t have to put out a press release for everyone to see,\" one victim's attorney says of Scott's offer to pay for funerals",
+            "url": "https://www.rollingstone.com/music/music-news/astroworld-victims-reject-travis-scott-funeral-pay-offer-1264958/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2021/11/travis-scott-funerals.jpg",
+            "publishedAt": "2021-12-01T00:56:23Z",
+            "content": "Three days after the brutal crowd surge at Travis Scott’s Astroworld that would eventually leave 10 people dead and hundreds of others injured, the rapper publicly announced he would pay for victims’… [+3309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Jason Horowitz",
+            "title": "How 2 Flights to Europe May Have Spurred Spread of New Variant - The New York Times",
+            "description": "A confounding array of Covid rules and lax enforcement of mask wearing may have sent on infected passengers on two KLM flights from South Africa to “who knows where.”",
+            "url": "https://www.nytimes.com/2021/11/30/world/europe/omicron-variant-plane-travel.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/11/30/multimedia/30Virus-Planes7/30Virus-Planes7-facebookJumbo.jpg",
+            "publishedAt": "2021-11-30T23:30:27Z",
+            "content": "After the emergence of the Omicron variant in Africa last week, the United States and the European Union and other nations banned flights from southern Africa. Israel and Morocco slammed their doors … [+2204 chars]"
         },
         {
             "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Cameron Faulkner",
-            "title": "The latest Quest update brings cloud backups and a mixed reality view - The Verge",
-            "description": "The latest software update for the Meta Quest headsets brings much-requested cloud save backups, offering you a way to retrieve progress if you reset your headset. There’s also a cool mixed reality camera view for iOS users.",
-            "url": "https://www.theverge.com/2021/11/30/22810426/oculus-meta-quest-2-vr-headset-update-v35-mixed-reality-ios",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Z4Ih_CBMcSFoWV2F-QHZVIAnN-8=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21869420/akrales_200904_4160_0158.0.jpg",
-            "publishedAt": "2021-11-30T21:37:08Z",
-            "content": "Metas final software update for 2021\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nMeta has deliver… [+2684 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Mark Moore",
-            "title": "Putin lays down 'red line,' threatens retaliation if missiles placed in Ukraine - New York Post",
-            "description": "Vladimir Putin warned NATO and the US Tuesday that any deployment of troops or missiles in Ukraine would cross a “red line” and prompt a military response.",
-            "url": "https://nypost.com/2021/11/30/putin-threatens-retaliation-if-missiles-placed-in-ukraine/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/11/AFP_9TN4DG.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2021-11-30T21:23:00Z",
-            "content": "Russian President Vladimir Putin warned NATO and the US Tuesday that any deployment of troops or missiles in Ukraine would cross a “red line” and prompt a military response.\r\nThe emergence of such th… [+2753 chars]"
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": null,
-            "title": "NFL Offensive Player Rankings, Week 13: Teams that should be in the market for Jimmy Garoppolo - NFL.com",
-            "description": "Which teams should be in the market for 49ers QB Jimmy Garoppolo in the coming offseason? David Carr lists three fits. Plus, an updated ranking of the top 15 offensive players in the NFL today.",
-            "url": "https://www.nfl.com/news/nfl-offensive-player-rankings-week-13-teams-that-should-be-in-the-market-for-jim",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/jpowr0oaxka7v3khavfj",
-            "publishedAt": "2021-11-30T21:06:00Z",
-            "content": "Will Jimmy Garoppolo be on the move in the offseason? It certainly appears that way, based on NFL Network Insider Ian Rapoport's reporting this past Sunday.\r\n\"Absent a Super Bowl run, which at this p… [+11619 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "",
-            "title": "What to know about the trial of Kim Potter, the ex-officer who killed Daunte Wright - NPR",
-            "description": "Potter's lawyers say she mistook her handgun for her Taser this year when she fatally shot Wright, a 20-year-old Black man. Her manslaughter trial will begin next week.",
-            "url": "https://www.npr.org/2021/11/30/1060144766/kim-potter-daunte-wright-brooklyn-center-updates-latest",
-            "urlToImage": "https://media.npr.org/assets/img/2021/11/30/kim-potter-diptych-1_wide-809c8b84f7ecafe6253876653e0c9d982b372e78.jpg?s=1400",
-            "publishedAt": "2021-11-30T20:36:08Z",
-            "content": "Former Brooklyn Center, Minn., police officer Kim Potter poses for a mug shot at the Hennepin County Jail in Minneapolis on April 14. Potter, a 26-year police veteran, was charged with second-degree … [+7159 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Brian Kelly selfishly leaving for LSU with Notre Dame in playoff race puts sport's hypocrisy on display - CBSSports.com",
-            "description": "There's a reason that moves like the one Kelly made Monday are considered unprecedented",
-            "url": "https://www.cbssports.com/college-football/news/brian-kelly-selfishly-leaving-for-lsu-with-notre-dame-in-playoff-race-puts-sports-hypocrisy-on-display/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/11/30/e3f46da9-9f20-47b8-9126-1d1653ba007e/thumbnail/1200x675/d58818a1afdf672d59e583595d9e4553/brian-kelly-notre-dame-licking-hands-getty.png",
-            "publishedAt": "2021-11-30T20:33:33Z",
-            "content": "Whatever Brian Kelly told the Notre Dame players on his way out the door Tuesday morning, his final team meeting didn't include the words, \"It's not worth it.\"\r\nIt didn't need to. Kelly's shocking ac… [+7749 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Elizabeth Weise, USA TODAY",
-            "title": "How serious is omicron? It will take weeks to understand new coronavirus variant, experts say. - USA TODAY",
-            "description": "The new omicron variant presents more questions (and uncertainty) than answers. And it will take a few weeks for data to be collected and tracked.",
-            "url": "https://www.usatoday.com/story/news/health/2021/11/30/how-serious-omicron-take-weeks-understand-covid-variant/8790424002/",
-            "urlToImage": "https://www.gannett-cdn.com/media/2021/11/29/USATODAY/usatsports/MotleyFool-TMOT-ecba89ff-omicron-variant.jpg?auto=webp&crop=2309,1299,x0,y0&format=pjpg&width=1200",
-            "publishedAt": "2021-11-30T20:26:15Z",
-            "content": "Three questions loom about the newly detected omicron variant of the coronavirus: Is it more transmissible than delta? Does it make people sicker? How much protection does vaccination or a prior infe… [+6378 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Courtney Kube",
-            "title": "Defense Secretary Austin orders National Guard to get vaccinated or face loss of pay - NBC News",
-            "description": "Defense Secretary Austin has ordered that all members of the National Guard must get Covid vaccines or face loss of pay and being marked absent from training.",
-            "url": "https://www.nbcnews.com/politics/national-security/defense-secretary-austin-orders-national-guard-get-vaccinated-face-los-rcna7131",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-11/21113-oklahoma-national-guard-se-203p-9dbc72.jpg",
-            "publishedAt": "2021-11-30T19:48:53Z",
-            "content": "Defense Secretary Lloyd Austin has ordered that all members of the National Guard and Reserve must receive Covid vaccines or face loss of pay and being marked absent without cause from drills and tra… [+2255 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Ben Beaumont-Thomas",
-            "title": "Adele announces Las Vegas concert residency, Weekends With Adele - The Guardian",
-            "description": "Singer will play two shows a weekend between January and April",
-            "url": "https://amp.theguardian.com/music/2021/nov/30/adele-announces-las-vegas-concert-residency-weekends-with-adele",
-            "urlToImage": null,
-            "publishedAt": "2021-11-30T19:33:00Z",
-            "content": "AdeleSinger will play two shows a weekend between January and April \r\nAdele has become the latest and arguably the biggest artist to announce a Las Vegas concert residency.\r\nWeekends With Adele will … [+2313 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vulture"
-            },
-            "author": "Justin Curto",
-            "title": "Billie Eilish Is No Longer Keeping Her Tattoos Secret - Vulture",
-            "description": "She opened up about all three of them in her 2021 Vanity Fair video interview.",
-            "url": "http://www.vulture.com/2021/11/billie-eilish-2021-vanity-fair-interview-tattoos.html",
-            "urlToImage": "https://pyxis.nymag.com/v1/imgs/984/f41/570819b28befd57ff42c22a2a7a0653710-billie-eilish-tattoo.1x.rsocial.w1200.jpg",
-            "publishedAt": "2021-11-30T19:06:29Z",
-            "content": "They grow up so fast. In 2019, Billie Eilish told Vanity Fair she wanted to get a tattoo, maybe? in her third-annual video interview for the magazine. By 2020, Eilish said shed gotten that tattoo but… [+1695 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Brian Fung, CNN Business",
-            "title": "Meet the new CEO of Twitter - CNN",
-            "description": "Parag Agrawal isn't a household name, but he could soon become one as he takes the lead at one of the world's most influential social media companies.",
-            "url": "https://www.cnn.com/2021/11/30/tech/parag-agrawal-profile/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211130110658-parag-agrawal-twitter-ceo-super-tease.jpg",
-            "publishedAt": "2021-11-30T19:04:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Matt Wadleigh",
-            "title": "Lincoln Riley offers his account of the move to Los Angeles and USC - Trojans Wire",
-            "description": "Oklahoma fans will not agree with this version of events, to put it mildly. (They will also be right.) #USC fans won’t care, and they shouldn’t have to. It’s not their problem.",
-            "url": "https://trojanswire.usatoday.com/2021/11/30/lincoln-riley-gives-his-version-of-how-he-came-to-usc/",
-            "urlToImage": "https://trojanswire.usatoday.com/wp-content/uploads/sites/13/2021/11/1236897338.jpg?w=1024&h=576&crop=1",
-            "publishedAt": "2021-11-30T18:52:00Z",
-            "content": "The coaching carousel swirled around and around for the USC Trojans’ head coaching job. This twisting, turning journey lasted for months, not mere weeks. A ton of names popped up throughout the proce… [+1842 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Andrew Kaczynski, CNN",
-            "title": "Another video shows Lauren Boebert suggesting Ilhan Omar was terrorist - CNN",
-            "description": "Republican Rep. Lauren Boebert of Colorado suggested to a crowd in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called \"black-hearted\" and \"evil,\" was a terrorist.",
-            "url": "https://www.cnn.com/2021/11/30/politics/lauren-boebert-ilhan-omar-video-comments/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211130120342-boebert-omar-split-super-tease.jpg",
-            "publishedAt": "2021-11-30T18:35:00Z",
-            "content": "(CNN)Republican Rep. Lauren Boebert of Colorado suggested to a crowd in September that Democratic Rep. Ilhan Omar of Minnesota, whom she called \"black-hearted\" and \"evil,\" was a terrorist.\r\nIn those … [+6076 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Annie Grayer, Zachary Cohen, Jamie Gangel and Ryan Nobles, CNN",
-            "title": "First on CNN: Meadows reaches deal for initial cooperation with January 6 investigators - CNN",
-            "description": "Donald Trump's former chief of staff Mark Meadows is cooperating with the House select committee investigating the January 6 riot and is providing records and agreeing to appear for an initial interview, CNN first reported Tuesday.",
-            "url": "https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211115212657-mark-meadows-file-super-tease.jpg",
-            "publishedAt": "2021-11-30T18:34:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Life"
-            },
-            "author": "Olivia Elgart",
-            "title": "Rumi Carter, 4, Is Big Sis Blue Ivy’s Mini-Me In Beyonce’s New Ivy Park Ad — Watch - Hollywood Life",
-            "description": "Beyonce's daughter, Rumi, looked identical to her sister Blue Ivy in a new campaign for Ivy Park.",
-            "url": "https://hollywoodlife.com/2021/11/30/rumi-carter-looks-like-blue-ivy-new-beyonce-ivy-park-ad-watch/",
-            "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2021/11/beyonce-blue-ivy-Rumi-Carter-shutter-ftr.jpg",
-            "publishedAt": "2021-11-30T18:32:57Z",
-            "content": "Beyonce’s daughter, Rumi, looked identical to her sister Blue Ivy in a new campaign for Ivy Park.\r\nGood genes run in the family! Beyonce, 40, released her new ad for Ivy Park and the video stars Bey’… [+1676 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WDIV ClickOnDetroit"
-            },
-            "author": "Derick Hutchinson",
-            "title": "Oxford High School shooting: 3 killed, shooter in custody, officials say -- live coverage here - WDIV ClickOnDetroit",
-            "description": "Three people -- all believed to be students -- have been killed, six other people are injured and a suspected shooter is in custody after a shooting at Oxford High School on Tuesday, authorities said.",
-            "url": "https://www.clickondetroit.com/news/local/2021/11/30/oxford-high-school-on-lockdown-due-to-emergency-situation/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/11-30-2021/t_b038b1828d7548f8b677ae5a438a663a_name_2021_11_30_13_59_48_Oxford_High_School_on_lockdown_due_to_emergency_situation.jpg?_a=ATABlcW0",
-            "publishedAt": "2021-11-30T18:32:06Z",
-            "content": "OXFORD, Mich. Three people -- all believed to be students -- have been killed, six other people are injured and a suspected shooter is in custody after a shooting at Oxford High School on Tuesday, au… [+2880 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Los Angeles Times"
-            },
-            "author": "Maura Dolan",
-            "title": "Court upholds California ban on large firearms magazines - Los Angeles Times",
-            "description": "Appeals court upholds California’s ban on large-capacity ammunition magazines, reversing a judge known for decisions opposing firearms restrictions.",
-            "url": "https://www.latimes.com/california/story/2021-11-30/9th-circuit-upholds-key-california-gun-control-law",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/a34ca13/2147483647/strip/true/crop/3000x1575+0+196/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2Ff6%2Fbbf13e524bd2845ef834af2448f7%2Fccalifornia-assault-weapons-52514.jpg",
-            "publishedAt": "2021-11-30T18:28:19Z",
-            "content": "SAN FRANCISCO  A federal appeals court decided Tuesday to uphold Californias ban on large-scale ammunition magazines in a ruling that is likely to lead to the courts approval of the states ban on ass… [+1606 chars]"
+            "author": "Umar Shakir",
+            "title": "Microsoft is selling ugly Windows sweaters again, and this time, it’s Minesweeper - The Verge",
+            "description": "Microsoft is dedicating this year’s ugly sweater design to Minesweeper. The $74.99 sweater is available now.",
+            "url": "https://www.theverge.com/tldr/2021/11/30/22810369/microsoft-ugly-windows-sweater-party-minesweeper",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/iUVgACoXiQrlKFMvpDJ4XCUmtJI=/0x477:2000x1524/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23053393/Downloads_TeamsBackgrounds.jpg",
+            "publishedAt": "2021-11-30T23:22:53Z",
+            "content": "Filed under:\r\n$74.99 gets you flagging rights this holiday\r\nImage: Microsoft\r\nMicrosoft has launched a new Windows software-themed ugly sweater on its Xbox Gear Shop dedicated to the infamous Windows… [+1169 chars]"
         }
     ]
 }
