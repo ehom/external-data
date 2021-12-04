@@ -4,250 +4,172 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "The Guardian"
             },
-            "author": "Angela Dewan and Julia Horowitz, CNN Business",
-            "title": "Shell scraps plans to develop Cambo North Sea oilfield - CNN",
-            "description": "Royal Dutch Shell said on Thursday it had scrapped plans to develop the Cambo oilfield in the British North Sea, but cites the economics of the project, not climate.",
-            "url": "https://www.cnn.com/2021/12/02/business/shell-abandons-cambo-north-sea-oilfield-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211202172547-01-cambo-oil-field-protest-1107-super-tease.jpg",
-            "publishedAt": "2021-12-03T10:37:00Z",
+            "author": "Lauren Gambino, Gabrielle Canon, Joanna Walters, Sam Levine, Dominic Rushe",
+            "title": "Covid: Biden says to beat Omicron variant ‘we have to shut it down worldwide’ – live - The Guardian",
+            "description": "Bill to fund government through mid-February wins Senate report while US adds 210,000 jobs in November",
+            "url": "https://www.theguardian.com/us-news/live/2021/dec/03/us-government-shutdown-funding-coronavirus-omicron-joe-biden-us-politics-latest",
+            "urlToImage": "https://i.guim.co.uk/img/media/098eaf0b0bb6bdb103fac382aced5ff7a3b01300/0_2_7178_4309/master/7178.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a57bb744c59529a8f37469677cda51ad",
+            "publishedAt": "2021-12-03T22:16:10Z",
             "content": null
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "The Detroit News"
             },
-            "author": null,
-            "title": "Cowed by Chinese regulators, Didi plans New York delisting and Hong Kong debut - Reuters",
-            "description": "Just five months after its debut, ride-hailing giant Didi Global <a href=\"https://www.reuters.com/companies/DIDI.N\" target=\"_blank\">(DIDI.N)</a> said it plans to withdraw from the New York stock exchange and pursue a Hong Kong listing - a <a href=\"https://www…",
-            "url": "https://www.reuters.com/technology/didi-global-start-work-delisting-new-york-pursue-ipo-hong-kong-2021-12-03/",
-            "urlToImage": "https://www.reuters.com/resizer/JzXBkkPy1D2DHHpCUVnc8wzwMmU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IIH75AUMSFL4XLBRSJA2CEMEDI.jpg",
-            "publishedAt": "2021-12-03T09:50:00Z",
-            "content": "HONG KONG, Dec 3 (Reuters) - Just five months after its debut, ride-hailing giant Didi Global (DIDI.N) said it plans to withdraw from the New York stock exchange and pursue a Hong Kong listing - a st… [+5129 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Dom Calicchio",
-            "title": "California’s zero-bail policy sets free 14 smash-grab robbery suspects, LAPD chief says - Fox News",
-            "description": "Los Angeles police recently arrested 14 suspects in connection with 11 \"smash and grab\" robberies in the city in late November – but all 14 suspects are back on the street, the city’s police chief says.",
-            "url": "https://www.foxnews.com/us/californias-zero-bail-smash-grab-robbery-lapd-chief",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/jewelry-fin.jpg",
-            "publishedAt": "2021-12-03T09:40:02Z",
-            "content": "Los Angeles police recently arrested 14 suspects in connection with 11 \"smash and grab\" robberies in the city in late November but all 14 suspects are back on the street, the citys police chief says.… [+4400 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "UK study finds mRNA COVID-19 vaccines provide biggest booster impact - Reuters",
-            "description": "COVID-19 vaccines made by Pfizer <a href=\"https://www.reuters.com/companies/PFE.N\" target=\"_blank\">(PFE.N)</a> and Moderna <a href=\"https://www.reuters.com/companies/MRNA.O\" target=\"_blank\">(MRNA.O)</a> that use mRNA technology provide the biggest boost to an…",
-            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/uk-study-finds-mrna-covid-19-vaccines-provide-biggest-booster-impact-2021-12-02/",
-            "urlToImage": "https://www.reuters.com/resizer/Nm5Hldf0jM38EtNM69--sEmvN_Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6IZAYCMDEZICHO6HANSQ3V5KTA.jpg",
-            "publishedAt": "2021-12-03T08:54:00Z",
-            "content": "LONDON, Dec 2 (Reuters) - COVID-19 vaccines made by Pfizer (PFE.N) and Moderna (MRNA.O) that use mRNA technology provide the biggest boost to antibody levels when given 10-12 weeks after the second d… [+2090 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Sam Byford",
-            "title": "Pokémon Go now runs much smoother on iPhones - The Verge",
-            "description": "Niantic has released an update to Pokémon Go that allows the game to run at smoother frame rates on iPhones. The feature is switched off by default but can be found in “advanced settings.”",
-            "url": "https://www.theverge.com/2021/12/3/22815472/pokemon-go-frame-rate-ios-update-released",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/804h0bUBro4EJoLtXMvRPGGZSzE=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/6777335/jbareham_160711_1134_0119_02.0.jpg",
-            "publishedAt": "2021-12-03T06:42:21Z",
-            "content": "You can unlock the frame rate by diving into settings\r\nJames Bareham / The Verge\r\nA new update to Pokémon Go for iOS lets you run the game at higher frame rates. With version 1.191.0, the advanced se… [+1445 chars]"
+            "author": "Mike Martindale and James David Dickson, The Detroit News",
+            "title": "Lawyers say parents of Oxford High suspect returning to area as authorities search for them - The Detroit News",
+            "description": "The Oakland County Fugitive Apprehension Team is searching for the parents of an Oxford High teenager charged in the school shooting.",
+            "url": "https://www.detroitnews.com/story/news/local/oakland-county/2021/12/03/oakland-county-fugitive-team-searching-parents-jennifer-james-crumbley-oxford-high-suspect/8855814002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/03/PDTN/6ede49bf-0f3d-4fab-a249-983bc997dc75-James_and_Jennifer_Crumbley.jpg?auto=webp&crop=3599,2025,x0,y48&format=pjpg&width=1200",
+            "publishedAt": "2021-12-03T21:56:15Z",
+            "content": "Pontiac — The lawyers for the parents of the Oxford High teenager charged in Tuesday's school shooting said Friday that James and Jennifer Crumbley are returning to the area to be arraigned on charge… [+5320 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NBC Southern California"
+                "name": "Kotaku"
             },
-            "author": "Maggie More,Staff and wire reports,Heather Navarro",
-            "title": "First Case of Omicron COVID Variant Is Detected in Los Angeles. Here's What We Know So Far - NBC Southern California",
-            "description": "The first case of the omicron variant of COVID-19 has been detected in Los Angeles County, health officials said Thursday.",
-            "url": "https://www.nbclosangeles.com/news/local/first-case-omicron-los-angeles-county/2770293/",
-            "urlToImage": "https://media.nbclosangeles.com/2021/11/GettyImages-1355948677.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2021-12-03T06:29:51Z",
-            "content": "The first case of the omicron variant of COVID-19 has been detected in Los Angeles County, health officials said Thursday.\r\nThe fully vaccinated adult came back to LA County after traveling to South … [+6562 chars]"
+            "author": "Ian Walker",
+            "title": "Halo Infinite's Multiplayer Is About To Get Much Better With New Playlists - Kotaku",
+            "description": "Get ready to play Fiesta, SWAT, and Free-For All to your heart’s content",
+            "url": "https://kotaku.com/halo-infinites-multiplayer-is-about-to-get-much-better-1848158876",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/7475f326c36d78db46e9516fa1b31ae3.jpg",
+            "publishedAt": "2021-12-03T21:45:00Z",
+            "content": "Although Halo players are currently enjoying an early look at Infinite multiplayer ahead of the campaign launch on December 8, one of the biggest complaints from the community concerns the first-pers… [+2200 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": null,
-            "title": "'Lot of concern' over Russian military activity near Ukraine, top U.S. general says - Reuters",
-            "description": "The United States is tracking enough indicators and warnings surrounding Russian military activity near Ukraine to trigger \"a lot of concern\" and Russian rhetoric appears increasingly strident, the top U.S. military officer said late on Thursday.",
-            "url": "https://www.reuters.com/world/top-us-general-milley-says-indicators-russian-military-moves-are-worrying-2021-12-03/",
-            "urlToImage": "https://www.reuters.com/resizer/2h8_tPDD3SLN5fdy3NjfYtY-z5Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/E3W4DQRS3JHHVK4FV7ZCGHB6WE.JPG",
-            "publishedAt": "2021-12-03T06:00:00Z",
-            "content": "WASHINGTON, Dec 2 (Reuters) - The United States is tracking enough indicators and warnings surrounding Russian military activity near Ukraine to trigger \"a lot of concern\" and Russian rhetoric appear… [+3441 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nadine Schmidt, CNN",
-            "title": "German military honors outgoing Chancellor Angela Merkel with punk rock sendoff - CNN",
-            "description": "Germany's military honored Chancellor Angela Merkel with their highest ceremony for a civilian on Thursday, complete with an eclectic mix of music personally selected by the outgoing leader and punctuated by an emotional speech.",
-            "url": "https://www.cnn.com/2021/12/02/europe/merkel-farewell-ceremony-military-grm-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211202140932-01-merkel-grand-tatto0-1202-super-tease.jpg",
-            "publishedAt": "2021-12-03T05:42:00Z",
-            "content": "Berlin (CNN)Germany's military honored Chancellor Angela Merkel with their highest ceremony for a civilian on Thursday, complete with an eclectic mix of music personally selected by the outgoing lead… [+2649 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Kenneth Garger",
-            "title": "Oxford superintendent says 'no discipline warranted' for accused shooter before attack - New York Post",
-            "description": "In his first comments since the attack, Tim Throne touched on the meetings that included Ethan Crumbley, school administrators — and Crumbley’s parents.",
-            "url": "https://nypost.com/2021/12/03/oxford-superintendent-tim-throne-says-no-discipline-warranted-for-ethan-crumbley-before-michigan-shooting/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/oxford-shooting-index.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2021-12-03T05:37:00Z",
-            "content": "The superintendent of Michigan’s Oxford Community Schools said no discipline was warranted when accused shooter Ethan Crumbley met with high school officials before Tuesdays deadly rampage.\r\nIn his f… [+2327 chars]"
+            "author": "Emily Giambalvo, Andrew Golden",
+            "title": "Mark Turgeon out as Maryland men's basketball coach - The Washington Post",
+            "description": "Athletic Director Damon Evans named assistant Danny Manning the interim head coach for the remainder of the season.",
+            "url": "https://www.washingtonpost.com/sports/2021/12/03/mark-turgeon-resigns-maryland-basketball/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5TFUKRFBRZBRVNOSKZQRZZA25M.jpg&w=1440",
+            "publishedAt": "2021-12-03T21:23:50Z",
+            "content": "Mark Turgeons Maryland career, by the numbers\r\nStory continues below advertisement\r\nAfter several in depth conversations with Damon, I have decided that the best thing for Maryland Basketball, myself… [+4780 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CBS Sports"
             },
-            "author": "Patrik Walker",
-            "title": "Cowboys at Saints score: Dallas picks off New Orleans, Taysom Hill to snap two-game losing skid - CBSSports.com",
-            "description": "Hill tosses four interceptions in first start behind center this season",
-            "url": "https://www.cbssports.com/nfl/news/cowboys-at-saints-score-dallas-picks-off-new-orleans-taysom-hill-to-snap-two-game-losing-skid/live/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/03/58029545-035e-4ef0-a87e-0dc1440bd695/thumbnail/1200x675/470ec7ec9bafd9813b557d0330c16485/template.jpg",
-            "publishedAt": "2021-12-03T05:29:00Z",
-            "content": "Things didn't start out on an ideal note for either offense, with both teams stumbling due to a mix of good defense and poor execution en route to the Dallas Cowboys handing the New Orleans Saints a … [+5339 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ScienceAlert"
-            },
-            "author": "Tanya Hill, The Conversation",
-            "title": "After Months of Daylight, Antarctica Is About to Be Plunged Into 2 Minutes of Night - ScienceAlert",
-            "description": "The Sun hasn't set in Antarctica since October. Earth's southernmost continent is currently experiencing a long summer's day, one that stretches from mid-October until early April.",
-            "url": "https://www.sciencealert.com/antarctica-s-months-of-daylight-is-about-to-be-interrupted-by-a-total-solar-eclipse",
-            "urlToImage": "https://www.sciencealert.com/images/2021-12/processed/HaloOfWhiteAroundBlackMoonBehindGreyCloudHaze_1024.jpg",
-            "publishedAt": "2021-12-03T05:28:12Z",
-            "content": "The Sun hasn't set in Antarctica since October. Earth's southernmost continent is currently experiencing a long summer's day, one that stretches from mid-October until early April.\r\nBut on Saturday D… [+4662 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Cecilia Kang, Don Clark",
-            "title": "F.T.C. Sues to Block Nvidia’s Takeover of Arm - The New York Times",
-            "description": "The proposed deal would give Nvidia control over computing technology and designs that rival firms rely on.",
-            "url": "https://www.nytimes.com/2021/12/02/technology/ftc-nvidia-arm-deal.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/12/02/multimedia/02chips/02chips-facebookJumbo.jpg",
-            "publishedAt": "2021-12-03T05:03:00Z",
-            "content": "Nvidia, based in California, is a dominant provider of chips used to render graphics in video games, technology it has adapted in recent years to also power artificial-intelligence applications used … [+1708 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "U.S. Senate passes bill to avert government shutdown, sends to Biden for signature - Reuters",
-            "description": "The Democratic-controlled U.S. Senate on Thursday passed a bill to fund the government through mid-February, averting the risk of a shutdown after overcoming a bid by some Republicans to delay the vote in a protest against vaccine mandates.",
-            "url": "https://www.reuters.com/world/us/lawmakers-reach-agreement-fund-us-government-through-feb-18-statement-2021-12-02/",
-            "urlToImage": "https://www.reuters.com/resizer/lFDHYR-KsLektNgpzjawExfHG9I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JXTVJPW7VVLTXCBE7YD7UGTMNY.jpg",
-            "publishedAt": "2021-12-03T04:54:00Z",
-            "content": "WASHINGTON, Dec 2 (Reuters) - The Democratic-controlled U.S. Senate on Thursday passed a bill to fund the government through mid-February, averting the risk of a shutdown after overcoming a bid by so… [+4356 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cbslocal.com"
-            },
-            "author": "CBSLA Staff",
-            "title": "Parolee Aariel Maynor Arrested In Connection With Jacqueline Avant Killing After Shooting Himself In The Foot - CBS Los Angeles",
-            "description": "Police say they’ve made an arrest in the murder of philanthropist Jacqueline Avant, the wife of music executive Clarence Avant, who was shot to death during a home invasion at the couple’s Beverly Hills home.",
-            "url": "https://losangeles.cbslocal.com/2021/12/02/jacqueline-avant-beverly-hills-murder-arrest/",
-            "urlToImage": "https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2021/12/aariel-maynor-shot-in-foot.png?w=1000",
-            "publishedAt": "2021-12-03T04:42:00Z",
-            "content": "BEVERLY HILLS (CBSLA) Police have made an arrest in the murder of philanthropist Jacqueline Avant, the wife of music executive Clarence Avant, who was shot to death during a home invasion at the coup… [+2736 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "Kelly Cohen",
-            "title": "'73?!' -- NBA stars chimed in after the Memphis Grizzlies notched biggest blowout win in NBA history - ESPN",
-            "description": "The Grizzlies dropped 152 points en route to the biggest blowout win in NBA history -- and the basketball world noticed.",
-            "url": "https://www.espn.com/nba/story/_/id/32774622/73-trae-young-draymond-green-more-chimed-ja-morant-less-memphis-grizzlies-historic-blowout-win",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1203%2Fr945853_1296x729_16%2D9.jpg",
-            "publishedAt": "2021-12-03T04:28:07Z",
-            "content": "The Oklahoma City Thunder have made NBA history yet again -- but it isn't something they should be bragging about.\r\nIn May 2020, the Thunder lost a home game by 57 points to the Indiana Pacers, the l… [+1369 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "To fight Omicron, Biden sets new travel rules and adds free COVID tests - Reuters",
-            "description": "President Joe Biden on Thursday laid out his strategy to fight the Omicron and Delta coronavirus variants over the winter, including free and insurer-funded at-home COVID-19 testing and new requirements for international travelers.",
-            "url": "https://www.reuters.com/world/us/us-require-private-health-insurance-companies-cover-at-home-covid-19-tests-2021-12-02/",
-            "urlToImage": "https://www.reuters.com/resizer/j89LuqxWWUQFboBJnbYjG7l4NOE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7WQDDHJNKZJ57AWDVVBK3MLIM4.jpg",
-            "publishedAt": "2021-12-03T04:24:00Z",
-            "content": "WASHINGTON, Dec 2 (Reuters) - President Joe Biden on Thursday laid out his strategy to fight the Omicron and Delta coronavirus variants over the winter, including free and insurer-funded at-home COVI… [+5589 chars]"
+            "author": "",
+            "title": "NFL Week 13 final injury reports: Vikings' Dalvin Cook out vs. Lions; Mike Glennon to start for Daniel Jones - CBSSports.com",
+            "description": "Breaking down the final injury reports of the week heading into Week 13",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-13-final-injury-reports-vikings-dalvin-cook-out-vs-lions-mike-glennon-to-start-for-daniel-jones/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2020/12/30/3377a17a-f434-4e10-91a8-08e87b57ca64/thumbnail/1200x675/4620249398b439b6c3316304796fcaaa/new-team.jpg",
+            "publishedAt": "2021-12-03T21:17:00Z",
+            "content": "We're into Week 13 of the 2021 NFL season, and injuries are once again a factor in several key games this coming weekend. The story of this week is running back (and running game) injuries, with seve… [+5241 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Omar Jimenez, Eric Levenson and Bill Kirkos, CNN",
-            "title": "Prosecution rests after brothers testify Jussie Smollett directed them to carry out a fake racist and anti-gay attack - CNN",
-            "description": "The prosecution rested Thursday in the trial of actor Jussie Smollett after three days of testimony in which it called seven witnesses, including two brothers who said Smollett paid them to fake a hate crime attack.",
-            "url": "https://www.cnn.com/2021/12/02/us/jussie-smollett-trial/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211201214052-01-smollett-trial-abimbola-osundairo-1201-sketch-super-tease.jpg",
-            "publishedAt": "2021-12-03T04:00:00Z",
-            "content": "(CNN)Two brothers testified in court over the past two days that \"Empire\" actor Jussie Smollett directed them to carry out a fake hate crime while pretending to be Donald Trump supporters in an attem… [+8046 chars]"
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "Stocks pull back on weak jobs gains - CNN",
+            "description": "What an end to a tumultuous week on Wall Street. Friday kicked off with disappointing news as just 210,000 jobs were added last month, much lower than expected. Stocks initially opened higher before dipping into the red.",
+            "url": "https://www.cnn.com/2021/12/03/investing/dow-stock-market-today-jobs-report/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211202125907-02-nyse-1202-super-tease.jpg",
+            "publishedAt": "2021-12-03T21:14:00Z",
+            "content": "New York (CNN Business)What an end to a tumultuous week on Wall Street. Friday kicked off with disappointing news as just 210,000 jobs were added last month, much lower than expected. Stocks initiall… [+2844 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Maggie Fox and Jamie Gumbrecht, CNN",
+            "title": "South African researchers find evidence people more easily reinfected with Omicron variant than with other variants - CNN",
+            "description": "Researchers in South Africa reported Thursday they have found some evidence that people who had been infected once with coronavirus were more likely to be reinfected with the Omicron variant than with the Beta or Delta variants.",
+            "url": "https://www.cnn.com/2021/12/03/health/omicron-south-africa-reinfection-study/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211202093909-covid-johannesburg-south-africa-lancet-lab-11-30-2021-super-tease.jpg",
+            "publishedAt": "2021-12-03T21:11:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "KCRA Sacramento"
+                "name": "The Guardian"
             },
-            "author": "Stephanie Lin",
-            "title": "How the omicron variant is changing public health rules in these Northern California counties - KCRA Sacramento",
-            "description": "County public health officials across Northern California are keeping a close eye on news about the omicron variant, after the CDC classified it a \"variant of concern\" this week.",
-            "url": "https://www.kcra.com/article/omicron-variant-changing-public-health-rules-northern-california-counties/38416715",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/a4aaac12-3247-4edd-aeb4-91e41691c0db/a4aaac12-3247-4edd-aeb4-91e41691c0db_image.jpg?crop=0.773xw:0.774xh;0,0&resize=1200:*",
-            "publishedAt": "2021-12-03T03:49:00Z",
-            "content": "SACRAMENTO, Calif. —County public health officials across Northern California are keeping a close eye on news about the omicron variant, after the Centers for Disease Control and Prevention, classifi… [+3035 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Hundreds of military families sickened by contaminated Pearl Harbor water - The Guardian",
+            "description": "Key Honolulu aquifer may also be at risk as residents say they face stomach pain and headaches",
+            "url": "https://amp.theguardian.com/us-news/2021/dec/03/hawaii-drinking-water-contamination-navy",
+            "urlToImage": "https://i.guim.co.uk/img/media/d62205cdee2fb25e23ffcbd85d7152756f2b96a3/89_0_4721_2833/master/4721.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9bbd688ac68393a53dae5f00da9cf7d3",
+            "publishedAt": "2021-12-03T21:10:00Z",
+            "content": "Cheri Burnesss dog was the first to signal something was wrong with their tap water. He stopped drinking it two weeks ago. Then Burness started feeling stomach cramps. Her 12-year-old daughter was na… [+4850 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "New Twitter CEO Parag Agrawal begins restructuring as two execs step down - TechCrunch",
+            "description": "Earlier this week, Twitter co-founder and CEO Jack Dorsey stepped down from his role. He appointed CTO Parag Agrawal as new CEO, effective immediately. Agrawal, who joined Twitter as an engineer in 2011, already announced a major reorganization of the company…",
+            "url": "http://techcrunch.com/2021/12/03/new-twitter-ceo-parag-agrawal-begins-restructuring-as-two-execs-step-down/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/twitter-2021-10-a.jpg?w=711",
+            "publishedAt": "2021-12-03T20:50:32Z",
+            "content": "Earlier this week, Twitter co-founder and CEO Jack Dorsey stepped down from his role. He appointed CTO Parag Agrawal as new CEO, effective immediately. Agrawal, who joined Twitter as an engineer in 2… [+2491 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Gizmodo.com"
             },
-            "author": "Jennifer Maas",
-            "title": "Harry Connick Jr’s ‘Daddy Warbucks’ Bald Cap Gets Hard-Knocked by ‘Annie Live!’ Viewers - Yahoo Entertainment",
-            "description": "\"Theres so much extra 'skin' on the back I think it may also be running the Daddy Warbucks lines...\"",
-            "url": "https://www.yahoo.com/entertainment/harry-connick-jr-daddy-warbucks-023435322.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/nJb.EUy2I0j2wMXo7SKRgA--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thewrap.com/d49cfcaae90f94e2890b550521dcaab7",
-            "publishedAt": "2021-12-03T02:48:41Z",
-            "content": "Annie Live! viewers were quite taken with many aspects of the NBC live-TV musical Thursday night, including the acting chops of young lead Celina Smith, the adorable nature of the dog playing Sandy, … [+2273 chars]"
+            "author": "George Dvorsky",
+            "title": "How to Spot Leonard, the Brightest Comet of the Year - Gizmodo",
+            "description": "Views of Leonard with the unaided eye are a distinct possibility, as the “ultrafast” comet makes a brief trip through the inner solar system.",
+            "url": "https://gizmodo.com/how-to-spot-leonard-the-brightest-comet-of-the-year-1848157771",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fb13852000e7312e9e8173b04a040a07.jpg",
+            "publishedAt": "2021-12-03T20:30:00Z",
+            "content": "The time has arrived for skywatchers to look up and catch a glimpse of comet Leonard. Heres how you can find this gigantic ball of ice and dust.\r\nSenior research specialist Greg J. Leonard discovered… [+3479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Francesca Bacardi",
+            "title": "Tristan Thompson appears to threaten Maralee Nichols over child support - Page Six",
+            "description": "The Sacramento Kings player purportedly offered the personal trainer $75,000 because she would have a “baby with a father who has zero involvement with the child.”",
+            "url": "https://pagesix.com/2021/12/03/tristan-thompson-appears-to-threaten-maralee-nichols-over-child-support/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2021/12/tristan-thompson-mother-of-child-05.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2021-12-03T20:26:00Z",
+            "content": "Tristan Thompson appeared to threaten his alleged baby mama Maralee Nichols to drop her paternity lawsuit against him in exchange for $75,000, claiming she won’t see that much money if he’s ordered t… [+2425 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Meredith Deliso",
+            "title": "Blizzard warning issued for Hawaii with at least 12 inches of snow forecast - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/US/blizzard-warning-issued-hawaii-12-inches-snow-forecast/story?id=81542659",
+            "urlToImage": "https://s.abcnews.com/images/US/hawaii-blizzard-ht-er-211203_1638560441573_hpMain_16x9_992.jpg",
+            "publishedAt": "2021-12-03T20:22:24Z",
+            "content": "A blizzard warning has been issued for Hawaii, with at least 12 inches of snow forecast this weekend.\r\nThe warning is in effect for the Big Island summits from 6 p.m. Friday through 6 a.m. Sunday loc… [+2024 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Bill Chappell",
+            "title": "Portland Trail Blazers fire their general manager after reports of a toxic workplace - NPR",
+            "description": "Last month, the NBA team announced that it had hired a law firm to look into workplace complaints at a Blazers practice facility. Olshey just started his tenth season as the team's general manager.",
+            "url": "https://www.npr.org/2021/12/03/1061295224/portland-trail-blazers-general-manager-neil-olshey-fired",
+            "urlToImage": "https://media.npr.org/assets/img/2021/12/03/gettyimages-1148104998_wide-26500655ca4c43e87a3b2dbffe34bda624c01daf.jpg?s=1400",
+            "publishedAt": "2021-12-03T20:10:36Z",
+            "content": "The Portland Trail Blazers fired Neil Olshey on Friday, after workers reportedly accused him of creating a hostile work environment. He's seen here sitting near Damian Lillard in 2019.\r\nSteve Dykes/G… [+2423 chars]"
         },
         {
             "source": {
@@ -255,12 +177,90 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Battlefield Will Be Headed By Apex/Titanfall Boss | GameSpot News - GameSpot",
-            "description": "In this episode of GameSpot News, Persia talks about the recent teases for Battlefield 2042’s new map, specialist, and more updates on the way.Following 2042...",
-            "url": "https://www.youtube.com/watch?v=g3SKxl1LSQ0",
-            "urlToImage": "https://i.ytimg.com/vi/g3SKxl1LSQ0/maxresdefault.jpg",
-            "publishedAt": "2021-12-03T02:32:07Z",
+            "title": "CDC chief: Omicron may become dominant variant in US - CNN",
+            "description": "Director for the Centers for Disease Control and Prevention Dr. Rochelle Walensky speaks with CNN’s Dr. Sanjay Gupta about what she has learned about the Omi...",
+            "url": "https://www.youtube.com/watch?v=5QJRqSLAarU",
+            "urlToImage": "https://i.ytimg.com/vi/5QJRqSLAarU/maxresdefault.jpg",
+            "publishedAt": "2021-12-03T20:10:08Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Maxwell's lawyers raise questions about accuser's age when meeting Epstein - Reuters",
+            "description": "Ghislaine Maxwell's defense attorneys on Friday questioned a former Jeffrey Epstein employee about which year he met a woman who says she was abused by Epstein as a teenager, in an apparent attempt to show she was above the age of consent at the time.",
+            "url": "https://www.reuters.com/world/us/ghislaine-maxwells-lawyers-grill-ex-epstein-employee-who-testified-about-2021-12-03/",
+            "urlToImage": "https://www.reuters.com/resizer/kgyWmEKukPeLVEyhRK9sEhKuy1g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AWI23UL3TNNTJNS3SAGGDQ5OYM.jpg",
+            "publishedAt": "2021-12-03T20:03:00Z",
+            "content": "NEW YORK, Dec 3 (Reuters) - Ghislaine Maxwell's defense attorneys on Friday questioned a former Jeffrey Epstein employee about which year he met a woman who says she was abused by Epstein as a teenag… [+2086 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Brooklyn Vegan"
+            },
+            "author": "",
+            "title": "Rolling Stone's Best 50 Albums of 2021 - Brooklyn Vegan",
+            "description": "Including albums by Foo Fighters, Iron Maiden, Adele, Olivia Rodrigo, Tyler the Creator, Snail Mail, Adult Mom, Dry Cleaning, The Weather Station, Dawn Richard, Turnstile, and more",
+            "url": "https://www.brooklynvegan.com/rolling-stones-best-50-albums-of-2021/",
+            "urlToImage": "https://townsquare.media/site/838/files/2021/06/attachment-olivia-rodrigo-sour.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89",
+            "publishedAt": "2021-12-03T20:00:10Z",
+            "content": "Year end list season is fully upon us, and now Rolling Stone have unveiled their list of the top 50 albums of the year. Like you might expect from one of the last major music magazines still in print… [+2097 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Claudia Assis",
+            "title": "Nio, Alibaba lead losses for U.S.-listed stocks of Chinese companies after Didi delisting news - MarketWatch",
+            "description": "U.S.-listed shares of Chinese companies, including Nio and Alibaba, tank in the wake of Didi Global's news it will delist its shares from the New York Stock...",
+            "url": "https://www.marketwatch.com/story/nio-alibaba-lead-losses-for-u-s-listed-stocks-of-chinese-companies-after-didi-delisting-news-11638560946",
+            "urlToImage": "https://images.mktw.net/im-323365/social",
+            "publishedAt": "2021-12-03T19:49:00Z",
+            "content": "U.S.-listed shares of major Chinese companies, including electric-car maker Nio Inc. and e-commerce giant Alibaba Group Holding Inc., tanked on Friday following news that ride-sharing company Didi Gl… [+1729 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sean Hollister",
+            "title": "Valve says DayZ and five other games are now anti-cheat ready for Linux (and Steam Deck) - The Verge",
+            "description": "Valve says Arma 3, DayZ, Unturned, and Planetside 2 now have functioning BattlEye anti-cheat when you’re using the Proton compatibility layer to play Windows games in Linux (e.g., Steam Deck). That brings the total to six games.",
+            "url": "https://www.theverge.com/2021/12/3/22816279/valve-proton-battleye-anti-cheat-dayz-linux-steam-deck",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/8p4RtxJ6_eblfT4OXn9-uN7IVlI=/0x116:1620x964/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22873690/steam_deck.jpg",
+            "publishedAt": "2021-12-03T19:43:52Z",
+            "content": "Were still waiting on other big developers to commit\r\nImage: Valve\r\nValves Steam Deck handheld wont have any exclusive games, but it is slowly filling in some holes in its Windows game library Valve … [+1541 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Fox News",
+            "title": "John Schneider rails against Alec Baldwin for claiming he 'didn’t pull the trigger' - New York Post",
+            "description": "The ‘Dukes of Hazzard’ alum also slammed journalist George Stephanopoulos.",
+            "url": "https://nypost.com/2021/12/03/john-schneider-rails-against-alec-baldwin-for-claiming-he-didnt-pull-the-trigger/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/baldwin-schneider.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-12-03T19:22:00Z",
+            "content": "John Schneider is sharing his thoughts on Alec Baldwin’s “Rust” movie set shooting.\r\nOn Oct. 21, Baldwin was rehearsing a scene on the New Mexico set of his planned film “Rust” when a gun he was hold… [+3278 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. labor market tightening; jobless rate flirts with pre-pandemic lows - Reuters",
+            "description": "U.S. employment growth slowed considerably in November amid job losses at retailers and in local government education, but the unemployment rate plunged to a 21-month low of 4.2%, suggesting the labor market was rapidly tightening.",
+            "url": "https://www.reuters.com/markets/us/us-job-growth-misses-expectations-november-unemployment-rate-dives-42-2021-12-03/",
+            "urlToImage": "https://www.reuters.com/resizer/duiEy--Mf1XIqcIn1cNNqZnRMUc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K45F5KACAJMYPAFTMA6LFRV4SU.jpg",
+            "publishedAt": "2021-12-03T19:01:00Z",
+            "content": "WASHINGTON, Dec 3 (Reuters) - U.S. employment growth slowed considerably in November amid job losses at retailers and in local government education, but the unemployment rate plunged to a 21-month lo… [+6022 chars]"
         }
     ]
 }
