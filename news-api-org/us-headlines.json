@@ -4,146 +4,16 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Maggie Fox, CNN",
-            "title": "CDC shortens recommended Covid-19 isolation and quarantine time - CNN",
-            "description": "The CDC shortened the recommended times that people should isolate when they've tested positive for Covid-19 from 10 days to five days if they don't have symptoms -- and if they wear a mask around others for at least five more days.",
-            "url": "https://www.cnn.com/2021/12/27/health/cdc-covid-quarantine-isolation-shortened-recommendation/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211223170650-us-store-mask-sign-1213-super-tease.jpg",
-            "publishedAt": "2021-12-27T22:28:00Z",
-            "content": "(CNN)The US Centers for Disease Control and Prevention on Monday shortened the recommended times that people should isolate when they've tested positive for Covid-19 from 10 days to five days if they… [+3973 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Dolphins vs. Saints odds, spread, line: Monday Night Football picks, prediction by NFL model on 133-96 run - CBS Sports",
-            "description": "SportsLine simulated Monday Night Football between the New Orleans Saints and Miami Dolphins 10,000 times",
-            "url": "https://www.cbssports.com/nfl/news/dolphins-vs-saints-odds-spread-line-monday-night-football-picks-prediction-by-nfl-model-on-133-96-run/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/23/3f5bb9f2-36c7-40dd-be19-5abad451bb32/thumbnail/1200x675/16a235de82337d7e59b219224ac49df6/tua-tagovailoa-dolphins-getty-images.jpg",
-            "publishedAt": "2021-12-27T21:22:09Z",
-            "content": "Saints rookie quarterback Ian Book will make his NFL debut when the New Orleans Saints host the surging Miami Dolphins on Monday Night Football. A fourth-round pick in the 2021 NFL Draft, Book will s… [+3703 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Catherine Shoard",
-            "title": "Jean-Marc Vallée, director of Dallas Buyers Club, Wild and Big Little Lies, dies aged 58 - The Guardian",
-            "description": "The Canadian film-maker died suddenly at the weekend according to his representative",
-            "url": "https://amp.theguardian.com/film/2021/dec/27/jean-marc-vallee-director-dead-dallas-buyers-club-wild-big-little-lies",
-            "urlToImage": null,
-            "publishedAt": "2021-12-27T20:42:00Z",
-            "content": "MoviesThe Canadian film-maker died suddenly at the weekend according to his representative\r\nJean-Marc Vallée, the Canadian director best known for his work on Matthew McConaughey drama Dallas Buyers … [+3087 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Andrew Court",
-            "title": "Robert Pattinson strips down, cozies up to Zoë Kravitz in 'The Batman' - New York Post ",
-            "description": "Shine the bat signal: Pattinson might just be the hottest Bruce Wayne yet.",
-            "url": "https://nypost.com/2021/12/27/robert-pattinson-zoe-kravitz-cozy-up-in-batman-trailer/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/batman-comp-02.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2021-12-27T20:35:00Z",
-            "content": "Batman has been portrayed by Hollywood heartthrobs including Christian Bale, Ben Affleck and George Clooney but Robert Pattinson might just be the hottest Bruce Wayne yet. \r\nThe British hunk, 35, is … [+2605 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AL.com"
-            },
-            "author": "Mike Rodak | mrodak@al.com",
-            "title": "Jerome Ford: I’m a Cincinnati Bearcat, not ‘the Alabama transfer’ - AL.com",
-            "description": "Cincinnati's leading rusher entering the Cotton Bowl played two seasons at Alabama before transferring.",
-            "url": "https://www.al.com/alabamafootball/2021/12/jerome-ford-im-a-cincinnati-bearcat-not-the-alabama-transfer.html",
-            "urlToImage": "https://www.al.com/resizer/7Ibu0rLkIaGAmZaMqaULksykX0A=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/77WFN4N3LNHGRPZV5IWEUUGFPY.jpg",
-            "publishedAt": "2021-12-27T20:35:00Z",
-            "content": "Ahead of Fridays Cotton Bowl, one of the few Alabama connections on Cincinnatis roster or coaching staff is running back Jerome Ford.\r\nThe Florida native spent his first two seasons in Tuscaloosa bef… [+5136 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Zeke Miller",
-            "title": "Fauci: US should consider vaccine mandate for US air travel - Associated Press",
-            "description": "WASHINGTON (AP) — Dr. Anthony Fauci, the top U.S. infectious disease expert, said Monday the nation should consider a vaccination mandate for domestic air travel, signaling a potential embrace of an idea the Biden administration has previously eschewed, as CO…",
-            "url": "https://apnews.com/article/coronavirus-pandemic-joe-biden-travel-lifestyle-health-d0fa7cf5afa770984339f6370c5f1608",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c0d123723417481298c23995d0380db9/2546.jpeg",
-            "publishedAt": "2021-12-27T20:13:06Z",
-            "content": "WASHINGTON (AP) Dr. Anthony Fauci, the top U.S. infectious disease expert, said Monday the nation should consider a vaccination mandate for domestic air travel, signaling a potential embrace of an id… [+5203 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Sam Levin, Maya Yang",
-            "title": "LAPD to release video in police killing of 14-old-girl in clothing store - The Guardian",
-            "description": "The victim, Valentina Orellana-Peralta, was shopping with her mother for a dress for her 15th birthday celebration when she was shot",
-            "url": "https://amp.theguardian.com/us-news/2021/dec/27/los-angeles-police-burlington-killing-video",
-            "urlToImage": "https://i.guim.co.uk/img/media/993de26e4859b259dec32cc0395d3fa4517a71b3/0_126_3840_2304/master/3840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=62fcfb8c8a2bd8cdfafb4e63b516e53d",
-            "publishedAt": "2021-12-27T20:02:00Z",
-            "content": "The Los Angeles police department is due on Monday to release video in the case of an officer who shot and killed a 14-year-old girl inside a department store while firing at another person.\r\nLast we… [+2719 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/james-trew",
-            "title": "Grell Audio's TWS/1 earbuds sound as good as you want them to - Engadget",
-            "description": "Grell Audio's TWS/1 headphones offer premium styling and features without the super-high-end price tag.",
-            "url": "https://www.engadget.com/grell-audio-tws-1-earbuds-review-200056428.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-12/b80507e0-671e-11ec-8d7a-08b472aa25ad",
-            "publishedAt": "2021-12-27T20:01:43Z",
-            "content": "A new entrant to the true wireless headphone space you say? Sure, that might be a fairly common occurrence these days, but this one Grell Audio comes with some pretty strong heritage. Its founder, Ax… [+6661 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Miriam Berger",
-            "title": "UN calls for investigation after report of more than 30 massacred by Myanmar military - The Washington Post",
-            "description": "The U.S. Embassy in Myanmar called the killings a “barbaric attack.”",
-            "url": "https://www.washingtonpost.com/world/2021/12/27/myanmar-massacre-save-the-children/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CRTMQWTFPUI6ZG2ROEY7UGIMLY.jpg&w=1440",
-            "publishedAt": "2021-12-27T19:52:30Z",
-            "content": "I condemn this grievous incident and all attacks against civilians throughout the country, which are prohibited under international humanitarian law, U.N. humanitarian affairs chief Martin Griffiths … [+3075 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Yaron Steinbuch",
-            "title": "COVID virus can spread to heart, brain days after infection, study says - New York Post ",
-            "description": "Scientists at the US National Institutes of Health studied tissues taken from 44 people who had died after contracting the illness during the first year of the pandemic.",
-            "url": "https://nypost.com/2021/12/27/covid-virus-can-spread-to-heart-brain-and-survive-for-months/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/corona-virus-organs-comp.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2021-12-27T19:38:00Z",
-            "content": "The virus that causes COVID-19 can spread to a patients heart and brain days after infection — and survive for months in organs, according to a new study that may shed light on the so-called long COV… [+3767 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Barbara Starr and Devan Cole, CNN",
-            "title": "Richard Marcinko, the first head of the elite SEAL Team Six, has died - CNN",
-            "description": "Richard Marcinko, a legendary military figure known for leading SEAL Team Six when the covert special operations unit was in its infancy, died Saturday, according to his son and the National Navy SEAL Museum. He was 81.",
-            "url": "https://www.cnn.com/2021/12/27/politics/richard-marcinko-dead-seal-team-six/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211227124630-file-richard-marcinko-2006-super-tease.jpg",
-            "publishedAt": "2021-12-27T19:20:00Z",
-            "content": "(CNN)Richard Marcinko, a legendary military figure known for leading SEAL Team Six when the covert special operations unit was in its infancy, died Saturday, according to his son and the National Nav… [+1779 chars]"
+            "title": "South Africa study suggests Omicron could displace Delta - Reuters",
+            "description": "Research by South African scientists suggests that Omicron could displace the Delta variant of the coronavirus because infection with the new variant boosts immunity to the older one.",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/safrica-study-suggests-omicron-enhances-neutralizing-immunity-against-delta-2021-12-28/",
+            "urlToImage": "https://www.reuters.com/resizer/8jo-WrjEOWlyd6syTLJw5-BC7XA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJWMO5725VPWTOF35DTVM7CPFE.jpg",
+            "publishedAt": "2021-12-28T09:35:00Z",
+            "content": "Dec 28 (Reuters) - Research by South African scientists suggests that Omicron could displace the Delta variant of the coronavirus because infection with the new variant boosts immunity to the older o… [+2250 chars]"
         },
         {
             "source": {
@@ -151,116 +21,246 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "'We have more work to do,' Biden says as Omicron surge looms - Reuters",
-            "description": "U.S. President Joe Biden on Monday pledged to ease a shortage of COVID-19 tests as the Omicron variant threatened to overwhelm hospitals and stifle travel plans as it spread across U.S. states this holiday week.",
-            "url": "https://www.reuters.com/world/us/biden-governors-meet-states-brace-holiday-omicron-spike-2021-12-27/",
-            "urlToImage": "https://www.reuters.com/resizer/cONltv6WipQ7vUA823ug4d2Gnzw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RXML2PNWIJLE7LKKBNZ4UXD6PE.jpg",
-            "publishedAt": "2021-12-27T19:13:00Z",
-            "content": "WASHINGTON, Dec 27 (Reuters) - U.S. President Joe Biden on Monday pledged to ease a shortage of COVID-19 tests as the Omicron variant threatened to overwhelm hospitals and stifle travel plans as it s… [+3944 chars]"
+            "title": "U.S. regulators step up probe into Hyundai, Kia engine fires - Reuters",
+            "description": "The U.S. auto safety agency has stepped up its probe into engine fires that have plagued some Hyundai Motor Co <a href=\"https://www.reuters.com/companies/005380.KS\" target=\"_blank\">(005380.KS)</a> and Kia Motors Corp <a href=\"https://www.reuters.com/companies…",
+            "url": "https://www.reuters.com/business/autos-transportation/us-regulators-step-up-probe-into-hyundai-kia-engine-fires-2021-12-27/",
+            "urlToImage": "https://www.reuters.com/resizer/Aq5A1Lno38pPoM8ZqGgzu2OIl4E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M5WFPGHN7RPA3D5PH25ZM7TCQM.jpg",
+            "publishedAt": "2021-12-28T08:22:00Z",
+            "content": "Dec 27 (Reuters) - The U.S. auto safety agency has stepped up its probe into engine fires that have plagued some Hyundai Motor Co (005380.KS) and Kia Motors Corp (000270.KS) vehicles for over six yea… [+1244 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Gunman kills four in Denver-area shooting spree before he is killed by police - Reuters",
+            "description": "A lone gunman shot four people to death and wounded three, including a police officer, on Monday in a Denver-area shooting spree that unfolded at several locations and ended with police killing the suspect, authorities said.",
+            "url": "https://www.reuters.com/world/us/gunman-slays-4-people-denver-area-shooting-spree-before-he-is-killed-by-police-2021-12-28/",
+            "urlToImage": "https://www.reuters.com/resizer/5z859IU-qCkCC8J0EdDQcOdXa44=/897x469/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UT463XWKFBCSVKH3PO3VTOX3LY.JPG",
+            "publishedAt": "2021-12-28T07:06:00Z",
+            "content": "DENVER, Dec 27 (Reuters) - A lone gunman shot four people to death and wounded three, including a police officer, on Monday in a Denver-area shooting spree that unfolded at several locations and ende… [+2034 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Denver Post"
+                "name": "YouTube"
             },
-            "author": "Shelly Bradbury",
-            "title": "Judge to reconsider 110-year sentence for I-70 truck driver who killed four in crash - The Denver Post",
-            "description": "The truck driver who was sentenced to 110 years in prison after he killed four people when he crashed his semitrailer into stopped traffic on Interstate 70 was on Monday scheduled to have his sente…",
-            "url": "https://www.denverpost.com/2021/12/27/i-70-trucker-sentence-reduction-hearing-aguilera-mederos/",
-            "urlToImage": "https://www.denverpost.com/wp-content/uploads/2021/12/TDP-L-ROGEL_131-copy-1.jpg?w=1024&h=683",
-            "publishedAt": "2021-12-27T19:03:36Z",
-            "content": "A Colorado judge will in January reconsider the 110-year prison sentence for the truck driver who killed four people when he crashed into stopped traffic on Interstate 70 more than two years ago.\r\nDi… [+3277 chars]"
+            "author": null,
+            "title": "Scientists Hold Their Breath As James Webb Space Telescope Deploys With High Hopes - MSNBC",
+            "description": "Mat Kaplan, host of Planetary Radio, talks about how the James Webb Space Telescope mission is progressing post-launch with features still deploying, and wha...",
+            "url": "https://www.youtube.com/watch?v=kpx3Ys8odz4",
+            "urlToImage": "https://i.ytimg.com/vi/kpx3Ys8odz4/maxresdefault.jpg",
+            "publishedAt": "2021-12-28T06:45:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "'Horrified' U.N. official condemns reported killings of civilians in Myanmar - Reuters",
+            "description": "A senior U.N. official called on Myanmar authorities to investigate the reported killing of at least 35 civilians that opposition activists blamed on government soldiers, saying he was \"horrified\" at the violence.",
+            "url": "https://www.reuters.com/world/asia-pacific/horrified-un-official-condemns-reported-killings-myanmar-2021-12-27/",
+            "urlToImage": "https://www.reuters.com/resizer/1p4KiZUUlK1q-M2a7W3hOqnwsI4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G3K2X7PW45I7BCQ5MTV7E45LPE.jpg",
+            "publishedAt": "2021-12-28T06:14:00Z",
+            "content": "Dec 27 (Reuters) - A senior U.N. official called on Myanmar authorities to investigate the reported killing of at least 35 civilians that opposition activists blamed on government soldiers, saying he… [+3934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL 2021 playoff picture, standings: Dolphins rebound from 1-7 start to snatch No. 7 seed in AFC - CBS Sports",
+            "description": "A look at the NFL standings as the Week 16 games come to a close",
+            "url": "https://www.cbssports.com/nfl/news/nfl-2021-playoff-picture-standings-dolphins-rebound-from-1-7-start-to-snatch-no-7-seed-in-afc/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/28/a7723e72-a420-47b6-b09c-e2e6813295fc/thumbnail/1200x675/a29889fe49d0a71633f484d49ee597f1/template-pic.jpg",
+            "publishedAt": "2021-12-28T04:47:00Z",
+            "content": "Week 16 of the NFL season has come to a close and teams are finally starting to clinch playoff spots. The Kansas City Chiefs won the AFC West title Sunday (their sixth straight division title) and cl… [+12411 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Phinsider"
+            },
+            "author": "Kevin Nogle",
+            "title": "Dolphins vs Saints Monday Night Football final score Week 16 2021 with immediate reactions - The Phinsider",
+            "description": "The Miami Dolphins and New Orleans Saints closed out Week 16 of the 2021 NFL season with a Monday night showdown. The Dolphins did not seem to find their rhythm until the second half, then turned...",
+            "url": "https://www.thephinsider.com/2021/12/27/22856334/dolphins-vs-saints-monday-night-football-final-score-week-16-2021-with-immediate-reactions",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/bu_yM36y8tEmo7f1LgdzCD6tlg8=/0x480:4334x2749/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23129502/1361446299.jpg",
+            "publishedAt": "2021-12-28T04:29:49Z",
+            "content": "The Miami Dolphins and New Orleans Saints closed out Week 16 of the 2021 NFL season with a Monday night showdown. The Dolphins did not seem to find their rhythm until the second half, then turned it … [+15071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "Barstool's Arizona Bowl canceled, Central Michigan to play in Sun Bowl - New York Post ",
+            "description": "After the Arizona Bowl was cancelled, Central Michigan opted to play in the Sun Bowl instead.",
+            "url": "https://nypost.com/2021/12/27/barstools-arizona-bowl-canceled-central-michigan-to-sun-bowl/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/E_Michigan_Cent_Michigan_Football.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-12-28T04:22:00Z",
+            "content": "The Arizona Bowl was canceled on Monday night after Boise State pulled out and shut down all team activities due to COVID-19 issues within the program.\r\nThe Broncos were scheduled to play Central Mic… [+1180 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "James Macpherson",
+            "title": "North Dakota man convicted in grisly deaths faces sentencing - Associated Press",
+            "description": "MANDAN, N.D. (AP) — A man scheduled for sentencing Tuesday in the stabbing and shooting deaths of four people at a North Dakota property management firm is facing life in prison without parole. A jury in August found Chad Isaak guilty in the grisly deaths of …",
+            "url": "https://apnews.com/article/business-shootings-north-dakota-sentencing-48e948171dfe2f2b1bb41535eb370148",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/1618e874e19744399d7cf91261338ece/1737.jpeg",
+            "publishedAt": "2021-12-28T04:09:34Z",
+            "content": "MANDAN, N.D. (AP) A man scheduled for sentencing Tuesday in the stabbing and shooting deaths of four people at a North Dakota property management firm is facing life in prison without parole.\r\nA jury… [+1899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Marjorie Hernandez",
+            "title": "LAPD release video from fatal shooting of 14-year-old in Burlington dressing room - New York Post ",
+            "description": "The Los Angeles Police Department on Monday released store and body camera footage that showed the fatal shooting of a 14-year old girl who was struck by a stray bullet while in a Burlington store …",
+            "url": "https://nypost.com/2021/12/27/shocking-lapvideo-shows-burlington-store-shot-by-stray-bullet/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/12/lapd-video-release-index.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-12-28T04:02:00Z",
+            "content": "The Los Angeles Police Department on Monday released store and body camera footage that showed the fatal shooting of a 14-year old girl who was struck by a stray bullet while in a Burlington store dr… [+4894 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Record breaking snowfall and frigid temperatures strike the western U.S. - CBS News",
+            "description": "Emergency warming shelters were opened throughout Oregon and western Washington as temperatures plunged into the teens and forecasters said an arctic blast would last for several days.",
+            "url": "https://www.cbsnews.com/news/snow-weather-forecast-record-breaking-snow-and-freezing-temperatures-strike-the-western-u-s/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/12/28/1649ec9b-0143-41db-b38b-cb47ff501d7e/thumbnail/1200x630/ee1ae942e492a180007983e8a8c140c0/ap-21362008617618.jpg",
+            "publishedAt": "2021-12-28T02:26:11Z",
+            "content": "Severe weather sweeping parts of the U.S. brought frigid temperatures to the Pacific Northwest, heavy snow to mountains in Northern California and Nevada and unseasonable warmth to Texas and the Sout… [+4407 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Evan Real",
+            "title": "Britney Spears says music hiatus is a 'f--k you' to her family - Page Six",
+            "description": "“Not doing music anymore is my way of saying ‘F–k You’ in a sense,” the pop star wrote in a heated Instagram post, addressing her estranged family.",
+            "url": "https://pagesix.com/2021/12/27/britney-spears-says-music-hiatus-is-a-f-k-you-to-her-family/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2021/12/britney-music-526.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2021-12-28T02:22:00Z",
+            "content": "This pop star is still protesting. \r\nBritney Spears explained in a Monday Instagram post that her extended music hiatus is a fk you to her estranged family. \r\nNot doing music anymore is my way of say… [+3807 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andy Rose, CNN",
+            "title": "'Dallas Buyers Club' director Jean-Marc Vallée dies - CNN",
+            "description": "Acclaimed film director Jean-Marc Vallée -- who helmed the 2013 drama \"Dallas Buyers Club\" -- died Sunday near Quebec City, Canada, his production company's publicist told CNN. He was 58 years old.",
+            "url": "https://www.cnn.com/2021/12/27/entertainment/jean-marc-vallee-obit/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211227014331-jean-marc-vallee-file-09222019-super-tease.jpg",
+            "publishedAt": "2021-12-28T02:00:00Z",
+            "content": "(CNN)Acclaimed film director Jean-Marc Vallée -- who helmed the 2013 drama \"Dallas Buyers Club\" -- died Sunday near Quebec City, Canada, his production company's publicist told CNN. He was 58 years o… [+1513 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Doug Cameron",
+            "title": "More Flights Canceled as Weather Combines With Omicron-Driven Staff Shortages - The Wall Street Journal",
+            "description": "Almost 1,300 flights canceled Monday; Seattle most affected following snowstorm",
+            "url": "https://www.wsj.com/articles/more-flights-canceled-as-weather-combines-with-virus-driven-staff-shortages-11640624131",
+            "urlToImage": "https://images.wsj.net/im-458741/social",
+            "publishedAt": "2021-12-28T01:25:00Z",
+            "content": "Flight cancellations in the U.S. continued Monday as inclement weather combined with Covid-19-driven airline staff shortages that marred the Christmas weekend for many travelers.\r\nAirlines scrubbed a… [+255 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Hannah Grossman",
+            "title": "Biden says states bear responsibility for COVID resolution, 'The Five' reacts - Fox News",
+            "description": "Tyrus slams President Biden for refusing responsibility and for not being forthcoming with the American people on 'The Five.'",
+            "url": "https://www.foxnews.com/media/biden-states-responsibility-covid-resolution-the-five",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/12/Tyrus-When-is-Biden-ever-going-to-take-accountability.jpg",
+            "publishedAt": "2021-12-28T01:18:21Z",
+            "content": "\"The Five\" panel reacted Monday to President Biden's call with governors in which he tried to ricochet some responsibility on COVID-19 to the states.\r\nTyrus Murdoch said, \"Their entire pitch this ent… [+1969 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Myah Ward",
+            "title": "Fauci: 'I don’t think people should expect' a domestic flight vaccine mandate - POLITICO",
+            "description": "\"It’s on the table,\" he added. \"But that doesn’t mean it’s going to happen. I doubt if we’re going to see something like that in the reasonably foreseeable future.”",
+            "url": "https://www.politico.com/news/2021/12/27/fauci-domestic-flight-vaccine-mandate-526194",
+            "urlToImage": "https://static.politico.com/ce/6c/73cf306f4be4b1bfc9f6ee89a7c8/20211227-fauci-getty-773.jpg",
+            "publishedAt": "2021-12-28T00:26:40Z",
+            "content": "The U.S. is averaging more than 200,000 cases a day, according to the Centers for Disease Control and Prevention, the highest level since last winters surge. A vaccination mandate for domestic travel… [+1595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chicago Tribune"
+            },
+            "author": "Jeremy Gorner",
+            "title": "Illinois governor urges scaled-down New Year's plans as COVID surges - Chicago Tribune",
+            "description": "People will die &quot;because massive numbers of unvaccinated people chose to let others go without quality care,&quot; Pritzker said.",
+            "url": "https://www.chicagotribune.com/coronavirus/ct-covid-omicron-vaccination-clinic-expansion-20211227-ryhyxqx2tzdqhao24njghovxde-story.html",
+            "urlToImage": "https://www.chicagotribune.com/resizer/LPx_qBYuar7uWooDFRbBNRYffgg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TABHHKRP2RBYVJOCSXJJMRPTKU.jpg",
+            "publishedAt": "2021-12-27T23:52:00Z",
+            "content": "With another surge in COVID-19 cases making more Illinoisans sick and once again crowding hospitals, Gov. J.B. Pritzker on Monday announced the state will more than double its staffing at vaccination… [+4302 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "David Knowles",
-            "title": "Climate change losses piled up again in 2021 - Yahoo News",
-            "description": "Global insurance losses from extreme weather fueled by climate change topped $100 billion in 2021, according to a new report, the fourth time that threshold ...",
-            "url": "https://news.yahoo.com/climate-change-losses-piled-up-again-in-2021-190305191.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uJWfrw1E7d6fWgrP0sMsMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Mzc-/https://s.yimg.com/os/creatr-uploaded-images/2021-12/6aa94270-6743-11ec-baff-69a2761612ca",
-            "publishedAt": "2021-12-27T19:03:05Z",
-            "content": "Global insurance losses from extreme weather fueled by climate change topped $100 billion in 2021, according to a new report, the fourth time that threshold has been crossed in the last five years. \r… [+3298 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Joe Burrow throws for 525 yards to set Cincinnati Bengals record | Pro Football Talk | NBC Sports - NBC Sports",
-            "description": "Mike Florio and Mike Golic unpack the Bengals' 41-21 win over the Ravens in Week 16, where Joe Burrow set a franchise record and landed fourth in the NFL his...",
-            "url": "https://www.youtube.com/watch?v=B7BQbBHWajg",
-            "urlToImage": "https://i.ytimg.com/vi/B7BQbBHWajg/maxresdefault.jpg",
-            "publishedAt": "2021-12-27T18:45:01Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "SARAH RANKIN Associated Press",
-            "title": "Again, crews find apparent time capsule at Lee statue site - ABC News",
-            "description": "",
-            "url": "https://abcnews.go.com/US/wireStory/crews-find-apparent-time-capsule-lee-statue-site-81957476",
-            "urlToImage": "https://s.abcnews.com/images/US/WireAP_469fa1a24f8c49b6929f570b43acaee6_16x9_992.jpg",
-            "publishedAt": "2021-12-27T18:44:17Z",
-            "content": "RICHMOND, Va. -- Crews wrapping up the removal Monday of a giant pedestal that once held a statue of Confederate Gen. Robert E. Lee in Richmond found what appeared to be a second and long-sought-afte… [+3200 chars]"
+            "author": "Alexandra Semenova",
+            "title": "Stock market news live updates: Futures open flat after S&P 500 hits fresh record to kick off Santa Claus Rally - Yahoo Finance",
+            "description": "U.S. stock futures were sideways on Monday after the S&P 500 closed at another record high in an all-around strong day for markets that jump started the...",
+            "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-december-28-2021-233337505.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bJPy6XGlE07lciWm1rLptw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-12/3cd84a70-675d-11ec-9dfa-daf4847cfdfe",
+            "publishedAt": "2021-12-27T23:33:37Z",
+            "content": "U.S. stock futures were sideways on Monday after the S&amp;P 500 closed at another record high in an all-around strong day for markets that jump-started the anticipated year-end bull run known to inv… [+3710 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Sandra E. Garcia",
-            "title": "‘Insecure’ Finale Recap: Choosing Confidence - The New York Times",
-            "description": "By the end, Issa and her friends had learned how to embrace the unexpected.",
-            "url": "https://www.nytimes.com/2021/12/26/arts/television/insecure-finale-recap.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/12/26/arts/26insecure-2/26insecure-2-facebookJumbo.jpg",
-            "publishedAt": "2021-12-27T18:31:00Z",
-            "content": "Its too late, anyway! Issa responds.\r\nGirl its not too late if thats what you really want, Molly tells her.\r\nIt is the voice in Issas head that tells her she cant do the things she wants to do, that … [+2175 chars]"
+            "author": "Sophie Kasakove, Maggie Astor",
+            "title": "NYC Tries New Approach: Vaccine Mandate for Private Sector - The New York Times",
+            "description": "To minimize disruptions as virus cases surge, the C.D.C. halved the recommended isolation period for infected Americans who show no symptoms, to five days. Dr. Anthony Fauci says a vaccination requirement should “seriously be considered” for air travel.",
+            "url": "https://www.nytimes.com/live/2021/12/27/world/cdc-quarantine-isolation-guidelines",
+            "urlToImage": "https://static01.nyt.com/images/2021/12/27/world/27virus-briefing-lede-item/27virus-briefing-lede-item-facebookJumbo.jpg",
+            "publishedAt": "2021-12-27T23:22:55Z",
+            "content": "A security checkpoint at Denver International Airport on Sunday. While the coronavirus was a major factor in the groundings, bad weather and maintenance issues also caused problems.Credit...David Zal… [+4633 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "PhoneArena"
             },
-            "author": null,
-            "title": "Elizabeth Holmes Case Comes Down To Whether Holmes Knowingly Conned Investors - MSNBC",
-            "description": "NBC’s Gadi Schwartz joins Joe Fryer to discuss the latest in the Elizabeth Holmes trial, as jury deliberations resume today. “It comes down to intent. Did El...",
-            "url": "https://www.youtube.com/watch?v=gEy2mvypx-8",
-            "urlToImage": "https://i.ytimg.com/vi/gEy2mvypx-8/maxresdefault.jpg",
-            "publishedAt": "2021-12-27T18:30:37Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Reuters",
-            "title": "British government says no new Covid curbs for England in 2021 - CNBC",
-            "description": "British Prime Minister Boris Johnson continues to resist new measures, which would be unpopular within his own party.",
-            "url": "https://www.cnbc.com/2021/12/27/british-government-says-no-new-covid-curbs-for-england-in-2021-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106993877-1640628848393-gettyimages-1237428212-AA_27122021_558497.jpeg?v=1640629003",
-            "publishedAt": "2021-12-27T18:18:49Z",
-            "content": "England will not get any new Covid-19 restrictions before the end of 2021, British health minister Sajid Javid said on Monday, as the government awaits more evidence on whether the health service can… [+2921 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Dana Rubinstein",
-            "title": "Private-sector Vaccine Mandate Goes Into Effect in N.Y.C. - The New York Times",
-            "description": "",
-            "url": "https://www.nytimes.com/2021/12/27/nyregion/nyc-vaccine-mandate.html",
-            "urlToImage": "https://static01.nyt.com/images/2021/12/27/reader-center/27virus-briefing-ny-vaccine-image/27virus-briefing-ny-vaccine-image-facebookJumbo.jpg",
-            "publishedAt": "2021-12-27T18:15:18Z",
-            "content": "The mayor-elect will make announcements on his administrations Covid policy this week, his spokesman, Evan Thies, said in a text message Monday morning.\r\nDuring his final months in office, Mr. de Bla… [+1001 chars]"
+            "author": "Doroteya Borisova",
+            "title": "OnePlus 10 will probably launch for sale on January 4 - PhoneArena",
+            "description": "Retail listing suggests that OnePlus 10 will hit the stores on January 4.",
+            "url": "https://www.phonearena.com/news/oneplus_id137420",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/137420-wide-two_1200/OnePlus-10-will-probably-launch-for-sale-on-January-4.jpg",
+            "publishedAt": "2021-12-27T23:15:09Z",
+            "content": "This is our new notification center.\r\n Inside, you will find updates on the most important things happening right now.\r\nGot it"
         }
     ]
 }
