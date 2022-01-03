@@ -4,224 +4,68 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ally Barnard and Jennifer Hauser, CNN",
-            "title": "Fire breaks out at South Africa's parliament in Cape Town - CNN",
-            "description": "A large fire broke out at South Africa's parliament in Cape Town on Sunday, with images from the scene showing flames shooting through the roof of a building.",
-            "url": "https://www.cnn.com/2022/01/02/africa/south-africa-parliament-building-fire-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220102080802-south-africa-parliament-fire-1-super-tease.jpg",
-            "publishedAt": "2022-01-02T09:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Christina Maxouris, CNN",
-            "title": "One important -- and dangerous -- way the Omicron surge is different than previous surges in the US - CNN",
-            "description": "The US kicked off 2022 amid a massive Covid-19 case spike -- driven by the highly contagious Omicron variant -- that some experts warn will be different than any other time in the pandemic.",
-            "url": "https://www.cnn.com/2022/01/02/health/us-coronavirus-sunday/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211230153145-covid-testing-122821-connecticut-super-tease.jpg",
-            "publishedAt": "2022-01-02T07:50:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Nate Day",
-            "title": "Miley Cyrus suffers wardrobe malfunction during New Year's Eve special - Fox News",
-            "description": "\"WITHOUT YOU\" singer Miley Cyrus nearly lost her top while performing on stage during her New Year's Eve special.",
-            "url": "https://www.foxnews.com/entertainment/miley-cyrus-wardrobe-malfunction-new-years-eve-special",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/Miley-Cyrus-NYE.jpg",
-            "publishedAt": "2022-01-02T06:15:11Z",
-            "content": "Miley Cyrus nearly showed more skin than she intended on New Year's Eve.\r\nFriday saw the 29-year-old musician host a television special to ring in the new year called \"Miley's New Year's Eve Party,\" … [+2215 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Edward Helmore",
-            "title": "Eric Adams sworn in as mayor of New York City - The Guardian",
-            "description": "The Democrat, a former police officer, has promised to welcome business and to focus on rising crime",
-            "url": "https://amp.theguardian.com/us-news/2022/jan/02/eric-adams-sworn-in-as-mayor-of-new-york-city",
-            "urlToImage": null,
-            "publishedAt": "2022-01-02T06:00:00Z",
-            "content": "New YorkThe Democrat, a former police officer, has promised to welcome business and to focus on rising crime\r\nNew York Citys new mayor, Eric Adams, was sworn into office soon after midnight yesterday… [+5148 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "Jamal Collier",
-            "title": "DeMar DeRozan continues to 'bring that calm presence,' drains buzzer-beater on second-straight night to lift surging Chicago Bulls - ESPN",
-            "description": "Chicago veteran DeMar DeRozan hit a buzzer-beating, game-winning 3-pointer for the second consecutive night on Saturday, leading the Bulls to a victory over the Wizards in Washington, their seventh straight victory.",
-            "url": "https://www.espn.com/nba/story/_/id/32976611/demar-derozan-continues-bring-calm-presence-drains-buzzer-beater-second-straight-night-lift-surging-chicago-bulls",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0102%2Fr957012_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-01-02T05:08:08Z",
-            "content": "Chicago Bulls star DeMar DeRozan hit a buzzer-beating, game-winning 3-pointer for the second consecutive night Saturday, leading the Bulls to a 120-119 road victory over the Washington Wizards, their… [+3060 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Los Angeles Times"
-            },
-            "author": "J. Brady McCollough",
-            "title": "2022 Rose Bowl was Ohio State's, Utah's rebuke of Kirk Herbstreit - Los Angeles Times",
-            "description": "Ohio State's exciting comeback victory over Utah in a gutsy Rose Bowl thriller showed that college football players do indeed put the game first.",
-            "url": "https://www.latimes.com/sports/story/2022-01-01/ohio-state-utah-rose-bowl-college-football",
-            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/1fd9c67/2147483647/strip/true/crop/4800x2520+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3d%2Fc9%2Fd33026e94062b095c4d8a4e04db8%2Fla-photos-1staff-894602-la-sp-rose-bowl-game-2022-026-ls.jpg",
-            "publishedAt": "2022-01-02T04:37:25Z",
-            "content": "After three hours of hair-raising excitement, stunned silence. The Utah quarterback, Southern Californias own Cameron Rising, lay flat on his back, surrounded by team physicians. Heads bowed all over… [+5729 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "CBS Sports"
             },
-            "author": "Brent Brookhouse",
-            "title": "2022 WWE Day 1 results, recap, grades: Brock Lesnar pins Big E to win WWE championship in wild main event - CBSSports.com",
-            "description": "Lesnar won the title in a match he was not even set to participate in just hours prior",
-            "url": "https://www.cbssports.com/wwe/news/2022-wwe-day-1-results-recap-grades-brock-lesnar-pins-big-e-to-win-wwe-championship-in-wild-main-event/live/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/01/02/8cf8f5a1-da48-4657-b146-c2d4b8c0c8eb/thumbnail/1200x675/ae5fe140386d70ef54e4bc6c0a5d6440/brock-lesnar-wwe-day-1.jpg",
-            "publishedAt": "2022-01-02T04:25:00Z",
-            "content": "One hour before the Day 1 kickoff show began, the event underwent a radical transformation with the news that Roman Reigns had tested positive for COVID-19 and was out of his universal championship d… [+9295 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Don Lewis cold case: \"Meat grinder\" theory investigated in case of missing millionaire - CBS News",
-            "description": "New leads in the 1997 disappearance of Carole Baskin's former husband?",
-            "url": "https://www.cbsnews.com/news/carole-baskin-husband-don-lewis-missing-millionaire-tiger-king-mystery-48-hours/",
-            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/10/7d123d2d-fc82-4337-bafe-074da9137f14/thumbnail/1200x630/b6296f8d4affd9ad8484f0c283fd18f8/tk-coldcase.jpg",
-            "publishedAt": "2022-01-02T03:57:00Z",
-            "content": "There are possible new leads in the strange case of missing millionaire Don Lewis — a man who seemed to vanish without a trace.\r\n Richard Schlesinger: You believe he was killed, correct?\r\nAlex Spiro:… [+37739 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": null,
-            "title": "Kentucky storm: Floods, power outages and possible tornadoes - NPR",
-            "description": "Strong winds, heavy rains and possible tornadoes wrecked buildings and downed powerlines, three weeks after deadly tornadoes battered the state. The governor has declared a state of emergency.",
-            "url": "https://www.npr.org/2022/01/01/1069702738/kentucky-storm-flooding-power-outages",
-            "urlToImage": "https://media.npr.org/assets/img/2022/01/01/ap22001769800187_wide-c00a221413c898fb7096da6635bdeeefcb6b4107.jpg?s=1400",
-            "publishedAt": "2022-01-02T03:31:27Z",
-            "content": "Utility workers and city crews survey and help clear debris at Thornton Furniture in Bowling Green, Ky., after a tornado warning was issued on Saturday for Warren and surrounding counties.\r\nGrace Ram… [+1735 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MMA Fighting"
-            },
-            "author": "Mike Heck",
-            "title": "Dana White issues fiery response to Jake Paul: ‘Nobody on Earth thinks that you really wrote that’ - MMA Fighting",
-            "description": "Dana White sends another message to Jake Paul in response to the boxer’s list of demands for the UFC.",
-            "url": "https://www.mmafighting.com/2022/1/1/22862955/dana-white-issues-fiery-response-to-tanking-jake-paul-scumbag-manager",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/bpVU0uFYYnvrEmA3aMTPtNXJlGY=/0x0:4319x2261/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23139251/1358160878.jpg",
-            "publishedAt": "2022-01-02T02:53:14Z",
-            "content": "Dana White saw what Jake Paul had to say about his business and the UFC president dropped a New Years Day rant of his own on the 5-0 pro boxer in response. \r\nOn Saturday, Paul laid out a list of dema… [+2522 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The-sun.com"
-            },
-            "author": "Nina Clevinger",
-            "title": "What did Betty White say about Sandra Bullock?... - The US Sun",
-            "description": "",
-            "url": "https://www.the-sun.com/entertainment/4380290/what-betty-white-say-about-sandra-bullock/",
-            "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2022/01/kc-betty-sandra-plat.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-            "publishedAt": "2022-01-02T02:50:00Z",
-            "content": "BETTY White was known for her sense of humor and off-hand one liners.\r\nDuring an award show in 2010, Betty delivered a quick roast to her costar at the time, Sandra Bullock.\r\nBetty White and Sandra B… [+2962 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Bruce Haring",
-            "title": "Rapper Kodak Black Arrested On Trespassing Charge In South Florida - Deadline",
-            "description": "South Florida police had a Kodak moment on Saturday. That’s because rapper Kodak Black was arrested by them on a trespassing charge that day, authorities said. The Broward Sheriff’s Office said Black was taken into custody in Pompano Beach early Saturday morn…",
-            "url": "https://deadline.com/2022/01/kodak-black-rapper-arrested-south-florida-trespassing-charge-1234903571/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/01/AP19317627247626.jpg?w=1024",
-            "publishedAt": "2022-01-02T02:32:00Z",
-            "content": "South Florida police had a Kodak moment on Saturday. That’s because rapper Kodak Black was arrested by them on a trespassing charge that day, authorities said.\r\nThe Broward Sheriff’s Office said Blac… [+886 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Jesse O’Neill",
-            "title": "21 rescued after being stranded overnight on icy tram in New Mexico - New York Post ",
-            "description": "Officials rescued 21 hospitality workers from two trams after their rides home from a fancy restaurant were halted over safety concerns in the early morning hours Saturday.",
-            "url": "https://nypost.com/2022/01/01/21-rescued-after-being-stranded-overnight-on-icy-tram-in-new-mexico/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/new-mexico-tram.png?w=1024",
-            "publishedAt": "2022-01-02T02:08:00Z",
-            "content": "The New Year got off to a terrifying start for nearly two dozen people who spent hours stranded in icy tram cabs dangling above the Sandia Mountains in New Mexico.\r\nOfficials rescued 21 hospitality w… [+2306 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": null,
-            "title": "Israel hits Gaza with airstrikes - CBS News",
-            "description": "The Israeli military said the attacks targeted a rocket manufacturing facility and a military post for Hamas.",
-            "url": "https://www.cbsnews.com/news/israel-gaza-airstrikes/",
-            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/01/02/fa3575b0-2911-4cee-ac57-dd60813d98d9/thumbnail/1200x630/78e3e8b12add7b5588a517c1dc1117b0/ap22002016462172.jpg",
-            "publishedAt": "2022-01-02T02:06:22Z",
-            "content": "Israel's military said early Sunday it launched strikes against militant targets in the Gaza Strip, a day after rockets were fired from the Hamas-ruled territory.\r\nVideo filmed in Khan Younis, southe… [+1986 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Chicago Tribune"
-            },
-            "author": "Deanese Williams-Harris",
-            "title": "Two inches of snow at both airports recorded as storm grips Chicago area, weather officials say - Chicago Tribune",
-            "description": "Storm hitting Chicago area; salt trucks on the move, weather officials say",
-            "url": "https://www.chicagotribune.com/news/breaking/ct-weather-first-winter-storm-20220101-hd3fua4fdngatp2e45ftgl6xua-story.html",
-            "urlToImage": "https://www.chicagotribune.com/resizer/4Gh7ZYYdtNL-qAIJa5HGPWg60RE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YU3GC5EGNBC7FDHINIKZXGM7BY.jpg",
-            "publishedAt": "2022-01-02T01:49:00Z",
-            "content": "Chicagos Department of Street and Sanitation deployed more than 200 salt trucks Saturday for a serious snow storm predicted to dump from four to seven inches in its path before the area plunges into … [+1861 chars]"
+            "author": "Jared Dubin",
+            "title": "Chargers vs. Broncos score: Live updates, results, game stats, highlights, TV, live stream for Week 17 game - CBSSports.com",
+            "description": "Live scores, highlights and updates from the Chargers vs. Broncos game",
+            "url": "https://www.cbssports.com/nfl/news/chargers-vs-broncos-score-live-updates-results-game-stats-highlights-tv-live-stream-for-week-17-game/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/17/fff86c72-39e0-4287-81c3-68c1dfb36c40/thumbnail/1200x675/fc1875f5e20fa0e191d9611db7bad5ca/austin-ekeler-chargers.jpg",
+            "publishedAt": "2022-01-02T22:35:20Z",
+            "content": "At halftime of their Week 17 game, the Los Angeles Chargers lead the division rival Denver Broncos by a score of 17-3.\r\nLos Angeles got off to an excellent start, with Andre Roberts returning the ope… [+946 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Guardian staff reporter",
-            "title": "What is aquamation? The process behind Desmond Tutu’s ‘green cremation’ - The Guardian",
-            "description": "The anti-apartheid hero requested an eco-friendly cremation, which uses water instead of flames to process the remains",
-            "url": "https://amp.theguardian.com/world/2022/jan/02/what-is-aquamation-the-process-behind-desmond-tutus-green-cremation",
-            "urlToImage": null,
-            "publishedAt": "2022-01-02T01:24:00Z",
-            "content": "Desmond TutuThe anti-apartheid hero requested an eco-friendly cremation, which uses water instead of flames to process the remains\r\nThe body of Archbishop Desmond Tutu will undergo aquamation, an inc… [+2566 chars]"
+            "author": "Martin Pengelly",
+            "title": "Capitol attack: Cheney says Republicans must choose between Trump and truth - The Guardian",
+            "description": "Republican member of the House committee investigating the events of 6 January issues stark warning to her party",
+            "url": "https://amp.theguardian.com/us-news/2022/jan/02/capitol-attack-liz-cheney-republicans-choose-trump-or-truth",
+            "urlToImage": "https://i.guim.co.uk/img/media/6a512694cd8e1d2fc7b442fca0a0bf7bc957658b/0_217_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f20dc233f31414146109969e29c258f",
+            "publishedAt": "2022-01-02T22:02:00Z",
+            "content": "On a day of alarming polling about attitudes to political violence and fears for US democracy, and as the first anniversary of the Capitol attack approached, a Republican member of the House committe… [+5625 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Thomas Peipert, Brittany Peterson",
+            "title": "2 missing; survivors count blessings after Colorado fire - Associated Press",
+            "description": "LOUISVILLE, Colo. (AP) — Search teams looked for two missing people on Sunday in the snow-covered but still smoldering debris from a massive Colorado wildfire , while people who barely escaped the flames sorted through what was left after the blaze and invest…",
+            "url": "https://apnews.com/article/wildfires-business-fires-environment-and-nature-colorado-f92bfd14055901288ef55dec67a440ef",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/45bedc3e3dfd4e59b04f586d1b60633c/3000.jpeg",
+            "publishedAt": "2022-01-02T21:40:13Z",
+            "content": "LOUISVILLE, Colo. (AP) Search teams looked for two missing people on Sunday in the snow-covered but still smoldering debris from a massive Colorado wildfire, while people who barely escaped the flame… [+4738 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alaa Elassar and Pierre Meilhan, CNN",
+            "title": "Sudan's Prime Minister resigns amid violent anti-coup protests that have left at least 57 people dead - CNN",
+            "description": "Sudanese Prime Minister Abdalla Hamdok has resigned, according to a video address from Hamdok posted Sunday on the verified YouTube account of the Prime Minister's office.",
+            "url": "https://www.cnn.com/2022/01/02/world/sudan-protest-killed-anti-coup-security-forces/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220102131704-sudan-protest-killed-anti-coup-super-tease.jpg",
+            "publishedAt": "2022-01-02T21:29:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "RotoBaller"
+                "name": "NBCSports.com"
             },
-            "author": null,
-            "title": "Adam Koffler's Week 17 Rankings for Fantasy Football Championships Including Saquon Barkley, Chase Edmonds, Justin Jefferson - RotoBaller",
-            "description": "Adam Koffler's Week 17 fantasy football rankings for the fantasy championships. Player notes are included to explain the rationale for some of the rankings.",
-            "url": "https://www.rotoballer.com/adam-kofflers-week-17-rankings-fantasy-football-championship/983028",
-            "urlToImage": "https://cdn.rotoballer.com/2021/12/chase-edmonds-fantasy-football-rankings-news-NFL-dfs-picks-icon-rotoballer.jpeg",
-            "publishedAt": "2022-01-02T01:16:20Z",
-            "content": "We made it! Fantasy football championship Week 17 is finally here after a very long, COVID-ridden 2021 season. If you've made it this far, congratulations, it most definitely wasn't easy, but you've … [+9046 chars]"
+            "author": "Charean Williams",
+            "title": "Bengals kick last-play field goal to beat Chiefs, win the AFC North - NBC Sports",
+            "description": "The Bengals have won the AFC North. Not long after the Ravens dropped a heartbreaker to the Rams, the Bengals finished off the Chiefs in Cincinnati with a last-play, chip-shot field goal. The Bengals moved to 10-6, while the Chiefs failed to clinch the overal…",
+            "url": "https://profootballtalk.nbcsports.com/2022/01/02/bengals-kick-last-play-field-goal-to-beat-chiefs-win-the-afc-north/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/01/GettyImages-1362428388-e1641158850853.jpg",
+            "publishedAt": "2022-01-02T21:28:00Z",
+            "content": "The Bengals have won the AFC North. \r\nNot long after the Ravens dropped a heartbreaker to the Rams, the Bengals finished off the Chiefs in Cincinnati with a last-play, chip-shot field goal. The Benga… [+1368 chars]"
         },
         {
             "source": {
@@ -229,38 +73,194 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Three people missing and feared dead from fierce Colorado wildfire - Reuters",
-            "description": "Three people are missing and feared dead after a wind-stoked wildfire roared through two towns in Boulder County, Colorado, prompting thousands of evacuations and destroying nearly 1,000 homes, authorities said on Saturday.",
-            "url": "https://www.reuters.com/markets/commodities/three-people-missing-feared-dead-fierce-colorado-wildfire-2022-01-02/",
-            "urlToImage": "https://www.reuters.com/resizer/_xlfFkpIU7l9RI4WWmFAET23YHs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3ZZUHUZX6FNYTIPH2VHEJZKSUA.jpg",
-            "publishedAt": "2022-01-02T01:08:00Z",
-            "content": "DENVER, Jan 1 (Reuters) - Three people are missing and feared dead after a wind-stoked wildfire roared through two towns in Boulder County, Colorado, prompting thousands of evacuations and destroying… [+1963 chars]"
+            "title": "Tesla surmounts supply chain woes with blockbuster Q4 deliveries - Reuters",
+            "description": "Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> on Sunday reported record quarterly deliveries that far exceeded Wall Street estimates, riding out global chip shortages as it ramped up China production.",
+            "url": "https://www.reuters.com/business/autos-transportation/tesla-delivers-308600-vehicles-q4-beating-estimates-2022-01-02/",
+            "urlToImage": "https://www.reuters.com/resizer/bBzrcMq48qioiOABhM-y-6zVUvc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TTPRORKWTZOPJEPF6MZVFVXQHE.jpg",
+            "publishedAt": "2022-01-02T21:23:00Z",
+            "content": "Jan 2 (Reuters) - Tesla Inc (TSLA.O) on Sunday reported record quarterly deliveries that far exceeded Wall Street estimates, riding out global chip shortages as it ramped up China production.\r\nIt was… [+3421 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WEAU"
+                "name": "WSBT-TV"
             },
-            "author": "Leeann Stapleton",
-            "title": "Eau Claire's first baby of 2022 born at HSHS Sacred Heart Hospital - WEAU",
-            "description": "Eau Claire's first New Year's baby born at HSHS Sacred Heart Hospital",
-            "url": "https://www.weau.com/2022/01/02/eau-claires-first-baby-2022-born-hshs-sacred-heart-hospital/",
-            "urlToImage": "https://gray-weau-prod.cdn.arcpublishing.com/resizer/zNTsEIGCnBJxEqtsOQwxRuK5jxs=/980x0/filters:focal(1047x600:1057x590):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/FCBIMEMPSRA77IL4PDSF756APQ.jpg",
-            "publishedAt": "2022-01-02T01:03:00Z",
-            "content": "EAU CLAIRE, Wis. (WEAU) - HSHS Sacred Heart Hospital saw the first baby born in Eau Claire on New Years Day.\r\nBrittany and Kyle Tschumperlin from Mondovi welcomed their new baby boy into the world. T… [+212 chars]"
+            "author": "PAUL DAVENPORT Associated Press",
+            "title": "Crews rescue 21 people on stuck tram cars in New Mexico - WKRC TV Cincinnati",
+            "description": "New Mexico search and rescue crews used ropes and helicopters Saturday to rescue 21 people who were stranded overnight in two tram cars after an iced-over cable caused the cars to get stuck high up in the Sandia Mountains overlooking Albuquerque. Lt. Robert A…",
+            "url": "https://wsbt.com/news/nation-world/crews-rescue-21-people-on-stuck-tram-cars-in-new-mexico",
+            "urlToImage": "https://wsbt.com/resources/media/6cba0803-a38f-4c6a-b48e-c02f85e45ded-large16x9_AP22001753525779.jpg?1641158113381",
+            "publishedAt": "2022-01-02T21:21:07Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "The Times of Israel"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "‘Flurona’: Israel records its first case of patient with COVID and flu at same time - The Times of Israel",
-            "description": "Unvaccinated pregnant woman infected with both viruses is released from hospital in good condition; health officials say there may be many more similar cases",
-            "url": "https://www.timesofisrael.com/flurona-israel-records-its-first-case-of-patient-with-covid-and-flu-at-same-time/",
-            "urlToImage": "https://static.timesofisrael.com/www/uploads/2022/01/Untitled-6-1024x640.jpg",
-            "publishedAt": "2022-01-02T00:20:08Z",
-            "content": "Israel confirmed its first case of an individual infected with both the seasonal flu and COVID-19 at the same time, authorities said on Thursday.\r\nThe two infections were found in an unvaccinated pre… [+2293 chars]"
+            "title": "South Korean crosses armed border in rare defection to North - Reuters",
+            "description": "A South Korean has crossed the heavily fortified border in a rare defection to North Korea, South Korea's military said on Sunday.",
+            "url": "https://www.reuters.com/world/asia-pacific/south-korean-crosses-armed-border-rare-defection-north-2022-01-02/",
+            "urlToImage": "https://www.reuters.com/resizer/C2_-oWFjiUh470peN4xCzuOgKwc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6BXRMEGSCNPLXKMJMLJGIK6E5Y.jpg",
+            "publishedAt": "2022-01-02T21:11:00Z",
+            "content": "SEOUL, Jan 2 (Reuters) - A South Korean has crossed the heavily fortified border in a rare defection to North Korea, South Korea's military said on Sunday.\r\nThe Joint Chiefs of Staff (JCS) said it ca… [+2042 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WSBT-TV"
+            },
+            "author": "MATT O'BRIEN Associated Press",
+            "title": "Snow storms and pandemic ground flights, delay holiday's end - WKRC TV Cincinnati",
+            "description": "Wintry weather combined with the pandemic to frustrate air travelers whose return flights home from the holidays were canceled or delayed in the first days of the new year. More than 2,500 U. S. flights and more than 4,100 worldwide were grounded Sunday, acco…",
+            "url": "https://wsbt.com/news/nation-world/snow-storms-and-pandemic-ground-flights-delay-holidays-end",
+            "urlToImage": "https://wsbt.com/resources/media/6b770767-ec77-4499-83b6-1e742958be55-large16x9_AP21364603315529.jpg?1641157192591",
+            "publishedAt": "2022-01-02T21:04:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/jon-fingas",
+            "title": "Samsung's new M8 monitor has a built-in smart home hub - Engadget",
+            "description": "Samsung has unveiled a new monitor that can control your smart home, and also has a smaller curved gaming monitor..",
+            "url": "https://www.engadget.com/samsung-smart-monitor-m8-odyssey-neo-g8-204612785.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/c194dee0-6c08-11ec-bbf4-c12cfcf9e9bd",
+            "publishedAt": "2022-01-02T20:47:07Z",
+            "content": "Samsung is coming to CES with two high-end monitors aimed at very different audiences. As The Vergenotes, the company is starting things off with the Smart Monitor M8. The 32-inch 4K display offers T… [+1476 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Natalie O'Neill",
+            "title": "CDC may add more testing to COVID-19 quarantine guidance: Fauci - New York Post ",
+            "description": "Dr. Anthony Fauci said the CDC is considering asking asymptomatic people infected with COVID-19 to test negative before leaving quarantine.",
+            "url": "https://nypost.com/2022/01/02/cdc-may-add-more-testing-to-covid-19-quarantine-guidance-fauci/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/fauci-084.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-01-02T20:46:00Z",
+            "content": "The Centers for Disease Control and Prevention will consider new guidance that asks asymptomatic people infected with COVID-19 to test negative before leaving quarantine, Dr. Anthony Fauci said Sunda… [+1554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Jenna Laine",
+            "title": "Tampa Bay Buccaneers coach Bruce Arians - Antonio Brown 'no longer a Buc' after WR rips off equipment, runs off field during third quarter - ESPN",
+            "description": "Buccaneers WR Antonio Brown is no longer part of the team after he ran off the field during the game, coach Bruce Arians said Sunday.",
+            "url": "https://www.espn.com/nfl/story/_/id/32979872/tampa-bay-buccaneers-wr-antonio-brown-rips-equipment-runs-field-midgame",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0102%2Fr957207_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-01-02T20:37:54Z",
+            "content": "EAST RUTHERFORD, N.J. -- Tampa Bay Buccaneers coach Bruce Arians said that Antonio Brown \"is no longer a Buc\" after the wide receiver left the field during the third quarter against the New York Jets… [+635 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Cassie Carpenter",
+            "title": "Britney Spears unfollows her 'mean a**' sister Jamie Lynn Spears on Instagram - Daily Mail",
+            "description": "Meanwhile, the 30-year-old former Nickelodeon star was still following the 40-year-old Grammy winner as of Sunday afternoon",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-10363001/Britney-Spears-unfollows-mean-sister-Jamie-Lynn-Spears-Instagram.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/01/02/20/52471977-0-image-a-57_1641155265576.jpg",
+            "publishedAt": "2022-01-02T20:28:41Z",
+            "content": "Grammy winner Britney Spears is no longer following her younger sister Jamie Lynn Spears on the social media app Instagram, if she ever did in the first place.\r\nMeanwhile, the 30-year-old former Nick… [+4679 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "South Africa parliament: Man arrested over massive fire - BBC News",
+            "description": "Police in Cape Town say a man is facing several charges over the fire and will appear in court on Tuesday.",
+            "url": "https://www.bbc.com/news/world-africa-59850904",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/145F6/production/_122564438_mediaitem122564437.jpg",
+            "publishedAt": "2022-01-02T20:23:28Z",
+            "content": "Media caption, Video shows black smoke coming from the roof of the building in Cape Town\r\nA man has been arrested after a large fire severely damaged the Houses of Parliament in the South African cit… [+4299 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Miriam Berger",
+            "title": "What is aquamation, the burial practice Desmond Tutu requested instead of greenhouse gas-emitting cremation? - The Washington Post",
+            "description": "Also called alkaline hydrolysis, aquamation is a water-based process considered an eco-friendly alternative to traditional, fire-based cremation.",
+            "url": "https://www.washingtonpost.com/world/2022/01/02/what-is-aquamation-burial-practice-desmond-tutu-requested-instead-greenhouse-gas-emitting-cremation/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7SDPACDLFII6ZE4Q5LRED5GIWE.jpg&w=1440",
+            "publishedAt": "2022-01-02T20:07:00Z",
+            "content": "Desmond Tutu, exuberant apostle of racial justice in South Africa, dies at 90\r\nSo after Tutus remains lay in a simple pine casket during his funeral at St. Georges Cathedral on Saturday, his body was… [+3186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Meghan Bartels",
+            "title": "NASA delays tightening James Webb Space Telescope sunshield to study power system - Space.com",
+            "description": "NASA personnel are spending the day studying the power subsystem of the massive James Webb Space Telescope to ensure the spacecraft is ready to execute a key procedure.",
+            "url": "https://www.space.com/james-webb-space-telescope-sunshield-tension-delay",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XA2QRn49NAhXiADQua9FQE-1200-80.jpg",
+            "publishedAt": "2022-01-02T20:05:14Z",
+            "content": "NASA personnel are spending the day studying the power subsystem of the massive James Webb Space Telescope to ensure the observatory is ready to execute a key procedure: tensioning its vast sunshield… [+3149 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Drew FitzGerald, Andrew Tangel",
+            "title": "AT&T, Verizon Refuse FAA Request to Delay 5G Launch - The Wall Street Journal",
+            "description": "Cellphone carriers offer to tailor air-safety protections to mirror limits in France",
+            "url": "https://www.wsj.com/articles/at-t-verizon-refuse-faa-request-to-delay-5g-launch-11641146719",
+            "urlToImage": "https://images.wsj.net/im-460657/social",
+            "publishedAt": "2022-01-02T19:56:00Z",
+            "content": "The cellphone carriers said Sunday in a letter reviewed by The Wall Street Journal that they could further dim the power of their new 5G service for six months to match limits imposed by regulators i… [+4741 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WBAL TV Baltimore"
+            },
+            "author": null,
+            "title": "Winter storm warning issued for parts of Maryland - WBAL TV Baltimore",
+            "description": "After temperatures in the 60s on Sunday, a Winter Storm Watch is in effect for parts of Maryland starting Monday.",
+            "url": "https://www.wbaltv.com/article/baltimore-snow-january-2-2022/38651438",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/snow-1641141219.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2022-01-02T19:50:00Z",
+            "content": "|| Closings/Delays | Weather Advisories | Radar | Forecast | Email Alerts | Send us your pics ||\r\nFollow: @ttasselWBAL | @AvaWBAL | @TonyPannWBAL | @TaylorWBAL | @wbaltv11\r\nBALTIMORE -- After tempera… [+1161 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Jordan Mendoza, USA TODAY",
+            "title": "New NYC mayor Eric Adams calls 911 on 'assault in progress' on first day on the job - USA TODAY",
+            "description": "Just hours after being sworn in as mayor of New York City, former police officer Eric Adams called 911 on an altercation on his way to city hall.",
+            "url": "https://www.usatoday.com/story/news/nation/2022/01/02/nyc-mayor-eric-adams-calls-911/9072081002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/01/02/USAT/13807099-ddc3-4cf0-a0d1-7b9c10905dea-AP_New_York_Mayor_1.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
+            "publishedAt": "2022-01-02T19:31:47Z",
+            "content": "It was an eventful first day on the job for new New York City Mayor Eric Adams: The former police officer called 911 on an \"assault in progress\" while at a Brooklyn subway station.\r\nAdams, who was sw… [+2239 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BleepingComputer"
+            },
+            "author": "Lawrence Abrams",
+            "title": "Microsoft releases emergency fix for Exchange year 2022 bug - BleepingComputer",
+            "description": "Microsoft has released an emergency fix for a year 2022 bug that is breaking email delivery on on-premise Microsoft Exchange servers.",
+            "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-fix-for-exchange-year-2022-bug/",
+            "urlToImage": "https://www.bleepstatic.com/content/hl-images/2021/09/28/Exchange_headpic.jpg",
+            "publishedAt": "2022-01-02T19:06:31Z",
+            "content": "Microsoft has released an emergency fix for a year 2022 bug that is breaking email delivery on on-premise Microsoft Exchange servers.\r\nAs the year 2022 rolled in and the clock struck midnight, Exchan… [+3285 chars]"
         }
     ]
 }
