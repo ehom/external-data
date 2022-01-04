@@ -4,159 +4,211 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "South Africa parliament: Man arrested over massive fire - BBC News",
-            "description": "Police in Cape Town say a man faces several charges over the fire and will appear in court on Tuesday.",
-            "url": "https://www.bbc.com/news/world-africa-59850904",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/88AA/production/_122568943_mediaitem122564437.jpg",
-            "publishedAt": "2022-01-03T10:31:07Z",
-            "content": "Media caption, Video shows black smoke coming from the roof of the building in Cape Town\r\nA man has been arrested after a large fire severely damaged the Houses of Parliament in the South African cit… [+4488 chars]"
+            "author": "Christina Zdanowicz, CNN",
+            "title": "A Covid-19 survivor came out of a coma after 65 days. Now she supports vaccinations - CNN",
+            "description": "After spending two months in a coma due to Covid-19 earlier this year, a California woman is urging people to get vaccinated.",
+            "url": "https://www.cnn.com/2022/01/03/us/covid-19-survivor-supports-vaccines-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220103120731-andrea-arriaga-borges-covid-survivor-super-tease.jpg",
+            "publishedAt": "2022-01-03T22:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sonia Moghe, CNN",
+            "title": "Prince Andrew accuser Virginia Roberts Giuffre's 2009 settlement with Jeffrey Epstein released - CNN",
+            "description": "A 2009 settlement agreement between sex offender Jeffrey Epstein and Virginia Roberts Giuffre -- the woman who accused him of sexual abuse and of trafficking her to Prince Andrew and other men -- was unsealed Monday.",
+            "url": "https://www.cnn.com/2022/01/03/us/virginia-giuffre-jeffrey-epstein-settlement/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190906152149-prince-andrew-guifre-maxwell-super-tease.jpg",
+            "publishedAt": "2022-01-03T22:07:00Z",
+            "content": "(CNN)A 2009 settlement agreement between sex offender Jeffrey Epstein and Virginia Roberts Giuffre -- the woman who accused him of sexual abuse and of trafficking her to Prince Andrew and other men -… [+3238 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "Apple has become the world's first $3 trillion company - CNN",
+            "description": "Apple has reached yet another major milestone. The iPhone maker topped a market value of $3 trillion Monday — the first publicly traded company ever to be worth that much.",
+            "url": "https://www.cnn.com/2022/01/03/investing/apple-three-trillion-dollar-market-cap/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211213080106-apple-headquarters-102821-file-restricted-super-tease.jpg",
+            "publishedAt": "2022-01-03T21:57:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Dan Goodin",
+            "title": "Microsoft fixes harebrained Y2K22 Exchange bug that disrupted email worldwide - Ars Technica",
+            "description": "A rookie programming error crashed servers because they couldn't process the year 2022.",
+            "url": "https://arstechnica.com/information-technology/2022/01/exchange-server-bug-gets-a-fix-after-ruining-admins-new-years-plans/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/party-pooper-760x380.jpeg",
+            "publishedAt": "2022-01-03T21:47:39Z",
+            "content": "50 with 40 posters participating, including story author\r\nMicrosoft has released a fix for a harebrained Exchange Server bug that shut down on-premises mail delivery around the world just as clocks w… [+2906 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Caitlin Ostroff, Paul Vigna",
+            "title": "U.S. Stocks Close Higher to Start 2022 - The Wall Street Journal",
+            "description": "Apple pushes Nasdaq ahead as tech giant briefly hits $3 trillion market value",
+            "url": "https://www.wsj.com/articles/global-stock-markets-dow-update-01-03-2022-11641200978",
+            "urlToImage": "https://images.wsj.net/im-460724/social",
+            "publishedAt": "2022-01-03T21:46:00Z",
+            "content": "U.S. stocks rose in the first session of 2022 and Apple briefly touched a $3 trillion market capitalization, which was enough to push the Dow Jones Industrial Average and S&amp;P 500 to fresh record … [+5337 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "WTVD-TV"
+                "name": "Sports Illustrated"
             },
-            "author": null,
-            "title": "NC weather forecast: Freezing temperatures arrive Monday to turn heavy rain into snow - WTVD-TV",
-            "description": "Heavy rain moves through North Carolina ahead of sharp drop in temperatures, which could bring snow to some areas.",
-            "url": "https://abc11.com/nc-weather-radar-winter-storm-warning-snow/11419911/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/11419983_010322-wtvd-main-weather-445a-vid.jpg?w=1600",
-            "publishedAt": "2022-01-03T10:18:45Z",
-            "content": "RALEIGH. N.C. (WTVD) -- Heavy rain moves through North Carolina ahead of sharp drop in temperatures, which could bring snow to some areas.As recent as two days ago, North Carolina was dealing with re… [+3462 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Jason Samenow",
-            "title": "DC snow forecast: Winter storm to produce significant accumulations - The Washington Post",
-            "description": "We have increased our snowfall forecast to 4 to 8 inches for the immediate area",
-            "url": "https://www.washingtonpost.com/weather/2022/01/03/dc-snow-winter-storm-warning/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCYI2GDFT5EO3GFZXXN4KSLVDM.png&w=1440",
-            "publishedAt": "2022-01-03T10:13:19Z",
-            "content": "Story continues below advertisement\r\nConditions will rapidly deteriorate over the next few hours as snow continues and temperatures, currently 32 to 34 degrees, drop a few more degrees.\r\nBased on the… [+3592 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jan Dahinten",
-            "title": "Property Stocks Sink After Demolition Order: Evergrande Update - Yahoo Finance",
-            "description": "(Bloomberg) -- Chinese developer shares dropped following local media reports that China Evergrande Group has been ordered to tear down apartment blocks in a...",
-            "url": "https://finance.yahoo.com/news/shares-suspended-trading-hong-kong-011422846.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JVvLXK3SNWphE6cjuVFnfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/ae6sAHHM8sD.yt_rSIp2VA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/8355271d8599d0e5e026d1402cb08de1",
-            "publishedAt": "2022-01-03T09:22:13Z",
-            "content": "(Bloomberg) -- Chinese developer shares dropped following local media reports that China Evergrande Group has been ordered to tear down apartment blocks in a development in Hainan province. Evergrand… [+5512 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Hong Kong's Citizen News says closure triggered by Stand News collapse - Reuters",
-            "description": "Hong Kong independent online publication Citizen News said on Monday its <a href=\"https://www.reuters.com/world/china/hong-kong-independent-portal-citizen-news-says-shut-2022-01-02/\" target=\"_blank\">decision to shut down</a> was triggered by the closure of a …",
-            "url": "https://www.reuters.com/world/china/hong-kongs-citizen-news-says-closure-triggered-by-stand-news-collapse-2022-01-03/",
-            "urlToImage": "https://www.reuters.com/resizer/oPCbe84AkRdWiVeVgiWToSA4Qrw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R6ENX35SCNPN7M46SMMVCW276Q.jpg",
-            "publishedAt": "2022-01-03T09:07:00Z",
-            "content": "HONG KONG, Jan 3 (Reuters) - Hong Kong independent online publication Citizen News said on Monday its decision to shut down was triggered by the closure of a pro-democracy media outlet last week foll… [+2408 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Bill Cosby's Former Cellmates Still Calling Him for Guidance - TMZ",
-            "description": "Bill Cosby's former fellow inmates are missing him following his prison release.",
-            "url": "https://www.tmz.com/2022/01/03/bill-cosby-former-fellow-inmates-missing-him-prison-release/",
-            "urlToImage": "https://imagez.tmz.com/image/68/16by9/2021/12/23/685728ececbf4f4396e5370f78c1e838_xl.jpg",
-            "publishedAt": "2022-01-03T09:00:00Z",
-            "content": "We know critics ofBill Cosby's overturned conviction would love to see him back in prison, but surprisingly ... a bunch of his former cellmates feel the same way, though not for the reasons you'd thi… [+1439 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Fox News",
-            "title": "Patton Oswalt defends performing with Dave Chappelle after backlash - New York Post ",
-            "description": "Patton Oswalt defended his decision to perform with embattled comedian Dave Chappelle on New Year’s Eve.",
-            "url": "https://nypost.com/2022/01/03/patton-oswalt-defends-performing-with-dave-chappelle-after-backlash/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/newspress-collage-20692064-1641198746349.png?w=1024",
-            "publishedAt": "2022-01-03T08:45:00Z",
-            "content": "Patton Oswalt defended his decision to perform with embattled comedian Dave Chappelle on New Years Eve. \r\nThe comedian shared in a post on Instagram that he was conducting his last show of 2021 at a … [+3815 chars]"
+            "author": "Michael Shapiro",
+            "title": "Oklahoma QB Caleb Williams to Enter Transfer Portal - CalBearsMaven",
+            "description": "The Sooners could see another major departure from the program in 2022.",
+            "url": "https://www.si.com/college/2022/01/03/caleb-williams-oklahoma-enters-transfer-portal",
+            "urlToImage": "https://www.si.com/.image/t_share/MTg2NDQ0MzQ0ODMwNDY5MjQ5/caleb-williams-enters-transfer-portal-oklahoma.jpg",
+            "publishedAt": "2022-01-03T21:19:30Z",
+            "content": "Oklahoma quarterback Caleb Williams announced Monday he will enter the transfer portal.\r\nWilliams added staying at Oklahoma is “definitely” an option despite Monday's decision. His father, Carl Willi… [+1338 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "NBCSports.com"
             },
-            "author": "Peter King",
-            "title": "Peter King's Football Morning In America, Week 17 - NBC Sports - NBC Sports",
-            "description": "In the locker room when one of the most dramatic games of this or any NFL season had ended, Tampa Bay coach Bruce Arians told his players—all except the most famous former one, Antonio Brown—how proud he was of them.“You’re either with us or against us,” Aria…",
-            "url": "https://profootballtalk.nbcsports.com/2022/01/03/antonio-brown-bucs-rams-covid-nfl-fmia-peter-king/",
-            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/01/GettyImages-1362455837.jpg",
-            "publishedAt": "2022-01-03T08:40:41Z",
-            "content": "In the locker room when one of the most dramatic games of this or any NFL season had ended, Tampa Bay coach Bruce Arians told his playersall except the most famous former one, Antonio Brownhow proud … [+70898 chars]"
+            "author": "Myles Simmons",
+            "title": "Matt LaFleur: Right now, the mindset is we’re going to play our guys against Detroit - NBC Sports",
+            "description": "After clinching the NFC’s No. 1 overall seed with their victory over the Vikings on Sunday, the Packers don’t really have anything to play for in Week 18.But there’s still a game scheduled against the Lions. And at least for now, head coach Matt LaFleur is pl…",
+            "url": "https://profootballtalk.nbcsports.com/2022/01/03/matt-lafleur-right-now-the-mindset-is-were-going-to-play-our-guys-against-detroit/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/01/GettyImages-1359921806-e1641243752513.jpg",
+            "publishedAt": "2022-01-03T21:18:00Z",
+            "content": "After clinching the NFCs No. 1 overall seed with their victory over the Vikings on Sunday, the Packers dont really have anything to play for in Week 18.\r\nBut theres still a game scheduled against the… [+1959 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Amir Vera and Homero De la Fuente, CNN",
-            "title": "Antonio Brown is no longer a part of the Tampa Bay Buccaneers after he takes off jersey and leaves sideline mid-game, coach says - CNN",
-            "description": "Brown appeared to be upset on the sideline and inexplicably started to remove his jersey and pads while teammates pleaded to stay.",
-            "url": "https://www.cnn.com/2022/01/02/us/antonio-brown-tampa-bay-buccaneers-jersey/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220102151925-antonio-brown-tampa-bay-buccaneers-game-super-tease.jpg",
-            "publishedAt": "2022-01-03T07:37:00Z",
+            "author": "Ally Barnard, Alex Stambaugh and David McKenzie, CNN",
+            "title": "Suspect arrested and charged as fire reignites at South Africa's Parliament - CNN",
+            "description": "A 49-year-old suspect has been arrested and charged in connection to a large fire that has \"gutted\" South Africa's Parliament in Cape Town on Sunday, police said in a statement.",
+            "url": "https://www.cnn.com/2022/01/03/africa/south-africa-parliament-fire-suspect-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220103131443-06-south-africa-parliament-fire-0103-super-tease.jpg",
+            "publishedAt": "2022-01-03T20:59:00Z",
             "content": null
         },
         {
             "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Paul Kane, Marianna Sotomayor, Jacqueline Alemany",
+            "title": "Fear, anger and trauma: How the Jan. 6 attack changed Congress - The Washington Post",
+            "description": "Interviews with more than 20 members, including Republicans and Democrats in the House and Senate, reveal a Congress that remains on edge and where worries about more violence are front of mind for many — and for good reason.",
+            "url": "https://www.washingtonpost.com/politics/2022/01/03/january-6-congress/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UN6GGFQ77EI6ZKGZBAT2FJFZCU.jpg&w=1440",
+            "publishedAt": "2022-01-03T20:56:00Z",
+            "content": "But the detectors arent there to deter armed insurrectionists. Instead, those detectors are there to prevent lawmakers or their staff from trying to commit violence against each other.\r\nStory continu… [+16384 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dareh Gregorian, Jo Ling Kent",
+            "title": "Rep. Marjorie Taylor Greene suspended from Facebook for 'misinformation' - NBC News",
+            "description": "Facebook suspended Rep. Marjorie Taylor Greene's account for 24 hours a day after Twitter \"permanently suspended\" her personal account for misinformation.",
+            "url": "https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-suspended-facebook-misinformation-n1286883",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2022_01/3522163/211130-marjorie-taylor-greene-mn-1035.jpg",
+            "publishedAt": "2022-01-03T20:44:00Z",
+            "content": "Facebook temporarily suspended Rep. Marjorie Taylor Greene's account on Monday, a day after Twitter \"permanently suspended\" the Georgia congresswoman's personal account for posting misinformation.\r\nF… [+2453 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "New York Post"
             },
-            "author": "LAURAN NEERGAARD and CARLA K. JOHNSON",
-            "title": "How will pandemic end? Omicron clouds forecasts for endgame - Yahoo News",
-            "description": "Pandemics do eventually end, even if omicron is complicating the question of when this one will.  The ultra-contagious omicron mutant is pushing cases to all...",
-            "url": "https://news.yahoo.com/pandemic-end-omicron-clouds-forecasts-060002747.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/O_vWV1pS6ZLbqweMVN79gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/VQ.SkRD15EowvByIQ7NG3w--~B/aD0zNTYxO3c9NTM0MjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/da8d0da4a776c01a5e6a049738d75d9d",
-            "publishedAt": "2022-01-03T06:04:01Z",
-            "content": "Pandemics do eventually end, even if omicron is complicating the question of when this one will. But it won't be like flipping a light switch: The world will have to learn to coexist with a virus tha… [+5936 chars]"
+            "author": "Marjorie Hernandez",
+            "title": "Los Angeles County reports nearly 45,000 new COVID cases over weekend - New York Post ",
+            "description": "Los Angeles County Public Health officials said high rates of community transmission of COVID reached almost to 45,000 new cases cases over the holiday weekend.",
+            "url": "https://nypost.com/2022/01/03/los-anglos-angeles-county-reports-nearly-45000-new-covid-19-cases-during-weekendeles-covid-surge-over-holiday-weekend/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/los-angeles-covid-220103-comp.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-01-03T20:17:00Z",
+            "content": "Los Angeles County reported nearly 45,000 new COVID-19 cases over the New Year’s weekend with two deaths, health officials said. \r\nLA County reported 23,553 new positive COVID cases Saturday and 21,2… [+2109 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "New York Post"
             },
-            "author": "Gawon Bae, CNN",
-            "title": "Man who crossed from South Korea into North Korea presumed to be North Korean defector, Seoul officials say - CNN",
-            "description": "An unidentified man who crossed the heavily armed border from South Korea into North Korea on Sunday is presumed to be a North Korean defector who made the journey in the opposite direction more than a year ago, according to the South Korean Defense Ministry.",
-            "url": "https://www.cnn.com/2022/01/02/asia/north-korea-south-korea-border-crossing-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220102073420-north-korea-south-korea-border-file-restricted-super-tease.jpg",
-            "publishedAt": "2022-01-03T05:34:00Z",
-            "content": "Seoul, South Korea (CNN)An unidentified man who crossed the heavily armed border from South Korea into North Korea on Sunday is presumed to be a North Korean defector who made the journey in the oppo… [+1439 chars]"
+            "author": "Samantha Ibrahim",
+            "title": "Whoopi Goldberg misses 'The View' return due to testing positive for COVID - New York Post ",
+            "description": "The 66-year-old tested positive for COVID-19, and sat out Monday’s remote, post-holiday return to the show. “Her symptoms have been very, very mild,” said “The View” co-host Joy B…",
+            "url": "https://nypost.com/2022/01/03/whoopi-goldberg-tests-positive-for-covid-misses-the-view/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/whoopi-190.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-01-03T20:09:00Z",
+            "content": "Whoopi Goldberg is calling out sick from work.\r\n“The View” co-host tested positive for COVID-19 and had to miss the talk show’s return from their holiday hiatus on Monday.\r\nGoldberg, 66, sat out the … [+2182 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Cameron Faulkner",
-            "title": "Alienware’s Concept Nyx aims to cast your PC games to any screen you own - The Verge",
-            "description": "Alienware debuted Concept Nyx at CES 2022, an idea that imagines letting you run and stream up to four PC games wirelessly throughout your house, regardless of where you bought the games and what screens you have.",
-            "url": "https://www.theverge.com/2022/1/3/22855585/alienware-concept-nyx-pc-games-steam-epic-games-cast-screen-tv-monitor-phone",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/6T61aqEMGPwdQ8mv3oreXOJqtR8=/0x107:1494x889/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23128200/nyxmain.jpg",
-            "publishedAt": "2022-01-03T05:01:00Z",
-            "content": "Letting everyone get in on the game\r\nContrary to this image, Concept Nyx squeezes both screens down in size to make the full playing space for each game viewable.\r\nDell\r\nFor CES 2022, Alienware is sh… [+2494 chars]"
+            "author": "Lisa Mascaro",
+            "title": "Schumer: Senate to vote on filibuster change on voting bill - Associated Press",
+            "description": "WASHINGTON (AP) — Days before the anniversary of the Jan. 6 attack on the Capitol , Majority Leader Chuck Schumer announced the Senate will vote on filibuster rules changes to advance stalled voting legislation  that Democrats say is needed to protect democra…",
+            "url": "https://apnews.com/article/elections-voting-voting-rights-filibusters-870377874673cd1d251300814ff107ce",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/51e580a91af14aa99d972483c64ee42c/3000.jpeg",
+            "publishedAt": "2022-01-03T20:06:09Z",
+            "content": "WASHINGTON (AP) Days before the anniversary of the Jan. 6 attack on the Capitol, Majority Leader Chuck Schumer announced the Senate will vote on filibuster rules changes to advance stalled voting leg… [+2070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Jaclyn Diaz",
+            "title": "Classic BlackBerry devices will stop working on January 4 - NPR",
+            "description": "The company behind the once ubiquitous phones has transitioned to a security software focus, and says that starting on Tuesday, its classic devices will no longer reliably function.",
+            "url": "https://www.npr.org/2022/01/03/1069938727/blackberry-phones-will-stop-working-january-4",
+            "urlToImage": "https://media.npr.org/assets/img/2022/01/03/ap21918052030_wide-0eb6e537e2f256af82512d5be8f5f33cb9eb381c.jpg?s=1400",
+            "publishedAt": "2022-01-03T20:03:43Z",
+            "content": "Thorsten Heins, then-CEO of Research in Motion, introduces the BlackBerry Z10, Wednesday, Jan. 30, 2013 in New York.\r\nMark Lennihan/AP\r\nThat old BlackBerry buried in the bottom drawer along with loos… [+1526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Marcia Dunn",
+            "title": "NASA's new space telescope 'hunky-dory' after problems fixed - Phys.org",
+            "description": "NASA's huge, new space telescope is doing well more than a week after liftoff, following a pair of problems overcome by ground controllers, officials said Monday.",
+            "url": "https://phys.org/news/2022-01-nasa-space-telescope-hunky-dory-problems.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/nasas-new-space-telesc.jpg",
+            "publishedAt": "2022-01-03T19:53:28Z",
+            "content": "NASA's huge, new space telescope is doing well more than a week after liftoff, following a pair of problems overcome by ground controllers, officials said Monday.\r\nThe tennis court-size sunshield on … [+3012 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Christi Carras",
+            "title": "'Harry Potter' special fixed after Emma Watson photo mistake - Los Angeles Times",
+            "description": "HBO has reedited and uploaded its 'Harry Potter' reunion special after accidentally misidentifying two of its actors, including star Emma Watson.",
+            "url": "https://www.latimes.com/entertainment-arts/tv/story/2022-01-03/harry-potter-reunion-emma-watson-emma-roberts-hbo",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/252e2ac/2147483647/strip/true/crop/5058x2655+0+272/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F44%2F57%2Fed8ec43c41f2a357c97f7d4f9dca%2Fharry-potter-20th-anniversary-return-to-hogwarts-hp20-111721-nw-0324-r-rgb.jpg",
+            "publishedAt": "2022-01-03T19:49:11Z",
+            "content": "Reparo!\r\nHBO Max has fixed and reuploaded its Harry Potter 20th Anniversary: Return to Hogwarts special after eagle-eyed fans and cast members alerted the streaming giant of a couple of editing mista… [+2018 chars]"
         },
         {
             "source": {
@@ -164,103 +216,51 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Twitter permanently bans U.S. Representative Marjorie Taylor Greene - Reuters",
-            "description": "Twitter Inc <a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> on Sunday said it permanently banned the personal account of Republican U.S. Representative Marjorie Taylor Greene for tweets that repeatedly violated the social media…",
-            "url": "https://www.reuters.com/world/us/twitter-permanently-bans-us-representative-marjorie-taylor-greene-2022-01-02/",
-            "urlToImage": "https://www.reuters.com/resizer/AyeiiZBOcE7HCdtNHDuQ40g5Rbc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VGVYGDU7LFPUHCUJJR2ZAZYB5E.jpg",
-            "publishedAt": "2022-01-03T04:34:00Z",
-            "content": "WASHINGTON, Jan 2 (Reuters) - Twitter Inc (TWTR.N) on Sunday said it permanently banned the personal account of Republican U.S. Representative Marjorie Taylor Greene for tweets that repeatedly violat… [+1893 chars]"
+            "title": "Haitian prime minister survives weekend assassination attempt -PM's office - Reuters",
+            "description": "Gunmen unsuccessfully attempted to assassinate Haitian Prime Minister Ariel Henry during an event on Saturday commemorating the Caribbean country's independence, his office said in a statement.",
+            "url": "https://www.reuters.com/world/americas/haitian-pm-survived-assassination-attempt-weekend-pms-office-2022-01-03/",
+            "urlToImage": "https://www.reuters.com/resizer/uDUnaHAeJkf-RryTynHVy-RaT18=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HVUIQTIN5ZNMLIK3YEHETN2GAA.jpg",
+            "publishedAt": "2022-01-03T19:27:00Z",
+            "content": "PORT-AU-PRINCE, Jan 3 (Reuters) - Gunmen unsuccessfully attempted to assassinate Haitian Prime Minister Ariel Henry during an event on Saturday commemorating the Caribbean country's independence, his… [+1346 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Mail"
+                "name": "Chicago Tribune"
             },
-            "author": "Mark Mcgreal, George Stark, Natasha Anderson",
-            "title": "Don Cheadle shares heartfelt remembrance of co-star Betty White: 'She was the goldenest of them all' - Daily Mail",
-            "description": "Betty White touched actors throughout every generation, and Don Cheadle was no exception. The actor, 57, shared a few stories via Twitter about his Golden Palace co-star.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-10363673/Don-Cheadle-shares-heartfelt-remembrance-star-Betty-White-goldenest-all.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/01/03/03/52481465-0-image-a-52_1641179356747.jpg",
-            "publishedAt": "2022-01-03T03:49:00Z",
-            "content": "Betty White touched actors throughout every generation, and Don Cheadle was no exception. \r\nThe actor, 57, shared a few stories via Twitter about his Golden Palace co-star and her little acts of kind… [+3336 chars]"
+            "author": "Tracy Swartz",
+            "title": "CPS reopens amid another COVID-19 surge, but Chicago Teachers Union eyes vote on whether to refuse to work in-person if district doesn't meet safety demands - Chicago Tribune",
+            "description": "The CPS CEO says he stands “firmly behind&quot; the decision to reopen schools Monday.",
+            "url": "https://www.chicagotribune.com/news/breaking/ct-chicago-public-schools-covid-return-winter-break-20220103-lirocjsysng6fdbfqanwhps6z4-story.html",
+            "urlToImage": "https://www.chicagotribune.com/resizer/HKc7Sel9TC9A3Vda8aTI5CUTfFU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4MQ3A77ZNRHKJE2TUP5IG3ZSQA.jpg",
+            "publishedAt": "2022-01-03T19:16:00Z",
+            "content": "Chicago teachers are expected to vote Tuesday on whether to defy Chicago Public Schools orders to return to classrooms amid a spike in city COVID-19 cases.\r\nThe Chicago Teachers Unions governing body… [+7079 chars]"
         },
         {
             "source": {
-                "id": "independent",
-                "name": "Independent"
+                "id": null,
+                "name": "NPR"
             },
-            "author": "Sravasti Dasgupta",
-            "title": "What is ‘flurona’? Israel reports first case of rare double infection of Covid and influenza - The Independent",
-            "description": "Flurona case reported in Israel",
-            "url": "https://www.independent.co.uk/news/world/middle-east/flurona-israel-case-covid-influenza-b1985729.html",
-            "urlToImage": "https://static.independent.co.uk/2021/08/11/21/Virus_Outbreak_Israel_29248.jpg?width=1200&auto=webp&quality=75",
-            "publishedAt": "2022-01-03T03:48:45Z",
-            "content": "Israel has recorded the first case of a rare mixture of two diseases, influenza and coronavirus, dubbed flurona.\r\nLocal reports said that the patient was a young pregnant woman, who was in hospital, … [+1790 chars]"
+            "author": null,
+            "title": "Va-a-ax: Sheep and goats form a giant needle to encourage people to get the jab : Coronavirus Updates - NPR",
+            "description": "A shepherd in Germany arranged her animals into a 330-foot syringe to encourage people to get vaccinated.",
+            "url": "https://www.npr.org/sections/coronavirus-live-updates/2022/01/03/1069942305/sheep-goats-encourage-vaccination-germany",
+            "urlToImage": "https://media.npr.org/assets/img/2022/01/03/ap22003478488914_wide-227f1c91ae9b5f1b8899edc6d74fb9f6747f27a5.jpg?s=1400",
+            "publishedAt": "2022-01-03T18:40:58Z",
+            "content": "Sheep and goats stand together on Monday in Schneverdingen, Germany, as they form an approximately 330-foot syringe to promote vaccinations against COVID-19.\r\nPhilipp Schulze/dpa via AP\r\nBERLIN Tasty… [+2258 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "ESPN"
             },
-            "author": null,
-            "title": "Oklahoma City Thunder rookie Josh Giddey surpasses LaMelo Ball as youngest NBA player to record triple-double - ESPN",
-            "description": "Thunder rookie Josh Giddey on Sunday night became the youngest player in NBA history to record a triple-double at 19 years and 84 days old. He surpassed Charlotte's LaMelo Ball, who previously held the distinction at 19 years, 140 days old.",
-            "url": "https://www.espn.com/nba/story/_/id/32982690/oklahoma-city-thunder-rookie-josh-giddey-surpasses-lamelo-ball-youngest-nba-player-record-triple-double",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0103%2Fr957366_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-01-03T03:12:03Z",
-            "content": "OKLAHOMA CITY -- Oklahoma City Thunder rookie guard Josh Giddey, back after missing three games while in the NBA's health and safety protocols, became the youngest player in league history to record … [+1460 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AL.com"
-            },
-            "author": "Ruth Serven Smith | rserven@al.com",
-            "title": "Alabama school delays January 2022: Snow affecting some staff - AL.com",
-            "description": "This list will be updated as more information is available.",
-            "url": "https://www.al.com/news/2022/01/alabama-school-delays-january-2022-snow-affecting-some-classes.html",
-            "urlToImage": "https://www.al.com/resizer/6FbRR_miq8QVt6wwsbDAmfia0KY=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PKECHNWNJ5DDXKHHLYPUNYJB6I.jpg",
-            "publishedAt": "2022-01-03T03:04:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": null,
-            "title": "Cincinnati Bengals claim first AFC North title in six years behind Joe Burrow-led youth movement - NFL.com",
-            "description": "The Cincinnati Bengals claimed the AFC North title for the first time since 2015 after a late rally lifted them over the Chiefs. Jim Trotter discusses why these aren't the same old Bengals -- thanks to a youth movement led by Joe Burrow and Ja'Marr Chase.",
-            "url": "https://www.nfl.com/news/cincinnati-bengals-claim-first-afc-north-title-in-six-years-behind-joe-burrow-le",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/bk4eanhdjc5ylus48pet",
-            "publishedAt": "2022-01-03T02:53:00Z",
-            "content": "\"He made a bunch of great plays today, but the first touchdown was the best,\" Burrow said. \"It was 'cloud' coverage and he had the out route. He felt the cloud corner out there who was going to be ab… [+3290 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Dennis Romero, Courtney Kube",
-            "title": "Defense secretary tests positive for Covid, says his symptoms are mild - NBC News",
-            "description": "Defense Secretary Lloyd Austin said Sunday that he had tested positive for Covid.",
-            "url": "https://www.nbcnews.com/news/us-news/defense-secretary-tests-positive-covid-says-symptoms-are-mild-rcna10658",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211215-lloyd-austin-jm-1029-799df7.jpg",
-            "publishedAt": "2022-01-03T02:51:00Z",
-            "content": "Defense Secretary Lloyd Austin said Sunday that he had tested positive for Covid.\r\nIn a statement, he said was fully vaccinated, with a booster shot having been administered in October, and was feeli… [+1495 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Daniella Diaz and Devan Cole, CNN",
-            "title": "Cheney: January 6 committee has 'firsthand testimony' that Ivanka asked Trump to intervene during insurrection - CNN",
-            "description": "Members of the House select committee investigating January 6 said Sunday that they have critical testimony about communications to former President Donald Trump on the day of the deadly attack.",
-            "url": "https://www.cnn.com/2022/01/02/politics/bennie-thompson-trump-capitol-insurrection/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220102141058-donald-trump-ivanka-trump-2020-file-super-tease.jpg",
-            "publishedAt": "2022-01-03T02:38:00Z",
-            "content": null
+            "author": "Jenna Laine",
+            "title": "Tampa Bay Buccaneers coach Bruce Arians has 'no regrets' about adding Antonio Brown, says he cares about WR - ESPN",
+            "description": "The Buccaneers' Bruce Arians said Monday he has \"no regrets\" adding Antonio Brown and cares for the wide receiver, a day after the coach said Brown is no longer on the team following his in-game exit.",
+            "url": "https://www.espn.com/nfl/story/_/id/32986335/tampa-bay-buccaneers-coach-bruce-arians-no-regrets-adding-antonio-brown-says-cares-wr",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0103%2Fr957541_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-01-03T18:35:23Z",
+            "content": "EAST RUTHERFORD, N.J. -- One day after now-former Tampa Bay Buccaneers wide receiver Antonio Brown jogged off the field in the middle of the Bucs' 28-24 win at the New York Jets, resulting in his dis… [+4454 chars]"
         }
     ]
 }
