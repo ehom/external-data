@@ -4,237 +4,81 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Holly Ellyatt",
-            "title": "U.S. reports over 1 million new daily Covid cases as omicron surges - CNBC",
-            "description": "The U.S. reported a record number of new Covid cases on Monday, according to data from Johns Hopkins University.",
-            "url": "https://www.cnbc.com/2022/01/04/us-counts-over-1-million-new-daily-covid-cases-in-global-record-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106991020-1639763568613-gettyimages-1237290875-AFP_9UU9DZ.jpeg?v=1639763627",
-            "publishedAt": "2022-01-04T10:08:29Z",
-            "content": "The U.S. reported a record number of new Covid cases on Monday, with over one million new infections.\r\nA total of 1,082,549 new coronavirus cases were reported on Monday, according to data from Johns… [+626 chars]"
+            "author": "Mike Colias, Christina Rogers",
+            "title": "Toyota Overtakes GM as Bestselling Auto Maker in U.S. - The Wall Street Journal",
+            "description": "Tesla and Hyundai gained U.S. market share last year, as computer-chip shortage affected vehicle manufacturers differently",
+            "url": "https://www.wsj.com/articles/detroit-seen-losing-ground-in-auto-sales-race-11641297653",
+            "urlToImage": "https://images.wsj.net/im-460640/social",
+            "publishedAt": "2022-01-04T21:55:00Z",
+            "content": "The Japanese auto maker, which for decades has worked to expand its presence in the U.S., outsold GM by roughly 114,000 vehicles in 2021. Toyotas total U.S. sales of 2.3 million rose about 10% compar… [+7116 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Travis Caldwell, CNN",
-            "title": "More children are hospitalized with Covid-19 than ever before as doctors face rising cases - CNN",
-            "description": "With tens of millions of unvaccinated Americans at higher risk for severe disease from Covid-19 infections, doctors and health care facilities nationwide are reporting a rising number of young people hospitalized, some of whom are too young to receive vaccine…",
-            "url": "https://www.cnn.com/2022/01/04/health/us-coronavirus-tuesday/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220104011420-child-vaccine-file-11172021-restricted-super-tease.jpg",
-            "publishedAt": "2022-01-04T10:01:00Z",
-            "content": "(CNN)With tens of millions of unvaccinated Americans at higher risk for severe disease from Covid-19 infections, doctors and health care facilities nationwide are reporting a rising number of young p… [+6508 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Kelly McCleary and Joe Sutton, CNN",
-            "title": "Motorists stranded for hours along I-95 after winter storm causes havoc and leaves more than 400,000 without power - CNN",
-            "description": "Drivers were stranded for hours on a major interstate Monday night after a severe winter storm caused a massive backup -- and authorities scrambled to clear a path.",
-            "url": "https://www.cnn.com/2022/01/04/weather/winter-weather-tuesday/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220104003620-01-virginia-highway-snow-storm-01032022-super-tease.jpg",
-            "publishedAt": "2022-01-04T08:47:00Z",
-            "content": "(CNN)Drivers were stranded for hours on a major interstate Monday night after a severe winter storm caused a massive backup -- and authorities scrambled to clear a path.\r\n\"We wish we had a timetable,… [+5586 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "James Webb Space Telescope: Everything is 'hunky dory' - BBC News",
-            "description": "The US space agency says the post-launch set-up activities on the new observatory are going well.",
-            "url": "https://www.bbc.com/news/science-environment-59863092",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/01B5/production/_122573400_50218488391_aaaed10f29_k.jpg",
-            "publishedAt": "2022-01-04T07:37:27Z",
-            "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nImage caption, Artwork: The fully deployed Webb telescope will have a kite-like shield the size of a tennis court\r\nSo far, so good. The US space … [+4679 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Apple becomes first company to hit $3 trillion market value, then slips - Reuters",
-            "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> on Monday became the first company to hit a $3 trillion stock market value, before ending the day a hair below that milestone, as investors bet the iPhone maker will kee…",
-            "url": "https://www.reuters.com/markets/europe/apple-gets-closer-3-trillion-market-value-2022-01-03/",
-            "urlToImage": "https://www.reuters.com/resizer/YHKZb-DUHCYiWmtAClkF-SQzPSo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MRCNAHLGNJLUBBQBFASMKXER3A.jpg",
-            "publishedAt": "2022-01-04T06:32:00Z",
-            "content": "Jan 3 (Reuters) - Apple Inc (AAPL.O) on Monday became the first company to hit a $3 trillion stock market value, before ending the day a hair below that milestone, as investors bet the iPhone maker w… [+3844 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "The Associated Press",
-            "title": "AT&T, Verizon delay new 5G service after Buttigieg request - NBC News",
-            "description": "AT&T and Verizon said Monday that they will delay activating new 5G wireless service for two weeks following a request by Transportation Secretary Pete Buttigie",
-            "url": "https://www.nbcnews.com/tech/tech-news/t-verizon-delay-new-5g-service-buttigieg-request-rcna10821",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-01/220103-airplane-newark-ew-1143a-2e3f1e.jpg",
-            "publishedAt": "2022-01-04T06:05:00Z",
-            "content": "AT&amp;T and Verizon said Monday that they will delay activating new 5G wireless service for two weeks following a request by Transportation Secretary Pete Buttigieg, who cited the airline industrys … [+1162 chars]"
+            "author": "Kelly Livingston, Adisa Hargett-Robinson",
+            "title": "Virginia Sen. Tim Kaine arrives at Capitol after 27 hours trapped among hundreds in snowstorm traffic jam - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/Politics/virginia-sen-tim-kaine-arrives-capitol-27-hours/story?id=82067117",
+            "urlToImage": "https://s.abcnews.com/images/Politics/va-interstate-ap-ps-220104_1641306685552_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-01-04T21:45:00Z",
+            "content": "Virginia Sen. Tim Kaine tweeted Tuesday that he was among the hundreds of people trapped overnight in a miles-long traffic jam on Interstate 95 in Virginia following a multi-vehicle accident Monday a… [+2416 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Livia Albeck-Ripka",
-            "title": "Federal judge blocks the Defense Dept. from punishing Navy forces who refuse the vaccine. - The New York Times",
-            "description": "“There is no Covid-19 exception to the First Amendment. There is no military exclusion from our Constitution,” the judge said in his ruling.",
-            "url": "https://www.nytimes.com/2022/01/04/us/lawsuit-us-troops-vaccine-exemption.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/02/03/world/03virus-briefing-navy-seals/03virus-briefing-navy-seals-facebookJumbo.jpg",
-            "publishedAt": "2022-01-04T06:02:31Z",
-            "content": "The group represents a small fraction of active-duty troops from the United States, and as of mid-December, most active-duty soldiers and members of the Navy had received at least one dose of the vac… [+760 chars]"
+            "author": "Ben Casselman",
+            "title": "Job Openings Report Shows Record Number of Workers Quit in November - The New York Times",
+            "description": "Government data for November shows the continuing disruption of the coronavirus in the labor market.",
+            "url": "https://www.nytimes.com/2022/01/04/business/economy/job-openings-coronavirus.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/04/business/04econ-jolts-grid02/04econ-jolts-grid02-facebookJumbo.jpg",
+            "publishedAt": "2022-01-04T21:42:30Z",
+            "content": "There are signs that the worst of the turbulence was beginning to ease late last year. The number of job openings posted by employers fell in November, the Labor Department said Tuesday, though it re… [+2189 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "Barron's"
             },
-            "author": "Lora Kolodny",
-            "title": "Tesla opened a dealership in Xinjiang, China, despite widespread reports of Uyghur oppression there - CNBC",
-            "description": "Xinjiang is, home to a Muslim population known as the Uyghurs whom the United Nations and rights organizations have identified as a repressed ethnic group.",
-            "url": "https://www.cnbc.com/2022/01/03/tesla-opens-dealership-in-xinjiang-china.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106844791-1614168670677-gettyimages-1231054671-omarques_tech_08022021_14.jpeg?v=1640781526",
-            "publishedAt": "2022-01-04T05:55:32Z",
-            "content": "Tesla has opened a new sales and service center in the Xinjiang region of China, home to a Muslim population known as the Uyghurs whom the United Nations and rights organizations have identified as a… [+3962 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSBW The Central Coast"
-            },
-            "author": "Josh Copitch",
-            "title": "Monterey County twins born in different years just 15 minutes apart - KSBW Monterey",
-            "description": "Their birth is very special because they were born on different days, months and years.",
-            "url": "https://www.ksbw.com/article/monterey-california-twins-born-in-different-years-just-15-minutes-apart/38658118",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/natividad-aylin-damian-madrigal-midnight2022-1x1-1641241400.jpg?crop=1.00xw:0.565xh;0,0.0378xh&resize=1200:*",
-            "publishedAt": "2022-01-04T05:29:00Z",
-            "content": "SALINAS, Calif. — Monterey County's first birth of the new year happened at midnight on Jan. 1.\r\n Aylin Trujillo, a healthy baby girl from Greenfield, weighing 5 pounds and 14 ounces, was the first b… [+438 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Mike Florio",
-            "title": "Tom Brady on Antonio Brown: “It was just a very difficult situation for everyone involved” - NBC Sports",
-            "description": "Buccaneers quarterback Tom Brady, in his post-game comments from Sunday, called for empathy and compassion for receiver Antonio Brown. In the latest episode of his Let’s Go! podcast on SiriusXM, Brady reiterated his hope that Brown is able to get through the …",
-            "url": "https://profootballtalk.nbcsports.com/2022/01/04/tom-brady-on-antonio-brown-it-was-just-a-very-difficult-situation-for-everyone-involved/",
-            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/01/GettyImages-1235373867-e1641273189583.jpg",
-            "publishedAt": "2022-01-04T05:16:00Z",
-            "content": "Buccaneers quarterback Tom Brady, in his post-game comments from Sunday, called for empathy and compassion for receiver Antonio Brown. In the latest episode of his Lets Go! podcast on SiriusXM, Brady… [+4812 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Justin Klawans",
-            "title": "Tristan Thompson Apologizes to Khloé Kardashian After Paternity Test Shows He Fathered Son - Newsweek",
-            "description": "Thompson stated that he had the \"utmost respect and love\" for Kardashian.",
-            "url": "https://www.newsweek.com/tristan-thompson-apologizes-khloe-kardashian-after-paternity-test-shows-he-fathered-son-1665226",
-            "urlToImage": "https://d.newsweek.com/en/full/1962019/tristan-thompson-khloe-kardashian.jpg",
-            "publishedAt": "2022-01-04T05:05:15Z",
-            "content": "Sacramento Kings forward Tristan Thompson has apologized to his on-again, off-again girlfriend Khloé Kardashian for fathering a son with another woman during their relationship.\r\nThompson, 30, posted… [+2916 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Haje Jan Kamps",
-            "title": "LG’s best-selling OLED TVs get an upgrade for the new year - TechCrunch",
-            "description": "LG has had a pretty incredible winning streak with its OLED televisions the past couple of years. LG’s C1 has been the flat screen to beat, so there’s little surprise that the company’s 2022 lineup caught our (virtual) attention at CES this year. It seems lik…",
-            "url": "http://techcrunch.com/2022/01/03/lg-oled-tv-at-ces/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/2022-OLED-evo-Gallery-Edition97G2_Lifestyle-00.jpg?w=711",
-            "publishedAt": "2022-01-04T05:02:15Z",
-            "content": "LG has had a pretty incredible winning streak with its OLED televisions the past couple of years. LG’s C1 has been the flat screen to beat, so there’s little surprise that the company’s 2022 lineup c… [+3605 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Alan Sepinwall",
-            "title": "‘Peacemaker’ Declares War on Self-Serious Superheroes - Rolling Stone",
-            "description": "Writer-director James Gunn’s take on the bucket-headed hero is a gloriously goofy sendup and a sincere character study rolled into one",
-            "url": "https://www.rollingstone.com/tv/tv-reviews/peacemaker-review-hbo-max-1276435/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/01/john-cena_5c.jpg",
-            "publishedAt": "2022-01-04T05:01:59Z",
-            "content": "Any doubt that HBO Max’s Peacemaker series would have the same energy, style, and sense of humor that writer-director James Gunn brought to last year’s feature film The Suicide Squad is dispelled wit… [+5545 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Associated Press",
-            "title": "Ben Roethlisberger, Steelers top Browns to stay in playoff mix - Fox News",
-            "description": "Ben Roethlisberger passed for 123 yards with a touchdown and an interception in likely his last start at Heinz Field, and the Pittsburgh Steelers handled the listless Cleveland Browns 26-14 on Monday night to keep their postseason hopes alive.",
-            "url": "https://www.foxnews.com/sports/ben-roethlisberger-steelers-browns-playoff-mix",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/Ben-Roethlisberger9.jpg",
-            "publishedAt": "2022-01-04T04:59:29Z",
-            "content": "Ben Roethlisberger passed for 123 yards with a touchdown and an interception in likely his last start at Heinz Field, and the Pittsburgh Steelers handled the listless Cleveland Browns 26-14 on Monday… [+4617 chars]"
-        },
-        {
-            "source": {
-                "id": "bleacher-report",
-                "name": "Bleacher Report"
-            },
-            "author": "Doric Sam",
-            "title": "NFL Playoff Scenarios 2022 Week 18: Updated Standings, Projected Postseason Matchups - Bleacher Report",
-            "description": "With just one week left in the NFL regular season, there's no shortage of excitement surrounding the playoff races in both conferences. The Green Bay Packers...",
-            "url": "https://bleacherreport.com/articles/10022809-nfl-playoff-scenarios-2022-week-18-updated-standings-projected-postseason-matchups",
-            "urlToImage": "https://media.bleacherreport.com/image/upload/v1641257552/cwlwodazmrmsmnillmz6.jpg",
-            "publishedAt": "2022-01-04T04:52:00Z",
-            "content": "Wesley Hitt/Getty Images\r\nWith just one week left in the NFL regular season, there's no shortage of excitement surrounding the playoff races in both conferences.\r\nThe Green Bay Packers wrapped up the… [+6166 chars]"
+            "author": "Jack Denton, Jacob Sonenshine",
+            "title": "Stock Market Today: Dow Extended Records as Tech Stocks Stumbled - Barron's",
+            "description": "The number of vacant jobs fell to 10.6 million in November, down from around 11 million in October, the Job Openings and Labor Turnover Survey showed.",
+            "url": "https://www.barrons.com/articles/stock-market-today-51641291782",
+            "urlToImage": "https://images.barrons.com/im-406444/social",
+            "publishedAt": "2022-01-04T21:32:00Z",
+            "content": "The major stock indexes ended mixed Tuesday, though the market had a better day than it appeared on the surface. Economic data showed that supply chain constraints are easing, enabling the Dows momen… [+4680 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Emily Cochrane",
-            "title": "Representative Bobby Rush, Longtime Illinois Democrat, Will Retire - The New York Times",
-            "description": "The decision by the pastor and civil rights activist added to a wave of Democrats deciding not to run for re-election in a difficult midterm cycle.",
-            "url": "https://www.nytimes.com/2022/01/03/us/politics/bobby-rush-retire.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/01/03/multimedia/03dc-rush-top/03dc-rush-top-facebookJumbo-v2.jpg",
-            "publishedAt": "2022-01-04T03:41:33Z",
-            "content": "In an interview with the Chicago Sun-Times, where he disclosed his plans, Mr. Rush said his decision came after a conversation with his 19-year-old grandson, Jonathan, saying that he did not want his… [+1409 chars]"
+            "author": "Mark Landler",
+            "title": "What Prince Andrew's Abuse Case Could Mean for the Royal Family - The New York Times",
+            "description": "As Queen Elizabeth II prepares to mark 70 years on the throne this year, a sexual abuse case in a Manhattan court involving her son could mean more turmoil for the royal family.",
+            "url": "https://www.nytimes.com/2022/01/04/world/europe/prince-andrew-sexual-abuse-royal-family.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/04/world/04uk-andrew/04uk-andrew-facebookJumbo.jpg",
+            "publishedAt": "2022-01-04T21:22:13Z",
+            "content": "Under the terms of that 2009 agreement, unsealed on Monday, Mr. Epstein paid Ms. Giuffre $500,000 to resolve a lawsuit in which she accused him of sexually abusing her when she was a teenager. Ms. Gi… [+1147 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "KABC-TV"
+                "id": "politico",
+                "name": "Politico"
             },
-            "author": "Josh Haskell",
-            "title": "Los Angeles County COVID hospitalizations pass 2,000 mark as surge driven by omicron variant continues - KABC-TV",
-            "description": "State figures reported on Monday show the number of COVID-positive patients in L.A. County medical centers is above 2,000.",
-            "url": "https://abc7.com/covid-hospitalizations-los-angeles-county-la-hospitals-january-3-numbers/11422396/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/11422201_010322-kabc-5pm-covid-monday-vid.jpg?w=1600",
-            "publishedAt": "2022-01-04T03:38:57Z",
-            "content": "LOS ANGELES (KABC) -- The surge of COVID-19 infections continued to drive up hospitalizations as state figures reported on Monday show the number of virus-positive patients in Los Angeles County medi… [+2736 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Dan Wetzel",
-            "title": "Caleb Williams' transfer portal entry is latest and loudest example of free agency taking flight in college football - Yahoo Sports",
-            "description": "College football is now boldly and openly embracing a most American of concepts – freedom of movement, capitalism, naked greed. None of those should be...",
-            "url": "https://sports.yahoo.com/caleb-williams-transfer-portal-entry-is-latest-and-loudest-example-of-free-agency-taking-flight-in-college-football-030744005.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/skqsqahwO7ETr6KLDifXvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-12/a06c3480-6d06-11ec-9fc6-88f9686cfa1e",
-            "publishedAt": "2022-01-04T03:07:00Z",
-            "content": "Caleb Williams, Oklahomas star freshman quarterback and a favorite to be the NFLs No. 1 overall draft pick in 2024, has entered the transfer portal, adding a massive pop of talent to college football… [+5372 chars]"
+            "author": "Marianne LeVine, Burgess Everett",
+            "title": "GOP shudders at Trump Jan. 6 speech - POLITICO",
+            "description": "Republican Sen. Pat Toomey said the event isn’t a “terribly good idea,” but added, “What am I going to do about it?”",
+            "url": "https://www.politico.com/news/2022/01/04/gop-trump-jan-6-speech-526487",
+            "urlToImage": "https://static.politico.com/33/12/ce1dac8446d8b6ac934471d7dbae/211110-trump-rally-january6-ap-773.jpg",
+            "publishedAt": "2022-01-04T20:51:22Z",
+            "content": "And those were the members who decided to even talk about it. While Trump plans to defend the rioters who attacked the U.S. Capitol nearly a year ago at a press conference Thursday, Senate Republican… [+3101 chars]"
         },
         {
             "source": {
@@ -242,25 +86,181 @@
                 "name": "CNET"
             },
             "author": "David Katzmaier",
-            "title": "Samsung QD-OLED TVs with quantum dots take on LG for picture quality crown - CNET",
-            "description": "Competition finally comes to the best TV display technology on the market.",
-            "url": "https://www.cnet.com/tech/home-entertainment/samsung-qd-oled-tvs-with-quantum-dots-take-on-lg-for-picture-quality-crown/",
-            "urlToImage": "https://www.cnet.com/a/img/bnbJ4ScHn4enD9pmA7sZ-7Sf7Q8=/1200x630/2021/02/08/014771e9-9d1a-4192-84b1-79566905541e/neo-qled-8k-01.jpg",
-            "publishedAt": "2022-01-04T02:44:00Z",
-            "content": "Samsung QLED TVs like the one pictured here perform well, but Samsung's upcoming OLED models should be even better.\r\nSamsung\r\nThis story is part of CES, where CNET covers the latest news on the most … [+3770 chars]"
+            "title": "Sony brings all the TV tech to CES 2022: From QD-OLED to 8K - CNET",
+            "description": "Its high-end models feature a remote finder and bundled webcam, and all of them finally ship with VRR for gaming.",
+            "url": "https://www.cnet.com/tech/home-entertainment/sony-brings-all-tv-tech-ces-2022-from-qd-oled-to-8k/",
+            "urlToImage": "https://www.cnet.com/a/img/iFzP7DHFdevfXU8Cn2XqadIpSCQ=/0x475:2598x2296/1200x630/2022/01/02/f71a7ec0-3d44-43b9-8759-4eda75be40c7/x95k-lifestyle.jpg",
+            "publishedAt": "2022-01-04T20:43:00Z",
+            "content": "Sony's X95K will be its first 4K TV to use a mini-LED backlight.\r\nSony\r\nThis story is part of CES, where CNET covers the latest news on the most incredible tech coming soon.\r\nAt CES 2022, Sony is bri… [+5164 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "New York Times"
             },
-            "author": "Breck Dumas",
-            "title": "Biden aims to reduce meat prices with more regulations, federal spending - Fox Business",
-            "description": "President Biden has rolled out a new plan aimed at fighting surging meat prices by issuing further regulations and federal spending",
-            "url": "https://www.foxbusiness.com/politics/biden-aims-to-reduce-meat-prices-with-more-regulations-federal-spending",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/Biden-.jpg?ve=1&tl=1",
-            "publishedAt": "2022-01-04T01:57:32Z",
-            "content": "President Joe Biden on Monday unveiled his administration's plans aimed at bringing down surging meat prices, with a major focus on stepping up regulations on meat packers and offering up more federa… [+3460 chars]"
+            "author": "Vivian Wang",
+            "title": "Faced With Questions About Forced Labor in China, the I.O.C. Is Tight-Lipped - The New York Times",
+            "description": "Olympic officials are reluctant to look into whether any Beijing 2022 merchandise might have been made under duress by Uyghurs, an activist group charges.",
+            "url": "https://www.nytimes.com/2022/01/04/world/asia/ioc-china.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/04/world/04china-olympics-01/04china-olympics-01-facebookJumbo.jpg",
+            "publishedAt": "2022-01-04T20:39:14Z",
+            "content": "Informal efforts to arrange a conversation between the I.O.C. and the Coalition to End Forced Labor in the Uyghur Region a group of more than 300 organizations established last year began in May, acc… [+1581 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Joe Murphy",
+            "title": "Map: 7 straight days of record-setting Covid case counts - NBC News",
+            "description": "The U.S. has set a record in its seven-day average of new Covid cases. Over the last week, 33 states, Washington, D.C., and two territories have set either a case record or a hospitalization record.",
+            "url": "https://www.nbcnews.com/news/us-news/map-united-states-covid-records-january-2022-n1286953",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2022_01/3528008/records-map-2x1.png",
+            "publishedAt": "2022-01-04T20:39:00Z",
+            "content": "Welcome to The Data Point, a series from the NBC News Data Graphics team that explains a slice of the latest news through charts and visuals.\r\nCovid-19 cases and hospitalizations across the country a… [+1463 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Michael Hill",
+            "title": "Prosecutor drops groping charge against former NY Gov. Cuomo | AP News - Associated Press",
+            "description": "ALBANY, N.Y. (AP) — Former New York Gov. Andrew Cuomo won't face criminal prosecution over an allegation that he fondled an aide after a prosecutor said Tuesday he couldn't prove the case. Three days before the Democratic ex-governor was due to answer the mis…",
+            "url": "https://apnews.com/article/new-york-andrew-cuomo-albany-david-soares-24c140df57e2cf65bea8e576bf427f74",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e732655df0034819afc5b3f96d789ff8/3000.jpeg",
+            "publishedAt": "2022-01-04T20:37:30Z",
+            "content": "ALBANY, N.Y. (AP) Former New York Gov. Andrew Cuomo wont face criminal prosecution over an allegation that he fondled an aide after a prosecutor said Tuesday he couldnt prove the case.\r\nThree days be… [+5496 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Laurence Norman",
+            "title": "Europe Struggles to Meet China’s Trade Challenge - The Wall Street Journal",
+            "description": "EU is adopting measures to stop foreign economic arm-twisting but has balked against recent pressure",
+            "url": "https://www.wsj.com/articles/europe-struggles-to-meet-chinas-trade-challenge-11641308138",
+            "urlToImage": "https://images.wsj.net/im-461388/social",
+            "publishedAt": "2022-01-04T20:27:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STYLECASTER"
+            },
+            "author": "Jason Pham",
+            "title": "Betty White Kids: Stepchildren With Husband Allen Ludden: David, Martha, Sarah - STYLECASTER",
+            "description": "She had three stepchildren with her late husband.",
+            "url": "https://stylecaster.com/betty-white-kids/",
+            "urlToImage": "https://stylecaster.com/wp-content/uploads/2022/01/Betty-White.jpg",
+            "publishedAt": "2022-01-04T20:22:00Z",
+            "content": "Since her death, fans have wondered about Betty Whites kids and if she had children and grandchildren who survived her. Betty never had her own biological children. However, she did have three stepch… [+11706 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland, CNN",
+            "title": "Webb telescope successfully unfurls its tennis court-size sunshield in space - CNN",
+            "description": "The James Webb Space Telescope successfully unfurled its 70-foot sunshield on Tuesday. This critical milestone is one of several that must occur for Webb to function properly in space, and it's one of the most challenging spacecraft deployments NASA has ever …",
+            "url": "https://www.cnn.com/2022/01/04/world/webb-space-telescope-sunshield-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211112194743-06-james-webb-space-telescope-super-tease.jpg",
+            "publishedAt": "2022-01-04T20:16:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Ben Pickman",
+            "title": "NFL Releases Playoff Scenarios Heading Into Final Week of Season - Sports Illustrated",
+            "description": "Everything you need to know about who is in and who is out ahead of Week 18.",
+            "url": "https://www.si.com/nfl/2022/01/04/nfl-playoff-scenarios-released-week-18",
+            "urlToImage": "https://www.si.com/.image/t_share/MTg2MTcwMzAwNjg0MDUyMTYz/nfl-logo-1.jpg",
+            "publishedAt": "2022-01-04T19:53:47Z",
+            "content": "The final week of 2021 NFL regular season begins on Saturday with 18 teams still in contention for this year's postseason. Here’s a look at who’s in, who needs a win and who is out entering NFL Week … [+4358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Brooke Pryor",
+            "title": "Pittsburgh Steelers head coach Mike Tomlin sets NFL record by avoiding losing season for 15th straight year - ESPN",
+            "description": "Pittsburgh Steelers coach Mike Tomlin set an NFL record after avoiding a losing season for the 15th straight year, bettering Marty Schottenheimer's streak from 1984 to 1997.",
+            "url": "https://www.espn.com/nfl/story/_/id/32993581/pittsburgh-steelers-head-coach-mike-tomlin-breaks-nfl-record-avoiding-losing-season-15th-straight-year",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1230%2Fr796243_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-01-04T19:47:56Z",
+            "content": "PITTSBURGH -- On a momentous night for Ben Roethlisberger, Pittsburgh Steelers head coach Mike Tomlin captured his own significant milestone.\r\nWith Monday night's 26-14 win against the Cleveland Brow… [+2418 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ines Ferré",
+            "title": "Ford shares rise 12% after news of production increase for electric F-150 Lightning pickup - Yahoo Finance",
+            "description": "Ford (F) shares were up 12% in afternoon trading on Tuesday after the automaker announced it would nearly double production capacity to meet demand for its...",
+            "url": "https://finance.yahoo.com/news/ford-shares-rise-11-after-news-of-production-increase-for-electric-f-150-190935929.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/4boyFv8IiZApQ6Vq5uY5OA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mzk-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/b2257b30-1fe7-11ec-bdfd-a17a5d2ccfb7",
+            "publishedAt": "2022-01-04T19:09:35Z",
+            "content": "Ford (F) shares closed at their highest level in 21 years after the automaker announced it would nearly double production capacity to meet demand for its upcoming F-150 Lightning electric pickup truc… [+1553 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Eileen Reslen",
+            "title": "Kim Kardashian posts photo in support of Khloé amid Tristan Thompson drama - Page Six",
+            "description": "The Skims founder posted a group photo that included her sister and their respectively kids. She captioned it with an infinity symbol emoji.",
+            "url": "https://pagesix.com/2022/01/04/kim-kardashian-supports-khloe-amid-tristan-thompson-drama/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/01/kim-khloe-kardashian-tristan-thompson-48.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2022-01-04T19:05:00Z",
+            "content": "Sisters stick together.\r\nKim Kardashian took a brief break from her romantic getaway in the Bahamas with Pete Davidson to show some love to Khloé Kardashian after Tristan Thompson confirmed he father… [+2926 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Foran and Manu Raju, CNN",
+            "title": "Manchin delivers blow to Democrats as he signals opposition to changing Senate rules to advance voting bill - CNN",
+            "description": "Sen. Joe Manchin of West Virginia, the pivotal Senate swing vote, made clear on Tuesday that he remains deeply skeptical of overhauling the chamber's rules on a simple majority basis to advance voting legislation, a clear sign that a frantic push by Democrats…",
+            "url": "https://www.cnn.com/2022/01/04/politics/manchin-filibuster-change-voting-legislation/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211020151235-01-manchin-1006-super-tease.jpg",
+            "publishedAt": "2022-01-04T19:02:00Z",
+            "content": "(CNN)Sen. Joe Manchin of West Virginia, the pivotal Senate swing vote, made clear on Tuesday that he remains deeply skeptical of overhauling the chamber's rules on a simple majority basis to advance … [+4274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Dave Itzkoff",
+            "title": "‘Late Night’ Cancels Shows After Seth Meyers Tests Positive for Coronavirus - The New York Times",
+            "description": "The NBC host said, “I feel fine,” and that his program would most likely return in a remote format next week.",
+            "url": "https://www.nytimes.com/2022/01/04/arts/television/seth-meyers-covid-positive.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/04/arts/04meyers-item/04meyers-item-facebookJumbo.jpg",
+            "publishedAt": "2022-01-04T18:41:10Z",
+            "content": "The resurgent pandemic continues to take its toll on the performing arts in New York and to disrupt the late-night comedy programs produced here. On Tuesday, Seth Meyers, the host of NBCs Late Night,… [+965 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ovetta Wiggins",
+            "title": "Gov. Larry Hogan mobilizes National Guard, declares state of emergency as omicron surges - The Washington Post",
+            "description": "Hogan has been under fire for weeks to take additional action to address the surge in the state.",
+            "url": "https://www.washingtonpost.com/dc-md-va/2022/01/04/hogan-declares-emergency-coronavirus/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LXX43NDKIYI6ZE4Q5LRED5GIWE.jpg&w=1440",
+            "publishedAt": "2022-01-04T18:21:51Z",
+            "content": "With this new surge of omicron its important for Marylanders to go back to using common sense and doing the things that will keep us safe: avoiding crowds, keeping your distance, washing your hands, … [+1025 chars]"
         }
     ]
 }
