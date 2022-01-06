@@ -4,42 +4,198 @@
     "articles": [
         {
             "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Novak Djokovic: Australia cancels top tennis player's visa - BBC News",
+            "description": "Australia's leader says \"no one is above the rules\" when it comes to the country's border policies.",
+            "url": "https://www.bbc.co.uk/news/world-australia-59889522",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AC74/production/_122584144_mediaitem122584143.jpg",
+            "publishedAt": "2022-01-05T22:32:40Z",
+            "content": "Tennis star Novak Djokovic has had his visa to enter Australia dramatically revoked on his arrival in Melbourne.\r\nThe world number one was held in the city's airport for several hours before border f… [+2503 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Rachel Hall",
-            "title": "UK minister hints at end to follow-up PCRs after positive lateral flow test - The Guardian",
-            "description": "Minister says change in England would reflect ‘accuracy and amount of lateral flow tests’ and not staff shortages",
-            "url": "https://amp.theguardian.com/world/2022/jan/05/covid-uk-follow-up-pcr-positive-lateral-flow-test",
+            "author": "Jonathan Howcroft, Tanya Aldred",
+            "title": "Ashes 2021-22 fourth Test, day two: Australia v England – live! - The Guardian",
+            "description": "Over-by-over report: After rain interrupted the opening day’s play, action resumes in the fourth Test at the SCG. Join Jonathan Howcroft for updates",
+            "url": "https://www.theguardian.com/sport/live/2022/jan/06/ashes-2021-22-fourth-test-day-two-australia-v-england-live",
+            "urlToImage": "https://i.guim.co.uk/img/media/8d6fe29e865454c336cfef47237967b2e67d0e01/0_69_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c8f493a241a63a6b0a1c785442ce7ebd",
+            "publishedAt": "2022-01-05T22:25:41Z",
+            "content": "Hello everybody and welcome to live over-by-over coverage of the second day of the fourth Ashes Test. Were underway at the Sydney Cricket Ground at 10am local time (11pm UK).\r\nThats right, were under… [+1010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Andrew Gregory, Denis Campbell, Rowena Mason, Josh Halliday",
+            "title": "Ministers must act now on NHS staffing crisis, health chiefs warn - The Guardian",
+            "description": "Exclusive: NHS Confederation proposes range of measures to help hospitals in England cope with severe staff shortages",
+            "url": "https://amp.theguardian.com/world/2022/jan/05/ministers-must-act-now-on-nhs-staffing-crisis-health-chiefs-warn",
             "urlToImage": null,
-            "publishedAt": "2022-01-05T10:29:00Z",
-            "content": "CoronavirusMinister says change in England would reflect accuracy and amount of lateral flow tests and not staff shortages\r\nThe UK government is understood to be preparing to announce that people in … [+3710 chars]"
+            "publishedAt": "2022-01-05T22:18:00Z",
+            "content": "CoronavirusExclusive: NHS Confederation proposes range of measures to help hospitals in England cope with severe staff shortages\r\nMillions of patients will suffer worsening quality of care unless min… [+6489 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Sun"
+            },
+            "author": "Wally Downes Jr",
+            "title": "Chelsea vs Tottenham LIVE REACTION: Davies own goal howler puts Blues in control in EFL Carabao Cup – l... - The Sun",
+            "description": "",
+            "url": "https://www.thesun.co.uk/sport/football/17230237/chelsea-vs-tottenham-live-result-score-efl-carabao-cup-semi-final/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2022/01/Chelsea-Tottenham-Carabao-Cup-Lukaku.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2022-01-05T22:02:00Z",
+            "content": "CHELSEA are firmly in control of their Carabao Cup semi-final against Tottenham after winning the first leg 2-0.\r\nThe Blues - with Romelu Lukaku back in the starting XI - took an early lead after Kai… [+10020 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Nastassia Astrasheuskaya",
+            "title": "Kazakhstan protesters take to streets over rising fuel prices - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/9dc586f8-5da4-4ff3-b71a-0b88c224a4d3",
+            "urlToImage": null,
+            "publishedAt": "2022-01-05T21:54:37Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Andy Hayes, news reporter",
+            "title": "Ghislaine Maxwell trial: Defence calls for retrial after juror says he was a 'victim of sexual abuse' - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/ghislaine-maxwell-trial-us-department-of-justice-urges-court-to-investigate-juror-who-was-victim-of-sexual-abuse-12509781",
+            "urlToImage": "https://e3.365dm.com/21/12/1600x900/skynews-ghislaine-maxwell-trial_5622377.jpg?20211221153823",
+            "publishedAt": "2022-01-05T21:31:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "George Stark",
+            "title": "Kanye West styling new girl Julia Fox like estranged wife Kim Kardashian - Daily Mail",
+            "description": "It appears Kanye West has a new muse.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-10372439/Kanye-West-styling-new-girl-Julia-Fox-like-estranged-wife-Kim-Kardashian.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/01/05/20/52589121-0-image-a-74_1641415867736.jpg",
+            "publishedAt": "2022-01-05T20:56:53Z",
+            "content": "He's credited with revolutionizing Kim Kardashian's style, propelling her profile from reality TV star to a high-fashion trendsetter appearing on the cover of Vogue. \r\nBut now it appears Kanye West h… [+6018 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Julia Kollewe, Graeme Wearden",
-            "title": "Eurozone growth slows to nine-month low as German recovery stalls – business live - The Guardian",
-            "description": "European shares lose steam after record run, as UK grocery inflation rises, adding to cost of living squeeze",
-            "url": "https://www.theguardian.com/business/live/2022/jan/05/stock-markets-ftse-tesco-christmas-omicron-eurozone-business-live-",
-            "urlToImage": "https://i.guim.co.uk/img/media/efc33e6d73143b777bb0815c18bab36b60afdb8c/0_474_7586_4552/master/7586.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c1c192950bd6617f623df17815ee692d",
-            "publishedAt": "2022-01-05T10:28:08Z",
-            "content": null
+            "author": "Linda Geddes",
+            "title": "Blood test could help detect cancer in people with nonspecific symptoms - The Guardian",
+            "description": "Study finds test works on people with concerning signs such as unexplained weight loss or fatigue",
+            "url": "https://amp.theguardian.com/society/2022/jan/05/blood-test-could-help-detect-cancer-in-people-with-nonspecific-symptoms",
+            "urlToImage": null,
+            "publishedAt": "2022-01-05T20:02:22Z",
+            "content": "CancerStudy finds test works on people with concerning signs such as unexplained weight loss or fatigue\r\nScientists have developed a blood test that could help detect cancer in people with nonspecifi… [+3638 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Stacy Liberatore",
+            "title": "'Like a latch made in heaven': NASA's James Webb Telescope deploys secondary mirror - Daily Mail",
+            "description": "NASA's James Webb Telescope deployed its secondary mirror Wed at 9:52am ET and the secondary support structure was then latched at by 11:51 ET - and 30mins later it was secure.",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-10372515/Like-latch-heaven-NASAs-James-Webb-Telescope-deploys-secondary-mirror.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/01/05/20/52588269-0-image-a-71_1641414358966.jpg",
+            "publishedAt": "2022-01-05T19:57:00Z",
+            "content": "NASAs James Webb is slowly blooming in space as the $10 billion observatory deployed its secondary mirror support structure on Wednesday.\r\nThe secondary mirror, measuring 2.4 feet wide, is located on… [+5386 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Johnson pressed to scrap £12bn NI rise amid cost of living crisis - Financial Times",
+            "description": "Rees-Mogg leads growing Tory revolt against April’s planned increase in national insurance",
+            "url": "https://www.ft.com/content/e3dd753c-8695-496b-996a-9f5426a683a5",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4c19a353-4b47-4094-b571-c5514afee217.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-01-05T19:33:59Z",
+            "content": "Boris Johnson has been challenged by a senior minister to scrap a planned £12bn tax rise in April, as Jacob Rees-Mogg put himself at the head of a growing Tory cost of living revolt.\r\nRees-Mogg, Lead… [+4052 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Andrew Sparrow, Jessica Murray, Severin Carrell",
-            "title": "UK Covid live: Keir Starmer to miss PMQs after second positive test in less than three months - The Guardian",
-            "description": "Latest updates: Labour leader isolating after positive Covid test; government considering scrapping the need for PCR test after a positive LFT in England",
-            "url": "https://www.theguardian.com/politics/live/2022/jan/05/uk-covid-live-pcr-lateral-flow-tests-scrapped-boris-johnson-coronavirus-latest-updates",
-            "urlToImage": "https://i.guim.co.uk/img/media/858e5f6a4d489383e5bc2900491a445e43a8acf7/0_0_5500_3300/master/5500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4dc8aaed756ed171b8274db9a2c796d5",
-            "publishedAt": "2022-01-05T10:21:36Z",
+            "author": "Dan Milmo",
+            "title": "BMW unveils car that changes colour at touch of a button - The Guardian",
+            "description": "Electronic ink wrap around electric model changes between black and white and even light and dark stripes",
+            "url": "https://amp.theguardian.com/business/2022/jan/05/bmw-unveils-car-that-changes-colour-at-the-touch-of-a-button",
+            "urlToImage": null,
+            "publishedAt": "2022-01-05T19:02:00Z",
+            "content": "BMW chameleon car changes colour video\r\nBMWElectronic ink wrap around electric model changes between black and white and even light and dark stripes\r\nBMW has unveiled a chameleon car that changes col… [+2850 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Football.London"
+            },
+            "author": "Kaya Kaynak",
+            "title": "Arsenal new signing eligible for Carabao Cup semi-final clash with Liverpool - Football.London",
+            "description": "The Gunners could field a new recruit against the Jurgen Klopp's side now that their games have been rescheduled",
+            "url": "https://www.football.london/arsenal-fc/transfer-news/arsenal-signing-liverpool-carabao-cup-22656444",
+            "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article22241820.ece/ALTERNATES/s1200/1_GettyImages-1354489112.jpg",
+            "publishedAt": "2022-01-05T19:00:00Z",
+            "content": "Arsenal last played just a few days ago but it feels like so much has happened since then.\r\nAinsley Maitland-Niles and Folarin Balogun's respective loan moves to Roma and Middlesborough have progress… [+5526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Oli Gamp",
+            "title": "Manchester United: Ralf Rangnick 'is told he WILL have transfer funds to spend in transfer window' - Daily Mail",
+            "description": "The German boss has not managed to quell the feeling of unease at Old Trafford this season after he suffered his first defeat in charge - a 1-0 home loss to Wolves, with his tactics being questioned.",
+            "url": "https://www.dailymail.co.uk/sport/football/article-10372375/Manchester-United-Ralf-Rangnick-told-transfer-funds-spend-transfer-window.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/01/05/20/52587805-0-image-a-4_1641412942718.jpg",
+            "publishedAt": "2022-01-05T18:59:00Z",
+            "content": "Manchester United boss Ralf Rangnick will be backed by the Glazers in January, according to reports, with the interim coach facing disharmony in his squad amid a turbulent campaign. \r\nThe German boss… [+2071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Amy Borrett",
+            "title": "COVID: Are hospitals a hotbed for transmission? - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/covid-are-hospitals-a-hotbed-for-transmission-12509599",
+            "urlToImage": "https://e3.365dm.com/21/11/1600x900/skynews-covid-coronavirus-deaths_5593707.jpg?20211124102607",
+            "publishedAt": "2022-01-05T18:52:33Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Edward Colston statue: Four cleared of criminal damage - BBC News",
+            "description": "The monument to the slave trader was toppled in Bristol during a Black Lives Matter protest.",
+            "url": "https://www.bbc.com/news/uk-england-bristol-59727161",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1492D/production/_122596248_mediaitem122595407.jpg",
+            "publishedAt": "2022-01-05T18:43:12Z",
+            "content": "Media caption, Watch Rhian Graham outside Bristol Crown Court after the four were acquitted\r\nFour people accused of illegally removing a statue of Edward Colston have been cleared of criminal damage.… [+4177 chars]"
         },
         {
             "source": {
@@ -47,220 +203,64 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Covid: Greater Manchester hospitals cancel surgery as NHS pressures mount - BBC News",
-            "description": "Some non-urgent surgery is being halted at 17 Greater Manchester hospitals due to staffing shortages.",
-            "url": "https://www.bbc.co.uk/news/uk-england-manchester-59878179",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16BA/production/_122581850_gettyimages-1071385548.jpg",
-            "publishedAt": "2022-01-05T10:20:58Z",
-            "content": "When patients arrive at hospital by ambulance they should be handed over within 15 minutes. This data shows the proportion of ambulance patients who waited 30 minutes or more, in the week shown. It c… [+1782 chars]"
+            "title": "Covid: Boris Johnson confirms Plan B rules to continue for three weeks - BBC News",
+            "description": "Hospital admissions are rising, says the PM - as figures show one in 15 people had Covid on New Year's Eve.",
+            "url": "https://www.bbc.co.uk/news/uk-59886078",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AAEF/production/_122595734_gettyimages-1237443613.jpg",
+            "publishedAt": "2022-01-05T18:19:35Z",
+            "content": "By Francesca GillettBBC News\r\nMedia caption, Watch: PM confirms Plan B will stay, as England sees fastest growth in Covid cases\r\nEngland's current Plan B rules will continue for now, Boris Johnson ha… [+5328 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Evening Standard"
             },
-            "author": "Catherine Shoard",
-            "title": "Gal Gadot: Imagine video at start of pandemic was ‘in poor taste’ - The Guardian",
-            "description": "The Wonder Woman actor has said that her celebrity-filled cover of the John Lennon classic from March 2020 was ‘premature’ and not ‘the right thing’",
-            "url": "https://amp.theguardian.com/film/2022/jan/05/gal-gadot-imagine-video",
-            "urlToImage": null,
-            "publishedAt": "2022-01-05T10:07:00Z",
-            "content": "FilmThe Wonder Woman actor has said that her celebrity-filled cover of the John Lennon classic from March 2020 was premature and not the right thing\r\nGal Gadot has sought to explain the thinking behi… [+2058 chars]"
+            "author": "Josh Salisbury",
+            "title": "Boris says pre-departure test rule scrapped from 4am on Friday - Evening Standard",
+            "description": "Boris Johnson has given a statement in the Commons on the situation in the UK regarding the Omicron variant of Covid-19.",
+            "url": "https://www.standard.co.uk/news/uk/covid-latest-news-boris-johnson-omicron-lockdown-travel-tests-pmqs-today-keir-starmer-b974948.html",
+            "urlToImage": "https://static.standard.co.uk/2022/01/05/15/POLITICS%20PMQs%20Johnson%2015145027.jpg?width=1200&width=1200&auto=webp&quality=75",
+            "publishedAt": "2022-01-05T18:05:46Z",
+            "content": "Education Secretary: Face coverings in schools help reduce transmission'\r\nChildren having to wear face coverings in school will help reduce transmission at a time when rates of infection are high, th… [+1056 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Sky Sports"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": null,
-            "title": "Liverpool Carabao Cup game with Arsenal in further doubt as Pep Lijnders tests positive for Covid - Sky Sports",
-            "description": "Liverpool assistant Pep Lijnders has tested positive for Covid-19, plunging Thursday's Carabao Cup game against Arsenal into further doubt.",
-            "url": "https://www.skysports.com/football/news/11669/12509393/liverpool-carabao-cup-game-with-arsenal-in-further-doubt-as-pep-lijnders-tests-positive-for-covid",
-            "urlToImage": "https://e0.365dm.com/21/12/1600x900/skysports-football-pep-lijnders_5622284.jpg?20211221143612",
-            "publishedAt": "2022-01-05T09:43:54Z",
-            "content": null
+            "author": "Mitchell Clark",
+            "title": "Some Volvos will get a YouTube app and Google Assistant-controlled AC - The Verge",
+            "description": "Google says it’s bringing YouTube to Volvo cars with Google built-in, letting you watch memes, news, and videos from The Verge while parked. Some Volvos will also let you control heat or cooling from your Google Home.",
+            "url": "https://www.theverge.com/2022/1/5/22868608/volvo-google-android-automotive-climate-control-youtube-lyft",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/G8QPQjZe4nJvcGNBHD8ivIx9WEg=/0x180:2500x1489/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23147336/YouTube_in_Volvo_C40_Recharge.png",
+            "publishedAt": "2022-01-05T18:00:00Z",
+            "content": "Lyft drivers are also getting a fuller Android Auto experience\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nNot that a vertical screen is the b… [+2177 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Eurogamer.net"
             },
-            "author": "Tom Phillips",
-            "title": "PlayStation VR2 tech specs revealed - Eurogamer.net",
+            "author": "Wesley Yin-Poole",
+            "title": "Rainbow Six Extraction launches day-one on Xbox and PC Game Pass - Eurogamer.net",
             "description": null,
-            "url": "https://www.eurogamer.net/articles/2022-01-05-playstation-vr2-tech-specs-revealed",
-            "urlToImage": "https://images.gnwcdn.com/2022/articles/2022-01-05-09-27/playstation-vr2-tech-specs-revealed-1641374833852.jpg/EG11/resize/1200x-1/playstation-vr2-tech-specs-revealed-1641374833852.jpg",
-            "publishedAt": "2022-01-05T09:41:03Z",
-            "content": "Sony has announced an official name and an array of technical details for its upcoming, under-wraps PlayStation VR successor for PlayStation 5. \r\nPlayStation VR2, as it's now officially known, will b… [+2892 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mirror Online"
-            },
-            "author": "Tom Victor",
-            "title": "How Newcastle could line up by end of January as Kieran Trippier starts transfer spree - The Mirror",
-            "description": "England defender Trippier is expected to be the first of a host of new signings for Eddie Howe's side as they aim to do whatever it takes to keep themselves in the Premier League",
-            "url": "https://www.mirror.co.uk/sport/football/news/newcastle-january-transfers-lineup-trippier-25856868",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article25857143.ece/ALTERNATES/s1200/0_MAIN-MIRRORTRIPPIER.jpg",
-            "publishedAt": "2022-01-05T09:19:39Z",
-            "content": "Newcastle United supporters always knew January would be a big month for the club, with an autumn takeover and a relegation battle combining to make spending both possible and essential.\r\n Kieran Tri… [+4027 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Telegraph.co.uk"
-            },
-            "author": null,
-            "title": "Ralf Rangnick struggling to ease tensions at freefalling Manchester United - Telegraph.co.uk",
-            "description": "With around a third of senior players eyeing the exit and morale low, there is a feeling of a club 'treading water' before another overhaul",
-            "url": "https://www.telegraph.co.uk/football/2022/01/05/ralf-rangnick-struggling-ease-tensions-freefalling-manchester-united/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/football/2022/01/04/TELEMMGLPICT000281944541_trans_NvBQzQNjv4Bqq_lm7_dnM04RfBCyGqlpSF5NUcTKNHKqy85KLqtvPLE.jpeg?impolicy=logo-overlay",
-            "publishedAt": "2022-01-05T08:36:00Z",
-            "content": "And his battles to motivate and win over the squad are not being helped by the dwindling confidence of some players and the disillusionment of others, issues that festered under Solskjaer but which R… [+4296 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wales Online"
-            },
-            "author": "Cathy Owen",
-            "title": "Met Office forecast as weather warning issued for parts of Wales - Wales Online",
-            "description": "Temperatures could plunge to -5 °C on Wednesday night",
-            "url": "https://www.walesonline.co.uk/news/wales-news/met-office-forecast-snow-ice-22647152",
-            "urlToImage": "https://i2-prod.walesonline.co.uk/news/wales-news/article22647641.ece/ALTERNATES/s1200/0_Merthyr-snow.jpg",
-            "publishedAt": "2022-01-05T08:02:51Z",
-            "content": "An ice warning is in place for parts of Wales and temperatures are set to plunge to -5 °C tonight as a cold snap hits Wales.\r\nHail, snow, and \"scattered wintry flurries\" fell in parts of Wales on Tue… [+3721 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "James Webb Space Telescope: Sun shield is fully deployed - BBC News",
-            "description": "The unfurling of the observatory's giant sun shade is a major milestone for the $10bn mission.",
-            "url": "https://www.bbc.co.uk/news/science-environment-59873738",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9C5C/production/_122582004_index.jpg",
-            "publishedAt": "2022-01-05T07:59:38Z",
-            "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nImage caption, This is Webb's current configuration. Its shield is deployed but its mirrors are still stowed\r\nThe new James Webb telescope has pa… [+3937 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "David Mercer",
-            "title": "Prince Andrew: Decision on duke's bid to get Virginia Giuffre court case dismissed due 'pretty soon', judge says - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/prince-andrew-accuser-virginia-giuffre-needs-to-lock-herself-into-a-story-now-royals-lawyer-tells-court-12509006",
-            "urlToImage": "https://e3.365dm.com/22/01/1600x900/skynews-prince-andrew-duke-of-york_5630929.jpg?20220102182100",
-            "publishedAt": "2022-01-05T07:50:14Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Megan Baynes",
-            "title": "COVID-19: French president says he wants to 'p*** off' people who refuse vaccine - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/covid-19-french-president-says-he-wants-to-p-off-people-who-refuse-vaccine-12509268",
-            "urlToImage": "https://e3.365dm.com/21/12/1600x900/skynews-emmanuel-macron_5609910.jpg?20211209213224",
-            "publishedAt": "2022-01-05T07:07:30Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Charlotte Cripps",
-            "title": "Charlotte Church: ‘Being famous is like being in a psychological grinder’ - The Independent",
-            "description": "While the Welsh singer trains as a sound healing therapist and is opening a new wellness retreat, which is the subject of her new reality/lifestyle show ‘Charlotte Church’s Dream Build’, she talks to Charlotte Cripps about saving the world, media scrutiny, an…",
-            "url": "https://www.independent.co.uk/arts-entertainment/tv/features/charlotte-church-dream-build-leveson-inquiry-voice-of-angel-b1976649.html",
-            "urlToImage": "https://static.independent.co.uk/2021/12/15/14/214095_001%20%281%29.jpg?width=1200&auto=webp&quality=75",
-            "publishedAt": "2022-01-05T06:36:05Z",
-            "content": "Charlotte Church knows exactly why the press turned on her. Well, it was due to the fact that I smoked and I drank and I went out with my friends and I had sex all normal things, says the Welsh singe… [+8877 chars]"
+            "url": "https://www.eurogamer.net/articles/2022-01-05-rainbow-six-extraction-launches-day-one-on-xbox-and-pc-game-pass",
+            "urlToImage": "https://images.gnwcdn.com/2022/articles/2022-01-05-17-34/-1641404049504.jpg/EG11/resize/1200x-1/-1641404049504.jpg",
+            "publishedAt": "2022-01-05T17:41:00Z",
+            "content": "Ubisoft's upcoming co-op PvE shooter Rainbow Six Extraction is a day-one release for Xbox Game Pass and PC Game Pass members.\r\nThis means subscribers can play the game on Xbox consoles and PC from Ex… [+1605 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Gabriel Tate",
-            "title": "School closures, grieving students and social media slang: Phil Redmond on his plans for Grange Hill – the Movie - The Guardian",
-            "description": "At 72, the Brookside creator is returning to his first and greatest creation. He thinks it could teach the government a thing or two",
-            "url": "https://amp.theguardian.com/tv-and-radio/2022/jan/05/phil-redmond-interview-grange-hill-the-movie",
-            "urlToImage": null,
-            "publishedAt": "2022-01-05T06:00:00Z",
-            "content": "TelevisionAt 72, the Brookside creator is returning to his first and greatest creation. He thinks it could teach the government a thing or two \r\nFrom Brooksides bodies under the patio through the Emm… [+10256 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Birmingham Live"
-            },
-            "author": "Harry Leach",
-            "title": "Oldbury dad's fury as boy 'shaken' after thugs smash in door and police 'didn't arrive for 80 mins' - Birmingham Live",
-            "description": "The frightening incident happened at around 3am",
-            "url": "https://www.birminghammail.co.uk/black-country/oldbury-dads-fury-boy-shaken-22639326",
-            "urlToImage": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article22645621.ece/ALTERNATES/s1200/1_jpgThe-front-door-was-fixed-by-Sandwell-Council.jpg",
-            "publishedAt": "2022-01-05T05:30:00Z",
-            "content": "A teenager was left 'physically shaken' after suspected burglars forced their way into his family home - but police didn't arrive until over an hour later. \r\nThe 13-year-old boy was with his dad, Luk… [+2821 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "John Crace",
-            "title": "Starmer flies the flags in test drive of patriotic pitch to voters - The Guardian",
-            "description": "Labour leader’s low-stakes speech was a decent marker – and enough to spook Boris into more waffle",
-            "url": "https://amp.theguardian.com/politics/2022/jan/04/starmer-flies-the-flags-in-test-drive-of-patriotic-pitch-to-voters",
-            "urlToImage": null,
-            "publishedAt": "2022-01-05T04:37:00Z",
-            "content": "The politics sketchLabour leaders low-stakes speech was a decent marker and enough to spook Boris into more waffle\r\nCall it a trial run. With parliament still on recess (what better way for MPs to en… [+5765 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Kari Paul",
-            "title": "Elizabeth Holmes trial: Silicon Valley watches next steps in high-profile case - The Guardian",
-            "description": "Experts say the fraud charges could open up tech industry to further scrutiny, making startups tread more carefully",
-            "url": "https://amp.theguardian.com/technology/2022/jan/04/elizabeth-holmes-conviction-silicon-valley",
-            "urlToImage": null,
-            "publishedAt": "2022-01-05T04:37:00Z",
-            "content": "TheranosExperts say the fraud charges could open up tech industry to further scrutiny, making startups tread more carefully\r\nTheranos founder Elizabeth Holmes was found guilty on Monday of fraud, con… [+4762 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Record"
-            },
-            "author": "Paul Hutcheon",
-            "title": "Nicola Sturgeon expected to cut to self isolation period as staff absences strain public services - Daily Record",
-            "description": "The First Minister will provide an update to MSPs on the Omicron situation during a virtual statement to the Scottish Parliament",
-            "url": "https://www.dailyrecord.co.uk/news/politics/nicola-sturgeon-expected-cut-self-25853025",
-            "urlToImage": "https://i2-prod.dailyrecord.co.uk/incoming/article25856990.ece/ALTERNATES/s1200/0_JS253738316jfif.jpg",
-            "publishedAt": "2022-01-05T04:30:00Z",
-            "content": "Nicola Sturgeon is expected to announce a cut in the 10 day covid self-isolation period to address crippling staff shortages.\r\n The First Minister will today confirm her Governments decision after hi… [+4108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Express"
-            },
-            "author": "Solen Le Net",
-            "title": "Alzheimer’s disease: The herb that may preserve memory and 'fight off' brain decline - Express",
-            "description": "DESPITE the rising prevalence of Alzheimer's disease (AD), trials to find a cure continue to be unsuccessful. Fortunately, the risk of dementia can in many cases be lowered. One natural ingredient has been shown to preserve memory and protect against brain de…",
-            "url": "https://www.express.co.uk/life-style/health/1544933/alzheimers-symptoms-curry-leaves-turmeric",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/11/750x445/1544933.jpg",
-            "publishedAt": "2022-01-05T04:01:00Z",
-            "content": null
+            "author": "Angela Giuffrida",
+            "title": "Italian mafia fugitive arrested in Spain after Google Street View sighting - The Guardian",
+            "description": "Convicted murderer Gioacchino Gammino tracked down in Galapagar, where he had lived undetected for 20 years",
+            "url": "https://amp.theguardian.com/world/2022/jan/05/italian-mafia-fugitive-arrested-in-spain-after-google-maps-sighting",
+            "urlToImage": "https://i.guim.co.uk/img/media/4e8f0b337e4f1607ad88c5e38a910b01be4340aa/494_295_2267_1360/master/2267.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5f82e7d4d9a68036f16a19966a01002",
+            "publishedAt": "2022-01-05T17:37:00Z",
+            "content": "An Italian mafia boss on the run for 20 years was tracked down to a Spanish town after being spotted on Google Street View.\r\nGioacchino Gammino, a convicted murderer listed among Italys most wanted g… [+3270 chars]"
         }
     ]
 }
