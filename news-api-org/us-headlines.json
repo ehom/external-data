@@ -4,237 +4,146 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "TMZ"
+                "id": "axios",
+                "name": "Axios"
             },
-            "author": "TMZ Staff",
-            "title": "Lori Loughlin and Mossimo Giannulli's Home Burglarized, $1 Million in Jewelry Stolen - TMZ",
-            "description": "Lori Loughlin And Mossimo's Home Robbed, $1million In Jewelry Stolen.",
-            "url": "https://www.tmz.com/2022/01/15/lori-loughlin-mossimo-giannulli-home-burglary-robbed-1million-jewelry-stolen/",
-            "urlToImage": "https://imagez.tmz.com/image/f7/16by9/2022/01/15/f74b9ebb139749f58b729ae3651b024b_xl.jpg",
-            "publishedAt": "2022-01-15T09:00:00Z",
-            "content": "Lori Loughlin and Mossimo Giannulli are now crime victims ... because we've learned their house was hit by burglars who walked away with a million bucks in jewelry.\r\nIt went down January 3 ... we're … [+989 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Alex Stambaugh, Rhea Mogul and Sophie Jeong, CNN",
-            "title": "Tsunami warning issued for Tonga following volcanic eruption - CNN",
-            "description": "A tsunami has hit Tonga's largest island, Tongatapu, and reportedly sent waves flooding into the capital after an underwater volcano in the South Pacific exploded in a violent eruption on Saturday, sending a cloud of ash and gas steam into the air.",
-            "url": "https://www.cnn.com/2022/01/15/asia/tsunami-warning-tonga-volcano-intl-hnk/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220115024259-tonga-volcano-eruption-satellite-loop-011522-super-tease.jpg",
-            "publishedAt": "2022-01-15T07:56:00Z",
-            "content": "(CNN)A tsunami has hit Tonga's largest island, Tongatapu, and reportedly sent waves flooding into the capital after an underwater volcano in the South Pacific exploded in a violent eruption on Saturd… [+2614 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NorthJersey.com"
-            },
-            "author": "Katie Sobko, Anne-Marie Caruso, Michael Karas and Scott Fallon, North Jersey Media Group",
-            "title": "11-alarm chemical fire in Passaic injures firefighter, burns into morning hours Saturday - NorthJersey.com",
-            "description": "An 11-alarm fire at a chemical plant near Canal Street in Passaic is causing evacuations, Mayor Hector Lora said.",
-            "url": "https://www.northjersey.com/story/news/passaic/passaic-city/2022/01/14/passaic-nj-downtown-fire-chemical-plant/6534555001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/01/15/PNJM/9f5fa658-cd58-483c-b1b3-af57af10878c-011422PassaicFire05Presto.JPG?auto=webp&crop=6015,3384,x0,y0&format=pjpg&width=1200",
-            "publishedAt": "2022-01-15T07:39:30Z",
-            "content": "PASSAIC — More than 200 firefighters continued to battle an 11-alarm chemical fire that sent one to the hospital early Saturday morning.\r\nFrigid temperatures caused runoff water to freeze and create … [+7240 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "U.S. CDC urges Americans to wear 'most protective mask you can' - Reuters",
-            "description": "The U.S. Centers for Disease Control and Prevention (CDC) on Friday revised <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html\" target=\"_blank\">its guidance</a> for Americans on wearing masks to protect against COVID-1…",
-            "url": "https://www.reuters.com/world/us/us-cdc-recommends-americans-wear-most-protective-mask-you-can-2022-01-14/",
-            "urlToImage": "https://www.reuters.com/resizer/fEfL11S17LGg3ORt7U_1tRe4lAU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJOQARLH4RP65GZIVLN7IS257A.jpg",
-            "publishedAt": "2022-01-15T07:09:00Z",
-            "content": "WASHINGTON, Jan 14 (Reuters) - The U.S. Centers for Disease Control and Prevention (CDC) on Friday revised its guidance for Americans on wearing masks to protect against COVID-19, recommending donnin… [+4684 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN India"
-            },
-            "author": "Adam Rittenberg",
-            "title": "Hawai'i Rainbow Warriors football coach Todd Graham resigns amid allegations of mistreating players - ESPN India",
-            "description": "Todd Graham, facing mounting allegations of mistreating players in the program, resigned Friday after two seasons with Hawai'i.",
-            "url": "https://www.espn.in/college-football/story/_/id/33069304/hawaii-rainbow-warriors-coach-todd-graham-resigns-amid-allegations-mistreating-players",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0109%2Fr959348_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-01-15T05:55:50Z",
-            "content": "Hawai'i football coach Todd Graham, facing mounting allegations of mistreating players in the program, resigned Friday after two seasons with the school.\r\nGraham's decision comes a week after a state… [+2138 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Rolling Stone",
-            "title": "Bob Saget Mourned By ‘Full House’ Cast, Comedians At Funeral - Rolling Stone",
-            "description": "Bob Saget was mourned Friday during a Los Angeles funeral service attended by his Full House […]",
-            "url": "https://www.rollingstone.com/tv/tv-news/bob-saget-funeral-1285306/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/01/AP18193174063673.jpeg",
-            "publishedAt": "2022-01-15T05:38:14Z",
-            "content": "Bob Saget was mourned Friday during a Los Angeles funeral service attended by his Full House costars and numerous other Hollywood celebrities.\r\nAccording to TMZ, hundreds gathered at Mt. Sinai Memori… [+1903 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "By <a href=\"/profiles/rhea-mogul\">Rhea Mogul</a> and <a href=\"/profiles/brad-lendon\">Brad Lendon</a>, CNN",
-            "title": "Live updates: Novak Djokovic's visa and Australian Open news - CNN",
-            "description": "Novak Djokovic has been placed back in detention by Australian authorities after his visa was revoked for a second time. Follow here for live updates.",
-            "url": "https://www.cnn.com/asia/live-news/novak-djokovic-australia-visa-news-01-15-21/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220114103845-djokovic-visa-tennis-011422-super-tease.jpg",
-            "publishedAt": "2022-01-15T05:26:00Z",
-            "content": "Novak Djokovic has returned to the Park Hotel detention facility in Melbourne, according to CNN affiliate Nine News. \r\nThe men's world No. 1 was seen in a white van arriving at the hotel, which is al… [+1032 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "As Omicron fuels surge, U.S. students stage walkouts to protest in-person classes - Reuters",
-            "description": "Hundreds of students in Boston and Chicago walked out of classes on Friday in protests demanding a switch to remote learning as a surge in COVID-19 cases fueled by the Omicron variant disrupted efforts at returning to in-person education around the United Sta…",
-            "url": "https://www.reuters.com/world/us/omicron-fuels-surge-us-students-stage-walkouts-protest-in-person-classes-2022-01-14/",
-            "urlToImage": "https://www.reuters.com/resizer/xcc_pWet3knn1S00PaItBkkMHnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MVJERKHMLZPWFIHDD2YXDKZML4.jpg",
-            "publishedAt": "2022-01-15T04:06:00Z",
-            "content": "BOSTON/CHICAGO, Jan 14 (Reuters) - Hundreds of students in Boston and Chicago walked out of classes on Friday in protests demanding a switch to remote learning as a surge in COVID-19 cases fueled by … [+4093 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "Diane Bartz, Reuters, Jonathan Stempel, Reuters",
-            "title": "US judge bars Martin Shkreli from drug industry, orders $64.6 million payment - KSL.com",
-            "description": "A U.S. judge on Friday barred Martin Shkreli from the pharmaceutical industry for life and ordered him to pay $64.6 million after he famously raised the price of the drug Daraprim and fought to block generic competitors.",
-            "url": "https://www.ksl.com/article/50328600/us-judge-bars-martin-shkreli-from-drug-industry-orders-646-million-payment",
-            "urlToImage": "https://img.ksl.com/slc/2859/285977/28597737.JPG?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2022-01-15T03:34:25Z",
-            "content": "Estimated read time: 2-3 minutes\r\nWASHINGTON A U.S. judge on Friday barred Martin Shkreli from the pharmaceutical industry for life and ordered him to pay $64.6 million after he famously raised the p… [+1897 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Philippines to acquire missile system from India for $375 mln - Reuters",
-            "description": "The Philippines has finalised a deal to acquire a shore-based anti-ship missile system from India for nearly $375 million to beef up its navy, the Southeast Asian nation's defence minister said.",
-            "url": "https://www.reuters.com/world/asia-pacific/philippines-acquire-missile-system-india-375-mln-2022-01-15/",
-            "urlToImage": "https://www.reuters.com/resizer/V6pA08stuz4sg74sboirvouo-3E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A7GXIRA73BL6XNGNTJFCP7Z2BI.jpg",
-            "publishedAt": "2022-01-15T03:07:00Z",
-            "content": "MANILA, Jan 15 (Reuters) - The Philippines has finalised a deal to acquire a shore-based anti-ship missile system from India for nearly $375 million to beef up its navy, the Southeast Asian nation's … [+1577 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Alexander Mallin, Luke Barr",
-            "title": "Oath Keepers leader makes 1st court appearance following arrest on seditious conspiracy charge - ABC News",
-            "description": "",
-            "url": "https://abcnews.go.com/US/oath-keepers-leader-makes-1st-court-appearance-arrest/story?id=82272182",
-            "urlToImage": "https://s.abcnews.com/images/US/capitol-riot-sedition-oath-keepers-elmer-stewart-rhodes-01-gty-iwb-220114_1642193380040_hpMain_16x9_992.jpg",
-            "publishedAt": "2022-01-15T03:00:56Z",
-            "content": "The leader of the Oath Keepers militia group, who was indicted Thursday on a series of charges including seditious conspiracy in connection with the Jan. 6 assault on the U.S. Capitol, made his first… [+6039 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Data Skrive",
-            "title": "Cincinnati Bengals vs. Las Vegas Raiders NFL Wild Card Round Odds, Plays and Insights - Sports Illustrated",
-            "description": "Check out odds, plays and more for the Cincinnati Bengals vs. Las Vegas Raiders AFC Wild Card matchup on January 15, 2022.",
-            "url": "https://www.si.com/betting/2022/01/15/cincinnati-bengals-vs-las-vegas-raiders-afc-wild-card-odds-plays-insights",
-            "urlToImage": "https://www.si.com/.image/t_share/MTg2MzI4MjQ5OTg3NzY5NDcz/image-placeholder-title.jpg",
-            "publishedAt": "2022-01-15T02:47:09Z",
-            "content": "The Cincinnati Bengals will meet the Las Vegas Raiders in the AFC Wild Card round.\r\nFor more great betting and fantasy insight, join the SI Winners Club Newsletter.\r\nOdds for Bengals vs. Raiders\r\nOve… [+3298 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "AZCentral"
-            },
-            "author": ", The Arizona Republic",
-            "title": "Trump rally in Arizona: Conservative forum leads to police calls at Dream City Church - The Arizona Republic",
-            "description": "Former President Trump's first rally of 2022 will be in Florence, Arizona, where several Republican candidates will take the stage as well.",
-            "url": "https://www.azcentral.com/story/news/politics/arizona/2022/01/14/trump-rally-arizona-live-updates-florence/6529316001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/20/PPHX/70660bca-ec94-452d-9a5a-da9fdcb19887-AMFestDay2_12192021_AT_028.JPG?auto=webp&crop=2499,1406,x0,y126&format=pjpg&width=1200",
-            "publishedAt": "2022-01-15T02:46:38Z",
-            "content": "Former President Donald Trump's first rally of 2022 will be in Florence, where several Republican candidates will take the stage as well.\r\nTrump's appearance Saturday will be his second in the state … [+2673 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Johana Bhuiyan",
-            "title": "Lawsuit claims Facebook and Google CEOs were aware of deal to control advertising sales - The Guardian",
-            "description": "Newly revealed documents from the complaint against Google shed light on potential advertising sales manipulation",
-            "url": "https://amp.theguardian.com/technology/2022/jan/14/facebook-google-lawsuit-advertising-deal",
-            "urlToImage": null,
-            "publishedAt": "2022-01-15T02:12:00Z",
-            "content": "TechnologyNewly revealed documents from the complaint against Google shed light on potential advertising sales manipulation\r\nSat 15 Jan 2022 02.12 GMT\r\nFacebook CEO Mark Zuckerberg and Google CEO Sun… [+3709 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Kelly Tyko",
-            "title": "Insurance covers at-home COVID testing starting Saturday. How to get free tests or reimbursement - USA TODAY",
-            "description": "Health insurance plans will cover at-home COVID-19 tests starting Jan. 15 but with most policies, you'll need to save receipts to submit reimbursement.",
-            "url": "https://www.usatoday.com/story/money/shopping/2022/01/14/covid-tests-insurance-reimbursement/6518277001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/02/USAT/be98fbcb-b2d8-4bc4-821f-94bf468db655-IMG_8560.jpg?crop=4031,2268,x0,y373&width=3200&height=1680&fit=bounds",
-            "publishedAt": "2022-01-15T01:57:38Z",
-            "content": "President Biden also announced that 1,000 military medical personnel will begin deploying to help overwhelmed medical facilities.\r\nUSA TODAY\r\nAmericans with health insurance can get up to eight at-ho… [+6867 chars]"
+            "author": "Erin Doherty",
+            "title": "Youngkin ends mandates for masks in schools and COVID vaccinations for state workers - Axios",
+            "description": "The GOP governor signed 11 executive orders following his swearing in ceremony earlier on Saturday.",
+            "url": "https://www.axios.com/youngkin-executive-orders-education-virginia-bda63263-5041-4626-a48f-6997d3785316.html",
+            "urlToImage": "https://images.axios.com/PaoqrUn6xc3m3u7gDu0lALkOvsE=/0x140:3479x2097/1366x768/2022/01/15/1642278654724.jpg",
+            "publishedAt": "2022-01-15T21:25:17Z",
+            "content": "Republican Gov. Glenn Youngkin signed 11 executive orders following his swearing in ceremony on Saturday, including those that overturn Virginia's mask mandate for public schools and a COVID vaccinat… [+520 chars]"
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Amy Cheng",
-            "title": "Epstein-Barr virus may increase risk of multiple sclerosis, 'Science' study says - The Washington Post",
-            "description": "The finding could incentivize pharmaceutical companies to invest in vaccines for the Epstein-Barr virus, which infects many people and is usually mild.",
-            "url": "https://www.washingtonpost.com/health/2022/01/14/epstein-barr-virus-multiple-sclerosis-mononucleosis/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IEETAPDUUUI6ZITNDQQ4C2Y4SM.jpg&w=1440",
-            "publishedAt": "2022-01-15T01:51:03Z",
-            "content": "The study said contracting EBV could increase by 32 times the risk of developing MS, and while the findings were praised by experts, they also noted that the results did not provide a definitive link… [+2840 chars]"
+            "author": "Michael E. Miller",
+            "title": "Novak Djokovic, in detention again, faces deportation hearing before Australian Open - The Washington Post",
+            "description": "A top Australian official said that the continued presence of Djokovic, who has expressed opposition to coronavirus vaccines, could exacerbate anti-vaccine sentiments and covid.",
+            "url": "https://www.washingtonpost.com/world/2022/01/15/novak-djokovic-australia-visa/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J6XEVGDVZII6ZITNDQQ4C2Y4SM.jpg&w=1440",
+            "publishedAt": "2022-01-15T21:15:47Z",
+            "content": "Thousands tuned in online to watch the legal court battle Sunday morning, eager to see the latest twist in a two-week saga that has sparked protests, investigations and diplomatic rifts and has threa… [+8243 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KING5.com"
+                "name": "Alabama's News Leader"
             },
-            "author": "Steve Bunin",
-            "title": "Washington state borrowers to get $35M in Navient settlement | king5.com - KING5.com",
-            "description": "It's part of a $1.7 billion settlement from a lawsuit against lender Navient led by state Attorney General Bob Ferguson",
-            "url": "https://www.king5.com/article/money/navient-student-loan-lawsuit-settlement-attorney-general-bob-ferguson/281-816af3c6-3f65-4089-8bba-1a95e6fb6171",
-            "urlToImage": "https://media.king5.com/assets/KING/images/c96f3365-f5d6-4b34-997b-3096bc97f380/c96f3365-f5d6-4b34-997b-3096bc97f380_1140x641.jpg",
-            "publishedAt": "2022-01-15T01:39:00Z",
-            "content": "SEATTLE Around 1,400 Washington residents will have their student loan debt erased, as part of a $1.7 billion settlement from a lawsuit led by state Attorney General Bob Ferguson.\r\nFerguson started t… [+2263 chars]"
+            "author": "CLAUDIO ESCALÓN, Associated Press",
+            "title": "Hundreds of migrants set off from Honduras toward US border - WLOS",
+            "description": "SAN PEDRO SULA, Honduras (AP) &mdash; Some 600 migrants hoping to reach the United States set off in a caravan Saturday from the northern Honduran city of San Pedro Sula. Hundreds of young men, women and children, most from Nicaragua, Honduras and Cuba, had g…",
+            "url": "https://abc3340.com/news/nation-world/hundreds-of-migrants-set-off-from-honduras-toward-us-border",
+            "urlToImage": "https://wlos.com/resources/media/fee972d5-9c2a-4ca4-b07b-8aca4bfed733-large16x9_AP22015663442243.jpg?1642279916650",
+            "publishedAt": "2022-01-15T20:58:13Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "The A.V. Club"
+            },
+            "author": "William Hughes",
+            "title": "Kanye West raps that he can \"beat Pete Davidson's ass\" in new collaboration with The Game - The A.V. Club",
+            "description": "Davidson has reportedly been dating the Coachella headliner's ex-wife, Kim Kardashian West",
+            "url": "https://www.avclub.com/kanye-west-raps-that-he-can-beat-pete-davidsons-ass-i-1848367613",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e56828f3cfcbce6b1bca24a221bedfc5.jpg",
+            "publishedAt": "2022-01-15T20:56:00Z",
+            "content": "Its gotta be exhausting to be The Game. You go to all the trouble to write a song, craft a beat, perform a verse, etc., and then your new artistic effort, on the whim of a mercurial collaborator, ins… [+1891 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
             },
             "author": null,
-            "title": "Kyle Shanahan Congratulates Samuel, Williams on 'Well Deserved' All-Pro Honors | 49ers - San Francisco 49ers",
-            "description": "Shanahan spoke about Deebo Samuel and Trent Williams earning first-team All-Pro honors, shared final injury updates before the 49ers Wild Card matchup in Dal...",
-            "url": "https://www.youtube.com/watch?v=9N1XpsVgexk",
-            "urlToImage": "https://i.ytimg.com/vi/9N1XpsVgexk/hqdefault.jpg",
-            "publishedAt": "2022-01-15T01:11:26Z",
+            "title": "2022 NFL Playoff odds, picks, line: Bills vs. Patriots prediction, Wild Card bets from top expert who's 20-11 - CBS Sports",
+            "description": "Hank Goldberg has dialed in on New England Patriots vs. Buffalo Bills in the 2022 NFL playoff bracket",
+            "url": "https://www.cbssports.com/nfl/news/2022-nfl-playoff-odds-picks-line-bills-vs-patriots-prediction-wild-card-bets-from-top-expert-whos-20-11/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/02/26/d309c32a-0111-4468-bd2c-b2a448fb84c1/thumbnail/1200x675/dcf9d1ad9f1151fcea8af61186e6c87c/stefon-diggs-1-1400.jpg",
+            "publishedAt": "2022-01-15T20:48:15Z",
+            "content": "The New England Patriots will try to continue the franchise's history of success in the playoffs when they take on the AFC East-rival Buffalo Bills in an NFL Super Wild Card Weekend game on Saturday.… [+3818 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Sameer Suri",
+            "title": "Celine Dion CANCELS North American leg of tour over 'severe and persistent muscle spasms' - Daily Mail",
+            "description": "Celine Dion has canceled the North American dates of her Courage world tour tour from March 9 to April 22. The 53-year-old singer was forced to scrap the shows by 'severe and persistent muscle spasms.'",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-10406255/Celine-Dion-CANCELS-North-American-leg-tour-severe-persistent-muscle-spasms.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/01/15/20/52971707-0-image-a-44_1642278075125.jpg",
+            "publishedAt": "2022-01-15T20:35:45Z",
+            "content": "Celine Dion has canceled the North American dates of her Courage world tour from March 9 to April 22.\r\nThe 53-year-old singer was forced to scrap the shows by 'severe and persistent muscle spasms,' a… [+4286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Audra D. S. Burch, Reed Abelson",
+            "title": "Hospitals Confront the Fallout From Supreme Court Ruling on Vaccine Mandate - The New York Times",
+            "description": "They could face more staff shortages, and workers and facilities could feel caught between opposing state and federal policies.",
+            "url": "https://www.nytimes.com/2022/01/15/us/healthcare-workers-vaccine-mandate.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/15/us/15healthcare-mandates-1/merlin_200009925_443867c9-be54-48eb-a9dd-ff9f496fd463-facebookJumbo.jpg",
+            "publishedAt": "2022-01-15T20:26:38Z",
+            "content": "While 21 states and the District of Columbiahave already mandated vaccines for health care workers, six Texas, Montana, Arkansas, Indiana, Tennessee and Georgia implemented bans that prohibited some … [+1847 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Michael M. Grynbaum",
+            "title": "One America News Will Be Dropped by DirecTV, a Major Distributor - The New York Times",
+            "description": "The right-wing network has aired conspiracies about the 2020 election, last year’s Capitol riot and the safety of coronavirus vaccines.",
+            "url": "https://www.nytimes.com/2022/01/15/business/media/one-america-news-directv.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/15/business/15oan1/15oan1-facebookJumbo.jpg",
+            "publishedAt": "2022-01-15T20:03:16Z",
+            "content": "Chanel Rion, the chief White House correspondent for One America News, derided DirecTV in a Twitter post on Friday that referred to the decision to drop the channel. With moves like this, DirecTV wil… [+1208 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alaa Elassar and Michelle Watson, CNN",
+            "title": "FBI assisting in hostage situation at Congregation Beth Israel in Colleyville, Texas - CNN",
+            "description": "The FBI and Texas Department of Public Safety are assisting a hostage situation at the Congregation Beth Israel in Colleyville, Texas, according to Colleyville Police Sgt. Dara Nelson.",
+            "url": "https://www.cnn.com/2022/01/15/us/colleyville-texas-hostage-situation/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220115150223-01-synagogue-hostage-colleyville-texas-super-tease.jpg",
+            "publishedAt": "2022-01-15T19:54:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "EXCLUSIVE Ukraine suspects group linked to Belarus intelligence over cyberattack - Reuters",
+            "description": "Kyiv believes a hacker group linked to Belarusian intelligence carried out a <a href=\"https://www.reuters.com/world/europe/expect-worst-ukraine-hit-by-cyberattack-russia-moves-more-troops-2022-01-14\" target=\"_blank\">cyberattack</a> that hit Ukrainian governme…",
+            "url": "https://www.reuters.com/world/europe/exclusive-ukraine-suspects-group-linked-belarus-intelligence-over-cyberattack-2022-01-15/",
+            "urlToImage": "https://www.reuters.com/resizer/jkokslOxKG2NH9zg1EKOhRWUqn4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UU5RZIJKTRI5DLXHK42LNSVOMA.jpg",
+            "publishedAt": "2022-01-15T19:28:00Z",
+            "content": "KYIV, Jan 15 (Reuters) - Kyiv believes a hacker group linked to Belarusian intelligence carried out a cyberattack that hit Ukrainian government websites this week and used malware similar to that use… [+3398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Michael Wines",
+            "title": "2020 Census Memo Cites ‘Unprecedented’ Meddling by Trump Administration - The New York Times",
+            "description": "Newly released documents show that top career officials at the Census Bureau had drafted a list of complaints about political interference in the 2020 count.",
+            "url": "https://www.nytimes.com/2022/01/15/us/2020-census-trump.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/16/world/16census-print1/00census1-facebookJumbo.jpg",
+            "publishedAt": "2022-01-15T19:23:16Z",
+            "content": "Mr. Ross said in his email that he had called state officials, both Republican and Democrat, who were slow or reluctant to share data with us.\r\nHe continued, The objective was to get the maximum sour… [+2593 chars]"
         },
         {
             "source": {
@@ -242,12 +151,12 @@
                 "name": "The Hill"
             },
             "author": "Lexi Lonas",
-            "title": "WHO recommends two new drugs to combat COVID-19 infection | TheHill - The Hill",
-            "description": "The World Health Organization (WHO) ...",
-            "url": "https://thehill.com/policy/healthcare/589869-who-recommends-two-new-drugs-to-combat-covid-19-infection",
-            "urlToImage": "https://thehill.com/sites/default/files/whoheadquartersworldhealthorganization_111620getty.jpg",
-            "publishedAt": "2022-01-15T00:49:37Z",
-            "content": "The World Health Organization (WHO) recommended two new drugs to combat COVID-19 infections.\r\nThe first new drug that is recommended for critical COVID-19 cases is baricitinib, an oral drug that supp… [+1218 chars]"
+            "title": "Unrest in Kazakhstan leaves 225 dead | TheHill - The Hill",
+            "description": "The violent protests that erupted in Kazakhstan at the beginning ...",
+            "url": "https://thehill.com/policy/international/589905-unrest-in-kazakhstan-leaves-225-dead",
+            "urlToImage": "https://thehill.com/sites/default/files/kazakhstan_010922ap.jpeg",
+            "publishedAt": "2022-01-15T18:18:59Z",
+            "content": "The violent protests that erupted in Kazakhstan at the beginning of January have left 225 people dead, according to the prosecutor general's office.\r\nSerik Shalabayev, the head of criminal prosecutio… [+1185 chars]"
         },
         {
             "source": {
@@ -255,12 +164,103 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "NFL Experts Share Super Wild Card Weekend Game Picks [Teams to Advance] | CBS Sports HQ - CBS Sports HQ",
-            "description": "Pete Prisco and Todd Furhman join CBS Sports HQ to share their bets for every NFL Wild Card game!0:00-3:16 Raiders vs Bengals3:17-5:32 Patriots vs Bills5:35-...",
-            "url": "https://www.youtube.com/watch?v=nKK3o6P3icc",
-            "urlToImage": "https://i.ytimg.com/vi/nKK3o6P3icc/hqdefault.jpg",
-            "publishedAt": "2022-01-15T00:34:14Z",
+            "title": "Bob Saget Laid to Rest in Funeral Attended By 'Full House' Co-Stars | THR News - The Hollywood Reporter",
+            "description": "Bob Saget was laid to rest Friday afternoon in Los Angeles in a small, intimate funeral of family and close friends including his 'Fuller House' co-stars Joh...",
+            "url": "https://www.youtube.com/watch?v=2il_qReZCJA",
+            "urlToImage": "https://i.ytimg.com/vi/2il_qReZCJA/maxresdefault.jpg",
+            "publishedAt": "2022-01-15T18:12:52Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Experts warn of more COVID-19 variants after Omicron - Axios",
+            "description": "\"The faster omicron spreads, the more opportunities there are for mutation.\"",
+            "url": "https://www.axios.com/covid-19-variants-pandemic-omicron-vaccines-76ae8fb8-7a25-4bc9-bde9-a33a30e3dced.html",
+            "urlToImage": "https://images.axios.com/Pzg5uoaSh7IqsMl8-UT4efqlAok=/0x688:8256x5332/1366x768/2022/01/15/1642267400744.jpg",
+            "publishedAt": "2022-01-15T17:43:46Z",
+            "content": "Experts are warning that subsequent COVID-19 variants are likely to come after Omicron, AP reports.\r\nWhy it matters: The warnings come as there's no guarantee that subsequent variants \"will cause mil… [+1612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "49ers Webzone"
+            },
+            "author": "David Bonilla",
+            "title": "Jimmy Garoppolo one of the reasons Colin Cowherd predicts 49ers to upset Cowboys - 49ers Webzone",
+            "description": "San Francisco 49ers fans are confident their team will emerge with a victory over the Dallas Cowboys this weekend, the opening weekend of the NFL playoffs. Kyle Shanahan's squad has become a bit of a",
+            "url": "https://www.49erswebzone.com/articles/154981-jimmy-garoppolo-reasons-colin-cowherd-predicts-49ers-cowboys/",
+            "urlToImage": "https://www.49erswebzone.com/v/jkayY9/content/media/article/54bcd3f291b9c9f36792e50d5e193bbf.jpg?social=true",
+            "publishedAt": "2022-01-15T17:29:10Z",
+            "content": "San Francisco 49ers fans are confident their team will emerge with a victory over the Dallas Cowboys this weekend, the opening weekend of the NFL playoffs. Kyle Shanahan's squad has become a bit of a… [+1748 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Market Rally Holds Key Support Again; 5 Stocks Near Buy Points - Investor's Business Daily",
+            "description": "The key indexes tested key levels but also didn't give up much ground last week.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-holds-key-support-apple-qualcomm-stock-near-buy-points/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2017/04/Bear.Bull_.NYSE_.png",
+            "publishedAt": "2022-01-15T17:03:00Z",
+            "content": "Dow Jones futures will open on Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally is teetering, with last week's short-lived rebound quickly fizzling.\r\nXThe sto… [+10761 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jon Levine",
+            "title": "Florida gay rights activist found dead in a landfill - New York Post ",
+            "description": "Jorge Diaz-Johnston, 54, was discovered in a trash heap the morning of Jan. 8 in Baker, Florida.",
+            "url": "https://nypost.com/2022/01/15/florida-gay-rights-activist-found-dead-in-a-landfill/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/activist-found-dead-comp.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-01-15T16:59:00Z",
+            "content": "A Florida gay rights activist was found dead in a landfill and the case is currently being investigated as a homicide, authorities said.\r\nJorge Diaz-Johnston, 54, was discovered in a trash heap the m… [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "New study finds ‘kissing disease’ virus is leading cause of multiple sclerosis - The Times of Israel",
+            "description": "Harvard researcher says developing a vaccine or treatment for Epstein-Barr infection 'could ultimately prevent or cure MS'",
+            "url": "https://www.timesofisrael.com/new-study-finds-kissing-disease-virus-is-leading-cause-of-multiple-sclerosis/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2022/01/AP22013662766487-e1642261229799-1024x640.jpg",
+            "publishedAt": "2022-01-15T16:57:20Z",
+            "content": "WASHINGTON — Multiple sclerosis, a neurodegenerative disease that has no cure and affects some 2.8 million people in the world, is largely driven by infection with the Epstein-Barr virus, according t… [+3031 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Nick Perry",
+            "title": "Volcano erupts in Pacific, West Coast under tsunami advisory - Associated Press",
+            "description": "WELLINGTON, New Zealand (AP) — An undersea volcano erupted in spectacular fashion Saturday near the Pacific nation of Tonga, sending tsunami waves crashing across the shore and people rushing to higher ground.",
+            "url": "https://apnews.com/article/media-environment-and-nature-new-zealand-tonga-d434936e25079859df8261780976def8",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6d9759977f3b4b499acf907938c5b1a6/3000.jpeg",
+            "publishedAt": "2022-01-15T16:30:00Z",
+            "content": "WELLINGTON, New Zealand (AP) An undersea volcano erupted in spectacular fashion Saturday near the Pacific nation of Tonga, sending tsunami waves crashing across the shore and people rushing to higher… [+8380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "J. Kim Murphy",
+            "title": "Box Office: ‘Scream’ Set to Dethrone ‘Spider-Man’ With $36 Million Holiday Weekend Debut - Variety",
+            "description": "Do you like scary movies? North American audiences still do, even as most other theatrical releases continue to struggle amid a pandemic. “Scream” is the latest horror film to make a sizable impression at the domestic box office, with an opening weekend that …",
+            "url": "https://variety.com/2022/film/box-office/box-office-scream-opening-weekend-1235154951/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/01/scream-paramount.jpg?w=1000",
+            "publishedAt": "2022-01-15T16:26:00Z",
+            "content": "Do you like scary movies? North American audiences still do, even as most other theatrical releases continue to struggle amid a pandemic. “Scream” is the latest horror film to make a sizable impressi… [+4567 chars]"
         }
     ]
 }
