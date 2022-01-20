@@ -1,136 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 34,
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "התובעת בניו יורק: \"שווי הנכסים של טראמפ נופח, לא נאפשר לו לחמוק מעדות\" - כלכליסט",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiNWh0dHBzOi8vbS5jYWxjYWxpc3QuY28uaWwvQXJ0aWNsZS5hc3B4P2d1aWQ9cmtueGJsYjZ50gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-01-19T10:30:49Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investing.com"
-            },
-            "author": null,
-            "title": "כמה העלאות ריבית צריך כדי להכניס את ארה\"ב למיתון? השוק מסמן שלא הרבה - Investing.com Israel",
-            "description": "סקירת שוק של אמיר כהנוביץ, בנושאים: USD/ILS, גולדמן זאקס, חוזים עתידיים על נפט ברנט, ארצות הברית שנתיים. קראו את הכתבה האחרונה של אמיר כהנוביץ ב-Investing.com",
-            "url": "https://il.investing.com/analysis/article-200433794",
-            "urlToImage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-            "publishedAt": "2022-01-19T10:30:29Z",
-            "content": "| , - |\r\n \" , 4 -2022, (50 \"). \" -1% , - , -10 , 1.87% ( 2020). \r\n , . , - 2%. \r\n, \" -10 2022 -2.30%. \r\n \" ? .\r\n| - \r\n , , 11 12 , , . \r\n \" \" , \" \" ( \")? \" .\r\n -86 , . \", . , , , 8.5%, \" -0.5% (, ). … [+200 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Maariv.co.il"
-            },
-            "author": "ליאל עזור",
-            "title": "\"היית לי עוגן והלכת\": אייל גולן נפרד מדניאל גרינברג - TMI",
-            "description": "\"סוף של כל סיפור\": אחרי שבוע בו אייל גולן פרסם טיזרים מטעים ברשתות, היום סוף סוף חושף את השיר החדש שלו שבו מדבר על הפרידה הטרייה",
-            "url": "https://tmi.maariv.co.il/celebs-news/Article-892403",
-            "urlToImage": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_533,w_758/653111",
-            "publishedAt": "2022-01-19T10:13:00Z",
-            "content": ", \" \". , , , , \" ?\"\r\n\" , , , \". , . \" , , \". , , . , . \r\n, \" \", , . , ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "G-rafa.co.il"
-            },
-            "author": "הודעה לעיתונות",
-            "title": "חדש בישראל: GARMIN משיקה שעונים בסדרות חדשות: FENIX 7 יחד עם EPIX (Gen 2) - ג'ירפה - Girafa",
-            "description": "חדש בישראל: GARMIN משיקה שעונים בסדרות חדשות: FENIX 7 יחד עם EPIX (Gen 2)",
-            "url": "https://g-rafa.co.il/garmin-fenix-7-with-epix-gen-2-in-israel/",
-            "urlToImage": "https://g-rafa.co.il/wp-content/uploads/2022/01/Garmin-Fenix-7.jpg",
-            "publishedAt": "2022-01-19T09:48:38Z",
-            "content": ", GARMIN , : - FENIX 7 - EPIX (GEN 2)  KSP .\r\n GARMIN FENIX 7 :\r\n Garmin FENIX 7. : Garmin\r\n. GPS , ( 4) Sapphire , , . 37 ( ). - FENIX 7 , , , 24/7, . - FENIX 7 , , ”, multi-LED . , - FENIX 7X ( ), … [+304 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "בדיקות ראשונות: Xclipse 920 ב-Exynos 2200 לא עומד בהבטחות - TGspot.co.il",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3LnRnc3BvdC5jby5pbC9maXJzdC1yZXN1bHRzLXNob3ctYWRyZW5vLTczMC1pcy1iZXR0ZXItdGhhbi14Y2xpcHNlLTkyMC_SAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-01-19T09:40:25Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Maariv.co.il"
+                "id": "ynet",
+                "name": "Ynet"
             },
             "author": "סוכנויות הידיעות",
-            "title": "חיילים אמריקאים בגבול? כך נערכת ארה\"ב לפלישה של רוסיה לאוקראינה - מעריב",
-            "description": "רוסיה ממשיכה לתגבר את כוחותיה באזור הגבול עם אוקראינה, דבר שהוביל את האמריקאים לבחון דרכים לתגבר את הצבא של השנייה, כדי שתוכל להתגונן במידת הצורך",
-            "url": "https://www.maariv.co.il/news/world/Article-892361",
-            "urlToImage": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/697614",
-            "publishedAt": "2022-01-19T09:35:00Z",
-            "content": null
+            "title": "ביידן מאיים על פוטין: מעריך שיפלוש לאוקראינה, זה יהיה אסון לרוסיה - ynet.co.il",
+            "description": "נשיא ארה\"ב מציין שנה לכהונתו, והערב ערך מסיבת עיתונאים מיוחדת בבית הלבן. ביידן, שמעריך שפוטין יפלוש לאוקראינה, הזהיר את נשיא רוסיה מעונשים חסרי תקדים: \"מעולם לא ראית סנקציות כאלה\". ביידן מתחיל את שנתו השנייה בתפקיד כנשיא לא פופולארי: \"רק שיעור התמיכה בטראמפ ה…",
+            "url": "https://www.ynet.co.il/news/article/hklbezity",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2020/08/07/10158731/10158731_0_0_640_360_0_large.jpg",
+            "publishedAt": "2022-01-19T21:47:59Z",
+            "content": "-365 : \" . , . -2 -210 \". \r\n: \" , \". \" \", . , . , , . \r\n-79 : \"\" 48.9% , , : 38.9 ."
         },
         {
             "source": {
                 "id": null,
-                "name": "Sport5.co.il"
+                "name": "Maariv.co.il"
             },
-            "author": null,
-            "title": "התכנית של בכר: צ'יבוטה, סייף ועוד - ספורט 5 - ערוץ הספורט",
-            "description": "אחרי ההודעה על הארכת החוזה עד 2024, מאמן מכבי חיפה כבר חושב על חיזוק הסגל לעונה הבאה. סיכוי גבוה יותר שחלוץ לודוגורץ יצטרף בקיץ והקיצוני של אשדוד יגיע בחינם. ומה לגבי דוניו?",
-            "url": "https://www.sport5.co.il/articles.aspx?folderid=64&docid=392210",
-            "urlToImage": "https://www.sport5.co.il/Sip_Storage/FILES/4/size944x700/1161084.jpg",
-            "publishedAt": "2022-01-19T09:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Timeout.co.il"
-            },
-            "author": null,
-            "title": "אייל שני זומם על אירופה: מתכוון לפתות עשרות מסעדות - טיים אאוט",
-            "description": "***",
-            "url": "https://timeout.co.il/אייל-שני-אירופה/",
-            "urlToImage": "https://medias.timeout.co.il/www/uploads/2021/05/WhatsApp-Image-2021-05-25-at-12.31.12-e1621935378207-1140x641.jpeg",
-            "publishedAt": "2022-01-19T08:45:24Z",
-            "content": ", ( ) . , .\r\n \"\" \" , 150 -5 . .\r\n SMB Capital , -120 . \" \" , \", .\r\n \"\", -48 , . . \" The Duchess ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Walla.co.il"
-            },
-            "author": "מערכת וואלה",
-            "title": "זה תסמין הקורונה החדש? אם אתם סובלים ממנו - כדאי שתלכו להיבדק - מעריב",
-            "description": "רופאים מדווחים על עלייה בתלונות על כאבי גב ושרירים מאז תחילתו של גל האומיקרון, ונתונים ממדינות שונות בעולם מאששים זאת. האם הזן החדש פוגע בשלד ובשרירים?",
-            "url": "https://healthy.walla.co.il/item/3483566",
-            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/2/9/7/4/2974879-46.jpg",
-            "publishedAt": "2022-01-19T08:19:33Z",
-            "content": "\" ' ' (bad player). - \", -HuffPost \" , \" . \r\n . . . , : , - -. \" , - - -."
+            "author": "אריק בנדר,יובל בגנו",
+            "title": "חורף אמיתי: סופת שלגים בצפת, שלג קל בירושלים - מעריב",
+            "description": "שלג כבד יורד ברמת הגולן ובצפת, וגם היום בוטלו הלימודים בגולן. שלג קל ירד בירושלים, בעירייה החליטו לדחות את פתיחת הלימודים לשעה 09:00 | עדכונים שוטפים",
+            "url": "https://www.maariv.co.il/weather/Article-892255",
+            "urlToImage": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/697685",
+            "publishedAt": "2022-01-19T20:30:00Z",
+            "content": ": () . , , . 09:00.\r\n , . , . ..! pic.twitter.com/2mIGfGnauv\r\n— (@WexlerSharon) January 19, 2022\r\npic.twitter.com/l5KKBsSude\r\n— yosi (@yoosiiiiii) January 19, 2022\r\n -35 . , . , , , . , 50 . \r\n\" 4×4 … [+523 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Haaretz.co.il"
             },
-            "author": "ספורט הארץ",
-            "title": "שרשרת הזהב האולימפית הגנובה של לינוי אשרם נמצאה במקרה במעצר סמים - הארץ",
-            "description": "לפני שבוע נגנבה מלינוי אשרם שרשרת שקיבלה ממשפחתה בעקבות זכייה במדליית הזהב. אתמול מצאה אותה המשטרה בג'סר א זרקא אצל קרוב של חשוד בהחזקת סם",
-            "url": "https://www.haaretz.co.il/sport/other/1.10549058",
-            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10549128.1642580502!/image/3708717169.jpg_gen/derivatives/headline_1200x630/3708717169.jpg?wtm=1.10549128",
-            "publishedAt": "2022-01-19T08:13:00Z",
-            "content": null
+            "author": "ג'קי חורי, יהונתן ליס",
+            "title": "דיווח: משלחת צבאית ישראלית הגיעה לסודאן לפגישה עם ראש המועצה הצבאית - הארץ",
+            "description": "לפי הדיווח ברשת אל-ערבייה, המשלחת תיפגש עם בכירים במועצה המנהלת את המדינה מאז ההפיכה. בישראל לא התייחסו לדיווח, אך הודו לאחרונה בניסיונות לתווך במשבר השלטוני במדינה האפריקאית",
+            "url": "https://www.haaretz.co.il/news/politics/1.10550884",
+            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10551017.1642623873!/image/2182230022.jpg_gen/derivatives/headline_1200x630/2182230022.jpg?wtm=1.10551017",
+            "publishedAt": "2022-01-19T20:12:00Z",
+            "content": "\" .  \r\n-, . , \r\n, . MOHAMED NURELDIN ABDALLAH/\r\n() , -. , - , . , . , .\r\n- - \" . . , .\r\n , . EL TAYEB SIDDIG/\r\n, , , , . \"\"  \"     \".\r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>\r\n\" \", . \r\n: \r\n, \r\n… [+73 chars]"
         },
         {
             "source": {
@@ -138,25 +47,77 @@
                 "name": "Walla.co.il"
             },
             "author": "מערכת וואלה",
-            "title": "סוכן שחקנים או מאמן שוערים? ההחתמה החדשה של מכבי תל אביב - וואלה! ספורט",
-            "description": "פאבול הרנציאריק בן ה-36 חתם עד תום העונה. שימש בעבר כמאמן השוערים של סלובן ברטיסלבה ובנגקוק יונייטד התאילנדית",
-            "url": "https://sports.walla.co.il/item/3483723",
-            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/3/6/3336105-46.jpg",
-            "publishedAt": "2022-01-19T08:11:00Z",
-            "content": "() ' . ' -36 . \r\n' . 2015-2017. 2018 2021, .\r\n, ' \", -2012 socceragency. , , .\r\n, ' , . : \" . 16 , . . , . \"."
+            "title": "הפועל חולון - בשיקטאש: חי מהמשחק המכריע בסדרת הפלייאין - וואלה! ספורט",
+            "description": "התעוררות של כריס גונסון הובילה את המארחת לריצת 0:14 ולמהפך לאחר רבע ראשון חלש. הסגולים חייבים ניצחון כדי לעלות",
+            "url": "https://sports.walla.co.il/item/3483853",
+            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/3/6/3336452-46.jpg",
+            "publishedAt": "2022-01-19T20:05:00Z",
+            "content": "3:\r\n-5 , -38:53 . 0:7, 8 . 55:52, , 52:58.\r\n 4:\r\n, , ', . 0:7 61:59 . -61:70, ."
         },
         {
             "source": {
                 "id": null,
-                "name": "Mako.co.il"
+                "name": "Haaretz.co.il"
             },
-            "author": "עמית ולדמן",
-            "title": "N12 - מחקר קורונה חדש: נשים בסיכון גבוה יותר לאבד את חוש הטעם... - mako",
-            "description": "חוקרים בארה\"ב סבורים שהם הצליחו להבין מדוע אנשים מסוימים מאבדים את חוש הריח לאחר שנדבקו בקורונה",
-            "url": "https://www.mako.co.il/news-lifestyle/2022_q1/Article-750674d26117e71027.htm",
-            "urlToImage": "https://img.mako.co.il/2020/06/28/RTS3GC6P_i.jpg",
-            "publishedAt": "2022-01-19T08:08:00Z",
-            "content": ". , , . .\r\n , -1.6 , . , - .\r\n\" ? \", \" ' , NBC. \" , \". , \" , \".\r\n | : \r\n , /90 \r\nNature Genetics – .\r\n . -11%.\r\n, 23andMe, \" . 69,841 , 68% .\r\n ,   ( UGT2A1 -UGT2A2). .\r\n , | : \r\n , , 90, /90 \r\n\" \", … [+66 chars]"
+            "author": "יהושע (ג'וש) בריינר",
+            "title": "המשטרה משתמשת בתוכנת ריגול של NSO עשרות פעמים בשנה - הארץ",
+            "description": "בארגון בודקים את כל המקרים שבהם נעשה שימוש בתוכנה, ולפי כמה מקורות עוד לא נמצא מקרה שבו פעלה המשטרה בלי צו שופט או בניגוד אליו. מקור במערכת אכיפת החוק: באחרונה נעשה שימוש בתוכנה בחקירת רצח בחברה הערבית ובחקירת שחיתות ברשות מקומית",
+            "url": "https://www.haaretz.co.il/news/law/.premium-1.10550955",
+            "urlToImage": "https://img.haarets.co.il/img/1.10551136/2620536562.jpg?precrop=2137,1241,x63,y16&height=698&width=1200",
+            "publishedAt": "2022-01-19T19:35:00Z",
+            "content": "NSO . , \"\". (), \"\" NSO - - . .   -."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "0404.co.il"
+            },
+            "author": null,
+            "title": "כפי שפורסם ב-0404: חיים סילבס מונה למאמן בני סכנין - 0404 - חדשות 0404",
+            "description": "חיים סילבס מונה למאמן בני סכנין עד תום העונה - כך הודיע הערב (רביעי) המועדון רשמית.  על מועמדותו של סילבס לסכנין פורסם לראשונה ב-0404. סילבס יחליף בתפקיד",
+            "url": "https://www.0404.co.il/?p=794336",
+            "urlToImage": "https://www.0404.co.il/wp-content/uploads/2020/08/9B4F5FC1-10AA-4459-BDFB-BDF9E94EAAF4-e1597009384553.jpeg",
+            "publishedAt": "2022-01-19T19:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "One.co.il"
+            },
+            "author": "איציק כלפי",
+            "title": "אספרייה, טיבי, אבו עביד ופטרוצ'י חיוביים בב\"ש - One",
+            "description": "מכה לדרומיים: יומיים לאחר ההפסד במשחק העונה ומלבד לופס, יחזקאל ואליאסי, גם ארבעת השחקנים המשמעותיים חלו בקורונה. יחמיצו את מכבי פ\"ת בראשון",
+            "url": "https://www.one.co.il/Article/402064.html",
+            "urlToImage": "https://photo.one.co.il/Image/GG/7,1/1576920.jpg",
+            "publishedAt": "2022-01-19T18:52:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ynet",
+                "name": "Ynet"
+            },
+            "author": "טובה צימוקי, סיון חילאי, גלעד מורג",
+            "title": "בתום פגישה נוספת עם נתניהו: צוות ההגנה מעריך שהסיכויים להסדר עם מנדלבליט קטנים מאוד - ynet.co.il",
+            "description": "נמשכים המגעים הקדחתניים להסכם ברגע האחרון: בימים הספורים שנותרו לכהונתו של מנדלבליט מנסים פרקליטיו של נתניהו לשכנע אותו שלא תהיה הזדמנות טובה יותר - אך המו\"מ טרם הבשיל. גם במשרד המשפטים מעריכים שהסיכויים קטנו משמעותית, אך בצוות התביעה נערכים לתקן את כתב האישום",
+            "url": "https://www.ynet.co.il/news/article/rkqdhpbpt",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2021/11/16/HkQOUJ1100t/HkQOUJ1100t_0_0_2880_1622_0_large.jpg",
+            "publishedAt": "2022-01-19T18:50:00Z",
+            "content": ", 4000 ( -) -1000 ( ) 4000 2000 ( -), . \" , \", . , ."
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "משרד האוצר: בשנת 2021 יחס חוב תוצר ציבורי ירד בשיעור של 1.4% - קול חי",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiJGh0dHBzOi8vd3d3LjkzZm0uY28uaWwvcmFkaW8vNzYxMTQ1L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-01-19T17:10:36Z",
+            "content": null
         },
         {
             "source": {
@@ -164,77 +125,77 @@
                 "name": "Ynet"
             },
             "author": "תומר חבז",
-            "title": "וילדסחוט: מכבי נתניה הרוויחה שחקן ואדם מצוין - ynet.co.il",
-            "description": "אקס מכבי חיפה, ששיחק עם בלמם החדש של היהלומים פלאמן גאלבוב: \"המלצתי לו מיד לחתום\". אקס הפועל ת\"א טופוזאקוב: \"מדובר בשחקן הגנה פנטסטי\"",
-            "url": "https://www.ynet.co.il/sport/article/one401992",
-            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2022/01/19/one1517759/one1517759_0_0_800_444_0_large.jpg",
-            "publishedAt": "2022-01-19T07:39:57Z",
-            "content": ", -ONE, , \" . . , . 50 . 2022-2023 , 50 .\r\nONE : \"\"\" ( ), , . . \", ."
+            "title": "אלמוג כהן הורחק ממשחק אחד: הרגשתי מותקף - ynet.co.il",
+            "description": "השחקן עמד לדין על כך שמחה בפני השופט גרינפלד וספג את עונשו. בדיון טען: \"אמר לי 'מי אתה בכלל?'. נתניה נקנסה ב-15,000 ש\"ח בגין התפרעות אוהדים",
+            "url": "https://www.ynet.co.il/sport/article/one402054",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2022/01/19/one1576892/one1576892_0_0_800_444_0_large.jpg",
+            "publishedAt": "2022-01-19T16:29:11Z",
+            "content": ". () ( ) , . , -15,000 , .\r\n: , . ( ). . . . , ?, . , . , ."
         },
         {
             "source": {
                 "id": null,
-                "name": "Inn.co.il"
+                "name": "Www.gov.il"
             },
             "author": null,
-            "title": "משרד הבריאות בוחן: ביטול בידוד לתלמידים מהשבוע הבא - ערוץ 7",
+            "title": "החלה ירידה בפעילות נגיף השפעת במדינת ישראל - Gov.il",
             "description": null,
-            "url": "https://www.inn.co.il/news/538384",
+            "url": "https://www.gov.il/he/departments/news/19012022-02",
             "urlToImage": null,
-            "publishedAt": "2022-01-19T07:22:00Z",
+            "publishedAt": "2022-01-19T16:27:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Walla.co.il"
+                "name": "Jdn.co.il"
             },
-            "author": "וואלה! כסף",
-            "title": "האם אייל שני ייאלץ להתפנות מבית רומנו? - וואלה! כסף",
-            "description": "בית רומנו, בית הסוחרים המיתולוגי ברחוב יפו בתל אביב בו פועלת מסעדתו המפורסמת של השף אייל שני, ״רומנו״, עומד למכירה",
-            "url": "https://finance.walla.co.il/item/3483708",
-            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/2/4/3/7/2437562-46.jpg",
-            "publishedAt": "2022-01-19T07:08:00Z",
-            "content": "walla_ssr_page_has_been_loaded_successfully"
+            "author": null,
+            "title": "אחרי ההחלטה על קיצור ימי הבידוד: שינוי נוסף במתווה למאומתים - חדשות JDN - JDN",
+            "description": "אחרי ההחלטה כי מאומתים לא צריכים להיות בבידוד יותר מחמישה ימים, מודיעים על שינוי במתווה • מאומת שלא ביצע בדיקות בימים 4 ו-5 לבידוד או שלא קיבל שתי תוצאות שליליות בבדיקות שביצע - ישהה בבידוד עד תום היום ה-7",
+            "url": "https://www.jdn.co.il/news/israel/1680555/",
+            "urlToImage": "https://www.jdn.co.il/wp-content/uploads/2022/01/F220105OF15-3.jpg",
+            "publishedAt": "2022-01-19T16:14:36Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Walla.co.il"
+                "name": "Calcalist.co.il"
             },
-            "author": "מערכת וואלה",
-            "title": "אחרי המחאה: ליברמן וטרופר סיכמו על חבילת סיוע לענף התרבות - וואלה! תרבות",
-            "description": "משרדי האוצר והתרבות סיכמו על חבילת סיוע לחודשים ינואר-פברואר שכוללת 28 מיליון שקלים שיועברו למוסדות התרבות שימשיכו להעסיק עובדים באופן רציף",
-            "url": "https://e.walla.co.il/item/3483699",
-            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/3/5/3335859-46.jpg",
-            "publishedAt": "2022-01-19T07:02:00Z",
-            "content": ", -200 , , \" \". , \", \" , \" , , , , , , , .\r\n\" \", ! . \" - , , - ' ' . . , . . \"."
+            "author": null,
+            "title": "בלומברג: בום ההשקעות בהייטק הישראלי מרשים אך מסוכן - כלכליסט",
+            "description": "בזמן שהמשקיעים הזרים עטים על החברות המקומיות עם הרים של מזומנים, המשקיעים המקומיים, שהיו עד לא מזמן הרוב, מזהירים מפני התכווצות תעשיית ההון סיכון בארץ נוכח הקושי להתחרות בענקיות העולמיות. סקטור הטכנולוגיה הישראלית בצומת מרכזי",
+            "url": "https://www.calcalist.co.il/calcalistech/article/bji3k5sty",
+            "urlToImage": "https://images1.calcalist.co.il/picserver3/crop_images/2022/01/02/SJiyf81ht/SJiyf81ht_0_0_1023_531_0_large.jpg",
+            "publishedAt": "2022-01-19T15:29:57Z",
+            "content": "\" \", , , 30 . 70% . -2021, , - WalkMe - -2 \". , , -Sequoia Capital (IPO) -9 . \r\n' , , . , \" , 3.4 , . \" \", . \" , \", . \" \". \r\n, . , Dynamic Yield -300 ', . , . \r\n, , , 850 , \" \". , . \" 100 \", . \" 10 ,… [+77 chars]"
         },
         {
             "source": {
                 "id": "ynet",
                 "name": "Ynet"
             },
-            "author": "איתי יעקב",
-            "title": "\"היה גדול מהחיים\": עורך האופנה הנודע אנדרה ליאון טאלי הלך לעולמו בגיל 73 - ynet.co.il",
-            "description": "במשך למעלה מ-40 שנה הוא היה קול בולט בעיתונות האופנה האמריקנית ונודע בעבודתו במגזין ווג, שם ניהל יחסים מורכבים עם אנה ווינטור. עולם האופנה נפרד מהאיש עם גלימות המשי הצבעוניות",
-            "url": "https://www.ynet.co.il/fashion/article/hjae2mbaf",
-            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2022/01/19/BkV00xZ7HTt/BkV00xZ7HTt_51_672_1533_863_0_large.jpg",
-            "publishedAt": "2022-01-19T06:33:00Z",
-            "content": null
+            "author": "ynet והסוכנויות",
+            "title": "מורדים שמרנים נגד ג'ונסון: \"למען השם, לך\"; ראש הממשלה: \"לא מתפטר\" - ynet.co.il",
+            "description": "ר\"מ בריטניה נלחם על עתידו הפוליטי, בצל שערוריית המסיבות במעונו בזמן הסגר. אחרי שנחשף שמספר משמעותי של חברי סיעה יביעו בו אי-אמון ג'ונסון התייצב בפרלמנט, הבהיר שהוא לא מתפטר וביקש להמתין לתוצאות החקירה. מחוקק שמרן ערק ללייבור והטיח בג'ונסון: \"אתה לא מסוגל לספק…",
+            "url": "https://www.ynet.co.il/news/article/sjdffcbpt",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2022/01/19/Hy843jr6F/Hy843jr6F_0_0_3000_1689_0_large.jpg",
+            "publishedAt": "2022-01-19T15:29:51Z",
+            "content": "' , . ' 10 , , - - . ' , -20 2020, , \" \". \r\n\" \", , . \" \". , , -1940 ': \" . , \". \r\n' , \" 1922\" - . -20 - ', . \" 15% . 360 , 54 . BBC, , - -54. \r\n'. \" \", ' , '. ' , , - \"\". ' -2019, ."
         },
         {
             "source": {
                 "id": null,
-                "name": "Srugim.co.il"
+                "name": "Calcalist.co.il"
             },
             "author": null,
-            "title": "היום – קיצור הבידוד נכנס לתוקף, מה הנהלים? - סרוגים",
-            "description": "סרוגים | מהיום תיכנס לתוקף השינוי במדיניות, כאשר הבידוד יעמוד על חמישה ימים במקום שבעה. מי שמאומת ישתחרר לאחר ביצוע בדיקת אנטיגן ביום ה-4 וביום ה-5, בתנאי שאין תסמינים",
-            "url": "https://www.srugim.co.il/638637-היום-קיצור-הבידוד-נכנס-לתוקף-מה-הנהלי",
-            "urlToImage": "https://www.srugim.co.il/i/wp-content/uploads/2022/01/F220111YS31-scaled__w600h400q80.jpg",
-            "publishedAt": "2022-01-19T06:27:52Z",
-            "content": "-00:00 ( ) .\r\n,     \" , . 48 .\r\n :\r\n1.   5 , 4 , 5 , .\r\n2.   .\r\n3. / -60 , 5 , . .\r\n 60 :  , -PCR 60 . , , , ( 60 ), PCR .\r\n\" \"\r\n , , \" \". . , 85% \".\r\n ? ? ? /"
+            "title": "ארה\"ב תחלק בחינם בדיקות קורונה ו-400 מיליון מסכות N95 - כלכליסט",
+            "description": "המהלך מגיע לאחר שהנשיא ביידן וצוותו ספגו ביקורת על כך שלא עשו מספיק כדי לעודד עטיית מסכות ולהגביר את כמות הבדיקות. המסכות הלא כירורגיות יופצו בבתי מרקחת ומרכזי בריאות קהילתיים ברחבי ארה\"ב, ויחולקו משבוע הבא. בנוסף הושק אתר להזמנת בדיקות קורונה הביתה בחינם, עד…",
+            "url": "https://www.calcalist.co.il/world_news/article/bklyyqbpy",
+            "urlToImage": "https://images1.calcalist.co.il/picserver3/crop_images/2022/01/19/ry4o11KrTt/ry4o11KrTt_0_0_960_541_0_large.jpg",
+            "publishedAt": "2022-01-19T15:28:51Z",
+            "content": "window._taboola = window._taboola || [];\r\n _taboola.push({flush: true});"
         },
         {
             "source": {
@@ -242,25 +203,64 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "אומיקרון: העומס הנגיפי יכול להיות בשיאו ביום החמישי כך שאין הגיון בקיצור תקופת הבידוד - הידען",
+            "title": "מיקרוסופט: שירות מתחרה ל-Game Pass מבית סוני הוא בלתי נמנע - TGspot.co.il",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMi4AFodHRwczovL3d3dy5oYXlhZGFuLm9yZy5pbC8lRDclOTAlRDclOTUlRDclOUUlRDclOTklRDclQTclRDclQTglRDclOTUlRDclOUYtJUQ3JTk0JUQ3JUEyJUQ3JTk1JUQ3JTlFJUQ3JUExLSVENyU5NCVENyVBMCVENyU5MiVENyU5OSVENyVBNCVENyU5OS0lRDclOTklRDclOUIlRDclOTUlRDclOUMtJUQ3JTlDJUQ3JTk0JUQ3JTk5JUQ3JTk1JUQ3JUFBLSVENyU5MSVENyVBOSVENyU5OSVENyU5MNIBAA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vd3d3LnRnc3BvdC5jby5pbC9taWNyb3NvZnQtc2F5cy10aGF0LWEtc29ueS1nYW1lLXBhc3MtcmV2ZWFsLWlzLWluZXZpdGFibGUv0gEA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-01-19T06:00:34Z",
+            "publishedAt": "2022-01-19T14:22:37Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Weizmann.ac.il"
+                "name": "Ice.co.il"
+            },
+            "author": "מערכת ice",
+            "title": "אייל שני מסתער על אירופה: זה מספר המסעדות שיקים - אייס",
+            "description": "השף הבינלאומי ושותפו שחר סגל חתמו על עסקת ענק בה יוקמו עד 150 מסעדות בחמש השנים הקרובות במרכז ומערב אירופה. ההסכם נחתם עם יזם הנדל\"ן לירן ויצמן שחלק מהמסעדות ייבנו במלונות בבעלותו",
+            "url": "http://www.ice.co.il/financial-gossip/news/article/841478",
+            "urlToImage": "https://img.ice.co.il/giflib/news/8ice18042021.jpg",
+            "publishedAt": "2022-01-19T13:40:00Z",
+            "content": "( 90)\r\nSMB Capital , , -120 , . - , \"' \" , . 36 , , , , .\r\n, , ' 48 . , , ', SMB. , . - \r\n, . 2 , . . , . 3-2 .\r\n\"' \" Seven North, 2020, ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Calcalist.co.il"
             },
             "author": null,
-            "title": "האם יש קשר בין מחלת הנשיקה לטרשת נפוצה? - Davidson Online",
-            "description": "מחקר רחב היקף מצא כי גורם הסיכון המשמעותי ביותר להתפתחות טרשת נפוצה הוא הנגיף  הגורם למחלת הנשיקה",
-            "url": "https://davidson.weizmann.ac.il/online/sciencenews/%D7%94%D7%90%D7%9D-%D7%99%D7%A9-%D7%A7%D7%A9%D7%A8-%D7%91%D7%99%D7%9F-%D7%9E%D7%97%D7%9C%D7%AA-%D7%94%D7%A0%D7%A9%D7%99%D7%A7%D7%94-%D7%9C%D7%98%D7%A8%D7%A9%D7%AA-%D7%A0%D7%A4%D7%95%D7%A6%D7%94",
-            "urlToImage": "https://d15djgxczo4v72.cloudfront.net/s3fs-public/styles/small_square_article_image_new/public/articleImages/square/C0521484-Multiple_sclerosis_MRI_580.jpg?itok=nrpfRYQ0",
-            "publishedAt": "2022-01-19T06:00:00Z",
-            "content": "(Multiple Sclerosis) , . , . , , , , . , . , , . - (Epstein-Barr virus EBV). \r\nEBV , (Infectious mononucleosis). -90 . , , .  , , .\r\n . (, , ), () | : HOARAU HUGUES DOMINIQUE / BSIP / SCIENCE PHOTO L… [+444 chars]"
+            "title": "המדינה דוחה את טענות ההסתדרות: מותר לפרוק מטען כללי בנמלים הפרטיים - כלכליסט",
+            "description": "במכתב התשובה של אגף התקציבים ומשרד התחבורה נאמר כי פריקה של אונייה הנושאת מטען כללי בנמל המפרץ נעשית בהתאם לדין. עוד נטען כי המצב המשפטי הזה היה ידוע לכלל הגורמים המעורבים בהליכים לאורך השנים. אבי אדרי, יו\"ר איגוד התחבורה בהסתדרות: \"המכתב שלהם מנותק מהמציאות\"",
+            "url": "https://www.calcalist.co.il/local_news/article/ryqywohak",
+            "urlToImage": "https://images1.calcalist.co.il/picserver3/crop_images/2021/12/21/rk00if00JsF/rk00if00JsF_0_89_2500_1408_0_large.jpg",
+            "publishedAt": "2022-01-19T12:24:14Z",
+            "content": ", : \" , . . , \", , ' , '. , \", , - \". \" , , \". \r\nwindow._taboola = window._taboola || [];\r\n _taboola.push({flush: true});"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bizportal.co.il"
+            },
+            "author": null,
+            "title": "השוק מאמין שסוני תפסיד בתחרות מול מייקרוסופט: המניה התרסקה ב-13% - Bizportal",
+            "description": "מניית סוני התרסקה בטוקיו, בשיעור שלא נראה מאז 2008, וזאת לאחר שאמש ענקית הטכנולוגיה מיקרוסופט הודיעה על רכישת חברת הגיימינג אקטיביז'ן בליזארד בתמורה ל-69 מיליארד דולר; \"בפני סוני עומד אתגר מונומנטלי לעמוד בפני עוצמתה של מלחמת ההתשה הזו\"",
+            "url": "https://www.bizportal.co.il/globalmarkets/news/article/800302",
+            "urlToImage": "https://res.cloudinary.com/bizportal/image/upload/v1609665178/giflib/news/gaming_643698970.jpg",
+            "publishedAt": "2022-01-19T12:00:00Z",
+            "content": "SONY GROUP CORPORATION AMERICAN0%SONY GROUP115.840%:0:0:0:0:-- : -13% ( \" -4%, 7%), 2008.   \r\nMICROSOFT+2.56%MICROSOFT310.39+2.56%:0:306.28:313.91:305.3:-- :   ,  '  \r\nACTIVISION BLIZZARD-0.46%ACTIVI… [+300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jcpa.org.il"
+            },
+            "author": null,
+            "title": "התקיפה על אבו דאבי: הידיים ידי איראן - המרכז הירושלמי לענייני ציבור ומדינה",
+            "description": "גורמי ביטחון בכירים בישראל מעריכים כי איראן עומדת מאחורי התקפת המורדים החות'ים על אבו דאבי וכי היא שנתנה \"אור ירוק\" להתקפה • ההתקפה הייתה מבצע צבאי מוצלח ושילוב של ירי טילים בליסטיים ומל\"טים ממרחק רב, דבר שמעיד על יכולת צבאית של החות'ים לתקוף גם מטרות בישראל",
+            "url": "https://jcpa.org.il/article/התקיפה-באבו-דאבי-הידיים-ידי-איראן/",
+            "urlToImage": null,
+            "publishedAt": "2022-01-19T11:01:42Z",
+            "content": "\" ' -17 .\r\n ' \" \" .\r\n 3 -6 3 , ' , ' 12 .\r\n' 5 \" 2\" \"\" \" \" 3\". ' ' , , : \" \".\r\n#Yemen#Houthi#UAE#KSA####\r\nStatement of the Yemeni Armed Forces on#Operation_cyclone_Yemen(targeting the Emirati depth)J… [+550 chars]"
         }
     ]
 }
