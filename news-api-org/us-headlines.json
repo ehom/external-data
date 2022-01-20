@@ -1,188 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 38,
     "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob Picheta and Sharon Braithwaite, CNN",
+            "title": "Two men arrested in UK as part of investigation into Texas synagogue standoff, police say - CNN",
+            "description": "Two men have been arrested in the UK cities of Birmingham and Manchester as part of the ongoing investigation into the Texas synagogue hostage standoff, Greater Manchester Police said Thursday in a statement.",
+            "url": "https://www.cnn.com/2022/01/20/uk/texas-synagogue-manchester-arrested-intl-gbr/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220116222953-02-hostage-congregation-beth-israel-colleyville-texas-super-tease.jpg",
+            "publishedAt": "2022-01-20T09:21:00Z",
+            "content": null
+        },
         {
             "source": {
                 "id": "reuters",
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Biden says he believes Russia will 'move in' to Ukraine - Reuters",
-            "description": "U.S. President Joe Biden predicted on Wednesday that Russian President Vladimir Putin will make a move into Ukraine and said Russia would pay dearly for a full-scale invasion, with its businesses possibly losing access to the U.S. dollar.",
-            "url": "https://www.reuters.com/world/europe/blinken-says-russian-attack-ukraine-could-come-very-short-notice-2022-01-19/",
-            "urlToImage": "https://www.reuters.com/resizer/_Yap0nQ8NYZ7rJ2SuoPPA88fMeg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HMIRSGQ5AJNHTCTGVCJDQQAJNY.jpg",
-            "publishedAt": "2022-01-19T22:35:00Z",
-            "content": "WASHINGTON/KYIV, Jan 19 (Reuters) - U.S. President Joe Biden predicted on Wednesday that Russian President Vladimir Putin will make a move into Ukraine and said Russia would pay dearly for a full-sca… [+2933 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Brianna Abbott",
-            "title": "Prior Covid-19 Infection Offered Better Protection Than Vaccination During Delta Wave - The Wall Street Journal",
-            "description": "CDC says research from California and New York before Omicron’s spread showed unvaccinated people without previous infection faced greatest risk",
-            "url": "https://www.wsj.com/articles/prior-covid-19-infection-offered-better-protection-than-vaccination-during-delta-wave-11642619009",
-            "urlToImage": "https://images.wsj.net/im-470211/social",
-            "publishedAt": "2022-01-19T22:31:00Z",
-            "content": "Surviving a previous infection provided better protection than vaccination against Covid-19 during the Delta wave, federal health authorities said, citing research showing that both the shots and rec… [+3620 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Heat.com"
-            },
-            "author": "bramos",
-            "title": "Celtics Acquire Bol Bol, P.J. Dozier in Three-Team Deal - Celtics.com",
-            "description": "The Boston Celtics have acquired center Bol Bol, and guard P.J. Dozier from the Denver Nuggets as part of a three-team deal with Denver and San Antonio.",
-            "url": "https://www.nba.com/celtics/news/pressrelease/celtics-acquire-bol-bol-pj-dozier-three-team-deal",
-            "urlToImage": "https://www.nba.com/celtics/sites/celtics/files/hp_generic-item-thumbnail_lg_0.jpg?cw=700&ch=500&w=833&h=500&x=67&y=0",
-            "publishedAt": "2022-01-19T22:01:12Z",
-            "content": "BOSTON, MA The Boston Celtics have acquired center Bol Bol, and guard P.J. Dozier from the Denver Nuggets as part of a three-team deal with Denver and San Antonio, the team announced today. Boston se… [+1158 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Guardian staff reporter",
-            "title": "Dak Prescott ‘deeply regrets’ condoning Cowboys fans’ attacks on refs - The Guardian",
-            "description": "Dak Prescott apologized Tuesday night for his comments that condoned Dallas Cowboys fans throwing objects at NFL officials after the team’s playoff loss",
-            "url": "https://amp.theguardian.com/sport/2022/jan/19/dak-prescott-deeply-regrets-condoning-cowboy-fans-attacks-on-refs",
-            "urlToImage": null,
-            "publishedAt": "2022-01-19T21:58:54Z",
-            "content": "Dallas Cowboys<ul><li>Fans threw objects at officials after playoff loss</li><li>Game ended with controversial run play from Dallas</li></ul>\r\nWed 19 Jan 2022 12.54 GMT\r\nDak Prescott apologized Tuesd… [+2892 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Leslie Josephs",
-            "title": "United warns omicron will delay travel recovery, drive up costs - CNBC",
-            "description": "The Chicago-based airline said it expects first-quarter revenue to be 20% to 25% below the same period in 2019 when it generated $9.59 billion.",
-            "url": "https://www.cnbc.com/2022/01/19/united-ual-earnings-4q-21.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107003097-1642600129660-gettyimages-1365465975-030a0038_2022011835139395.jpeg?v=1642600179",
-            "publishedAt": "2022-01-19T21:32:52Z",
-            "content": "United Airlines said the surge in Covid-19 infections has hurt bookings in recent weeks and will further delay its recovery from the pandemic.\r\nThe Chicago-based airline said it expects first-quarter… [+2214 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBC10 Boston"
-            },
-            "author": "Mary Markos",
-            "title": "‘We Were Wrong': Boston Doctors Call for Change in COVID Vaccine Expectations - NBC10 Boston",
-            "description": "An Israeli hospital Israel said preliminary research shows a fourth dose of the coronavirus vaccine does boost antibodies, but it's not enough to stop the…",
-            "url": "https://www.nbcboston.com/news/local/we-were-wrong-boston-doctors-call-for-change-in-covid-vaccine-expectations/2616050/",
-            "urlToImage": "https://media.nbcboston.com/2022/01/106951692-1641579698762-abc.jpg?quality=85&strip=all&resize=1200%2C675",
-            "publishedAt": "2022-01-19T21:24:45Z",
-            "content": "An Israeli hospital said preliminary research shows a fourth dose of the coronavirus vaccine does boost antibodies, but it's not enough to stop the spread of omicron. Yet medical experts and public o… [+4708 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Mychael Schnell",
-            "title": "Researchers say Earth's core may be cooling 'more rapidly than expected' - The Hill",
-            "description": "Researchers are warning that the Earth‘s core may be cooling “mor...",
-            "url": "https://thehill.com/policy/energy-environment/590454-researchers-say-earths-core-may-be-cooling-more-rapidly-than",
-            "urlToImage": "https://thehill.com/sites/default/files/earth_08152019_1.jpg",
-            "publishedAt": "2022-01-19T21:03:02Z",
-            "content": "Researchers are warning that the Earths core may be cooling more rapidly than expected, which could speed up the timeline for when the planet becomes uninhabitable for humans.\r\nIn a paper published i… [+1893 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Adam Liptak",
-            "title": "Sotomayor and Gorsuch Address Reports of Conflicts Over Masks - The New York Times",
-            "description": "Justice Sonia Sotomayor, who has diabetes, has been participating in Supreme Court arguments remotely. Justice Neil M. Gorsuch, her seatmate, is the only member of the court who does not wear a mask.",
-            "url": "https://www.nytimes.com/2022/01/19/us/politics/supreme-court-masks.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/01/19/us/politics/19dc-scotus-mask/19dc-scotus-mask-facebookJumbo.jpg",
-            "publishedAt": "2022-01-19T20:28:47Z",
-            "content": "WASHINGTON In an unusual joint statement on Wednesday, Justices Sonia Sotomayor and Neil M. Gorsuch sought to rebut reports that Justice Gorsuchs refusal to wear a mask at Supreme Court arguments has… [+834 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "William Mauldin, Ann M. Simmons",
-            "title": "Blinken Seeks to Reassure Ukraine as Russia Moves Troops in Region - The Wall Street Journal",
-            "description": "Moscow has deployed forces to its ally Belarus, adding to the troops already positioned along Ukraine’s borders",
-            "url": "https://www.wsj.com/articles/blinken-seeks-to-reassure-ukraine-as-russia-moves-troops-in-region-11642598181",
-            "urlToImage": "https://images.wsj.net/im-469978/social",
-            "publishedAt": "2022-01-19T20:26:00Z",
-            "content": "The Biden administrations top diplomat sought to reassure Ukraines president of unified support from the West but warned that Russia could invade as concerns mounted over Moscows deployment of troops… [+293 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Ellen Barry",
-            "title": "Survey of Americans Who Attempted Suicide Finds Many Aren’t Getting Care - The New York Times",
-            "description": "The number of people who try suicide has risen steadily in the U.S. But despite gains in health coverage, nearly half are not getting mental health treatment.",
-            "url": "https://www.nytimes.com/2022/01/19/health/suicide-attempts-us.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/01/19/science/19suicide/1suicide-facebookJumbo.jpg",
-            "publishedAt": "2022-01-19T20:21:41Z",
-            "content": "Since people who try suicide have a higher likelihood of making another attempt in the next six months compared with the general population, the barriers to treatment are particularly troubling, he s… [+1424 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Matthew Dalton, Laurence Norman, Drew Hinshaw",
-            "title": "Russian Military Buildup Triggers European Defense Anxieties - The Wall Street Journal",
-            "description": "French President Emmanuel Macron takes helm of EU’s rotating presidency with a call for Europe to chart its own defense course aside from NATO",
-            "url": "https://www.wsj.com/articles/russian-military-buildup-triggers-european-defense-anxieties-11642623623",
-            "urlToImage": "https://images.wsj.net/im-470352/social",
-            "publishedAt": "2022-01-19T20:20:00Z",
-            "content": null
+            "title": "China cuts key rates, steps up monetary stimulus to boost economy - Reuters",
+            "description": "China lowered mortgage lending benchmark rates on Thursday as monetary authorities step up efforts to prop up the slowing economy, after data earlier in the week pointed to a darkening outlook for the country's troubled property sector.",
+            "url": "https://www.reuters.com/markets/europe/china-cuts-mortgage-reference-rate-first-time-nearly-two-years-2022-01-20/",
+            "urlToImage": "https://www.reuters.com/resizer/PD4fZJ4I3aBxitqHNvYeUbvwwnY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZO47ZIFFANLPVI6VXPGNLVRDWY.jpg",
+            "publishedAt": "2022-01-20T08:56:00Z",
+            "content": "SHANGHAI, Jan 20 (Reuters) - China lowered mortgage lending benchmark rates on Thursday as monetary authorities step up efforts to prop up the slowing economy, after data earlier in the week pointed … [+2936 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jacqui Palumbo, CNN",
-            "title": "Vogue's Anna Wintour pays tribute to André Leon Talley, calling his loss 'immeasurable' - CNN",
-            "description": "Wintour and Talley were close friends and colleagues for decades, though he had said in recent years their relationship had hit \"an iceberg.\"",
-            "url": "https://www.cnn.com/style/article/andre-leon-talley-death-anna-wintour-vogue/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220119125911-andre-leon-talley-anna-wintour-file-2011-restricted-super-tease.jpg",
-            "publishedAt": "2022-01-19T20:10:59Z",
-            "content": "Vogue editor-in-chief Anna Wintour has called the loss of André Leon Talley \"immeasurable,\" after the trailblazing fashion journalist and former Vogue creative director died Tuesday, at the age of 73… [+4328 chars]"
-        },
-        {
-            "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
-            },
-            "author": "[{\"@type\":\"Person\",\"name\":\"Natalie Oganesyan\",\"url\":\"https://www.buzzfeed.com/natalieoganesyan\",\"jobTitle\":\"BuzzFeed Staff\"}]",
-            "title": "New \"Bridgerton\" Photos Just Dropped, And The One Of Jonathan Bailey And Simone Ashley Dancing Is Already Living In My Head Rent-Free - BuzzFeed",
-            "description": "Daphne's back! And she's giving Anthony a concerned look!",
-            "url": "https://www.buzzfeed.com/natalieoganesyan/bridgerton-season-2-first-look-photos",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-01/19/19/enhanced/c3fdc72be0f3/original-2303-1642621560-34.jpg?crop=1581:830;0,0%26downsize=1250:*",
-            "publishedAt": "2022-01-19T20:02:10Z",
-            "content": "LIAM DANIEL/NETFLIX\r\nIf I were to venture an educated guess (and I will, you can't stop me), this still could be from a scene where Kate and Anthony meet for the very first time. If you're a fan of J… [+283 chars]"
+            "author": "Caroll Alvarado, CNN",
+            "title": "Marine charged in fatal crash after driving tactical vehicle that overturned, killing 2 service members and injuring 17 others - CNN",
+            "description": "A US Marine is facing charges after a military tactical vehicle he was driving overturned near Camp Lejeune in North Carolina on Wednesday, killing two service members and injuring 17 others, officials said.",
+            "url": "https://www.cnn.com/2022/01/19/us/jacksonville-champ-lejeune-accident-marines-killed/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220119234529-marine-truck-crash-framegrab-01192022-super-tease.jpg",
+            "publishedAt": "2022-01-20T07:12:00Z",
+            "content": "(CNN)A US Marine is facing charges after a military tactical vehicle he was driving overturned near Camp Lejeune in North Carolina on Wednesday, killing two service members and injuring 17 others, of… [+1833 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Times"
+                "name": "Deadline"
             },
-            "author": "Alex Marshall",
-            "title": "Gaspard Ulliel, French Actor and ‘Moon Knight’ Star, Dies at 37 - The New York Times",
-            "description": "He was known for playing both a young Hannibal Lecter and the fashion designer Yves Saint Laurent. He died after a skiing accident in France.",
-            "url": "https://www.nytimes.com/2022/01/19/movies/gaspard-ulliel-dead.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/01/19/arts/19Gaspard-Ulliel-1/merlin_155363682_91a10b29-d62b-49ed-bb45-f912fb00995f-facebookJumbo.jpg",
-            "publishedAt": "2022-01-19T20:01:06Z",
-            "content": "Gaspard Ulliel, a star of French cinema best known outside his native country for portraying the young Hannibal Lecter in Hannibal Rising and the fashion designer Yves Saint Laurent in Saint Laurent,… [+646 chars]"
+            "author": "Max Goldbart",
+            "title": "World’s First Space-Based Entertainment Studio To Launch In 2024; S.E.E. Unveiled As Studio Behind Tom Cruise Space Film - Deadline",
+            "description": "The world’s first space-based entertainment studio and multi-purpose arena is to launch in just two years’ time and has been revealed as the studio behind the Tom Cruise space film. The groundbreaking studio, known as SEE-1, comes from film producer duo Elena…",
+            "url": "https://deadline.com/2022/01/worlds-first-space-based-entertainment-studio-to-launch-in-2024-s-e-e-unveiled-as-studio-behind-tom-cruise-space-film-1234915122/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/01/MicrosoftTeams-image-30.png?w=1024",
+            "publishedAt": "2022-01-20T07:00:00Z",
+            "content": "The world’s first space-based entertainment studio and multi-purpose arena is to launch in just two years’ time and has been revealed as the studio behind the Tom Cruise space film.\r\nThe groundbreaki… [+1806 chars]"
         },
         {
             "source": {
@@ -190,77 +60,207 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "WATCH LIVE | Biden holds first news conference of 2022 - Washington Post",
-            "description": "President Biden holds a news conference on Jan. 19 to mark his first year in office. Biden began his presidency with promises of a forceful era of government...",
-            "url": "https://www.youtube.com/watch?v=QGNzYEj_BrQ",
-            "urlToImage": "https://i.ytimg.com/vi/QGNzYEj_BrQ/maxresdefault_live.jpg",
-            "publishedAt": "2022-01-19T20:00:12Z",
+            "title": "New Zealand to tighten curbs if there's an Omicron outbreak - Reuters",
+            "description": "New Zealand's Prime Minister Jacinda Ardern says tough measures, like mandatory masks and limits on public gatherings, will be taken if there is community tr...",
+            "url": "https://www.youtube.com/watch?v=lnbUf_hV5kE",
+            "urlToImage": "https://i.ytimg.com/vi/lnbUf_hV5kE/maxresdefault.jpg",
+            "publishedAt": "2022-01-20T06:58:25Z",
             "content": null
         },
         {
             "source": {
-                "id": "ign",
-                "name": "IGN"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Logan Plant",
-            "title": "Should Xbox Make Activision Games Exclusive? IGN Readers Are Almost Perfectly Split - IGN - IGN",
-            "description": "IGN readers voted on if Xbox should make Activision Blizzard games console exclusive, and the results were closer than you might think.",
-            "url": "https://www.ign.com/articles/should-xbox-make-activision-games-exclusive-poll",
-            "urlToImage": "https://assets-prd.ignimgs.com/2022/01/18/xbox-acti-blizz-1642539339263.jpg?width=1280",
-            "publishedAt": "2022-01-19T19:47:56Z",
-            "content": "In the aftermath of Microsoft's bombshell acquisition of Activision Blizzard, the gaming industry is still trying to assess the impact the move will have on the rest of the market. One of the biggest… [+1726 chars]"
+            "author": "Shibani Mahtani, Theodora Yu",
+            "title": "Hong Kong hamster massacre: Residents resist 'zero covid' city's pet project - The Washington Post",
+            "description": "An underground railroad is emerging to save abandoned hamsters, with foster carers concealing the animals from authorities intent on destroying them.",
+            "url": "https://www.washingtonpost.com/world/2022/01/20/hong-kong-hamsters-covid/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M3WJNWTZD4I6ZHOOOMJVPHPEGQ.jpg&w=1440",
+            "publishedAt": "2022-01-20T06:27:29Z",
+            "content": "But when the government announced a cull of 2,000 pet hamsters, a line was crossed. The rodents could carry the coronavirus, officials said, and transmit it to humans.\r\nNow, an underground railroad i… [+5815 chars]"
         },
         {
             "source": {
-                "id": "politico",
-                "name": "Politico"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Colby Bermel, Marissa Martinez",
-            "title": "New York AG details fraud case against Trumps in court filings - POLITICO",
-            "description": "Former President Donald Trump sued Tish James last month in a bid to thwart her ongoing investigations.",
-            "url": "https://www.politico.com/news/2022/01/19/new-york-ag-doubles-down-on-trump-testimony-resistance-527353",
-            "urlToImage": "https://static.politico.com/f7/c4/8043465a414a823111f0e6b79199/211208-james-ap-773.jpg",
-            "publishedAt": "2022-01-19T19:38:57Z",
-            "content": "\"No one in this country can pick and choose if and how the law applies to them,\" James tweeted, adding that the three Trumps \"have all been closely involved\" in some Trump Organization transactions t… [+3313 chars]"
+            "author": "Rhea Mogul, Teele Rebane and Eric Cheung, CNN",
+            "title": "Tonga faces 'unprecedented disaster' as New Zealand warns of further eruptions and tsunami risk - CNN",
+            "description": "A massive volcanic eruption and tsunami near Tonga caused \"an unprecedented disaster,\" the Pacific nation's leader said Tuesday, as New Zealand warned of further eruptions that may complicate the delivery of aid to remote islands where communications are down.",
+            "url": "https://www.cnn.com/2022/01/19/asia/tonga-volcano-tsunami-recovery-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220118191729-tonga-ash-1117-super-tease.jpg",
+            "publishedAt": "2022-01-20T06:26:00Z",
+            "content": "(CNN)A massive volcanic eruption and tsunami near Tonga caused \"an unprecedented disaster,\" the Pacific nation's leader said Tuesday, as New Zealand warned of further eruptions that may complicate th… [+7558 chars]"
         },
         {
             "source": {
-                "id": "politico",
-                "name": "Politico"
+                "id": "the-verge",
+                "name": "The Verge"
             },
-            "author": "Sarah Ferris, Nicholas Wu",
-            "title": "White House to Dems: Tout the $2.4T you got passed, ignore the infighting - POLITICO",
-            "description": "The message delivered to the House's jittery majority ahead of the midterms comes as some lawmakers are intent on reviving their stalled party-line spending bill.",
-            "url": "https://www.politico.com/news/2022/01/19/white-house-covid-infrastructure-messaging-blitz-527371",
-            "urlToImage": "https://static.politico.com/a1/02/0285e9c14b2abe8db258fc6cf8c1/220119-slotkin-getty-773.jpg",
-            "publishedAt": "2022-01-19T19:31:21Z",
-            "content": "While the Senate nears an ugly clash on election reform, key White House officials spent Tuesday on a pair of calls with rank-and-file House aides, stressing the party's victories on a bipartisan inf… [+6750 chars]"
+            "author": "Sam Byford",
+            "title": "Canon’s EOS R5C is a 2-in-1 stills and cinema camera - The Verge",
+            "description": "Canon has announced a new camera that brings cinema-grade video capabilities to a conventional full-frame mirrorless body. The EOS R5C will cost $4,499.",
+            "url": "https://www.theverge.com/2022/1/20/22892766/canon-eos-r5c-announced-specs-release-date-cost",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/k-E_RmUuNjBwmfCKS3sDZSU_rwk=/0x85:1179x702/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23181654/Canon_EOS_R5_C_with_BG_R10_battery_grip.jpeg",
+            "publishedAt": "2022-01-20T06:19:00Z",
+            "content": "Better video capability in exchange for a little chunk\r\nCanon has announced a new camera that brings cinema-grade video capabilities to a conventional full-frame mirrorless body. The EOS R5C looks a … [+1251 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith, Holly Ellyatt",
+            "title": "European markets choppy as investors monitor inflation, bond yields; Soitec falls 15% - CNBC",
+            "description": "European stocks were uncertain on Thursday as investors appeared to brush off concerns about rampant inflation.",
+            "url": "https://www.cnbc.com/2022/01/20/european-markets-head-for-higher-open-brushing-off-inflation-fears.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106999933-1641975243790-gettyimages-1237017992-PR041221_LDN_7.jpeg?v=1641989526",
+            "publishedAt": "2022-01-20T05:36:56Z",
+            "content": "LONDON European stocks were uncertain on Thursday as investors appeared to brush off concerns about rampant inflation.\r\nThe pan-European Stoxx 600 slid 0.2% by late morning, having initially opened i… [+1844 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jesse O’Neill",
+            "title": "No-vax Novak Djokovic considers lawsuit against Australia for $4.4M - New York Post ",
+            "description": "Novak Djokovic is considering suing Australia’s government after he was deported in the interest of public health ahead of the Australian Open.",
+            "url": "https://nypost.com/2022/01/19/novak-djokovic-considers-lawsuit-against-australia/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/dvokovic-lawsuit-369.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-01-20T04:26:00Z",
+            "content": "Unvaccinated tennis star Novak Djokovic is considering serving Australia’s government with a lawsuit after he was deported in the interest of public health ahead of the Australian Open.\r\nDjokovic, 34… [+2389 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
             },
             "author": null,
-            "title": "Bank of America profit beats estimates on loan growth, M&A boost - Reuters",
-            "description": "Bank of America Corp <a href=\"https://www.reuters.com/companies/BAC.N\" target=\"_blank\">(BAC.N)</a> reported a better-than-expected 30% jump in quarterly profit on Wednesday, driven by loan growth and record-breaking M&A volumes in its investment banking busin…",
-            "url": "https://www.reuters.com/markets/europe/bank-america-profit-beats-estimates-loan-growth-ma-boost-2022-01-19/",
-            "urlToImage": "https://www.reuters.com/resizer/gHvqcWdGDX5OtkZpVPPzdlLN-pg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2YGTZ6ZBURNTDCXPBRGQ26LS54.jpg",
-            "publishedAt": "2022-01-19T19:09:00Z",
-            "content": "Jan 19 (Reuters) - Bank of America Corp (BAC.N) reported a better-than-expected 30% jump in quarterly profit on Wednesday, driven by loan growth and record-breaking M&amp;A volumes in its investment … [+4059 chars]"
+            "title": "Vaccinated kids half as likely to get Omicron, but protection fades fast — study - The Times of Israel",
+            "description": "Health Ministry-led research also shows teens who got booster shot over four months ago only slightly better off than unvaccinated; hospitalizations among kids reportedly on rise",
+            "url": "https://www.timesofisrael.com/vaccinated-kids-half-as-likely-to-get-omicron-but-protection-fades-fast-study/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2022/01/F211216MG07-1024x640.jpg",
+            "publishedAt": "2022-01-20T04:22:08Z",
+            "content": "Israeli children who were vaccinated against the coronavirus are catching the Omicron variant at less than half the rate of their unvaccinated peers, according to new research released late Wednesday… [+4677 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "Whitehouse.gov"
             },
             "author": null,
-            "title": "U.S. to distribute 400 million free N95 masks at CVS, Walgreens in COVID fight - Reuters",
-            "description": "The U.S. government will make 400 million non-surgical \"N95\" masks from its strategic national stockpile available for free to the public starting next week, a White House official said, as the Biden administration tries to curb the COVID-19 pandemic.",
-            "url": "https://www.reuters.com/world/us/us-make-400-million-n95-masks-available-free-fight-covid-19-pandemic-official-2022-01-19/",
-            "urlToImage": "https://www.reuters.com/resizer/WtuFMwG1jGyQNL5Dp_waIEZX2F0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ILFQU2RO5RNXNJ2SPNWCR6UKEM.jpg",
-            "publishedAt": "2022-01-19T18:58:00Z",
-            "content": "WASHINGTON/LOS ANGELES, Jan 19 (Reuters) - The U.S. government will make 400 million non-surgical \"N95\" masks from its strategic national stockpile available for free to the public starting next week… [+2837 chars]"
+            "title": "Remarks by President Biden in Press Conference - The White House",
+            "description": "East Room 4:02 P.M. EST THE PRESIDENT:  Hello, folks.  Thanks for being here.  Well, good afternoon, everyone.  Tomorrow will mark one",
+            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/01/19/remarks-by-president-biden-in-press-conference-6/",
+            "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+            "publishedAt": "2022-01-20T04:14:34Z",
+            "content": "East Room\r\n4:02 P.M. EST\r\nTHE PRESIDENT:  Hello, folks.  Thanks for being here. \r\nWell, good afternoon, everyone.  Tomorrow will mark one year since I took office.  Its been a year of challenges, but… [+99170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Lindsay Weinberg",
+            "title": "Olivia Munn Gets Candid About Breastfeeding Struggle After Welcoming Baby With John Mulaney - E! NEWS",
+            "description": "Olivia Munn discussed her breastfeeding challenges with her 2.8 million Instagram followers, saying that providing milk to her son can be \"hard, especially if you have low supply.\"",
+            "url": "https://www.eonline.com/news/1316955/olivia-munn-gets-candid-about-breastfeeding-struggle-after-welcoming-baby-with-john-mulaney",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022019/rs_1200x1200-220119194539-1200--oliviamunn.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-01-20T03:49:00Z",
+            "content": "Olivia Munn is sharing one \"hard\" part of her motherhood journey. \r\nThe X-Men: Apocalypse star, 41, opened up about her difficulties with breastfeeding, nearly two months after welcoming son Malcom w… [+789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Kamala Harris' bumpy ride - BBC News",
+            "description": "Will the first female vice-president be remembered for making history - or go down as a historic footnote?",
+            "url": "https://www.bbc.com/news/world-us-canada-60061473",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/27B0/production/_122906101_gettyimages-1237787081.jpg",
+            "publishedAt": "2022-01-20T03:37:01Z",
+            "content": "Anthony ZurcherNorth America reporter@awzurcheron Twitter\r\nKamala Harris assumed office in historic fashion, becoming the first woman to serve \"a heartbeat away from the presidency\". \r\nBut her first … [+8726 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Associated Press",
+            "title": "United posts $646M loss as omicron casts shadow - Fox Business",
+            "description": "United Airlines lost $646 million in the fourth quarter and said Wednesday that the current spike in COVID-19 cases will hurt its results in the March quarter.",
+            "url": "https://www.foxbusiness.com/markets/united-posts-646m-loss-as-omicron-casts-shadow",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/07/0/0/United-Airlines_iStock.jpg?ve=1&tl=1",
+            "publishedAt": "2022-01-20T03:34:39Z",
+            "content": "United Airlines lost $646 million in the fourth quarter and said Wednesday that the current spike in COVID-19 cases will hurt its results in the March quarter.\r\nThe airline said it expects its first-… [+1883 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Trish Turner, Allison Pecorin, Libby Cathey",
+            "title": "Senate fails to change filibuster rule for passage of voting rights legislation - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/Politics/senate-fails-end-debate-voting-rights-legislation-ahead/story?id=82349391",
+            "urlToImage": "https://s.abcnews.com/images/US/schumer-senate-speech-ht-ps-220119_1642605146074_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-01-20T03:33:45Z",
+            "content": "The Senate on Wednesday night failed to change the filibuster rule to allow voting rights legislation to pass with a simple majority.\r\nThe rule change would have required 51 votes to pass but did not… [+9444 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Chris Roling",
+            "title": "Titans change ticket rules for playoff game to keep Bengals fans out - Bengals Wire",
+            "description": "Bengals fans aren’t wanted at the playoff game this weekend!",
+            "url": "https://bengalswire.usatoday.com/2022/01/19/titans-change-ticket-rules-playoff-game-keep-bengals-fans-out/",
+            "urlToImage": "https://bengalswire.usatoday.com/wp-content/uploads/sites/47/2022/01/USATSI_17512389.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2022-01-20T03:31:00Z",
+            "content": "Cincinnati Bengals fans are probably going to travel pretty well to the team’s divisional-round playoff game against the Tennessee Titans.\r\nIt is, after all, a pretty manageable road trip and the tea… [+1084 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Megan Sheets",
+            "title": "Brianna Kupfer - latest: Covid backlog caused delay in trial of suspect Shawn Laval Smith on gun charge - The Independent",
+            "description": "Brianna Kupfer: Live news on Croft House killing",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/brianna-kupfer-death-shawn-laval-smith-latest-b1996819.html",
+            "urlToImage": "https://static.independent.co.uk/2022/01/18/13/newFile-12.jpg?width=1200&auto=webp&quality=75",
+            "publishedAt": "2022-01-20T03:30:13Z",
+            "content": "Who is Shawn Laval Smith? Homeless suspect in stabbing of UCLA grad student Brianna Kupfer\r\nShawn Laval Smith, 31, was arrested in connection to the stabbing UCLA graduate student Brianna Kupfer to d… [+999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cbslocal.com"
+            },
+            "author": "CBSLA Staff",
+            "title": "Marvel Actor Gaspard Ulliel Dead At 37 Following Ski Accident - CBS Los Angeles",
+            "description": "Actor Gaspard Ulliel died from injuries he suffered in a skiing accident in southeastern France on Tuesday.",
+            "url": "https://losangeles.cbslocal.com/2022/01/19/marvel-actor-gaspard-ulliel-dead-ski-accident/",
+            "urlToImage": "https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2022/01/GettyImages-808621860.jpg?w=1500",
+            "publishedAt": "2022-01-20T03:06:00Z",
+            "content": "LOS ANGELES (CBSLA) An award-winning French actor who was set to make his Marvel Studios debut has died.\r\nFrench Prime Minister Jean Castex confirmed the death of actor Gaspard Ulliel.\r\nREAD MORE: Jo… [+664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Kittle, Aiyuk, Omenihu Share a Scouting Report on the Packers | 49ers - San Francisco 49ers",
+            "description": "George Kittle, Brandon Aiyuk, and Charles Omenihu previewed the team's Divisional Round matchup against the Packers and discussed how battling through advers...",
+            "url": "https://www.youtube.com/watch?v=kXombxmqo0Q",
+            "urlToImage": "https://i.ytimg.com/vi/kXombxmqo0Q/hqdefault.jpg",
+            "publishedAt": "2022-01-20T03:05:22Z",
+            "content": null
         }
     ]
 }
