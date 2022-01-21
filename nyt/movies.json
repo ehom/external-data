@@ -152,7 +152,7 @@
             "uri": "nyt://article/8d8cc31e-a9cb-5cea-959c-1e4eca98c64e",
             "byline": "By Alex Marshall, Ben Sisario and Derrick Bryson Taylor",
             "item_type": "Article",
-            "updated_date": "2022-01-21T15:54:14-05:00",
+            "updated_date": "2022-01-21T16:56:52-05:00",
             "created_date": "2022-01-21T03:35:06-05:00",
             "published_date": "2022-01-21T03:35:06-05:00",
             "material_type_facet": "",
@@ -386,6 +386,44 @@
             "short_url": "https://nyti.ms/3tEueOD"
         },
         {
+            "section": "arts",
+            "subsection": "television",
+            "title": "Louie Anderson and the Compassion of America’s Eternal Kid",
+            "abstract": "He displayed an empathetic humanity that he shared offstage with his friend Bob Saget. The loss of both comics represents the end of an era.",
+            "url": "https://www.nytimes.com/2022/01/21/arts/television/louie-anderson-bob-saget.html",
+            "uri": "nyt://article/91f90205-9b88-5544-a2e5-e2b9adc7f599",
+            "byline": "By Jason Zinoman",
+            "item_type": "Article",
+            "updated_date": "2022-01-21T17:08:24-05:00",
+            "created_date": "2022-01-21T17:08:24-05:00",
+            "published_date": "2022-01-21T17:08:24-05:00",
+            "material_type_facet": "",
+            "kicker": "On Comedy",
+            "des_facet": [
+                "Comedy and Humor",
+                "Television"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Anderson, Louie",
+                "Saget, Bob"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/01/21/arts/21anderson-saget1/21anderson-saget1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1405,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Louie Anderson on “The Tonight Show” in 1984. He and Bob Saget started in stand-up around the same time.",
+                    "copyright": "Joseph Del Valle/NBCUniversal, via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/33YLeEd"
+        },
+        {
             "section": "nyregion",
             "subsection": "",
             "title": "Why the Woman Who Dressed ‘The Gilded Age’ Is on the Verge of Giving Up",
@@ -394,22 +432,26 @@
             "uri": "nyt://article/73c0b651-7637-5bd5-bb5c-651f7f87afab",
             "byline": "By Ginia Bellafante",
             "item_type": "Article",
-            "updated_date": "2022-01-21T16:02:39-05:00",
+            "updated_date": "2022-01-21T16:30:41-05:00",
             "created_date": "2022-01-21T05:00:12-05:00",
             "published_date": "2022-01-21T05:00:12-05:00",
             "material_type_facet": "",
             "kicker": "Big CITY",
             "des_facet": [
+                "Costumes",
                 "Real Estate (Commercial)",
+                "Warehouses",
                 "Fashion and Apparel",
                 "Theater",
                 "Movies",
                 "Television",
-                "Costumes",
-                "The Gilded Age (TV Program)",
-                "Content Type: Personal Profile"
+                "Content Type: Personal Profile",
+                "Coronavirus (2019-nCoV)",
+                "The Gilded Age (TV Program)"
             ],
-            "org_facet": [],
+            "org_facet": [
+                "Uffner, Helen, Vintage Clothing LLC"
+            ],
             "per_facet": [
                 "Uffner, Helen"
             ],
@@ -1315,47 +1357,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/33bOGf3"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "One Indelible Scene: When a Woman Takes the Wheel in ‘Licorice Pizza’",
-            "abstract": "After letting Alana Haim and her character drift and idle, Paul Thomas Anderson gives you a reason to cheer: “Hardcore, hardcore Alana!”",
-            "url": "https://www.nytimes.com/2022/01/14/movies/licorice-pizza-alana-haim-bradley-cooper.html",
-            "uri": "nyt://article/9c4ce02d-460a-5ff7-afc6-18d77f3c03d2",
-            "byline": "By Manohla Dargis",
-            "item_type": "Article",
-            "updated_date": "2022-01-14T10:00:10-05:00",
-            "created_date": "2022-01-14T10:00:10-05:00",
-            "published_date": "2022-01-14T10:00:10-05:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "A Star Is Born (Movie)",
-                "Licorice Pizza (Movie)"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Anderson, Paul Thomas",
-                "Cooper, Bradley",
-                "Haim, Alana",
-                "Hoffman, Cooper (2003- )"
-            ],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2022/01/16/arts/16dargis-scene1/16dargis-scene1-superJumbo.jpg",
-                    "format": "superJumbo",
-                    "height": 908,
-                    "width": 2048,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Bradley Cooper, left, Cooper Hoffman and Alana Haim in the truck in “Licorice Pizza.”",
-                    "copyright": "MGM"
-                }
-            ],
-            "short_url": "https://nyti.ms/3tr2CfG"
         }
     ]
 }
