@@ -4,185 +4,237 @@
     "articles": [
         {
             "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Kelly Tyko, USA TODAY",
+            "title": "Tax season 2022: IRS now accepting tax returns. What to know about your refund before filing taxes. - USA TODAY",
+            "description": "Get ready to file taxes. Jan. 24 is the first day the Internal Revenue Service will begin accepting tax returns but your tax refund could take longer.",
+            "url": "https://www.usatoday.com/story/money/personalfinance/2022/01/24/irs-tax-season-2022-start-date/6607276001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/04/08/USAT/90d9c6d0-a223-49ac-a4ab-c4958eafdd43-GettyImages-1226748605-NEW.jpg?auto=webp&crop=5367,3019,x0,y273&format=pjpg&width=1200",
+            "publishedAt": "2022-01-25T10:08:56Z",
+            "content": "Tax season 2022 has arrived.\r\nThe Internal Revenue Service starts accepting and processing 2021 tax returns Monday, Jan. 24, 17 days earlier than last tax season’s late start of Feb. 12.\r\nHowever, yo… [+7199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Edmund DeMarche",
+            "title": "Neil Young threatens to pull songs off Spotify over Joe Rogan: report - Fox Business",
+            "description": "Neil Young, the legendary rocker, reportedly posted a letter to his management team that he wanted his music pulled from Spotify because it is providing a platform for popular podcast host Joe Rogan to spread COVID-19 vaccine misinformation.",
+            "url": "https://www.foxbusiness.com/media/neil-young-songs-spotify-joe-rogan",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/01/0/0/Joe-Rogan.jpg?ve=1&tl=1",
+            "publishedAt": "2022-01-25T09:49:58Z",
+            "content": "Neil Young, the legendary rocker, reportedly posted a letter to his management team that he wanted his music pulled from Spotify because it is providing a platform for popular podcast host Joe Rogan … [+2356 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Coral Murphy Marcos, Mohammed Hadi",
+            "title": "S&P 500 Rallies After Touching Correction Territory, Erasing Day’s Losses - The New York Times",
+            "description": "The S&P 500 slid into correction territory before rallying, and signals on Wall Street show that investors have become markedly more pessimistic.",
+            "url": "https://www.nytimes.com/2022/01/24/business/economy/us-stock-market-correction-territory.html",
+            "urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+            "publishedAt": "2022-01-25T09:29:00Z",
+            "content": "With Europe also struggling to contain inflation, which is already being driven higher by energy prices, this could be a serious problem for the eurozone economy, said Fiona Cincotta, an analyst at C… [+2336 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "INSIDER"
+            },
+            "author": "Matthew Loh",
+            "title": "Is Omicron the COVID-19 'endgame'? WHO experts give differing views - Insider",
+            "description": "WHO's Europe director said Omicron might introduce widespread immunity, but WHO's chief later called it \"dangerous\" not to anticipate more variants.",
+            "url": "https://www.insider.com/omicron-pandemic-end-who-experts-say-different-things-2022-1",
+            "urlToImage": "https://i.insider.com/61efa35e702f4b001866d1a6?width=1200&format=jpeg",
+            "publishedAt": "2022-01-25T08:44:02Z",
+            "content": "Top officials at the World Health Organization are expressing conflicting views this week on the likelihood that the Omicron variant's dominance might signal an end of the coronavirus pandemic.\r\nWHO'… [+3458 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Edmund DeMarche",
+            "title": "Boston patient removed from heart-transplant list because he’s not vaccinated against COVID: report - Fox News",
+            "description": "The parents of a 31-year-old in need of a heart transplant at Boston’s Brigham and Women’s Hospital said their son has been removed from the transplant list because he has not been vaccinated for COVID-19, according to a report.",
+            "url": "https://www.foxnews.com/health/boston-patient-heart-transplant-vaccinated",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/Boston-Hospital.jpg",
+            "publishedAt": "2022-01-25T08:10:38Z",
+            "content": "The parents of a 31-year-old in need of a heart transplant at Bostons Brigham and Womens Hospital said their son has been removed from the transplant list because he has not been vaccinated for COVID… [+2290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt",
+            "title": "U.S. puts troops on alert amid fears of Russia-Ukraine conflict. Europe watches on - CNBC",
+            "description": "The U.S. Department of Defense has said that about 8,500 American troops are awaiting orders to deploy to the region if Russia does invade Ukraine.",
+            "url": "https://www.cnbc.com/2022/01/25/europe-sidelined-as-us-tries-to-stop-russia-ukraine-war.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107005786-1643095683512-gettyimages-520426618-AFP_9J682.jpeg?v=1643095848",
+            "publishedAt": "2022-01-25T06:59:46Z",
+            "content": "U.S. army soldiers stand in formation during a joint military tactical training exercise Blowback 2016 with Bulgaria's army at Novo Selo military ground on April 11, 2016.\r\nCrisis talks aimed at aver… [+10131 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Robyn Dixon, Rachel Pannett, David L. Stern",
+            "title": "Biden, European leaders rush to deter further Russian aggression against Ukraine - The Washington Post",
+            "description": "President Biden and his European counterparts are rushing to discourage Moscow from a renewed attack on Kyiv, which Britain's Boris Johnson warned could come in the form of a « lightning raid. »",
+            "url": "https://www.washingtonpost.com/world/2022/01/25/ukraine-russia-nato-biden/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BBT65YD5NEI6ZDGIW2LFMS5HSY.jpg&w=1440",
+            "publishedAt": "2022-01-25T05:48:21Z",
+            "content": "They also discussed preparations to impose massive consequences and severe economic costs on Russia, as well as moves to reinforce security on NATOs eastern flank. The Western military alliance said … [+5418 chars]"
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jason Morris, Sara Murray and Paul LeBlanc, CNN",
-            "title": "DA for Atlanta area granted special grand jury to probe Trump's election interference - CNN",
-            "description": "An Atlanta-area district attorney investigating former President Donald Trump's efforts to overturn the 2020 election results in Georgia will be allowed to seat a special grand jury this spring.",
-            "url": "https://www.cnn.com/2022/01/24/politics/georgia-trump-grand-jury/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211027234429-02-donald-trump-100921-super-tease.jpg",
-            "publishedAt": "2022-01-24T22:20:00Z",
+            "author": "Artemis Moshtaghian, CNN",
+            "title": "New York state supreme court judge strikes down mask mandate - CNN",
+            "description": "A state supreme court judge struck down New York state's mask mandate Monday, ruling that the governor and NY State Department of Health did not have the authority to enact such a mandate without approval from the State Legislature.",
+            "url": "https://www.cnn.com/2022/01/24/us/new-york-state-mask-mandate-ruling/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220124230525-nyc-mask-indoor-file-12132021-super-tease.jpg",
+            "publishedAt": "2022-01-25T05:32:00Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "New York Times"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Joey Roulette",
-            "title": "James Webb Telescope Arrives at Destination in Space: Updates and Video - The New York Times",
-            "description": "The telescope’s safe arrival is a relief to scientists who plan to spend the next 10 or more years using it to study ancient galaxies.",
-            "url": "https://www.nytimes.com/2022/01/24/science/james-webb-telescope-arrival.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/01/25/science/24webb1/24webb1-facebookJumbo.jpg",
-            "publishedAt": "2022-01-24T22:05:27Z",
-            "content": "Deploying the telescope to the L2 neighborhood also helps keep the temperatures low while providing enough sunlight for the Webbs solar panels, which generate electricity. But the telescope isnt park… [+2013 chars]"
+            "author": "Ryan Gaydos",
+            "title": "Rob Gronkowski fires off cryptic tweet about NFL future - Fox News",
+            "description": "Rob Gronkowski on Monday fired off a cryptic tweet suggesting he’s mulling walking away from the NFL following the Tampa Bay Buccaneers’ playoff loss to the Los Angeles Rams.",
+            "url": "https://www.foxnews.com/sports/rob-gronkowski-cryptic-tweet-nfl-future",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/Rob-Gronkowski.jpg",
+            "publishedAt": "2022-01-25T04:55:46Z",
+            "content": "Rob Gronkowski on Monday fired off a cryptic tweet suggesting hes mulling walking away from the NFL following the Tampa Bay Buccaneers playoff loss to the Los Angeles Rams.\r\nWhile most of the concern… [+2210 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": null,
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "NATO sends reinforcements and U.S. puts troops on alert as Ukraine tensions rise - Reuters",
-            "description": "NATO said on Monday it was putting <a href=\"https://www.reuters.com/world/europe/us-considering-moving-troops-western-europe-eastern-europe-nato-diplomat-2022-01-24/\" target=\"_blank\">forces on standby</a> and reinforcing eastern Europe with more ships and fig…",
-            "url": "https://www.reuters.com/world/europe/nato-sends-ships-jets-eastern-europe-ukraine-crisis-2022-01-24/",
-            "urlToImage": "https://www.reuters.com/resizer/1-2ExtGgx-O0RUcDX8xgi-eSj2o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WJTXM2RV3ZKRRDUFZFUQOOQKJE.jpg",
-            "publishedAt": "2022-01-24T22:00:00Z",
-            "content": "MOSCOW/BRUSSELS, Jan 24 (Reuters) - NATO said on Monday it was putting forces on standby and reinforcing eastern Europe with more ships and fighter jets, in what Russia denounced as Western \"hysteria… [+6195 chars]"
+            "title": "Webb Space Telescope Reaches Destination a Million Miles From Earth – Achieves “Halo” Orbit Around L2 - SciTechDaily",
+            "description": "Today, at 2 p.m. EST, Webb fired its onboard thrusters for nearly five minutes (297 seconds) to complete the final postlaunch course correction to Webb’s trajectory. This mid-course correction burn inserted Webb toward its final orbit around the second Sun-Ea…",
+            "url": "https://scitechdaily.com/webb-space-telescope-reaches-destination-a-million-miles-from-earth-achieves-halo-orbit-around-l2/",
+            "urlToImage": "https://scitechdaily.com/images/Webb-Telescope-L2-Flyby.gif",
+            "publishedAt": "2022-01-25T04:11:31Z",
+            "content": "ByNASAJanuary 24, 2022\r\nThe James Webb Space Telescope (JWST) is the next of NASA’s Great Observatories; following in the line of the Hubble Space Telescope, the Compton Gamma-ray Observatory, the Ch… [+2802 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Tim Arango",
-            "title": "Police Culture on Trial in Case Against Officers in Killing of George Floyd - The New York Times",
-            "description": "Derek Chauvin sits in a prison cell. The other three officers on the scene when George Floyd was murdered now face a trial of their own.",
-            "url": "https://www.nytimes.com/2022/01/24/us/police-officers-culture-george-floyd.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/01/24/us/24officers-trial-top/24officers-trial-top-facebookJumbo.jpg",
-            "publishedAt": "2022-01-24T21:59:21Z",
-            "content": "If the three officers are convicted, It would be an important step in dismantling the blue wall of silence when cops close ranks and refuse to intervene when they see another officer doing wrong, Mr.… [+1448 chars]"
+            "author": "Reid J. Epstein",
+            "title": "Court Throws Out Alabama’s New Congressional Map - The New York Times",
+            "description": "A federal panel of judges ordered state lawmakers to redraw the lines, saying Black voters “have less opportunity than other Alabamians” to elect candidates of their choice.",
+            "url": "https://www.nytimes.com/2022/01/24/us/politics/alabama-congressional-map-redistricting.html",
+            "urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+            "publishedAt": "2022-01-25T03:52:14Z",
+            "content": "Alabamas secretary of state, John H. Merrill, declined to comment on the ruling.\r\nAdam Kincaid, the executive director of the National Republican Redistricting Trust, the partys main mapmaking organi… [+2830 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Katie Greifeld, Vildana Hajric, Bloomberg",
+            "title": "What’s a ‘crypto winter’? Why some investors are scared about a repeat of 2018’s doldrums - Fortune",
+            "description": "The term refers to a sharp collapse in crypto prices, followed by a long period of reduced trading activity.",
+            "url": "https://fortune.com/2022/01/24/crypto-winter-bitcoin-price-crash-ice-age-bear-market/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/01/GettyImages-1237576675-e1643082463664.jpeg?resize=1200,600",
+            "publishedAt": "2022-01-25T03:49:07Z",
+            "content": "Skip to Content"
         },
         {
             "source": {
                 "id": null,
-                "name": "NBCSports.com"
+                "name": "Yahoo Entertainment"
             },
-            "author": "Peter King",
-            "title": "Peter King's Football Morning In America Column: NFL Playoffs Divisional Round - NBC Sports - NBC Sports - NFL",
-            "description": "In 25 hours on the greatest playoff weekend in the 102-year history of professional football, each headline, one by one, overtook the last one:BENGALS KNOCK OFF 1 SEED TO REACH FIRST AFC TITLE GAME SINCE 1988 NINERS KNOCK OFF 1 SEED ON 45-YARD FIELD GOAL AT :…",
-            "url": "https://profootballtalk.nbcsports.com/2022/01/24/nfl-divisional-playoffs-weekend-fmia-peter-king/",
-            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/01/GettyImages-1237946943.jpg",
-            "publishedAt": "2022-01-24T21:50:23Z",
-            "content": "In 25 hours on the greatest playoff weekend in the 102-year history of professional football, each headline, one by one, overtook the last one:\r\nBENGALS KNOCK OFF 1 SEED TO REACH FIRST AFC TITLE GAME… [+59756 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Antonio G. Di Benedetto",
-            "title": "Costco members can order the PlayStation 5 right now - The Verge",
-            "description": "The PlayStation 5 has been restocked at Costco, exclusively for paid members. These bundles from the warehouse retailer often sell out very quickly, so you need to act fast.",
-            "url": "https://www.theverge.com/2022/1/24/22824105/sony-playstation-ps5-console-restock-costco-availability",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/3r_9jS6Nm_SkLMLo7HhJ0hPTZNc=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22509875/acastro_210511_1777_psRestock_0006.jpg",
-            "publishedAt": "2022-01-24T21:35:23Z",
-            "content": "Paid membership is required to order\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nIllustration by Alex Castro / The Verge\r\nUpdate January 24th,… [+2352 chars]"
+            "author": "Jason Owens",
+            "title": "Matt LaFleur: Packers brass 'all on the same page' in wanting Aaron Rodgers back - Yahoo Sports",
+            "description": "The ball is now in Rodgers' proverbial court.",
+            "url": "https://sports.yahoo.com/matt-la-fleur-packers-brass-all-on-the-same-page-in-wanting-aaron-rodgers-back-031004858.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/boErkem_RJTXjqLeWNdKIQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/b2f27b30-7d89-11ec-9bf5-33f32366a152",
+            "publishedAt": "2022-01-25T03:10:00Z",
+            "content": "After a season filled with wins and melodrama concluded in stunning disappointment Saturday night, Matt LaFleur is ready to run it back in 2022.\r\nThe Green Bay Packers' head coach discussed Aaron Rod… [+2270 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Times"
+                "name": "Bustle"
             },
-            "author": "Priya Krishna",
-            "title": "Sarah Palin Recently Dined Indoors in NYC While Unvaccinated - The New York Times",
-            "description": "Elio’s, an Upper East Side celebrity haunt, confirms that it let her in despite a city requirement that all indoor guests show proof of vaccination. Ms. Palin tested positive for the coronavirus on Monday.",
-            "url": "https://www.nytimes.com/2022/01/24/dining/sarah-palin-dines-indoors-nyc.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/01/24/dining/24palin-restaurant2/merlin_136287702_8823a7a2-4d39-487b-ae9d-7730eb998845-facebookJumbo.jpg",
-            "publishedAt": "2022-01-24T21:32:31Z",
-            "content": "Ms. Palin, the former Alaska governor who ran for vice president in 2008, had traveled to New York for the trial of her defamation lawsuit against The New York Times. The trial was set to begin this … [+1222 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/kris-holt",
-            "title": "Google’s next Chromecast with Google TV may be a 1080p budget model - Engadget",
-            "description": "The dongle's said to come with a remote and it could replace the aging third-gen Chromecast..",
-            "url": "https://www.engadget.com/google-1080p-chromecast-google-tv-streaming-stick-210040616.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/ebd316c0-7d53-11ec-bdfd-a28a7e9caf0d",
-            "publishedAt": "2022-01-24T21:02:54Z",
-            "content": "Google is said to be developing a new Chromecast aimed at folks who haven't splurged on a 4K TV. According to Protocol, the low-end device will harness the Google TV interface and include a remote, a… [+1414 chars]"
+            "author": "Alyssa Lapid",
+            "title": "Memes & Tweets About Clayton's 'Bachelor' Therapy Group Date - Bustle",
+            "description": "“Every week 'The Bachelor' asks the question: What if people went on reality television instead of going to therapy?",
+            "url": "https://www.bustle.com/entertainment/bachelor-therapy-date-clayton-memes-tweets",
+            "urlToImage": "https://imgix.bustle.com/uploads/image/2022/1/25/f9b41d15-6898-4617-b4fe-163813eece13-fj6u8e4xiag6eyp.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+            "publishedAt": "2022-01-25T03:00:51Z",
+            "content": "What could be worse than competing with a group of 30 other gorgeous women for the affection and attention of one man? Having to attend a group therapy session with all of them. Yet once again, thats… [+1597 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "San Francisco Chronicle"
             },
-            "author": "Ariel Zilber",
-            "title": "Miami-bound luxury cruise diverts to Bahamas to avoid arrest by feds: report - New York Post ",
-            "description": "A luxury cruise ship carrying hundreds of passengers and bound for Miami diverted to the Bahamas on Saturday in order to avoid arrest tied to unpaid fuel bills totaling more than $1.2 million, acco…",
-            "url": "https://nypost.com/2022/01/24/miami-bound-luxury-cruise-diverts-to-bahamas-to-avoid-arrest/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/cruise-ship-unpaid-bills-02.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2022-01-24T20:59:00Z",
-            "content": "A luxury cruise ship carrying hundreds of passengers and bound for Miami diverted to the Bahamas on Saturday in order to avoid arrest tied to unpaid fuel bills totaling more than $1.2 million, accord… [+2527 chars]"
+            "author": "Eric Branch",
+            "title": "49ers' game review: Breaking down Jimmy Garoppolo's scary sideline throws - San Francisco Chronicle",
+            "description": "Blame the thumb or the shoulder or the weather, but San Francisco 49ers QB Jimmy...",
+            "url": "https://www.sfchronicle.com/sports/49ers/article/49ers-game-review-Breaking-down-Garoppolo-s-16801429.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/23/56/76/21950375/3/rawImage.jpg",
+            "publishedAt": "2022-01-25T02:57:25Z",
+            "content": "On Saturday, after the 49ers had reached the NFC Championship Game for the second time in three seasons with Jimmy Garoppolo as their starting quarterback, two prominent 49ers struck the same note: T… [+7024 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joseph Wulfsohn",
+            "title": "Fox News' Peter Doocy says Biden 'cleared the air' with him following the 'SOB' insult - Fox News",
+            "description": "Fox News White House correspondent Peter Doocy said President Biden called his cellphone to tell him \"it's nothing personal, pal,\" after calling the reporter a \"stupid son of a b----.\"",
+            "url": "https://www.foxnews.com/media/fox-news-peter-doocy-biden-cleared-the-air",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e66ff7c3-74e2-48f1-996f-485dcf95aa15/287e702e-a6df-4d5d-aa93-cc64c2b983f7/1280x720/match/image.jpg",
+            "publishedAt": "2022-01-25T02:37:09Z",
+            "content": "Fox News Peter Doocy revealed that President Biden called his cellphone following a hostile exchange the two of them had at the White House earlier in the day. \r\nDuring an event on Monday evening, Do… [+3969 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Mail"
+                "name": "CNBC"
             },
-            "author": "Christine Rendon, Carly Johnson, Sonia Horon",
-            "title": "Garrett Hedlund accused of attempting to jump out of a car prior to arrest - Daily Mail",
-            "description": "The man who called the police on the actor which led to his arrest over the weekend made the allegations in legal documents obtained by TMZ .",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-10436889/Garrett-Hedlund-accused-attempting-jump-car-prior-arrest.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/01/24/21/53322243-0-image-a-26_1643058641568.jpg",
-            "publishedAt": "2022-01-24T20:34:01Z",
-            "content": "More information about what allegedly transpired prior to Garrett Hedlund's arrest for public intoxication has come to light. \r\nHedlund has been accused of attempting to jump out of a car by the man … [+6397 chars]"
+            "author": "Maggie Fitzgerald",
+            "title": "Cramer says selling not done for tech stocks trading at high multiples to sales: 'Those have had it' - CNBC",
+            "description": "\"Tomorrow you got to do some selling...if you own stocks that are selling at a multiple to sales...those have had it,\" said Cramer.",
+            "url": "https://www.cnbc.com/2022/01/24/cramer-says-selling-not-done-for-tech-stocks-trading-at-high-multiples-to-sales-those-have-had-it.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106416319-1582914157084img_9408r.jpg?v=1582914272",
+            "publishedAt": "2022-01-25T02:19:00Z",
+            "content": "It's been a bloody few weeks for once high-flying tech stocks and CNBC's Jim Cramer believes there is still a bit more carnage to go for some parts of the market.\r\n\"Tomorrow you got to do some sellin… [+1332 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
+                "name": "Hollywood Reporter"
             },
-            "author": "Tonya Garcia",
-            "title": "Macy's, Nordstrom shares move higher after report of Kohl's takeover offer - MarketWatch",
-            "description": "Department store shares moved higher Monday after a Wall Street Journal report that Kohl's Corp. undefined has received a $9 billion takeover bid from...",
-            "url": "https://www.marketwatch.com/story/macys-nordstrom-shares-move-higher-after-kohls-takeover-offer-2022-01-24",
-            "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
-            "publishedAt": "2022-01-24T20:24:00Z",
-            "content": "Department store shares moved higher Monday after a Wall Street Journal report that Kohl's Corp. \r\n KSS,\r\n +36.02%\r\nhas received a $9 billion takeover bid from activist hedge fund Starboard Value LP.… [+793 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Joe Marino, Tina Moore, Jorge Fitz-Gibbon",
-            "title": "Accused NYPD cop-killer dies after being shot by officer during Harlem ambush - New York Post ",
-            "description": "The career criminal accused of shooting two Manhattan cops, killing one and leaving the other clinging to life, has died of his wounds from the incident.",
-            "url": "https://nypost.com/2022/01/24/accused-nypd-cop-killer-dies-after-being-shot-by-officer-during-harlem-ambush/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/cop-killer.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2022-01-24T20:13:00Z",
-            "content": "The distorted career criminal accused of shooting two Manhattan cops, killing one and leaving the other clinging to life, died of his wounds Monday, officials said.\r\nLashawn McNeil, 47, had been in c… [+2471 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Las Vegas Review-Journal"
-            },
-            "author": "Ricardo Torres-Cortez",
-            "title": "Clark County reports 10,707 COVID-19 cases over weekend, 39 deaths - Las Vegas Review-Journal",
-            "description": "<p>The Southern Nevada Health District on Monday reported 10,707 new COVID-19 infections and 39 deaths over the weekend.</p>",
-            "url": "https://www.reviewjournal.com/post/2518217",
-            "urlToImage": "https://www.reviewjournal.com/wp-content/uploads/2022/01/16084491_web1_CV-NEW-CASES-JAN11-22_011022kc_002.jpg",
-            "publishedAt": "2022-01-24T20:09:00Z",
-            "content": "The Southern Nevada Health District on Monday reported 10,707 new COVID-19 infections and 39 deaths over the weekend.\r\nThat brings the total in Clark County to 454,299 cases and 6,733 deaths since th… [+1270 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cincy Jungle"
-            },
-            "author": "PatrickJudis",
-            "title": "Joe Burrow salutes Bengals teammates’ ability to make the game-winning plays - Cincy Jungle",
-            "description": "Joe Burrow has confidence in his teammates making game-winning plays as they head into the AFC Championship vs. the Chiefs.",
-            "url": "https://www.cincyjungle.com/2022/1/24/22899224/joe-burrow-bengals-news-game-winning-plays",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/RDDTX5djUvthgKyylDl78MLQ8bE=/0x0:4215x2207/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23191877/usa_today_17548865.jpg",
-            "publishedAt": "2022-01-24T20:05:30Z",
-            "content": "The Cincinnati Bengals are headed into their biggest game since the turn of the century against the Kansas City Chiefs in the AFC Championship. A big reason this team is in that position is quarterba… [+2230 chars]"
+            "author": "Aaron Couch",
+            "title": "‘Batgirl’ Enlists Ivory Aquino to Play DC Films’ First Trans Character - Hollywood Reporter",
+            "description": "Ivory Aquino is taking a trip to the DC universe, The Hollywood Reporter has confirmed. Aquino has joined the cast of Batgirl and will appear as Alysia Yeoh, the best friend of Barbara Gordon/Batgirl, the masked hero played by Leslie Grace. Aquino is known fo…",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/batgirl-ivory-aquino-dc-films-1235080344/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/GettyImages-643960282.jpg?w=1024",
+            "publishedAt": "2022-01-25T01:33:43Z",
+            "content": "Ivory Aquino is taking a trip to the DC universe, The Hollywood Reporter has confirmed. Aquino has joined the cast of Batgirl and will appear as Alysia Yeoh, the best friend of Barbara Gordon/Batgirl… [+1501 chars]"
         },
         {
             "source": {
@@ -190,77 +242,25 @@
                 "name": "Al Jazeera English"
             },
             "author": "Al Jazeera",
-            "title": "Iran ‘will consider’ direct talks with US, says foreign minister - Al Jazeera English",
-            "description": "US administration says direct talks are ‘urgently needed’ to facilitate communication to restore the Iran nuclear deal.",
-            "url": "https://www.aljazeera.com/news/2022/1/24/iran-will-consider-direct-talks-with-us-says-foreign-minister",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/01/AP21279439797002.jpg?resize=1024%2C630",
-            "publishedAt": "2022-01-24T19:57:27Z",
-            "content": "Tehran is willing to engage in direct talks with Washington if negotiations to revive the Iranian nuclear deal reach an advanced stage that requires such dialogue, Irans foreign minister has said.\r\nH… [+3563 chars]"
+            "title": "Party on: New revelations heap pressure on UK PM Boris Johnson - Al Jazeera English",
+            "description": "Birthday party revelations come the week an official report into parties held during lockdown is to be published.",
+            "url": "https://www.aljazeera.com/news/2022/1/25/party-on-new-revelations-heap-pressure-on-uk-pm-boris-johnson",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/01/2022-01-24T114113Z_1569652775_RC2N5S94MT8R_RTRMADP_3_BRITAIN-POLITICS-JOHNSON.jpg?resize=1200%2C630",
+            "publishedAt": "2022-01-25T01:22:46Z",
+            "content": "Britains Prime Minister Boris Johnson is under mounting pressure after his office admitted to another Downing Street gathering, this time to mark his birthday in 2020.\r\nThe birthday celebration took … [+2529 chars]"
         },
         {
             "source": {
-                "id": "the-hill",
-                "name": "The Hill"
+                "id": "google-news",
+                "name": "Google News"
             },
-            "author": "Peter Sullivan",
-            "title": "Study finds high levels of omicron-fighting antibodies four months after Pfizer booster | TheHill - The Hill",
-            "description": "A new study shows high levels of coronavirus antibodies that fight the...",
-            "url": "https://thehill.com/policy/healthcare/591078-study-finds-high-levels-of-omicron-fighting-antibodies-four-months-after",
-            "urlToImage": "https://thehill.com/sites/default/files/article_images/coronavirus_vaccine_booster_082421getty_fda.jpg",
-            "publishedAt": "2022-01-24T19:50:58Z",
-            "content": "A new study shows high levels of coronavirus antibodies that fight the omicron variant four months after a third dose of the Pfizer vaccine, a positive sign for the durability of a booster shots effe… [+2270 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "Adam Teicher, Alaina Getzenberg",
-            "title": "Twenty-five points in 2 minutes? Inside the Kansas City Chiefs' thrilling victory over the Buffalo Bills - ESPN",
-            "description": "A look at the epic final two minutes of the divisional round game between the Bills and Chiefs through the words of those who played and coached in it.",
-            "url": "https://www.espn.com/nfl/story/_/id/33138797/twenty-five-points-2-minutes-kansas-city-chiefs-thrilling-victory-buffalo-bills",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0124%2Fr965445_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-01-24T19:50:22Z",
-            "content": "KANSAS CITY, Mo. -- Quarterback Patrick Mahomes was too busy Sunday night to consider the thoughts of most everyone watching, that the Kansas City Chiefs-Buffalo Bills divisional round playoff game w… [+11021 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Ben Sisario",
-            "title": "Sony Music Buys Bob Dylan’s Recorded Music - The New York Times",
-            "description": "The transaction for Dylan’s albums was made in July, about seven months after he made another deal — with Sony’s rival Universal Music — for his songwriting copyrights.",
-            "url": "https://www.nytimes.com/2022/01/24/arts/music/bob-dylan-sony-recordings.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/01/24/multimedia/24dylan/24dylan-facebookJumbo.jpg",
-            "publishedAt": "2022-01-24T19:47:06Z",
-            "content": "Dylans history with Columbia Records, which is owned by Sony, goes back more than 60 years. He was signed to the label in 1961, by its famed talent scout John Hammond, and Columbia released Dylans se… [+1279 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "2022 Baseball Hall of Fame announcement: Six storylines to watch when the vote is revealed - CBS Sports",
-            "description": "Will David Ortiz make the Hall of Fame? Who will fall off the ballot? Here's what to watch",
-            "url": "https://www.cbssports.com/mlb/news/2022-baseball-hall-of-fame-announcement-six-storylines-to-watch-when-the-vote-is-revealed/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/01/24/88c71ab5-18b5-49cd-83b4-eab60f7944e4/thumbnail/1200x675/10ca8a4507e73847126a8775cd64aeeb/david-ortiz-2.png",
-            "publishedAt": "2022-01-24T19:42:00Z",
-            "content": "The results of the BBWAA vote for the 2022 Baseball Hall of Fame class will be revealed Tuesday night on MLB Network. Notable names like Barry Bonds, Roger Clemens, David Ortiz, Curt Schilling and Sc… [+7947 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Tyler McCarthy",
-            "title": "Peloton speaks out after 'Billions' character suffers a heart attack after using the product - Fox Business",
-            "description": "Peloton was the subject of yet another fictional character’s health struggles besides Mr. Big after the popular exercise bike brand was featured in the most recent episode of the TV show ”Billions.”",
-            "url": "https://www.foxbusiness.com/entertainment/peloton-billions-character-heart-attack",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/01/0/0/David-Costabile-Getty.jpg?ve=1&tl=1",
-            "publishedAt": "2022-01-24T19:36:28Z",
-            "content": "Peloton was the subject of yet another fictional character’s health struggles after the popular exercise bike brand was featured in the most recent episode of the TV show \"Billions.\" \r\nThe brand made… [+2951 chars]"
+            "author": null,
+            "title": "Washington attorney general sues Google over location tracking - The Seattle Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiZWh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3Mvd2FzaGluZ3Rvbi1hdHRvcm5leS1nZW5lcmFsLXN1ZXMtZ29vZ2xlLW92ZXItbG9jYXRpb24tdHJhY2tpbmcv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-01-25T00:54:33Z",
+            "content": null
         }
     ]
 }
