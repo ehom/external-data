@@ -4,81 +4,224 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "New York Times"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Jeanna Smialek",
-            "title": "Fed Signals Rate Increase in March, Citing Inflation and Strong Job Market - The New York Times",
-            "description": "Jerome H. Powell, the Fed chair, said the central bank could raise rates at its March meeting.",
-            "url": "https://www.nytimes.com/2022/01/26/business/economy/fed-interest-rates-inflation.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/01/26/business/26dc-fed/26dc-fed-facebookJumbo.jpg",
-            "publishedAt": "2022-01-26T22:05:38Z",
-            "content": "The Fed has pivoted away from providing full-blast support as the economy rebounds strongly from its pandemic shock, and the new signal of an impending rate increase is the latest step in that proces… [+1729 chars]"
+            "author": "Aya Elamroussi, CNN",
+            "title": "Northeast faces heavy snow and blizzard conditions this weekend, but models are still unclear on how bad it will be - CNN",
+            "description": "Heavy snow and strong winds are expected to slam some metro areas in the Northeast where about five million people are planned to be under winter storm watches.",
+            "url": "https://www.cnn.com/2022/01/27/weather/noreaster-bomb-cyclone-storm-thursday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220126083801-weather-snow-forecast-card-20220126-super-tease.jpg",
+            "publishedAt": "2022-01-27T08:45:00Z",
+            "content": "Why limited details regarding the potential #winter storm Sat? Well, the average model error at this time range (3 days out) is over 150 miles! For example, where will the rain/#snow line setup? 150 … [+146 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "TMZ"
             },
-            "author": "Spencer Kimball",
-            "title": "Moderna starts clinical trial of booster shot targeting omicron Covid variant - CNBC",
-            "description": "The first participant in the trial has already received a dose of the omicron-specific booster shot, according to Moderna.",
-            "url": "https://www.cnbc.com/2022/01/26/moderna-starts-clinical-trial-of-booster-shot-targeting-omicron-covid-variant.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106868516-1618439730880-mod.jpg?v=1643231675",
-            "publishedAt": "2022-01-26T22:05:01Z",
-            "content": "Moderna started a clinical trial to study the safety and effectiveness of a booster shot that specifically targets the omicron Covid variant, the company announced Wednesday.\r\nThe first participant i… [+1735 chars]"
+            "author": "TMZ Staff",
+            "title": "Dylan Postl Condemns Peter Dinklage's Criticism of 'Snow White and 7 Dwarfs' Remake - TMZ",
+            "description": "Dylan Postl is NOT here for Peter Dinklage's hot take on the \"Snow White and the Seven Dwarfs\" remake.",
+            "url": "https://www.tmz.com/2022/01/27/dylan-postl-condemns-peter-dinklage-criticism-snow-white-7-dwarfs/",
+            "urlToImage": "https://imagez.tmz.com/image/82/16by9/2022/01/26/82df87fabfc1456986d266b620854afd_xl.jpg",
+            "publishedAt": "2022-01-27T08:40:00Z",
+            "content": "Dylan Postl is NOT here for Peter Dinklage's hot take on the \"Snow White and the Seven Dwarfs\" remake. Dylan says that the esteemed actor took things waaay too far... and as a result, he's actually h… [+1569 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Elon Musk space rocket on collision course with the Moon - Al Jazeera English",
+            "description": "Astronomer says the effects of the crash will be minor and similar impacts may have happened before, unnoticed.",
+            "url": "https://www.aljazeera.com/news/2022/1/27/astronomers-elon-musk-space-rocket-on-collision-course-with-moon",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/11/2021-11-19T105703Z_1183511424_RC2GXQ9JFAAZ_RTRMADP_3_LUNAR-ECLIPSE-BLOODMOON-NEW-YORK-1.jpg?resize=1200%2C630",
+            "publishedAt": "2022-01-27T08:23:06Z",
+            "content": "A chunk of a SpaceX rocket that blasted off seven years ago and was abandoned in space after completing its mission will crash into the Moon in March, experts say.\r\nThe rocket was deployed in 2015 to… [+3203 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Robyn Dixon, Rachel Pannett",
+            "title": "Russia meets NATO diplomacy with stony silence as the West races to shore up support for Ukraine - The Washington Post",
+            "description": "The U.S.-led alliance's written response to Russia reinforced its commitment to an open-door policy for nations that want to join NATO, as Moscow warned that it has « exhausted the limits of retreat. »",
+            "url": "https://www.washingtonpost.com/world/2022/01/27/ukraine-russia-us-nato-putin/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FXRCICT63QI6ZDGIW2LFMS5HSY.jpg&w=1440",
+            "publishedAt": "2022-01-27T06:40:46Z",
+            "content": "Senior Russian officials have not yet commented on written proposals by Washington and NATO, delivered late Wednesday, that spelled out their response to Moscows sweeping demands, including its ultim… [+7016 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "CBS Sports"
             },
-            "author": "Craig McCarthy, Nolan Hicks, Bernadette Hogan, Sam Raskin",
-            "title": "Gov. Hochul won't 'cave to pressure' as NYC Mayor Adams calls for bail changes - New York Post ",
-            "description": "New York Gov. Kathy Hochul rejected giving judges new powers to keep pre-trial suspects behind bars on Wednesday , delivering a potential setback to Mayor Eric Adams’ plan to tackle gun viole…",
-            "url": "https://nypost.com/2022/01/26/hochul-wont-cave-to-pressure-as-nyc-mayor-adams-calls-for-bail-changes/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/hochul-01-4.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2022-01-26T21:58:00Z",
-            "content": "Gov. Kathy Hochul on Wednesday rejected renewed calls to give judges new powers to keep pre-trial suspects behind bars, delivering a potential setback to a key part of Mayor Eric Adams’ new plan to t… [+5733 chars]"
+            "author": "Joel Corry",
+            "title": "Agent's Take: The Packers' reckoning with Aaron Rodgers and an inside look at the star QB's three options - CBS Sports",
+            "description": "Aaron Rodgers can make one of three choices about his future; here's what each would mean",
+            "url": "https://www.cbssports.com/nfl/news/agents-take-the-packers-reckoning-with-aaron-rodgers-and-an-inside-look-at-the-star-qbs-three-options/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/01/26/6dc57aca-a43e-4feb-8322-d8976579e367/thumbnail/1200x675/4555582d92927b4f6e61b7b85531256f/rodgers1.jpg",
+            "publishedAt": "2022-01-27T06:14:00Z",
+            "content": "The Packers suffered a stunning 13-10 defeat to the 49ers in the divisional playoff round. As the NFC's No. 1 seed for the second straight season, an early playoff exit wasn't anticipated. With Green… [+9425 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Anne Steele",
-            "title": "Spotify to Take Down Neil Young’s Music After His Joe Rogan Ultimatum - The Wall Street Journal",
-            "description": "The folk-rock star won’t back down after discussions with his record label and Spotify",
-            "url": "https://www.wsj.com/articles/neil-youngs-music-is-being-taken-down-by-spotify-after-ultimatum-over-joe-rogan-11643230104",
-            "urlToImage": "https://images.wsj.net/im-474811/social",
-            "publishedAt": "2022-01-26T21:41:00Z",
-            "content": "Spotify Technology SA\r\nis removing\r\nNeil Youngs\r\nmusic, as the folk-rock star isnt wavering in his objections to Joe Rogans podcast. The Heart of Gold and Harvest Moon singer earlier this week penned… [+1667 chars]"
+            "author": "Amy Dickinson",
+            "title": "Perspective | Ask Amy: Struggling to hold on to hope that the pandemic will end - The Washington Post",
+            "description": "Reader feels isolated and annoyed at the presumption that the pandemic will end one day. Is it responsible to keep hopes up?",
+            "url": "https://www.washingtonpost.com/advice/2022/01/27/ask-amy-hope-pandemic-will-end/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJZO64TPVYI6NFYFEPSRUL2CJU.jpg&w=1440",
+            "publishedAt": "2022-01-27T05:01:19Z",
+            "content": "For me, with the exception of work, I'm completely isolated from the world except for the Internet.\r\nI would love to get out like I did before the pandemic, but I don't see this ever ending.\r\nWhy kee… [+3799 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
+                "name": "Nintendo Life"
             },
-            "author": "Claudia Assis",
-            "title": "Tesla reports $2 billion Q4 profit, sales up 65%, but supply-chain snags crimp production - MarketWatch",
-            "description": "Factories are running below capacity, Tesla says; chip shortage ‘still an issue’",
-            "url": "https://www.marketwatch.com/story/tesla-reports-2-billion-q4-profit-sales-up-65-but-stock-falls-11643231962",
-            "urlToImage": "https://images.mktw.net/im-469552/social",
-            "publishedAt": "2022-01-26T21:19:00Z",
-            "content": "Tesla Inc. stock fell late Wednesday after the electric-vehicle maker reported quarterly profit and sales well above Wall Street expectations, but said its factories have been running below capacity … [+3160 chars]"
+            "author": "Liam Doolan",
+            "title": "Pokémon Legends: Arceus Tops Amazon's \"Best Sellers\" Chart, Unsurprisingly - Nintendo Life",
+            "description": "Physical copies have also sold out in some regions",
+            "url": "https://www.nintendolife.com/news/2022/01/pokemon-legends-arceus-tops-amazons-best-sellers-chart-unsurprisingly",
+            "urlToImage": "https://images.nintendolife.com/fb27303673a34/1280x720.jpg",
+            "publishedAt": "2022-01-27T04:45:00Z",
+            "content": "Image: The Pokémon Company\r\nAhead of the arrival of Pokémon Legends: Arceus on the Switch tomorrow, the game has already sold out in certain parts of the world on Amazon.\r\nOn both the US and UK Amazo… [+1484 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "One body found, 38 still missing from capsized migrant boat off Florida - Reuters",
+            "description": "Rescue crews recovered one body but hopes dimmed for 38 other people lost at sea over the weekend from a capsized boat off Florida's coast in an incident being treated as an ill-fatedhuman smuggling attempt, the U.S. Coast Guard said on Wednesday.",
+            "url": "https://www.reuters.com/world/us/us-coast-guard-finds-one-body-search-missing-after-boat-capsizes-off-florida-2022-01-26/",
+            "urlToImage": "https://www.reuters.com/resizer/PWxqEDp5TPD_jZTXNhmayqJMyr0=/859x450/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6KSVWX5X5VMPXIVVP2TV7TI3FY.jpg",
+            "publishedAt": "2022-01-27T04:42:00Z",
+            "content": "MIAMI, Jan 26 (Reuters) - Rescue crews recovered one body but hopes dimmed for 38 other people lost at sea over the weekend from a capsized boat off Florida's coast in an incident being treated as an… [+4750 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Hannah Grossman",
+            "title": "MSNBC guest 'shocked' Florida surgeon general's medical license wasn't revoked: 'we need to get this man' - Fox News",
+            "description": "MSNBC guest, who is a doctor, blasted Florida's surgeon general, Joseph Ladapo, and said 'we need to round up our girls and ... get this man'",
+            "url": "https://www.foxnews.com/media/msnbc-guest-reidout-uche-blackstock-florida-surgeon-general-joseph-ladapo",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/Joy-Reid-guest.png",
+            "publishedAt": "2022-01-27T04:34:35Z",
+            "content": "Dr. Uché Blackstock went on a rant against Florida's surgeon general, Joseph Ladapo, on MSNBC's \"ReidOut\" Wednesday, saying she was \"shocked\" his license had not been revoked over his stance on COVID… [+2649 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Patrick Brzeski",
+            "title": "‘Fight Club’ Author Chuck Palahniuk Says China’s Censored Ending Is Actually Truer to His Vision - Hollywood Reporter",
+            "description": "Chuck Palahniuk, author of the original novel on which David Fincher’s 1999 film Fight Club was based, responded Wednesday to news that China dramatically altered the ending of the movie to conform with local censorship rules. The original 1999 film, which st…",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/fight-club-author-chuck-palahniuk-says-chinas-censored-ending-is-actually-truer-to-his-vision-1235082239/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/01/fight-club-chuck.jpeg?w=1024",
+            "publishedAt": "2022-01-27T04:31:05Z",
+            "content": "Chuck Palahniuk, author of the original novel on which David Fincher’s 1999 film Fight Club was based, responded Wednesday to news that China dramatically altered the ending of the movie to conform w… [+3221 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Liberal U.S. Supreme Court Justice Breyer to retire, letting Biden pick successor - Reuters",
+            "description": "Liberal U.S. Supreme Court Justice Stephen Breyer plans to retire, lawmakers said on Wednesday, giving President Joe Biden the opportunity to fulfill a campaign promise to nominate the first Black woman to the nation's top judicial body.",
+            "url": "https://www.reuters.com/world/us/liberal-us-supreme-court-justice-stephen-breyer-retire-media-reports-2022-01-26/",
+            "urlToImage": "https://www.reuters.com/resizer/6UcgqW9M3MY7idvOVbIHmZItJhs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M5BZZLKQV5KAXHWTHV7GS6AOPY.jpg",
+            "publishedAt": "2022-01-27T04:06:00Z",
+            "content": "WASHINGTON, Jan 26 (Reuters) - Liberal U.S. Supreme Court Justice Stephen Breyer plans to retire, lawmakers said on Wednesday, giving President Joe Biden the opportunity to fulfill a campaign promise… [+5402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deseret News"
+            },
+            "author": "Herb Scribner",
+            "title": "COVID symptoms: 4 signs you’ll get long COVID - Deseret News",
+            "description": "Will you get long COVID? Here are the factors that could lead to long COVID from those infected with COVID.",
+            "url": "https://www.deseret.com/coronavirus/2022/1/26/22902487/long-covid-symptoms-side-effects-factors",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/OY-IbiVSXJczv2neDPTVAo4TZjE=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23102034/Omicron_2.jpg",
+            "publishedAt": "2022-01-27T03:30:00Z",
+            "content": "Theres new research that hints at four different factors that could increase your chances of getting long COVID-19 symptoms.\r\nThe news: A new study published Tuesday in the medical journal Cell ident… [+1725 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Yael Halon",
+            "title": "Boston father removed from heart transplant list over vaccine deteriorating 'so much, so quickly,' family says - Fox News",
+            "description": "The Boston man who was removed from the heart transplant list for not getting the COVID-19 vaccine was left fighting for his life on Tuesday after undergoing emergency open-heart surgery, his family told Tucker Carlson.",
+            "url": "https://www.foxnews.com/media/boston-father-covid-vaccine-heart-transplant-dj-ferguson",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4419ce20-b272-4580-8f2a-48c2c0222dba/dcea7dfb-efe2-45df-a647-7e957010c869/1280x720/match/image.jpg",
+            "publishedAt": "2022-01-27T03:21:25Z",
+            "content": "The Boston man who was removed from the heart transplant list for not getting the COVID-19 vaccine was left fighting for his life on Tuesday after undergoing emergency open-heart surgery, his family … [+3016 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Futures Fall After Hawkish Fed Wipes Out Big Gains; Tesla Leads Late Movers - Investor's Business Daily",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMingFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtZmVkLWNoaWVmLXBvd2VsbC1oYXdraXNoLWNvbW1lbnRzLXdpcGVzLW91dC1tYXJrZXQtcmFsbHktdGVzbGEtaGVhZGxpbmVzLWVhcm5pbmdzL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-01-27T02:57:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Brad Dress",
+            "title": "Amy Schneider's historic 'Jeopardy!' winning streak is over | TheHill - The Hill",
+            "description": "Amy Schneider's 40-game winning streak on \"Jeopardy!\" drew to a close on Wednesday after the hist...",
+            "url": "https://thehill.com/homenews/media/591567-amy-schneiders-historic-jeopardy-winning-streak-is-over",
+            "urlToImage": "https://thehill.com/sites/default/files/blogs/schneideramy_jeopardy_010522.jpg",
+            "publishedAt": "2022-01-27T02:32:14Z",
+            "content": "Amy Schneider's 40-game winning streak on \"Jeopardy!\" drew to a close on Wednesday after the history-making contestant lost to Chicago librarian Rhone Talsma.\r\nSchneider, the show's second-highest al… [+1562 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Here’s why Baseball Hall of Fame voters got it right with Barry Bonds and Roger Clemens - The Seattle Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMihAFodHRwczovL3d3dy5zZWF0dGxldGltZXMuY29tL3Nwb3J0cy9tYXJpbmVycy9oZXJlcy13aHktYmFzZWJhbGwtaGFsbC1vZi1mYW1lLXZvdGVycy1nb3QtaXQtcmlnaHQtd2l0aC1iYXJyeS1ib25kcy1hbmQtcm9nZXItY2xlbWVucy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-01-27T02:29:54Z",
+            "content": null
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Sonia Moghe and Eric Levenson, CNN",
-            "title": "Prince Andrew denies sexual abuse allegations and demands jury trial in Virginia Giuffre lawsuit - CNN",
-            "description": "Prince Andrew has formally denied allegations that he sexually abused Virginia Giuffre and has demanded a jury trial in her civil lawsuit, according to a legal filing Wednesday in the US District Court for the Southern District of New York.",
-            "url": "https://www.cnn.com/2022/01/26/us/prince-andrew-lawsuit-virginia-giuffre/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220120045819-prince-andrew-file-04112021-super-tease.jpg",
-            "publishedAt": "2022-01-26T20:54:00Z",
-            "content": "(CNN)Prince Andrew has formally denied allegations that he sexually abused Virginia Giuffre and has demanded a jury trial in her civil lawsuit, according to a legal filing Wednesday in the US Distric… [+3956 chars]"
+            "author": "Yoonjung Seo and Brad Lendon, CNN",
+            "title": "North Korea conducts what could be its 6th missile test this month, South Korea says - CNN",
+            "description": "North Korea fired what are presumed to be two short-range ballistic missiles into waters off the east coast of the Korean Peninsula on Thursday -- a move believed to be its sixth missile test this month, the South Korean military said.",
+            "url": "https://www.cnn.com/2022/01/26/asia/north-korea-missile-test-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200421005544-30-kim-jong-un-super-tease.jpg",
+            "publishedAt": "2022-01-27T02:24:00Z",
+            "content": "Seoul, South Korea (CNN)North Korea fired what are presumed to be two short-range ballistic missiles into waters off the east coast of the Korean Peninsula on Thursday -- a move believed to be its si… [+2147 chars]"
         },
         {
             "source": {
@@ -86,181 +229,38 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Where should James Harden direct his frustrations? | NBA Today - ESPN",
-            "description": "The NBA Today crew share their thoughts on the rumors of James Harden being dissatisfied with the situation with the Brooklyn Nets.✔️Subscribe to ESPN+ http:...",
-            "url": "https://www.youtube.com/watch?v=dPuUtgP20mc",
-            "urlToImage": "https://i.ytimg.com/vi/dPuUtgP20mc/maxresdefault.jpg",
-            "publishedAt": "2022-01-26T20:46:22Z",
+            "title": "Bobby Marks on James Harden's future with Nets | NBA on ESPN - ESPN",
+            "description": "Bobby Marks shares his thoughts and expectations for James Harden's future with the Brooklyn Nets.0:00 Intro1:11 Woj's post about Harden1:48 Beginning of Har...",
+            "url": "https://www.youtube.com/watch?v=6FV4a4pAkls",
+            "urlToImage": "https://i.ytimg.com/vi/6FV4a4pAkls/maxresdefault.jpg",
+            "publishedAt": "2022-01-27T02:20:54Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ashley Strickland, CNN",
-            "title": "Unknown space object beaming out radio signals every 18 minutes remains a mystery - CNN",
-            "description": "Astronomers have discovered a celestial object releasing giant bursts of energy. It's unlike anything they've ever seen before.",
-            "url": "https://www.cnn.com/2022/01/26/world/unusual-space-object-transient-scn/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220126123914-01-unknown-space-object-icrar-super-tease.jpg",
-            "publishedAt": "2022-01-26T20:42:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Ringer"
-            },
-            "author": "Kevin Clark",
-            "title": "Sean Payton Left the NFL. He Hasn’t Relinquished His Control Over It. - The Ringer",
-            "description": "It remains to be seen what Payton’s next move will be. But if and when he’s ready to return to the NFL, the league will be waiting for him.",
-            "url": "https://www.theringer.com/nfl/2022/1/26/22901584/sean-payton-saints-retirement-nfl-legacy",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/q6VdrD6e2cNBaRfYtT683D4Jcco=/0x0:1200x628/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23194991/SeanPaytonRetires_AP_Getty_Ringer.jpg",
-            "publishedAt": "2022-01-26T20:17:46Z",
-            "content": "Sean Payton does not, he said on Tuesday at his exit press conference, know whats next, and that makes him feel good. I, however, do know whats next for him, and I bet deep down he knows, too: He wil… [+6624 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Seth Davis and The Athletic Staff",
-            "title": "Louisville men's basketball coach Chris Mack out after 3-plus seasons - The Athletic",
-            "description": "The sides were in the final stages of negotiations for a separation agreement, a source with direct knowledge told The Athletic on Tuesday, and Mack told reporters in Louisville on Wednesday he harbors \"no bitterness\" over his departure.",
-            "url": "https://theathletic.com/news/louisville-mens-basketball-coach-chris-mack-out-after-3-plus-seasons/bNsfy3rA9KSs/",
-            "urlToImage": "https://cdn-media.theathletic.com/bNsfy3rA9KSs_bNsfy3rA9KSs_G8KNAiWAbOli_original_1440x960.jpg",
-            "publishedAt": "2022-01-26T20:15:00Z",
-            "content": "Chris Mack is out as Louisville's men's basketball coach after three-plus seasons. The sides were in the final stages of negotiations for a separation agreement, a source with direct knowledge told T… [+1960 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Discord is down - The Verge",
-            "description": "Discord is experiencing a major outage. Discord users can’t log into the service or participate in voice calls and text chats.",
-            "url": "https://www.theverge.com/2022/1/26/22903170/discord-down-outage-problems",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/bsF9ptPhjZaa7ML2cz02Eyz-6CI=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19816264/acastro_200318_1777_discord_0003.0.jpg",
-            "publishedAt": "2022-01-26T20:09:23Z",
-            "content": "Illustration by Alex Castro / The Verge\r\nDiscord is experiencing a widespread outage, preventing many users from connecting to the communications app. The outage started at around 2:45PM ET and preve… [+1733 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WPBF West Palm Beach"
-            },
-            "author": "Taylor Lang",
-            "title": "Survivor of capsized boat off Fort Pierce Inlet told rescuers his sister among missing, crew says - WPBF West Palm Beach",
-            "description": "The survivor of the capsized boat off Fort Pierce told crew members who rescued him that his sister was with him and remains unaccounted for, according to ABC News.",
-            "url": "https://www.wpbf.com/article/coast-guard-search-body-fort-pierce-inlet/38896324",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/coast-guard-gcd915ffaf-1920-1643143317.jpg?crop=0.946xw:1.00xh;0.0277xw,0&resize=1200:*",
-            "publishedAt": "2022-01-26T19:57:00Z",
-            "content": "The survivor of the capsized boat off Fort Pierce told crew members who rescued him that his sister was with him and remains unaccounted for, according to ABC News. \r\nThe Coast Guard will continue to… [+1681 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Robyn Dixon, Karoun Demirjian, Bryan Pietsch, Rick Noack",
-            "title": "Talks in Paris aim to resolve Ukraine crisis as Russia warns the West - The Washington Post",
-            "description": "President Biden is moving to bolster support for European allies, some of whom rely on Moscow for their energy needs, as fears of a renewed Russian invasion loom.",
-            "url": "https://www.washingtonpost.com/world/2022/01/26/ukraine-russia-sanctions-biden-putin/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CHSDET63EI6ZDGIW2LFMS5HSY.jpg&w=1440",
-            "publishedAt": "2022-01-26T19:41:15Z",
-            "content": "The initial response to the U.S. proposal was one of scorn from some in Russia. Russian parliament member Vladimir Dzhabarov, a senior figure on the Federation Councils foreign affairs committee, sai… [+9210 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jon Porter",
-            "title": "Samsung Galaxy S22 event: what to expect from Unpacked 2022 - The Verge",
-            "description": "Samsung’s Galaxy Unpacked is nearly upon us, and the Galaxy S22 rumors are heating up. On February 9th, we’re expecting to see the official announcement of its latest flagship phone series, and some new tablets.",
-            "url": "https://www.theverge.com/2022/1/26/22902649/samsung-galaxy-s22-unpacked-event-tab-s8-home-mini-2-date",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZO8GWpEkLDUQF6Zz6qzAizh8XHQ=/0x68:1080x633/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23135171/s22U.jpg",
-            "publishedAt": "2022-01-26T19:35:28Z",
-            "content": "Another Samsung launch event is nearly upon us. The South Korean tech giant has announced that its next Unpacked event will take place on February 9th, during which were expecting to see the official… [+8908 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Tom Tapp",
-            "title": "California Reports 11 Cases Of New “Stealth” Omicron Strain, BA.2 - Deadline",
-            "description": "Two days after the first cases of an offshoot of the more transmissible Omicron variant was discovered in the U.S., 11 cases of the strain, dubbed BA.2, were reported in California on Tuesday. Two of those cases were identified in one of the state’s most popu…",
-            "url": "https://deadline.com/2022/01/ba2-california-cases-stealth-omicron-1234920347/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-24-at-2.20.45-PM.png?w=1024",
-            "publishedAt": "2022-01-26T19:32:00Z",
-            "content": "Two days after the first cases of an offshoot of the more transmissible Omicron variant was discovered in the U.S., 11 cases of the strain, dubbed BA.2, were reported in California on Tuesday. Two of… [+2437 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Lorenzo Reyes, USA TODAY",
-            "title": "Cincinnati Bengals WR Ja'Marr Chase: 'Les Miles told me I couldn't play receiver' - USA TODAY",
-            "description": "Ja'Marr Chase had one of the most prolific seasons by a rookie wideout in NFL history. An ex-college coach once said he was better suited at corner.",
-            "url": "https://www.usatoday.com/story/sports/nfl/bengals/2022/01/26/jamarr-chase-les-miles-wide-receiver-cincinnati-bengals/9228731002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/01/03/USAT/45280d7a-8669-4f1f-b285-513654e9b2c3-AP_Ravens_Bengals_Football_1.jpg?auto=webp&crop=3763,2117,x0,y125&format=pjpg&width=1200",
-            "publishedAt": "2022-01-26T19:20:31Z",
-            "content": "One of the NFL's most promising wide receiver and the presumptive Offensive Rookie of the Year was once told by a prominent college football coach, the former coach at the eventual program where he p… [+2133 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Who is Burkina Faso coup leader Lt-Col Damiba? - BBC News",
-            "description": "Lt-Col Damiba took power in Burkina Faso just three weeks after his 41st birthday - what else do we know?",
-            "url": "https://www.bbc.com/news/world-africa-60141195",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14D03/production/_123015258_burkina3.jpg",
-            "publishedAt": "2022-01-26T19:17:13Z",
-            "content": "Trained by the US and France in warfare, the young Lt-Col Paul-Henri Sandaogo Damiba turned on his political masters in Burkina Faso by seizing power in a coup. \r\nHe anointed himself president just t… [+5277 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Joshua Rhett Miller",
-            "title": "100 bags of fentanyl found in Connecticut teen's room after he overdosed at school: cops - New York Post ",
-            "description": "Cops in Hartford found the potent drugs while executing a search warrant at the home of the seventh-grader on Jan. 13 after he overdosed earlier that day.",
-            "url": "https://nypost.com/2022/01/26/100-bags-of-fentanyl-found-in-connecticut-teens-room-after-overdose-cops/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/newspress-collage-20975611-1643223636022.png?w=1024",
-            "publishedAt": "2022-01-26T19:03:00Z",
-            "content": "A 13-year-old Connecticut boy who died after overdosing on fentanyl at school had about 100 bags of the powerful synthetic opioid in his bedroom, police said.\r\nCops in Hartford found the potent drugs… [+2421 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Katie Hunt, CNN",
-            "title": "Frogs can regrow amputated limbs after being treated with mix of drugs, new research finds - CNN",
-            "description": "Researchers in the US said Wednesday they were able to trigger the regrowth of an amputated leg in a type of African clawed frog (Xenopus laevis), in what they described as a \"step closer to the goal of regenerative medicine.\"",
-            "url": "https://www.cnn.com/2022/01/26/world/frogs-regenerate-limbs-scn/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220125131522-african-clawed-frog-stock-super-tease.jpg",
-            "publishedAt": "2022-01-26T19:00:00Z",
-            "content": "(CNN)Some unusual creatures have an innate ability to regrow a limb: salamanders, starfish, crabs, lizards and newts. \r\nSuch extraordinary powers elude most animals, including humans, although scient… [+4849 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Isabella Kwai",
-            "title": "2 More Arrested in UK in Case Linked to Texas Synagogue Standoff - The New York Times",
-            "description": "The men were held for questioning in the northern city of Manchester as part of a local investigation with counterterrorism officers that has already questioned several people.",
-            "url": "https://www.nytimes.com/2022/01/26/world/europe/texas-synagogue-hostage-arrests.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/01/26/world/26uk-texas01/26uk-texas01-facebookJumbo.jpg",
-            "publishedAt": "2022-01-26T18:21:20Z",
-            "content": "LONDON Police officers in England arrested two more men on Wednesday in connection with a hostage situation at a Texas synagogue earlier this month.\r\nA British man, Malik Faisal Akram, 44, who took f… [+877 chars]"
+            "author": "Azi Paybarah",
+            "title": "San Jose Moves to Require Gun Owners to Have Insurance and Pay Annual Fees - The New York Times",
+            "description": "A proposed ordinance, believed to be the first of its kind in the U.S., calls for an annual “harm reduction fee” of about $25 to pay for programs to stem gun violence.",
+            "url": "https://www.nytimes.com/2022/01/26/us/gun-owners-san-jose-insurance.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/26/multimedia/26xp-guns-01/26xp-guns-01-facebookJumbo.jpg",
+            "publishedAt": "2022-01-27T01:39:26Z",
+            "content": "Opponents have voiced a series of objections, calling the annual fee and insurance requirement an unfair burden on gun owners, an ineffective tool against gun crimes and a breach of constitutional ri… [+1456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Brproud.com"
+            },
+            "author": "Addy Bink, Nexstar Media Wire",
+            "title": "Neil Young’s music being pulled from Spotify after ‘Rogan or Young’ comments: reports - BRProud.com",
+            "description": "Neil Young’s music is reportedly coming off of Spotify, two days after he penned a letter to his management team and record label. He says the streaming service has been spreading “vaccine misinformation.”",
+            "url": "https://www.brproud.com/news/neil-youngs-music-being-pulled-from-spotify-after-rogan-or-young-comments-reports/",
+            "urlToImage": "https://www.brproud.com/wp-content/uploads/sites/80/2022/01/AP22025559380179.jpg?w=1280",
+            "publishedAt": "2022-01-27T01:39:17Z",
+            "content": "(NEXSTAR) – Neil Young’s music is coming off of Spotify after the singer penned an open letter saying the streaming service could have Joe Rogan’s podcast or his music, “not both.”\r\nOn Monday, Young … [+2127 chars]"
         }
     ]
 }
