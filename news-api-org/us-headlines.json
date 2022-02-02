@@ -1,162 +1,227 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 38,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Guinea-Bissau: Many dead after coup attempt, president says - BBC News",
+            "description": "President Embaló says he and his cabinet survived five hours under fire from heavy weaponry.",
+            "url": "https://www.bbc.com/news/world-africa-60220701",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58E6/production/_123085722_mediaitem123085721.jpg",
+            "publishedAt": "2022-02-02T09:08:26Z",
+            "content": "Image caption, Soldiers could be seen patrolling the government palace area\r\nThe president of Guinea-Bissau has said he survived a coup attempt after being under heavy gunfire for five hours.\r\nUmaro … [+3299 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aya Elamroussi, CNN",
+            "title": "More than 90 million are under winter weather alerts as states from Texas to Maine brace for a treacherous mix of ice and snow - CNN",
+            "description": "A powerful storm is threatening to bring a potentially crippling combination of snow and ice across the Midwest and South -- and officials are bracing for treacherous conditions and possible power outages.",
+            "url": "https://www.cnn.com/2022/02/02/weather/winter-snowstorm-midwest-south-northeast-wednesday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220201101556-weather-snow-ice-storm-card-super-tease.jpg",
+            "publishedAt": "2022-02-02T08:35:00Z",
+            "content": "(CNN)A powerful storm is threatening to bring a potentially crippling combination of snow and ice across the Midwest and South -- and officials are bracing for treacherous conditions and possible pow… [+4982 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nathan Hodge, Uliana Pavlova and Darya Tarasova, CNN",
+            "title": "Vladimir Putin says the West has 'ignored' Russia's key concerns over Ukraine - CNN",
+            "description": "Russian President Vladimir Putin said Tuesday that his government was studying the responses from the United States and NATO to his security demands related to Ukraine but that it was clear the Kremlin's main complaints \"had been ignored.\"",
+            "url": "https://www.cnn.com/2022/02/01/europe/vladimir-putin-west-ignored-russia-concerns-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220201131843-03-putin-orban-020122-super-tease.jpg",
+            "publishedAt": "2022-02-02T08:11:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Joseph Zucker",
+            "title": "Brian Flores Says Stephen Ross Offered Him $100K per Dolphins Loss in 2019 to Tank - Bleacher Report",
+            "description": "Former Miami Dolphins head coach Brian Flores has <a...",
+            "url": "https://bleacherreport.com/articles/10025579-brian-flores-says-stephen-ross-offered-him-100k-per-dolphins-loss-in-2019-to-tank",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/x_766,y_511,w_7650,h_5094,c_crop/v1643749545/gyhxqvpgn1nhwpjplzpy.jpg",
+            "publishedAt": "2022-02-02T07:44:19Z",
+            "content": "Mark Brown/Getty Images\r\nFormer Miami Dolphins head coach Brian Flores has filed suit against the NFL and its teams, including his former employer, alleging the league \"remains rife with racism, part… [+3926 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Zoe Zoe, Jordan Freiman",
+            "title": "2 campus police officers shot and killed at Bridgewater College in Virginia - CBS News",
+            "description": "A suspect has been taken into custody.",
+            "url": "https://www.cbsnews.com/news/bridgewater-active-shooter-campus-police/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/02/02/0bff3a9c-855c-4fc6-aac7-e03de5ff59c8/thumbnail/1200x630/07fa1e777c61d8db3e57add110f7096b/bridgewater-college-campus-safety-officer-j-j-jefferson-left-and-campus-police-officer-john-painter.jpg",
+            "publishedAt": "2022-02-02T07:42:00Z",
+            "content": "A campus law enforcement officer and a campus safety officer at Virginia's Bridgewater College were shot and killed on Tuesday, according to the school. The alleged shooter is in custody, Virginia St… [+2991 chars]"
+        },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Alan Rappeport",
-            "title": "U.S. National Debt Tops $30 Trillion as Borrowing Surged Amid Pandemic - The New York Times",
-            "description": "The record red ink, fueled by spending to combat the coronavirus, comes as interest rates are expected to rise, which could add to America’s costs.",
-            "url": "https://www.nytimes.com/2022/02/01/us/politics/national-debt-30-trillion.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/02/01/business/00dc-debt1/00dc-debt1-facebookJumbo.jpg",
-            "publishedAt": "2022-02-01T22:19:06Z",
-            "content": "The Fed has also been keeping long-term interest rates low by buying government-backed debt and holding those securities on its balance sheet. Those purchases are set to wrap up next month, and last … [+2808 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Caroll Alvarado, CNN",
-            "title": "Two officers shot in active shooter incident at Bridgewater College - CNN",
-            "description": "Two officers have been shot in an active shooter incident at Bridgewater College, Virginia State Police tweeted.",
-            "url": "https://www.cnn.com/2022/02/01/us/bridgewater-college-active-shooter-reports/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220201143215-01-bridgewater-college-super-tease.jpg",
-            "publishedAt": "2022-02-01T22:14:00Z",
-            "content": null
+            "author": "Jenny Gross, Neil Vigdor",
+            "title": "ABC Suspends Whoopi Goldberg Over Holocaust Comments - The New York Times",
+            "description": "Ms. Goldberg’s comments, on Monday’s episode of “The View,” came amid growing ignorance about the Holocaust and rising antisemitism. She has apologized.",
+            "url": "https://www.nytimes.com/2022/02/01/us/whoopi-goldberg-holocaust.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/01/multimedia/01whoopi-promo/01whoopi-promo-facebookJumbo.jpg",
+            "publishedAt": "2022-02-02T07:33:00Z",
+            "content": "On Mondays program, Ms. Goldberg had been discussing a Tennessee school districts recent decision to remove a Pulitzer Prize-winning graphic novel about the Holocaust from its curriculum. On Monday n… [+1517 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Chicago Tribune"
+                "name": "Daily Mail"
             },
-            "author": "Katherine Rosenberg-Douglas, Dan Petrella, Tracy Swartz",
-            "title": "With snowstorm on the way, schools begin to cancel Wednesday classes; Gov. J.B. Pritzker declares disaster, activates National Guard in central Illinois - Chicago Tribune",
-            "description": "By at least 8 p.m. snowfall will have begun and it is expected to continue through most of the day Wednesday, according to meteorologists.",
-            "url": "https://www.chicagotribune.com/weather/ct-chicago-weather-winter-storm-snow-20220201-znj2mxifbjhrzn4jin5n3xe2de-story.html",
-            "urlToImage": "https://www.chicagotribune.com/resizer/24yJ-rpb9_XFj9y5en1IPkYWdto=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/G77OKPKXXZEMBA2BYHK5TSHZ7U.JPG",
-            "publishedAt": "2022-02-01T22:11:00Z",
-            "content": "Not since the Crosstown Classic of (much) warmer days has there been more at stake between the division of Chicagos North and South sides. But it isnt a Cubs-White Sox thing this time: Forecasters su… [+6589 chars]"
+            "author": "Harriet Alexander",
+            "title": "The truth about Joe Rohan's controversial guests Dr Malone and Dr McCullough - Daily Mail",
+            "description": "Joe Rogan in December hosted two controversial doctors on his podcast to discuss COVID-19. Their views, shared in two three-hour episodes of his show, have sparked widespread anger.",
+            "url": "https://www.dailymail.co.uk/news/article-10466285/The-truth-Joe-Rohans-controversial-guests-Dr-Malone-Dr-McCullough.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/02/02/07/53671083-0-image-a-65_1643785576214.jpg",
+            "publishedAt": "2022-02-02T07:02:11Z",
+            "content": "Podcast host Joe Rogan has faced a storm of controversy over his interviews about COVID-19, with musicians such as Neil Young and Joni Mitchell abandoning Spotify in protest at the site hosting his s… [+39797 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Barron's"
+                "name": "New York Times"
             },
-            "author": "Connor Smith",
-            "title": "Alphabet Stock Is Soaring After an Impressive Earnings Beat - Barron's",
-            "description": "The Google parent reported fourth-quarter sales of $75.3 billion, up 32% year over year. The company also announced a 20-for-one stock split.",
-            "url": "https://www.barrons.com/articles/alphabet-google-earnings-stock-51643747233",
-            "urlToImage": "https://images.barrons.com/im-477691/social",
-            "publishedAt": "2022-02-01T21:42:00Z",
-            "content": "Alphabet\r\ncrushed expectations and announced plans for a 20-for-one stock split after the market closed on Tuesday. Investors liked what they saw.The Google parent reported fourth-quarter sales of $7… [+3160 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "John Bowden",
-            "title": "White House urges Spotify to take further action on Joe Rogan: ‘More can be done’ - The Independent",
-            "description": "Psaki says Spotify disclaimer is welcome, but platform could actually fight misinformation",
-            "url": "https://www.independent.co.uk/news/world/americas/us-politics/joe-rogan-spotify-covid-white-house-b2005488.html",
-            "urlToImage": "https://static.independent.co.uk/2022/02/01/20/GettyImages-975449576.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2022-02-01T21:37:24Z",
-            "content": "White House press secretary Jen Psaki called on music and podcast streaming giant Spotify to do more in the fight against Covid-19 misinformation on Tuesday.\r\nAt her daily press briefing, President J… [+3393 chars]"
+            "author": "Yan Zhuang",
+            "title": "Tonga Goes Into Lockdown Over Covid Cases - The New York Times",
+            "description": "Among the infected are two workers who were helping to distribute aid shipments at the Tongan wharf after a volcanic eruption and tsunami tested positive.",
+            "url": "https://www.nytimes.com/2022/02/01/world/asia/tonga-lockdown.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/02/multimedia/02virus-briefing-tonga/02virus-briefing-tonga-facebookJumbo.jpg",
+            "publishedAt": "2022-02-02T06:59:00Z",
+            "content": "Mr. Sovaleni said at a news conference on Tuesday night that the authorities were in the process of identifying from which ship the transmission had spread.\r\nWe are working on it, and we have the rec… [+1081 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "MLB.com"
             },
-            "author": "Dade Hayes",
-            "title": "NFL Hit With Class-Action Racial Discrimination Suit From Ex-Miami Dolphin Coach Brian Flores, Who Cites Bill Belichick Texts In Complaint - Deadline",
-            "description": "Brian Flores, the former coach of the Miami Dolphins, has filed a racial discrimination lawsuit against the NFL and three of its teams, dropping a bombshell in the runup to the Super Bowl. The complaint (read it HERE) is a proposed class-action case naming th…",
-            "url": "https://deadline.com/2022/02/nfl-hit-with-class-action-racial-discrimination-suit-from-ex-miami-dolphin-coach-brian-flores-who-cites-bill-belichick-texts-in-complaint-1234924402/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/02/Brian-Flores.jpg?w=1024",
-            "publishedAt": "2022-02-01T21:36:00Z",
-            "content": "UPDATED with NFL response. The NFL says the allegations of racial discrimination detailed by former Miami Dolphins head coach Brian Flores are “without merit.” In its full statement, the league said,… [+5613 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Bryan Mena",
-            "title": "U.S. Job Openings, Quits Remained Elevated at End of Last Year - The Wall Street Journal",
-            "description": "Private-sector data for January showed early signs of a pullback in demand for workers",
-            "url": "https://www.wsj.com/articles/job-openings-us-growth-labor-market-turnover-02-01-2022-11643670099",
-            "urlToImage": "https://images.wsj.net/im-477319/social",
-            "publishedAt": "2022-02-01T21:35:00Z",
-            "content": "The U.S. labor market remained tight at the end of last year with job openings and worker turnover hovering near the highest levels on record, though there are signs demand cooled as the Omicron vari… [+5171 chars]"
+            "author": "Mark Feinsand",
+            "title": "Union responds to MLB in latest CBA meeting - MLB.com",
+            "description": "Less than one week after Major League Baseball made proposals with the hope of creating a path toward a new Collective Bargaining Agreement, the MLB Players Association countered Tuesday with minimal movement on a number of issues.\nPer sources, the MLBPA offe…",
+            "url": "https://www.mlb.com/news/mlb-mlbpa-continue-negotiations",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/c5qcp0ykr6wd6sjfha6u.jpg",
+            "publishedAt": "2022-02-02T06:29:42Z",
+            "content": "Less than one week after Major League Baseball made proposals with the hope of creating a path toward a new Collective Bargaining Agreement, the MLB Players Association countered Tuesday with minimal… [+2926 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Kotaku"
+                "name": "New York Post"
             },
-            "author": "Luke Plunkett",
-            "title": "Worms Studio Ditches NFT Scam After Only 24 Hours - Kotaku",
-            "description": "'We have listened to our teamsters, development partners, and our games’ communities'",
-            "url": "https://kotaku.com/worms-nft-team17-metaworms-crypto-aggro-crab-playtonic-1848462846",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3e88b7fccdf148188bad4e8b7729a2c8.jpg",
-            "publishedAt": "2022-02-01T21:30:00Z",
-            "content": "Yesterday Team17the studio behind the classic Worms seriesannounced it was getting into the NFT space, teaming up with a third party to release collectible digital artwork based on one of the most be… [+1718 chars]"
+            "author": "Joseph Staszewski",
+            "title": "Antonio Brown uses tribute video to congratulate Tom Brady on retirement - New York Post ",
+            "description": "Antonio Brown thanked and congratulated the retiring Tom Brady with a video on Instagram. Brady officially called it quits after 22 seasons — including two-plus with Brown — on Tuesday. The former …",
+            "url": "https://nypost.com/2022/02/01/antonio-brown-congratulates-tom-brady-on-retirement-with-video/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/newspress-collage-21058494-1643777097901.png?w=1024",
+            "publishedAt": "2022-02-02T04:53:00Z",
+            "content": "Antonio Brown thanked and congratulated the retiring Tom Brady with a video on Instagram.\r\nBrady officially called it quits after 22 seasons including two-plus with Brown on Tuesday. The former Bucca… [+1316 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Starbucks to hike prices to offset inflation; lowers profit guidance - Fox Business",
+            "description": "Starbucks Corp will raise menu prices in 2022 and reduce some spending to offset soaring costs for labor and goods, as rising COVID-19 cases prompted the coffee chain on Tuesday to lower estimates for profits this year.",
+            "url": "https://www.reuters.com/business/retail-consumer/starbucks-misses-comparable-sales-estimates-omicron-hit-2022-02-01/",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/01/0/0/Starbucks-employee.jpg?ve=1&tl=1",
+            "publishedAt": "2022-02-02T04:25:26Z",
+            "content": "Starbucks Corp will raise menu prices in 2022 and reduce some spending to offset soaring costs for labor and goods, as rising COVID-19 cases prompted the coffee chain on Tuesday to lower estimates fo… [+3063 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "KOAT New Mexico"
             },
-            "author": "Kevin Breuninger, Christina Wilkie",
-            "title": "Democratic Sen. Ben Ray Lujan suffered a stroke, which could complicate Biden's Supreme Court plans - CNBC",
-            "description": "Sen. Ben Ray Lujan, a Democrat, is \"expected to make a full recovery\" after suffering a stroke in his cerebellum, his chief of staff said in a statement.",
-            "url": "https://www.cnbc.com/2022/02/01/sen-ben-ray-lujan-suffered-stroke-and-underwent-surgery.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107009736-1643750090142-gettyimages-1236524172-border244_110221.jpeg?v=1643750141",
-            "publishedAt": "2022-02-01T21:27:29Z",
-            "content": "New Mexico Sen. Ben Ray Lujan suffered a stroke last week and underwent brain surgery, his office revealed Tuesday.\r\nLujan, a Democrat, is currently hospitalized and is \"expected to make a full recov… [+3775 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Christina Maxouris, CNN",
-            "title": "One student dead, another injured in Richfield, Minnesota, shooting, police chief says - CNN",
-            "description": "One student is dead and one injured after a shooting at a school in Richfield, Minnesota, officials announced Tuesday.",
-            "url": "https://www.cnn.com/2022/02/01/us/mn-south-education-center-shooting/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220201131951-02-richfield-mn-possible-shooting-0201-super-tease.jpg",
-            "publishedAt": "2022-02-01T20:56:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Daniel Canova",
-            "title": "Raiders owner Mark Davis says Josh McDaniels told him Tom Brady fumbled on 'Tuck Rule' play - Fox News",
-            "description": "A day before Tom Brady announced his retirement from the NFL, his longtime offensive coordinator Josh McDaniels agreed to become the next head coach of the Las Vegas Raiders.",
-            "url": "https://www.foxnews.com/sports/raiders-owner-mark-davis-josh-mcdaniels-tom-brady-fumbled-tuck-rule-play",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/GettyImages-51707660.jpg",
-            "publishedAt": "2022-02-01T20:50:48Z",
-            "content": "A day before Tom Brady announced his retirement from the NFL, his longtime offensive coordinator Josh McDaniels agreed to become the next head coach of the Las Vegas Raiders.\r\nRaiders owner Mark Davi… [+2570 chars]"
+            "author": "Victoria Shupryt",
+            "title": "U.S. Sen. Ben Ray Luján hospitalized - KOAT New Mexico",
+            "description": "U.S. Sen. Ben Ray Luján is currently being hospitalized after experiencing a stroke Thursday morning.",
+            "url": "https://www.koat.com/article/us-senator-ben-ray-lujan-hospitalized-stroke/38954454",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ben-ray-luhan-png-1553997709.png?crop=1.00xw:0.887xh;0,0.00513xh&resize=1200:*",
+            "publishedAt": "2022-02-02T04:18:00Z",
+            "content": "SANTA FE, N.M. —U.S. Sen. Ben Ray Luján is currently being hospitalized after experiencing a stroke last Thursday morning.\r\nAccording to his chief of staff, Carlos Sanchez, Luján was experiencing diz… [+2591 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NBCSports.com"
+                "name": "Daily Mail"
             },
-            "author": "Josh Alper",
-            "title": "Jimmy Garoppolo: I just want to go to a place where they want to win - NBC Sports",
-            "description": "49ers head coach Kyle Shanahan said that no decisions have been made regarding what the team will do with quarterback Jimmy Garoppolo when he spoke to reporters on Tuesday, but Garoppolo sounded like he knows what the end result of that process is going to be…",
-            "url": "https://profootballtalk.nbcsports.com/2022/02/01/jimmy-garoppolo-i-just-want-to-go-to-a-place-where-they-want-to-win/",
-            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/02/GettyImages-1367935174-e1643748088764.jpg",
-            "publishedAt": "2022-02-01T20:42:00Z",
-            "content": "49ers head coach Kyle Shanahan said that no decisions have been made regarding what the team will do with quarterback Jimmy Garoppolo when he spoke to reporters on Tuesday, but Garoppolo sounded like… [+918 chars]"
+            "author": "Carly Johnson",
+            "title": "Paris and Prince Jackson at opening night of MJ: The Musical - Daily Mail",
+            "description": "Michael Jackson's children Paris, Prince, and Blanket turned out in support during the star-studded opening night of Broadway's MJ: The Musical at the Neil Simon Theatre in New York City .",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-10466527/Michael-Jacksons-daughter-Paris-son-Prince-opening-night-Broadways-MJ-Musical.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/02/02/06/53670781-0-image-a-33_1643784603121.jpg",
+            "publishedAt": "2022-02-02T03:57:00Z",
+            "content": "Michael Jackson's children Paris, Prince, and Blanket turned out in support during the star-studded opening night of Broadway's MJ: The Musical at the Neil Simon Theatre in New York City.\r\nMJ: The Mu… [+7429 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deseret News"
+            },
+            "author": "Herb Scribner",
+            "title": "Omicron variant symptoms: Is muscle pain an omicron symptom? - Deseret News",
+            "description": "An omicron variant symptom can be found in your knee. Muscle pains may be an omicron variant symptom. Read more about the omicron variant symptoms.",
+            "url": "https://www.deseret.com/coronavirus/2022/2/1/22912457/omicron-variant-symptom-muscle-pain-knee",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_6K6YKb6FmEVYWZ9UlgNdv0rVi4=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23130723/Omicron_3.jpg",
+            "publishedAt": "2022-02-02T03:30:00Z",
+            "content": "Muscle pain has emerged as one of the biggest COVID-19 symptoms during the omicron variant wave.\r\nWhats happening: Dr. Charu Dutt Arora, a COVID-19 expert who works with medical services at the Asian… [+1109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Ashley Joy Parker",
+            "title": "Cause of Death Officially Confirmed for Miss USA 2019 Cheslie Kryst - E! NEWS",
+            "description": "Former beauty queen Cheslie Kryst died earlier this week, and now her manner of death has been revealed.",
+            "url": "https://www.eonline.com/news/1318333/cause-of-death-officially-confirmed-for-miss-usa-2019-cheslie-kryst",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022030/rs_1200x1200-220130143017-1200-Cheslie-Kryst.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-02-02T02:45:00Z",
+            "content": "Two days after the tragic passing of Cheslie Kryst, the official cause of death of the former Miss USA has been revealed.\r\nThe New York City Office of Chief Medical Examiner confirmed to People on Fe… [+985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Geoff Keighley Says A Few Other Big Video Game Deals Are In The \"Final Stages Of Negotiations\" - Nintendo Life",
+            "description": "\"It's going to be an interesting year!\"",
+            "url": "https://www.nintendolife.com/news/2022/02/geoff-keighley-says-a-few-other-big-video-game-deals-are-in-the-final-stages-of-negotiations",
+            "urlToImage": "https://images.nintendolife.com/a5e7ecd4eb0b2/1280x720.jpg",
+            "publishedAt": "2022-02-02T02:00:00Z",
+            "content": "Image: The Game Awards\r\nSony has already mentioned how there'll be more acquisitions from PlayStation in the near future, and that might not be all.\r\nAccording to The Game Awards creator and host, Ge… [+948 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KARE11.com"
+            },
+            "author": "Bill Strande",
+            "title": "1 student dead, another critically wounded in shooting outside Richfield school; 2 arrested - KARE11.com",
+            "description": "Squads from multiple departments were dispatched to the South Education Center just after noon on reports of a shooting with injuries.",
+            "url": "https://www.kare11.com/article/news/local/1-student-killed-another-injured-shooting-outside-richfield-school/89-3e77b3ca-ed16-4ae7-8661-751be3ab661d",
+            "urlToImage": "https://media.kare11.com/assets/KARE/images/d151dffe-0f2b-42a7-80a3-3afc05c95290/d151dffe-0f2b-42a7-80a3-3afc05c95290_1140x641.jpg",
+            "publishedAt": "2022-02-02T01:52:30Z",
+            "content": "RICHFIELD, Minn. One student is dead and another is in critical condition after a shooting outside a school in Richfield Tuesday.\r\nAt a news conference Tuesday afternoon, Richfield Police Chief Jay H… [+9040 chars]"
         },
         {
             "source": {
@@ -164,103 +229,38 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Putin accuses U.S. of trying to lure Russia into war - Reuters",
-            "description": "Russian President Vladimir Putin accused the West on Tuesday of deliberately creating a scenario designed to lure it into war and ignoring Russia's security concerns over Ukraine.",
-            "url": "https://www.reuters.com/world/europe/ukraine-announces-plan-boost-army-foreign-leaders-rally-2022-02-01/",
-            "urlToImage": "https://www.reuters.com/resizer/puzBJXZCp_xOxE86LlhyVbP3Qho=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GCOUNTEJJBP6XFGQIZPQCLNPPE.jpg",
-            "publishedAt": "2022-02-01T20:39:00Z",
-            "content": "KYIV/MOSCOW, Feb 1 (Reuters) - Russian President Vladimir Putin accused the West on Tuesday of deliberately creating a scenario designed to lure it into war and ignoring Russia's security concerns ov… [+6395 chars]"
+            "title": "Google propels record Alphabet revenue, driving shares up 8% - Reuters",
+            "description": "Google parent Alphabet Inc <a href=\"https://www.reuters.com/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)</a> reported record quarterly sales that topped expectations on Tuesday, as its internet advertising business surged on consumers using Google search as t…",
+            "url": "https://www.reuters.com/technology/google-parent-alphabet-beats-revenue-estimates-online-ad-strength-2022-02-01/",
+            "urlToImage": "https://www.reuters.com/resizer/Rynz11w1F74_LKwdRdJ0FtwL3bs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2VNOUUKUYZJKRAPPUE7JSWMOQ4.jpg",
+            "publishedAt": "2022-02-02T01:12:00Z",
+            "content": "Feb 1 (Reuters) - Google parent Alphabet Inc (GOOGL.O) reported record quarterly sales that topped expectations on Tuesday, as its internet advertising business surged on consumers using Google searc… [+5544 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Times"
+                "name": "The Guardian"
             },
-            "author": "Neal E. Boudette",
-            "title": "Tesla Recalls Cars With Full Self-Driving to Prevent Rolling Stops - The New York Times",
-            "description": "Tesla told the federal regulator that rolling stops were allowed only at intersections when no cars, pedestrians or bicyclists were detected but agreed to disable the feature.",
-            "url": "https://www.nytimes.com/2022/02/01/business/tesla-recall.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/02/01/multimedia/01tesla-recall/01tesla-recall-facebookJumbo.jpg",
-            "publishedAt": "2022-02-01T19:19:36Z",
-            "content": "Full Self-Driving is more advanced than Teslas more widely used Autopilot driver assistance system. Despite their names, neither system can operate a car without active engagement by a human driver.\r… [+1348 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Ecuador landslide: at least 24 dead after hillside collapses in capital Quito - The Guardian",
+            "description": "Witness describes water and rocks pouring in through doors and windows before buildings destroyed",
+            "url": "https://amp.theguardian.com/world/2022/feb/02/ecuador-landslide-deaths-hillside-collapses-quito",
+            "urlToImage": "https://i.guim.co.uk/img/media/33cf868434282bb70dbf22cac8d5e4cb2bd16031/0_48_5472_3283/master/5472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d7bd76d46a91f7e97d1f577c9387dd6",
+            "publishedAt": "2022-02-02T00:24:00Z",
+            "content": "A rain-weakened hillside collapsed in Ecuadors capital, Quito, sweeping over homes and a sports field and killing at least 24 people, city officials have said.\r\nThe Quito Security Department also sai… [+1981 chars]"
         },
         {
             "source": {
-                "id": "abc-news",
-                "name": "ABC News"
+                "id": "bloomberg",
+                "name": "Bloomberg"
             },
-            "author": "ALAN FRAM Associated Press",
-            "title": "Manchin, key Dem, says Build Back Better bill is 'dead' - ABC News",
-            "description": "",
-            "url": "https://abcnews.go.com/Politics/wireStory/manchin-key-dem-build-back-bill-dead-82603192",
-            "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_72189ecb002a4f3da1ee355cf565b115_16x9_992.jpg",
-            "publishedAt": "2022-02-01T19:18:45Z",
-            "content": "WASHINGTON -- Sen. Joe Manchin declared Tuesday that President Joe Biden's vast social and environment bill is dead, using his strongest language to date to underscore that any revival of Democrats' … [+2534 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Ruth Maclean, Caleb Kabanda, Nanna Heitmann",
-            "title": "In Congo, Floating Pastors Follow Mobile Flocks Along Busy River - The New York Times",
-            "description": "To find the faithful, preachers in some areas of the Democratic Republic of Congo hold church where the crowds are, on boats traveling the country’s water highway.",
-            "url": "https://www.nytimes.com/2022/02/01/world/africa/congo-river-pastors.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/01/28/world/00Congo-RiverPastors-Dispatch-promo/00Congo-RiverPastors-Dispatch-01-facebookJumbo.jpg",
-            "publishedAt": "2022-02-01T19:16:16Z",
-            "content": "Evangelizing somehow feels more urgent on the river, he said, in part because trips are so hazardous. Traveling at night is technically banned, but this is rarely enforced. Life jackets are mandatory… [+836 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Omar Abdel-Baqui",
-            "title": "India Arie, Graham Nash Plan to Leave Spotify, Following Neil Young’s Protest of Joe Rogan - The Wall Street Journal",
-            "description": "Announcements are latest in a string of moves made by other musicians in recent days",
-            "url": "https://www.wsj.com/articles/graham-nash-india-arie-plan-to-leave-spotify-following-neil-young-in-protest-of-joe-rogan-11643742971",
-            "urlToImage": "https://images.wsj.net/im-477885/social",
-            "publishedAt": "2022-02-01T19:16:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Katie Hunt, CNN",
-            "title": "99 million-year-old flowers found perfectly preserved in amber bloomed at the feet of dinosaurs - CNN",
-            "description": "Flowers discovered perfectly preserved in globs of amber bloomed at the feet of dinosaurs, suggesting that flowers that grow in South Africa today have remained unchanged for 99 million years.",
-            "url": "https://www.cnn.com/2022/02/01/asia/ancient-flowers-amber-scn/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220201102635-01-ancient-flowers-amber-scn-super-tease.jpeg",
-            "publishedAt": "2022-02-01T18:33:00Z",
-            "content": "(CNN)Flowers discovered perfectly preserved in globs of amber bloomed at the feet of dinosaurs, suggesting that some flowering plants in South Africa todayhave remained unchanged for 99 million years… [+4741 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Tariq Malik",
-            "title": "SpaceX's next Starlink mission may fly Wednesday, setting up rocket launch doubleheader - Space.com",
-            "description": "Two Falcon 9 rockets could launch from California and Florida less than two hours apart.",
-            "url": "https://www.space.com/spacex-falcon-9-starlink-nrol-87-double-launch-possible",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Xn3qRKBPwjXqkmucK97T48-1200-80.jpg",
-            "publishedAt": "2022-02-01T18:11:33Z",
-            "content": "SpaceX appears to be targeting Wednesday (Feb. 2) to fly its next batch of Starlink satellites, setting up what could be a coast-to-coast launch doubleheader for the private spaceflight company. \r\nAc… [+2351 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Rachel Pannett, Adela Suliman",
-            "title": "Coronavirus live updates and omicron variant news - The Washington Post",
-            "description": "Pfizer and its partner, BioNTech, are expected to request emergency use authorization from the Food and Drug Administration as early as Tuesday.",
-            "url": "https://www.washingtonpost.com/nation/2022/02/01/covid-omicron-variant-live-updates/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YJGR4ZUDGEI6ZFI4DYGMG4R6KM.jpg&w=1440",
-            "publishedAt": "2022-02-01T18:11:15Z",
-            "content": "The coronavirus pandemic is estimated to have created tens of thousands of tons of extra medical waste around the world, threatening the environment and human health, the World Health Organization sa… [+2272 chars]"
+            "author": null,
+            "title": "Alphabet Stock Split Aimed at Bringing Google Shares to Masses - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=809760bd-83d3-11ec-aaa7-6f4966564246&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMi0wMi9hbHBoYWJldC1zdG9jay1zcGxpdC1haW1lZC1hdC1icmluZ2luZy1nb29nbGUtc2hhcmVzLXRvLW1hc3Nlcw==",
+            "urlToImage": null,
+            "publishedAt": "2022-02-02T00:10:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
         }
     ]
 }
