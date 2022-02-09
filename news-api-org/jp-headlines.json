@@ -4,16 +4,68 @@
     "articles": [
         {
             "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "ロシア軍艦6隻、地中海から黒海に航行 演習に参加＝インタファクス - ロイター (Reuters Japan)",
+            "description": "ロシアのインタファクス通信は８日、国防省の発表として、ロシア軍艦６隻が演習に参加するために地中海から黒海に向かって航行していると報じた。事前に計画された移動の一環としている。",
+            "url": "https://jp.reuters.com/article/ukraine-crisis-russia-navy-idJPKBN2KD2G7",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20220208&t=2&i=1590503493&r=LYNXMPEI1717U&w=800",
+            "publishedAt": "2022-02-08T22:07:00Z",
+            "content": "Russian navy officers line up on the deck as the guided missile cruiser Moskva (Moscow) sails back into a harbour after tracking NATO warships in the Black Sea, in the port of Sevastopol, Crimea Nove… [+136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "塚本直樹",
+            "title": "iPad向けにXcodeやLogic Pro、Final Cut Proがいよいよやってくる？ - ギズモード・ジャパン",
+            "description": "待ってます！iPadといえばプロ向けのアプリが随分揃ってきましたが、肝心のApple（アップル）製のアプリ｢Xcode｣｢Logic Pro｣｢Final Cut Pro｣がまだ登場していません。しかし、そのiPad向けアプリのリリースが近いことが海外サイトにて報じられていますよ！iPadで私が一番使いたいアプリは、Adobe（アドビ）の｢Premiere Pro｣。現在リリースされている｢Pr",
+            "url": "https://www.gizmodo.jp/2022/02/ipad-final-cut-pro.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/02/08/20220208_2157261_h720-w960.jpeg",
+            "publishedAt": "2022-02-08T22:00:00Z",
+            "content": "iPadAppleXcodeLogic ProFinal Cut ProiPad\r\niPadAdobePremiere ProPremiere RushFinal Cut ProiPad\r\niDropNewsXcodeLogic ProFinal CutApple\r\n6WWDC2023\r\nXcodeLogic ProFinal Cut ProiPadMiPadiPad\r\nSource: iDro… [+4 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bloomberg.co.jp"
+            },
+            "author": null,
+            "title": "米国株上昇、シクリカルや小型銘柄に買い－景気への自信示唆 - ブルームバーグ",
+            "description": "８日の米株式相場は広範に上昇。シクリカル銘柄や小型株が買われ、金融政策引き締めの中でも成長見通しへの投資家の信頼感が改善しつつあることを示唆した。",
+            "url": "https://www.bloomberg.co.jp/news/articles/2022-02-08/R6ZZY6T1UM1201",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iytbVzMNhrmY/v0/1200x800.jpg",
+            "publishedAt": "2022-02-08T21:50:00Z",
+            "content": "８日の米株式相場は広範に上昇。シクリカル銘柄や小型株が買われ、金融政策引き締めの中でも成長見通しへの投資家の信頼感が改善しつつあることを示唆した。\r\n<table>\r\n<tr><td><ul><li>米国株は上昇、ラッセル2000種の上げ目立つ－ダウ371ドル高</li><li>米国債は下落、10年債利回り1.96％に上昇</li><li>ドルは上昇、対円で115円台半ば－米利回り上昇が支え</… [+1943 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Nhk.or.jp"
             },
             "author": null,
-            "title": "ソフトバンクグループ 子会社「Arm」の米企業への売却契約解消 - NHK NEWS WEB",
-            "description": "ソフトバンクグループは、子会社で、イギリスの世界的な半導体開発会社の「Arm」をアメリカの半導体大手、エヌビディアに日本…",
-            "url": "https://www3.nhk.or.jp/news/html/20220208/k10013473581000.html",
-            "urlToImage": "https://www3.nhk.or.jp/news/html/20220208/K10013473581_2202081637_2202081704_01_02.jpg",
-            "publishedAt": "2022-02-08T10:22:16Z",
-            "content": "Arm48"
+            "title": "来週期限の13都県「まん延防止」来月6日までの延長 10日決定へ - NHK NEWS WEB",
+            "description": "来週13日が期限の東京など13都県のまん延防止等重点措置について、政府は、医療のひっ迫を回避したいとして来月6日まで3週…",
+            "url": "https://www3.nhk.or.jp/news/html/20220209/k10013474611000.html",
+            "urlToImage": "https://www3.nhk.or.jp/news/html/20220209/K10013474611_2202082033_2202090603_01_02.jpg",
+            "publishedAt": "2022-02-08T21:03:12Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Getnavi.jp"
+            },
+            "author": "佐藤まきこ",
+            "title": "4000京個も!?「ブラックホール」は無数にあった - GetNavi web",
+            "description": "途方もなく高密度で強力な重力によって、あらゆる物質や光が逃げ出すことのできない「ブラックホール」。最近、このブラックホールが、私たちの想像を遥かに超えるほど大量に宇宙空間に存在することが明らかになりました。",
+            "url": "https://getnavi.jp/world/700218/",
+            "urlToImage": "https://getnavi.jp/wps/wp-content/uploads/2022/02/20220208_kubo01.jpg",
+            "publishedAt": "2022-02-08T21:00:00Z",
+            "content": "COSMOSXNASA\r\n11\r\nSISSA3\r\n40,000,000,000,000,000,0004000401940010900\r\n1\r\nSicilia, A., Lapi, A., et al. (2022). The Black Hole Mass Function Across Cosmic Times. I. Stellar Black Holes and Light Seed D… [+87 chars]"
         },
         {
             "source": {
@@ -21,103 +73,12 @@
                 "name": "Weathernews.jp"
             },
             "author": "ウェザーニュース",
-            "title": "東京の大雪予想 変化しやすい影響 その見積もりは？ - ウェザーニュース",
-            "description": "今週10日(木)は南岸低気圧の通過により、東京でも大雪となる予想です。積雪具合によって生活への影響も変わってきます。前回10cmの積雪を観測した1月6日と比較して予想される影響をまとめました。",
-            "url": "https://weathernews.jp/s/topics/202202/080105/",
-            "urlToImage": "https://smtgvs.weathernews.jp/s/topics/img/202202/202202080105_top_img_A.jpg?1644292144",
-            "publishedAt": "2022-02-08T08:27:00Z",
+            "title": "週間天気予報 明日は東京で大雪のおそれ、三連休終盤も雨や雪に - ウェザーニュース",
+            "description": "この先1週間の天気のポイントは「明日は関東で大雪のおそれ」「三連休終盤も低気圧で雨や雪」「暦は春でも寒い日が続く」です。ウェザーニュースの最新の天気予報を随時確認してください。",
+            "url": "https://weathernews.jp/s/topics/202202/090035/",
+            "urlToImage": "https://smtgvs.weathernews.jp/s/topics/img/202202/202202090035_top_img_A.png?1644353029",
+            "publishedAt": "2022-02-08T20:45:00Z",
             "content": "{{topic.rank}}\r\n{{topic.pageTitle}}{{editTstr(topic.editTime)}}"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "author": null,
-            "title": "「サンライズ」社名変更。バンダイナムコの映像・音楽事業が統合 - AV Watch",
-            "description": "サンライズと、バンダイナムコアーツの映像部門、バンダイナムコライツマーケティングが統合。映像新会社「バンダイナムコフィルムワークス」として4月1日より始動する。なお、「サンライズ」ブランドは今後も存続する。",
-            "url": "https://av.watch.impress.co.jp/docs/news/1386917.html",
-            "urlToImage": "https://av.watch.impress.co.jp/img/avw/list/1386/917/bn1.jpg",
-            "publishedAt": "2022-02-08T08:20:30Z",
-            "content": "Copyright ©2018Impress Corporation. All rights reserved."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Agara.co.jp"
-            },
-            "author": "https://www.facebook.com/agara.kiiminpo/",
-            "title": "【速報】新たに５５９人感染 和歌山県、高齢者の死亡続く：紀伊民報AGARA - 紀伊民報",
-            "description": "和歌山県は８日、県内で新たに５５９人が新型コロナウイルスに感染したと発表した。過去３番目の多さ。また、岩出保健所管内の70代男性と湯浅保健所管内の90代男性の死亡を確認した。　保健所管内別の新規感染者...",
-            "url": "https://www.agara.co.jp/article/179107",
-            "urlToImage": "https://www.agara.co.jp/image/article/800x600/0/a/1/b/0a1b6fbe298192f04f7b1f917d0d0068_1.jpg",
-            "publishedAt": "2022-02-08T08:10:00Z",
-            "content": "<ul><li></li><li></li><li></li><li></li><li></li></ul>"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": null,
-            "title": "Anker製品が安い！ モバイルプロジェクターが25％オフなど、楽天でセール開催中。2月11日 01:59まで - Engadget日本版",
-            "description": "楽天市場にて、ショップ買いまわりでおトクになる「お買い物マラソン」が2月11日（金）01:59まで開催中。これにともない、アンカー・ダイレクト楽天市場店では、モバイルプロジェクターやワイヤレスイヤホン、モバイルバッテリー、ロボット掃除機などがお買い得価格になっています。",
-            "url": "https://japanese.engadget.com/sale-rakuten-anker-075054870.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/665119b0-88b2-11ec-b6bd-70e1e36f8550",
-            "publishedAt": "2022-02-08T08:03:26Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nhk.or.jp"
-            },
-            "author": "日本放送協会",
-            "title": "大阪知事が医療非常事態宣言 “病床の確保に努める”｜NHK 関西のニュース - nhk.or.jp",
-            "description": "大阪府の吉村知事は、新型コロナの感染拡大で医療提供体制が極めてひっ迫しているとして医療非常事態を宣言し、入院患者の転院や退院をサポートする…",
-            "url": "https://www3.nhk.or.jp/kansai-news/20220208/2000057566.html",
-            "urlToImage": "https://www3.nhk.or.jp/kansai-news/20220208/2000057566_20220208183955_m.jpg",
-            "publishedAt": "2022-02-08T08:01:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tokyo-np.co.jp"
-            },
-            "author": "東京新聞 TOKYO Web",
-            "title": "＜新型コロナ・8日＞東京都で新たに1万7113人感染 死者11人 - 東京新聞",
-            "description": "東京都は８日、新型コロナウイルスの新たな感染者１万７１１３人と死者１１人を確認したと発表した。重症者は都の基準で５１人。病床使用率は５...",
-            "url": "https://www.tokyo-np.co.jp/article/159001",
-            "urlToImage": "https://static.tokyo-np.co.jp/image/article/size1/2/6/7/1/267128d7e65040f28f8028824afe896a_1.jpg",
-            "publishedAt": "2022-02-08T07:53:33Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hochi.news"
-            },
-            "author": "報知新聞社",
-            "title": "安藤美姫さん、羽生結弦のＳＰに「羽生選手のミスではない」「ただただミゾにハマってしまった」 - スポーツ報知",
-            "description": "フィギュアスケート元世界女王の安藤美姫さんが８日に自身のツイッターを更新し、羽生結弦（ＡＮＡ）のＳＰの演技について言及した。",
-            "url": "https://hochi.news/articles/20220208-OHT1T51131.html",
-            "urlToImage": "https://hochi.news/images/2022/02/08/20220208-OHT1I51161-L.jpg",
-            "publishedAt": "2022-02-08T07:37:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kahoku.news"
-            },
-            "author": "河北新報社",
-            "title": "【速報】新型コロナ 宮城で６７６人感染 前週火曜を１８０人上回る - 河北新報オンライン",
-            "description": "宮城県と仙台市は８日、１０歳未満から９０代にかけての計６７６人が新型コロナウイルスに感染したと発表した。前週の火曜日（１日、４９６人）を１８０人上回った。　市町村別の内訳は仙台市４３６人、石巻市４…",
-            "url": "https://kahoku.news/articles/20220208khn000023.html",
-            "urlToImage": "https://kahoku.news/images/2022/02/08/20220208khn000023/001_size7.jpg",
-            "publishedAt": "2022-02-08T07:10:21Z",
-            "content": "KAHOKU SHIMPO PUBLISHING CO."
         },
         {
             "source": {
@@ -125,116 +86,142 @@
                 "name": "Nikkei.com"
             },
             "author": "日本経済新聞社",
-            "title": "ソフトバンクG純利益98%減 10～12月、投資価値急減 - 日本経済新聞",
-            "description": "ソフトバンクグループ（SBG）が8日発表した2021年10～12月期の連結決算（国際会計基準）は純利益が290億円だった。前年同期（1兆1719億円）に比べ98%減になった。世界の新興企業に投資するビジョン・ファンド（SVF）で、主に中国の投資先企業の株価が大幅に下げたことが響いた。英半導体設計子会社アームの売却計画も頓挫し、先行きの不透明感は増している。SBGは投資先企業の価値を四半期ごとに",
-            "url": "https://www.nikkei.com/article/DGXZQOUB083I90Y2A200C2000000/",
-            "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO1570965008022022000000-1.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=08746e6f0d93784648a24dc63e3d53c8",
-            "publishedAt": "2022-02-08T06:20:28Z",
-            "content": "SBG8202110122901171998%SVF\r\nSBG..."
+            "title": "NYダウ続伸、371ドル高 長期金利上昇で金融株に買い（写真=ロイター） - 日本経済新聞",
+            "description": "【NQNニューヨーク=戸部実華】8日の米株式市場でダウ工業株30種平均は続伸し、前日比371ドル65セント（1.1%）高の3万5462ドル78セントで終えた。バイオ製薬のアムジェンが大幅高となり、ダウ平均を押し上げた。米長期金利が一時1.97%と2019年11月以来の高水準を付け、利ざや拡大期待から金融株が買われたことも相場を支えた。アムジェンは8日に発表した2030年までの長期の業績見通しや",
+            "url": "https://www.nikkei.com/article/DGXZQOGN00001_Z00C22A2000000/",
+            "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO1574684009022022000000-1.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=caa0cacf36bd930fa45a8475301e8023",
+            "publishedAt": "2022-02-08T20:11:56Z",
+            "content": "NQN=830371651.1%35462781.97%201911\r\n820308%1115\r\nFRB101CPIJP2%\r\n3%2%\r\n2%2%4\r\n178.7871.3%14194.455"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Staff",
+            "title": "インド、現代自のカシミール関連ツイートで韓国大使に不快感表明 - ロイター (Reuters Japan)",
+            "description": "韓国の現代自動車のパキスタンのパートナー、ニシャット・グループによるカシミール地方に関するソーシャルメディア（ＳＮＳ）への投稿についてインド政府は８日、駐インド韓国大使を呼んで不快感を表明したことを明らかにした。",
+            "url": "https://jp.reuters.com/article/hyundai-motor-india-pakistan-idJPKBN2KD251",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20220208&t=2&i=1590483240&r=LYNXMPEI17125&w=800",
+            "publishedAt": "2022-02-08T18:11:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "The-ans.jp"
+                "name": "F1-gate.com"
+            },
+            "author": "F1-Gate.com 編集部",
+            "title": "アルファタウリF1、Ravenol（ラベノール）と公式潤滑油パートナー契約 - F1-Gate.com",
+            "description": "スクーデリア・アルファタウリは、ドイツの世界的オイルメーカー『Ravenol』（ラベノール）をチームの公式潤滑油パートナーとして迎え入れた。ドイツに拠点を置く『Ravensberger Schmierstoffvertrieb GmbH』は、自動車部門で素晴らしいパフォーマンスを生み出す製品の開発において名高く、モータースポーツ業界にその名を轟かしてきた。",
+            "url": "https://f1-gate.com/alphatauri/f1_67130.html",
+            "urlToImage": "https://f1-gate.com/media/img2022/20220208-alphatauri-f1.jpg",
+            "publishedAt": "2022-02-08T16:20:00Z",
+            "content": "RavenolRavensberger Schmierstoffvertrieb GmbH\r\nRavensberger Schmierstoffvertrieb GmbHRavenolAT03Ravenol\r\n, F1Ravenol\r\nRavensberger Schmierstoffvertrieb GmbH, 100\r\nRavenol1946Ravensberger Schmierstoff… [+25 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "4gamer.net"
+            },
+            "author": "編集部：杉浦 諒",
+            "title": "「Apex Legends」新シーズン“デファイアンス”開幕。バトルパスを紹介するトレイラーが公開に - 4Gamer.net",
+            "description": "Electronic Artsは2022年2月9日，オンラインFPS「Apex Legends」の新シーズン“デファイアンス”をスタートし，新たなバトルパスを紹介する最新トレイラーを公開した。トレイラーでは，バトルパスで入手できる各種スキンなどを確認できる。",
+            "url": "https://www.4gamer.net/games/449/G044914/20220208109/",
+            "urlToImage": "https://www.4gamer.net/games/449/G044914/20220208109/SS/002.jpg",
+            "publishedAt": "2022-02-08T16:00:00Z",
+            "content": "Electronic ArtsRespawn EntertainmentApex Legends 3Apex Legends Apex LegendsYouTube291\r\n URLhttps://www.youtube.com/watch?v=RLQTvggTPy4\r\nApex Legends \r\n399\r\nApex\r\nBGM\r\n333\r\nApex Legends PlayStation 4P… [+105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Mainichi"
+            },
+            "author": "毎日新聞",
+            "title": "高梨沙羅、インスタに真っ黒な画像「みんなの人生変えてしまった」 - 毎日新聞 - 毎日新聞",
+            "description": "北京オリンピックで7日にあったノルディックスキー・ジャンプの混合団体に出場した高梨沙羅（25）＝クラレ＝が8日、自身のインスタグラム（写真共有アプリ）を更新した。4位となった日本の1番手で出場し、1回目に失格になったことについて「日本チームみんなのメダルのチャンスを奪ってしまったこと、今までチーム",
+            "url": "https://mainichi.jp/articles/20220208/k00/00m/050/375000c",
+            "urlToImage": "https://cdn.mainichi.jp/vol1/2022/02/08/20220208k0000m050374000p/0c10.jpg?1",
+            "publishedAt": "2022-02-08T14:54:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nikkei.com"
+            },
+            "author": "日本経済新聞社",
+            "title": "欧州のLNG輸入、1月4倍 ガス確保前進でロシアに対抗 - 日本経済新聞",
+            "description": "欧州が天然ガス不足を回避するため、液化天然ガス（LNG）の輸入を急速に増やしている。今年1月の輸入量は1年前の4倍に拡大し、在庫確保に前進した。需要がピークになる冬場を乗り切れるかどうかが焦点だ。米欧はガスの手当て次第で対ロ制裁の姿勢を強める可能性がある。ロシア―欧州間のパイプラインを通じたガス供給をカードにした米ロ交渉は山場に入る。「かなりの部分を補えるだろう」。バイデン米大統領は7日、ドイ",
+            "url": "https://www.nikkei.com/article/DGXZQOUB07CH60X00C22A2000000/",
+            "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO1574114008022022000000-1.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=74886c96e5c7d1a81c147993121cd2f7",
+            "publishedAt": "2022-02-08T14:52:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sponichi.co.jp"
+            },
+            "author": "スポニチ Sponichi Annex",
+            "title": "藤原竜也 ものまねタレントにチクリ「ここ何年も野放しにしてますが…」 - スポーツニッポン新聞社",
+            "description": "体調について松山は「元気で、ちょうど今風呂を沸かしながらゲームのアプリをしていた。課金しようか悩んでいたところです」とコメント。課金を回避するための助言を求… - スポーツニッポン新聞社の公式サイト（www.sponichi.co.jp）。",
+            "url": "https://www.sponichi.co.jp/entertainment/news/2022/02/08/kiji/20220208s00041000670000c.html",
+            "urlToImage": "https://www.sponichi.co.jp/entertainment/news/2022/02/08/jpeg/20220208s00041000668000p_view.jpg",
+            "publishedAt": "2022-02-08T14:15:00Z",
+            "content": "Copyright © SPORTS NIPPON NEWSPAPERS. All Rights Reserved.\r\nSponichi Annex"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eiga.com"
+            },
+            "author": "映画.com",
+            "title": "【第94回アカデミー賞】「ドライブ・マイ・カー」4部門ノミネート！ 作品賞は日本映画として史上初の快挙 - 映画.com",
+            "description": "米アカデミー賞を主催する映画芸術科学アカデミーは2月8日（現地時間）、第94回アカデミー賞のノミネート作品を発表した。北米でのオスカー前哨戦で健闘してきた濱口竜介監督の「ドライブ・マイ・カー」は、作品賞、監督賞、脚色賞（濱口、大江崇允）、国",
+            "url": "https://eiga.com/news/20220208/16/",
+            "urlToImage": "https://eiga.k-img.com/images/buzz/94818/2deb9a457233dc30/640.jpg",
+            "publishedAt": "2022-02-08T13:45:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Auone.jp"
             },
             "author": null,
-            "title": "「ジャンプ界で最も成功した悲劇の存在」 高梨沙羅、大国ドイツは伝説級の功績を称賛 - THE ANSWER",
-            "description": "北京五輪は7日、新種目のノルディックスキージャンプ混合団体（出場10チーム）が行われ、日本は4位入賞となった。高梨沙羅（クラレ）がスーツの規定違反で1回目は失格となったが、ドイツメディアは「スキージャンプで最も成功した悲劇的存在」と報じる一方で、元ドイツ代表コーチは「アスリートとして称賛している」と偉大な功績に改めて拍手を送った。",
-            "url": "https://the-ans.jp/beijing-olympics-2022/217551/",
-            "urlToImage": "https://the-ans.jp/wp-content/uploads/2022/02/08082345/20220208_Takanashi_Sara_ap.jpg",
-            "publishedAt": "2022-02-08T06:05:29Z",
+            "title": "ゆうちゃみ、テレビ番組企画でけい骨骨折、９日に手術へ - auone.jp",
+            "description": "au Webポータル",
+            "url": "https://article.auone.jp/detail/1/5/9/202_9_r_20220208_1644328021890553",
+            "urlToImage": "https://portal.st-img.jp/thumb/58159e76b13319d9e461204892f16ada_1644328021_l.jpg",
+            "publishedAt": "2022-02-08T13:45:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Nhk.or.jp"
+                "name": "Minpo.jp"
             },
-            "author": "日本放送協会",
-            "title": "高知県「まん延防止等重点措置」適用 政府に要請｜NHK 高知県のニュース - NHK NEWS WEB",
-            "description": "新型コロナウイルスの感染の急拡大をうけ、高知県は８日、まん延防止等重点措置の適用を国に要請しました。適用されれば、高知県は県内の飲食店に対…",
-            "url": "https://www3.nhk.or.jp/lnews/kochi/20220208/8010013916.html",
-            "urlToImage": "https://www3.nhk.or.jp/lnews/kochi/20220208/8010013916_20220208191233_m.jpg",
-            "publishedAt": "2022-02-08T05:58:00Z",
-            "content": null
+            "author": null,
+            "title": "自治体、学校など１６組織が感染発表【新型コロナ 福島県内感染者情報】 | 福島民報 - 福島民報",
+            "description": "▼南会津町の教職員１人　南会津町教委は町立学校に勤務する４０代女性教職員の感染が確認されたと８日、発表した。児童生徒を含む学校関係者に濃厚接触者はいない。…",
+            "url": "https://www.minpo.jp/news/moredetail/2022020894294",
+            "urlToImage": "https://www.minpo.jp/common/img/news/2022020894294_0.jpg",
+            "publishedAt": "2022-02-08T12:50:00Z",
+            "content": "2022/02/08 21:50\r\n© FUKUSHIMA-MINPO CO., LTD. All Rights Reserved."
         },
         {
             "source": {
                 "id": null,
-                "name": "Cnn.co.jp"
+                "name": "Sorae.info"
             },
-            "author": "翻訳：CNN.co.jp編集部",
-            "title": "コロナ規制反対デモ２週目に突入 まひ状態の首都、非常事態を宣言 カナダ - CNN.co.jp",
-            "description": "カナダ全土で続く新型コロナウイルス規制反対のデモは今週で２週目に入った。各地で道路がふさがれ、ヘイトクライム（憎悪犯罪）関連の捜査が行われ、石や卵が投げつけられるなどの事件で逮捕者が出ている。首都オタワのジム・ワトソン市長は６日に非常事態を宣言した。",
-            "url": "https://www.cnn.co.jp/world/35183226.html",
-            "urlToImage": "https://www.cnn.co.jp/storage/2022/02/08/fa5d5600a34c446feb33000c3c391343/t/768/432/d/220207010324-canada-vax-protest-02062022-super-169.jpg",
-            "publishedAt": "2022-02-08T04:03:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Famitsu.com"
-            },
-            "author": "猫塚きてぃ",
-            "title": "『Apex』シーズン12はまもなく開幕！ フラットラインは材料30で作成可能、ランクマッチのポイントシステムにも変更。パッチノート＆バトルパストレーラーが公開中 - ファミ通.com",
-            "description": "エレクトロニック・アーツのバトルロイヤル型FPS『Apex Legends』（エーペックスレジェンズ）において、シーズン12“デファイアンス”がまもなく開幕する。パッチノート、バトルパストレーラーも新たに公開！",
-            "url": "https://www.famitsu.com/news/202202/08250554.html",
-            "urlToImage": "https://www.famitsu.com/images/000/250/554/z_6201e5a97c159.jpg",
-            "publishedAt": "2022-02-08T03:50:00Z",
-            "content": "(C)2022 Electronic Arts Inc."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkansports.com"
-            },
-            "author": "日刊スポーツ",
-            "title": "新庄ビッグボスが3000万円ランボルギーニ・ウルスで古巣阪神キャンプ地に登場 - ニッカンスポーツ",
-            "description": "日本ハム新庄剛志監督（50）が約3000万円とみられる黒のランボルギーニ・ウルスに乗って古巣阪神のキャンプ地へ登場した。車を降りるとユニホーム姿。「おはようご… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-            "url": "https://www.nikkansports.com/baseball/news/202202080000304.html",
-            "urlToImage": "https://www.nikkansports.com/baseball/news/img/202202080000304-w500_0.jpg",
-            "publishedAt": "2022-02-08T03:08:48Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkansports.com"
-            },
-            "author": "日刊スポーツ",
-            "title": "乃木坂46北野日奈子、セカンド写真集「希望の方角」で９年間のアイドル活動を締めくくる - 坂道の火曜日 - 芸能コラム - ニッカンスポーツ",
-            "description": "乃木坂46北野日奈子（25）が、今日8日発売のセカンド写真集「希望の方角」（白夜書房）への思いを語った。明るく無邪気なキャラクターで9年間グループを支え続けた… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-            "url": "https://www.nikkansports.com/entertainment/column/sakamichi/news/202202080000176.html",
-            "urlToImage": "https://www.nikkansports.com/entertainment/column/sakamichi/news/img/202202080000176-w500_0.jpg",
-            "publishedAt": "2022-02-08T03:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Itmedia.co.jp"
-            },
-            "author": "�[�ːi�H�C�˂Ƃ��",
-            "title": "「双子か！」「同じ顔してます」 中村獅童、4歳息子・陽喜との“顔まね”ショットがシンクロ率120％（1/2 ページ） - - ねとらぼ",
-            "description": "�z�삭�񂩂킢������ȁB",
-            "url": "https://nlab.itmedia.co.jp/nl/articles/2202/08/news088.html",
-            "urlToImage": "https://image.itmedia.co.jp/nl/articles/2202/08/cover_news088.jpg",
-            "publishedAt": "2022-02-08T02:55:00Z",
-            "content": "@oD28InstagramXVB4qzijg}lheqVbgJAt@uzvuoqIvB\r\n@u[vRgYAxt@~[svo^UBu[}lvH1R}eqVbgAZeq\\|[YAxBzV[B\r\n@ADA1qijNhLbYXy[XVlqJBOeANHKh}uqa13lvinKA_QqA[Gnui vvAzuvB\r\n@t@Au z}ZvuzA`vueqvuppveqAufGvu[`vK1t@… [+52 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Huffingtonpost.jp"
-            },
-            "author": "高橋史弥（Fumiya Takahashi）",
-            "title": "首に鎖をつなぎ拘束、子どもは8人...「奴隷のよう」精神疾患抱える女性への人権侵害に、中国で怒り広まる - ハフポスト日本版",
-            "description": "「なぜ8人もの子どもが産まれたのか説明がない。この女性の権利をどうやって保障する気なんだ」とか「性的暴行の罪には問われないのか」などのコメントが寄せられている",
-            "url": "https://www.huffingtonpost.jp/entry/story_jp_6201c05ae4b06abdc4344696",
-            "urlToImage": "https://img.huffingtonpost.com/asset/6201d3a42500004b272b164a.jpeg?cache=pGtZOfRmoU&ops=1200_630",
-            "publishedAt": "2022-02-08T02:41:59Z",
-            "content": "WORLD\r\n28\r\n1996\r\n1998\r\n20216\r\n8"
+            "author": "吉田 哲郎",
+            "title": "ミーアキャットが観測した天の川銀河。中心部を取り囲む未知の天体も捉える - sorae 宇宙へのポータルサイト",
+            "description": "銀河の中心部では何が起きているのでしょうか？ 可視光は星間ダストで遮られるため、光学望遠鏡ではよくわかりません。しかし、電波など他の帯域の光（電磁波）で観測すれば、銀河の中心部を画像化することができ、",
+            "url": "https://sorae.info/astronomy/20220208-meerkat-sgra.html",
+            "urlToImage": "https://sorae.info/wp-content/uploads/2022/02/638decd3f4014a88958b7de307628535.jpg",
+            "publishedAt": "2022-02-08T12:26:35Z",
+            "content": "MeerKATCredit: Ian Heywood (Oxford U.), SARAO; Color Processing: Juan Carlos Munoz-Mateos (ESO)\r\n64MeerKAT42\r\nSgr ACredit: Ian Heywood (Oxford U.), SARAO; Color Processing: Juan Carlos Munoz-Mateos (… [+328 chars]"
         },
         {
             "source": {
@@ -242,25 +229,38 @@
                 "name": "Sankei.com"
             },
             "author": "産経ニュース",
-            "title": "プーチン氏「露・ＮＡＴＯの戦争も」 仏露首脳、ウクライナ情勢を協議 - 産経ニュース",
-            "description": "【モスクワ＝小野田雄一】ロシアのプーチン大統領は７日、モスクワでフランスのマクロン大統領と会談し、ロシアによる侵攻が懸念されるウクライナ情勢や、北大西洋条約機…",
-            "url": "https://www.sankei.com/article/20220208-BENR5EQQGFK23P224B4W2UXWRA/",
-            "urlToImage": "https://www.sankei.com/resizer/q2Y0iWk8QdFs_Oyeu0pLldVvf5E=/1200x630/filters:focal(1453x1526:1463x1536)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/KTJNSWI2RRO3JHTTQHU433QATI.jpg",
-            "publishedAt": "2022-02-08T02:07:17Z",
+            "title": "リスクを負った蔡英文政権 野党は「暗黒の一日」と批判 - 産経ニュース",
+            "description": "【台北＝矢板明夫】台湾の蔡英文政権は８日、福島県など５県の食品の輸入解禁に踏み切った。日台間に横たわる最大の問題を解消した形だが、最大野党、中国国民党の猛反発…",
+            "url": "https://www.sankei.com/article/20220208-2UEO7P35R5IW3PHFIYBK6Y3QYU/",
+            "urlToImage": "https://www.sankei.com/resizer/3dln4d-GSmKnvkYg9b-svMlqEhs=/1200x630/filters:focal(214x151:224x161)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/YXH3GDPVNNPK3OAHNLVUCPV3JM.jpg",
+            "publishedAt": "2022-02-08T12:03:20Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Impress.co.jp"
+                "name": "Yomiuri.co.jp"
+            },
+            "author": "読売新聞オンライン",
+            "title": "国内で新たに１０万１２８０人感染…死者は前日比４６人増の１５９人 - 読売新聞オンライン",
+            "description": "国内の新型コロナウイルスの感染者は８日、全都道府県と空港検疫で新たに１０万１２８０人確認された。死者は前日比４６人増の１５９人だった。１日に発表された死者数としては、神戸市が公表が遅れていた１２１人をまとめて発表した昨",
+            "url": "https://www.yomiuri.co.jp/national/20220208-OYT1T50310/",
+            "urlToImage": "https://www.yomiuri.co.jp/media/2022/02/20220208-OYT1I50177-T.jpg?type=ogp",
+            "publishedAt": "2022-02-08T12:02:00Z",
+            "content": "© The Yomiuri Shimbun."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nhk.or.jp"
             },
             "author": null,
-            "title": "このアンテナ、何のモビルスーツか分かる？ ガンダムのアンテナデザインのキャップとドライポロシャツが登場！ - GAME Watch",
-            "description": "プレミアムバンダイ内「バンコレ！」にて、ガンダムのアンテナをモチーフにしたアイテムの予約受付が本日2月8日11時より開始される。",
-            "url": "https://game.watch.impress.co.jp/docs/news/1386716.html",
-            "urlToImage": "https://game.watch.impress.co.jp/img/gmw/list/1386/716/007.jpg",
-            "publishedAt": "2022-02-08T01:57:16Z",
-            "content": "4,950 \r\n SMLXL S 64cm 46cm 40cm 22cm M 68cm 50cm 43cm 23cm L 71cm 54cm 46cm 23cm XL 75cm 58cm 49cm 24cm 60% 40% \r\n15 \r\n©"
+            "title": "アイスホッケー女子 日本がチェコに勝利 1位で準々決勝へ - NHK NEWS WEB",
+            "description": "北京オリンピックのアイスホッケー女子で、日本代表「スマイルジャパン」は8日、予選リーグ最終戦でチェコにペナルティーショッ…",
+            "url": "https://www3.nhk.or.jp/news/html/20220208/k10013473371000.html",
+            "urlToImage": "https://www3.nhk.or.jp/news/html/20220208/K10013473371_2202081704_2202081731_01_02.jpg",
+            "publishedAt": "2022-02-08T11:48:35Z",
+            "content": "8321\r\n5A5B6B21817\r\n1322\r\n5\r\n533932\r\n311\r\nA3\r\n21 \r\n4 \r\n1 GK3 /4 1/141/152/161-------------------------------------------------------------------------30GK2 1/8 1/102/21/23 16 /7 /12/18 /2728 /13/19 /1… [+219 chars]"
         }
     ]
 }
