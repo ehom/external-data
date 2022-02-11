@@ -4,16 +4,237 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "News1.co.il"
+            },
+            "author": null,
+            "title": "האצל תוקף את יפו (ו) - טעויות של מנחם בגין ולקחיהן - News1 מחלקה ראשונה",
+            "description": null,
+            "url": "https://www.news1.co.il/PageLoad.aspx?adid=9492&pageUrl=Archive/002-D-152658-00.html",
+            "urlToImage": null,
+            "publishedAt": "2022-02-11T10:00:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "One.co.il"
+            },
+            "author": "רז אמיר",
+            "title": "צפו: אוהדי מכבי ת\"א פרצו לאימון לקראת הדרבי - One",
+            "description": "מעל 600 אוהדים הגיעו לקריית שלום על מנת להטריף לקראת הפועל ת\"א מחר ב-20:00 בבלומפילד. רימוני עשן הודלקו, השחקנים הונפו והמשטרה לא הגיבה",
+            "url": "https://www.one.co.il/Article/403686.html",
+            "urlToImage": "https://photo.one.co.il/Image/GG/7,1/1581376.jpg",
+            "publishedAt": "2022-02-11T09:26:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globes.co.il"
+            },
+            "author": "דני זקן",
+            "title": "התעשייה האווירית משתלטת על שוק הסבות המטוסים לתצורת מטען - גלובס",
+            "description": "משבר התובלה העולמי שהתפתח בשנתיים האחרונות הוביל לגידול חד במגמה של הסבת מטוסי נוסעים למטען - והתעשיה האווירית עלתה על הגל • החברה הודיעה על מסירת המטוס ה-100 מדגם B767-300 שעבר הסבה מתצורת נוסעים למטען • בכך, הפכה למובילה עולמית בהסבות לדגם זה ומחזיקה בנתח ש…",
+            "url": "https://www.globes.co.il/news/article.aspx?did=1001401970",
+            "urlToImage": "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1644571096/direct/B767-300_100_1_w0dbgr.jpg",
+            "publishedAt": "2022-02-11T09:26:02Z",
+            "content": ". , -100 ( B767-300) , 70%.\r\n B767-300 2007, Mitsui M&amp;B Conversions. , 2017 . .\r\n\" -30% 2020. . -20 , . - .\r\n B767-300, , . , B777-300 , , , , .\r\n\" , . \" \"."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mako.co.il"
+            },
+            "author": "ניר דבורי",
+            "title": "N12 - תחקיר אסון מסוק העטלף: \"כשל ראשון מסוגו בעולם, הטייסים... - mako",
+            "description": "חיל האוויר ממשיך לתחקר כיצד התרסק מטוס העטלף מול חופי חיפה לפני כחודש. מנוע המסוק נבדק על ידי היצרן, והתגלה כי \"קורוזיה חמה ברכיב פנימי\" גרמה לאש",
+            "url": "https://www.mako.co.il/news-military/2022_q1/Article-6e53e84cab7ee71026.htm",
+            "urlToImage": "https://img.mako.co.il/2022/01/04/ATALEF_0401_004_autoOrient_i.jpg",
+            "publishedAt": "2022-02-11T08:40:02Z",
+            "content": "– \" () . , \" \" \" \". : \" \".\r\n , : \" , \".  , .\r\n\" , \", . \" , \".\r\n , \" \" . . , \" \", . \r\n , \" , \" , . , \". \" \" \". \r\n : \" , , \". \" \" \" . \" \".\r\n - . , . \r\n , : \" , . . , , \""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Walla.co.il"
+            },
+            "author": "בן כספית",
+            "title": "מומחים למנכ\"לים לשעבר באב\"ד וטרנר: \"סבירות גבוהה שהמכשירים שלכם היו נגועים\" - וואלה! חדשות",
+            "description": "מומחי חברת ZeCops אמרו לשניים כי על פי הממצאים הזמניים, ככל הנראה בוצעה הדבקה או תקיפה על הסלולרי שלהם. מכשירה של מנכלית משרד המשפטים לשעבר אמי פלמור נמצא גם הוא בבדיקה, ובינתיים נמצאו בו ארבעה ממצאים חשודים. בשלב זה לא ידוע מי התוקף ובאיזה אמצעים השתמש",
+            "url": "https://news.walla.co.il/item/3488307",
+            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/4/4/3344801-46.jpg",
+            "publishedAt": "2022-02-11T08:21:00Z",
+            "content": "\" , . , -22 , . , . \" , . , , . , \" , \" \". \r\n, 2020. , . , . ZeCops , ."
+        },
+        {
+            "source": {
                 "id": "ynet",
                 "name": "Ynet"
             },
-            "author": "כתבי ynet",
-            "title": "ההורים ש\"נשכחו\" בתוכנית הכלכלית: \"שיחסכו בחוק הנורבגי, לא בכסף לציבור\" - ynet.co.il",
-            "description": "התוכנית למאבק ביוקר המחיה תעניק זיכוי במס רק להורים לבני 12-6, ורבים מאוכזבים: \"דפקו אותנו, סלקטיביות בסיוע\". מילן, אם ל-4, סבורה שזו \"פיקציה\" אחת גדולה. אוריה, בת 47 שעובדת כגננת בבוקר וממשיכה עד 20:00 במשרה שנייה, פונה לבנט ולליברמן: \"תחשבו עלינו, המשפחות ש…",
-            "url": "https://www.ynet.co.il/news/article/bk006ycg1q",
-            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2022/02/10/HkXgVWmyq/HkXgVWmyq_0_0_850_479_0_large.jpg",
-            "publishedAt": "2022-02-10T21:56:08Z",
-            "content": "\" \", , , , . , , : 6 12, .\r\n\" \", ynet , 6 12. \" , , \", . : \" 10 -14.90, , . \". \r\n, 9-5, , . \" , . ' ' . , \", . \" . , , \".\r\n. , 47 , : 24, 21 16 \". , , , , . \" \", . \r\n-20 , , \"\". \" \", . \" , , , , , , … [+403 chars]"
+            "author": "קורין אלבז-אלוש",
+            "title": "\"מקווה שבעתיד לא יקרה לכם כלום\": המכתב ההיסטורי של מייסד לח\"י - ynet.co.il",
+            "description": "ב-1942, לפני שנרצח בידי הבריטים, כתב אברהם שטרן (\"יאיר\") מכתב תודה לחבריו שהסתירו אותו. רק עכשיו, במלאת 80 שנה למותו, הוא נחשף",
+            "url": "https://www.ynet.co.il/news/article/hylnkb719",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2022/02/10/B1eDVU11X1q/B1eDVU11X1q_0_73_876_494_0_large.jpg",
+            "publishedAt": "2022-02-11T07:48:39Z",
+            "content": "1942, , -. 12 1942 , . 34 .\r\n\" -1972, \", . , . , , \"\", . . \"\", .\r\n\". , \" , , : \" . . , . . \"."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News1.co.il"
+            },
+            "author": null,
+            "title": "כלכלת בריטניה צמחה ב-7.5% בשנת 2021 - News1 מחלקה ראשונה",
+            "description": null,
+            "url": "https://www.news1.co.il/PageLoad.aspx?adid=9548&pageUrl=Archive/001-D-450221-00.html",
+            "urlToImage": null,
+            "publishedAt": "2022-02-11T07:45:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Maariv.co.il"
+            },
+            "author": "סוכנויות הידיעות",
+            "title": "טורקיה סיכלה ניסיון חיסול של איש עסקים ישראלי על ידי איראן - מעריב",
+            "description": "העיתון \"סבאח\" דיווח כי ארגון הביון במדינה חשף את הצוות האיראני שמנה כ-9 אנשים וניסה להתנקש בחייו של יאיר גלר. המהלך היה ניסיון לנקמה על חיסולו אדריכל תוכנית הגרעין, מוחסן פחריזדה",
+            "url": "https://www.maariv.co.il/news/world/Article-897426",
+            "urlToImage": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/678963",
+            "publishedAt": "2022-02-11T07:15:00Z",
+            "content": "\"\" () (MIT) , , . , , . , .\r\n . , , . , .\r\nsrailli i adamna suikast MT önledi! Siyasi kriz tuza böyle bozuldu https://t.co/prZiaWdnka\r\n— Sabah Gazetesi (@Sabah) February 11, 2022\r\n , 75, \"CNC Advance… [+104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globes.co.il"
+            },
+            "author": "שירות גלובס",
+            "title": "״הדחה פוליטית ופחדנית״: יעקב ברדוגו התפטר מגלי צה\"ל בשידור חי - גלובס",
+            "description": "אתמול הודיעו בגל״צ כי ברדוגו יחדל מלשדר את יומן הערב וימשיך ברצועת שישי בבוקר בלבד • חברי כנסת מימין הודיעו כי יחרימו את התחנה הצבאית • ברדוגו אמר בשידור: \"הנוכחות שלי תמיד הייתה קשה לרבים מחוץ לתחנה וגם בתוכה. מה לא אמרו עלי?\"",
+            "url": "https://www.globes.co.il/news/article.aspx?did=1001401969",
+            "urlToImage": "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1644564469/direct/WhatsApp_Image_2022-02-11_at_09.26.36_plkax6.jpg",
+            "publishedAt": "2022-02-11T06:45:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ynet",
+                "name": "Ynet"
+            },
+            "author": "שושנה חן, זאב אברהמי, ציפי שמילוביץ', תמר שבק",
+            "title": "מרגישים את החשמל בכיס: איך תוזילו את הצריכה הביתית וכמה תשלמו בעולם? - ynet.co.il",
+            "description": "לא רק שאנחנו עובדים יותר מהבית, ולא מספיק שהטמפרטורות מקפיאות וצריכת החשמל שוברת שיאים - גם המחיר שלו עולה אחרי שנים של ירידות. בדקנו איך משפיע סוג וגודל המכשירים בבית על גובה החשבון, מה אפשר לעשות כדי להקל על התשלום ואיך זה עובד בארה\"ב, בגרמניה או בצרפת?",
+            "url": "https://www.ynet.co.il/economy/article/b1f4pdgj9",
+            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2018/05/22/8548042/8548042_0_0_980_552_0_large.jpg",
+            "publishedAt": "2022-02-11T06:23:16Z",
+            "content": "-: -3.4%, -15% -2013, -30%-50%, . , . , , .\r\n, , , , , . . , , . , , . . , , . \r\n, , , \" , , zap , , zap, , :\r\n<ul><li> : A ( : , , +A). A G ( ) -50%. zap, : (99% ), (98.7%), (95%), (84.2%). (35.3%),… [+1046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "One.co.il"
+            },
+            "author": "דורון בן דור",
+            "title": "חדשות טובות למכבי חיפה: פלאניץ' כשיר לק\"ש - One",
+            "description": "הבלם הסרבי חזר להתאמן ויהיה זמין עבור בכר, מנחם ושהר התאמנו בצד. חזיזה יחזור לרוטציה ויתמודד על מקום בהרכב עם צ'יבוטה. וגם: ההישג של אצילי",
+            "url": "https://www.one.co.il/Article/403708.html",
+            "urlToImage": "https://photo.one.co.il/Image/GG/7,1/1567703.jpg",
+            "publishedAt": "2022-02-11T06:18:58Z",
+            "content": "() , ', , .\r\n, , . , , ',  . \r\n   13.2.2012, -25 2011/12 1:4 .   ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Haaretz.co.il"
+            },
+            "author": "הארץ",
+            "title": "ביידן: אמריקאים צריכים לעזוב את אוקראינה מיד, לא אשלח חיילים למשימת חילוץ - הארץ",
+            "description": "נשיא ארה\"ב אמר כי \"הדברים יכולים להשתגע במהירות\" במשבר במזרח אירופה, וכי לא יערב כוחות צבאיים בהוצאת אזרחים מאוקראינה: \"ירי בין אמריקאים לרוסים זו מלחמת עולם\". בלינקן: הפלישה יכולה להתחיל בכל רגע",
+            "url": "https://www.haaretz.co.il/news/world/europe/.premium-1.10606218",
+            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10606228.1644561981!/image/3720591543.jpg_gen/derivatives/headline_1200x630/3720591543.jpg?wtm=1.10606228",
+            "publishedAt": "2022-02-11T05:52:00Z",
+            "content": "' () , , - , , . \" \", , \" \".\r\n\" \", -NBC. \" . . \".\r\n...\r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Walla.co.il"
+            },
+            "author": "מערכת וואלה",
+            "title": "שיא קריירה לדונצ'יץ' שקלע 51 נקודות, דאלאס הכניעה את הקליפרס - וואלה! ספורט",
+            "description": "הסלובני להט והוביל את המאבריקס ל-105:112, היו חסרות לו שתי נקודות כדי להשתוות לנוביצקי. מיאמי ניצחה בניו אורלינס, ממפיס דרסה בדטרויט",
+            "url": "https://sports.walla.co.il/item/3488270",
+            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/0/5/3305289-46.jpg",
+            "publishedAt": "2022-02-11T05:40:00Z",
+            "content": "(10:45) - (22:35) 107:131\r\n. -NBA -15 -16 , . 27 , - 17 -19 , 18 \"\".\r\n (15:41) - (31:25) 116:114\r\n, . , . , 8 0:6 . -8.7 , . , . 35 10 17 (3 -9 ), ' 28 -16 ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Walla.co.il"
+            },
+            "author": "מערכת וואלה",
+            "title": "אבדיה בלט עם 13 נקודות, וושינגטון ניצחה 112:113 את ברוקלין | ספורט 1 - ספורט1",
+            "description": "הישראלי זכה ל-32 דקות על הפרקט ועליו גם הוטלה המשימה לעצור את קיירי אירווינג, הוויזארדס הנחילו לנטס הפסד עשירי ברציפות ביום שאחרי טרייד השנה",
+            "url": "https://sports.walla.co.il/item/3488268",
+            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/4/6/3346133-46.jpg",
+            "publishedAt": "2022-02-11T04:28:55Z",
+            "content": ", , - -15 , 13 -10 , 31 , 27 . 21 ( ) 15 .\r\n, , 0:13 , 19 12 , . 29:25 -26:29"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Themarker.com"
+            },
+            "author": "שירה מייקין",
+            "title": "תשלום עלוב: \"אם אתה לא טיילור סוויפט, או אפילו סטטיק ובן אל, אתה בבעיה\" - TheMarker",
+            "description": "הסערה סביב עשרות מיליוני הדולרים ששילמה ספוטיפיי — המחזיקה בשליש ממנויי הסטרימינג של מוזיקה בעולם — על הפודקאסט של ג'ו רוגן, עוררה מרד של מוזיקאים נגד העולם החדש, שבו הם מקבלים שבריר מכל דולר שנכנס",
+            "url": "https://www.themarker.com/wallstreet/.premium-MAGAZINE-1.10604181",
+            "urlToImage": "https://www.themarker.com/polopoly_fs/1.10604157.1644489738!/image/1686695927.jpg_gen/derivatives/headline_1200x630/1686695927.jpg",
+            "publishedAt": "2022-02-11T04:00:00Z",
+            "content": "' , , ' , . , The Joe Rogan Experience 100 , .\r\n, \"\" (Belly) : \" \"...."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Haaretz.co.il"
+            },
+            "author": "צבי בראל",
+            "title": "ארדואן חרד ובאיראן רואים הזדמנות: המזרח התיכון מביט לעבר אוקראינה - הארץ",
+            "description": "מופע האימים של רוסיה ממחיש את המשמעות של תלות בספקית אנרגיה מרכזית, שלא נרתעת מלאיים על הצרכנים. שוב מתברר כי גם בסכסוכים מרוחקים, במזרח התיכון לא יכולים להסתפק רק בהשקפה מהיציע",
+            "url": "https://www.haaretz.co.il/news/world/middle-east/.premium-1.10605721",
+            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10605720.1644525355!/image/1709140442.jpg_gen/derivatives/headline_1200x630/1709140442.jpg?wtm=1.10605720",
+            "publishedAt": "2022-02-11T03:48:00Z",
+            "content": "\" .  \r\n, . , \r\n, . , VALENTYN OGIRENKO/\r\n' , . , . . \", . \r\n...\r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Maariv.co.il"
+            },
+            "author": "רויטרס",
+            "title": "דרום קוריאה: יום שני ברציפות בו אובחנו יותר מ-50 אלף חולי קורונה ביממה - מעריב",
+            "description": "",
+            "url": "https://www.maariv.co.il/breaking-news/Article-897404",
+            "urlToImage": "https://images.maariv.co.il/image/upload/565036",
+            "publishedAt": "2022-02-11T01:07:00Z",
+            "content": ", 53,926 , -50 . , 49 , -7,012."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Walla.co.il"
+            },
+            "author": "אבנר שביט",
+            "title": "גם גל גדות לא עוזרת: \"מוות על הנילוס\" הוא אסון יח\"צני - ואסון קולנועי - וואלה! תרבות",
+            "description": "גם גל גדות לא עוזרת: מוות על הנילוס הוא אסון יחצני - ואסון קולנועי",
+            "url": "https://e.walla.co.il/item/3488082",
+            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/4/5/3345742-46.jpg",
+            "publishedAt": "2022-02-10T22:40:00Z",
+            "content": ", . \" \" , . \" \" . , \"\" \"\", , , . , .\r\n, . , , . , , , . : , , \" \", .\r\n\"\", , \" \" . , . , , ."
         },
         {
             "source": {
@@ -33,234 +254,13 @@
                 "id": null,
                 "name": "Walla.co.il"
             },
-            "author": "מערכת וואלה",
-            "title": "מכבי תל אביב ניצחה 75:84 את צסק\"א ושבה לנצח ביורוליג - וואלה! ספורט",
-            "description": "הקבוצה של יאניס ספרופולוס סגרה עניין במחצית ראשונה מהסרטים בניצוחו של סקוטי ווילבקין (23), שביחד עם אנטה זיזיץ סחפו את המארחת ליתרון 20 כבר ברבע השני",
-            "url": "https://sports.walla.co.il/item/3488230",
-            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/4/6/3346097-46.jpg",
-            "publishedAt": "2022-02-10T21:09:00Z",
-            "content": ": 23 (5 -8 -3), ''' 14, 11, ' 10, ' (6 ) 9, 7, ' 4.\r\n \": 17, 12 -6 , 10, 9 -7 , ' 6 \", 5 \", 1."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kikar.co.il"
-            },
-            "author": "חיים גולדברג",
-            "title": "הנפץ בבני ברק: חרדי בן 13 נחקר במשטרה - כיכר השבת",
-            "description": "חקירת הפיצוץ באולם האירועים 'כתר הרימון' בעיר בני ברק אמש, שהוביל לפציעתם של אורחים חרדים, נמשכה לאורך היום • צעיר בן 13 מאשדוד חשוד. הוא נעצר ושוחרר  (חרדים) היכנסו לקריאת הכתבה המלאה באתר כיכר השבת.",
-            "url": "https://www.kikar.co.il/412175.html",
-            "urlToImage": "https://s1.kikar.co.il/th/data/auto/nadm/ze/3ubeycoe__w600h400q95.jpeg",
-            "publishedAt": "2022-02-10T20:50:00Z",
-            "content": "' ' , , . () . .\r\n , 13, .\r\n, \" .\r\n \" : \" . 3 -20 . .\"\r\n : \" . . . - \"."
-        },
-        {
-            "source": {
-                "id": "ynet",
-                "name": "Ynet"
-            },
-            "author": "מערכת ONE",
-            "title": "הארדן עבר לפילדלפיה, פורזינגיס בוושינגטון - ynet.co.il",
-            "description": "סיכום טרייד דדליין: הכוכב עזב את ברוקלין וחבר לאמביד תמורת סימונס שעבר לברוקלין, הלטבי מצטרף לאבדיה שנשאר, ברטאנס ודינווידי עברו למאבריקס",
-            "url": "https://www.ynet.co.il/sport/article/one403642",
-            "urlToImage": "https://ynet-images1.yit.co.il/picserver5/crop_images/2022/02/10/one1562938/one1562938_0_0_800_444_0_large.jpg",
-            "publishedAt": "2022-02-10T20:15:00Z",
-            "content": "The Brooklyn Nets are trading James Harden to the Philadelphia 76ers for Ben Simmons, Seth Curry, Andre Drummond and two first-round picks, sources tell ESPN.\r\n Adrian Wojnarowski (@wojespn) February… [+8 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "One.co.il"
-            },
-            "author": "מערכת ONE",
-            "title": "עם מספר 7: כריסטיאנו ג'וניור חתם ביונייטד - One",
-            "description": "מצטרף אליו: בנו של רונאלדו, ששיחק בקבוצת הילדים של יובנטוס, חתם אצל השדים האדומים וישחק בקבוצת U11. הכוכב על בנו: \"אני לא אלחץ עליו לעולם\"",
-            "url": "https://www.one.co.il/Article/403693.html",
-            "urlToImage": "https://photo.one.co.il/Image/GG/7,1/1581303.jpg",
-            "publishedAt": "2022-02-10T20:13:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Themarker.com"
-            },
-            "author": "יורם גביזון",
-            "title": "אימג'סאט גייסה ומכרה מניות ב-320 מיליון שקל בהנפקה ראשונה - TheMarker",
-            "description": "החברה, שבשליטת קרן פימי, מפתחות ומספקת פתרונות מודיעין מבוססי לוויין ■ היא ביצעה את ההנפקה לפי שווי חברה של 950 מיליון שקל לפני ההנפקה. בעלי מניות בחברה מכרו מניות ב-107 מיליון שקל",
-            "url": "https://www.themarker.com/markets/.premium-1.10605706",
-            "urlToImage": "https://www.themarker.com/polopoly_fs/1.10457734.1639294524!/image/2816740557.jpg_gen/derivatives/headline_1200x630/2816740557.jpg",
-            "publishedAt": "2022-02-10T19:52:00Z",
-            "content": "' (ISI) (44%) (38%) (17%) . , 213 - -107 . 16.8 , 28% , 19 . 937 -1.16 . UBS Investment Bank, \r\n' (ISI) . , ...\r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sport5.co.il"
-            },
-            "author": null,
-            "title": "ארגון השחקנים תובע עקב הלנת שכר בבית''ר - ספורט 5 - ערוץ הספורט",
-            "description": "הארגון פנה לבית הדין האיזורי על מנת להחזיר לשחקנים 25% משכרם שקוצץ: ''התנהגות חסרת תום לב''",
-            "url": "https://www.sport5.co.il/articles.aspx?folderid=64&docid=394154",
-            "urlToImage": "https://www.sport5.co.il/Sip_Storage/FILES/2/size944x700/1167172.jpg",
-            "publishedAt": "2022-02-10T19:14:00Z",
-            "content": ", \" , 25% . , .\r\n , 25% , 2022 (9.2.22).\r\n : \" . , , , 25% ( '), , \" , \".\r\n : , , , , , ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Haaretz.co.il"
-            },
-            "author": "ניו יורק טיימס, רויטרס",
-            "title": "המדען הצרפתי לוק מונטנייה, מגלה נגיף ה-HIV, מת בגיל 89 - הארץ",
-            "description": "מונטנייה גילה ב-1983 את הנגיף שגורם למחלת האיידס וב-2008 זכה בפרס נובל לרפואה על התגלית ביחד עם הביוכימאית הצרפתייה פרנסואז בארה-סינוסי. בשנים האחרונות הוא ערך ניסויים שקראו תגר על עקרונות היסוד של המדע ונודע כמתנגד בולט של חיסוני הקורונה",
-            "url": "https://www.haaretz.co.il/news/world/europe/.premium-1.10605532",
-            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10605542.1644520503!/image/1613095345.jpg_gen/derivatives/headline_1200x630/1613095345.jpg?wtm=1.10605542",
-            "publishedAt": "2022-02-10T19:03:00Z",
-            "content": "\" , -HIV, 89 --.\r\n1983, -HIV ( Human Immunodeficiency Virus), .\r\n-2008 -. , ...\r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Walla.co.il"
-            },
-            "author": "מערכת וואלה",
-            "title": "מת מפצעיו הולך הרגל שנפגע מאופנוע בראשון לציון - וואלה! חדשות",
-            "description": "מת מפצעיו הולך הרגל שנפגע מאופנוע בראשון לציון - וואלה! חדשות",
-            "url": "https://news.walla.co.il/break/3488259",
-            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/3/0/3330736-46.jpg",
-            "publishedAt": "2022-02-10T18:56:40Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bizportal.co.il"
-            },
-            "author": null,
-            "title": "ירידות שערים: תשואות האג\"ח ל-10 שנים ב-2%; סייבר ארק קופצת ב-8% - Bizportal",
-            "description": "פורטל כלכלי פיננסי המספק כלים למשקיע בארץ ובחול מדדים מניות אופציות קרנות קופות גמל ותעודות סל",
-            "url": "https://www.bizportal.co.il/globalmarkets/news/article/801363",
-            "urlToImage": "https://res.cloudinary.com/bizportal/image/upload/v1609665178/giflib/news/wallstreet615_110717.jpg",
-            "publishedAt": "2022-02-10T18:36:00Z",
-            "content": "7.5% ( ). , \" -0.6%, '  -1.2% -S&amp;P 500 -1.5%.\r\n:- \r\nCOCA COLA+0.52%COCA COLA61.36+0.52%:0:60.46:62.29:60.35:-- : \r\nTWITTER INC-0.46%TWITTER INC37.66-0.46%:0:36.41:39.09:36.22:-- : \r\nPEPSICO INC-2… [+2843 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Haaretz.co.il"
-            },
-            "author": "חן מענית",
-            "title": "בפרשת הריגול במשטרה, שאלת המניע יכולה לקבוע את ההשלכות המשפטיות - הארץ",
-            "description": "משפטנים אומרים כי החוקרים שהפעילו את תוכנת הריגול של NSO עשויים לעמוד לדין פלילי אם יתברר שהתכוונו להשיג בעזרתה מידע בניגוד לחוק. ביהמ\"ש נוטה כיום לאשר שימוש בראיות שלא הושגו כחוק, אך הצעת חוק שמקדם שר המשפטים עשויה להרחיב את כללי הפסילה - ולהשפיע גם על משפט …",
-            "url": "https://www.haaretz.co.il/news/law/.premium-1.10604575",
-            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10605345.1644514980!/image/444876442.jpg_gen/derivatives/headline_1200x630/444876442.jpg?wtm=1.10605345",
-            "publishedAt": "2022-02-10T17:39:00Z",
-            "content": "\" .  \r\nNSO . \" , - \r\n\" , . \r\n, . , NSO - .\r\n, . \"\" ...\r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Themarker.com"
-            },
-            "author": "הדר קנה",
-            "title": "חברות התעופה הישראליות חוששות מצמצום הטיסות לדובאי בשל פערים באבטחה - TheMarker",
-            "description": "אל על, ישראייר וארקיע פנו לממשלה בבקשה להסדיר את פעילותן בדובאי ■ פערים בתיאום דרישות האבטחה בין המדינות מקשים על החברות, והן חוששות שיידרשו לצמצם את כמות הטיסות ליעד מתשע בשבוע לשלוש בלבד",
-            "url": "https://www.themarker.com/news/aviation/.premium-1.10605062",
-            "urlToImage": "https://www.themarker.com/polopoly_fs/1.10605144.1644514118!/image/4178077255.jpg_gen/derivatives/headline_1200x630/4178077255.jpg",
-            "publishedAt": "2022-02-10T17:20:00Z",
-            "content": "\" , \"   \" (') , . \r\n, , - . \r\n, \" \" . , ...\r\n<ol><li></li></ol><ol><li></li></ol><ol></ol>"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mako.co.il"
-            },
-            "author": "גיל משעלי",
-            "title": "פרסום ראשון: סטטיק ובן אל מבטלים את יציאת השיר עם סנופ דוג - mako",
-            "description": "לאחר תלונה על הטרדה משל הראפר. פרסום ראשון",
-            "url": "https://www.mako.co.il/music-news/local/Article-5faa244da84ee71026.htm",
-            "urlToImage": "https://img.mako.co.il/2022/02/08/static-snoop-dog-la-2022_autoOrient_i.jpg",
-            "publishedAt": "2022-02-10T16:50:00Z",
-            "content": ", -mako . , .\r\n , -2013 , . , \"Ziki Ziki” , .\r\n, : \"Ziki Ziki\" . , : \" . - \".\r\n . \r\n ?"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sport5.co.il"
-            },
-            "author": null,
-            "title": "''זה משחק של 50:50, הפרטים הקטנים יכריעו'' - ספורט 5 - ערוץ הספורט",
-            "description": "קרסטאיץ' לפני המפגש מול הפועל ת''א: ''הצבעים לא עושים כלום על המגרש''",
-            "url": "https://www.sport5.co.il/articles.aspx?folderid=64&docid=394145",
-            "urlToImage": "https://www.sport5.co.il/Sip_Storage/FILES/4/size944x700/1167124.jpg",
-            "publishedAt": "2022-02-10T16:46:00Z",
-            "content": ", : , , - , , -1:1. , , ' .\r\n\" \", , \" . , \". ' : , , - , \". \r\n\" . , , , , \".\r\n, , ': \" . 50:50 . , \".\r\n', : \" , . . , , \" - . , \"."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Walla.co.il"
-            },
-            "author": "טל שלו",
-            "title": "ראשי מפלגות הימין הודיעו כי יחרימו את גל\"צ עקב הדחתו של ברדוגו - וואלה! חדשות",
-            "description": "ראשי מפלגות הימין הודיעו כי יחרימו את גלצ עקב הדחתו של ברדוגו - וואלה! חדשות",
-            "url": "https://news.walla.co.il/break/3488240",
-            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/3/0/3330736-46.jpg",
-            "publishedAt": "2022-02-10T16:39:10Z",
-            "content": "- , , \" , () \" . \" \" . \" \", ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Walla.co.il"
-            },
-            "author": "מירב כהן",
-            "title": "חיסון לקורונה בטוח לנשים בהריון? מחקר ישראלי מספק תשובה ברורה - מעריב",
-            "description": "מכון המחקר והחדשנות מכבי פרסם מחקר, ממנו עולה כי אין הבדלים מובהקים בין תינוקות לאמהות שחוסנו ובין תינוקות לאמהות שלא חוסנו. לא נמצא שוני מהותי בשיעורי הפגות, האשפוזים, המומים המולדים ובשיעור המוות. בהמשך השבוע ה-FDA ידון במתן חיסון לקורונה לפעוטות",
-            "url": "https://news.walla.co.il/item/3488224",
-            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/4/5/3345986-46.jpg",
-            "publishedAt": "2022-02-10T16:22:00Z",
-            "content": ", - -- (KSM), \" , () JAMA Pediatric. , , 17 , -7,000 , 2021.\r\n, , .\r\n, , , , . 4.2% , 4.8% . 5.1% 5.3%. 1.5% , 2.1% . , 0.1%."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Haaretz.co.il"
-            },
-            "author": "ניו יורק טיימס, הארץ",
-            "title": "טראמפ שוחח בטלפון בזמן הפריצה לקפיטול. החוקרים לא מוצאים את התיעוד לכך - הארץ",
-            "description": "הוועדה שחוקרת את אירועי 6 בינואר גילתה פערים ברישומי שיחות הטלפון של הבית הלבן באותו היום, ומצאה תיעוד מועט לשיחות טלפון שקיים הנשיא - אף שלחוקרים ידוע שהוא קיים אותן בפועל",
-            "url": "https://www.haaretz.co.il/news/world/america/.premium-1.10605125",
-            "urlToImage": "https://www.haaretz.co.il/polopoly_fs/1.10605425.1644515802!/image/3082938710.jpg_gen/derivatives/headline_1200x630/3082938710.jpg?wtm=1.10605425",
-            "publishedAt": "2022-02-10T16:11:00Z",
-            "content": "\" .  \r\n6 , - \r\n\" , -2020. Alex Brandon / AP"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "פלטפורמה גמישה של מיקרו-מחטים חכמות לאבחון מחלות מהיר, רציף וללא כאב - הידען",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMi4QFodHRwczovL3d3dy5oYXlhZGFuLm9yZy5pbC8lRDclQTQlRDclOUMlRDclOTglRDclQTQlRDclOTUlRDclQTglRDclOUUlRDclOTQtJUQ3JTkyJUQ3JTlFJUQ3JTk5JUQ3JUE5JUQ3JTk0LSVENyVBOSVENyU5Qy0lRDclOUUlRDclOTklRDclQTclRDclQTglRDclOTUtJUQ3JTlFJUQ3JTk3JUQ3JTk4JUQ3JTk5JUQ3JTlELSVENyU5NyVENyU5QiVENyU5RSVENyU5NSVENyVBQS0lRDclOUMlRDclOTDSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-02-10T15:52:22Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kikar.co.il"
-            },
-            "author": "ציקי ברנדוין",
-            "title": "בנט לשרה: חתימה על הסכם גרעין - שגיאה - כיכר השבת",
-            "description": "במהלך ביקורה בישראל של שרת החוץ של גרמניה, אנאלנה ברבוק, נפגש ראש הממשלה בנט עם השרה, ודנו בין היתר על הנושא שמדאיג את ישראל  - חתימה על הסכם גרעין (בעולם) היכנסו לקריאת הכתבה המלאה באתר כיכר השבת.",
-            "url": "https://www.kikar.co.il/412162.html",
-            "urlToImage": "https://s1.kikar.co.il/th/data/auto/nadm/xr/b4fb809e__w600h400q95.jpeg",
-            "publishedAt": "2022-02-10T15:32:00Z",
-            "content": ", () , ' ', .\r\n , . , .\r\n,  \", , , .\r\n , , ' ' . \" \".\r\n\" , \" ."
+            "author": "אלון נעים, יואב איתיאל, שלומי הלר",
+            "title": "רוכב אופנוע בן 18 נהרג כשהחליק בטיילת בעכו - וואלה! חדשות",
+            "description": "יום קטלני בכבישי ישראל: צעיר בן 18, רוכב אופנוע, נהרג לאחר שהחליק בטיילת החוף הצפוני בעכו. בן 40 נפגע מאופנוע במעבר חצייה ברחוב ההסתדרות בראשון לציון ומת מפצעיו, ואישה בת 50 נפצעה קשה מפגיעת רכב בירושלים",
+            "url": "https://news.walla.co.il/item/3488267",
+            "urlToImage": "https://images.wcdn.co.il/f_auto,q_auto,w_1200,t_54/3/3/4/6/3346103-46.jpg",
+            "publishedAt": "2022-02-10T21:11:00Z",
+            "content": "40 . \", , :\" , , , , . .\"\r\n. , . \r\n, , 50 . \" ."
         }
     ]
 }
