@@ -1,19 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 33,
     "articles": [
         {
             "source": {
-                "id": "rbc",
-                "name": "RBC"
+                "id": null,
+                "name": "Eurosport.ru"
+            },
+            "author": "Артем Кутейников",
+            "title": "Александр Логинов и Максим Цветков исправляют отсутствие личных медалей в биатлоне - Eurosport RU",
+            "description": "Биатлон, мужской спринт на Олимпийских играх в Пекине.",
+            "url": "https://www.eurosport.ru/biathlon/story_sto8782700.shtml",
+            "urlToImage": "https://i.eurosport.com/2022/02/12/3314031-67760888-2560-1440.jpg",
+            "publishedAt": "2022-02-12T10:11:00Z",
+            "content": ": Getty Images"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sportrbc.ru"
             },
             "author": null,
-            "title": "США направят еще 3 тыс. военных в Польшу - РБК НОВОСТИ",
-            "description": "Они прибудут в страну в ближайшие дни. Ранее США уже направили в Польшу 1,7 тыс. военных на фоне обострения ситуации вокруг Украины",
-            "url": "https://www.rbc.ru/politics/11/02/2022/6206c5569a794792a8691952",
-            "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/1/35/756446130814351.jpg",
-            "publishedAt": "2022-02-11T20:58:00Z",
-            "content": "Reuters, 3 . , , 8,5 ., .  « », .\r\n   ,   , .\r\n24 , - .\r\n, , 20 . , .\r\n « », 20 . , .\r\n , Reuters, , - . « ».\r\n ."
+            "title": "Россия превзошла антирекорд Олимпиады-2018 по количеству золотых медалей - РБК Спорт",
+            "description": "В Пхёнчхане у российской команды был лишь две золотые награды. В субботу после победы в женской лыжной эстафете у россиян в Пекине стало три золота",
+            "url": "https://sportrbc.ru/news/620776a69a7947bce15cdaea",
+            "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/0/46/756446563904460.jpg",
+            "publishedAt": "2022-02-12T09:13:25Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "lenta",
+                "name": "Lenta"
+            },
+            "author": "Анастасия Шейкина",
+            "title": "В России госпитализировали 18 597 пациентов с коронавирусом - Lenta.ru",
+            "description": "За минувшие сутки в России госпитализировали 18 597 пациентов, заболевших COVID-19. Об этом сообщается на сайте оперштаба по борьбе с инфекцией в субботу, 12 февраля. Так, по сравнению с предыдущими сутками, количество госпитализаций снизилось на  3,55 процен…",
+            "url": "https://lenta.ru/news/2022/02/12/opershtab/",
+            "urlToImage": "https://icdn.lenta.ru/images/2022/02/12/10/20220212102321762/share_8f398c8815ab0326ad30ad4789603aeb.jpeg",
+            "publishedAt": "2022-02-12T09:04:00Z",
+            "content": "18 597 , COVID-19. , 12 .\r\n, , 3,55 19 281.\r\n 112 658 . 11 134 291 .\r\n 24 203 766 . 13 935 560.\r\n - 400 - . , ."
         },
         {
             "source": {
@@ -21,11 +47,24 @@
                 "name": "Gazeta.ru"
             },
             "author": null,
-            "title": "МИД России обвинил Запад в создании искусственной напряженности вокруг Украины - Газета.Ru",
-            "description": "В российском МИД заявили, что западные страны сговорились с целью создать видимость напряженности вокруг Украины. Об этом пишет ТАСС со ссылкой на сообщение внешнеполитического ведомства.",
-            "url": "https://www.gazeta.ru/politics/news/2022/02/11/17278489.shtml",
-            "urlToImage": "https://img.gazeta.ru/files3/319/14517319/upload-RIAN_6727534.HR-pic_32ratio_900x600-900x600-33223.jpg",
-            "publishedAt": "2022-02-11T20:56:41Z",
+            "title": "Песков: Мюнхенская речь Путина была призывом не прятать голову в песок - Газета.Ru",
+            "description": "Пресс-секретарь президента России Дмитрий Песков заявил, что речь Владимира Путина на Мюнхенской конференции 2007 года не была агрессивной. Об этом сообщает РИА «Новости» .",
+            "url": "https://www.gazeta.ru/politics/news/2022/02/12/17279923.shtml",
+            "urlToImage": "https://img.gazeta.ru/files3/255/14518255/RIAN_144313.HR-pic_32ratio_900x600-900x600-60307.jpg",
+            "publishedAt": "2022-02-12T08:40:23Z",
+            "content": "- ,   2007  . «».\r\n ,   , « » .   « ,   ».\r\n« - , . ,  , , ,     . ,  , », — .\r\n, .\r\n    2007 ,   ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gazeta.ru"
+            },
+            "author": null,
+            "title": "Правительство России выделило около 400 млн рублей на изучение генома «омикрона» - Газета.Ru",
+            "description": "Председатель правительства РФ Михаил Мишустин подписал распоряжение о выделении более 400 млн руб. на проведение процедуры секвенирования (генетического анализа) «омикрон»-штамма коронавируса, сообщает пресс-служба кабмина.",
+            "url": "https://www.gazeta.ru/social/news/2022/02/12/17279911.shtml",
+            "urlToImage": "https://img.gazeta.ru/files3/183/14323183/Depositphotos_449860576_XL-pic_32ratio_900x600-900x600-68406.jpg",
+            "publishedAt": "2022-02-12T08:27:37Z",
             "content": null
         },
         {
@@ -33,13 +72,13 @@
                 "id": "lenta",
                 "name": "Lenta"
             },
-            "author": "Марина Совина",
-            "title": "В МИД России заявили о необходимой англосаксам войне - Lenta.ru",
-            "description": "Официальный представитель МИД России Мария Захарова прокомментировала отправку войск США в Польшу. Она оценила действия Белого дома «показательную как никогда истерику». «Англосаксам нужна война. Любой ценой. Каток американской военно-политической машины гото…",
-            "url": "https://lenta.ru/news/2022/02/11/saxx/",
-            "urlToImage": "https://icdn.lenta.ru/images/2022/02/11/23/20220211235553283/share_155301308249674e5bd675fd046a78f3.jpg",
-            "publishedAt": "2022-02-11T20:56:00Z",
-            "content": ". Telegram-.\r\n « ». « . . , . - », .\r\n , « , ».\r\n , , . « , . \"\" : , \"\" , \"\"», .\r\n7 « », . , ."
+            "author": "Анастасия Борисова",
+            "title": "Российские лыжницы стали олимпийскими чемпионками в эстафете - Lenta.ru",
+            "description": "Российские лыжницы стали олимпийскими чемпионками в эстафете четыре по пять километров на Олимпийских играх 2022 года в Пекине. В составе российской команды выступили Юлия Ступак, Наталья Непряева, Татьяна Сорина и Вероника Степанова. Вторыми стали немки Кате…",
+            "url": "https://lenta.ru/news/2022/02/12/rus_skiing/",
+            "urlToImage": "https://icdn.lenta.ru/images/2022/02/12/11/20220212113035730/share_aac45220546641b7cb18675968521fa6.jpg",
+            "publishedAt": "2022-02-12T08:25:00Z",
+            "content": "2022 . «.».\r\n, , . 53 41 . , , , , 18,2 . , , 20,7 .\r\n . . .\r\n 13 . 10:00 ."
         },
         {
             "source": {
@@ -47,51 +86,25 @@
                 "name": "Ria.ru"
             },
             "author": "",
-            "title": "США и союзники заявили о желании дипломатического решения по Украине - РИА НОВОСТИ",
-            "description": "Президент США Джо Байден, лидеры западных стран, руководители Евросоюза и НАТО заявили о желании найти дипломатическое решение кризиса вокруг Украины и обсудили РИА Новости, 11.02.2022",
-            "url": "https://ria.ru/20220211/ukraina-1772392964.html",
-            "urlToImage": "https://cdnn21.img.ria.ru/images/sharing/article/1772392964.jpg?17722458331644612715",
-            "publishedAt": "2022-02-11T20:52:11Z",
-            "content": "https://ria.ru/20220211/ukraina-1772392964.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdnn21.img.ria.ru/images/07e6/02/0b/1772245838_0… [+676 chars]"
+            "title": "Киев размещает бронетехнику в жилых районах в Донбассе, заявили в ЛНР - РИА НОВОСТИ",
+            "description": "Народная милиция самопровозглашенной Луганской народной республики в очередной раз обнаружила бронетехнику украинских силовиков у линии соприкосновения в... РИА Новости, 12.02.2022",
+            "url": "https://ria.ru/20220212/donbass-1772420836.html",
+            "urlToImage": "https://cdnn21.img.ria.ru/images/sharing/article/1772420836.jpg?17722458331644655085",
+            "publishedAt": "2022-02-12T08:15:00Z",
+            "content": "https://ria.ru/20220212/donbass-1772420836.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdnn21.img.ria.ru/images/07e6/02/0b/1772245838_0… [+778 chars]"
         },
         {
             "source": {
-                "id": "lenta",
-                "name": "Lenta"
+                "id": "rbc",
+                "name": "RBC"
             },
-            "author": "Ксения Назарова",
-            "title": "На стройке в Подмосковье обрушился бетонный забор - Lenta.ru",
-            "description": "В поселке Селятино Московской области обрушились три пролета бетонного забора строящегося торгового комплекса. Как рассказал ТАСС источник в экстренных службах, в результате происшествия погибли два человека. Они находились под завалами. Прокуратура Московско…",
-            "url": "https://lenta.ru/news/2022/02/11/obrushenie/",
-            "urlToImage": "https://icdn.lenta.ru/images/2022/02/11/22/20220211220347793/share_f53cba3e91b28480bbeefcb1aa4ae4b9.jpg",
-            "publishedAt": "2022-02-11T20:21:00Z",
-            "content": ": Anton Vaganov / Reuters"
-        },
-        {
-            "source": {
-                "id": "lenta",
-                "name": "Lenta"
-            },
-            "author": "Марина Совина",
-            "title": "Курсы доллара и евро выросли - Lenta.ru",
-            "description": "Российский рубль рухнул по отношению к доллару и евро в ходе вечерних торгов в пятницу, 11 февраля, из-за усиления геополитических рисков. Так, на пике доллар достигал 77,51 рубля, а евро — 87,96 рубля. По состоянию на 22:50 курс американской валюты скорректи…",
-            "url": "https://lenta.ru/news/2022/02/11/rubl/",
-            "urlToImage": "https://icdn.lenta.ru/images/2022/02/11/23/20220211231412818/share_e273a6fac068f321638ae5fc566d81d1.jpg",
-            "publishedAt": "2022-02-11T20:19:00Z",
-            "content": ", 11 , - . .\r\n, 77,51 , 87,96 . 22:50 77,35 , 87,7 . 5,2 , 3465,6 \r\n , - . , .\r\n , . , , ."
-        },
-        {
-            "source": {
-                "id": "lenta",
-                "name": "Lenta"
-            },
-            "author": "Марина Совина",
-            "title": "Макрон поговорит с Путиным по телефону - Lenta.ru",
-            "description": "Президент Франции Эммануэль Макрон проведет телефонный разговор с российским коллегой Владимиром Путиным. Об этом сообщили в Елисейском дворце. Уточняется, что Макрон поговорит с Путиным по телефону в субботу, 12 февраля. 7 февраля лидеры России и Франции про…",
-            "url": "https://lenta.ru/news/2022/02/11/mcrn/",
-            "urlToImage": "https://icdn.lenta.ru/images/2022/02/11/22/20220211225553364/share_9259e4eb494e496cbcacb62eeee46481.jpg",
-            "publishedAt": "2022-02-11T20:03:00Z",
-            "content": ". : Kremlin Pool / Global Look Press"
+            "author": null,
+            "title": "Зюганов сообщил о своем самочувствии - РБК НОВОСТИ",
+            "description": "Глава КПРФ Геннадий Зюганов чувствует себя хорошо и находится под наблюдением врачей. Об этом политик рассказал РИА Новости . По словам Зюганова, он держится и находится в рабочем состоянии. [ РБК ...",
+            "url": "https://www.rbc.ru/rbcfreenews/62076a469a7947b9298caeb9",
+            "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/8/43/756446536669438.jpg",
+            "publishedAt": "2022-02-12T08:14:26Z",
+            "content": ""
         },
         {
             "source": {
@@ -99,24 +112,128 @@
                 "name": "Ria.ru"
             },
             "author": "",
-            "title": "Салливан: считаем, что Россия может 'напасть на Украину' во время Олимпиады - РИА НОВОСТИ",
-            "description": "США считают, что РФ может напасть на Украину во время Олимпиады, заявил на брифинге в пятницу советник президента США по национальной безопасности Джейк... РИА Новости, 11.02.2022",
-            "url": "https://ria.ru/20220211/ssha-1772389902.html",
-            "urlToImage": "https://cdnn21.img.ria.ru/images/sharing/article/1772389902.jpg?15859838281644609554",
-            "publishedAt": "2022-02-11T19:59:38Z",
-            "content": "https://ria.ru/20220211/ssha-1772389902.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdnn21.img.ria.ru/images/07e4/0b/17/1585983833_0:0:… [+792 chars]"
+            "title": "Госдеп США начал обзванивать американцев на Украине - РИА НОВОСТИ",
+            "description": "Сотрудники Госдепа лично обзванивают сограждан на Украине и призывают их уехать оттуда. Об этом сообщает газета The Telegraph со ссылкой на журналиста Buzzfeed... РИА Новости, 12.02.2022",
+            "url": "https://ria.ru/20220212/zvonki-1772427569.html",
+            "urlToImage": "https://cdnn21.img.ria.ru/images/sharing/article/1772427569.jpg?17692233851644652937",
+            "publishedAt": "2022-02-12T08:02:36Z",
+            "content": "Just got a call from a person reading from a script reiterating the directive for Americans to leave Ukraine and asking whether Id departed yet. \r\nI told them I was staying as a journalist. \r\nWell, b… [+73 chars]"
         },
         {
             "source": {
                 "id": "lenta",
                 "name": "Lenta"
             },
-            "author": "Марина Совина",
-            "title": "Британия начала эвакуировать сотрудников посольства из Киева - Lenta.ru",
-            "description": "Власти Британии начали эвакуацию сотрудников посольства с Украины. Сообщается, что диппредставительство в Киеве не сможет усилить консульскую помощь из-за вывоза дипломатов. Также МИД Великобритании призвал соотечественников покинуть страну, пока еще доступен…",
-            "url": "https://lenta.ru/news/2022/02/11/posolstvo/",
-            "urlToImage": "https://icdn.lenta.ru/images/2022/02/11/21/20220211215005963/share_56afb5f6c1b3755e69cb674a3d2d869d.jpg",
-            "publishedAt": "2022-02-11T19:43:00Z",
+            "author": "Анастасия Шейкина",
+            "title": "В Туркмении пройдут выборы после решения президента «дать дорогу молодым» - Lenta.ru",
+            "description": "В Туркмении 12 марта состоятся внеочередные выборы президента, заявил помощник председателя туркменского Центризбиркома Безирген Караев. Накануне в пятницу, 11 февраля, президент Туркмении Гурбангулы Бердымухамедов на заседании верхней палаты парламента заяви…",
+            "url": "https://lenta.ru/news/2022/02/12/turkmenia/",
+            "urlToImage": "https://icdn.lenta.ru/images/2022/02/12/10/20220212102929570/share_baa7ff6b22b53dae1883c2747bca326d.jpeg",
+            "publishedAt": "2022-02-12T07:56:00Z",
+            "content": ": Alexander Vershinin / AP"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.1tv.ru"
+            },
+            "author": null,
+            "title": "Почему оказалась под ударом Камила Валиева: ответы тренера Этери Тутберидзе. Новости - Первый канал",
+            "description": "Главная тема — ситуация с нашей фигуристкой Камилой Валиевой на Олимпиаде. После того как Международное агентство по тестированию официально объявило, что допинг-проба 15-летней спортсменки, взятая еще полтора месяца назад, 25 декабря на чемпионате России в П…",
+            "url": "https://www.1tv.ru/news/2022-02-12/420985-pochemu_okazalas_pod_udarom_kamila_valieva_otvety_trenera_eteri_tutberidze",
+            "urlToImage": "https://static.1tv.ru/uploads/video/material/splash/2022/02/12/710425/big/710425_big_8b30e78920.jpg",
+            "publishedAt": "2022-02-12T07:00:00Z",
+            "content": ", , - 15- , , 25 , . \r\n , , , : « . . , , . , . , - , . . , . , 25 . , . , , . . , , . , , . , ».\r\n . , . , , . , , , , . 15 ( ) . \r\n . . , 15 , . . .\r\n : . . \r\n,   , ."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.mk.ru"
+            },
+            "author": null,
+            "title": "Умерла актриса Зинаида Кириенко - Московский Комсомолец",
+            "description": "Народная артистка Зинаида Кириенко скончалась на 89-м году жизни",
+            "url": "https://www.mk.ru/culture/2022/02/12/umerla-aktrisa-zinaida-kirienko.html",
+            "urlToImage": "https://static.mk.ru/upload/entities/2022/02/12/09/articles/facebookPicture/4a/5f/31/5d/c6cf260ce0d48a07fad7963a725334ee.jpg",
+            "publishedAt": "2022-02-12T06:41:28Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gazeta.ru"
+            },
+            "author": null,
+            "title": "Женская сборная России по хоккею вылетела с Олимпиады после поражения от Швейцарии - Газета.Ru",
+            "description": "Женская сборная России по хоккею уступила команде Швейцарии (2:4) в матче 1/4 финала олимпийского турнира в Пекине.",
+            "url": "https://www.gazeta.ru/sport/beijing-2022/news/2022/02/12/17279581.shtml",
+            "urlToImage": "https://img.gazeta.ru/files3/613/14526613/upload-2022-02-12T052408Z_377730068_SP1EI2C0F03GS_RTRMADP_3_OLYMPICS-2022-ICEHOCKEY-pic_32ratio_900x600-900x600-64054.jpg",
+            "publishedAt": "2022-02-12T06:18:40Z",
+            "content": "(2:4)   1/4  .\r\n   ,   , ().\r\n 47- .\r\n,     ,   (5:2).   (0:5), (1:6) (0:5).\r\n«.Ru» - .\r\n — 2022. . . 1/4 — — 2:4: 0:1 — (, ) — 34.311:1 — (, ) — 37.381:2 — (, ) — 47.312:2 — (, ) — 56.532:3 — () — 5… [+23 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ria.ru"
+            },
+            "author": "",
+            "title": "Российские дипломаты начали покидать Украину, сообщил источник - РИА НОВОСТИ",
+            "description": "Сотрудники российской дипмисии покидают Украину, сообщил РИА Новости информированный источник. РИА Новости, 12.02.2022",
+            "url": "https://ria.ru/20220212/ukraina-1772415037.html",
+            "urlToImage": "https://cdnn21.img.ria.ru/images/sharing/article/1772415037.jpg?15517170681644647753",
+            "publishedAt": "2022-02-12T06:10:13Z",
+            "content": "https://ria.ru/20220212/ukraina-1772415037.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdnn21.img.ria.ru/images/155171/70/1551717070_0:… [+838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Первый в мире игровой монитор с матрицей QD-OLED будет стоить $1300 — продажи начнутся весной - 3DNews",
+            "description": "В начале января компания Dell анонсировала монитор Alienware 34 Curved QD-OLED Gaming (AW3423DW) &mdash; первую в мире игровую ПК-панель с матрицей QD-OLED.",
+            "url": "https://3dnews.ru/1060064/raskrita-tsena-pervogo-v-mire-monitora-na-matritse-qdoled-igrovoy-paneli-alienware",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2022/02/12/1060064/al1.jpg",
+            "publishedAt": "2022-02-12T06:07:00Z",
+            "content": "Dell Alienware 34 Curved QD-OLED Gaming (AW3423DW) — - QD-OLED. .\r\n: Dell\r\nQD-OLED OLED- . Alienware 34 , — 3440 × 1400 . 99,3- DCI-P3.\r\n VESA Display HDR 400 True Black. 1 000 000:1, — 175 . 0,1 (Gr… [+131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "AstraZeneca: как национализм и политика помешали успеху британского \"подарка всему миру\" - Би-би-си Русская служба",
+            "description": "История вакцины Oxford-AstraZeneca была историей британского успеха. Но на пути у британских ученых, мечтавших подарить всему миру доступную вакцину от коронавируса, встали политика и национализм.",
+            "url": "https://www.bbc.com/russian/features-60291350",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_russian/DA68/production/_123221955_072573611-1.jpg",
+            "publishedAt": "2022-02-12T06:01:50Z",
+            "content": ", IsadoraBrant/HealthinHarmony\r\nOxford-AstraZeneca : , . : . .\r\n AstraZeneca. , , Pfizer Moderna . AstraZeneca, 37 , , 48 . AstraZeneca.\r\n , , .\r\n ? \r\nBBC Two , Oxford-AstraZeneca, \" \".\r\n , , , , , ,… [+933 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "\"Джеймс Уэбб\" прислал на Землю первые снимки для настройки зеркал телескопа и селфи с отражениями звезды - Би-би-си Русская служба",
+            "description": "Запущенная в космос полтора месяца назад инфракрасная обсерватория НАСА \"Джеймс Уэбб\" передала на Землю первые фотографии, сделанные в финальной точке своего путешествия, на расстоянии около 1,5 млн км.",
+            "url": "https://www.bbc.com/russian/news-60353009",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_russian/84B4/production/_123227933_mediaitem123227927.jpg",
+            "publishedAt": "2022-02-12T04:02:14Z",
+            "content": ", EPA\r\n\" \" , , 1,5 . \r\n , , - , \"\", - . \" \" , , .\r\n , 1000 - HD 84406, 260 , , .\r\n . ( - ), HD 84406 . .\r\n, \"\" , . \r\n, , , , - .\r\n 18 - \" \", . , 18 \"\" . \r\n , .\r\n \"\". - , \" \", , .\r\n , ( ) - .\r\n , , 18… [+57 chars]"
+        },
+        {
+            "source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT на Русском",
+            "title": "Politico: Байден заявил, что Россия может «напасть на Украину» 16 февраля - RT на русском",
+            "description": "Президент США Джо Байден в ходе переговоров с союзниками заявил, что Россия может «начать вторжение на Украину» 16 февраля, сообщает издание Politico со ссылкой на источники.",
+            "url": "https://russian.rt.com/world/news/961064-ukraina-baiden-rossiya",
+            "urlToImage": "https://russian.rt.com/static/blocks/og-img/pl-17.jpg",
+            "publishedAt": "2022-02-12T03:55:10Z",
             "content": null
         },
         {
@@ -134,32 +251,6 @@
         },
         {
             "source": {
-                "id": "lenta",
-                "name": "Lenta"
-            },
-            "author": "Дарья Коршунова",
-            "title": "Губерниев осудил позицию тренеров Валиевой - Lenta.ru",
-            "description": "Комментатор Дмитрий Губерниев осудил позицию тренеров российской фигуристки Камилы Валиевой, допинг-проба которой дала положительный результат. По его мнению, тренерскому штабу Этери Тутберидзе и представителям Федерации фигурного катания России нужно быть бо…",
-            "url": "https://lenta.ru/news/2022/02/11/guberniev/",
-            "urlToImage": "https://icdn.lenta.ru/images/2022/02/11/22/20220211222017377/share_f30f74b0c5497f4e77ca9322553e98ec.jpg",
-            "publishedAt": "2022-02-11T19:32:00Z",
-            "content": ", - . «.com».\r\n , () . « . », .\r\n« », . , 15 , .\r\n , -, , . « ? . 15- ?» .\r\n11 (ITA) , - 25 . 2022 . ."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ria.ru"
-            },
-            "author": "",
-            "title": "Пушилин не исключил обращения за помощью к России - РИА НОВОСТИ",
-            "description": "Глава самопровозглашенной Донецкой народной республики Денис Пушилин допустил, что республики Донбасса будут вынуждены обратиться за помощью к России. РИА Новости, 11.02.2022",
-            "url": "https://ria.ru/20220211/pushilin-1772385942.html",
-            "urlToImage": "https://cdnn21.img.ria.ru/images/sharing/article/1772385942.jpg?15553907731644611714",
-            "publishedAt": "2022-02-11T19:30:00Z",
-            "content": "https://ria.ru/20220211/pushilin-1772385942.html\r\n/html/head/meta[@name='og:title']/@content\r\n/html/head/meta[@name='og:description']/@content\r\nhttps://cdnn21.img.ria.ru/images/155539/07/1555390777_0… [+809 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Igromania.ru"
             },
@@ -170,97 +261,6 @@
             "urlToImage": "https://cdn.igromania.ru/mnt/news/2/6/1/7/0/a/113469/9c115a223c2e6bc6_1200xH.jpg",
             "publishedAt": "2022-02-11T18:20:10Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.mk.ru"
-            },
-            "author": null,
-            "title": "Украина дала России 48 часов на \"объяснения\" - Московский Комсомолец",
-            "description": "Министр иностранных дел Украины Дмитрий Кулеба заявил, что Киев потребовал от Москвы в течение 48 часов представить детальные разъяснения своей \"военной деятельности\" на границе",
-            "url": "https://www.mk.ru/politics/2022/02/11/ukraina-dala-rossii-48-chasov-na-obyasneniya.html",
-            "urlToImage": "https://static.mk.ru/upload/entities/2022/02/11/20/articles/facebookPicture/76/b7/b3/cb/9da7538db6ff273c0aaf691c1a10d990.jpg",
-            "publishedAt": "2022-02-11T17:09:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "rbc",
-                "name": "RBC"
-            },
-            "author": null,
-            "title": "Британский министр ответил на слова Шойгу о «напичкивании» Киева оружием - РБК НОВОСТИ",
-            "description": "Киев получает от Лондона только оборонительное оружие, заявил глава Минобороны Уоллес. Вместе с ним Британия направила небольшую группу инструкторов. Он не считает переговоры с Шойгу «разговором глухого с немым»",
-            "url": "https://www.rbc.ru/politics/11/02/2022/62068ccb9a794782bd9e5e4a",
-            "urlToImage": "https://s0.rbk.ru/v6_top_pics/media/img/5/55/756445985109555.jpg",
-            "publishedAt": "2022-02-11T16:55:00Z",
-            "content": ""
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.kp.ru"
-            },
-            "author": "Ольга ЛИБГАРДТ",
-            "title": "Названа настоящая причина смерти актрисы Евгении Брик в 40 лет - Комсомольская правда",
-            "description": "Жена Валерия Тодоровского два года мужественно боролась с недугом",
-            "url": "https://www.kp.ru/daily/27363.5/4544768/",
-            "urlToImage": "https://s12.stc.yc.kpcdn.net/share/i/12/12352346/cr-1200-630.wm-asnplfru-100-tr-0-0.t-13-4544768-ttps-54-14-0083CD-1010-l-85-b-42.t-13-4544768-ttps-54-14-FFF-1010-l-85-b-42.t-207-3-asb-37-10-FFF-788-l-370-t-68.m2022-02-11T16-09-06.jpg",
-            "publishedAt": "2022-02-11T16:10:00Z",
-            "content": ". , 41- , . , \"\" .\r\n. . \", . . , . . , , !\" - .\r\n , . , - . , .\r\n , . . \" , - , . - , \", - .\r\n . .\r\n . . , mk.ru."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sport-express.ru"
-            },
-            "author": "Сергей Ревенко",
-            "title": "Медальный зачет Олимпиады-2022, 11 февраля: Россия идет на восьмом месте, Германия — первая - Спорт-Экспресс",
-            "description": "В Пекине (Китай) прошел очередной день соревнований на Олимпийских играх-2022.",
-            "url": "https://www.sport-express.ru/olympics/beijing2022/news/olimpiada-2022-v-pekine-medalnyy-zachet-11-fevralya-obschaya-tablica-skolko-nagrad-u-rossii-i-kakoe-mesto-zanimaet-1890381/",
-            "urlToImage": "https://ss.sport-express.ru/userfiles/materials/175/1757147/large.jpg",
-            "publishedAt": "2022-02-11T15:15:36Z",
-            "content": "-.\r\n«- », , \r\n 77 77886 10.02.2020.\r\n«-». .. \r\n 18 .\r\n1991 . © «-», 19912021."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "3dnews.ru"
-            },
-            "author": null,
-            "title": "Microsoft напомнила о скором прекращении поддержки Windows 10 (20H2) - 3DNews",
-            "description": "Компания Microsoft объявила о скором прекращении поддержки Windows 10 (20H2), которая также известна как Windows 10 October 2020 Update.",
-            "url": "https://3dnews.ru/1060030/microsoft-napomnila-o-skorom-prekrashchenii-poddergki-windows-10-20h2",
-            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2022/02/11/1060030/160.jpg",
-            "publishedAt": "2022-02-11T15:04:00Z",
-            "content": "Microsoft Windows 10 (20H2), Windows 10 October 2020 Update. 10 2022 . , , , .\r\n: Neowin\r\nWindows 10 (20H2), Home, Pro, Pro Education Pro for Workstation. , Windows 10 (20H2), , . , Windows 10 (20H2)… [+79 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Олимпиада-2022: серебро Большунова в гонке на 15 км, мировой рекорд шведского конькобежца и \"недоразумение\" с допинг-пробой Валиевой - Би-би-си Русская служба",
-            "description": "На восьмой день Олимпийских игр-2022 в Пекине разыгрываются семь комплектов медалей, одну из них, серебряную, получил российский лыжник Александр Большунов.",
-            "url": "https://www.bbc.com/russian/news-60345684",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_russian/33F6/production/_123220331_hi073720859.jpg",
-            "publishedAt": "2022-02-11T14:54:14Z",
-            "content": ", European PressPhoto Agency \r\n-2022 , , , . , - . \r\n . 15 . , .\r\n.\r\n 15 30- . . 2014 , 2018 - 50 . \r\n, European PressPhoto Agency \r\n25- , , 30 . 2018 . \r\n - . \r\n\" , . !\", - \"\", , . \r\n 10 . . 12 . 30… [+313 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vesti.ru"
-            },
-            "author": null,
-            "title": "В Москве спасли провалившуюся под лед олимпийскую чемпионку - Вести.Ru",
-            "description": "Столичные спасатели вытащили из воды провалившуюся под лед женщину – как утверждают СМИ, речь идет о знаменитой российской спортсменке, выигрывавшей олимпийское золото в 2000 году.",
-            "url": "https://www.vesti.ru/article/2675989",
-            "urlToImage": "https://cdn-st1.rtr-vesti.ru/vh/pictures/xw/332/258/1.jpg",
-            "publishedAt": "2022-02-11T14:48:00Z",
-            "content": ". , \r\n Ctrl+Enter."
         }
     ]
 }
