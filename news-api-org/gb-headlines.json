@@ -4,16 +4,81 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Beau Dure, Luke McLaughlin, Mike Hytner, Sean Ingle, Bryan Armen Graham",
+            "title": "Winter Olympics 2022 day 13: figure skating, nordic combined and more – live! - The Guardian",
+            "description": "Live updates: Kamila Valieva will compete for gold later as Team GB’s men play USA in their curling semi-final. Luke McLaughlin has the latest",
+            "url": "https://www.theguardian.com/sport/live/2022/feb/16/winter-olympics-2022-day-13-usa-v-canada-womens-ice-hockey-live",
+            "urlToImage": "https://i.guim.co.uk/img/media/c505f7e68d004c07fb15e62efe52fa082a1733a8/0_7_4200_2520/master/4200.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&amp;enable=upscale&amp;s=d06e5755fd72cebc90efc40872267b57",
+            "publishedAt": "2022-02-17T10:41:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Evening Standard"
+            },
+            "author": "Michael Howie",
+            "title": "Storm Eunice to batter London on Friday as LNER warns ‘don’t travel’ - Evening Standard",
+            "description": "The Met Office has issued an amber warning for strong winds which could endanger life",
+            "url": "https://www.standard.co.uk/news/uk/uk-weather-forecast-storm-eunice-dudley-amber-warning-strong-winds-london-scotland-b982773.html",
+            "urlToImage": "https://static.standard.co.uk/2022/02/16/15/WEATHER%20Storms%20%2012313524.jpg?width=1200&width=1200&auto=webp&quality=75",
+            "publishedAt": "2022-02-17T10:03:37Z",
+            "content": "Rail passengers in London have been warned not to travel on Friday as southern England faces a battering from Storm Eunice. \r\nLondon North Eastern Railway issued the advisory on Wednesday evening as … [+4399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Alix Culbertson",
+            "title": "Golden visa scheme used by Russian oligarchs to live in UK will be closed as soon as this week - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/golden-visa-scheme-used-by-russian-oligarchs-to-live-in-uk-will-be-closed-as-soon-as-this-week-12544084",
+            "urlToImage": "https://e3.365dm.com/18/12/1600x900/skynews-visa-uk-tier-1-golden-visa_4510329.jpg?20181206081317",
+            "publishedAt": "2022-02-17T09:45:00Z",
+            "content": "The golden visa scheme many Russian oligarchs use to live in the UK will be closed as soon as this week, Sky News understands.\r\nA government source said the Tier 1 investor visa scheme will be closed… [+3284 chars]"
+        },
+        {
+            "source": {
                 "id": "independent",
                 "name": "Independent"
             },
-            "author": "Michael Jones",
-            "title": "Liverpool vs Inter Milan LIVE: Champions League result, final score and reaction from fixture tonight - The Independent",
-            "description": "Follow live coverage as Jurgen Klopp’s Reds look to put one foot in the Champions League quarter-finals with the first leg in Milan",
-            "url": "https://www.independent.co.uk/sport/football/liverpool-inter-milan-live-stream-score-champions-league-b2016394.html",
-            "urlToImage": "https://static.independent.co.uk/2022/02/16/21/GettyImages-1370970107.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2022-02-16T22:27:05Z",
-            "content": "Follow live reaction as late goals from Roberto Firmino and Mohamed Salah earned Liverpool a 2-0 victory at Inter Milan in their Champions League last-16 first leg on Wednesday.\r\nInter had the better… [+6133 chars]"
+            "author": "Arpan Rai",
+            "title": "Ukraine fires mortars on separatist territory in breach of ceasefire, say Russia-backed rebels - The Independent",
+            "description": "Forces from the Ukrainian side were accused of using mortars, grenade launchers and a machine gun",
+            "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-invasion-mortar-shelling-latest-b2017002.html",
+            "urlToImage": "https://static.independent.co.uk/2022/02/16/08/APTOPIX_Russia_Ukraine_Tensions_30944.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-02-17T09:36:28Z",
+            "content": "Ukraine government forces have shelled areas within rebel-held territory to the east of the country, a breach of ceasefire agreements designed to bring an end to the conflict, according to Russian-ba… [+3549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Tom Cheshire",
+            "title": "COVID-19: Mass testing and lockdown plans in Hong Kong criticised as 'ridiculous nonsense' by expert - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/covid-19-mass-testing-and-lockdown-plans-in-hong-kong-criticised-as-ridiculous-nonsense-by-expert-12544076",
+            "urlToImage": "https://e3.365dm.com/22/02/1600x900/skynews-hong-kong-covid_5676292.jpg?20220217090344",
+            "publishedAt": "2022-02-17T09:35:54Z",
+            "content": "Hong Kong may test a million people each day, local media has reported, as the city struggles to contain its omicron wave.\r\nBut an expert has told Sky News it would be \"ridiculous nonsense\" to conduc… [+2580 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Jennifer Smith, Daniel Bates, Laura Fox",
+            "title": "Ioan Gruffudd's estranged wife Alice Evans slams new girlfriend as he applies for restraining order - Daily Mail",
+            "description": "The Welsh actor submitted a raft of abusive texts as he applied for a restraining order, claiming she threatened to do to him 'what Amber Heard did to Johnny Depp'.",
+            "url": "https://www.dailymail.co.uk/news/article-10522783/Ioan-Gruffudds-estranged-wife-Alice-Evans-lays-vixen-new-girlfriend.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/02/17/10/54308055-0-image-a-2_1645092019083.jpg",
+            "publishedAt": "2022-02-17T09:34:16Z",
+            "content": "Ioan Gruffudd's estranged wife Alice Evans laid into his new girlfriend in a series of abusive texts, calling her a 'vixen' who has 'your nuts stuck in her veneers' - according to a bombshell court f… [+10376 chars]"
         },
         {
             "source": {
@@ -21,168 +86,90 @@
                 "name": "Telegraph.co.uk"
             },
             "author": null,
-            "title": "Exclusive: Prince Andrew agrees to never again repeat his denial that he raped Virginia Giuffre - Telegraph.co.uk",
-            "description": "Gagging clause in out-of-court settlement prevents the Duke from even repeating his claim that he had no recollection of meeting his accuser",
-            "url": "https://www.telegraph.co.uk/royal-family/2022/02/16/exclusive-prince-andrew-agrees-never-repeat-denial-raped-virginia/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/royal-family/2022/02/15/150222_ZD_PRINCE_ANDREW_PORTAL_1_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7EJNivfCKtczXuFDPh2mkj4.jpg?impolicy=logo-overlay",
-            "publishedAt": "2022-02-16T21:30:00Z",
-            "content": "The Dukes main concern during the settlement negotiations was to ensure that nothing overshadowed the Queens Platinum Jubilee, it is understood.\r\nAs a result, they are said to be bound only until the… [+1457 chars]"
+            "title": "Sydney shark attack victim named as British expat Simon Nellist - Telegraph.co.uk",
+            "description": "Beaches are still closed as local authorities desperately search for the great white responsible for the killing",
+            "url": "https://www.telegraph.co.uk/world-news/2022/02/17/shark-attack-victim-named-british-expat-simon-nellist/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/world-news/2022/02/17/TELEMMGLPICT000000286369021_trans_NvBQzQNjv4BqjZXqKq_zv0lpkogKO1YmcuEF_BzZH9KgI5zMAB0l0FU.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2022-02-17T09:28:00Z",
+            "content": "Nellist was swimming off Little Bay Beach on Wednesday when he was dragged underwater with what one onlooker described as a \"big splash\".\r\nFishermen and other bathers watched in horror as several sec… [+939 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Manchester Evening News"
+            },
+            "author": "Richard Fay, James Findlater",
+            "title": "Manchester United transfer news LIVE Paul Pogba latest plus Man Utd fixture and team news - Manchester Evening News",
+            "description": "All the day's Man United transfer rumours, injury updates and breaking news ahead of the Reds' match against Leeds.",
+            "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-transfer-news-live-23123270",
+            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/sport/football/article22859825.ece/ALTERNATES/s1200/0_ipiccy_image-2022-01-24T173948490.jpg",
+            "publishedAt": "2022-02-17T09:11:05Z",
+            "content": "Manchester United moved back up to fourth in the table after they beat Brighton 2-0 in the Premier League on Tuesday night.\r\n Brighton looked the better side throughout the first half but Ronaldo str… [+713 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Jamie Grierson, Vikram Dodd",
-            "title": "Prince Charles could be called as witness in cash-for-honours investigation - The Guardian",
-            "description": "Scotland Yard looking into allegations that the Prince’s Foundation charity offered help in securing a knighthood",
-            "url": "https://amp.theguardian.com/uk-news/2022/feb/16/prince-charles-could-be-called-as-witness-in-cash-for-honours-investigation",
-            "urlToImage": null,
-            "publishedAt": "2022-02-16T21:24:00Z",
-            "content": "Prince CharlesScotland Yard looking into allegations that the Princes Foundation charity offered help in securing a knighthood\r\nThe Prince of Wales is facing the prospect of being interviewed by poli… [+5729 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Conte: 'Tottenham weakened squad, I realise now this is the club's vision' - Football Italia - Football Italia",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vZm9vdGJhbGwtaXRhbGlhLm5ldC9jb250ZS10b3R0ZW5oYW0td2Vha2VuZWQtc3F1YWQtaS1yZWFsaXNlLW5vdy10aGlzLWlzLXRoZS1jbHVicy12aXNpb24v0gFmaHR0cHM6Ly9mb290YmFsbC1pdGFsaWEubmV0L2NvbnRlLXRvdHRlbmhhbS13ZWFrZW5lZC1zcXVhZC1pLXJlYWxpc2Utbm93LXRoaXMtaXMtdGhlLWNsdWJzLXZpc2lvbi9hbXAv?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-02-16T20:36:11Z",
+            "author": "Samantha Lock, Jennifer Rankin, Stephen Burgen",
+            "title": "Ukraine crisis: Russia has deployed 7,000 more troops to border, US official claims – live - The Guardian",
+            "description": "Multiple reports contradict Moscow’s claim of partial drawdown; Nato secretary general sees ‘no sign of de-escalation on the ground’",
+            "url": "https://www.theguardian.com/world/live/2022/feb/17/russia-ukraine-news-troops-border-latest-live-putin-biden-kyiv-russian-invasion-threat",
+            "urlToImage": "https://i.guim.co.uk/img/media/b462c52251d7ea0c05321e5fdb58065ba725d751/144_0_3333_2002/master/3333.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&amp;enable=upscale&amp;s=78e70cc4b0825d7ffaff9438e21bd70b",
+            "publishedAt": "2022-02-17T08:34:23Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Mail"
+                "name": "Mirror Online"
             },
-            "author": "Niomi Harris",
-            "title": "Molly-Mae Hague talks centre-stage in a blue co-ord at her inclusive PLT catwalk show - Daily Mail",
-            "description": "The Creative Director, 22, took centre-stage on Wednesday as she launches her long awaited PrettyLittleThing collaboration with an inclusive runway show at Londoner Hotel in London.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-10520549/Maura-Higgins-Roxy-Horner-wow-sexy-ensembles-Molly-Mae-Hagues-PLT-clothing-launch.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/02/16/21/54287363-0-image-a-77_1645047486612.jpg",
-            "publishedAt": "2022-02-16T19:57:49Z",
-            "content": "Molly-Mae Hague took centre-stage on Wednesday as she launches her long awaited PrettyLittleThing collaboration with an inclusive runway show at Londoner Hotel in London.\r\nThe Creative Director, 22, … [+12767 chars]"
+            "author": "Emma Wilson",
+            "title": "Jimmy Carr's latest stand-up show surrounded by protesters after Holocaust joke - The Mirror",
+            "description": "Jimmy Carr has faced a fierce backlash after he made disparaging comments about Gypsy, Roma and Traveller communities in his Netflix comedy special, His Dark Material, and has yet to apologise for the offensive remarks",
+            "url": "https://www.mirror.co.uk/3am/celebrity-news/jimmy-carrs-latest-stand-up-26253746",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article26222022.ece/ALTERNATES/s1200/3_Jimmy-Carr-His-Dark-Material.jpg",
+            "publishedAt": "2022-02-17T08:07:48Z",
+            "content": "Jimmy Carr 's latest stand-up show in Cambridge was surrounded by protesters after he made an offensive joke about the Holocaust. \r\n The comedian has faced a fierce backlash after his comments about … [+2269 chars]"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "POLITICO.eu"
             },
-            "author": null,
-            "title": "Strand Gang thugs brought down by huge gun raid at remote farm - Liverpool Echo",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiXWh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvbmV3cy9saXZlcnBvb2wtbmV3cy9zdHJhbmQtZ2FuZy1kZWFsZXJzLWNhdWdodC1hZnRlci0yMzEyMjExM9IBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-02-16T19:37:32Z",
+            "author": "Alex Wickham",
+            "title": "London Playbook: Putin withdrawal ‘lie’ — Truss in Kyiv — Charles cop quiz - POLITICO.eu",
+            "description": "What's driving the day in Westminster. Politics and policymaking in the UK capital, by Alex Wickham.",
+            "url": "http://www.politico.eu/newsletter/london-playbook/putin-withdrawal-lie-truss-in-kyiv-charles-cop-quiz/",
+            "urlToImage": "https://www.politico.eu/wp-content/uploads/2021/10/15/LONDON-PLAYBOOK-1920x1080-High-Quality.jpg",
+            "publishedAt": "2022-02-17T07:15:47Z",
+            "content": "Presented by NatWest Group .\r\nBy ALEX WICKHAM\r\nPRESENTED BY \r\nSend tips here | Subscribe for free | Listen to Playbook and view in your browser\r\nGood Thursday morning.\r\nDRIVING THE DAY\r\nPUTIN WITHDRA… [+19312 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Sam Byford",
+            "title": "Oppo releases official images of new Find X5 flagship phone - The Verge",
+            "description": "Oppo has released official images of its latest flagship phone. The Find X5 series’ launch event will take place at 6am ET on February 24th.",
+            "url": "https://www.theverge.com/2022/2/17/22938600/oppo-find-x5-pro-official-images-launch-event-date-time",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/khmRr6uqaASAgiqoBNjhBZB16-8=/0x86:1200x714/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23251628/fx5.jpg",
+            "publishedAt": "2022-02-17T07:00:00Z",
+            "content": "Save the date for February 24th\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nOppo has released official images of its latest flagship phone, wh… [+1259 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express"
+            },
+            "author": "Ryan Taylor",
+            "title": "Liverpool beat Inter: Luis Diaz is special, duo not untouchable and Klopp's genius at subs - Express",
+            "description": "LIVERPOOL ran out 2-0 winners against Inter Milan at the San Siro but they were under the cosh for large stages of their Champions League last 16 first-leg tie.",
+            "url": "https://www.express.co.uk/sport/football/1567278/Liverpool-Inter-Milan-Jurgen-Klopp-subs-Roberto-Firmino-Mohamed-Salah-goals",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/67/750x445/1567278.jpg",
+            "publishedAt": "2022-02-17T07:00:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Rowena Mason, Maya Wolfe-Robinson",
-            "title": "Idea of Prince Andrew supporting trafficking victims ‘ridiculous’ says Jess Phillips - The Guardian",
-            "description": "Labour MP says she ‘can’t see him being welcome’ by charities working with victims of sexual violence",
-            "url": "https://amp.theguardian.com/uk-news/2022/feb/16/idea-of-prince-andrew-supporting-trafficking-victims-ridiculous-says-jess-phillips",
-            "urlToImage": "https://i.guim.co.uk/img/media/209f73055f7ac889dbaa72bd8b609df6094f7705/130_386_3240_1944/master/3240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d14ee9efbdac9c9aac75ef02c9e86f44",
-            "publishedAt": "2022-02-16T19:04:00Z",
-            "content": "Prince Andrew will not be welcome in any role supporting victims of sex trafficking and shows a sense of entitlement in thinking he has something to offer, according to the Labour MP Jess Phillips.\r\n… [+3800 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ChronicleLive"
-            },
-            "author": "Flaminia Luck",
-            "title": "Baby dies after being airlifted to hospital from County Durham home as police investigate death - Chronicle Live",
-            "description": "Police confirmed they are trying to establish the circumstances surrounding the death which is currently being treated as unexplained",
-            "url": "https://www.chroniclelive.co.uk/news/north-east-news/ferryhill-durham-baby-died-ambulance-23122467",
-            "urlToImage": "https://i2-prod.chroniclelive.co.uk/incoming/article20404862.ece/ALTERNATES/s1200/1_KLP_MGA_110820mgaGNAA_12JPGjpgs-ca.jpg",
-            "publishedAt": "2022-02-16T18:46:58Z",
-            "content": "A baby has died after being flown by air ambulance to hospital in an attempt to save the child's life.\r\n Emergency services were called to a home in Chilton in the Ferryhill area of County Durham at … [+1429 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Andy Bounds",
-            "title": "Nato says Russian troop numbers still rising near Ukraine border - Financial Times",
-            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
-            "url": "https://www.ft.com/content/6b0c797f-fc8f-495f-9675-af094179dcc1",
-            "urlToImage": null,
-            "publishedAt": "2022-02-16T18:18:39Z",
-            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Google moves to make Android apps more private - BBC News",
-            "description": "No details are available but it says it will not be using the same approach as Apple.",
-            "url": "https://www.bbc.co.uk/news/technology-60403963",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36AD/production/_123279931_google.png",
-            "publishedAt": "2022-02-16T18:17:05Z",
-            "content": "By Jane WakefieldTechnology reporter \r\nImage source, Getty Images\r\nImage caption, Google didn't detail how it plans to make apps more private\r\nGoogle's plan to limit data tracking on its Chrome brows… [+3559 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Lucy Campbell, Tom Ambrose",
-            "title": "Former Post Office workers say lives fell apart after wrongful convictions - The Guardian",
-            "description": "Inquiry hears of workers feeling worthless and shunned and lives falling apart as a result of IT scandal",
-            "url": "https://amp.theguardian.com/business/2022/feb/16/former-post-office-workers-fell-apart-after-wrongful-convictions",
-            "urlToImage": null,
-            "publishedAt": "2022-02-16T18:02:00Z",
-            "content": "Post OfficeInquiry hears of workers feeling worthless and shunned and lives falling apart as a result of IT scandal\r\nWed 16 Feb 2022 18.48 GMT\r\nA former post office operators wrongful conviction over… [+4438 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Greg Heffer",
-            "title": "Ukraine crisis: Satellite images disprove Russia's claims of troop withdrawal, says NATO secretary general Jens Stoltenberg - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/ukraine-crisis-satellite-images-disprove-russias-claims-of-troop-withdrawal-says-nato-secretary-general-jens-stoltenberg-12543671",
-            "urlToImage": "https://e3.365dm.com/22/02/1600x900/skynews-russian-tanks-return-to-base_5675815.jpg?20220216181517",
-            "publishedAt": "2022-02-16T18:00:00Z",
-            "content": "Satellite imagery disproves Russian claims it is withdrawing troops from Ukraine's border, NATO chief Jens Stoltenberg has said - as he expressed concern that yesterday's large cyberattack could be a… [+5161 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Push Square"
-            },
-            "author": "Robert Ramsey",
-            "title": "Cyberpunk 2077 Dev Investigating PS4 to PS5 Disc Issues, Trophy Transfers - Push Square",
-            "description": "Ping!",
-            "url": "https://www.pushsquare.com/news/2022/02/cyberpunk-2077-dev-investigating-ps4-to-ps5-disc-issues-trophy-transfers",
-            "urlToImage": "https://images.pushsquare.com/18bbed0e22d5b/1280x720.jpg",
-            "publishedAt": "2022-02-16T18:00:00Z",
-            "content": "Cyberpunk 2077 has only just been reborn on PlayStation 5, but developer CD Projekt Red is already looking into some freshly reported issues. On Sony's platforms, this includes the problem that some … [+976 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Maria Chiorando",
-            "title": "Katherine Ryan was confronted by the mother of her daughter's bully after calling out the child - Daily Mail",
-            "description": "Comedian Katherine Ryan, who lives in Hertfordshire, was confronted in the playground by the mother of a boy she named as being her daughter's bully on a podcast.",
-            "url": "https://www.dailymail.co.uk/femail/article-10519615/Katherine-Ryan-confronted-mother-daughters-bully-calling-child.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/02/16/17/54277579-0-image-a-12_1645031580553.jpg",
-            "publishedAt": "2022-02-16T17:33:01Z",
-            "content": "Katherine Ryan has revealed that one of her biggest regrets is publicly calling out a boy she says was bullying her daughter - which resulted in a playground confrontation with his mum.\r\nThe comedian… [+3351 chars]"
         },
         {
             "source": {
@@ -190,64 +177,25 @@
                 "name": "Financial Times"
             },
             "author": null,
-            "title": "Ericsson says it may have paid Isis terror group in Iraq - Financial Times",
-            "description": "Shares in telecoms group drop after internal probe finds payments were made for transport routes",
-            "url": "https://www.ft.com/content/8779157b-5568-48e7-a117-96b74c6db957",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb4f42e92-e996-4c99-b251-a176d5d8fd47.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2022-02-16T17:12:06Z",
-            "content": "Shares in Ericsson fell sharply after Borje Ekholm, chief executive of the Swedish telecoms equipment maker, conceded it could have made payments to terror organisation Isis in Iraq.\r\nEricsson said l… [+3296 chars]"
+            "title": "Amazon reaches 'global' truce with Visa on credit card fees - Financial Times",
+            "description": "Online retailer drops threat to block UK payments and surcharges in Australia and Singapore",
+            "url": "https://www.ft.com/content/7465b937-ac69-4eef-9132-42e8939fcf3e",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5502ce1f-b3f9-4bd2-8b0c-5d36f0058d71.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-02-17T06:04:15Z",
+            "content": "Amazon has reached a worldwide deal with Visa to continue accepting payments from its credit cards through its stores, ending a tense, months-long stand-off over rising transaction fees.\r\n“We’ve rece… [+2056 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "autosport.com"
+                "name": "The Guardian"
             },
-            "author": "Jonathan Noble",
-            "title": "Williams: F1 2022 car run highlights visibility concerns - Autosport",
-            "description": "Williams duo Alex Albon and Nicholas Latifi say their first experience of a 2022 Formula 1 car has highlighted how visibility could be more restricted with the new bigger tyres.",
-            "url": "https://www.autosport.com/f1/news/williams-f1-2022-car-run-highlights-visibility-concerns/8204152/",
-            "urlToImage": "https://cdn-1.motorsport.com/images/amp/254Aggn0/s6/formula-1-williams-launch-2022-2.jpg",
-            "publishedAt": "2022-02-16T17:03:38Z",
-            "content": "The pair completed a shakedown of their Williams FW44 at a wet Silverstone on Tuesday, as the squad unveiled an all-new livery for the season ahead.\r\nAnd although the rules restricted their running t… [+2263 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Amanda Holden rocks latex bra to celebrate her birthday - AOL UK",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8abf11f2-490e-417d-909e-1435d6f43735",
-            "urlToImage": null,
-            "publishedAt": "2022-02-16T16:18:21Z",
-            "content": "AOL is part of the Yahoo family of brands.\r\nBy clicking \"Accept all\" you agree that Yahoo and our partners will store and/or access information on your device through the use of cookies and similar t… [+687 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cambridgeshire Live"
-            },
-            "author": "Becca Field",
-            "title": "What is Lassa Fever UK? NHS East of England declare major incident after Lassa Fever detected in region - Cambridgeshire Live",
-            "description": "Staff at Addenbrooke’s Hospital in Cambridge have reportedly been told to self isolate",
-            "url": "https://www.cambridge-news.co.uk/news/local-news/what-lassa-fever-uk-nhs-23118796",
-            "urlToImage": "https://i2-prod.cambridge-news.co.uk/incoming/article23119359.ece/ALTERNATES/s1200/0_JS251370548.jpg",
-            "publishedAt": "2022-02-16T16:17:10Z",
-            "content": "NHS East of England has confirmed that they've declared a regional major incident following the discovery of an Ebola-like disease in the area.\r\nThe UK Health Security Agency (UKHSA) has confirmed th… [+4727 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Kate Ng",
-            "title": "Inventing Anna: You can still find Anna Delvey on Instagram - The Independent",
-            "description": "From being friends with Julia Fox to posting from ICE",
-            "url": "https://www.independent.co.uk/life-style/anna-delvey-sorokin-instagram-netflix-b2016588.html",
-            "urlToImage": "https://static.independent.co.uk/2022/02/13/11/GettyImages-1136286905.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2022-02-16T16:07:04Z",
-            "content": "Anna Sorokin better known as Anna Delvey has been thrust into the spotlight once again following the release of Shonda RhimesNetflix series about her life, Inventing Anna.\r\nThe show chronicles the cr… [+4004 chars]"
+            "author": "Aubrey Allegretti",
+            "title": "Lib Dems in bid to force publication of full Sue Gray No 10 parties report - The Guardian",
+            "description": "Party to table motion demanding unredacted report and list of Downing Street staff issued with a fixed penalty notice",
+            "url": "https://amp.theguardian.com/politics/2022/feb/17/lib-dems-in-bid-to-force-publication-of-full-sue-gray-no-10-parties-report",
+            "urlToImage": "https://i.guim.co.uk/img/media/ec88ddb9ec53272a2371cf7ee0b3b2bba6513f0f/0_37_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e40c6e78317b3957b649e4f8c6974f7f",
+            "publishedAt": "2022-02-17T06:00:00Z",
+            "content": "A new attempt will be launched next week to force publication of the full report into whether No 10 parties broke Covid laws, with Conservative MPs urged to support the move to ensure there are no mo… [+3884 chars]"
         },
         {
             "source": {
@@ -255,12 +203,64 @@
                 "name": "Sky.com"
             },
             "author": "Sky",
-            "title": "Supermassive black hole found hiding in ring of cosmic dust - Sky News",
+            "title": "Lord Sugar left 'always looking over shoulder' after pensioner sends abusive antisemitic letters - Sky News",
             "description": "",
-            "url": "https://news.sky.com/story/supermassive-black-hole-found-hiding-in-ring-of-cosmic-dust-12543504",
-            "urlToImage": "https://e3.365dm.com/22/02/1600x900/skynews-supermassive-black-hole_5675527.jpg?20220216132539",
-            "publishedAt": "2022-02-16T16:02:03Z",
-            "content": "A supermassive black hole has been found hiding in a ring of cosmic dust by scientists who are studying some of the brightest and most mysterious objects in the universe.\r\nAstronomers have been looki… [+2595 chars]"
+            "url": "https://news.sky.com/story/lord-sugar-left-always-looking-over-shoulder-after-pensioner-sends-abusive-anti-semitic-letters-12543920",
+            "urlToImage": "https://e3.365dm.com/21/12/1600x900/skynews-lord-sugar-london_5603085.jpg?20211203115753",
+            "publishedAt": "2022-02-17T04:45:17Z",
+            "content": "Lord Alan Sugar has said he was \"now always looking over my shoulder\" after antisemitic letters were sent to him, with one saying \"I would like to murder all Jews in Britain, Alan\".\r\nThe letters, wit… [+2748 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Laurie Churchman",
+            "title": "Prince Andrew news – live: Duke agrees not to repeat claim he didn’t rape Giuffre in settlement, report says - The Independent",
+            "description": "Follow the latest updates",
+            "url": "https://www.independent.co.uk/news/world/americas/prince-andrew-virginia-giuffre-settlement-latest-b2016976.html",
+            "urlToImage": "https://static.independent.co.uk/2022/01/14/10/36d661ede84c5e5c160fb25b1b58dde6Y29udGVudHNlYXJjaGFwaSwxNjQyMjM5NzYx-2.64548569.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-02-17T04:30:38Z",
+            "content": "Anti-monarchy group demands to know where Prince Andrews settlement money is coming from\r\nAnti-monarchy campaign group, Republic, has insisted that taxpayers deserve to know where the money for Princ… [+881 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express"
+            },
+            "author": "Catherine  Meyer-Funnell",
+            "title": "Energy deal ban: Ofgem green lights major change for Brits - ‘More resilient and fair’ - Express",
+            "description": "OFGEM is set to ban energy suppliers from only offering discount deals to new customers, in an attempt to stop more energy firms going bust.",
+            "url": "https://www.express.co.uk/news/uk/1567347/energy-deal-ban-ofgem-cost-of-living-crisis-deals-new-existing-customers-ont",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/750x445/1567347.jpg",
+            "publishedAt": "2022-02-17T03:41:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "David M. Herszenhorn, Barbara Moens",
+            "title": "EU scrambles to patch up relations at Africa summit - POLITICO.eu",
+            "description": "The grand pivot to Europe’s southern neighbor has not worked out as planned.",
+            "url": "http://www.politico.eu/article/africa-summit-eu-patch-up-relations/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=628,fit=crop,quality=80,format=auto,onerror=redirect/wp-content/uploads/2022/02/17/euafrica_main_@-gracierussell25-wide.jpg",
+            "publishedAt": "2022-02-17T03:36:29Z",
+            "content": "It is not easy to pinpoint the nadir of the EU's great pivot to Africa.\r\nThe shift in Europe's focus was trumpted with great fanfare by Commission President Ursula von der Leyen and Council President… [+7744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Sky",
+            "title": "COVID-19: Catching coronavirus increases the chances of depression, study suggests - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/covid-19-catching-coronavirus-increases-the-chances-of-depression-study-suggests-12543913",
+            "urlToImage": "https://e3.365dm.com/22/02/1600x900/skynews-covid-mental-health_5676039.jpg?20220217022617",
+            "publishedAt": "2022-02-17T02:41:02Z",
+            "content": "People who have had COVID-19 are more likely to go on to suffer depression and anxiety, a study has suggested.\r\nUS researchers looked at data for 153,848 people who had experienced coronavirus and co… [+1927 chars]"
         }
     ]
 }
