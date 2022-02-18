@@ -4,133 +4,55 @@
     "articles": [
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": null,
+                "name": "New York Times"
             },
-            "author": "USA TODAY Sports, USA TODAY",
-            "title": "Winter Olympics live updates: Canada defeats US women in hockey final; Mikaela Shiffrin skis out again; Brittany Bowe wins bronze medal - USA TODAY",
-            "description": "As Canada defeated Team USA for gold in women's hockey, Mikaela Shiffrin skied out of the slalom run of the Alpine combined event.",
-            "url": "https://www.usatoday.com/story/sports/olympics/2022/02/16/winter-olympics-2022-thursday-live-updates-beijing/6815901001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/02/17/USAT/14c41e25-0c2d-47a8-b98b-56f73ad54033-USATSI_17704367.jpg?auto=webp&crop=5876,3305,x0,y0&format=pjpg&width=1200",
-            "publishedAt": "2022-02-17T10:14:44Z",
-            "content": "Over the course of a few brief moments at the Beijing Olympics, the U.S. women's hockey team was defeated by Canada in the gold-medal game and Mikaela Shiffrin's frustration at the Winter Games conti… [+27974 chars]"
+            "author": "Shawn Hubler",
+            "title": "Covid-19 Live Updates: Mask Mandates, Cases and More - The New York Times",
+            "description": "The state will promote vaccines, stockpile medical supplies and combat disinformation about the virus, which has claimed the lives of more than 83,000 Californians. A New York City anime convention was not an Omicron superspreader event, the C.D.C. said.",
+            "url": "https://www.nytimes.com/live/2022/02/17/world/covid-19-tests-cases-vaccine",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/17/multimedia/17virus-briefing-promo-130pm/17virus-briefing-promo-130pm-facebookJumbo.jpg",
+            "publishedAt": "2022-02-17T22:23:54Z",
+            "content": "California health authorities unveiled a next phase pandemic playbook for the most populous U.S. state on Thursday that will treat the coronavirus as a manageable risk that will remain with us for so… [+5711 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine shelling renews invasion fears as Russia expels U.S. diplomat - Reuters",
+            "description": "Shelling in Ukraine on Thursday renewed Western fears of an imminent Russian invasion as U.S. President Joe Biden said Moscow is preparing a pretext to justify a possible attack and the Kremlin expelled an American diplomat.",
+            "url": "https://www.reuters.com/world/europe/shelling-breaks-out-east-ukraine-west-moscow-dispute-troop-moves-2022-02-17/",
+            "urlToImage": "https://www.reuters.com/resizer/K29btcLaZyLxbLxs8aovzj7sEoE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QC6SBCNR6VNQBBKVCS4FOVDXAA.jpg",
+            "publishedAt": "2022-02-17T22:22:00Z",
+            "content": "MOSCOW/KYIV, Feb 17 (Reuters) - Shelling in Ukraine on Thursday renewed Western fears of an imminent Russian invasion as U.S. President Joe Biden said Moscow is preparing a pretext to justify a possi… [+6011 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Dave Michaels",
+            "title": "Tesla Tells Federal Judge That SEC Is Harassing Elon Musk and the Company - The Wall Street Journal",
+            "description": "Lawyers for the electric-car maker say the regulator hasn’t distributed a $40 million fine from a 2018 settlement to harmed shareholders",
+            "url": "https://www.wsj.com/articles/tesla-tells-judge-that-sec-is-conducting-unfounded-probes-of-elon-musk-tesla-11645106618",
+            "urlToImage": "https://images.wsj.net/im-487930/social",
+            "publishedAt": "2022-02-17T22:17:00Z",
+            "content": "Tesla Inc. says regulators are harassing Chief Executive Elon Musk over his compliance with a 2018 regulatory settlement that sought to restrict his use of social media.\r\nThe Securities and Exchange … [+351 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "New York Times"
             },
-            "author": "Ryan Browne",
-            "title": "Amazon and Visa agree to end global dispute over credit card fees - CNBC",
-            "description": "Amazon has been piling pressure on Visa to lower its fees, signaling growing frustration from retailers over the costs associated with major card networks.",
-            "url": "https://www.cnbc.com/2022/02/17/amazon-and-visa-reach-global-truce-over-credit-card-fees.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107016589-1645082797452-gettyimages-1365234911-amazon_visa-2.jpeg?v=1645082894",
-            "publishedAt": "2022-02-17T09:13:51Z",
-            "content": "Amazon has reached a global agreement with Visa to settle a dispute over the credit card giant's fees.\r\nThe deal means Amazon customers in the U.K. can continue using Visa credit cards, as previously… [+1553 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Rob Frehse and Laura Studley, CNN",
-            "title": "Video showing police breaking up a fight between a Black teen and a White teen in a New Jersey mall prompts outrage - CNN",
-            "description": "A video showing police officers breaking up a fight between a Black teenager and a White teenager at a New Jersey mall has prompted outrage over the police response.",
-            "url": "https://www.cnn.com/2022/02/16/us/video-new-jersey-police-black-and-white-teen-fight-outrage/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220216154954-police-break-up-teen-fight-in-mall-super-tease.jpg",
-            "publishedAt": "2022-02-17T08:20:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "axios",
-                "name": "Axios"
-            },
-            "author": "Shawna Chen",
-            "title": "Asian Americans flex their voting power in San Francisco school board recall - Axios",
-            "description": "The recall effort was largely driven by Asian American parents who were discontent with the board's delay in reopening schools.",
-            "url": "https://www.axios.com/san-francisco-recall-school-asian-americans-edfa51e2-4127-4500-b5c6-3530942a5c6c.html",
-            "urlToImage": "https://images.axios.com/EMr_W5z9MytWpoNLihP_fQnVXI0=/fit-in/1366x1366/2022/02/16/1645045490333.jpg",
-            "publishedAt": "2022-02-17T07:18:57Z",
-            "content": "Asian Americans proved themselves to be a critical voting bloc this week as San Francisco overwhelmingly voted to remove three school board members from office.\r\nWhy it matters: The recall effort was… [+1923 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Reuters",
-            "title": "Sydney beaches close after first fatal shark attack in 60 years - New York Post ",
-            "description": "Several beaches in Sydney, including the iconic Bondi and Bronte, were shut down on Thursday after a swimmer was killed in a shark attack.",
-            "url": "https://nypost.com/2022/02/17/australia-fatal-shark-attack-forces-sydney-beaches-to-close/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/newspress-collage-21239761-1645076474139.png?w=1024",
-            "publishedAt": "2022-02-17T06:39:00Z",
-            "content": "Several beaches in Sydney, including the iconic Bondi and Bronte, were shut down on Thursday after a swimmer was killed in a shark attack, the first such fatality at the city’s beaches in nearly 60 y… [+2052 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Carla K. Johnson",
-            "title": "Estimated 73% of US now immune to omicron: Is that enough? - Associated Press",
-            "description": "The omicron wave that assaulted the United States this winter also bolstered its defenses, leaving enough protection against the coronavirus that future spikes will likely require much less — if any — dramatic disruption to society.",
-            "url": "https://apnews.com/article/coronavirus-pandemic-science-health-united-states-3e7ab3f74080bac8480aa6de3e65ecce",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/265e36d15ede42f28be1d2188cd25205/3000.jpeg",
-            "publishedAt": "2022-02-17T06:09:11Z",
-            "content": "The omicron wave that assaulted the United States this winter also bolstered its defenses, leaving enough protection against the coronavirus that future spikes will likely require much less if any dr… [+5755 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Holly Yan, CNN",
-            "title": "Here's how women's figure skating is now scored (and why stamina often leads to more points) - CNN",
-            "description": "Gone are the days when Olympic figure skating was scored solely at the judges' discretion, with subjective points awarded on a 6.0 scale.",
-            "url": "https://www.cnn.com/2022/02/17/sport/womens-figure-skating-scoring-explainer/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220216174926-woman-figure-skating-stock-super-tease.jpg",
-            "publishedAt": "2022-02-17T05:00:00Z",
-            "content": "(CNN)Gone are the days when Olympic figure skating was scored solely at the judges' discretion, with subjective points awarded on a 6.0 scale.\r\nA 2002 Olympic figure skating scandal -- with allegatio… [+4551 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Tom Tapp",
-            "title": "Bob Saget’s Family Sues Sheriff, Medical Examiner & Blocks Release Of Allegedly Graphic Records - Deadline",
-            "description": "Bob Saget’s widow Kelly Rizzo and her three daughters filed a lawsuit on Tuesday against the Orange County, Florida sheriff and medical examiner’s office seeking to keep sealed certain records related to the investigation into the comedian’s recent death. “In…",
-            "url": "https://deadline.com/2022/02/bob-saget-family-sues-block-graphic-death-records-1234935663/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/02/Bob-Saget.jpg?w=1000",
-            "publishedAt": "2022-02-17T04:42:00Z",
-            "content": "Bob Saget’s widow Kelly Rizzo and her three daughters filed a lawsuit on Tuesday against the Orange County, Florida sheriff and medical examiner’s office seeking to keep sealed certain records relate… [+1432 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jason Hanna, Pamela Kirkland and Alta Spells, CNN",
-            "title": "Two of the men convicted of killing Ahmaud Arbery used racist slurs in messages, a witness testifies at their federal hate crime trial - CNN",
-            "description": "Texts and social media messages from two of the White men convicted of murdering Ahmaud Arbery included racist insults about African Americans, an FBI intelligence analyst testified Wednesday in their federal hate crime trial in Georgia.",
-            "url": "https://www.cnn.com/2022/02/16/us/ahmaud-arbery-hate-crime-trial-wednesday/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220216141355-travis-mcmichael-william-bryan-split-super-tease.jpg",
-            "publishedAt": "2022-02-17T04:27:00Z",
-            "content": "(CNN)Texts and social media messages from two of the White men convicted of murdering Ahmaud Arbery included racist insults about African Americans, an FBI intelligence analyst testified Wednesday in… [+10010 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Mychael Schnell",
-            "title": "Trump-nominated FAA administrator to resign at end of March | TheHill - The Hill",
-            "description": "Federal Aviation Administration (FAA) chief Steve Dickson announc...",
-            "url": "https://thehill.com/policy/transportation/594661-trump-nominated-faa-administrator-to-resign-at-end-of-march",
-            "urlToImage": "https://thehill.com/sites/default/files/article_images/dicksonsteve_110321_ap_amanda_andrade-rhoades.jpeg",
-            "publishedAt": "2022-02-17T04:18:20Z",
-            "content": "Federal Aviation Administration (FAA) chief Steve Dickson announced on Wednesday that he will step down as administrator of the agency on March 31.\r\nDickson, who was nominated by then-President Trump… [+2957 chars]"
+            "author": "Juliet Macur",
+            "title": "Figure Skating Highlights: How Shcherbakova Won Gold in Free Skate - The New York Times",
+            "description": "The teenage Russian star stumbled on the ice and fell off the podium, creating an emotional ending to a women’s competition shadowed by her positive doping test.",
+            "url": "https://www.nytimes.com/live/2022/02/17/sports/figure-skating-olympics",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/17/sports/olympics/beijing-women-s-figure-skating-590/beijing-women-s-figure-skating-590-articleLarge.jpg",
+            "publishedAt": "2022-02-17T22:12:50Z",
+            "content": "BEIJING Kamila Valieva, the Russian figure skating star at the center of a doping scandal, showed up at the Olympic rink on Thursday night facing a single, heavy expectation, especially heavy for a 1… [+9222 chars]"
         },
         {
             "source": {
@@ -138,129 +60,207 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Knicks on troubling trajectory with Tom Thibodeau's tired ways reinforced yet again in blown lead against Nets - CBS Sports",
-            "description": "Thibodeau is taking New York down a road we've seen before when he coached Chicago and Minnesota",
-            "url": "https://www.cbssports.com/nba/news/knicks-on-troubling-trajectory-with-tom-thibodeaus-tired-ways-reinforced-yet-again-in-blown-lead-against-nets/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/02/16/5dc7041f-3888-4dc6-bf2b-510930dd8229/thumbnail/1200x675/e0a9c0c0af9290ec9b167e160addbbb3/tbis-1.jpg",
-            "publishedAt": "2022-02-17T04:08:00Z",
-            "content": "Last week's NBA trade deadline -- and all the change it engendered across the league -- further eclipsed a painfully true reality for the New York Knicks: The honeymoon period between Tom Thibodeau a… [+6079 chars]"
+            "title": "Matthew Stafford, Rams to pay for NFL photographer's medical bills after brutal fall off stage during parade - CBSSports.com",
+            "description": "A photographer was taken to the hospital on Wednesday after falling off the main stage at the Rams' Super Bowl parade",
+            "url": "https://www.cbssports.com/nfl/news/matthew-stafford-rams-to-pay-for-nfl-photographers-medical-bills-after-brutal-fall-off-stage-during-parade/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/02/17/413c9ba7-9808-4b7e-b517-3deea7409368/thumbnail/1200x675/1eb6aac74ffab7133c93a91d93e76716/rams-parade.jpg",
+            "publishedAt": "2022-02-17T22:03:00Z",
+            "content": "A photographer who was working in Los Angeles for the RamsSuper Bowl parade on Wednesday apparently suffered a major injury after she fell off the stage near the end of the day's festivities. \r\nThe p… [+2016 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Macworld"
+                "name": "New York Times"
             },
-            "author": "Michael Simon",
-            "title": "How Chrome OS Flex can turn your old MacBook into an iCloud laptop - Macworld",
-            "description": "Google has introduced Chrome OS Flex, which gives new life to an obsolete Mac or PC.",
-            "url": "https://www.macworld.com/article/614771/google-chrome-os-flex-icloud-macbook.html",
-            "urlToImage": "https://www.macworld.com/wp-content/uploads/2022/02/chrome-os-mac-8.jpg?quality=50&strip=all&w=1024",
-            "publishedAt": "2022-02-17T04:06:52Z",
-            "content": "Skip to contentType your search and hit enter\r\nMost Mac users wouldn’t dream of replacing macOS with anything but the latest update, but Google wants you to at least consider another option: Chrome O… [+3636 chars]"
+            "author": "Marina Trahan Martinez, Benjamin Hoffman",
+            "title": "Eric Kay Found Guilty for His Role in Death of Tyler Skaggs - The New York Times",
+            "description": "Kay, a former Angels employee, faces decades in prison for providing an Angels pitcher with the fentanyl that led to his death.",
+            "url": "https://www.nytimes.com/2022/02/17/sports/baseball/eric-kay-tyler-skaggs.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/17/multimedia/17mlb-skaggs-kay/17mlb-skaggs-kay-facebookJumbo.jpg",
+            "publishedAt": "2022-02-17T22:00:57Z",
+            "content": "The trial, which played out over two weeks, explored drug use among Major League Baseball players, several of whom, when testifying, admitted to acquiring opioids through Kay. Matt Harvey, a former p… [+2011 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Mike DeBonis, Rachel Siegel",
+            "title": "Democrats worry GOP could use delay tactic against Supreme Court nominee - The Washington Post",
+            "description": "Dems are nervous that Fed blockade could expand to other nominees, possibly including SCOTUS.",
+            "url": "https://www.washingtonpost.com/politics/2022/02/17/republicans-fed-supreme-court/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4XG42S6WQI6ZMPPZN4L44L7BY.jpg&w=1440",
+            "publishedAt": "2022-02-17T21:47:22Z",
+            "content": "Republican members of the Senate Banking Committee, led by Sen. Patrick J. Toomey (Pa.), did not attend Tuesdays planned meeting in protest of Democrats intention to advance Sarah Bloom Raskin, Biden… [+10694 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Andrew Selsky",
+            "title": "Ex-NY Times columnist ineligible to run for Oregon governor - Associated Press",
+            "description": "SALEM, Ore. (AP) — The Oregon Supreme Court ruled Thursday that former New York Times columnist Nicholas Kristof doesn't meet the state’s three-year residency requirement to run for governor, leaving the former candidate with a sizable war chest and no plans …",
+            "url": "https://apnews.com/article/elections-oregon-oregon-supreme-court-3ac1b487eb2619beace0fd236f63a0b0",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/9e5928ec60bc4640b51bc1e44ba11564/2497.jpeg",
+            "publishedAt": "2022-02-17T21:41:42Z",
+            "content": "SALEM, Ore. (AP) The Oregon Supreme Court ruled Thursday that former New York Times columnist Nicholas Kristof doesnt meet the states three-year residency requirement to run for governor, leaving the… [+4214 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Julia Manchester",
+            "title": "Clinton tears into GOP, Fox News at NY Democratic convention | TheHill - The Hill",
+            "description": "Hillary Clinton slammed former President Trump, the GOP and Fox News while speaking at New Y...",
+            "url": "https://thehill.com/homenews/campaign/594812-clinton-tears-into-gop-fox-news-at-ny-democratic-convention",
+            "urlToImage": "https://thehill.com/sites/default/files/hillaryclinton_1_4.jpg",
+            "publishedAt": "2022-02-17T21:35:07Z",
+            "content": "Hillary ClintonHillary Diane Rodham ClintonHillary Clinton on Durham report: 'Trump &amp; Fox are desperately spinning up a fake scandal'Did Durham find something worse than Watergate? Not so farPavl… [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul R. La Monica, CNN Business",
+            "title": "Dow has its worst day of the year, falling 622 points amid Russia-Ukraine invasion fears - CNN",
+            "description": "President Joe Biden and Secretary of State Antony Blinken believe a Russian invasion of Ukraine could happen in a matter of days. The news rattled investors, sending the Dow down 622 points, or 1.8%, Thursday. It was the worst day of the year for the index.",
+            "url": "https://www.cnn.com/2022/02/17/investing/dow-stock-market-today-russia-ukraine/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220217140405-01-nyse-0216-super-tease.jpg",
+            "publishedAt": "2022-02-17T21:23:00Z",
+            "content": "New York (CNN Business)President Joe Biden and Secretary of State Antony Blinken believe a Russian invasion of Ukraine could happen in a matter of days. The news rattled investors, sending the Dow do… [+836 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "Satellite images show just how ridiculously high the Tonga volcanic plume rose - The Verge",
+            "description": "Weather satellites captured startling images of the massive volcanic eruption near Tonga in January. The volcanic plume was likely the highest ever recorded by satellite.",
+            "url": "https://www.theverge.com/2022/2/17/22939328/tonga-volcano-plume-record-height-nasa",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/iqrQaYrwVLl1HN1MEUG1d2WePn8=/0x702:10365x6129/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23252861/1237820698.jpg",
+            "publishedAt": "2022-02-17T20:53:28Z",
+            "content": "It probably set a global record \r\nHUNGA TONGA-HUNGA HAAPAI, TONGA DECEMBER 24, 2021: In this image 2. of a series created on January 19, 2022, Maxar overview satellite imagery shows the Hunga Tonga-H… [+2832 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tierney Sneed",
+            "title": "Trump and his children may be deposed by New York attorney general, judge rules - CNN",
+            "description": "Former President Donald Trump, as well as his children Ivanka and Donald Jr., must sit for depositions in the New York attorney general's civil investigation of their business practices, a New York judge ruled Thursday.",
+            "url": "https://www.cnn.com/2022/02/17/politics/trump-subpoena-james-new-york-lawsuit/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220217111120-trump-ivanka-don-jr-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-02-17T20:15:00Z",
+            "content": "Former President Donald Trump, as well as his children Ivanka and Donald Jr., must sit for depositions in the New York attorney generals civil investigation of their business practices, a New York ju… [+3432 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "New York Times"
             },
-            "author": null,
-            "title": "Kyle Larson and Alex Bowman snag the front row for the Daytona 500 in qualifying - NASCAR",
-            "description": "Watch as Kyle Larson and Alex Bowman take hot laps in Daytona 500 qualifying and put both Hendrick Motorsports Chevrolets on the front row. Kyle Larson and A...",
-            "url": "https://www.youtube.com/watch?v=oahMM4FY2VI",
-            "urlToImage": "https://i.ytimg.com/vi/oahMM4FY2VI/hqdefault.jpg",
-            "publishedAt": "2022-02-17T03:30:02Z",
+            "author": "Katherine Rosman, Ben Sisario, Mike Isaac, Adam Satariano",
+            "title": "Spotify's Joe Rogan Deal Is Said to Be Worth Over $200 Million - The New York Times",
+            "description": "The deal that brought his podcast to Spotify is said to be worth over $200 million, more than was previously known. Accusations that he spreads misinformation have roiled the company.",
+            "url": "https://www.nytimes.com/2022/02/17/arts/music/spotify-joe-rogan-misinformation.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/16/arts/00spotify1/00spotify1-facebookJumbo.jpg",
+            "publishedAt": "2022-02-17T19:47:54Z",
+            "content": "Management of the crisis in the United States may have been further complicated because Spotifys headquarters is nearly 4,000 miles away, in Sweden, where Mr. Ek, a publicity-shy executive who grew u… [+1679 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Mauricio Savarese",
+            "title": "Brazil mudslide death toll is at 110, police say 134 missing - Associated Press",
+            "description": "PETROPOLIS, Brazil (AP) — The death toll from floods and landslides that swept down on the mountain city of Petropolis rose to at least 113 on Thursday and local officials said it could still rise sharply, with 116 more still unaccounted for.",
+            "url": "https://apnews.com/article/brazil-mudslide-death-toll-rises-dozens-missing-9c9f416df053f0af65533baedcce6f3c",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/231f627ee4624b8096a2cb4de6fc5ef8/3000.jpeg",
+            "publishedAt": "2022-02-17T19:30:00Z",
+            "content": "PETROPOLIS, Brazil (AP) The death toll from floods and landslides that swept down on the mountain city of Petropolis rose to at least 113 on Thursday and local officials said it could still rise shar… [+4350 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Ash Parrish",
+            "title": "Crunchyroll now has something Netflix doesn’t: a Switch app - The Verge",
+            "description": "Crunchyroll, an anime streaming service owned by Sony, will now be available on the Nintendo Switch joining Hulu, YouTube, and Twitch.",
+            "url": "https://www.theverge.com/2022/2/17/22939196/nintendo-switch-crunchyroll-streaming-app",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Kann8PFl2yakBDIkclTHTFYJPTI=/0x29:1140x626/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23252517/676381ebb7dc5b1c6c02a5a606fed4fc1645041180_main.png",
+            "publishedAt": "2022-02-17T18:41:09Z",
+            "content": "Now you can be disappointed by the final season of Attack on Titan from the comfort of your Nintendo Switch"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Natasha Jokic",
+            "title": "An Old \"SNL\" Clip Where Pete Davidson Discussed Kanye West's Mental Health Has Gone Viral Again, And Kanye Himself Just Reacted To It - BuzzFeed",
+            "description": "\"This is not harassment, this is payback.\"",
+            "url": "https://www.buzzfeed.com/natashajokic1/kanye-west-pete-davidson-snl-clip-reaction",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-02/17/17/enhanced/2e6f6d45788a/original-1960-1645119998-10.jpg?crop=1247:652;0,178%26downsize=1250:*",
+            "publishedAt": "2022-02-17T17:57:59Z",
             "content": null
         },
         {
             "source": {
-                "id": "entertainment-weekly",
-                "name": "Entertainment Weekly"
+                "id": "business-insider",
+                "name": "Business Insider"
             },
-            "author": "Lester Fabian Brathwaite",
-            "title": "Chet Hanx discusses growing up as Tom Hanks' son and not having a 'strong male role model' - EW.com",
-            "description": "\"I didn't have a strong male role model to tell me, 'Bro, f--- these people, they're just jealous of you,\" he says. \"I needed to hear that.\"",
-            "url": "https://ew.com/celebrity/chet-hanks-growing-up-son-of-tom-hanks/",
-            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C76%2C2000%2C1076&poi=%5B1020%2C489%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F02%2F16%2FChet-Hanks.jpg",
-            "publishedAt": "2022-02-17T02:31:00Z",
-            "content": "There's no rulebook on being the child of a national treasure and Chet Hanx (né Hanks, formerly Haze) has certainly struggled to come into his own as the eldest of Tom Hanks and Rita Wilson. In a new… [+2832 chars]"
+            "author": "Azmi Haroun, Ryan Pickrell",
+            "title": "Satellite Photos Show Mystery Bridge Appeared Over River Near Ukraine - Business Insider",
+            "description": "The bridge was built over the Pripyat River in an area close to 4 miles from the Belarus-Ukraine border as Russia continues its military buildup.",
+            "url": "https://www.businessinsider.com/satellite-images-appear-to-show-bridge-over-river-near-ukraine-2022-2",
+            "urlToImage": "https://i.insider.com/620df796f0b06900185e48d8?width=1200&format=jpeg",
+            "publishedAt": "2022-02-17T17:57:06Z",
+            "content": "As the possibility of a Russian invasion of Ukraine looms large, new satellite images taken this week show the construction of new roads and an apparent pontoon bridge over the Pripyat River at a pos… [+3440 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Deirdre Shesgreen and Michael Collins, USA TODAY",
+            "title": "Russia expels US diplomat; Blinken speaks at UN 'to prevent' a war: What we know - USA TODAY",
+            "description": "Blinken says US is reviewing Russia's response to security proposals regarding Ukraine. In DC, Biden says the threat of invasion remains \"very high.\"",
+            "url": "https://www.usatoday.com/story/news/politics/2022/02/17/russia-ukraine-nato-troops/6827362001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/02/17/USAT/dd8615b7-8bb1-4e71-9095-e6559f96697a-AP_UN_Ukraine-Tensions.jpg?auto=webp&crop=5768,3245,x0,y0&format=pjpg&width=1200",
+            "publishedAt": "2022-02-17T17:48:45Z",
+            "content": "Russia has sent an American diplomat home from Moscow as tensions remained at a peak Thursday in the conflict over Ukraine.\r\nNATO allies accused Russia of misleading the world and disseminating \"disi… [+11850 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Times"
+                "name": "STLtoday.com"
             },
-            "author": "Mike McIntire",
-            "title": "Trump Makes New Claims About His Wealth After Accountants Drop Him - The New York Times",
-            "description": "The former president has spent decades inventing facts and figures to suit his needs. Now, dropped by his accountants, he is making new claims.",
-            "url": "https://www.nytimes.com/2022/02/16/business/trump-wealth-mazars.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/02/17/multimedia/17trump-wealth-1/17trump-wealth-1-facebookJumbo.jpg",
-            "publishedAt": "2022-02-17T01:29:24Z",
-            "content": "Mazars decision to withdraw was clearly a result of the A.G.s and D.A.s vicious intimidation tactics used also on other members of the Trump Organization, Mr. Trump said in his statement. Mazars, who… [+2931 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Jury in Palin-N.Y. Times libel trial learned of judge's plan to throw out suit - Politico",
-            "description": "Jurors' having knowledge of the ruling in the middle of deliberations could bolster the ex-governor's case for a new trial or appeal.",
-            "url": "https://www.politico.com/news/2022/02/16/jury-in-sarah-palin-v-new-york-times-libel-trial-learned-of-judges-plan-to-throw-suit-out-00009498",
-            "urlToImage": "https://static.politico.com/e6/6c/433430134a8480eee154e3e61906/ap22041757627918.jpg",
-            "publishedAt": "2022-02-17T00:38:19Z",
-            "content": "However, Rakoff said in his order that the jurors assured him his decision had not influenced them.\r\nThe jurors repeatedly assured the Courts law clerk that these notifications had not affected them … [+1863 chars]"
+            "author": "Michele Munz",
+            "title": "New study shows a significant increase in the risk of mental health disorders after COVID-19 - STLtoday.com",
+            "description": "Dr. Ziyad Al-Aly, clinical epidemiologist at Washington U. and chief of research and development for the VA in St. Louis, headed the study.",
+            "url": "https://www.stltoday.com/lifestyles/health-med-fit/coronavirus/new-study-shows-a-significant-increase-in-the-risk-of-mental-health-disorders-after-covid/article_abfd9080-8434-5253-9dba-ae8d50e1659e.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/65/a650ac15-e4a6-5099-af81-55485992002f/620da15a8ecac.image.jpg?crop=1765%2C927%2C0%2C123&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2022-02-17T17:25:00Z",
+            "content": "ST. LOUIS People who have recovered from COVID-19 even mild cases are at a significantly increased risk of developing a range of mental health disorders, including anxiety, depression, substance abus… [+6811 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "WFLA"
             },
-            "author": "Guardian staff reporter",
-            "title": "New York girl missing for two years found alive in a hidden staircase room - The Guardian",
-            "description": "The biological non-custodial parents, who police believe abducted the six-year-old, have been arrested and charged",
-            "url": "https://amp.theguardian.com/us-news/2022/feb/16/paislee-shultis-missing-girl-found-new-york",
-            "urlToImage": null,
-            "publishedAt": "2022-02-16T23:46:00Z",
-            "content": "New YorkThe biological non-custodial parents, who police believe abducted the six-year-old, have been arrested and charged\r\nWed 16 Feb 2022 18.46 EST\r\nTwo years after she went missing, a six-year-old… [+2178 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Stacy Cowley",
-            "title": "Education Dept. to Cancel Loans for Some DeVry University Students - The New York Times",
-            "description": "It’s the first such move involving a for-profit chain that’s still in business.",
-            "url": "https://www.nytimes.com/2022/02/16/business/student-loans-devry-university.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/02/16/business/16student-loans/merlin_202324440_f954b358-3476-4893-8216-721b05ce82b3-facebookJumbo.jpg",
-            "publishedAt": "2022-02-16T23:27:01Z",
-            "content": "The Education Department said in a court filing last month that it was close to settling that case and hoped to announce a deal by April.\r\nThe 1,800 former DeVry students approved for relief through … [+1471 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TheStreet"
-            },
-            "author": "Luc Olinga",
-            "title": "Zuckerberg Makes Big Changes at Facebook (It's Funny and Ridiculous) - TheStreet",
-            "description": "Mark Zuckerberg has found a new name for his workers and a new motto.",
-            "url": "https://www.thestreet.com/investing/zuckerger-makes-big-changes-at-facebook-its-funny-and-ridiculous",
-            "urlToImage": "https://www.thestreet.com/.image/t_share/MTY4NjUxNjEyNTM4NTQ2MDcx/jim-cramer-no-matter-how-you-slice-it-zuckerberg-decided-to-come-after-snap-hard.jpg",
-            "publishedAt": "2022-02-16T23:15:15Z",
-            "content": "Mark Zuckerberg wants to completely cut off all ties between Facebook  (FB) - Get Meta Platforms Inc. Class A Report and the controversies that have marked the daily life of the social media giant ov… [+3406 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/igor-bonifacic",
-            "title": "Samsung's next event will take place on February 27th, alongside Mobile World Congress - Engadget",
-            "description": "Samsung's next hardware event will coincide with Mobile World Congress in Barcelona..",
-            "url": "https://www.engadget.com/samsung-mwc-event-announcement-230043433.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/6345d7f0-8f75-11ec-ae5f-535658bd1925",
-            "publishedAt": "2022-02-16T23:02:03Z",
-            "content": "Samsung's next hardware event will coincide with Mobile World Congress in Barcelona. The company announced today it will host a fully virtual keynote on Sunday, February 27th at 1PM ET. You'll be abl… [+1488 chars]"
+            "author": "Dylan Abad",
+            "title": "Former Tampa Bay deputy 'only probable suspect' in 1983 cold case killing of girl, 11 - WFLA",
+            "description": "A former Florida deputy was named “the only probable suspect” in the 1983 cold case killing of an 11-year-old girl, according to a Thursday release from the St. Lucie County Sheriff’s Office.",
+            "url": "https://www.wfla.com/news/florida/former-tampa-bay-deputy-probable-suspect-in-1983-cold-case-killing-girl-11/",
+            "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2022/02/Former-Tampa-Bay-deputy-named-probable-suspect-in-1983-cold-case-killing-of-11-year-old-girl.jpg?w=1280",
+            "publishedAt": "2022-02-17T16:57:28Z",
+            "content": "ST. LUCIE COUNTY (WFLA) A former Florida deputy was named “the only probable suspect” in the 1983 cold case killing of an 11-year-old girl, according to a Thursday release from the St. Lucie County S… [+2887 chars]"
         }
     ]
 }
