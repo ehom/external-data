@@ -10,7 +10,10 @@ const finnhubClient = new finnhub.DefaultApi()
 
 // Forex rates
 finnhubClient.forexRates({"base": "USD"}, (error, data, response) => {
-    data.timeStamp = new Date(Date.now()); // ISO
+    console.debug("data object:", data);
+    if ('timeStamp' in data) {
+        data['timeStamp'] = new Date(Date.now()); // ISO
+    }
     saveJsonTo('usd.json', data);
 });
 
