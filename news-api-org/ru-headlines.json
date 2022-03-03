@@ -4,29 +4,68 @@
     "articles": [
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Кремль прокомментировал слухи о планах военного положения в ряде регионов - Lenta.ru",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiKWh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIyLzAzLzAzL2NvbW1lbnQv0gEvaHR0cHM6Ly9tLmxlbnRhLnJ1L25ld3MvMjAyMi8wMy8wMy9jb21tZW50L2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-03-03T10:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gazeta.ru"
+            },
+            "author": null,
+            "title": "Лавров заявил, что НАТО и Украина вынашивают план по развязыванию ядерной войны против РФ - Газета.Ru",
+            "description": "Министр иностранных дел России Сергей Лавров заявил, что НАТО и Украина планируют начать ядерную войну против РФ. Об этом он сказал в интервью российским и иностранным СМИ 3 марта, передает РИА «Новости» .",
+            "url": "https://www.gazeta.ru/army/news/2022/03/03/17373721.shtml",
+            "urlToImage": "https://img.gazeta.ru/files3/115/14469115/2022-01-21T143736Z_400860112_RC2O3S92X7JN_RTRMADP_3_RUSSIA-USA-SECURITY-LAVROV-pic_32ratio_900x600-900x600-90025.jpg",
+            "publishedAt": "2022-03-03T09:46:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gazeta.ru"
+            },
+            "author": null,
+            "title": "В популярном приложении на Android обнаружили опасный вирус - Газета.Ru",
+            "description": "В магазине Google Play нашли популярное приложение, которое содержало в себе опасный вирус. Как сообщает ArsTechnica , через него тайно устанавливался троян для получения удаленного доступа к гаджету.",
+            "url": "https://www.gazeta.ru/tech/news/2022/03/03/17372851.shtml",
+            "urlToImage": "https://img.gazeta.ru/files3/891/13363891/RIAN_6386715.HR-pic905-895x505-83799.jpg",
+            "publishedAt": "2022-03-03T09:24:34Z",
+            "content": "Google Play ,   . ArsTechnica,      .\r\n 10 .  Android. ,   TeaBot Anatsa,     .\r\n Cleafy,     QR Code &amp; Barcode Scanner.   ,  QR- -. , Google   ,  Google Play.\r\n ,   ,   ."
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Описаны мутации устойчивости коронавируса к вакцинам - Lenta.ru",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiKmh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIyLzAzLzAzL211dGF0aW9uL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-03-03T09:16:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Championat.com"
             },
             "author": "Сергей Сорокин",
-            "title": "Роман Абрамович простил «Челси» долг в € 1,82 млрд - Чемпионат",
-            "description": "Российский бизнесмен Роман Абрамович принял решение простить «Челси» долг в € 1,82 млрд. Ранее об этой сумме сообщал Forbes.",
-            "url": "https://www.championat.com/football/news-4626947-roman-abramovich-prostil-chelsi-dolg-v-eur-1-82-mlrd.html",
-            "urlToImage": "https://img.championat.com/news2/social/a/2b/4626947.jpg",
-            "publishedAt": "2022-03-02T20:57:23Z",
-            "content": "«» 1,82 . Forbes.\r\n« . , », - «». \r\n, 26 «». 2 , .\r\n«» 2003 . , , , , ."
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Макрон решил поддерживать контакт с Путиным - Lenta.ru",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiKmh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIyLzAzLzAyL21hY3JvbmVtL9IBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-03-02T20:56:00Z",
-            "content": null
+            "title": "Матч «Зенит» – «Уфа» перенесён - Чемпионат",
+            "description": "В связи с проведением массовых мероприятий в Санкт-Петербурге матч 20-го тура Российской Премьер-Лиги «Зенит» – «Уфа» перенесён с 6 на 7 марта, сообщает пресс- служба, сообщает пресс-служба организации. Время начала матча прежнее – 16:30 мск.",
+            "url": "https://www.championat.com/football/news-4627235-match-zenit-ufa-perenesyon.html",
+            "urlToImage": "https://img.championat.com/news2/social/2/2d/4627235.jpg",
+            "publishedAt": "2022-03-03T09:05:14Z",
+            "content": "- 20- - «» «» 6 7 , - , - . 16:30 . \r\n«» -. 19 - 41 . «» (16) 15- . \r\n, . . , QR-. QR- , , , , , , ,"
         },
         {
             "source": {
@@ -34,12 +73,90 @@
                 "name": "Gazeta.ru"
             },
             "author": null,
-            "title": "Банк России объявил о новых мерах по поддержке граждан и кредиторов - Газета.Ru",
-            "description": "Банк России объявил о новых мерах по поддержке граждан и кредиторов на фоне введенных со стороны Запада санкций. Об этом сообщает ТАСС .",
-            "url": "https://www.gazeta.ru/business/news/2022/03/02/17371345.shtml",
-            "urlToImage": "https://img.gazeta.ru/files3/686/13761686/upload-SIZ_4531-pic4_zoom-1500x1500-28985-pic_32ratio_900x600-900x600-99548.jpg",
-            "publishedAt": "2022-03-02T20:18:49Z",
-            "content": ". .\r\n ,   ,   .\r\n ,      1 2022   .     35% 20%  35%   80%.\r\n   ,         .\r\n24 ,           .\r\n  .    .\r\n«.Ru» -."
+            "title": "Спецоперация ВС России на территории Украины идет восьмые сутки - Газета.Ru",
+            "description": "Идут восьмые сутки спецоперации России на Украине. По информации Минобороны, потери российской армии составили почти 500 человек, Вооруженных сил Украины — более 2,8 тыс. Под контроль Москвы взят Херсон, в ДНР сообщили о блокаде Мариуполя. В Белоруссии сегодн…",
+            "url": "https://www.gazeta.ru/politics/2022/03/03/14594581.shtml",
+            "urlToImage": "https://img.gazeta.ru/files3/635/14594635/RIAN_8130683.HR-pic_32ratio_900x600-900x600-58429.jpg",
+            "publishedAt": "2022-03-03T08:30:19Z",
+            "content": ", «» . «,   ,   ,   , , , ,     « », — .\r\n« , , &lt;...&gt;  , - , ,   — , .  ,     — , , — , , , ,   . , - . . &lt;…&gt;   », — .\r\n  PlayStation Store, Steam Nintendo eShop   , «».\r\n   : « , &lt;...… [+625 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Миллион беженцев из Украины за неделю. Главное о войне к утру четверга - Би-би-си Русская служба",
+            "description": "Российские военные продолжают наносить удары по территории Украины, взрывы звучали в том числе в Киеве. В четверг ожидаются российско-украинские переговоры в Беларуси. Российские представитель одной из тем назвал \"вопросы, связанные с режимом прекращения огня…",
+            "url": "https://www.bbc.com/russian/news-60588351",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_russian/1212D/production/_123492047_gettyimages-1376597812.jpg",
+            "publishedAt": "2022-03-03T08:16:24Z",
+            "content": ", Reuters\r\n, . - . \", \".\r\n . . --. . .\r\n . .\r\n , . \r\n , ( ) , \" \" . , \" \".\r\n . \"\" 141 , - (, , , ), 35 ( , , , , , , , , ).\r\n . , .\r\n \" \" , , . \r\n 15:00, . . \r\n, , , , .\r\n 28 , .\r\n 1 . , - . , .\r\n , … [+615 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Индия под украинским огнем – Мир – Коммерсантъ - Коммерсантъ",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vd3d3LmtvbW1lcnNhbnQucnUvZG9jLzUyMzk2NjjSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-03-03T08:06:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Курс доллара достиг 114 рублей - Lenta.ru",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiKWh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIyLzAzLzAzL2RvbGxhYXIv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-03-03T08:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Названа причина развития деменции - Lenta.ru",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiKGh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIyLzAzLzAzL2tsaW1heC_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-03-03T07:57:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sport-express.ru"
+            },
+            "author": "Гоша Чернов",
+            "title": "Кто из легионеров покинул РПЛ? Кто остается? Следим, как меняется наш футбол - Спорт-Экспресс",
+            "description": "Все официальные заявления по ситуациям с легионерами и зарубежными тренерами.",
+            "url": "https://www.sport-express.ru/football/rfpl/reviews/futbol-rpl-kto-iz-legionerov-pokinul-chempionat-rossii-v-fevrale-marte-2022-goda-rakickiy-voronin-farke-gisdol-1898582/",
+            "urlToImage": "https://ss.sport-express.ru/userfiles/materials/176/1763407/large.jpg",
+            "publishedAt": "2022-03-03T07:45:00Z",
+            "content": ".  3    -  114 . «» , .\r\n«»\r\n«»: «2     .        ».\r\n, , \r\n   Sport24 ,  . , «» ,       . « » «» ,   .\r\n«»\r\n    «»   19- «»,    -         .\r\n -\r\n  «» :\r\n«  .    . -    .         ».\r\n  , «» ,   : «   … [+388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Echo.msk.ru"
+            },
+            "author": "echomsk",
+            "title": "Китай не поддержал резолюцию Генассамблеи ООН из-за ее 'недоработок' - Эхо Москвы",
+            "description": "Проект резолюции «не учитывает историю и сложность кризиса»...",
+            "url": "https://echo.msk.ru/news/2988843-echo.html",
+            "urlToImage": "https://cdn.echo.msk.ru/files/3631297.jpeg",
+            "publishedAt": "2022-03-03T07:20:00Z",
+            "content": ", , « ». , « ». \r\n2 . «» 141 , 5 (, , , , ), 35 ( , , , , , , , , ). \r\n: CGTN"
         },
         {
             "source": {
@@ -47,37 +164,11 @@
                 "name": "Gazeta.ru"
             },
             "author": null,
-            "title": "Минфин предложил установить дополнительные особенности исполнения бюджетов всех уровней - Газета.Ru",
-            "description": "Руководитель Министерства финансов Российской Федерации Антон Силуанов предложил установить дополнительные особенности исполнения бюджетов всех уровней в 2022 году, чтобы минимизировать негативные последствия от ухудшения экономической ситуации в стране. Об э…",
-            "url": "https://www.gazeta.ru/business/news/2022/03/02/17371321.shtml",
-            "urlToImage": "https://img.gazeta.ru/files3/225/13357225/RIAN_6199986.HR-pic905-895x505-90227.jpg",
-            "publishedAt": "2022-03-02T20:12:29Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vedomosti.ru"
-            },
-            "author": "Денис Ильюшенков",
-            "title": "«АвтоВАЗ» останавливает сборку Lada в Тольятти с 5 марта - Ведомости",
-            "description": "Автоконцерн столкнулся с дефицитом немецких полупроводников",
-            "url": "https://vedomosti.ru/auto/articles/2022/03/02/911786-avtovaz-ostanavlivaet-sborku",
-            "urlToImage": "https://sharing.vedomosti.ru/1646254161/vedomosti.ru/auto/articles/2022/03/02/911786-avtovaz-ostanavlivaet-sborku.jpg",
-            "publishedAt": "2022-03-02T19:56:33Z",
-            "content": "«» 5 - . «» . . , , . , - . «» .\r\nLada. , , , . « Bosch ( «». «») . , », «». Bosch . . «». Daimler AG ( 15%) , Handelsblatt. Daimler «» « », .\r\n, / , Volkswagen Group Rus (Audi, Volkswagen, Skoda, Po… [+394 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Лавров обозначил позицию РФ на переговорах с Украиной - Интерфакс",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vd3d3LmludGVyZmF4LnJ1L3J1c3NpYS84MjU4NjXSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-03-02T19:45:21Z",
+            "title": "В Минобороны РФ сообщили о ходе наступательных действий на Украине - Газета.Ru",
+            "description": "Официальный представитель Минобороны России генерал-майор Игорь Конашенков сообщил о ходе спецоперации на Украине.",
+            "url": "https://www.gazeta.ru/army/news/2022/03/03/17372719.shtml",
+            "urlToImage": "https://img.gazeta.ru/files3/716/10950716/RIAN_03180855.HR-pic_32ratio_900x600-900x600-2306.jpg",
+            "publishedAt": "2022-03-03T07:01:00Z",
             "content": null
         },
         {
@@ -86,24 +177,50 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Эвакуация граждан: заявление Минобороны - Вести.Ru",
+            "title": "В ЛНР заявили о переходе семи населенных пунктов под контроль республики - Lenta.ru",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiJGh0dHBzOi8vd3d3LnZlc3RpLnJ1L2FydGljbGUvMjY4NDIyNdIBKGh0dHBzOi8vd3d3LnZlc3RpLnJ1L2FtcC9hcnRpY2xlLzI2ODQyMjU?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiLWh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIyLzAzLzAzL2xucl9jb250cm9sL9IBAA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-03-02T19:27:00Z",
+            "publishedAt": "2022-03-03T06:56:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Sportmail.ru"
+                "name": "Eurosport.ru"
             },
-            "author": "Спорт Mail.ru",
-            "title": "«Спартак» забил шесть голов «Кубани» в ⅛ финала Кубка России по футболу - Спорт Mail.ru",
-            "description": "Для итальянского специалиста Паоло Ваноли победа стала первой у руля красно-белых.",
-            "url": "https://sportmail.ru/news/football-rus-cup/50285540/",
-            "urlToImage": "https://news.mail.ru/social_preview/50285540/sport/?time=d57e0069b5b902403e4e38ade1bf6059",
-            "publishedAt": "2022-03-02T19:07:25Z",
+            "author": "Валерия Кукалева",
+            "title": "Большунов и Непряева пробегут Деминский марафон вместо Кубка мира: что за гонка, когда, где смотреть, трансляция - Eurosport RU",
+            "description": "Российские лыжники досрочно завершили международный сезон и не выступят на этапах Кубка мира в Драммене, Осло и Фалуне.",
+            "url": "https://www.eurosport.ru/cross-country-skiing/story_sto8823999.shtml",
+            "urlToImage": "https://i.eurosport.com/2022/03/02/3330097-68082208-2560-1440.jpg",
+            "publishedAt": "2022-03-03T06:35:00Z",
+            "content": ": Eurosport\r\n, -2022 , , , . - ( , , , ) : ( ), ( ).\r\n ?\r\n Russialoppet, Worldloppet Russialoppet. , . , 50 , .\r\n<ul><li> 2014-2018 1 , 9:30 </li><li> 2011-2013 2 , 10:00 </li><li> 2008-2010 5 , 10:2… [+58 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports.ru"
+            },
+            "author": "Вячеслав Легконогих",
+            "title": "Конор Макгрегор заявил, что готов купить «Челси» за 3 миллиарда фунтов - Sports.ru",
+            "description": "Бывший двойной чемпион UFC Конор Макгрегор отреагировал на новости о продаже «Челси».",
+            "url": "https://www.sports.ru/boxing/1107357008-konor-makgregor-zayavil-chto-gotov-kupit-chelsi-za-3-milliarda-funtov.html",
+            "urlToImage": "https://www.sports.ru/dynamic_images/news/110/735/700/8/share/6c7721.jpg",
+            "publishedAt": "2022-03-03T06:24:00Z",
+            "content": "UFC «»., , , 2003 .« », , , , «» 3 ."
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Украина и Россия: онлайн-трансляция событий 3 марта - Московский Комсомолец",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3Lm1rLnJ1L3BvbGl0aWNzLzIwMjIvMDMvMDMvdWtyYWluYS1pLXJvc3NpeWEtb25sYXludHJhbnNseWFjaXlhLXNvYnl0aXktMy1mZXZyYWx5YS5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-03-03T06:00:25Z",
             "content": null
         },
         {
@@ -112,12 +229,25 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "США вводят блокирующие санкции против 22 компаний РФ, связанных с обороной - Интерфакс",
+            "title": "ЦБ предписал взимать с физлиц комиссию от 30% при покупке долларов и евро на бирже - Коммерсантъ",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiJGh0dHBzOi8vd3d3LmludGVyZmF4LnJ1L3dvcmxkLzgyNTg0ONIBAA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vd3d3LmtvbW1lcnNhbnQucnUvZG9jLzUyMzk2ODnSAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-03-02T18:29:00Z",
+            "publishedAt": "2022-03-03T05:17:04Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Teleprogramma.pro"
+            },
+            "author": "Алексей Заякин, Юлия Аликова",
+            "title": "Авербух рассказал, почему не смотрит «Папины дочки» - TELEPROGRAMMA.PRO",
+            "description": "Как отметил хореограф, он не понимает, зачем ему сейчас смотреть эту картину.",
+            "url": "https://teleprogramma.pro/news/3469062-jena-na-menya-ne-obijaetsya-ilya-averbuh-obyasnil-pochemu-ne-smotrel-serial-u3419-u3862/",
+            "urlToImage": "https://s3.cdn.teleprogramma.pro/wp-content/uploads/2022/03/3925a91544526585c0f187f884484361.jpg",
+            "publishedAt": "2022-03-03T03:02:21Z",
+            "content": ", , \"\" teleprogramma.pro« ». , 77-66912 22.08.2016\r\n , ( « 1000 » 2015-2018.. . 2012-2014.. «- » 2015 2019 ..): \r\n «»: teleprogramma.pro: - teleprogramma.pro: / ekaterina.bolgova@phkp.ru: / +7(495) 7… [+151 chars]"
         },
         {
             "source": {
@@ -125,142 +255,12 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Футбольный клуб «Краснодар» отпустил всех легионеров - Lenta.ru",
+            "title": "Названы последствия отказа OneWeb соблюдать требования «Роскосмоса» - Lenta.ru",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiLGh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIyLzAzLzAyL2tyYXNub2RhcjIv0gEA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiKGh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIyLzAzLzAzL29uZXdlYi_SAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-03-02T17:55:00Z",
+            "publishedAt": "2022-03-03T01:31:32Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Минобороны впервые раскрыло потери российских войск в ходе операции на Украине - Lenta.ru",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiJmh0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIyLzAzLzAyL3B0cmkv0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-03-02T17:47:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Svoboda.org"
-            },
-            "author": "RFE/RL",
-            "title": "Генассамблея ООН призвала Россию немедленно вывести войска из Украины - Радио Свобода ",
-            "description": "В среду Генассамблея приняла соответствующую резолюцию",
-            "url": "https://www.svoboda.org/a/genassambleya-oon-prizvala-rossiyu-nemedlenno-vyvesti-voyska-iz-ukrainy/31732721.html",
-            "urlToImage": "https://gdb.rferl.org/08600000-0a00-0242-61b7-08d9fad16079_w1200_r1.jpg",
-            "publishedAt": "2022-03-02T17:26:53Z",
-            "content": ".\r\n 141 193 . , .\r\n 24 , - , Reuters.\r\nDPA , , , 5 , 35 . , , . , , .\r\n, , . , , . , , , , , , , .\r\n \" - \".\r\n , . \" \", , , , , \" \".\r\n 70- 11- .\r\n<ul><li> 24 . \"\" \"\" , , . . .</li><li> , , . , .</li><… [+3 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dtf.ru"
-            },
-            "author": "Алексей Хромов",
-            "title": "Я попал на «Бэтмена» в Бразилии — этот фильм действительно стоит ждать — Кино и сериалы на DTF - DTF",
-            "description": "Немного личных приятных впечатлений.",
-            "url": "https://dtf.ru/cinema/1104414-ya-popal-na-betmena-v-brazilii-etot-film-deystvitelno-stoit-zhdat",
-            "urlToImage": "https://dtf.ru/cover/fb/c/1104414/1646237560/cover.jpg",
-            "publishedAt": "2022-03-02T16:12:40Z",
-            "content": ".\r\n{\"id\":1104414,\"type\":1,\"typeStr\":\"content\",\"showTitle\":false,\"initialState\":{\"isActive\":false},\"gtm\":\"\"} \r\n{\"id\":1104414,\"gtm\":null} \r\n«» . . . . \r\n , , --, ( ) . -, 1 ; -, . 1 ( 1- 2-).\r\n, , . \r\n… [+401 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Группа «Мумий Тролль» заявила о приостановке концертной деятельности - Lenta.ru",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiJ2h0dHBzOi8vbGVudGEucnUvbmV3cy8yMDIyLzAzLzAyL211bWl5L9IBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-03-02T15:35:49Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "lenta",
-                "name": "Lenta"
-            },
-            "author": "Юлия Ямпольская",
-            "title": "В Госдуме обратили внимание на оговорку Байдена про Украину и Иран - Lenta.ru",
-            "description": "Первый заместитель главы комитета Госдумы по международным делам Вячеслав Никонов прокомментировал выступление президента Соединенных Штатов Джо Байдена, где он перепутал Украину и Иран. Депутат заявил, что для американского лидера это только инструменты внеш…",
-            "url": "https://lenta.ru/news/2022/03/02/ogovorka/",
-            "urlToImage": "https://icdn.lenta.ru/images/2022/03/02/17/20220302174653364/share_b75c2120d397dce9775bf223a0d67c15.jpg",
-            "publishedAt": "2022-03-02T14:52:00Z",
-            "content": ""
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "3dnews.ru"
-            },
-            "author": null,
-            "title": "Утечка с серверов NVIDIA раскрыла объём кеша и количество ядер CUDA видеокарт GeForce RTX 40-й серии - 3DNews",
-            "description": "Вслед за новостями о взломе и похищении данных с серверов NVIDIA в Сети стала появляться свежая информация о грядущих настольных графических ускорителях GeForce, которые придут на смену актуальному поколению Ampere.",
-            "url": "https://3dnews.ru/1061221/utechki-s-serverov-nvidia-nachali-raskrivat-podrobnosti-o-budushchih-videokartah-geforce-rtx-40y-serii",
-            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2022/03/02/1061221/wedgwergwergwefgwqef.jpg",
-            "publishedAt": "2022-03-02T14:51:00Z",
-            "content": "NVIDIA GeForce, Ampere. , , , - GPU.\r\n: VideoCardz\r\nAmpere Ada, . : AD102, AD103, AD104, AD10 AD107. , GPU AD102 144 (SM-). NVIDIA CUDA SM, 18 432 CUDA.\r\n AD103 84 10 752 CUDA, AD104 — 60 SM 7680 CUD… [+275 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dtf.ru"
-            },
-            "author": "Miles Prower",
-            "title": "«Какая-то хреновая сделка»: первый трейлер фильма «Быстрее пули» с Брэдом Питтом — Кино и сериалы на DTF - DTF",
-            "description": "Комедийный боевик поставил режиссёр «Дэдпула 2» и «Взрывной блондинки».",
-            "url": "https://dtf.ru/cinema/1104143-kakaya-to-hrenovaya-sdelka-pervyy-treyler-filma-bystree-puli-s-bredom-pittom",
-            "urlToImage": "https://dtf.ru/cover/fb/c/1104143/1646231221/cover.jpg",
-            "publishedAt": "2022-03-02T14:01:13Z",
-            "content": "« 2» « ».\r\n{\"id\":1104143,\"type\":1,\"typeStr\":\"content\",\"showTitle\":false,\"initialState\":{\"isActive\":false},\"gtm\":\"\"} \r\n{\"id\":1104143,\"gtm\":null} \r\n, Maria Beetle , , . , , .\r\n, :\r\n<ul><li> - («»),</li… [+169 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "В Госдуму внесли законопроект о 15 годах колонии за фейки о действиях ВС России - Коммерсантъ",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vd3d3LmtvbW1lcnNhbnQucnUvZG9jLzUyMzkzMjDSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-03-02T13:39:40Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gazeta.ru"
-            },
-            "author": null,
-            "title": "Эксперт Ионин предложил «Роскосмосу» арестовать спутники OneWeb - Газета.Ru",
-            "description": "Компания OneWeb не сумеет дать по требованию «Роскосмосу» гарантии неприменения своих спутников в военных целях за день до запуска, и «Роскосмос» вправе их арестовать. Об этом «Газете.Ru» заявил Андрей Ионин, член-корреспондент Российской академии космонавтик…",
-            "url": "https://www.gazeta.ru/science/news/2022/03/02/17369695.shtml",
-            "urlToImage": "https://img.gazeta.ru/files3/641/13025641/oneweb-pic905-895x505-69176.jpg",
-            "publishedAt": "2022-03-02T13:05:26Z",
-            "content": "OneWeb   «»      , «» . «.Ru» , - .. , .\r\n« , OneWeb ,   .   . , , », — .\r\n «» OneWeb,  21.30 4    , «-2.1» , .\r\n , OneWeb   . « , – .   Iridium », — .\r\n , «» .\r\n« 36 , , .   36  », — .\r\n- «-2.1»   «… [+25 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dtf.ru"
-            },
-            "author": "Granger",
-            "title": "Стример проходит Elden Ring с помощью зрителей — они вместе «играют», отправляя команды в чат, когда автор канала спит — Игры на DTF - DTF",
-            "description": "Пока им удалось убить лишь пару крыс, разозлить торговцев и несколько сотен раз врезаться в стены. Но они стараются.",
-            "url": "https://dtf.ru/games/1104153-strimer-prohodit-elden-ring-s-pomoshchyu-zriteley-oni-vmeste-igrayut-otpravlyaya-komandy-v-chat-kogda-avtor-kanala-spit",
-            "urlToImage": "https://dtf.ru/cover/fb/c/1104153/1646225165/cover.jpg",
-            "publishedAt": "2022-03-02T12:46:05Z",
-            "content": ", . .\r\n{\"id\":1104153,\"type\":1,\"typeStr\":\"content\",\"showTitle\":false,\"initialState\":{\"isActive\":false},\"gtm\":\"\"} \r\n{\"id\":1104153,\"gtm\":null} \r\nBruceGreene , Elden Ring, . -RPG. , .\r\nElden Ring, 24 , ,… [+133 chars]"
         }
     ]
 }
