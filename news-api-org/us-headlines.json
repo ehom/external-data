@@ -4,42 +4,94 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Katrina Bishop, Ted Kemp",
-            "title": "Second attempt at cease-fire planned in Ukraine's Mariupol; UK says conflict could last years - CNBC",
-            "description": "Mariupol said a civilian evacuation will take place Sunday after a cease-fire a day earlier failed.",
-            "url": "https://www.cnbc.com/2022/03/06/russia-ukraine-latest-updates.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107025835-16464975902022-03-05t155257z_2015739170_rc2ews9yxzxn_rtrmadp_0_ukraine-crisis-east.jpeg?v=1646497700",
-            "publishedAt": "2022-03-06T10:32:00Z",
-            "content": "Visa and Mastercard on Saturday said they will suspend all operations in Russia in response to the country's invasion of Ukraine. The move came after Ukraine President Volodymyr Zelenskyy made an imp… [+1571 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Nancy A. Youssef, Siobhan Hughes, Lindsay Wise",
-            "title": "U.S., Poland Look at Providing Soviet-Era Aircraft to Ukraine - The Wall Street Journal",
-            "description": "Proposal comes after Ukraine’s President Zelensky makes impassioned plea to Congress for Soviet-era jet fighters",
-            "url": "https://www.wsj.com/articles/ukrainian-president-asks-congress-to-help-secure-russian-made-jet-fighters-11646511532",
-            "urlToImage": "https://images.wsj.net/im-498979/social",
-            "publishedAt": "2022-03-06T09:40:00Z",
-            "content": "The U.S. is exploring a deal in which Poland would send Soviet-era aircraft to Ukraine in return for American F-16 jet fighters, U.S. officials said Saturday, in the latest bid to help Ukraine respon… [+113 chars]"
+            "author": "The Associated Press",
+            "title": "Live updates: Netflix suspends service in Russia - The Associated Press - en Español",
+            "description": "The latest developments on the Russia-Ukraine war : __ LVIV, Ukraine — As Russian forces increased their shelling of Ukraine, President Volodymyr Zelenskyy appealed to the West to strengthen sanctions.",
+            "url": "https://apnews.com/article/russia-ukraine-vladimir-putin-spacex-volodymyr-zelenskyy-business-807f67dcf116559d2646abb7ed851ca9",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/042f5f982b4f4b489f7d6869b2a7ac1b/3000.jpeg",
+            "publishedAt": "2022-03-06T22:18:45Z",
+            "content": "The latest developments on the Russia-Ukraine war:\r\n__\r\nLVIV, Ukraine As Russian forces increased their shelling of Ukraine, President Volodymyr Zelenskyy appealed to the West to strengthen sanctions… [+18742 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "George Ramsay",
-            "title": "Family of Shane Warne accept state funeral offer as tributes to former cricketer continue - CNN",
-            "description": "The family of Australian cricketer Shane Warne has accepted the offer of a state funeral following his death, Victoria state premier Daniel Andrews announced on Sunday.",
-            "url": "https://www.cnn.com/2022/03/05/sport/shane-warne-death-state-funeral-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220305075410-04-shane-warne-file-2007.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-03-06T09:31:00Z",
-            "content": "The family of Australian cricketer Shane Warne has accepted the offer of a state funeral following his death, Victoria state premier Daniel Andrews announced on Sunday. \r\nWarne, widely considered one… [+2431 chars]"
+            "author": "Tim Lister, Josh Pennington, Luke McGee and Radina Gigova, CNN",
+            "title": "'A family died... in front of my eyes': Mayor in Kyiv suburb laments civilian deaths as people try to flee the Russian attack on Ukraine - CNN",
+            "description": "The civilian death toll is rising in Ukraine after a blast struck an evacuation crossing point in a Kyiv suburb as more people try to flee the Russian invasion.",
+            "url": "https://www.cnn.com/2022/03/06/europe/ukraine-russia-invasion-sunday-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220305170212-mariupol-shelling-0304-super-tease.jpg",
+            "publishedAt": "2022-03-06T22:02:00Z",
+            "content": "Kyiv, Ukraine (CNN)The civilian death toll is rising in Ukraine after a blast struck an evacuation crossing point in a Kyiv suburb as more people try to flee the Russian invasion.\r\nTwo mortar or arti… [+11238 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Frank Pallotta, CNN Business",
+            "title": "'The Batman' soars to a big box office opening - CNN",
+            "description": "Theaters needed a hero, and they got one in a big way this weekend.",
+            "url": "https://www.cnn.com/2022/03/06/media/the-batman-box-office/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220303123026-02b-batsuit-legacy-robert-pattinson-2022-super-tease.jpg",
+            "publishedAt": "2022-03-06T21:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Yaroslav Trofimov, Alan Cullison",
+            "title": "Ukraine Faces Fresh Wave of Attacks Focused on Population Centers - The Wall Street Journal",
+            "description": "Civilian casualties mount in Ukraine as Russian shelling, airstrikes intensify ahead of new talks",
+            "url": "https://www.wsj.com/articles/ukraine-resumes-evacuation-attempts-as-russia-presses-offensive-11646564330",
+            "urlToImage": "https://images.wsj.net/im-499156/social",
+            "publishedAt": "2022-03-06T21:25:00Z",
+            "content": "Russian forces intensified strikes across Ukraine, pushing toward the capital, Kyiv, and the countrys second-largest city, Kharkiv, while killing dozens of civilians and disrupting evacuation efforts… [+256 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gabe Cohen and Dakin Andone, CNN",
+            "title": "Trucker convoy laps Washington, DC, beltway to protest Covid-19 measures - CNN",
+            "description": "A convoy of vehicles lapped the Washington, DC, beltway Sunday morning to demand an end to Covid-19 mandates and restrictions.",
+            "url": "https://www.cnn.com/2022/03/06/us/trucker-convoy-protest-washington-dc-sunday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220306152814-04-trucker-convoy-030622-super-tease.jpg",
+            "publishedAt": "2022-03-06T20:53:00Z",
+            "content": "(CNN)A convoy of vehicles lapped the Washington, DC, beltway Sunday morning to demand an end to Covid-19 mandates and restrictions.\r\nThe protests come at a time when many pandemic-related mandates an… [+4829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Raw Story"
+            },
+            "author": "Matthew Rozsa, Salon",
+            "title": "Covid-positive deer may be harboring the virus and infecting humans, study says - Raw Story",
+            "description": "Aside from saving human lives in the immediate moment, the other fundamental reason that public health officials were pushing mass vaccination to slow the spread of COVID-19 is because the more hosts in which a virus resides, the more likely the virus is to e…",
+            "url": "https://www.rawstory.com/19-animals/",
+            "urlToImage": "https://www.rawstory.com/media-library/nine-deer-dead-in-japan-after-eating-plastic-wildlife-group.jpg?id=24727843&width=1200&coordinates=0%2C23%2C0%2C24&height=600",
+            "publishedAt": "2022-03-06T20:47:02Z",
+            "content": "Aside from saving human lives in the immediate moment, the other fundamental reason that public health officials were pushing mass vaccination to slow the spread of COVID-19 is because the more hosts… [+5107 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Russian banks turn to China to sidestep cutoff from payments systems - Fox Business",
+            "description": "Russian banks that have been cut off from global payments networks are turning to China’s state-owned UnionPay system as the country tries to sidestep boycotts by Western businesses for its invasion of Ukraine.",
+            "url": "https://www.foxbusiness.com/economy/russian-banks-turn-china-sidestep-cutoff-payments-systems",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/02/0/0/bank-sanctions-2-25-22.jpg?ve=1&tl=1",
+            "publishedAt": "2022-03-06T20:34:48Z",
+            "content": "Russian banks that have been cut off from global payments networks are turning to China’s state-owned UnionPay system as the country tries to sidestep boycotts by Western businesses for its invasion … [+3898 chars]"
         },
         {
             "source": {
@@ -47,12 +99,77 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "UFC 272: Colby Covington Post-Fight Press Conference - UFC - Ultimate Fighting Championship",
-            "description": "Former interim UFC welterweight champion Colby Covington answers questions from the press following his unanimous decision win over Jorge Masvidal at UFC 272...",
-            "url": "https://www.youtube.com/watch?v=XyWaxbxl-RU",
-            "urlToImage": "https://i.ytimg.com/vi/XyWaxbxl-RU/maxresdefault.jpg",
-            "publishedAt": "2022-03-06T08:33:41Z",
+            "title": "Manchester City v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 3/6/2022 | NBC Sports - NBC Sports",
+            "description": "Kevin De Bruyne and Riyad Mahrez scored two apiece as Manchester City smashed archrivals Manchester United 4-1 to remain in command of the Premier League tit...",
+            "url": "https://www.youtube.com/watch?v=K19WghxLN8c",
+            "urlToImage": "https://i.ytimg.com/vi/K19WghxLN8c/hqdefault.jpg",
+            "publishedAt": "2022-03-06T20:01:35Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Julian Borger",
+            "title": "‘Grave concern’ as Ukraine Zaporizhzhia nuclear plant under Russian orders - The Guardian",
+            "description": "International Atomic Energy Agency says Russian military orders of staff at nuclear plant violate international safety protocols",
+            "url": "https://amp.theguardian.com/world/2022/mar/06/ukraine-zaporizhzhia-nuclear-plant-staff-under-russian-orders",
+            "urlToImage": "https://i.guim.co.uk/img/media/1970e826f97751889398338eee5814d2d9de708f/352_0_6504_3904/master/6504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05236617bcadb6a89bf5bd8f3dc47821",
+            "publishedAt": "2022-03-06T19:15:00Z",
+            "content": "Staff at Ukraines Zaporizhzhia nuclear power plant are being told what to do by the Russian military commander who seized the site last week, in violation of international safety protocols.\r\nThe Inte… [+3084 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Jordan Mendoza, USA TODAY",
+            "title": "Gas prices top $4 a gallon nationwide, all-time record could be broken this week - USA TODAY",
+            "description": "Gas prices have started to soar in the wake of Russia's invasion of Ukraine, and more records could soon be set.",
+            "url": "https://www.usatoday.com/story/money/2022/03/06/gas-price-tops-4-dollar-gallon/9402743002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/06/USAT/3092a024-1ae2-4c12-9dc3-40b0c6744dca-AFP_AFP_324H6ZU.jpg?auto=webp&crop=4799,2700,x0,y142&format=pjpg&width=1200",
+            "publishedAt": "2022-03-06T18:33:45Z",
+            "content": "The national average price for gas has topped $4 a gallon for the first time in over a decade as gas costs continue to soar in the wake of Russia's invasion of Ukraine.  \r\nAs of Sunday afternoon, the… [+2836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CinemaBlend"
+            },
+            "author": "Lauren Vanderveen",
+            "title": "How Pete Davidson Allegedly Feels About Kanye West Parodying Him In New Music Video - CinemaBlend",
+            "description": "The shoe's on the other foot for SNL star Pete Davidson.",
+            "url": "https://www.cinemablend.com/television/how-pete-davidson-allegedly-feels-about-kanye-west-parodying-him-in-new-music-video",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Jb77WD5rEevNnYsBWFeBpe-1200-80.jpg",
+            "publishedAt": "2022-03-06T18:10:39Z",
+            "content": "Kanye West’s major beef with Kim Kardashian and her new boyfriend of 5 months, Pete Davidson, continues to play out in the public arena. With the recent release of his “Eazy” song with The Game, he b… [+2573 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Dan Frosch, Zusha Elinson",
+            "title": "U.S. Cities’ Surge in Shootings Rattles Once-Safe Seattle - The Wall Street Journal",
+            "description": "Downtown hospital sees stream of young gunshot victims, some for a second time, as suburbs also grapple with violence",
+            "url": "https://www.wsj.com/articles/u-s-cities-surge-in-shootings-rattles-once-safe-seattle-11646589942",
+            "urlToImage": "https://images.wsj.net/im-495786/social",
+            "publishedAt": "2022-03-06T18:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCCI Des Moines"
+            },
+            "author": null,
+            "title": "Madison County officials to provide update on deadly tornado damage - KCCI Des Moines",
+            "description": "After Saturday's tornadoes, there are multiple reports of damage and confirmed deaths in Iowa.",
+            "url": "https://www.kcci.com/article/winterset-madison-iowa-multiple-deaths-confirmed-in-iowa-after-severe-storms/39338599",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/275418145-5217492441608426-7275478489437438557-n-1646572968.jpg?crop=1.00xw:0.752xh;0,0.107xh&resize=1200:*",
+            "publishedAt": "2022-03-06T17:37:00Z",
+            "content": "MADISON COUNTY, Iowa —After severe weather on Saturday and multiple tornadoes, there have been reports of damage and multiple confirmed deaths in the state.\r\nMadison County officials said there are s… [+2324 chars]"
         },
         {
             "source": {
@@ -60,38 +177,77 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "'The shops are gone': How Reliance stunned Amazon in battle for India's Future Retail - Reuters India",
-            "description": "At a large Future Retail <a href=\"https://www.reuters.com/companies/FRTL.NS\" target=\"_blank\">(FRTL.NS)</a> supermarket in Mumbai last week, workers were unloading hundreds of bright blue grocery crates belonging to India's biggest retailer Reliance.",
-            "url": "https://www.reuters.com/world/india/the-shops-are-gone-how-reliance-stunned-amazon-battle-indias-future-retail-2022-03-06/",
-            "urlToImage": "https://www.reuters.com/resizer/2hck9AtptVCpj7IW3_T1Vr59hE0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PUICGEY7GJISBEGVPIXGB2S6QE.jpg",
-            "publishedAt": "2022-03-06T07:30:00Z",
-            "content": "MUMBAI, March 6 (Reuters) - At a large Future Retail (FRTL.NS) supermarket in Mumbai last week, workers were unloading hundreds of bright blue grocery crates belonging to India's biggest retailer Rel… [+4652 chars]"
+            "title": "Iranian nuclear talks clouded by Russian demands - Reuters",
+            "description": "Talks to revive Iran's 2015 nuclear deal with world powers were mired in uncertainty on Sunday following Russia's demands for a U.S. guarantee that the sanctions it faces over the Ukraine conflict will not hurt its trade with Tehran.",
+            "url": "https://www.reuters.com/world/europe/iranian-nuclear-talks-clouded-by-russian-demands-2022-03-06/",
+            "urlToImage": "https://www.reuters.com/resizer/di7Vomd0RfJ5LRbd9-Uhe5zxVQE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SZWZTEWXUNKH3PZHUQGWUHAIXE.jpg",
+            "publishedAt": "2022-03-06T17:22:00Z",
+            "content": "VIENNA, March 6 (Reuters) - Talks to revive Iran's 2015 nuclear deal with world powers were mired in uncertainty on Sunday following Russia's demands for a U.S. guarantee that the sanctions it faces … [+4294 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Andy Rose and Melissa Alonso, CNN",
-            "title": "Tornado kills 6, including 2 children, near Des Moines, Iowa, officials say - CNN",
-            "description": "Six people -- including two children -- died in a tornado near Des Moines, Iowa, Saturday, officials said.",
-            "url": "https://www.cnn.com/2022/03/05/weather/iowa-tornado-deaths/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220305223710-lowa-tornada-damage-030522-restricted-super-tease.jpg",
-            "publishedAt": "2022-03-06T06:41:00Z",
-            "content": "(CNN)Six people -- including two children -- died in a tornado near Des Moines, Iowa, Saturday, officials said. \r\nThe two children who died were under the age of five, Madison County Emergency Manage… [+2340 chars]"
+            "author": "Melissa Melissa",
+            "title": "Blinken says NATO countries have \"green light\" to send fighter jets to Ukraine - CBS News",
+            "description": "The secretary of state says the U.S. is considering providing fighter jets to Poland if the country sends its own to Ukraine.",
+            "url": "https://www.cbsnews.com/news/ukraine-russia-war-fighter-jets-antony-blinken-face-the-nation/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/03/06/4ff02e7a-bb14-4c06-b6cf-347ef1615ba8/thumbnail/1200x630g2/2e8e146bc8733b31a0d68543d302f918/screen-shot-2022-03-06-at-8-01-24-am.png",
+            "publishedAt": "2022-03-06T17:14:00Z",
+            "content": "Washington — Secretary of State Antony Blinken said Sunday that NATO members have the go-ahead to send fighter jets to Ukraine as the U.S. and allies continue their efforts to help Ukraine defend its… [+4653 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "New York Post"
             },
-            "author": "Tim Lister, Josh Pennington, Julia Hollingsworth",
-            "title": "Besieged Mariupol without power or water, says mayor, as Ukraine accuses Russia of blocking humanitarian corridor - CNN",
-            "description": "Civilians in the battered Ukrainian port city of Mariupol are trapped without power and water and unable to recover their dead, its mayor said Saturday, as he accused Russia of trying to \"choke\" the city by shutting off agreed evacuation routes.",
-            "url": "https://www.cnn.com/2022/03/06/europe/ukraine-russia-invasion-sunday-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220305170212-mariupol-shelling-0304.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-03-06T06:38:00Z",
-            "content": "Civilians in the battered Ukrainian port city of Mariupol are trapped without power and water and unable to recover their dead, its mayor said Saturday, as he accused Russia of trying to choke the ci… [+6003 chars]"
+            "author": "Ethan Sears",
+            "title": "341-pound Jordan Davis' 40-yard dash at NFL combine faster than Patrick Mahomes - New York Post ",
+            "description": "Jordan Davis, the 341-pound Georgia defensive tackle, clocked a stunning 4.78 40-yard dash at the NFL combine on Saturday night.",
+            "url": "https://nypost.com/2022/03/06/nfl-combine-jordan-davis-40-yard-dash-faster-than-patrick-mahomes/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/Jordan-Davis-40-yard-dash-NFL-combine-mahomes.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-03-06T16:36:00Z",
+            "content": "Jordan Davis, the 341-pound Georgia defensive tackle, clocked a stunning 4.78 40-yard dash at the NFL combine on Saturday night.\r\nAt 6-foot-6 3/8, Davis is taller than Rob Gronkowkski and at 341 poun… [+1368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Protests across Russia see thousands detained - BBC.com",
+            "description": "People have been held in 53 cities, from St Petersburg in the west to Vladivostok in the east.",
+            "url": "https://www.bbc.com/news/world-europe-60640204",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5A4D/production/_123571132_1bb8b12c-0f3c-4acd-9bd5-7736fc160114.jpg",
+            "publishedAt": "2022-03-06T16:29:55Z",
+            "content": "Image caption, Riot police at a demonstration in Moscow on Sunday\r\nNearly 4,000 people have been detained at anti-war protests across Russia on Sunday, rights groups and Russian authorities say.\r\nSom… [+3180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": null,
+            "title": "Kuo: 27-inch Apple external display coming this year, new iMac Pro and Mac Pro in 2023 - 9to5Mac",
+            "description": "Ming-Chi Kuo has continued his newfound career as a Twitter leaker by today sharing his predictions for Apple’s desktop roadmap. The respected analyst said that he expects Apple to ship a high-end Mac mini this year, as well as a 27-inch Apple external displa…",
+            "url": "https://9to5mac.com/2022/03/06/kuo-27-inch-external-display-imac-pro-mac-pro-delayed/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/08/2020-5K-iMac-Review-Pro-Display-XDR.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-03-06T16:28:00Z",
+            "content": "Ming-Chi Kuo has continued his newfound career as a Twitter leaker by today sharing his predictions for Apple’s desktop roadmap.\r\nThe respected analyst said that he expects Apple to ship a high-end M… [+2225 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Jessica Chasmar",
+            "title": "Blinken says U.S. weighing Russian oil ban ‘in coordination’ with allies - Fox News",
+            "description": "Secretary of State Antony Blinken said Sunday that the U.S. is considering a ban on Russian oil imports \"in coordination\" with European and NATO allies.",
+            "url": "https://www.foxnews.com/politics/blinken-says-u-s-weighing-russian-oil-ban-in-coordination-with-nato-allies",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/03/AP22063737887121.jpg",
+            "publishedAt": "2022-03-06T16:01:49Z",
+            "content": "Secretary of State Antony Blinken said Sunday that the U.S. is considering a ban on Russian oil imports \"in coordination\" with European and NATO allies amid bipartisan calls for a full embargo while … [+4854 chars]"
         },
         {
             "source": {
@@ -99,168 +255,12 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Coach K's final home game: UNC turns Mike Krzyzewski's Cameron Indoor Stadium finale into its own celebration - CBS Sports",
-            "description": "It's the Tar Heels who played the spoiler on what was supposed to be a scripted send-off of a night for Coach K",
-            "url": "https://www.cbssports.com/college-basketball/news/coach-ks-final-home-game-unc-turns-mike-krzyzewskis-cameron-indoor-stadium-finale-into-its-own-celebration/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/03/06/a4397d6d-f356-4376-9ff5-0da084f7005a/thumbnail/1200x675/bc01b3a7c7aae230c4676b9072022cc3/coach-k.jpg",
-            "publishedAt": "2022-03-06T06:00:00Z",
-            "content": "DURHAM, N.C. This is what can happen when you try to plan a retirement ceremony with 9,000 of your closest friends, with the tricky caveat of including a basketball game. \r\nThis was to be Mike Krzyze… [+10511 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Associated Press",
-            "title": "At least 22 fans injured in brawl at Mexican soccer match - New York Post ",
-            "description": "The match between the host Queretaro and Atlas from Guadalajara — the reigning league champion — was suspended in the 62nd minute when multiple fights broke out in the stands.",
-            "url": "https://nypost.com/2022/03/06/mexican-soccer-match-brawl-between-queretaro-atlas-fans-injures-at-least-22/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/Soccer-1.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2022-03-06T05:39:00Z",
-            "content": "MEXICO CITY At least 22 people were injured, including two critically, on Saturday when fans brawled during a soccer game in central Mexico.\r\nThe match between the host Queretaro and Atlas from Guada… [+2370 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Jesse O’Neill",
-            "title": "'Significant' wildfires rage in Florida panhandle, more than 1K homes evacuated - New York Post ",
-            "description": "Thousands of Florida residents were seeking shelter from blazing wildfires caused by high winds that swept across their state’s western panhandle Saturday.",
-            "url": "https://nypost.com/2022/03/05/wildfires-rage-in-florida-panhandle-more-than-1k-homes-left/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/newspress-collage-21430439-1646535208874.png?w=1024",
-            "publishedAt": "2022-03-06T03:12:00Z",
-            "content": "Thousands of Florida residents were seeking shelter from raging wildfires that swept across their state’s western panhandle Saturday.\r\nMore than 12,100 acres were ablaze as downed trees from 2018’s H… [+1512 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KCRA Sacramento"
-            },
-            "author": "Leticia Ordaz",
-            "title": "'Top of the kill list': Rep. John Garamendi speaks with Ukraine President Volodymyr Zelenskyy - KCRA Sacramento",
-            "description": "Garamendi said Ukraine's President emphasized that Russian forces are moving away from targeting the Ukrainian military and are now attacking communities.",
-            "url": "https://www.kcra.com/article/rep-john-garamendi-speaks-ukraine-president-volodymyr-zelenskyy/39337159",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/1e858d53-3dfb-4922-a74d-93203884a295/1e858d53-3dfb-4922-a74d-93203884a295_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-            "publishedAt": "2022-03-06T02:29:00Z",
-            "content": "On Saturday, Rep. John Garamendi, a senior member of the armed services committee spoke with Ukraine President Volodymyr Zelenskyy to discuss Russia's invasion.\r\nHe joined a one-hour briefing with 50… [+2662 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Visa, Mastercard suspend operations in Russia over Ukraine invasion - Reuters.com",
-            "description": "U.S. payments firms Visa Inc <a href=\"https://www.reuters.com/companies/V.N\" target=\"_blank\">(V.N)</a> and Mastercard Inc on Saturday said they were suspending operations in Russia over the invasion of Ukraine, and that they would work with clients and partne…",
-            "url": "https://www.reuters.com/business/finance/visa-suspends-operations-russia-over-ukraine-invasion-2022-03-05/",
-            "urlToImage": "https://www.reuters.com/resizer/iTvn04svWdRW1ZURNlcDKJLr9BM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7OFRERUABBOBJEACS57D4AL2DQ.jpg",
-            "publishedAt": "2022-03-06T01:21:00Z",
-            "content": "March 5 (Reuters) - U.S. payments firms Visa Inc (V.N) and Mastercard Inc on Saturday said they were suspending operations in Russia over the invasion of Ukraine, and that they would work with client… [+4162 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Wife of fallen Santa Fe police officer speaks out - KRQE",
-            "description": "Wife of fallen Santa Fe police officer speaks out",
-            "url": "https://www.youtube.com/watch?v=KXg4wbqd_co",
-            "urlToImage": "https://i.ytimg.com/vi/KXg4wbqd_co/hqdefault.jpg",
-            "publishedAt": "2022-03-06T01:11:35Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "US Gas Prices Soar - NBC News",
-            "description": "U.S. gas prices are nearing an all-time high now hovering just below $4 a gallon. The cost of gas has increased every day since the Russian invasion of Ukrai...",
-            "url": "https://www.youtube.com/watch?v=Pz7wQFxOaZI",
-            "urlToImage": "https://i.ytimg.com/vi/Pz7wQFxOaZI/maxresdefault.jpg",
-            "publishedAt": "2022-03-06T00:49:07Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Ashley Joy Parker",
-            "title": "Princess Diana Appears in Never-Before-Seen Portrait That Draws Comparisons to Kate Middleton - E! NEWS",
-            "description": "A rare image of the late Princess Diana has been made public just two months after three new portraits of Kate Middleton were released in honor of her 40th birthday.",
-            "url": "https://www.eonline.com/news/1322104/princess-diana-appears-in-never-before-seen-portrait-that-draws-comparisons-to-kate-middleton",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202225/rs_1200x1200-220305130752-1200.diana.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2022-03-06T00:37:00Z",
-            "content": "Princess Diana's legacy continues to live on.\r\nA never-before-seen portrait of the late Princess Of Wales is now on display at a new exhibition, titled \"Life Through a Royal Lens,\" at London's Kensin… [+781 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Lexi Lonas",
-            "title": "Zelensky says Ukraine receiving more SpaceX internet stations for 'destroyed cities' | TheHill - The Hill",
-            "description": "Ukrainian President Volodymyr Zelensky said Ukraine will be recei...",
-            "url": "https://thehill.com/policy/international/597028-zelensky-says-ukraine-receiving-more-spacex-internet-stations-for",
-            "urlToImage": "https://thehill.com/sites/default/files/musk05022021.jpg",
-            "publishedAt": "2022-03-06T00:25:37Z",
-            "content": "Ukrainian President Volodymyr Zelensky said Ukraine will be receiving more Starlink satellite internet stations for destroyed cities after he spoke with SpaceX CEO Elon MuskElon Reeve MuskOn The Mone… [+1214 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "OilPrice.com"
-            },
-            "author": "Tsvetana Paraskova",
-            "title": "Analysts Warn Of $150 Oil If The West Bans Russian Crude - OilPrice.com",
-            "description": "Analysts have warned that crude prices could go as high as $150 per barrel if the West decides to slap sanctions on Russian energy exports, but even without sanctions, oil could see further upside",
-            "url": "https://oilprice.com/Energy/Energy-General/Analysts-Warn-Of-150-Oil-If-The-West-Bans-Russian-Crude.html",
-            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-03-04_rucwghtenf.jpg",
-            "publishedAt": "2022-03-06T00:00:00Z",
-            "content": "Many Asian economies are bracing…\r\nBP will sell its close…\r\nPutin's decision to invade Ukraine…\r\nBy Tsvetana Paraskova - Mar 05, 2022, 6:00 PM CSTThe United States and the European Union have been re… [+4358 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "North Korea says it conducted second 'important' spy satellite test - Reuters",
-            "description": "North Korea said it conducted \"another important\" test for reconnaissance satellite systems, state news agency KCNA reported on Sunday, a day after regional military authorities reported the launch of a ballistic missile from the country for the second time i…",
-            "url": "https://www.reuters.com/world/asia-pacific/nkorea-says-it-conducted-important-spy-satellite-system-test-kcna-2022-03-05/",
-            "urlToImage": "https://www.reuters.com/resizer/DT8F9r5xR7-zByIvOmzra_G0DYg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B6KU4ETD3JN4ZK5STI7VCZ3BSM.jpg",
-            "publishedAt": "2022-03-05T22:34:00Z",
-            "content": "SEOUL, March 6 (Reuters) - North Korea said it conducted \"another important\" test for reconnaissance satellite systems, state news agency KCNA reported on Sunday, a day after regional military author… [+2521 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Fox News",
-            "title": "Russia has lost its power over NASA and in the space business: experts - New York Post ",
-            "description": "While waging war in Ukraine, Russia could soon lose its influence in the space industry as the country alienates from supplying US and International Space Station partners, according to experts.",
-            "url": "https://nypost.com/2022/03/05/russia-has-lost-its-power-over-nasa-and-in-the-space-business-experts/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/InternationalSpace.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2022-03-05T22:17:00Z",
-            "content": "Russia continues to degrade its role in the space industry, alienating itself from international customers it has long supplied space resources to because President Vladimir Putin refused to back dow… [+4003 chars]"
-        },
-        {
-            "source": {
-                "id": "the-hill",
-                "name": "The Hill"
-            },
-            "author": "Lexi Lonas",
-            "title": "Israeli prime minister meets with Putin to discuss Ukraine | TheHill - The Hill",
-            "description": "Israeli Prime Minister Naftali Bennett met with Russian President...",
-            "url": "https://thehill.com/policy/international/597023-israeli-prime-minister-meets-with-putin-on-ukraine-in-moscow",
-            "urlToImage": "https://thehill.com/sites/default/files/article_images/bennettnaftali_06202021_1.jpg",
-            "publishedAt": "2022-03-05T22:03:54Z",
-            "content": "Israeli Prime Minister Naftali Bennett met with Russian President Vladimir PutinVladimir Vladimirovich Putin 5 things to know today about the Russia-Ukraine conflictIsraeli prime minister meets with … [+1808 chars]"
+            "title": "Lakers' LeBron James can still work miracles, but it helps when he's playing against a porous Warriors defense - CBS Sports",
+            "description": "James unloaded on Golden State for 56 points in a Lakers victory Saturday night",
+            "url": "https://www.cbssports.com/nba/news/lakers-lebron-james-can-still-work-miracles-but-it-helps-when-hes-playing-against-a-porous-warriors-defense/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/03/06/6d1968a9-0715-452f-8526-530ccef3067c/thumbnail/1200x675/3d9251579dd6d3f0a98d12274e46774f/lebron-warriors-defense.jpg",
+            "publishedAt": "2022-03-06T15:30:00Z",
+            "content": "If you came into Saturday night not having watched the Lakers play a single game all season, you might find yourself thinking: \"Man, what's all this talk about the Lakers stinking?\" They didn't even … [+3153 chars]"
         }
     ]
 }
