@@ -4,29 +4,16 @@
     "articles": [
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Brie Stimson",
-            "title": "US, UK move to block Russian oil as Europe considers similar action amid Ukraine war: LIVE UPDATES - Fox News",
-            "description": "President Biden announced Tuesday that the United States will ban Russian oil, natural gas and coal imports and U.K. Prime Minister Boris Johnson said the country would phase the imports out by the end of the year. Other European Union allies are also conside…",
-            "url": "https://www.foxnews.com/live-news/russia-ukraine-war-3-9-2022",
-            "urlToImage": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
-            "publishedAt": "2022-03-09T10:30:42Z",
-            "content": "Ukraine will try to get civilians out of danger through six evacuation corridors Wednesday, the country's Deputy Prime Minister Iryna Vereshchuk said in a video, according to a report.\r\nShe said the … [+978 chars]"
-        },
-        {
-            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Ashley Strickland, CNN",
-            "title": "Our sun keeps flaring and these 2 missions are capturing it all - CNN",
-            "description": "The sun is getting more active as it nears solar maximum, and the Solar Orbiter and Parker Solar Probe missions are perfectly poised to witness our star's increasing flares and storms.",
-            "url": "https://www.cnn.com/2022/03/09/world/solar-orbiter-parker-probe-sun-flare-scn/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220309042318-02-solar-orbiter-sun-flare-super-tease.jpeg",
-            "publishedAt": "2022-03-09T09:00:00Z",
-            "content": null
+            "author": "Jack Guy, Tim Lister, Olga Voitovych, Paul P. Murphy, Gianluca Mezzofiore, Celine Alkhaldi and Katie Polglase, CNN",
+            "title": "Russia accused of 'atrocity' in bombing of maternity and children's hospital - CNN",
+            "description": "Russian forces bombed a maternity and children's hospital in southern Ukraine, authorities there said Wednesday, an attack described by the country's President Volodymyr Zelensky as an \"atrocity.\"",
+            "url": "https://www.cnn.com/2022/03/09/europe/russia-invasion-ukraine-evacuations-03-09-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220309125907-01-mariupol-hospital-bombing-0309-super-tease.jpg",
+            "publishedAt": "2022-03-09T22:41:00Z",
+            "content": "(CNN)Russian forces bombed a maternity and children's hospital in southern Ukraine, authorities there said Wednesday, an attack described by the country's President Volodymyr Zelensky as an \"atrocity… [+7858 chars]"
         },
         {
             "source": {
@@ -34,116 +21,77 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "U.S. rejects Poland's offer to give it Russian-made fighter jets for Ukraine - Reuters.com",
-            "description": "The United States rejected a surprise offer by NATO ally Poland on Tuesday to transfer its Russian-made MiG-29 fighter jets to a U.S. base in Germany as a way to replenish Ukraine's air force in its defense against invading Russian forces.",
-            "url": "https://www.reuters.com/world/us/us-surprised-polands-decision-give-it-fighter-jets-ukraine-2022-03-08/",
-            "urlToImage": "https://www.reuters.com/resizer/-jmGJhSTExo9sr8BQuA3mphGiwo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6T76BZ3VIZOCJFKI2NX47HHCJY.jpg",
-            "publishedAt": "2022-03-09T08:37:00Z",
-            "content": "WASHINGTON, March 8 (Reuters) - The United States rejected a surprise offer by NATO ally Poland on Tuesday to transfer its Russian-made MiG-29 fighter jets to a U.S. base in Germany as a way to reple… [+3348 chars]"
+            "title": "U.S. closes door on combat aircraft for Ukraine, citing 'high risk' - Reuters.com",
+            "description": "The United States on Wednesday closed the door on supplying combat aircraft to Ukraine, saying the intelligence community assessed it would be a \"high risk\" move that could increase the chances of a Russian escalation with NATO.",
+            "url": "https://www.reuters.com/world/us/us-closes-door-combat-aircraft-ukraine-citing-high-risk-2022-03-09/",
+            "urlToImage": "https://www.reuters.com/resizer/roODwDwov-SRMTU1WSM9_2f2Z6Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QKC5GWFAKFJ5TOSEAFYXIVMSQU.jpg",
+            "publishedAt": "2022-03-09T21:56:00Z",
+            "content": "WASHINGTON, March 9 (Reuters) - The United States on Wednesday closed the door on supplying combat aircraft to Ukraine, saying the intelligence community assessed it would be a \"high risk\" move that … [+2968 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caitlin McFall",
+            "title": "Blinken downplays reports of Saudi, UAE distrust of Biden admin - Fox News",
+            "description": "Secretary Blinken downplayed any suggestion that the Biden administration was snubbed by the UAE and Saudi Arabia as the U.S. looks to garner support for Ukraine.",
+            "url": "https://www.foxnews.com/politics/blinken-downplays-saudi-uae-distrust",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/03/AP22068641594058.jpg",
+            "publishedAt": "2022-03-09T21:49:04Z",
+            "content": "Secretary of State Antony Blinken on Wednesday downplayed the suggestion that the Biden administration was snubbed by oil-leading nations in the Middle East as the U.S. looks to counter surging oil p… [+3319 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Adam Adam",
+            "title": "Colorado elections clerk Tina Peters indicted in voting system breach - CBS News",
+            "description": "The indictment alleges Peters was part of a \"deceptive scheme\" to breach voting system technology that is used across the country.",
+            "url": "https://www.cbsnews.com/news/tina-peters-colorado-mesa-county-indicted-voting-system-breach/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/03/09/78e1f888-959f-4308-bbb0-6b8277a185c7/thumbnail/1200x630/3ae9052f837290627081b8e9a6fdcde7/ap220456711270011.jpg",
+            "publishedAt": "2022-03-09T21:46:00Z",
+            "content": "A Colorado grand jury has indicted Mesa County Clerk Tina Peters in relation to an investigation into allegations of election equipment tampering and official misconduct.\r\nPeters, who has been a prop… [+3076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alexandra Steigrad",
+            "title": "Disney CEO Bob Chapek to meet with Florida Gov. Ron DeSantis amid 'Don't Say Gay' flap - New York Post ",
+            "description": "Disney CEO Bob Chapek said that he will meet with Florida Gov. Ron DeSantis to discuss the state’s controversial “Don’t Say Gay” bill after the Mouse House took heat for rem…",
+            "url": "https://nypost.com/2022/03/09/disney-ceo-chapek-meeting-florida-gov-desantis-amid-dont-say-gay-flap/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/Ron-DeSantis-bob.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-03-09T21:12:00Z",
+            "content": "Disney CEO Bob Chapek said that he will meet with Florida Gov. Ron DeSantis to discuss the state’s controversial “Don’t Say Gay” bill after the Mouse House took heat for remaining silent on the issue… [+3576 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "James Wagner",
-            "title": "MLB Lockout: Another Deadline Set for Canceling Games - The New York Times",
-            "description": "A 162-game season is back on the table, but so is the possibility of canceling more games. The sides will reconvene Wednesday morning.",
-            "url": "https://www.nytimes.com/2022/03/08/sports/baseball/mlb-lockout.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/03/08/multimedia/08mlb-lockout/08mlb-lockout-facebookJumbo.jpg",
-            "publishedAt": "2022-03-09T08:31:00Z",
-            "content": "Since returning to New York, where both organizations are headquartered, M.L.B. and the union have met and exchanged proposals, including multiple times on Tuesday.\r\nOn Sunday, after hearing the play… [+1520 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Raf Casert",
-            "title": "With Ukraine war, Europe's geopolitical map is moving again - The Associated Press - en Español",
-            "description": "BRUSSELS (AP) — Even though Russia has lost influence and friends since the collapse of the Soviet empire in 1989, the nuclear superpower still holds sway over several of its neighbors in Europe and keeps others in an uneasy neutrality.",
-            "url": "https://apnews.com/article/russia-ukraine-business-europe-moscow-european-union-a8ca42e257391c95c355dd4d752c8208",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e7c5818a58f94733ab73ef8903dd9dbf/3000.jpeg",
-            "publishedAt": "2022-03-09T08:11:11Z",
-            "content": "BRUSSELS (AP) Even though Russia has lost influence and friends since the collapse of the Soviet empire in 1989, the nuclear superpower still holds sway over several of its neighbors in Europe and ke… [+5419 chars]"
+            "author": "Valerie Hopkins",
+            "title": "‘Just Put the Body Outside.’ The Bloody Siege of Mariupol - The New York Times",
+            "description": "Under a relentless Russian barrage, there is no heat or electricity, and people are boiling snow for water. A 6-year-old died of dehydration, the authorities said.",
+            "url": "https://www.nytimes.com/2022/03/09/world/europe/ukraine-mariupol-siege.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/09/world/09mariupol-sub/09mariupol-sub-facebookJumbo.jpg",
+            "publishedAt": "2022-03-09T21:07:39Z",
+            "content": "Efforts to negotiate a cease-fire to give civilians a chance to escape have failed repeatedly. For three days, the prospect of relief reaching the city though a humanitarian corridor fell apart in a … [+816 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Arjun Kharpal",
-            "title": "Bitcoin spikes 8% after apparent release of Yellen statement on Biden's crypto executive order - CNBC",
-            "description": "The U.S. Treasury published then took down a statement on an unreleased executive order on digital assets which appeared supportive of cryptocurrencies.",
-            "url": "https://www.cnbc.com/2022/03/09/bitcoin-btc-jumps-after-treasury-statement-on-crypto-executive-order.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106963876-1634825244800-gettyimages-1236011917-AA_21102021_496570.jpeg?v=1638714731",
-            "publishedAt": "2022-03-09T08:08:42Z",
-            "content": "Bitcoin and other cryptocurrencies spiked after the U.S. Treasury apparently released details of an executive order from President Joe Biden that appeared to take a supportive stance toward digital a… [+1723 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "War in Ukraine: McDonald's, Coca-Cola and Starbucks halt Russian sales - BBC.com",
-            "description": "Western companies are turning their backs on Russia amid sanctions and violence in Ukraine.",
-            "url": "https://www.bbc.com/news/business-60665877",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15A04/production/_123608588_starbucks-mcdonalds-coca-cola_getty-images.jpg",
-            "publishedAt": "2022-03-09T06:53:57Z",
-            "content": "Image source, Getty Images\r\nConsumer giants including McDonald's, Coca-Cola and Starbucks have joined the list of firms halting business in Russia due to the invasion in Ukraine.\r\nMcDonald's said it … [+4995 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Aaron Rodgers, Russell Wilson change QB market: Here's what two major moves mean for teams still searching - CBS Sports",
-            "description": "Rodgers' deal raised the bar for top-tier QBs, while the Wilson trade shifted the QB landscape",
-            "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-russell-wilson-change-qb-market-heres-what-two-major-moves-mean-for-teams-still-searching/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/03/07/9873d579-6e8e-47dc-86f1-30bcd6a1e628/thumbnail/1200x675/c30b42a8921bd02a07c21247716e8dbb/rodgers2018.png",
-            "publishedAt": "2022-03-09T06:43:00Z",
-            "content": "Tom Brady and Aaron Rodgers are two of the greatest quarterbacks in league history. Both will go down as two of the greatest players of this era. Both will also go down in history as trailblazers, bu… [+2492 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "By <a href=\"/profiles/helen-regan\">Helen Regan</a> and Adam Renton, CNN",
-            "title": "Russia invades Ukraine: Live updates - CNN",
-            "description": "US President Joe Biden announced a ban on Russian energy imports to the US as Ukraine's President urged the UK Parliament to strengthen sanctions against Moscow and vowed the country will \"fight to the end.\" Follow here for live news. updates from on the grou…",
-            "url": "https://www.cnn.com/europe/live-news/ukraine-russia-putin-news-03-09-22/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220308173931-04-ukraine-0308-super-tease.jpg",
-            "publishedAt": "2022-03-09T06:16:00Z",
-            "content": "The recent trip by two top US foreign policy officials to Caracas, Venezuela, is a sign of just how much the geopolitical balance could be shifting in the wake of Russias invasion of Ukraine.\r\nNation… [+3222 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Stefano Pozzebon",
-            "title": "Two Americans, including one member of the 'CITGO6,' released from prison in Venezuela - CNN",
-            "description": "At least one American member of the so-called CITGO 6 has been released from prison in Venezuela, a lawyer assisting several of the CITGO 6 and a spokesman from a Venezuelan nongovernmental organization that's providing legal assistance to prisoners in the co…",
-            "url": "https://www.cnn.com/2022/03/08/americas/citgo-6-prison-release-venezuela-intl-latam/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220308180351-citgo-6.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-03-09T06:06:00Z",
-            "content": "At least one American member of the so-called CITGO 6 has been released from prison in Venezuela, a lawyer assisting several of the CITGO 6 and a spokesman from a Venezuelan nongovernmental organizat… [+2703 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Hail to the Squid – New Species of Extinct Vampire-Squid-Like Cephalopod With 10 Arms Named After Biden - SciTechDaily",
-            "description": "Hail to the squid — A vampyropod fit for a president Researchers at Yale and the American Museum of Natural History have identified the earliest known relative of octopuses and vampire squid — and named it after the 46th president of the United States. Syllip…",
-            "url": "https://scitechdaily.com/hail-to-the-squid-new-species-of-extinct-vampire-squid-like-cephalopod-with-10-arms-named-after-biden/",
-            "urlToImage": "https://scitechdaily.com/images/Vampyropod-Reconstruction-Crop.jpg",
-            "publishedAt": "2022-03-09T05:35:11Z",
-            "content": "Hail to the squid — A vampyropod fit for a president\r\nResearchers at Yale and the American Museum of Natural History have identified the earliest known relative of octopuses and vampire squid — and n… [+3454 chars]"
+            "author": "Chloe Taylor",
+            "title": "Ukraine says Russia bombed children's hospital; Chornobyl nuclear plant disconnected from grid - CNBC",
+            "description": "Ukraine has announced its first successful mass evacuation of civilians from the city of Sumy, after days of disruptions due to Russian cease-fire violations.",
+            "url": "https://www.cnbc.com/2022/03/09/russia-ukraine-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107027647-1646834372604-gettyimages-1383470452-dg1_0989_8e171afd-7d8c-4aa6-ba06-e81e36d3a66b.jpeg?v=1646834415",
+            "publishedAt": "2022-03-09T20:44:00Z",
+            "content": "Around 5,000 civilians have successfully been evacuated from the city of Sumy, Ukraine said on Tuesday.\r\nKyrylo Tymoshenko, deputy head of the Office of the President of Ukraine, said on Telegram tha… [+675 chars]"
         },
         {
             "source": {
@@ -151,103 +99,38 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "iPhone SE (2022) Impressions and Green iPhone 13 Reactions - CNET",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYQwLVk6xF10",
-            "urlToImage": null,
-            "publishedAt": "2022-03-09T05:05:18Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": null,
-            "title": "Mac Studio with M1 Ultra beats 28-core Intel Mac Pro in Geekbench score - 9to5Mac",
-            "description": "A Geekbench test shows that Apple's M1 Ultra chip found in the new Mac Studio beats the 28-core Intel Mac Pro.",
-            "url": "https://9to5mac.com/2022/03/08/mac-studio-with-m1-ultra-beats-28-core-intel-mac-pro-in-geekbench-score/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/03/Screen-Shot-2022-03-08-at-1.26.01-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2022-03-09T04:25:00Z",
-            "content": "Apple on Tuesday introduced Mac Studio, which comes with the powerful M1 Max chip by default. However, the company also offers a more expensive model with M1 Ultra, a new Apple Silicon chip that is e… [+1658 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "John Barr",
-            "title": "Grand jury will hear evidence on Friday in case involving Houston Texans QB Deshaun Watson - ESPN",
-            "description": "A grand jury will hear evidence on Friday in the case involving Houston Texans quarterback Deshaun Watson, the same day the NFL veteran will also face questions for the first time in at least some of his pending civil lawsuits.",
-            "url": "https://www.espn.com/nfl/story/_/id/33458132/grand-jury-hear-evidence-friday-case-involving-houston-texans-qb-deshaun-watson",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0309%2Fr983853_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-03-09T04:15:16Z",
-            "content": "A grand jury will hear evidence Friday in the case involving Houston Texans quarterback Deshaun Watson, the same day he also will face questions for the first time in at least some of his pending civ… [+1959 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Yoonjung Seo and Julia Hollingsworth, CNN",
-            "title": "How feminism became a hot topic in South Korea's presidential election - CNN",
-            "description": "A furious crowd gathered in central Seoul last month to protest against the policies of a man who isn't even in power.",
-            "url": "https://www.cnn.com/2022/03/08/asia/south-korea-election-young-people-intl-hnk-dst/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220307021053-04-korea-presidental-elections-misogyny-super-tease.jpg",
-            "publishedAt": "2022-03-09T03:58:00Z",
-            "content": "By Yoonjung Seo and Julia Hollingsworth, CNN\r\nUpdated 10:58 PM ET, Tue March 8, 2022\r\nSeoul, South Korea (CNN)A furious crowd gathered in central Seoul last month to protest against the policies of a… [+7257 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KCCI Des Moines"
-            },
-            "author": null,
-            "title": "President Biden releases statement in response to shooting outside of East High School - KCCI Des Moines",
-            "description": "The White House has issued a response after a shooting took place outside of East High School in Des Moines.",
-            "url": "https://www.kcci.com/article/des-moines-iowa-president-biden-releases-statement-in-response-to-shooting-outside-of-east-high-school/39377406",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/dd346cae-678b-4d7b-a71a-2571b5d6022a/dd346cae-678b-4d7b-a71a-2571b5d6022a_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-            "publishedAt": "2022-03-09T03:56:00Z",
-            "content": "DES MOINES, Iowa —The White House has issued a response after a shooting took place outside of East High School in Des Moines.\r\nDes Moines police said the victim in the shooting was 15-year-old Jose … [+2407 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Justin Vallejo",
-            "title": "Texas man is found guilty in first jury trial over Capitol riot and now faces up to 60 years in prison - The Independent",
-            "description": "Guy Reffitt was a member of ‘Three Percenters’, a militia group named after American colonists who defeated the British during the Revolutionary War.",
-            "url": "https://www.independent.co.uk/news/world/americas/6-jan-capitol-riot-jury-trial-b2031416.html",
-            "urlToImage": "https://static.independent.co.uk/2022/02/28/17/newFile-7.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2022-03-09T03:39:47Z",
-            "content": "Prosecutors won a landmark ruling in the first case of the 6 January US Capitol riot to go before a jury trial.\r\nTexas man Guy Reffitt was found guilty on five felony charges including obstructing an… [+2626 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "The Associated Press",
-            "title": "Police: 1 Missouri officer, suspect die, 2 officers wounded - ABC News",
-            "description": "",
-            "url": "https://abcnews.go.com/US/wireStory/police-missouri-officers-suspect-wounded-shooting-83328154",
-            "urlToImage": "https://s.abcnews.com/images/US/220308_vod_onlocation_hpMain_16x9_992.jpg",
-            "publishedAt": "2022-03-09T03:00:00Z",
-            "content": "JOPLIN, Mo. -- One Joplin police officer and a suspect have died after a shooting Tuesday in the southwest Missouri city, police said.\r\nTwo other Joplin officers remain hospitalized, one in critical … [+1432 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "It's Possible Steelers Show Packers Some Love For Their Backup QB - Steelers Depot",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vc3RlZWxlcnNkZXBvdC5jb20vMjAyMi8wMy9pdHMtcG9zc2libGUtc3RlZWxlcnMtc2hvdy1wYWNrZXJzLXNvbWUtbG92ZS1mb3ItdGhlaXItYmFja3VwLXFiL9IBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-03-09T02:37:30Z",
+            "title": "Nick Wright on Packers-Rodgers deal, Russell Wilson-Broncos trade, Super Bowl XLIX | NFL | THE HERD - The Herd with Colin Cowherd",
+            "description": "First Thing’s First Host Nick Wright joins Colin Cowherd to discuss the latest news in the NFL. Nick and Colin begin with Aaron Rodgers confirming he’s retur...",
+            "url": "https://www.youtube.com/watch?v=8_MRy4c0HwQ",
+            "urlToImage": "https://i.ytimg.com/vi/8_MRy4c0HwQ/maxresdefault.jpg",
+            "publishedAt": "2022-03-09T20:35:51Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "Gas prices are spiking — don't expect sales of electric vehicles to follow - CNBC",
+            "description": "Supply chain problems, pent-up demand and record-low vehicle inventory levels mean many new cars and trucks, including EVs, are already spoken for before they reach dealers lots.",
+            "url": "https://www.cnbc.com/2022/03/09/gas-prices-are-spiking-dont-expect-sales-of-electric-vehicles-to-follow.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107026903-1646746457387-gettyimages-1382700193-mt_13901_5f3afe47-c815-453c-bc3b-beb7a7b4a329.jpeg?v=1646746501",
+            "publishedAt": "2022-03-09T20:29:04Z",
+            "content": "High gas prices are displayed at a Shell station on March 7, 2022 in Los Angeles, California.\r\nConsumers hoping to switch to an all-electric or more fuel-efficient vehicle, while Russia's invasion of… [+3616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Linda Qiu",
+            "title": "Republicans Wrongly Blame Biden for Rising Gas Prices - The New York Times",
+            "description": "They have pointed to the Biden administration’s policies on the Keystone XL pipeline and certain oil and gas leases, which have had little impact on prices.",
+            "url": "https://www.nytimes.com/2022/03/09/us/politics/fact-check-republicans-biden-gas.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/09/us/politics/09dc-factcheck-1/09dc-factcheck-1-facebookJumbo.jpg",
+            "publishedAt": "2022-03-09T20:26:59Z",
+            "content": "Moreover, the specific policies cited by Republican lawmakers as evidence of Mr. Bidens supposed war on American energy have had little impact on rising gas prices.\r\nThe Keystone XL pipeline, which w… [+1955 chars]"
         },
         {
             "source": {
@@ -255,12 +138,129 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Apple upgrades low-end iPhone SE with 5G, and high-end Mac Studio computer with faster chip - Reuters",
-            "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> on Tuesday added 5G connectivity to its low-cost iPhone SE and iPad Air and introduced a faster chip for a new desktop, a high point in Apple's move to power its devices…",
-            "url": "https://www.reuters.com/technology/apple-expected-upgrade-its-low-cost-iphone-se-product-event-2022-03-08/",
-            "urlToImage": "https://www.reuters.com/resizer/aI4KXkNUtIeejyKB07Y4HPv4dNo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BJJUFN5JRBI2RKELBTYOI4KUME.jpg",
-            "publishedAt": "2022-03-09T02:34:00Z",
-            "content": "NEW YORK, March 8 (Reuters) - Apple Inc (AAPL.O) on Tuesday added 5G connectivity to its low-cost iPhone SE and iPad Air and introduced a faster chip for a new desktop, a high point in Apple's move t… [+3707 chars]"
+            "title": "Biden orders government to study digital dollar, other cryptocurrency risks - Reuters",
+            "description": "U.S. President Joe Biden signed an executive order on Wednesday requiring the government to assess the risks and benefits of creating a central bank digital dollar, as well as other cryptocurrency issues, the White House said.",
+            "url": "https://www.reuters.com/business/finance/biden-orders-government-study-digital-dollar-other-cryptocurrency-risks-2022-03-09/",
+            "urlToImage": "https://www.reuters.com/resizer/nd92Q0ZK3kNzmTUcWElPh2G8lcc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/66C3YTFWWVKE5N6J5NQQVQKTTI.jpg",
+            "publishedAt": "2022-03-09T20:25:00Z",
+            "content": "WASHINGTON, March 9 (Reuters) - U.S. President Joe Biden signed an executive order on Wednesday requiring the government to assess the risks and benefits of creating a central bank digital dollar, as… [+4726 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Hunt, CNN",
+            "title": "Massive meteor crater discovered beneath Greenland's ice is much older than thought - CNN",
+            "description": "The age of the meteor impact crater, discovered seven years ago underneath kilometer-deep ice in Greenland, had long puzzled scientists.",
+            "url": "https://www.cnn.com/2022/03/09/world/crater-greenland-age-scn/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220309095101-04-crater-greenland-super-tease.jpeg",
+            "publishedAt": "2022-03-09T20:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Detroit Free Press"
+            },
+            "author": "Tresa Baldas and Frank Witsil, Detroit Free Press",
+            "title": "Defense: FBI knew Whitmer kidnap suspects were 'stoned' crazy talkers - Detroit Free Press",
+            "description": "Defense says FBI knew the alleged Gretchen Whitmer kidnap plotters were high most of the time, and set them up anyway.",
+            "url": "https://www.freep.com/story/news/local/michigan/2022/03/09/whitmer-kidnap-trial-defense-stoned-suspects/9439974002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/02/18/PDTF/10ccefcd-45b7-431e-aedd-c52ec40e11ed-whitmer_kidnapping_trial.jpg?auto=webp&crop=799,450,x0,y60&format=pjpg&width=1200",
+            "publishedAt": "2022-03-09T19:31:42Z",
+            "content": "The suspects charged with plotting to kidnap Gov. Gretchen Whitmer were stoners who got so high that they talked about attaching Whitmer to a kite and flying her over a lake, about barking in the woo… [+8130 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Mike Wells",
+            "title": "Washington Commanders trading for Indianapolis Colts QB Carson Wentz, sources say - ESPN",
+            "description": "The Colts are trading quarterback Carson Wentz to the Commanders for a package of picks, sources told ESPN.",
+            "url": "https://www.espn.com/nfl/story/_/id/33462068/washington-commanders-trading-indianapolis-colts-qb-carson-wentz-sources-say",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0215%2Fr974865_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-03-09T19:26:42Z",
+            "content": "INDIANAPOLIS -- The Colts are trading quarterback Carson Wentz to the Washington Commanders for a package of picks, sources told ESPN's Adam Schefter.\r\nThe Colts will receive the Commanders' third-ro… [+3428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Sami Fathi",
+            "title": "Apple Confirms Studio Display Will Work With PCs, But With Some Caveats - MacRumors",
+            "description": "Apple has confirmed to MacRumors that the brand new Studio Display will work when connected to PCs, but critical new features of the display will not...",
+            "url": "https://www.macrumors.com/2022/03/09/studio-display-with-pcs-with-caveats/",
+            "urlToImage": "https://images.macrumors.com/t/WKUKxcLvkGFadxfCZ0giJ5WADDo=/1600x/article-new/2022/03/studio-display.jpg",
+            "publishedAt": "2022-03-09T18:53:25Z",
+            "content": "Apple has confirmed to MacRumors that the brand new Studio Display will work when connected to PCs, but critical new features of the display will not carry over and the experience will be lacking com… [+923 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Raw video: Shackleton's 1915 shipwreck discovered off Antarctica - CBS News",
+            "description": "Scientists say they have found the sunken wreck of polar explorer Ernest Shackleton’s ship Endurance, 107 years after it was lost to the Antarctic ice. The F...",
+            "url": "https://www.youtube.com/watch?v=iarOaIdHRBM",
+            "urlToImage": "https://i.ytimg.com/vi/iarOaIdHRBM/maxresdefault.jpg",
+            "publishedAt": "2022-03-09T18:39:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alisha Ebrahimji, AnneClaire Stapleton and Anna-Maja Rappard, CNN",
+            "title": "Strangers are leaving strollers, car seats, winter coats and toys at the Polish border for Ukrainian refugees - CNN",
+            "description": "Hundreds of thousands of children are among two million refugees who have fled Ukraine looking for safety after Russia's invasion of its neighbor began two weeks ago.",
+            "url": "https://www.cnn.com/2022/03/09/world/ukrainian-refugee-aid-poland-border-trnd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220309082330-01-ukraninan-refugees-supplies-poland-trnd-super-tease.jpg",
+            "publishedAt": "2022-03-09T18:37:00Z",
+            "content": "Przemyl, Poland (CNN)Hundreds of thousands of children are among two million refugees who have fled Ukraine looking for safety after Russia's invasion of its neighbor began two weeks ago.\r\nWomen and … [+2108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": null,
+            "title": "Here’s why Apple’s M1 Ultra chip Mac is two pounds heavier than the M1 Max version - 9to5Mac",
+            "description": "Apple just unveiled the M1 Ultra chip. Selecting M1 Ultra for the Mac Studio adds an extra two pounds to the device. Apple just explained why.",
+            "url": "https://9to5mac.com/2022/03/09/heres-why-apples-m1-ultra-chip-mac-is-two-pounds-heavier-than-the-m1-max/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/03/Screen-Shot-2022-03-08-at-1.26.01-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-03-09T18:37:00Z",
+            "content": "Yesterday, Apple introduced its last chip of the M1 family with the M1 Ultra processor. For now, this chip will only be available for the newest Mac Studio a desktop in between the Mac mini and the M… [+1945 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Maya Yang",
+            "title": "Joe Biden is a fossil: 328m-year-old vampire squid named after president - The Guardian",
+            "description": "Scientists name ‘incredibly rare’ fossil in recognition of Biden’s ‘plans to address climate change and to fund scientific research’",
+            "url": "https://amp.theguardian.com/science/2022/mar/09/joe-biden-fossil-name-vampire-squid",
+            "urlToImage": null,
+            "publishedAt": "2022-03-09T17:44:00Z",
+            "content": "FossilsScientists name incredibly rare fossil in recognition of Bidens plans to address climate change and to fund scientific research\r\nA newly discovered fossilized vampire squid has been named afte… [+2458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Theo Wayt",
+            "title": "Amazon must face DOJ probe for 'misleading' Congress, House Judiciary members say - New York Post ",
+            "description": "A key group of bipartisan lawmakers say Amazon’s top brass may have misled them under oath during an antitrust probe — and are calling on the Department of Justice to open an investigation in…",
+            "url": "https://nypost.com/2022/03/09/house-judiciary-members-call-for-amazon-doj-probe/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/AMAZON_COM-USA_HOUSE.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-03-09T17:38:00Z",
+            "content": "A key group of bipartisan lawmakers say Amazon’s top brass may have misled them under oath during an antitrust probe and are calling on the Department of Justice to open an investigation into the com… [+3166 chars]"
         }
     ]
 }
