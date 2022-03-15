@@ -1,162 +1,45 @@
 {
     "status": "ok",
-    "totalResults": 38,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Bobby Caina Calvan",
-            "title": "Man sought in homeless killings in New York, Washington D.C. - The Associated Press - en Español",
-            "description": "NEW YORK (AP) — A search was underway Monday for a gunman who has been stalking homeless men sleeping on the streets of Washington, D.C., and New York City, fatally shooting two people and wounding three more in less than two weeks.",
-            "url": "https://apnews.com/article/new-york-washington-homeless-killings-9f535dca333a8ea7ca59ee0a876e14cc",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/7b2b02cf48b94f8db0afe153bd553d47/2496.jpeg",
-            "publishedAt": "2022-03-14T22:07:30Z",
-            "content": "NEW YORK (AP) A search was underway Monday for a gunman who has been stalking homeless men sleeping on the streets of Washington, D.C., and New York City, fatally shooting two people and wounding thr… [+5523 chars]"
+            "author": "Amir Vera and Chris Boyette, CNN",
+            "title": "A suspect has been arrested in connection with the shootings of 5 homeless men in New York City and DC - CNN",
+            "description": "The shootings took place between March 3 and March 12 and left two men dead.",
+            "url": "https://www.cnn.com/2022/03/15/us/new-york-dc-homeless-shootings-explainer/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220313233016-homeless-shooter-dc-police-release-03132022-super-tease.jpg",
+            "publishedAt": "2022-03-15T10:32:12Z",
+            "content": "(CNN)Police in Washington, DC, have arrested the suspect wanted in connection with at least five separate shootings of homeless men in New York City and Washington, they said Tuesday.\r\n\"Early this AM… [+4190 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung and CNN's Beijing bureau",
+            "title": "In China, 37 million people are in Covid lockdown. Here's what we know - CNN",
+            "description": "Tens of millions of people are living under lockdown in China, as the country battles its worst Covid-19 outbreak since the early days of the pandemic.",
+            "url": "https://www.cnn.com/2022/03/15/china/china-covid-outbreak-explainer-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220315024208-china-lockdown-03142022-restricted-dupe-super-tease.jpg",
+            "publishedAt": "2022-03-15T10:04:08Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Sarah Min",
-            "title": "Stock futures rise slightly as Wall Street awaits Fed rate hike, Ukraine developments - CNBC",
-            "description": "Investors continue to monitor developments in the Russia-Ukraine conflict and get ready for a key Federal Reserve policy decision.",
-            "url": "https://www.cnbc.com/2022/03/14/stock-futures-rise-slightly-as-wall-street-awaits-fed-rate-hike-ukraine-developments.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107030150-Traders-TF-Photo-20220314-ACJ-019-PRESS-2.jpg?v=1647284400",
-            "publishedAt": "2022-03-14T22:05:33Z",
-            "content": "U.S. stock futures rose slightly on Monday night as investors continue to monitor developments in the Russia-Ukraine conflict and get ready for a key Federal Reserve policy decision.\r\nDow Jones Indus… [+1766 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Madeline Holcombe, CNN",
-            "title": "Alternative sweeteners in your drinks can help with weight and diabetes risk, study says - CNN",
-            "description": "Most health care experts want us to cut down on sugary drinks, but between tea, coffee and soda. Water is most recommended by health care experts, but a new study says people looking to manage cardiometabolic risk and weight may be able to add low- or no-calo…",
-            "url": "https://www.cnn.com/2022/03/14/health/sweetened-beverages-no-sugar-study-wellness/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220314142106-soda-in-glass-stock-super-tease.jpg",
-            "publishedAt": "2022-03-14T21:39:00Z",
-            "content": "Sign up for CNN's Eat, But Better: Mediterranean Style. Our eight-part guide shows you a delicious expert-backed eating lifestyle that will boost your health for life.\r\n (CNN)In our soda, tea, coffee… [+3196 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Danny Hakim, Jo Becker",
-            "title": "Ginni Thomas Says She Attended Jan. 6 Rally - The New York Times",
-            "description": "The disclosure by the wife of Justice Clarence Thomas is likely to raise new questions about her support of efforts to overturn the 2020 election results.",
-            "url": "https://www.nytimes.com/2022/03/14/us/politics/ginni-thomas-jan-6-rally.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/03/14/multimedia/14ginni-1/merlin_179163540_cbc5b618-6a9c-4c54-a00c-47dc624072a0-facebookJumbo.jpg",
-            "publishedAt": "2022-03-14T21:27:40Z",
-            "content": "Ms. Thomas sits on the nine-member board of CNP Action, a conservative group that helped advance the Stop the Steal movement that tried to keep Mr. Trump in office. The group instructed members to pr… [+1585 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": null,
-            "title": "NCAA Tournament 2022 bracket: Simulation predicts surprising upsets, March Madness picks, top sleepers - CBS Sports",
-            "description": "SportsLine's model has nailed 17 first-round upsets by double-digit seeds and revealed its NCAA bracket 2022",
-            "url": "https://www.cbssports.com/college-basketball/news/ncaa-tournament-2022-bracket-simulation-predicts-surprising-upsets-march-madness-picks-top-sleepers/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/03/11/367dc564-0dff-4b35-8ab3-200afab2dc83/thumbnail/1200x675/d7cac7f47409ff0ed160a8077e3ac76f/notae-arkansas-usatsi.jpg",
-            "publishedAt": "2022-03-14T21:25:11Z",
-            "content": "Gone are the days in which the First Four games of March Madness are solely mid-majors fighting for a chance to be among the field of 64. The 2022 NCAA Tournament bracket will see a pair of major con… [+4623 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Katie Hunt, CNN",
-            "title": "Holes the size of city blocks are forming in the Arctic seafloor - CNN",
-            "description": "Marine scientists have discovered deep sinkholes -- including one larger than a city block of six-story buildings -- and ice-filled hills that have formed \"extraordinarily\" rapidly on a remote part of the Arctic seafloor.",
-            "url": "https://www.cnn.com/2022/03/14/world/arctic-seafloor-holes-permafrost-scn/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220314141204-01-arctic-seafloor-holes-permafrost-scn-super-tease.jpg",
-            "publishedAt": "2022-03-14T21:22:00Z",
-            "content": "(CNN)Marine scientists have discovered deep sinkholes -- one larger than a city block of six-story buildings -- and ice-filled hills that have formed \"extraordinarily\" rapidly on a remote part of the… [+6374 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Erica Tempesta",
-            "title": "Country music legend Dolly Parton BOWS OUT of Rock & Roll Hall of Fame nomination - Daily Mail",
-            "description": "Parton, 76, was announced as one of this year's 17 nominees in February.",
-            "url": "https://www.dailymail.co.uk/femail/article-10612233/Country-music-legend-Dolly-Parton-BOWS-Rock-Roll-Hall-Fame-nomination.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/03/14/20/55350579-0-image-a-46_1647289884192.jpg",
-            "publishedAt": "2022-03-14T21:17:37Z",
-            "content": "Dolly Parton has withdrawn her nomination for induction into the Rock &amp; Roll Hall of Fame, saying she doesn't feel she has 'earned that right.' \r\nThe 76-year-old country legend was announced as o… [+3726 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Videocardz.com"
-            },
-            "author": null,
-            "title": "Microsoft DirectStorage API is now available on PC - VideoCardz.com",
-            "description": "DirectStorage API Now Available on PC Starting today, Windows games can ship with DirectStorage. This public SDK release begins a new era of fast load times and detailed worlds in PC games by allowing developers to more fully utilize the speed of the latest s…",
-            "url": "https://videocardz.com/press-release/microsoft-directstorage-api-is-now-available-on-pc",
-            "urlToImage": "https://cdn.videocardz.com/1/2022/03/directstorage.jpg",
-            "publishedAt": "2022-03-14T21:00:00Z",
-            "content": "« press release »\r\nStarting today, Windows games can ship with DirectStorage. This public SDK release begins a new era of fast load times and detailed worlds in PC games by allowing developers to mor… [+2087 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Wisconsin flock of 2.75 mln chickens to be culled as bird flu spreads in U.S. - Reuters.com",
-            "description": "A commercial flock of 2.75 million egg-laying chickens in Wisconsin will be culled to prevent the spread of a highly lethal form of avian flu after birds on the farm tested positive for the disease, state officials said on Monday.",
-            "url": "https://www.reuters.com/world/us/us-detects-highly-lethal-bird-flu-wisconsin-egg-laying-chickens-2022-03-14/",
-            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79",
-            "publishedAt": "2022-03-14T20:58:00Z",
-            "content": "CHICAGO, March 14 (Reuters) - A commercial flock of 2.75 million egg-laying chickens in Wisconsin will be culled to prevent the spread of a highly lethal form of avian flu after birds on the farm tes… [+957 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Eleanor Watson, David Martin, Weijia Jiang, Olivia Gazis",
-            "title": "Russia asks China for military help in war with Ukraine, U.S. officials say - CBS News",
-            "description": "The request included military aid and equipment, according to the officials.",
-            "url": "https://www.cbsnews.com/news/russia-asks-china-for-military-help-in-war-with-ukraine-u-s-officials-say/",
-            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/02/04/f6461ba8-a1b5-4e5e-b34a-035f3a759f8f/thumbnail/1200x630/f233ac8b1672274bf3efcc59bcbff268/putin-xi-ap22035309764994.jpg",
-            "publishedAt": "2022-03-14T20:57:00Z",
-            "content": "Russia has asked China for support in its war against Ukraine, according to two U.S. officials. The request included military aid and equipment, but it's not clear what specifically Moscow has reques… [+4149 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Oliver Darcy, CNN Business",
-            "title": "Fox News correspondent hospitalized after being injured in Ukraine - CNN",
-            "description": "Fox News correspondent Benjamin Hall, who had been deployed in recent weeks to cover the war in Ukraine, has been hospitalized after being injured while reporting near Kyiv, the network said on Monday.",
-            "url": "https://www.cnn.com/2022/03/14/media/fox-correspondent-ben-hall-ukraine/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220314160217-ben-hall-fox-news-correspondent-super-tease.jpg",
-            "publishedAt": "2022-03-14T20:40:05Z",
-            "content": "New York (CNN Business)Fox News correspondent Benjamin Hall, who had been deployed in recent weeks to cover the war in Ukraine, has been hospitalized after being injured while reporting near Kyiv, th… [+2772 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Benzinga"
-            },
-            "author": null,
-            "title": "Dogecoin Bulls And Bears Enter Fierce Battle After Elon Musk Hodls - Benzinga",
-            "description": "Dogecoin (CRYPTO: DOGE) spiked almost 10% higher just after m...",
-            "url": "https://www.benzinga.com/markets/cryptocurrency/22/03/26129343/dogecoin-bulls-and-bears-enter-fierce-battle-after-elon-musk-hodls",
-            "urlToImage": "https://cdn2.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/dogecoin-6363104_1920..image_by_knfind_from_pixabay__3.jpg?width=720",
-            "publishedAt": "2022-03-14T20:25:44Z",
-            "content": "Dogecoin (CRYPTO: DOGE) spiked almost 10% higher just after midnight on Sunday after Tesla, Inc (NASDAQ:TSLA) CEO Elon Musk said on Twitter Inc (NYSE:TWTR) he had no plans to sell his stake in the Sh… [+3259 chars]"
+            "author": "Sam Meredith",
+            "title": "China says it wants to steer clear of U.S. sanctions over Russia's invasion of Ukraine - CNBC",
+            "description": "Since Russia's attack on Ukraine, China has refused to call it an invasion and said it plans to maintain normal trade with both countries.",
+            "url": "https://www.cnbc.com/2022/03/15/ukraine-crisis-china-wants-to-avoid-us-sanctions-over-russias-war.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107030420-1647336222490-gettyimages-1238999006-TWO_SESSIONS_CHINA-BEIJING-NPC-PRESS_CONFERENCE-WANG_YI_CN.jpeg?v=1647336338",
+            "publishedAt": "2022-03-15T10:02:29Z",
+            "content": "China's Foreign Minister Wang Yi says Beijing wants to avoid being impacted by U.S. sanctions over Russia's war with Ukraine.\r\n\"China is not a party to the crisis, nor does it want the sanctions to a… [+3024 chars]"
         },
         {
             "source": {
@@ -164,25 +47,25 @@
                 "name": "New York Post"
             },
             "author": null,
-            "title": "NFL free agency 2022 tracker: Mitch Trubisky, Haason Reddick find new homes - New York Post ",
-            "description": "Follow the New York Post’s NFL free agency tracker to get the latest updates on deals from around the league as the legal tampering period begins Monday at noon.",
-            "url": "https://nypost.com/2022/03/14/nfl-free-agency-2022-tracker-live-updates-of-player-signings/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/mitch-trubisky-nfl-free-agency-steelers.jpg?quality=90&strip=all&w=1024",
-            "publishedAt": "2022-03-14T20:25:00Z",
-            "content": "Ladies and gentlemen, start your signings: NFL free agency is here.\r\nWith the league’s calendar officially flipping to 2022 beginning on Wednesday, Mar. 16, and there will be a bevy of big-name playe… [+881 chars]"
+            "title": "Russia-Ukraine latest: Two dead after Russia targets Kyiv residential buildings - New York Post ",
+            "description": "Follow the latest news on the war in Ukraine with the New York Post’s live coverage as Russia’s offensive continues.",
+            "url": "https://nypost.com/2022/03/14/russia-ukraine-news-live-coverage-from-the-battlefield/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/district-fire-1.jpeg?quality=90&strip=all&w=960",
+            "publishedAt": "2022-03-15T08:06:00Z",
+            "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "MLB.com"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Mark Bowman",
-            "title": "Braves acquire Matt Olson from A's for 4 prospects - MLB.com",
-            "description": "NORTH PORT, Fla. -- Matt Olson is returning home to replace Freddie Freeman as the Braves’ first baseman.\nAtlanta acquired Olson from the A’s in exchange for two highly regarded prospects in catcher Shea Langeliers and outfielder Cristian Pache, 2021 first-ro…",
-            "url": "https://www.mlb.com/news/matt-olson-traded-to-braves",
-            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/inuxzgaenuqdpscbqvpl.jpg",
-            "publishedAt": "2022-03-14T20:15:00Z",
-            "content": "NORTH PORT, Fla. -- Matt Olson is returning home to replace Freddie Freeman as the Braves first baseman. \r\nAtlanta acquired Olson from the As in exchange for two highly regarded prospects in catcher … [+1609 chars]"
+            "author": "Rhea Mogul and Swati Gupta, CNN",
+            "title": "Indian court upholds hijab ban in Karnataka state that prompted weeks of religious clashes - CNN",
+            "description": "An Indian high court has upheld a ban on the wearing of hijabs or headscarves in educational institutes in Karnataka state, weeks after religious clashes erupted over the right to wear the Islamic garment in schools.",
+            "url": "https://www.cnn.com/2022/03/15/india/india-karnataka-hijab-ruling-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220315001418-hijab-protest-bengaluru-02192022-restricted-super-tease.jpg",
+            "publishedAt": "2022-03-15T08:01:00Z",
+            "content": null
         },
         {
             "source": {
@@ -190,77 +73,194 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "WikiLeaks' Assange denied permission to appeal extradition decision at UK Supreme Court - Reuters.com",
-            "description": "WikiLeaks founder Julian Assange has been denied permission to appeal at Britain's Supreme Court against a decision to extradite him to the United States, the court said on Monday.",
-            "url": "https://www.reuters.com/world/wikileaks-assange-denied-permission-appeal-extradite-decision-supreme-court-2022-03-14/",
-            "urlToImage": "https://www.reuters.com/resizer/QUQLPzTMKk0LzlwjWKorFrwQbro=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DK53ZBGRVJMQJN4R5CX4CUYIZQ.jpg",
-            "publishedAt": "2022-03-14T19:59:00Z",
-            "content": "LONDON, March 14 (Reuters) - WikiLeaks founder Julian Assange has been denied permission to appeal at Britain's Supreme Court against a decision to extradite him to the United States, the court said … [+2114 chars]"
+            "title": "Asia stocks extend losses as Ukraine war, China's COVID surge hit sentiment - Reuters.com",
+            "description": "Asian stocks were in the red on Tuesday as surging COVID-19 cases in China hit the confidence of investors who are already worried about the Ukraine war and the first U.S. interest rate rise in three years that could come this week.",
+            "url": "https://www.reuters.com/business/global-markets-wrapup-1-2022-03-15/",
+            "urlToImage": "https://www.reuters.com/resizer/qplLbzsslkmiXzkZ4lRbPHx0XRY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AYV4XOG5GNLFVELPAIHFHW4BKI.jpg",
+            "publishedAt": "2022-03-15T06:55:00Z",
+            "content": "SYDNEY, March 15 (Reuters) - Asian stocks were in the red on Tuesday as surging COVID-19 cases in China hit the confidence of investors who are already worried about the Ukraine war and the first U.S… [+3759 chars]"
         },
         {
             "source": {
-                "id": "buzzfeed",
-                "name": "Buzzfeed"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Natalie Oganesyan",
-            "title": "Kim Kardashian Asked Kanye West To \"Please Stop With This Narrative\" That He Isn't Allowed To See Their Children - BuzzFeed",
-            "description": "\"You were just here this morning.\"",
-            "url": "https://www.buzzfeed.com/natalieoganesyan/kim-kardashian-kanye-west-narrative-north-west-seeing-kids",
-            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/14/19/enhanced/935d3f7a6aed/original-7574-1647285230-20.jpg?crop=1581:830;0,0%26downsize=1250:*",
-            "publishedAt": "2022-03-14T19:49:49Z",
-            "content": "Kim Kardashian / Via instagram.comThis led some to call out the double standard of Ye's \"obsession\" over his daughters' appearances compared to his sons', saying that it's emblematic of his views tow… [+183 chars]"
+            "author": "Ryan Gaydos",
+            "title": "March Madness 2022: Sports psychologist reveals why fans get behind the underdog - Fox News",
+            "description": "Each year the NCAA Men’s Basketball Tournament features an underdog team that upsets a powerhouse school and gains national attention.",
+            "url": "https://www.foxnews.com/sports/march-madness-2022-sport-psychologist-underdog",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/03/Loyola-Chicago.jpg",
+            "publishedAt": "2022-03-15T06:07:34Z",
+            "content": "Each year the NCAA Mens Basketball Tournament features an underdog team that upsets a powerhouse school and gains national attention.\r\nLoyola Chicago has been one of those underdog schools in recent … [+4108 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "John Bacon, Tom Vanden Brook, Terry Collins, Christal Hayes and Dylan Wells, USA TODAY",
-            "title": "Russia assault stalls, US officials says; Zelenskyy to address Congress on Wednesday: Live Ukraine updates - USA TODAY",
-            "description": "Almost all of Russia’s assaults on Ukrainian cities remain stalled, and there was little gain over the weekend, a  senior U.S. official said.",
-            "url": "https://www.usatoday.com/story/news/politics/2022/03/14/ukraine-russia-invasion-live-updates/7031496001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/14/USAT/067478c3-e0ce-465c-91cf-b4585fd94e95-AP_APTOPIX_Russia_Ukraine_War.jpg?auto=webp&crop=5999,3374,x0,y626&format=pjpg&width=1200",
-            "publishedAt": "2022-03-14T19:42:59Z",
-            "content": "Almost all of Russia’s assaults on Ukrainian cities remain stalled, and there have been little or no advances made over the weekend, a senior U.S. Defense Department source said Monday.\r\nUkrainian re… [+13057 chars]"
+            "author": "Evan Gershkovich",
+            "title": "Woman Runs Onto Russian TV News Set Brandishing Antiwar Poster - The Wall Street Journal",
+            "description": "Russian state-run news agency says she was detained by police",
+            "url": "https://www.wsj.com/articles/woman-runs-onto-russian-tv-news-set-brandishing-antiwar-poster-11647292214",
+            "urlToImage": "https://images.wsj.net/im-504668/social",
+            "publishedAt": "2022-03-15T05:56:00Z",
+            "content": "A woman ran onto the set of an evening news program on Russian state televisions flagship Channel One on Monday holding a poster reading: No war. Stop the war. Dont believe propaganda. They lie to yo… [+385 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Sandee LaMotte, CNN",
-            "title": "Sleeping with even a small amount of light may harm your health, study says - CNN",
-            "description": "Sleeping with the lights on, even if they were dim, was associated with poor heart health and an increased risk for diabetes, a new study found.",
-            "url": "https://www.cnn.com/2022/03/14/health/sleeping-lights-danger-wellness/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210813151854-deep-sleep-stock-super-tease.jpg",
-            "publishedAt": "2022-03-14T19:37:51Z",
-            "content": "Sleep Awareness Week is March 13-19, and CNN's Life, But Better Sleep section will have daily tips and facts you need to get a better night's slumber. Join us!\r\n (CNN)Sleeping for only one night with… [+4626 chars]"
+            "author": "Liam Reilly, CNN",
+            "title": "Asian woman stomped on and punched more than 125 times after being called racial slur, police say - CNN",
+            "description": "A New York woman was punched more than 125 times in the head and face and stomped on seven times by a man who had allegedly called her an \"Asian b*tch,\" the Yonkers Police Department said in a news release Monday.",
+            "url": "https://www.cnn.com/2022/03/15/us/yonkers-alleged-hate-crime-attack/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220315001730-yonkers-asian-hate-crime-cctv-super-tease.jpg",
+            "publishedAt": "2022-03-15T05:27:00Z",
+            "content": "(CNN)A New York woman was punched more than 125 times in the head and face and stomped on seven times by a man who had allegedly called her an \"Asian b*tch,\" the Yonkers Police Department said in a n… [+2858 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "New York Post"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Homes for Ukraine refugee scheme launches in UK - BBC.com",
-            "description": "People who have a spare room to offer to someone in need can now register their interest online.",
-            "url": "https://www.bbc.com/news/uk-60741942",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1F35/production/_123698970_gettyrefugees.jpg",
-            "publishedAt": "2022-03-14T19:32:31Z",
-            "content": "By Lauren TurnerBBC News\r\nImage source, Getty Images\r\nThe government has launched its Homes for Ukraine site for those wanting to register to host a refugee, with 25,000 signing up in the first three… [+5423 chars]"
+            "author": "Kenneth Garger",
+            "title": "Russia passes law to take control of foreign airplanes left in country - New York Post ",
+            "description": "The bill, signed by Russian President Vladimir Putin, is intended to support domestic flights in Russia and “to ensure the uninterrupted functioning of activities in the field of civil aviati…",
+            "url": "https://nypost.com/2022/03/15/putin-signs-bill-to-allow-russia-to-keep-foreign-airplanes-left-in-country/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/russia-airlines-index.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-03-15T05:11:00Z",
+            "content": "Russia on Monday passed a law allowing the countrys airlines to re-register planes that had been leased from abroad in an attempt to bypass Western sanctions.\r\nThe bill, signed by Russian President V… [+1020 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Robert Costa",
+            "title": "In private speech, Romney warns of 'extraordinary challenge' to preserve American democracy - CBS News",
+            "description": "His stark message came at a fundraiser for Congresswoman Liz Cheney Monday night.",
+            "url": "https://www.cbsnews.com/news/mitt-romney-american-democracy-extraordinary-challenge/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/03/15/028f29f3-a7ac-433e-943b-c351b0820587/thumbnail/1200x630g2/ae55fc8f9f74b63a09c54fbcb701b86a/gettyimages-1237662743.jpg",
+            "publishedAt": "2022-03-15T04:50:01Z",
+            "content": "McLean, Virginia — Senator Mitt Romney, of Utah, offered more than 200 Republican donors a stark message on the fragility of American democracy during private remarks on Monday night at a fundraiser … [+4147 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "ESPN"
             },
-            "author": "Lorie Konish",
-            "title": "Tom Brady cut his retirement short. If other retirees take his cue, it may reduce the labor shortage - CNBC",
-            "description": "Tom Brady retired for 40 days before deciding to give it a go for another season playing for the Tampa Bay Buccaneers. Other retirees could take his lead.",
-            "url": "https://www.cnbc.com/2022/03/14/other-retirees-could-take-tom-bradys-cue-and-return-to-the-workforce.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107009439-1643727930896-gettyimages-1339388767-ja4_1316_20210910120616859.jpeg?v=1647284711",
-            "publishedAt": "2022-03-14T19:18:51Z",
-            "content": "Tom Brady of the Tampa Bay Buccaneers waves to fans at Raymond James Stadium in Tampa, Florida, on Sept. 9, 2021.\r\nTom Brady sat on the sidelines for only 40 days before deciding to end his retiremen… [+3076 chars]"
+            "author": "Tim Bontemps",
+            "title": "Bones Hyland, with firefighters who saved his life in stands, keys Denver Nuggets' win - ESPN",
+            "description": "Bones Hyland, playing in front of several hundred of his friends and family, hit four fourth quarters 3s to power the Nuggets' win over the Sixers on Monday night.",
+            "url": "https://www.espn.com/nba/story/_/id/33506680/denver-nuggets-rookie-bones-hyland-puts-show-firefighters-saved-life-win-76ers",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0315%2Fr986376_1024x576_16%2D9.jpg",
+            "publishedAt": "2022-03-15T04:46:04Z",
+            "content": "PHILADELPHIA -- Almost four years ago today, Bones Hyland was told his basketball career might have ended before it started after he was forced to leap out the second-story window of his Wilmington, … [+5214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Great moments from Scott Hall's Hall of Fame career: WWE Playlist - WWE",
+            "description": "Get ready to root for the Bad Guy one more time as WWE looks back at some great moments from Scott Hall.Stream WWE on Peacock https://pck.tv/3l4d8TP in the U...",
+            "url": "https://www.youtube.com/watch?v=eWgsQ6TDfNc",
+            "urlToImage": "https://i.ytimg.com/vi/eWgsQ6TDfNc/hqdefault.jpg",
+            "publishedAt": "2022-03-15T04:33:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Great Oxygenation Event: MIT Scientists’ New Hypothesis for One of the Grand Mysteries of Science - SciTechDaily",
+            "description": "Microbes and Minerals May Have Set Off Earth’s Oxygenation Scientists propose a new mechanism by which oxygen may have first built up in the atmosphere. For the first 2 billion years of Earth’s history, there was barely any oxygen in the air. While some micro…",
+            "url": "https://scitechdaily.com/great-oxygenation-event-mit-scientists-new-hypothesis-for-one-of-the-grand-mysteries-of-science/",
+            "urlToImage": "https://scitechdaily.com/images/Paleoproterozoic-Organisms.jpg",
+            "publishedAt": "2022-03-15T03:27:44Z",
+            "content": "Around 2.3 billion years ago, oxygen began building up in the atmosphere, eventually reaching the life-sustaining levels we breathe today. A new hypothesis proposed by MIT scientists suggests a mecha… [+6178 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China Reports Over 5,000 Covid Cases as More Cities Locked Down - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=bfd822d8-a44e-11ec-800b-4a484d69564a&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMy0xNS9jaGluYS1yZXBvcnRzLW92ZXItNS0wMDAtY292aWQtY2FzZXMtYXMtbW9yZS1jaXRpZXMtbG9ja2VkLWRvd24=",
+            "urlToImage": null,
+            "publishedAt": "2022-03-15T03:22:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "NFC Notes: Tom Brady, Buccaneers, Falcons - NFLTradeRumors.co - NFL Trade Rumors",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiQWh0dHBzOi8vbmZsdHJhZGVydW1vcnMuY28vbmZjLW5vdGVzLXRvbS1icmFkeS1idWNjYW5lZXJzLWZhbGNvbnMv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-03-15T02:10:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Evan Real",
+            "title": "Kanye West: Kim Kardashian is changing my kids' schedules 'last minute' - Page Six",
+            "description": "“My kids were not allowed to go to Sunday Service yesterday and there’s multiple times where the schedules were changed last minute,” the rapper wrote on Instagram.",
+            "url": "https://pagesix.com/2022/03/14/kanye-west-kim-k-is-changing-my-kids-schedules-last-minute/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/03/kanye-kids-index.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2022-03-15T02:01:00Z",
+            "content": "Kanye West claims that his kids schedules are being changed last minute amid his feud with ex-wife Kim Kardashian. \r\nMy kids were not allowed to go to Sunday Service yesterday and theres multiple tim… [+3172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Mindy Weisberger",
+            "title": "Stacked 'Mega Moon rocket' is ready to roll, NASA says - Livescience.com",
+            "description": "Lunar mission Artemis I is about to roll closer to getting a launch date.",
+            "url": "https://www.livescience.com/artemis-rocket-ready-for-rollout",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/cJuzyiUbEUNbNSviy3Qwyn-1200-80.jpg",
+            "publishedAt": "2022-03-15T01:26:13Z",
+            "content": "NASA's upcoming lunar mission Artemis I is about to roll a little closer to getting an official launch date. The stacked spacecraft and rocket have been cleared to trundle out to the launch pad at Ke… [+3756 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ca.gov"
+            },
+            "author": null,
+            "title": "Governor Newsom Signs Legislation to Ensure Access for Incoming UC Berkeley Students | California Governor - Office of Governor Gavin Newsom",
+            "description": "SACRAMENTO – Governor Gavin Newsom today signed legislation to ensure students in the incoming class at UC Berkeley can enroll on campus this fall. A recent court order could have forced UC Berkeley…",
+            "url": "https://www.gov.ca.gov/2022/03/14/governor-newsom-signs-legislation-to-ensure-access-for-incoming-uc-berkeley-students/",
+            "urlToImage": "https://www.gov.ca.gov/wp-content/uploads/2018/11/background.jpg",
+            "publishedAt": "2022-03-15T01:10:54Z",
+            "content": "SACRAMENTO Governor Gavin Newsom today signed legislation to ensure students in the incoming class at UC Berkeley can enroll on campus this fall. A recent court order could have forced UC Berkeley to… [+3053 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Victoria Albert",
+            "title": "Fox News correspondent Benjamin Hall injured while reporting in Ukraine - CBS News",
+            "description": "It's not yet clear how he was injured or how severe his injuries are.",
+            "url": "https://www.cbsnews.com/news/benjamin-hall-fox-news-correspondent-injured-while-newsgathering-in-ukraine/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/03/14/1932208a-6f1b-480e-9abc-e06b41cc5c8e/thumbnail/1200x630/c01381cb6a1577252d744a256b5d65c7/screen-shot-2022-03-14-at-2-55-07-pm.png",
+            "publishedAt": "2022-03-15T00:59:00Z",
+            "content": "Fox News correspondent Benjamin Hall was injured while reporting near Ukraine's capital, the network said Monday. It's not yet clear how he was injured or how severe his injuries are, though he has b… [+2092 chars]"
         }
     ]
 }
