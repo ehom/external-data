@@ -1,32 +1,175 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Isaac Stanley-Becker, David L. Stern",
-            "title": "Survivor of four Nazi concentration camps is killed in Ukraine, foundation says - The Washington Post",
-            "description": "Boris Romanchenko, 96, was killed last week when a missile struck his apartment building in Kharkiv, according to the Buchenwald and Mittelbau-Dora Memorials Foundation.",
-            "url": "https://www.washingtonpost.com/world/2022/03/21/concentration-camp-survivor-killed-ukraine/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CHFWBFJGEI6ZCUOTRXJ7R5A3Y.jpg&w=1440",
-            "publishedAt": "2022-03-21T21:41:00Z",
-            "content": "It is with horror that we report the violent death of Boris Romantschenko in the war in Ukraine, read a statement on the website of the Buchenwald and Mittelbau-Dora Memorials Foundation. The foundat… [+2143 chars]"
+            "author": "Stephanie Halasz, CNN",
+            "title": "Jailed Kremlin critic Alexey Navalny found guilty of fraud, state media reports - CNN",
+            "description": "Russian opposition leader and jailed Kremlin critic Alexey Navalny was found guilty of fraud Tuesday, according to Russian state-owned news agency Tass.",
+            "url": "https://www.cnn.com/2022/03/22/europe/alexey-navalny-fraud-conviction-russia-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220322040258-navalny-file-02292020-super-tease.jpg",
+            "publishedAt": "2022-03-22T09:44:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sumathi Bala",
+            "title": "China crash is 'unprecedented' given Boeing 737's stellar safety record, says aviation analyst - CNBC",
+            "description": "\"We don't see anything like what we have seen in China over the last 24 hours,\" Alex Macheras, an independent aviation analyst, told CNBC.",
+            "url": "https://www.cnbc.com/2022/03/22/-china-plane-crash-unprecedented-given-good-safety-record-analyst.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107034461-1647939465528-gettyimages-1239409289-AFP_326M9YZ.jpeg?v=1647939572&w=1920&h=1080",
+            "publishedAt": "2022-03-22T09:00:06Z",
+            "content": "For an aircraft like China Eastern's Boeing 737-800 to crash in midflight is \"simply unprecedented,\" said one aviation analyst who cited the plane's excellent safety record.\r\n\"Air travel is the safes… [+3447 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Wendy Williams Heads to Miami After Declaring She's Ready to Do Talk Show - TMZ",
+            "description": "Wendy Williams flies to Miami in the midst of her television show being taken away.",
+            "url": "https://www.tmz.com/2022/03/22/wendy-williams-flies-miami-talk-show-canceled-sherri-shepherd/",
+            "urlToImage": "https://imagez.tmz.com/image/a9/16by9/2022/03/21/a91bb47d872f4b2baa0838a9143436b8_xl.png",
+            "publishedAt": "2022-03-22T08:50:00Z",
+            "content": "Wendy Williams is back in South Florida, hopping on a commercial flight in the NYC area hours after insisting she'll be ready to do her show again ... once she deals with some \"private things.\"\r\nWe g… [+1574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Associated Press",
+            "title": "US stocks whipsawed overnight after Fed Chair Powell's remarks - Fox Business",
+            "description": "U.S. stocks were whipsawing between negative and positive territory overnight after investors sold stocks and government bonds after Federal Reserve Chairman Jerome Powell reiterated the central bank's commitment to controlling inflation through a rapid serie…",
+            "url": "https://www.foxbusiness.com/markets/us-stocks-whipsawed-overnight-after-feds-powells-remarks",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/03/0/0/2stocks-3-22-22.jpg?ve=1&tl=1",
+            "publishedAt": "2022-03-22T08:34:59Z",
+            "content": "U.S. stocks were whipsawing between negative and positive territory overnight after investors sold stocks and government bonds after Federal Reserve Chairman Jerome Powell reiterated the central bank… [+5375 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Rebecca English, Jessica Green, Kaya Terry",
+            "title": "Duchess of Cambridge swaps khaki jungle gear for Vampire's Wife dress on Belize trip - Daily Mail",
+            "description": "Kate, 40, dressed in the  £2,500 pink gown by the British designer for an evening reception in celebration of Her Majesty The Queen's Platinum Jubilee.",
+            "url": "https://www.dailymail.co.uk/femail/article-10637327/Casual-Kate-Middleton-sports-70-khaki-trousers-visit-Mayan-ruins-Belize-jungle.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/03/22/02/55637269-0-image-a-6_1647915783900.jpg",
+            "publishedAt": "2022-03-22T08:21:32Z",
+            "content": "The Duchess of Cambridge swapped her khaki jungle outfit for a floor-length shimmering gown by royal favourite designer The Vampire's Wife on the third day of her Belize trip with her husband Prince … [+9326 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Alexa Philippou",
+            "title": "UConn women win physical matchup with UCF to lock up spot in record 28th consecutive Sweet 16 - ESPN",
+            "description": "UConn's Geno Auriemma thought he'd seen it all this season -- until Monday's slugfest against UCF with a spot in a record 28th consecutive Sweet 16 on the line. \"This was a rather new experience for me,\" the coach said.",
+            "url": "https://www.espn.com/womens-college-basketball/story/_/id/33569807/uconn-women-win-physical-matchup-ucf-lock-spot-record-28th-consecutive-sweet-16",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0322%2Fr989850_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-03-22T07:19:31Z",
+            "content": "STORRS, Conn. -- UConn women's basketball coach Geno Auriemma said he thought he'd seen it all this season, with his team riddled with injuries most of the campaign and dropping the highest number of… [+5764 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Celina Tebor",
+            "title": "Zelenskyy ready to negotiate directly with Putin; Russia increases military flights, officials say: Live Ukraine updates - USA TODAY",
+            "description": "Ukrainian President Volodymyr Zelenskyy said he is prepared to negotiate a deal with Russian President Vladimir Putin. Wednesday's latest updates.",
+            "url": "https://www.usatoday.com/story/news/politics/2022/03/22/ukraine-russia-invasion-live-updates/7123227001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/22/USAT/0466fbf4-d0d8-48bf-9f11-5f27bdd83015-AP_Russia_Ukraine_War_Day_In_Photos_1.jpg?crop=6000,3375,x0,y305&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2022-03-22T07:08:19Z",
+            "content": "Ukrainian President Volodymyr Zelenskyy said late Monday he is prepared to negotiate a deal directly with Russian President Vladimir Putin to end the war in Ukraine.\r\nIn an interview with Ukrainian t… [+4747 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Trish Bendix",
+            "title": "Jimmy Kimmel Ribs Republicans Over Ketanji Brown Jackson - The New York Times",
+            "description": "Kimmel said Jackson’s Supreme Court confirmation hearings could make the G.O.P.’s worst nightmare could come true: “Having this decided by two Black women whose names they can’t pronounce.”",
+            "url": "https://www.nytimes.com/2022/03/22/arts/television/jimmy-kimmel-ketanji-brown-jackson.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/22/arts/22latenight/22latenight-facebookJumbo.png",
+            "publishedAt": "2022-03-22T05:36:42Z",
+            "content": "Well, guys, today confirmation hearings began for Supreme Court nominee Ketanji Brown Jackson. The hearing process will last four days. Its basically C-SPANs version of Coachella. JIMMY FALLON\r\nYep, … [+1008 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Russia Halts WWII Peace Talks With Japan Over Ukraine Stance - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d3d42652-a9ce-11ec-810c-784d74526971&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMy0yMi9ydXNzaWEtaGFsdHMtdGFsa3Mtd2l0aC1qYXBhbi1vbi13d2lpLXBlYWNlLW92ZXItdWtyYWluZS1zdGFuY2U=",
+            "urlToImage": null,
+            "publishedAt": "2022-03-22T05:12:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Alan Blinder",
+            "title": "Powers Remain and Threats Lurk as Women’s Sweet 16 Is Set - The New York Times",
+            "description": "Sure, South Carolina and UConn are among the schools still in the mix — but so are the upset magicians South Dakota and Creighton.",
+            "url": "https://www.nytimes.com/2022/03/22/sports/ncaabasketball/ncaa-womens-tournament-sweet-16.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/21/multimedia/21wcbb-sweet-16-scarolina/21wcbb-sweet-16-scarolina-facebookJumbo.jpg",
+            "publishedAt": "2022-03-22T04:48:23Z",
+            "content": "Ohio State, among the countrys best programs behind the arc, will meet a feisty Texas team Punch first, thats always our motto, Aliyah Matharu, a junior guard, said that did not allow more than 56 po… [+1310 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Webb Space Telescope Begins Multi-Instrument Alignment - SciTechDaily",
+            "description": "After meeting the major milestone of aligning the telescope to NIRCam, the Webb team is starting to extend the telescope alignment to the guider (the Fine Guidance Sensor, or FGS) and the other three science instruments. This six-week-long process is called m…",
+            "url": "https://scitechdaily.com/webb-space-telescope-begins-multi-instrument-alignment/",
+            "urlToImage": "https://scitechdaily.com/images/NASAs-Webb-Space-Telescope.gif",
+            "publishedAt": "2022-03-22T04:29:37Z",
+            "content": "NASA’s James Webb Space Telescope. Credit: NASA Goddard Space Flight Center and Northrup Grumman\r\nAfter meeting the major milestone of aligning the telescope to NIRCam, the Webb team is starting to e… [+3005 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Catherine Thorbecke, CNN Business",
-            "title": "Apple services including App Store, Apple Music and iCloud hit by brief outage - CNN",
-            "description": "A number of Apple services were hit by a short-lived outage for some users on Monday afternoon.",
-            "url": "https://www.cnn.com/2022/03/21/tech/apple-outage/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220321133750-imessage-iphone-restricted-super-tease.jpg",
-            "publishedAt": "2022-03-21T21:34:00Z",
+            "author": "Jack Guy, Olga Voitovych, Tim Lister and Victoria Butenko, CNN",
+            "title": "Russian strike kills 96-year-old Holocaust survivor in Ukraine - CNN",
+            "description": "A 96-year-old Holocaust survivor, Borys Romanchenko, was killed Friday by a Russian strike on the Ukrainian city of Kharkiv.",
+            "url": "https://www.cnn.com/2022/03/21/europe/borys-romanchenko-death-ukraine-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220321115322-boris-romanchenko-file-2015-super-tease.jpg",
+            "publishedAt": "2022-03-22T04:16:00Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Doyle Rice and Celina Tebor, USA TODAY",
+            "title": "At least 4 injured after tornadoes pound Texas, Oklahoma; tens of thousands without power - USA TODAY",
+            "description": "Dangerous storms are in the forecast for portions of the southern U.S. this week as tornadoes slammed parts of Texas and Oklahoma on Monday.",
+            "url": "https://www.usatoday.com/story/news/nation/2022/03/21/south-faces-severe-weather/7120465001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/22/NAAS/4ad737fe-5a60-430e-9297-437fa4f34b71-Tornado_jwj_0063_1.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
+            "publishedAt": "2022-03-22T03:56:15Z",
+            "content": "Dangerous storms are in the forecast for portions of the southern U.S. over the next three days, forecasters warned, and all modes of severe weather are possible, including multiple tornadoes that ha… [+4659 chars]"
         },
         {
             "source": {
@@ -34,233 +177,90 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "5000 Exoplanets: Listen to the Sounds of Discovery (NASA Data Sonification) - NASA",
-            "description": "On March 21, 2022, the number of known exoplanets passed 5,000 according to the NASA Exoplanet Archive. This animation and sonification tracks humanity's dis...",
-            "url": "https://www.youtube.com/watch?v=yv4DbU1CWAY",
-            "urlToImage": "https://i.ytimg.com/vi/yv4DbU1CWAY/hqdefault.jpg",
-            "publishedAt": "2022-03-21T21:20:07Z",
+            "title": "Watch: Texas Newscast Captures Moment Tornado Crosses Two Major Highways - NBC News",
+            "description": "A news broadcast captured video of a tornado crossing two major highways in Texas. The storm hit multiple towns in Texas damaging homes and vehicles. Roads w...",
+            "url": "https://www.youtube.com/watch?v=DCOAOLT2lRI",
+            "urlToImage": "https://i.ytimg.com/vi/DCOAOLT2lRI/maxresdefault.jpg",
+            "publishedAt": "2022-03-22T03:45:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
-            },
-            "author": "FOX Business Team",
-            "title": "Stocks fall, oil rises, Warren Buffett's big deal - Fox Business",
-            "description": "FOX Business is providing real-time updates on the markets, commodities and all the most active stocks on the move.",
-            "url": "https://www.foxbusiness.com/live-news/markets-lower-in-pre-dawn-trading-oil-and-gold-down-gas-prices-lower-early-monday",
-            "urlToImage": "https://static.foxnews.com/static/orion/styles/img/fox-business/og/og-fox-business.png",
-            "publishedAt": "2022-03-21T21:05:00Z",
-            "content": "Germany is calling for renewed negotiations over a free trade agreement between the U.S. and European Union, Reuters reported Sunday.\r\n\"We should resume negotiations on a transatlantic free trade agr… [+489 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Fed will raise rates more aggressively if needed, Powell says - Reuters",
-            "description": "Federal Reserve Chair Jerome Powell on Monday delivered his most muscular message to date on his battle with too-high inflation, saying the central bank must move \"expeditiously\" to raise rates and possibly \"more aggressively\" to keep an upward price spiral f…",
-            "url": "https://www.reuters.com/business/fed-must-move-expeditiously-if-needed-more-aggressively-powell-says-2022-03-21/",
-            "urlToImage": "https://www.reuters.com/resizer/KxYrDRjQeH5HYQC8Kp_UHEZviFk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QGXZQDL4IZPONG2BVPAULG6GHI.jpg",
-            "publishedAt": "2022-03-21T21:02:00Z",
-            "content": "March 21 (Reuters) - Federal Reserve Chair Jerome Powell on Monday delivered his most muscular message to date on his battle with too-high inflation, saying the central bank must move \"expeditiously\"… [+5640 chars]"
-        },
-        {
-            "source": {
-                "id": null,
                 "name": "New York Times"
             },
-            "author": "Matthew Goldstein, Peter Eavis",
-            "title": "S.E.C. Considers Climate Disclosure Rule - The New York Times",
-            "description": "The commission gave initial approval to a much-anticipated rule that would require public companies to report the climate-related impact of their businesses.",
-            "url": "https://www.nytimes.com/2022/03/21/business/sec-climate-disclosure-rule.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/03/21/business/21sec-climate-2/21sec-climate-2-facebookJumbo.jpg",
-            "publishedAt": "2022-03-21T20:21:57Z",
-            "content": "Environmental advocates hope that rules requiring companies to measure and publicize their greenhouse gas emissions will encourage the businesses to take more aggressive steps to minimize their effec… [+1421 chars]"
+            "author": "Mitch Smith, Eduardo Medina",
+            "title": "Bucking Republican Trend, Indiana Governor Vetoes Transgender Sports Bill - The New York Times",
+            "description": "Gov. Eric Holcomb nixed legislation that would have blocked transgender girls from playing school sports. Eleven states have enacted similar bills.",
+            "url": "https://www.nytimes.com/2022/03/21/us/eric-holcomb-transgender-sports.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/21/multimedia/21indiana-top/21indiana-top-facebookJumbo.jpg",
+            "publishedAt": "2022-03-22T02:59:42Z",
+            "content": "Since 2019, state lawmakers across the country have introduced dozens of bills that would prohibit transgender youths from participating in school sports on teams consistent with their identities, ac… [+1308 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Adam Bankhurst",
+            "title": "Nintendo Switch Update Finally Allows Users to Create Folders of Games Called Groups - IGN - IGN",
+            "description": "After five years, the Nintendo Switch finally allows users to create folders of games called groups.",
+            "url": "https://www.ign.com/articles/nintendo-switch-update-finally-allows-users-to-create-folders-of-games-called-groups",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/03/22/switch-blogroll-1643886786899-1647916081605.jpg?width=1280",
+            "publishedAt": "2022-03-22T02:34:21Z",
+            "content": "After five years, the Nintendo Switch finally allows users to create folders of games called groups.\r\nThis new feature was added in Nintendo Switch's Version 14.0.0 update alongside improvements to B… [+1640 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "9to5google.com"
+                "name": "Live Science"
             },
-            "author": null,
-            "title": "Android 12L with March Feature Drop rolling out to Pixel 6 and 6 Pro, OTAs now live - 9to5Google",
-            "description": "After a two-week delay, Pixel 6 and 6 Pro owners today are starting to see the Android 12L update with the March Feature Drop roll out...",
-            "url": "https://9to5google.com/2022/03/21/pixel-6-android-12l-update/",
-            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/03/March-Pixel-Feature-Drop-2022-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2022-03-21T20:04:08Z",
-            "content": "After a two-week delay, Pixel 6 and 6 Pro owners today are starting to see the Android 12L update with the March Feature Drop roll out. \r\nThe Pixel 6’s Android 12L update brings a slew of UI and func… [+1348 chars]"
+            "author": "Laura Geggel",
+            "title": "Dinosaur-Killing Asteroid Aftermath Was Even More Brutal Than We Realized - ScienceAlert",
+            "description": "Massive amounts of airborne sulfur had disastrous effects.",
+            "url": "https://www.livescience.com/sulfur-dinosaur-killing-asteroid-impact",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KaLec3NuQDGdWtEMoLgXET-1200-80.jpg",
+            "publishedAt": "2022-03-22T02:19:11Z",
+            "content": "A Tyrannosaurus rex chick shivers in the cold aftermath of the asteroid impact 66 million years ago. The asteroid caused sulfur aerosols to enter the atmosphere, which led to global cooling. (Image c… [+4938 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "KMBC Kansas City"
             },
-            "author": "",
-            "title": "Matt Ryan traded to Colts: Falcons sending former NFL MVP to Indianapolis for third-round pick - CBS Sports",
-            "description": "Matt Ryan rumors: Colts working on finalizing potential trade with Falcons to acquire former NFL MVP",
-            "url": "https://www.cbssports.com/nfl/news/matt-ryan-traded-to-colts-falcons-sending-former-nfl-mvp-to-indianapolis-for-third-round-pick/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/11/19/daa34dcf-a75b-4c59-b781-9f11c3c7d0a6/thumbnail/1200x675/03e484802c2b04639fafc56a6b9f719c/matt-ryan-falcons.jpg",
-            "publishedAt": "2022-03-21T19:46:00Z",
-            "content": "Matt Ryan is on his way to a new NFL home as the Indianapolis Colts ready to roll out the red carpet for his arrival. The Atlanta Falcons threw the weight of the entire city behind their pitch to acq… [+3695 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Jessica Gresko",
-            "title": "What we know about Justice Clarence Thomas' hospitalization - The Associated Press - en Español",
-            "description": "WASHINGTON (AP) — Justice Clarence Thomas remains hospitalized in Washington after being diagnosed with an infection but does not have COVID-19, the Supreme Court said Monday. The high court announced Sunday evening that the 73-year-old justice had entered th…",
-            "url": "https://apnews.com/article/clarence-thomas-hospitalization-what-we-know-21418c400b3535036029c251d6d7a17b",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5051f5b20d7742b198113c9f0375129a/3000.jpeg",
-            "publishedAt": "2022-03-21T18:44:31Z",
-            "content": "WASHINGTON (AP) Justice Clarence Thomas remains hospitalized in Washington after being diagnosed with an infection but does not have COVID-19, the Supreme Court said Monday.\r\nThe high court announced… [+5176 chars]"
+            "author": "The Associated Press",
+            "title": "Former Missouri Gov. Eric Greitens, now Republican Senate candidate, accused of abuse by ex-wife - KMBC Kansas City",
+            "description": "Sheena Greitens accuses the former governor of being physically abusive and demonstrating such “unstable and coercive behavior” that steps were taken to limit his access to firearms, according to court records released on Monday",
+            "url": "https://www.kmbc.com/article/mo-gov-eric-greitens-accused-of-abuse-by-ex-wife/39491797",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/greitenswithsheena-jpg-1647900330.jpg?crop=1.00xw:0.977xh;0,0&resize=1200:*",
+            "publishedAt": "2022-03-22T02:18:00Z",
+            "content": "COLUMBIA, Mo. —Former Missouri Gov. Eric Greitens, now a leading Republican Senate candidate, was physically abusive and demonstrated such unstable and coercive behavior that steps were taken to limi… [+7041 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sports Illustrated"
+                "name": "CNET"
             },
-            "author": "Kevin Sweeney",
-            "title": "Ranking the 2022 Men’s Sweet 16: Who Looks Strongest? - Sports Illustrated",
-            "description": "From Gonzaga and Arizona down to Saint Peter’s, we reshuffle the deck after two rounds of the men’s NCAA tournament.",
-            "url": "https://www.si.com/college/2022/03/21/march-madness-sweet-16-ranking-gonzaga-arizona-duke",
-            "urlToImage": "https://www.si.com/.image/t_share/MTg4MjEzMjM0NjI3NTIwNDA1/sweet-16-power-rankings-2022.jpg",
-            "publishedAt": "2022-03-21T18:26:27Z",
-            "content": "What was once 68 is now just 16 after six days of near-nonstop hoops action. \r\nThe men’s Sweet 16 is set, and after a week of upsets it’s time to reset and rerank the teams still in contention to cut… [+9518 chars]"
+            "author": "Amanda Kooser",
+            "title": "NASA Confirms 5,000 Exoplanets Beyond Our Solar System: Each a 'New World' - CNET",
+            "description": "Just hundreds of billions of planets left to go.",
+            "url": "https://www.cnet.com/science/space/nasa-confirms-5000-exoplanets-beyond-our-solar-system-each-a-new-world/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/d7bd2d4e4929d0ac30d932d21b19e9b1f17bb5ee/2022/03/21/ea1d3d83-061c-4c23-aa3d-26a9198c8a2e/1-5000-exoplanets-lead-jpl-width-1280.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-03-22T01:24:00Z",
+            "content": "This illustration shows what exoplanets might look like.\r\nNASA/JPL-Caltech\r\nCollect them all. NASA JPL announced a cosmic milestone on Monday with the confirmed discovery of more than 5,000 exoplanet… [+1705 chars]"
         },
         {
             "source": {
-                "id": "usa-today",
-                "name": "USA Today"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": "Mike Brehm, Jimmy Hascup",
-            "title": "NHL trade deadline 2022: Live updates as a flurry of deals strike at the buzzer - USA TODAY",
-            "description": "Once again, NHL trade deadline day is here with a whole bunch of deals completed in the days beforehand. Here's what has happened Monday.",
-            "url": "https://www.usatoday.com/story/sports/nhl/2022/03/21/nhl-trade-deadline-live-updates-rumors-news/7115384001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/21/USAT/13bd7521-d452-49c8-bf45-c3f2a77520a3-AP_Jets_Islanders_Hockey.jpg?crop=2264,1274,x1,y110&width=2264&height=1274&format=pjpg&auto=webp",
-            "publishedAt": "2022-03-21T18:22:30Z",
-            "content": "Once again, NHL trade deadline day is here with a whole bunch of deals completed in the days beforehand.\r\nThe Florida Panthers have acquired forward Claude Giroux and defenseman Ben Chiarot. The Colo… [+8180 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Lena H. Sun, Yasmeen Abutaleb",
-            "title": "Biden's plan for new normal spurs worries about next covid surge — and who is being left behind - The Washington Post",
-            "description": "New CDC metrics may get their first test if the United States sees the same sharp increases in coronavirus cases now bedeviling Europe.",
-            "url": "https://www.washingtonpost.com/health/2022/03/21/biden-pandemic-plan-ba2-surge/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OSWAW6FBJYI6ZFBYEVLQTNWN3Q.jpg&w=1440",
-            "publishedAt": "2022-03-21T18:04:32Z",
-            "content": "I want to move on, too, said Colledge, 70, of Salt Lake City. Its kind of confusing for me because I feel like, What about me? Why am I safer now than I wouldve been, I dont know, three months ago? \r… [+13103 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Whitehouse.gov"
-            },
-            "author": null,
-            "title": "Statement by President Biden on our Nation's Cybersecurity - The White House",
-            "description": "This is a critical moment to accelerate our work to improve domestic cybersecurity and bolster our national resilience.  I have previously warned",
-            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/statement-by-president-biden-on-our-nations-cybersecurity/",
-            "urlToImage": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
-            "publishedAt": "2022-03-21T18:00:00Z",
-            "content": "This is a critical moment to accelerate our work to improve domestic cybersecurity and bolster our national resilience.  I have previously warned about the potential that Russia could conduct malicio… [+2100 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Takeout"
-            },
-            "author": "Dennis Lee",
-            "title": "McDonald’s Has Chosen to Embrace Chaos Once Again - The Takeout",
-            "description": "We will never forget the original debacle for the limited-time Szechuan sauce.",
-            "url": "https://thetakeout.com/mcdonalds-is-bringing-back-szechuan-sauce-1848679857",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/622fe6b2de74f0020a9021fbf4dc78dd.png",
-            "publishedAt": "2022-03-21T18:00:00Z",
-            "content": "October 7, 2017 was a wild day. It was the day McDonalds released its ultra-limited run of Szechuan dipping sauce in response to popular animated TV show, Rick and Morty. The animated show had made a… [+1704 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Siobhán O'Grady",
-            "title": "Large explosion partially destroys Kyiv shopping mall, killing at least 8, officials say - The Washington Post",
-            "description": "The devastation was some of the worst seen in the capital since the war began.",
-            "url": "https://www.washingtonpost.com/world/2022/03/21/kyiv-shopping-mall-explosion/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-21-2022/t_9bf83b8e407041ff9df880eed07d7a24_name_20220320_Kyivblasts.png&w=1440",
-            "publishedAt": "2022-03-21T17:43:00Z",
-            "content": "The missile that struck the Retroville shopping complex late Sunday night killed at least eight people, officials here said, the latest violent attack on the capital in the past week that have left r… [+4982 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "DoD official: Russia's hypersonic missile boast 'a bit of a head-scratcher' - POLITICO",
-            "description": "Russia’s claim about the hypersonic missile has drawn scrutiny from arms observers in recent days, and the senior DoD official described the weapon’s alleged deployment as confusing.",
-            "url": "https://www.politico.com/news/2022/03/21/dod-official-russia-hypersonic-missile-00018872",
-            "urlToImage": "https://static.politico.com/44/23/0ab05e6647c4a19a4ef0ad9ede7a/ap22077813692494-1.jpg",
-            "publishedAt": "2022-03-21T17:04:45Z",
-            "content": "But U.S. officials also cant independently confirm Russias claim, said the official, who spoke on condition of anonymity. Its not entirely clear, so what we would assess is its certainly possible.\r\nR… [+1945 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "John Bacon, Tom Vanden Brook and Jorge L. Ortiz, USA TODAY",
-            "title": "Russia tells US envoy that Russian-American relations are on the verge of rupture: Live Ukraine updates - USA TODAY",
-            "description": "The Russian Foreign Ministry said Monday that President Joe Biden's remarks have put Russian-American relations on the verge of rupture. Updates.",
-            "url": "https://www.usatoday.com/story/news/world/ukraine/2022/03/21/ukraine-news-russia-invasion-updates/7115162001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/18/USAT/30ab20f0-8dbd-4bcc-ab9d-d2c55984b1e8-AP_Russia_Putin_Crackdown.jpg?auto=webp&crop=3982,2240,x822,y1184&format=pjpg&width=1200",
-            "publishedAt": "2022-03-21T16:41:26Z",
-            "content": "The Russian Foreign Ministry said Monday that it had summoned the U.S. ambassador to warn that President Joe Biden's recent remarks have put Russian-American relations on the verge of rupture.\r\nBiden… [+15490 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Alex Rogers, CNN",
-            "title": "Confirmation hearings begin for Supreme Court nominee Ketanji Brown Jackson - CNN",
-            "description": "Supreme Court nominee Ketanji Brown Jackson is before the Senate Judiciary Committee on Monday, as Democrats aim to confirm the first Black woman justice and many Republicans search for a unified message to oppose her.",
-            "url": "https://www.cnn.com/2022/03/21/politics/ketanji-brown-jackson-confirmation-hearing-day-1/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220321112504-16-ketanji-brown-jackson-hearings-0321-super-tease.jpg",
-            "publishedAt": "2022-03-21T16:41:02Z",
-            "content": "(CNN)Supreme Court nominee Ketanji Brown Jackson is before the Senate Judiciary Committee on Monday, as Democrats aim to confirm the first Black woman justice and many Republicans search for a unifie… [+8114 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Peter King",
-            "title": "Peter King's Football Morning In America - Deshaun Watson, Davante Adams - NBC Sports - ProFootballTalk",
-            "description": "I am not going to write about the difference Deshaun Watson makes in the Cleveland Browns as a football team. There will be time for that—five years. Five obscenely expensive years, in which the Browns will pay a question mark $2.7 million per game to play fo…",
-            "url": "https://profootballtalk.nbcsports.com/2022/03/21/deshaun-watson-browns-davante-adams-raiders-nfl-fmia-peter-king/",
-            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/03/GettyImages-1237658159.jpg",
-            "publishedAt": "2022-03-21T16:39:07Z",
-            "content": "I am not going to write about the difference Deshaun Watson makes in the Cleveland Browns as a football team. There will be time for thatfive years. Five obscenely expensive years, in which the Brown… [+49925 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Robin George Andrews",
-            "title": "How a Tiny Asteroid Strike May Save Earthlings From City-Killing Space Rocks - The New York Times",
-            "description": "An asteroid hunter detected the small object two hours before it crashed into the sea near Greenland, a sign of the growing sophistication of NASA’s planetary defense system.",
-            "url": "https://www.nytimes.com/2022/03/21/science/nasa-asteroid-strike.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/03/21/autossell/21sci-asteroid1-cover/21sci-asteroid1-cover-facebookJumbo.jpg",
-            "publishedAt": "2022-03-21T16:38:06Z",
-            "content": "Scout constantly looks at data posted by the Minor Planet Center, a clearinghouse in Cambridge, Mass., that notes the discoveries and positions of small space objects. Then the software tries to figu… [+1692 chars]"
+            "author": "Sumathi Reddy",
+            "title": "New Research Shows Higher Risk of Developing Diabetes After Covid-19 Infection - The Wall Street Journal",
+            "description": "Study adds to growing evidence showing increased risk for a range of cardiometabolic conditions after Covid-19",
+            "url": "https://www.wsj.com/articles/new-research-shows-higher-risk-of-developing-diabetes-after-covid-19-infection-11647906138",
+            "urlToImage": "https://images.wsj.net/im-504411/social",
+            "publishedAt": "2022-03-22T00:52:00Z",
+            "content": "A large new study found that people who recovered from Covid-19 within the past year are 40% more likely to receive a new diagnosis of diabetes compared to those who werent infected. The increased ri… [+8021 chars]"
         }
     ]
 }
