@@ -1,45 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 37,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "New York Times"
             },
-            "author": "Brian Stelter, CNN Business",
-            "title": "Discovery takes control of HBO, CNN, and Warner Bros., creating new media giant - CNN",
-            "description": "Discovery's merger with WarnerMedia took effect on Friday afternoon, creating a streaming media giant led by CEO David Zaslav.",
-            "url": "https://www.cnn.com/2022/04/08/media/discovery-warner-media-merger-close/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220408081558-file-restricted-discovery-warnermedia-merger-super-tease.jpg",
-            "publishedAt": "2022-04-08T22:21:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Adam Schreck",
-            "title": "Missile kills at least 52 at crowded Ukrainian train station - The Associated Press",
-            "description": "KYIV, Ukraine (AP) — A missile hit a train station in eastern Ukraine where thousands had gathered Friday, killing at least 52 and wounding dozens more in an attack on a crowd of mostly women and children trying to flee a new, looming Russian offensive , Ukra…",
-            "url": "https://apnews.com/ee2fa37bb0ace7b4714c084998765f65",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/56437e59a2584c3c8f0467f95a5f88bd/3000.jpeg",
-            "publishedAt": "2022-04-08T21:33:45Z",
-            "content": "KYIV, Ukraine (AP) A missile hit a train station in eastern Ukraine where thousands had gathered Friday, killing at least 52 and wounding dozens more in an attack on a crowd of mostly women and child… [+7953 chars]"
+            "author": "Cora Engelbrecht, Victoria Kim",
+            "title": "Latest Ukraine-Russia War News: Live Updates - The New York Times",
+            "description": "President Volodymyr Zelensky of Ukraine called for “a firm, global response to this war crime” after a missile strike in Kramatorsk killed at least 50. Ukraine’s railway service said evacuations would proceed from nearby cities.",
+            "url": "https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news",
+            "urlToImage": "https://static01.nyt.com/images/2022/04/09/world/09ukraine-blog-promo-630-EST/09ukraine-blog-promo-630-EST-facebookJumbo.jpg",
+            "publishedAt": "2022-04-09T10:24:07Z",
+            "content": "As the staging ground for an assault on the Ukrainian capital of Kyiv, the Chernobyl Exclusion Zone, one of the most toxic places on earth, was probably not the best choice. But that did not seem to … [+3828 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "Eonline.com"
             },
-            "author": "ESPN",
-            "title": "MLB Opening Day 2022 - What we saw, live updates and takeaways as baseball returns - ESPN",
-            "description": "Baseball is back! Here is your one-stop shop to keep up with the action as your team takes the field.",
-            "url": "https://www.espn.com/mlb/story/_/page/mlbmain_live/mlb-opening-day-2022-saw-live-updates-takeaways-baseball-returns",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0408%2Fr997086_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-04-08T21:26:18Z",
-            "content": "Opening Day of the 2022 MLB season is in the rearview mirror, but plenty of teams are still set to make their debuts on the diamond.\r\nThe Thursday slate of action provided a wide spectrum of entertai… [+25363 chars]"
+            "author": "Tierney Bricker",
+            "title": "We Are Answering Every Burning Question You Have About The Ultimatum, Your New Netflix Obsession - E! NEWS",
+            "description": "Already the No. 1 show on Netflix, E! News talked to The Ultimatum creator Chris Coelen to get all the behind-the-scenes secrets about our new reality dating obsession.",
+            "url": "https://www.eonline.com/news/1326560/we-are-answering-every-burning-question-you-have-about-the-ultimatum-your-new-netflix-obsession",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202235/rs_1200x1200-220405133646-1200-ultimatum-alexis.jpg?fit=around%7C1080:566&output-quality=90&crop=1080:566;center,top",
+            "publishedAt": "2022-04-09T10:00:00Z",
+            "content": "The short answer: Chris Coelen, the Kinetic Content CEO responsible for Love Is Blind, Married at First Sight and now The Ultimatum, is just super into reality dating series.\r\n\"We love the relationsh… [+1707 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Shawna Chen",
+            "title": "\"Stop the Steal\" rally organizer agrees to cooperate with DOJ in Jan. 6 probe - Axios",
+            "description": "He may be able to offer insight into the federal officials who may have helped attempt to block certification of the 2020 election.",
+            "url": "https://www.axios.com/trump-jan-6-doj-investigation-0910c32c-015c-4608-b26a-c9298a99d6d3.html",
+            "urlToImage": "https://images.axios.com/QHpVKNdp6ZYay7_ZG_tgZ4hhBiU=/0x0:7397x4161/1366x768/2022/04/08/1649460980904.jpg",
+            "publishedAt": "2022-04-09T09:44:46Z",
+            "content": "Pro-Trump organizer Ali Alexander confirmed Friday that he is cooperating with the Justice Department's investigation of the Jan. 6 insurrection, Politico reports.\r\nWhy it matters: Alexander, who was… [+1993 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Pete Davidson Will Have to Wait to Appear on Hulu's 'The Kardashians' - TMZ",
+            "description": "Pete Davidson was in front of 'The Kardashians' cams Thursday, but fans will have to wait for his big debut.",
+            "url": "https://www.tmz.com/2022/04/09/pete-davidson-the-kardashians-hulu-show-debut/",
+            "urlToImage": "https://imagez.tmz.com/image/51/16by9/2022/04/08/51c6f001a4c4448f907c76c985d33c38_xl.png",
+            "publishedAt": "2022-04-09T08:00:00Z",
+            "content": "Pete Davidson has a lot in the works these days, but his future is set to include reality show appearances as well ... including his GF's brand-spankin' new show.\r\nCameras were rolling for \"The Karda… [+928 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Mark Cannizzaro",
+            "title": "Masters 2022: Tiger Woods defies odds again due to mental toughness - New York Post ",
+            "description": "It didn’t look good. Then we saw what might be Woods’ greatest trait on the golf course kick in: his unwavering willingness to grind.",
+            "url": "https://nypost.com/2022/04/09/tiger-woods-defies-odds-again-because-of-mental-toughness/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/USA-GOLF-THE-MASTERS-5.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-04-09T06:46:00Z",
+            "content": "AUGUSTA, Ga. You can like Tiger Woods, love him, dislike him or even loathe him. \r\nBut, purely as a golfer, he deserves your respect. \r\nWoods the person always has been complicated. He has, at times,… [+4573 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Karen Weise",
+            "title": "Amazon, Labor Organizers File Objections to Alabama Union Vote - The New York Times",
+            "description": "The company listed a series of complaints against an upstart union’s organizing efforts. Both Amazon and another union noted objections to another vote in Alabama.",
+            "url": "https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/04/08/business/08Amazon-labor-sub/08Amazon-labor-sub-facebookJumbo.jpg",
+            "publishedAt": "2022-04-09T05:34:00Z",
+            "content": "Based on the evidence weve seen so far, as set out in our objections, we believe that the actions of the N.L.R.B. and the A.L.U. improperly suppressed and influenced the vote, and we think the electi… [+1892 chars]"
         },
         {
             "source": {
@@ -47,12 +86,25 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Israeli forces kill Palestinian gunman after Tel Aviv bar attack - Reuters.com",
-            "description": "Israeli security forces on Friday shot dead a Palestinian suspected of killing three people in a Tel Aviv bar, in the latest attack in a series amid renewed tensions between Palestinians and Israelis.",
-            "url": "https://www.reuters.com/world/middle-east/palestinian-who-killed-2-tel-aviv-shot-by-israeli-forces-2022-04-08/",
-            "urlToImage": "https://www.reuters.com/resizer/mAtNnl9kESUXJ1Izbc0O2Ay9h7A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TKMM6DTVYNNGLKLVGGODVBKPVA.jpg",
-            "publishedAt": "2022-04-08T21:14:00Z",
-            "content": "JERUSALEM, April 8 (Reuters) - Israeli security forces on Friday shot dead a Palestinian suspected of killing three people in a Tel Aviv bar, in the latest attack in a series amid renewed tensions be… [+2770 chars]"
+            "title": "British, French divers rescued in Malaysia after more than two days at sea - Reuters.com",
+            "description": "A French woman and British man who disappeared at sea while diving off the coast of Malaysia were found safe on Saturday after drifting for some 100 km (80 miles) for two and a half days after they went missing, police said.",
+            "url": "https://www.reuters.com/world/asia-pacific/british-french-divers-rescued-malaysia-after-more-than-two-days-sea-2022-04-09/",
+            "urlToImage": "https://www.reuters.com/resizer/B6MB02LVB19n7SlhLa3G0e4021Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZTHVUOSGS5JLXMW2TE5AILRP2U.jpg",
+            "publishedAt": "2022-04-09T05:16:00Z",
+            "content": "MERSING, Malaysia, April 9 (Reuters) - A French woman and British man who disappeared at sea while diving off the coast of Malaysia were found safe on Saturday after drifting for some 100 km (80 mile… [+1929 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jesse O’Neill",
+            "title": "Zelensky recalls 'death, just death' in Ukraine suburb during '60 Minutes' interview - New York Post ",
+            "description": "Ukrainian President Volodymyr Zelensky said he visited Bucha, a northern suburb of Kyiv where Russian soldiers are said to have slaughtered civilians in a series of apparent war crimes earlier this…",
+            "url": "https://nypost.com/2022/04/09/ukraine-president-zelensky-tells-60-minutes-he-saw-death-just-death-after-touring-bucha/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/newspress-collage-21839065-1649477918707.png?w=1024",
+            "publishedAt": "2022-04-09T05:05:00Z",
+            "content": "Ukrainian President Volodymyr Zelensky said his country is “defending the ability of a person to live in the modern world” by fighting off Russian invaders.\r\nZelensky, 44, made the comments in an int… [+2082 chars]"
         },
         {
             "source": {
@@ -60,207 +112,155 @@
                 "name": "Bloomberg"
             },
             "author": null,
-            "title": "Russia-Ukraine Latest News: April 8, 2022 - Bloomberg",
+            "title": "Nations Eye Modern Arms for Ukraine as Soviet-Era Stocks Dwindle - Bloomberg",
             "description": null,
-            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2e524749-b78f-11ec-8923-76726c6e7a6e&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNC0wOC91a3JhaW5lLXVwZGF0ZS1ydXNzaWEtbG9va3MtZWFzdC1ldS1zLXZvbi1kZXItbGV5ZW4tdG8ta3lpdg==",
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f7b08a02-b7e2-11ec-a553-5a6e66734c72&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNC0wOS9uYXRpb25zLWV5ZS1tb2Rlcm4tYXJtcy1mb3ItdWtyYWluZS1hcy1zb3ZpZXQtZXJhLXN0b2Nrcy1kd2luZGxl",
             "urlToImage": null,
-            "publishedAt": "2022-04-08T21:11:04Z",
+            "publishedAt": "2022-04-09T04:00:00Z",
             "content": "To continue, please click the box below to let us know you're not a robot."
         },
         {
             "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
+                "id": null,
+                "name": "YouTube"
             },
-            "author": "Ron Amadeo",
-            "title": "Google and iFixit team up to offer Pixel parts online - Ars Technica",
-            "description": "Following the lead of Samsung and Apple, Google is supporting DIY repairs.",
-            "url": "https://arstechnica.com/gadgets/2022/04/google-and-ifixit-team-up-to-offer-pixel-parts-online/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/unnamed-760x380.jpg",
-            "publishedAt": "2022-04-08T20:53:46Z",
-            "content": "10 with 10 posters participating\r\niFixit has signed a deal with Google to make Pixel repairs much easier. iFixit.com will sell genuine Google parts individually and in kits later this year. Bothcompa… [+1586 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ben Morse, CNN",
-            "title": "Tiger Woods struggles in second round at the Masters after excellent open following long injury layoff - CNN",
-            "description": "Tiger Woods struggled at the beginning of his second round at the Masters Friday, following an excellent return to competitive golf.",
-            "url": "https://www.cnn.com/2022/04/08/golf/tiger-woods-second-round-the-masters-spt-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220408190301-tiger-woods-second-round-2-super-tease.jpg",
-            "publishedAt": "2022-04-08T20:24:00Z",
+            "author": null,
+            "title": "UFC 273 Embedded: Vlog Series - Episode 6 - UFC - Ultimate Fighting Championship",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGhqSX6z6Osg",
+            "urlToImage": null,
+            "publishedAt": "2022-04-09T03:56:27Z",
             "content": null
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Chloe Melas, Lisa Respers France",
-            "title": "Actor Will Smith banned from attending Oscars for 10 years - CNN",
-            "description": "Will Smith will not be allowed to attend the Academy Awards for the next 10 years, as a result of his slapping comedian Chris Rock on stage during this year's Oscar ceremony, the Academy of Motion Picture Arts & Sciences announced in a statement obtained by C…",
-            "url": "https://www.cnn.com/2022/04/08/entertainment/will-smith-academy-sanctions-decision/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220407192243-01-will-smith-file-032722.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-04-08T19:59:00Z",
-            "content": "Will Smith will not be allowed to attend the Academy Awards for the next 10 years, as a result of his slapping comedian Chris Rock on stage during this years Oscar ceremony, the Academy of Motion Pic… [+3703 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ryan Nobles, Zachary Cohen and Annie Grayer, CNN",
-            "title": "CNN Exclusive: 'We control them all': Donald Trump Jr. texted Meadows ideas for overturning 2020 election before it was called - CNN",
-            "description": "Two days after the 2020 presidential election, as votes were still being tallied, Donald Trump's eldest son texted then-White House chief of staff Mark Meadows that \"we have operational control\" to ensure his father would get a second term, with Republican ma…",
-            "url": "https://www.cnn.com/2022/04/08/politics/donald-trump-jr-meadows-text/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190814185057-donald-trump-junior-july-12-super-tease.jpg",
-            "publishedAt": "2022-04-08T19:56:00Z",
-            "content": "Washington (CNN)Two days after the 2020 presidential election, as votes were still being tallied, Donald Trump's eldest son texted then-White House chief of staff Mark Meadows that \"we have operation… [+9831 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Tom Jackman, Spencer S. Hsu",
-            "title": "Proud Boys leader admits plan to storm Capitol, will testify against others - The Washington Post",
-            "description": "Charles Donohoe admitted being one of the organizers of the assault on the Capitol, which he said was intended to disrupt the congressional Electoral College vote confirmation.",
-            "url": "https://www.washingtonpost.com/dc-md-va/2022/04/08/donohoe-pleads-guilty-proud-boys-jan6/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VU35XXT6C4I6ZDGIW2LFMS5HSY.jpg&w=1440",
-            "publishedAt": "2022-04-08T19:52:50Z",
-            "content": "A North Carolina man who was one of the leaders of the far-right Proud Boys as they assaulted the U.S. Capitol on Jan. 6, 2021, pleaded guilty Friday to two felony counts with a minimum sentence of n… [+6944 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MMA Fighting"
-            },
-            "author": "Shaun Al-Shatti",
-            "title": "Dana White: If Khamzat Chimaev wins at UFC 273, ‘we see him and Colby Covington next’ - MMA Fighting",
-            "description": "Khamzat Chimaev could be in line for another top contender in the welterweight division if he gets past Gilbert Burns at UFC 273.",
-            "url": "https://www.mmafighting.com/2022/4/8/23017051/dana-white-if-khamzat-chimaev-wins-at-ufc-273-we-see-him-and-colby-covington-next",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/9gnztaPeb5KuMwbcGceWFc4VckA=/0x0:5355x2804/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23377094/1390159093.jpg",
-            "publishedAt": "2022-04-08T19:48:13Z",
-            "content": "Khamzat Chimaev could be in line for another test against one of the top contenders in the welterweight division if he gets past Gilbert Burns at UFC 273.\r\nUFC president revealed Friday that the prom… [+1459 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Monisha Ravisetti",
-            "title": "Why Scientists Are Worried About the W Boson: 'Something Is Amiss' - CNET",
-            "description": "And that something could totally change one of the universe's most fundamental frameworks.",
-            "url": "https://www.cnet.com/science/why-scientists-are-worried-about-the-w-boson-something-is-amiss/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/9f6532cc083ed1ffe5288fba5ca9825d30da608f/2022/04/07/9c8f4bae-2b3c-46c9-94ff-ca4533a5e6a6/10-0344-15d-hr-1.jpg?auto=webp&fit=crop&height=630&width=1200",
-            "publishedAt": "2022-04-08T19:42:00Z",
-            "content": "The particle detector inside the collision hall.\r\nFermilab\r\nYou've probably heard of protons, positive specks anchoring atoms. You've likely come across electrons, negative blips roaming around those… [+7376 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "The White House is freaked out that Putin's next big win could be in Paris - POLITICO",
-            "description": "If Russia apologist Marine LePen wins the French elections, Washington fears she could unravel the Western NATO alliance.",
-            "url": "https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054",
-            "urlToImage": "https://static.politico.com/97/bf/d38d69184f06b29ee0ca50e20f3f/ap22074444287124-1.jpg",
-            "publishedAt": "2022-04-08T19:00:18Z",
-            "content": "A possible victory by Le Pen, a Putin sympathizer, could destabilize the Western coalition against Moscow, upending Frances role as a leading European power and potentially giving other NATO leaders … [+8401 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Anemona Hartocollis",
-            "title": "Jovan Vavic in Varsity Blues Scandal Is Found Guilty - The New York Times",
-            "description": "Jovan Vavic, the former water polo coach at U.S.C., was accused of taking more than $200,000 in bribes in exchange for designating high school applicants as recruits.",
-            "url": "https://www.nytimes.com/2022/04/08/us/jovan-vavic-varsity-blues-trial.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/04/08/us/00WATER-POLO-TRIAL02/00WATER-POLO-TRIAL02-facebookJumbo.jpg",
-            "publishedAt": "2022-04-08T18:36:01Z",
-            "content": "Mr. Vavic was found guilty on all counts, including conspiracy to commit mail and wire fraud and conspiracy to commit federal programs bribery.\r\nMr. Singer, who is cooperating with the government, ha… [+1229 chars]"
+            "author": "Vimal Patel",
+            "title": "Idaho Supreme Court Halts 6-Week Abortion Ban Based on Texas’ Law - The New York Times",
+            "description": "The court says Idaho’s law cannot go into effect this month as scheduled while it reviews legal challenges. The ban prohibits abortions after fetal cardiac activity is detected.",
+            "url": "https://www.nytimes.com/2022/04/08/us/idaho-supreme-court-abortion.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/04/08/multimedia/08xp-idaho/08xp-idaho-facebookJumbo.jpg",
+            "publishedAt": "2022-04-09T01:38:48Z",
+            "content": "The court also declined to stop the Texas law, which allows any civilian to sue someone who aids or abets a woman in getting an abortion after fetal cardiac activity is detected, usually around six w… [+1110 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "KSL.com"
             },
-            "author": "Emily McCormick",
-            "title": "Stock market news live updates: Stocks dip, tech shares lag with Fed in focus - Yahoo Finance",
-            "description": "U.S. stocks were mixed Friday to cap a choppy trading session as investors continued to contemplate the next policy moves by the Federal Reserve.",
-            "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-april-8-2022-222503347.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A7sTaGJCrc_KIqkpdNn6WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-04/24acc7a0-b6bd-11ec-b56b-6acd52be9100",
-            "publishedAt": "2022-04-08T18:16:16Z",
-            "content": "U.S. stocks were mixed Friday to cap a choppy trading session as investors continued to contemplate the next policy moves by the Federal Reserve.\r\nThe S&amp;P 500 closed down roughly 0.3% after attem… [+8305 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "The Supreme Court question Republicans won't answer - POLITICO",
-            "description": "They could have a Senate majority in 2023. But they won't say, definitively, how they would treat another Joe Biden Supreme Court nominee.",
-            "url": "https://www.politico.com/news/2022/04/08/supreme-court-republicans-00024108",
-            "urlToImage": "https://static.politico.com/3a/8a/bb367f97499da26006a164633b38/https-delivery.gettyimages.com/downloads/1049480902",
-            "publishedAt": "2022-04-08T18:15:13Z",
-            "content": "Grassleys comments reflect Republicans broader disinterest indirectly addressing one of the central questions of the midterm election: Would the Senate GOP repeat its 2016 blockade of a Democratic pr… [+5591 chars]"
+            "author": "John Clyde, KSL.com Contributor",
+            "title": "Parents guide: How 'Ambulance' earned its R rating - KSL.com",
+            "description": "Movie reviewer John Clyde isn't here to tell you whether or not you should check out \"Ambulance,\" he's here to let you know how it earned its R rating.",
+            "url": "https://www.ksl.com/article/50384380/parents-guide-how-ambulance-earned-its-r-rating",
+            "urlToImage": "https://img.ksl.com/slc/2871/287187/28718705.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2022-04-09T01:36:10Z",
+            "content": "Estimated read time: 3-4 minutes\r\nTHE AMBULANCE The movies can be an excellent place to escape reality for an hour or two. You get your popcorn, frozen Jr. Mints and giant soda and sit back in a dark… [+3028 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Footwear News"
+                "name": "Deadline"
             },
-            "author": "Tara Larson",
-            "title": "Travis Barker’s Daughter Alabama Borrows Kourtney Kardashian’s Dress With Silver Heels for ‘The Kardashians’ Premiere - Footwear News",
-            "description": "Kourtney Kardashian wore the dress in 2019.",
-            "url": "https://footwearnews.com/2022/fashion/celebrity-style/alabama-barker-the-kardashians-premiere-kourtney-dress-1203271864/",
-            "urlToImage": "https://footwearnews.com/wp-content/uploads/2022/04/MEGA845859_007-4.jpg",
-            "publishedAt": "2022-04-08T18:15:01Z",
-            "content": "Alabama Barker dug through Kourtney Kardashian’s closet for her latest look.\r\nTravis Barker’s daughter attended the premiere of “The Kardashians” alongside her dad and new stepmom on Thursday night i… [+1402 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Knvul Sheikh, Rose Wong",
-            "title": "Having Covid Can Be Confusing. Here’s What to Expect - The New York Times",
-            "description": "Having Covid can be a wildly confusing experience. But you can still make a plan to get through the course of illness.",
-            "url": "https://www.nytimes.com/2022/04/08/well/covid-timeline-ba2.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/04/06/well/06Well-Covid-Timeline/06Well-Covid-Timeline-facebookJumbo.jpg",
-            "publishedAt": "2022-04-08T18:13:02Z",
-            "content": "The highly contagious subvariant of Omicron, known as BA.2, has prompted concern among health officials as it becomes the dominant version of the coronavirus around the world. So far, signs suggest t… [+7318 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Kenneth Chang",
-            "title": "Highlights From SpaceX and NASA’s First Private Launch to the Space Station - The New York Times",
-            "description": "The Ax-1 mission is carrying three paying passengers and a retired NASA astronaut to the orbital outpost for the company Axiom Space.",
-            "url": "https://www.nytimes.com/live/2022/04/08/science/axiom-nasa-spacex",
-            "urlToImage": "https://static01.nyt.com/images/2022/04/08/science/08spacetourists-launch/merlin_205195524_f447419e-115e-41ea-bdc0-b704761b6f68-articleLarge.jpg",
-            "publishedAt": "2022-04-08T17:15:30Z",
-            "content": "In 1984, during the Reagan administration, the law that established NASA was amended to encourage private enterprise off Earth: The general welfare of the United States of America requires that the N… [+2957 chars]"
+            "author": "Nellie Andreeva",
+            "title": "Chip & Joanna Gaines’ Road From HGTV To HBO As ‘Fixer Upper’ Stars Switch Sides Post-WB/Discovery Merger - Deadline",
+            "description": "In one of the most head-scratching reporting changes under the new Warner Bros. Discovery leadership, Chip and Joanna Gaines’ Magnolia Network has moved from the Discovery to the Warner Bros. side of the company under HBO and HBO Max Chief Content Officer Cas…",
+            "url": "https://deadline.com/2022/04/chip-joanna-gaines-hgtv-hbo-fixer-upper-warner-bros-discovery-merger-1234997644/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2020/04/chip-and-joanna-gaines.jpg?w=1000",
+            "publishedAt": "2022-04-09T01:36:00Z",
+            "content": "In one of the most head-scratching reporting changes under the new Warner Bros. Discovery leadership, Chip and Joanna Gaines’ Magnolia Network has moved from the Discovery to the Warner Bros. side of… [+5972 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "Kim Chandler",
-            "title": "Trans kids, parents fight wave of legislation in red states - The Associated Press",
-            "description": "MONTGOMERY, Ala. (AP) — Ninth grader Harleigh Walker, 15, spends her time after school like many girls her age: doing homework, listening to Taylor Swift, collecting records and hanging out with friends.",
-            "url": "https://apnews.com/article/health-kay-ivey-alabama-taylor-swift-medication-bd04d3f20bfa3888a6634d1b8d192547",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/97dc9e4adadf4135af66e6189aa83e84/2000.jpeg",
-            "publishedAt": "2022-04-08T17:10:15Z",
-            "content": "MONTGOMERY, Ala. (AP) Ninth grader Harleigh Walker, 15, spends her time after school like many girls her age: doing homework, listening to Taylor Swift, collecting records and hanging out with friend… [+6448 chars]"
+            "author": "John Flesher",
+            "title": "Whitmer kidnap plot: 2 men acquitted, hung jury for 2 more - The Associated Press - en Español",
+            "description": "GRAND RAPIDS, Mich. (AP) — A jury on Friday acquitted two men of all charges in a plot to kidnap Michigan Gov.",
+            "url": "https://apnews.com/article/whitmer-kidnap-plot-trial-hung-jury-e5b58234b134e32d9655288a51f107fb",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/64b3c4e124334772835c9199c710a730/1824.jpeg",
+            "publishedAt": "2022-04-09T01:31:29Z",
+            "content": "GRAND RAPIDS, Mich. (AP) A jury on Friday acquitted two men of all charges in a plot to kidnap Michigan Gov. Gretchen Whitmer but couldnt reach verdicts against the two alleged leaders, a stunning de… [+6701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YourTango"
+            },
+            "author": "Aria Gmitter",
+            "title": "The Love Horoscope For Each Zodiac Sign On Saturday, April 9, 2022 - YourTango",
+            "description": "Read today's astrology forecast by checking out your love horoscope for each zodiac sign for April 9, 2022. See what the Aries Sun, Cancer Moon, and stars have in store for you on Saturday.",
+            "url": "https://www.yourtango.com/zodiac/love-horoscope-saturday-april-9-2022",
+            "urlToImage": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/love-horoscope-saturday-april-9-2022.jpeg?itok=O8yYodXG",
+            "publishedAt": "2022-04-09T01:07:54Z",
+            "content": "For Saturday's love horoscope by zodiac sign, resident astrologer Aria Gmitter shares how current astrological events affect you on April 9, 2022.t\r\nVenus and the Sun are what we call 'exalted' right… [+5264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Tom Tapp",
+            "title": "Los Angeles Covid Cases Up 78% In Past Four Days, Although Hospitalizations Show No Sign On Uptick - Deadline",
+            "description": "One week after Los Angeles threw off the last of its Covid restrictions, L.A. Officials are concerned about the spread of the more contagious BA.2 variant, a rise in cases and looming school and religious holidays. “While outbreaks in many sectors remain low,…",
+            "url": "https://deadline.com/2022/04/los-angeles-covid-cases-up-four-days-holidays-1234997668/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/08/Downtown-Los-Angeles-skyline.jpg?w=1024",
+            "publishedAt": "2022-04-09T00:51:00Z",
+            "content": "One week after Los Angelesthrew off the last of its Covid restrictions, L.A. Officials are concerned about the spread of the more contagious BA.2 variant, a rise in cases and looming school and relig… [+3274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pro Football Network"
+            },
+            "author": null,
+            "title": "2022 NFL Mock Draft With Trades: Saints, Seahawks trade up for Evan Neal, Malik Willis - Pro Football Network",
+            "description": "In our latest 2022 NFL Mock Draft with trades, the Seattle Seahawks and New Orleans Saints move up the board to nab their preferred prospects.",
+            "url": "https://www.profootballnetwork.com/2022-nfl-mock-draft-with-trades-saints-seahawks-trade-up/",
+            "urlToImage": "https://www.profootballnetwork.com/wp-content/uploads/2022/04/2022-NFL-Mock-Draft-With-Trades.jpg",
+            "publishedAt": "2022-04-09T00:00:37Z",
+            "content": "2022 NFL Mock Draft | Picks 1-16\r\nThe good thing about the free Pro Football Network Mock Draft Simulator is it comes equipped with trades and this 2022 NFL Mock Draft has plenty of them. Simulating … [+8646 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sara Cook, Nicole Sganga, Robert Legare",
+            "title": "Four suspended Secret Service employees duped in case involving federal agent impostors - CBS News",
+            "description": "The Secret Service investigation will also determine whether the USSS employees will be able to keep their security clearances.",
+            "url": "https://www.cbsnews.com/news/secret-service-employees-suspended-federal-agent-impostors/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/04/08/f715fefe-b608-4857-863a-c892422819f5/thumbnail/1200x630/769a021330f5848d36f3b113d50efed1/image003.jpg",
+            "publishedAt": "2022-04-08T23:29:08Z",
+            "content": "Four Secret Service officials have been suspended after they were allegedly duped by two men who were accused of posing as officers and employees of the federal government.\r\nInvestigators allege that… [+6259 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Yankees-Red Sox score: Four takeaways as Josh Donaldson hits walk-off on MLB Opening Day - CBS Sports",
+            "description": "Donaldson, debuting for his new club, had the Yankees' first Opening Day walk-off hit in more than 60 years",
+            "url": "https://www.cbssports.com/mlb/news/yankees-red-sox-score-four-takeaways-as-josh-donaldson-hits-walk-off-on-mlb-opening-day/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/04/08/4b104424-f004-4ac2-a44a-8409310edc75/thumbnail/1200x675/fa0b1654eeb993dd00f306089f79a661/josh-donaldson-getty.png",
+            "publishedAt": "2022-04-08T23:03:00Z",
+            "content": "NEW YORK -- One week later than originally scheduled and then another day later than that, the New York Yankees and Boston Red Sox opened their 2022 regular seasons at Yankee Stadium on Friday. The Y… [+8316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Will Smith RESPONDS After Academy Bans Him for 10 Years - Entertainment Tonight",
+            "description": "The Academy of Motion Picture Arts and Sciences bans Will Smith from attending the Oscars for 10 years, in response to his actions.",
+            "url": "https://www.youtube.com/watch?v=2j01S0M7x1c",
+            "urlToImage": "https://i.ytimg.com/vi/2j01S0M7x1c/hqdefault.jpg",
+            "publishedAt": "2022-04-08T23:00:03Z",
+            "content": null
         }
     ]
 }
