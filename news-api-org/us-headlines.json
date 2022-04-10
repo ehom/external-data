@@ -4,81 +4,224 @@
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sarah Dean and Ivana Kottasová, CNN",
+            "title": "UK pledges new military assistance for Ukraine after PM's surprise visit to Kyiv - CNN",
+            "description": "The UK is to send 120 armored vehicles and new anti-ship missile systems to Ukraine, Downing Street announced Saturday, after Prime Minister Boris Johnson paid an in-person visit to Ukrainian President Volodymyr Zelensky.",
+            "url": "https://www.cnn.com/2022/04/09/europe/ukraine-uk-boris-johnson-intl-gbr/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220409121829-04-boris-johnson-volodymyr-zelensky-meeting-0409-super-tease.jpg",
+            "publishedAt": "2022-04-10T00:29:00Z",
+            "content": "(CNN)The UK is to send 120 armored vehicles and new anti-ship missile systems to Ukraine, Downing Street announced Saturday, after Prime Minister Boris Johnson paid an in-person visit to Ukrainian Pr… [+4852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Texas woman charged with murder after 'self-induced abortion' - KXAN",
+            "description": "Lizelle Herrera, 26, was arrested on Thursday by the Starr County Sheriff’s Office and charged with murder. Starr County is located near the U.S.-Mexico bord...",
+            "url": "https://www.youtube.com/watch?v=vPOZQzXkgqY",
+            "urlToImage": "https://i.ytimg.com/vi/vPOZQzXkgqY/maxresdefault.jpg",
+            "publishedAt": "2022-04-10T00:01:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "https://www.theguardian.com/profile/scottmurray",
+            "title": "The Masters 2022: third round – as it happened - The Guardian",
+            "description": "Hole-by-hole report: Cameron Smith was the main beneficiary of Moving Day as his 68 took him closer to runaway leader Scottie Scheffler. Scott Murray was watching.",
+            "url": "https://www.theguardian.com/sport/live/2022/apr/09/the-masters-2022-third-round-live",
+            "urlToImage": "https://i.guim.co.uk/img/media/d1b278898706d4a96e9859a45899957c8e04cac8/0_220_6217_3731/master/6217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=97b51932f5aefaf16f326bbb631670d0",
+            "publishedAt": "2022-04-09T23:32:32Z",
+            "content": "1h ago00:32\r\nScottie Schefflers lead was six at one point. Now its been cut to three, with Cameron Smith coming at him with a fine 68. What threatened to turn into a procession is now anything but. S… [+13568 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Pamela Constable",
+            "title": "Pakistan's Prime Minister Imran Khan ousted in no-confidence vote - The Washington Post",
+            "description": "Khan made a last-ditch effort to cling to power, producing a document that he said proved U.S. officials had conspired against him in league with his legislative opponents.",
+            "url": "https://www.washingtonpost.com/world/2022/04/09/pakistan-imran-khan-vote/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXUM3GFX64I6ZA2YECVBMNK7WQ.jpg&w=1440",
+            "publishedAt": "2022-04-09T22:37:57Z",
+            "content": "ISLAMABAD, Pakistan Pakistani Prime Minister Imran Khan was voted out of office early Sunday morning after a tense and chaotic day in which a no confidence vote in Parliament was repeatedly delayed.\r… [+3588 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Cora Engelbrecht, Victoria Kim",
-            "title": "Latest Ukraine-Russia War News: Live Updates - The New York Times",
-            "description": "President Volodymyr Zelensky of Ukraine called for “a firm, global response to this war crime” after a missile strike in Kramatorsk killed at least 50. Ukraine’s railway service said evacuations would proceed from nearby cities.",
-            "url": "https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news",
-            "urlToImage": "https://static01.nyt.com/images/2022/04/09/world/09ukraine-blog-promo-630-EST/09ukraine-blog-promo-630-EST-facebookJumbo.jpg",
-            "publishedAt": "2022-04-09T10:24:07Z",
-            "content": "As the staging ground for an assault on the Ukrainian capital of Kyiv, the Chernobyl Exclusion Zone, one of the most toxic places on earth, was probably not the best choice. But that did not seem to … [+3828 chars]"
+            "author": "Alan Blinder",
+            "title": "At the Masters, Tiger Woods Will Take Some Ice With That - The New York Times",
+            "description": "Woods’s improbable quest for a sixth green jacket rested largely on his recuperation regimen, but the weekend appeared to prove its limitations.",
+            "url": "https://www.nytimes.com/2022/04/09/sports/golf/masters-tiger-woods-injuries.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/04/09/sports/09masters-sidebar/09masters-sidebar-facebookJumbo.jpg",
+            "publishedAt": "2022-04-09T22:27:31Z",
+            "content": "According to Woods, he has not taken a day off from his rehabilitation efforts since he emerged from the three months in bed that followed his one-car wreck near Los Angeles in February 2021. The cra… [+1109 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eonline.com"
+                "name": "BuzzFeed News"
             },
-            "author": "Tierney Bricker",
-            "title": "We Are Answering Every Burning Question You Have About The Ultimatum, Your New Netflix Obsession - E! NEWS",
-            "description": "Already the No. 1 show on Netflix, E! News talked to The Ultimatum creator Chris Coelen to get all the behind-the-scenes secrets about our new reality dating obsession.",
-            "url": "https://www.eonline.com/news/1326560/we-are-answering-every-burning-question-you-have-about-the-ultimatum-your-new-netflix-obsession",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202235/rs_1200x1200-220405133646-1200-ultimatum-alexis.jpg?fit=around%7C1080:566&output-quality=90&crop=1080:566;center,top",
-            "publishedAt": "2022-04-09T10:00:00Z",
-            "content": "The short answer: Chris Coelen, the Kinetic Content CEO responsible for Love Is Blind, Married at First Sight and now The Ultimatum, is just super into reality dating series.\r\n\"We love the relationsh… [+1707 chars]"
+            "author": "Steffi Cao",
+            "title": "People Are Comparing Will Smith’s 10-Year Oscar Ban To How Other Problematic Actors Were Dealt With - BuzzFeed News",
+            "description": "\"This is a performative response to a performative act.\"",
+            "url": "https://www.buzzfeednews.com/article/stefficao/will-smith-oscar-ban-reaction",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-04/9/22/campaign_images/2673987d3f38/people-are-comparing-will-smiths-10-year-oscar-ba-2-7593-1649543638-5_dblbig.jpg",
+            "publishedAt": "2022-04-09T22:18:07Z",
+            "content": "Others noted that the Academy has not shunned Mel Gibson, who has won two Oscars, despite facing accusations of anti-Semitism and domestic violence. Some also observed that Casey Affleck, who has bee… [+2196 chars]"
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Shawna Chen",
-            "title": "\"Stop the Steal\" rally organizer agrees to cooperate with DOJ in Jan. 6 probe - Axios",
-            "description": "He may be able to offer insight into the federal officials who may have helped attempt to block certification of the 2020 election.",
-            "url": "https://www.axios.com/trump-jan-6-doj-investigation-0910c32c-015c-4608-b26a-c9298a99d6d3.html",
-            "urlToImage": "https://images.axios.com/QHpVKNdp6ZYay7_ZG_tgZ4hhBiU=/0x0:7397x4161/1366x768/2022/04/08/1649460980904.jpg",
-            "publishedAt": "2022-04-09T09:44:46Z",
-            "content": "Pro-Trump organizer Ali Alexander confirmed Friday that he is cooperating with the Justice Department's investigation of the Jan. 6 insurrection, Politico reports.\r\nWhy it matters: Alexander, who was… [+1993 chars]"
+            "author": "Erin Cox, Ovetta Wiggins",
+            "title": "Maryland lawmakers overturned Gov. Larry Hogan's vetoes on abortion, paid family leave - The Washington Post",
+            "description": "The new law puts Maryland at the vanguard of abortion rights nationwide, expanding access and requiring most insurance policies to pay for the entire cost of the procedure.",
+            "url": "https://www.washingtonpost.com/dc-md-va/2022/04/09/maryland-lawmakers-override-hogan/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KOF4F3UQAAI6ZKM6F67DPRS4LM.jpg&w=1440",
+            "publishedAt": "2022-04-09T21:51:45Z",
+            "content": "Maryland enacted the most sweeping change to its abortion laws in three decades on Saturday, as Democratic state lawmakers overrode Republican Gov. Larry Hogans veto.\r\nThe new law puts Maryland at th… [+7276 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "TMZ"
+                "name": "Daily Mail"
             },
-            "author": "TMZ Staff",
-            "title": "Pete Davidson Will Have to Wait to Appear on Hulu's 'The Kardashians' - TMZ",
-            "description": "Pete Davidson was in front of 'The Kardashians' cams Thursday, but fans will have to wait for his big debut.",
-            "url": "https://www.tmz.com/2022/04/09/pete-davidson-the-kardashians-hulu-show-debut/",
-            "urlToImage": "https://imagez.tmz.com/image/51/16by9/2022/04/08/51c6f001a4c4448f907c76c985d33c38_xl.png",
-            "publishedAt": "2022-04-09T08:00:00Z",
-            "content": "Pete Davidson has a lot in the works these days, but his future is set to include reality show appearances as well ... including his GF's brand-spankin' new show.\r\nCameras were rolling for \"The Karda… [+928 chars]"
+            "author": "Kate Dennett, Amelia Wynne, Greg Woodfield",
+            "title": "Brooklyn Beckham's proud grandfather Ted arrives at star-studded wedding - Daily Mail",
+            "description": "The father of David Beckham, 74, appeared to be in excellent spirits as he stepped out at the Peltz's sprawling oceanfront compound alongside his wife Hilary Meredith.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-10703657/Spice-Girl-Mel-C-fashion-designer-Rachel-Zoe-guests-Beckham-wedding.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/04/09/23/56421257-0-image-a-174_1649543707566.jpg",
+            "publishedAt": "2022-04-09T21:36:30Z",
+            "content": "Brooklyn Beckham's grandfather Ted joined the likes of Spice Girl Mel C and Eva Longoria arriving at the star-studded nuptials of Brooklyn Beckham and Nicola Peltz on Saturday afternoon at her family… [+22805 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Post"
             },
-            "author": "Mark Cannizzaro",
-            "title": "Masters 2022: Tiger Woods defies odds again due to mental toughness - New York Post ",
-            "description": "It didn’t look good. Then we saw what might be Woods’ greatest trait on the golf course kick in: his unwavering willingness to grind.",
-            "url": "https://nypost.com/2022/04/09/tiger-woods-defies-odds-again-because-of-mental-toughness/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/USA-GOLF-THE-MASTERS-5.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2022-04-09T06:46:00Z",
-            "content": "AUGUSTA, Ga. You can like Tiger Woods, love him, dislike him or even loathe him. \r\nBut, purely as a golfer, he deserves your respect. \r\nWoods the person always has been complicated. He has, at times,… [+4573 chars]"
+            "author": "Jon Levine",
+            "title": "Israel raids town of Palestinian terrorist who killed three - New York Post ",
+            "description": "Raad Hazem, 28, was killed Thursday by Israeli security forces after an eight-hour manhunt when he was found hiding near a mosque in the Arab neighborhood of Jaffa.",
+            "url": "https://nypost.com/2022/04/09/israel-raids-town-of-palestinian-terrorist-who-killed-three/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/jenin-raid-comp.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-04-09T21:18:00Z",
+            "content": "Israeli military forces raided the hometown of a Palestinian gunman, two days after the terrorist opened fire in a crowded bar in Tel Aviv, killing three people.\r\nRaad Hazem, 28, was killed Thursday … [+1845 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Sarakshi Rai",
+            "title": "CDC warns of meningococcal disease outbreak in Florida primarily affecting gay, bi men - The Hill",
+            "description": "The Centers for Disease Control and Prevention (CDC) issued a health warning about an outbreak of meningococcal disease in Florida, which the agency said is mainly affecting gay and bisexual men, including those living with HIV.  The CDC urged gay and bisexua…",
+            "url": "https://thehill.com/policy/healthcare/3263319-cdc-warns-of-meningococcal-disease-outbreak-in-florida-primarily-affecting-gay-bi-men/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2021/10/ca_cdccoronaviruscases_030420getty_8.jpg?w=1280",
+            "publishedAt": "2022-04-09T21:15:00Z",
+            "content": "The Centers for Disease Control and Prevention (CDC) issued a health warning about an outbreak of meningococcal disease in Florida, which the agency said is mainly affecting gay and bisexual men, inc… [+2100 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Times"
+                "name": "Deadline"
             },
-            "author": "Karen Weise",
-            "title": "Amazon, Labor Organizers File Objections to Alabama Union Vote - The New York Times",
-            "description": "The company listed a series of complaints against an upstart union’s organizing efforts. Both Amazon and another union noted objections to another vote in Alabama.",
-            "url": "https://www.nytimes.com/2022/04/08/business/amazon-alabama-union-vote-objections.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/04/08/business/08Amazon-labor-sub/08Amazon-labor-sub-facebookJumbo.jpg",
-            "publishedAt": "2022-04-09T05:34:00Z",
-            "content": "Based on the evidence weve seen so far, as set out in our objections, we believe that the actions of the N.L.R.B. and the A.L.U. improperly suppressed and influenced the vote, and we think the electi… [+1892 chars]"
+            "author": "Bruce Haring",
+            "title": "Amber Heard Sounds Off Before Johnny Depp Defamation Trial: “I Have Always Maintained A Love For Johnny” - Deadline",
+            "description": "Johnny Depp’s multimillion-dollar defamation lawsuit against Amber Heard is set to start on Monday. But before the fireworks begin, Amber Heard gave her Instagram followers a taste of her mood. “Johnny is suing me for an op-ed I wrote in the Washington Post, …",
+            "url": "https://deadline.com/2022/04/amber-heard-johnny-depp-defamation-trial-pre-trial-heads-up-1234998209/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/02/Johnny-Depp-Amber-Heard-1.jpg?w=1000",
+            "publishedAt": "2022-04-09T21:12:00Z",
+            "content": "Johnny Depp’s multimillion-dollar defamation lawsuit against Amber Heard is set to start on Monday. But before the fireworks begin, Amber Heard gave her Instagram followers a taste of her mood.\r\n“Joh… [+2039 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "William Booth, Emily Rauhala, Michael Birnbaum",
+            "title": "Ukraine wants heavy weapons. What NATO countries send now will shape the war. - The Washington Post",
+            "description": "What NATO countries supply now will shape the war.",
+            "url": "https://www.washingtonpost.com/world/2022/04/09/nato-heavy-weapons-ukraine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JZYP23VVDAI6ZA2YECVBMNK7WQ.jpg&w=1440",
+            "publishedAt": "2022-04-09T21:00:00Z",
+            "content": "Ukrainian officials are clear on what they want from the United States and Europe: weapons. Big, heavy weapons. Not helmets. Tanks.\r\nThey say they need these weapons now, not later. And a lot of them… [+11446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "Jack White marries musician Olivia Jean in on-stage surprise - The Guardian",
+            "description": "Star proposes in Detroit while singing lyric ‘let’s get married’, before ceremony performed by label co-founder",
+            "url": "https://amp.theguardian.com/music/2022/apr/09/jack-white-marries-olivia-jean-on-stage-surprise",
+            "urlToImage": null,
+            "publishedAt": "2022-04-09T20:54:00Z",
+            "content": "Jack WhiteStar proposes in Detroit while singing lyric lets get married, before ceremony performed by label co-founder\r\nAssociated Press in Detroit\r\nJack White surprised fans by marrying the musician… [+1367 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "BY JOHN LEICESTER I THE ASSOCIATED PRESS",
+            "title": "In France, a nail-biting election as Macron’s rival surges - The Hill",
+            "description": "POISSY, France (AP) — From the market stall outside Paris that she’s run for 40 years, Yvette Robert can see first-hand how soaring prices are weighing on France’s presidential election and turning the first round of voting on Sunday into a nail-biter for inc…",
+            "url": "https://thehill.com/news/wire/3263310-in-france-a-nail-biting-election-as-macrons-rival-surges/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/macronemmanuel_102221ap-pool_mckinsey.jpg",
+            "publishedAt": "2022-04-09T20:23:00Z",
+            "content": "FILE – French President Emmanuel Macron speaks during a media conference at an EU summit in Brussels, Friday, Oct. 22, 2021. One of President Joe Bidens toughest meetings at the G-20 summit may be wi… [+6251 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Marisa Schultz",
+            "title": "Texas AG Paxton invites legal fight with Biden admin over busing migrants to DC: 'I'm daring them' - Fox News",
+            "description": "Texas may be poised for a legal showdown with the Biden administration over immigration policy as the state's top attorney said he would urge GOP Gov. Greg Abbott to send migrants to Washington D.C. – flouting federal laws.",
+            "url": "https://www.foxnews.com/politics/texas-invites-legal-fight-biden-administration-busing-migrants-dc",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/Ken-Paxton-Feb.-28-2022.jpg",
+            "publishedAt": "2022-04-09T20:21:21Z",
+            "content": "Texas may be poised for a legal showdown with the Biden administration over immigration policy as the state's top attorney said he would urge GOP Gov. Greg Abbott to send migrants to Washington D.C. … [+5537 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "HALELUYA HADERO | THE ASSOCIATED PRESS",
+            "title": "Amazon seeks to overturn union win, says vote was tainted - The Hill",
+            "description": "Amazon is seeking to overturn the historic union victory at one of its New York City warehouses, arguing in a legal filing Friday that union organizers and the National Labor Relations Board acted in a way that tainted the results. It now wants to redo the el…",
+            "url": "https://thehill.com/news/wire/3263299-amazon-seeks-to-overturn-union-win-says-vote-was-tainted/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/AmazonStatenIsland_UnionVote_102521APCraigRuttle.jpg?w=1280",
+            "publishedAt": "2022-04-09T19:54:00Z",
+            "content": "Amazon is seeking to overturn the historic union victory at one of its New York City warehouses, arguing in a legal filing Friday that union organizers and the National Labor Relations Board acted in… [+4638 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Twitter reverts change that left blank spaces in place of deleted embedded tweets - The Verge",
+            "description": "Twitter has confirmed that it has reversed a change that left blank spaces in place of deleted tweets that had been embedded in a website. Now, embedded deleted tweets will show its text in a block quote.",
+            "url": "https://www.theverge.com/2022/4/9/23018126/twitter-reverts-change-left-blank-spaces-websites-embedded-tweets",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/wKKSgbRLHB_QxDbI_4dUGoOMyvY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8966107/acastro_170726_1777_0012.jpg",
+            "publishedAt": "2022-04-09T19:44:49Z",
+            "content": "Twitter says its exploring different options\r\nIllustration by Alex Castro / The Verge\r\nTwitter has confirmed it reversed a change that altered the appearance of deleted tweets embedded on websites ou… [+1901 chars]"
         },
         {
             "source": {
@@ -86,181 +229,38 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "British, French divers rescued in Malaysia after more than two days at sea - Reuters.com",
-            "description": "A French woman and British man who disappeared at sea while diving off the coast of Malaysia were found safe on Saturday after drifting for some 100 km (80 miles) for two and a half days after they went missing, police said.",
-            "url": "https://www.reuters.com/world/asia-pacific/british-french-divers-rescued-malaysia-after-more-than-two-days-sea-2022-04-09/",
-            "urlToImage": "https://www.reuters.com/resizer/B6MB02LVB19n7SlhLa3G0e4021Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZTHVUOSGS5JLXMW2TE5AILRP2U.jpg",
-            "publishedAt": "2022-04-09T05:16:00Z",
-            "content": "MERSING, Malaysia, April 9 (Reuters) - A French woman and British man who disappeared at sea while diving off the coast of Malaysia were found safe on Saturday after drifting for some 100 km (80 mile… [+1929 chars]"
+            "title": "Space station's first all-private astronaut team welcomed aboard orbiting platform - Reuters.com",
+            "description": "The first all-private team of astronauts ever launched to the International Space Station (ISS) were welcomed aboard the orbiting research platform on Saturday to begin a weeklong science mission hailed as a milestone in commercial spaceflight.",
+            "url": "https://www.reuters.com/lifestyle/science/space-stations-first-all-private-astronaut-team-arrives-orbiting-platform-2022-04-09/",
+            "urlToImage": "https://www.reuters.com/resizer/Qpjpf1SmpPGR6WibebttTk1zfEg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DTLJZOGIONJBTHAQG64HSZ2IYQ.jpg",
+            "publishedAt": "2022-04-09T19:32:00Z",
+            "content": "April 9 (Reuters) - The first all-private team of astronauts ever launched to the International Space Station (ISS) were welcomed aboard the orbiting research platform on Saturday to begin a weeklong… [+4575 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Caitlin McFall",
+            "title": "Russian troops dug trenches in Chernobyl's highly radioactive 'red forest' - Fox News",
+            "description": "Russia forces have vacated the area surrounding Chernobyl, but Ukrainian officials are now sounding the alarm that troops were likely exposed to high amounts of radiation after they intentionally disturbed radioactive dust, reports said Saturday.",
+            "url": "https://www.foxnews.com/world/russian-troops-dug-trenches-chernobyl-highly-radioactive-red-forest",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Chernobyl-iStock-2.jpg",
+            "publishedAt": "2022-04-09T19:17:00Z",
+            "content": "Russia forces have vacated the area surrounding Chernobyl, but Ukrainian officials are now sounding the alarm that troops were likely exposed to high amounts of radiation after they intentionally dis… [+2806 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "FRANCE 24 English"
             },
-            "author": "Jesse O’Neill",
-            "title": "Zelensky recalls 'death, just death' in Ukraine suburb during '60 Minutes' interview - New York Post ",
-            "description": "Ukrainian President Volodymyr Zelensky said he visited Bucha, a northern suburb of Kyiv where Russian soldiers are said to have slaughtered civilians in a series of apparent war crimes earlier this…",
-            "url": "https://nypost.com/2022/04/09/ukraine-president-zelensky-tells-60-minutes-he-saw-death-just-death-after-touring-bucha/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/04/newspress-collage-21839065-1649477918707.png?w=1024",
-            "publishedAt": "2022-04-09T05:05:00Z",
-            "content": "Ukrainian President Volodymyr Zelensky said his country is “defending the ability of a person to live in the modern world” by fighting off Russian invaders.\r\nZelensky, 44, made the comments in an int… [+2082 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "Nations Eye Modern Arms for Ukraine as Soviet-Era Stocks Dwindle - Bloomberg",
-            "description": null,
-            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=f7b08a02-b7e2-11ec-a553-5a6e66734c72&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNC0wOS9uYXRpb25zLWV5ZS1tb2Rlcm4tYXJtcy1mb3ItdWtyYWluZS1hcy1zb3ZpZXQtZXJhLXN0b2Nrcy1kd2luZGxl",
-            "urlToImage": null,
-            "publishedAt": "2022-04-09T04:00:00Z",
-            "content": "To continue, please click the box below to let us know you're not a robot."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "UFC 273 Embedded: Vlog Series - Episode 6 - UFC - Ultimate Fighting Championship",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGhqSX6z6Osg",
-            "urlToImage": null,
-            "publishedAt": "2022-04-09T03:56:27Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Vimal Patel",
-            "title": "Idaho Supreme Court Halts 6-Week Abortion Ban Based on Texas’ Law - The New York Times",
-            "description": "The court says Idaho’s law cannot go into effect this month as scheduled while it reviews legal challenges. The ban prohibits abortions after fetal cardiac activity is detected.",
-            "url": "https://www.nytimes.com/2022/04/08/us/idaho-supreme-court-abortion.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/04/08/multimedia/08xp-idaho/08xp-idaho-facebookJumbo.jpg",
-            "publishedAt": "2022-04-09T01:38:48Z",
-            "content": "The court also declined to stop the Texas law, which allows any civilian to sue someone who aids or abets a woman in getting an abortion after fetal cardiac activity is detected, usually around six w… [+1110 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "John Clyde, KSL.com Contributor",
-            "title": "Parents guide: How 'Ambulance' earned its R rating - KSL.com",
-            "description": "Movie reviewer John Clyde isn't here to tell you whether or not you should check out \"Ambulance,\" he's here to let you know how it earned its R rating.",
-            "url": "https://www.ksl.com/article/50384380/parents-guide-how-ambulance-earned-its-r-rating",
-            "urlToImage": "https://img.ksl.com/slc/2871/287187/28718705.jpg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2022-04-09T01:36:10Z",
-            "content": "Estimated read time: 3-4 minutes\r\nTHE AMBULANCE The movies can be an excellent place to escape reality for an hour or two. You get your popcorn, frozen Jr. Mints and giant soda and sit back in a dark… [+3028 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Nellie Andreeva",
-            "title": "Chip & Joanna Gaines’ Road From HGTV To HBO As ‘Fixer Upper’ Stars Switch Sides Post-WB/Discovery Merger - Deadline",
-            "description": "In one of the most head-scratching reporting changes under the new Warner Bros. Discovery leadership, Chip and Joanna Gaines’ Magnolia Network has moved from the Discovery to the Warner Bros. side of the company under HBO and HBO Max Chief Content Officer Cas…",
-            "url": "https://deadline.com/2022/04/chip-joanna-gaines-hgtv-hbo-fixer-upper-warner-bros-discovery-merger-1234997644/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2020/04/chip-and-joanna-gaines.jpg?w=1000",
-            "publishedAt": "2022-04-09T01:36:00Z",
-            "content": "In one of the most head-scratching reporting changes under the new Warner Bros. Discovery leadership, Chip and Joanna Gaines’ Magnolia Network has moved from the Discovery to the Warner Bros. side of… [+5972 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "John Flesher",
-            "title": "Whitmer kidnap plot: 2 men acquitted, hung jury for 2 more - The Associated Press - en Español",
-            "description": "GRAND RAPIDS, Mich. (AP) — A jury on Friday acquitted two men of all charges in a plot to kidnap Michigan Gov.",
-            "url": "https://apnews.com/article/whitmer-kidnap-plot-trial-hung-jury-e5b58234b134e32d9655288a51f107fb",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/64b3c4e124334772835c9199c710a730/1824.jpeg",
-            "publishedAt": "2022-04-09T01:31:29Z",
-            "content": "GRAND RAPIDS, Mich. (AP) A jury on Friday acquitted two men of all charges in a plot to kidnap Michigan Gov. Gretchen Whitmer but couldnt reach verdicts against the two alleged leaders, a stunning de… [+6701 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YourTango"
-            },
-            "author": "Aria Gmitter",
-            "title": "The Love Horoscope For Each Zodiac Sign On Saturday, April 9, 2022 - YourTango",
-            "description": "Read today's astrology forecast by checking out your love horoscope for each zodiac sign for April 9, 2022. See what the Aries Sun, Cancer Moon, and stars have in store for you on Saturday.",
-            "url": "https://www.yourtango.com/zodiac/love-horoscope-saturday-april-9-2022",
-            "urlToImage": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/love-horoscope-saturday-april-9-2022.jpeg?itok=O8yYodXG",
-            "publishedAt": "2022-04-09T01:07:54Z",
-            "content": "For Saturday's love horoscope by zodiac sign, resident astrologer Aria Gmitter shares how current astrological events affect you on April 9, 2022.t\r\nVenus and the Sun are what we call 'exalted' right… [+5264 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Tom Tapp",
-            "title": "Los Angeles Covid Cases Up 78% In Past Four Days, Although Hospitalizations Show No Sign On Uptick - Deadline",
-            "description": "One week after Los Angeles threw off the last of its Covid restrictions, L.A. Officials are concerned about the spread of the more contagious BA.2 variant, a rise in cases and looming school and religious holidays. “While outbreaks in many sectors remain low,…",
-            "url": "https://deadline.com/2022/04/los-angeles-covid-cases-up-four-days-holidays-1234997668/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2021/08/Downtown-Los-Angeles-skyline.jpg?w=1024",
-            "publishedAt": "2022-04-09T00:51:00Z",
-            "content": "One week after Los Angelesthrew off the last of its Covid restrictions, L.A. Officials are concerned about the spread of the more contagious BA.2 variant, a rise in cases and looming school and relig… [+3274 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pro Football Network"
-            },
-            "author": null,
-            "title": "2022 NFL Mock Draft With Trades: Saints, Seahawks trade up for Evan Neal, Malik Willis - Pro Football Network",
-            "description": "In our latest 2022 NFL Mock Draft with trades, the Seattle Seahawks and New Orleans Saints move up the board to nab their preferred prospects.",
-            "url": "https://www.profootballnetwork.com/2022-nfl-mock-draft-with-trades-saints-seahawks-trade-up/",
-            "urlToImage": "https://www.profootballnetwork.com/wp-content/uploads/2022/04/2022-NFL-Mock-Draft-With-Trades.jpg",
-            "publishedAt": "2022-04-09T00:00:37Z",
-            "content": "2022 NFL Mock Draft | Picks 1-16\r\nThe good thing about the free Pro Football Network Mock Draft Simulator is it comes equipped with trades and this 2022 NFL Mock Draft has plenty of them. Simulating … [+8646 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Sara Cook, Nicole Sganga, Robert Legare",
-            "title": "Four suspended Secret Service employees duped in case involving federal agent impostors - CBS News",
-            "description": "The Secret Service investigation will also determine whether the USSS employees will be able to keep their security clearances.",
-            "url": "https://www.cbsnews.com/news/secret-service-employees-suspended-federal-agent-impostors/",
-            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/04/08/f715fefe-b608-4857-863a-c892422819f5/thumbnail/1200x630/769a021330f5848d36f3b113d50efed1/image003.jpg",
-            "publishedAt": "2022-04-08T23:29:08Z",
-            "content": "Four Secret Service officials have been suspended after they were allegedly duped by two men who were accused of posing as officers and employees of the federal government.\r\nInvestigators allege that… [+6259 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Yankees-Red Sox score: Four takeaways as Josh Donaldson hits walk-off on MLB Opening Day - CBS Sports",
-            "description": "Donaldson, debuting for his new club, had the Yankees' first Opening Day walk-off hit in more than 60 years",
-            "url": "https://www.cbssports.com/mlb/news/yankees-red-sox-score-four-takeaways-as-josh-donaldson-hits-walk-off-on-mlb-opening-day/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/04/08/4b104424-f004-4ac2-a44a-8409310edc75/thumbnail/1200x675/fa0b1654eeb993dd00f306089f79a661/josh-donaldson-getty.png",
-            "publishedAt": "2022-04-08T23:03:00Z",
-            "content": "NEW YORK -- One week later than originally scheduled and then another day later than that, the New York Yankees and Boston Red Sox opened their 2022 regular seasons at Yankee Stadium on Friday. The Y… [+8316 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Will Smith RESPONDS After Academy Bans Him for 10 Years - Entertainment Tonight",
-            "description": "The Academy of Motion Picture Arts and Sciences bans Will Smith from attending the Oscars for 10 years, in response to his actions.",
-            "url": "https://www.youtube.com/watch?v=2j01S0M7x1c",
-            "urlToImage": "https://i.ytimg.com/vi/2j01S0M7x1c/hqdefault.jpg",
-            "publishedAt": "2022-04-08T23:00:03Z",
-            "content": null
+            "author": "France 24",
+            "title": "Twitter stakeholder Elon Musk tweets 'Is Twitter dying?' - FRANCE 24 English",
+            "description": "Twitter's newest board member and largest stakeholder Elon Musk tweeted Saturday to ask if the social media network was \"dying\" and to call out users such as singer Justin Bieber, who are highly followed but rarely post.",
+            "url": "https://www.france24.com/en/live-news/20220409-twitter-stakeholder-elon-musk-tweets-is-twitter-dying",
+            "urlToImage": "https://s.france24.com/media/display/12d67722-b827-11ec-92bc-005056bf30b7/w:1280/p:16x9/2193b3abac009af88651a16ce7fff03c0266ee67.jpg",
+            "publishedAt": "2022-04-09T17:04:11Z",
+            "content": "San Francisco (AFP) Twitter's newest board member and largest stakeholder Elon Musk tweeted Saturday to ask if the social media network was \"dying\" and to call out users such as singer Justin Bieber,… [+2099 chars]"
         }
     ]
 }
