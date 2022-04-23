@@ -4,107 +4,55 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Katie Glueck, Frances Robles",
+            "title": "Ron DeSantis Punishes Disney in a G.O.P. Brawl With Business - The New York Times",
+            "description": "Gov. Ron DeSantis’s move to revoke the company’s special tax status in Florida showed how combative his party has grown toward corporations that are increasingly taking a stand on political issues.",
+            "url": "https://www.nytimes.com/2022/04/22/us/politics/desantis-disney-florida.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/04/22/multimedia/22pol-desantis-photo01/22pol-desantis-photo01-facebookJumbo.jpg",
+            "publishedAt": "2022-04-23T00:12:52Z",
+            "content": "How is this not blackmail? said Scott Randolph, the Orange County tax collector. Why would a business want to invest in Florida when the entire rules can change in 72 hours? To me this sends a scary … [+2645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FOX 5 DC"
+            },
+            "author": "FOX 5 DC",
+            "title": "Northwest DC shooting: Active shooter leaves 4 injured; suspect at large - FOX 5 DC",
+            "description": "Police have identified a person of interest connected to a shooting that left four people injured near a school in Northwest DC.",
+            "url": "https://www.fox5dc.com/news/northwest-dc-shooting-active-shooter",
+            "urlToImage": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/04/1280/720/GettyImages-1240159907.jpg?ve=1&tl=1",
+            "publishedAt": "2022-04-23T00:00:00Z",
+            "content": "WASHINGTON - Police have identified a person of interest connected to a shooting that left four people injured near a school in Northwest DC. \r\nOfficials announced they are searching for 23-year-old … [+2558 chars]"
+        },
+        {
+            "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Joshua Berlinger and Joseph Ataman, CNN",
-            "title": "Macron vs. Le Pen: The French presidential election runoff explained - CNN",
-            "description": "Emmanuel Macron is the favorite, but his rival Marine Le Pen is rising in the polls, suggesting the election could be more tightly fought than when the pair went head-to-head in 2017. Here's what you need to know about the candidates and the issues.",
-            "url": "https://www.cnn.com/2022/04/21/europe/macron-le-pen-france-election-runoff-2-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220411150223-20220604-french-election-macron-lepen-gfx-super-tease.jpg",
-            "publishedAt": "2022-04-22T10:22:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WABC-TV"
-            },
-            "author": "Candace McCowan",
-            "title": "Handyman David Bonola appears in court in gruesome murder of Queens mom stabbed more than 55 times - WABC-TV",
-            "description": "David Bonola appeared before a judge to answer to charges after the body of Orsolya Gaal was found in a duffel bag in Queens.",
-            "url": "https://abc7ny.com/david-bonola-orsolya-gaal-woman-dead-duffle-bag/11779086/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/11779102_042222-wabc-queens-mom-suspect-court-img.jpg?w=1600",
-            "publishedAt": "2022-04-22T08:48:45Z",
-            "content": "FOREST HILLS, Queens (WABC) -- The suspect in the murder of a Queens mother of two appeared before a judge made his first court appearance.Late Thursday night, more details about what allegedly happe… [+1851 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "A New England Patriot and a conservative billionaire are trying to take down a GOP senator - POLITICO",
-            "description": "The challenge against Sen. John Boozman has one of the biggest Republican donors on one side and Donald Trump on the other.",
-            "url": "https://www.politico.com/news/2022/04/22/boozman-bequette-republican-donor-arkansas-00027089",
-            "urlToImage": "https://static.politico.com/cc/2f/daaf0c7643bb88dde3f1ae44051b/russia-ukraine-war-washington-91319.jpg",
-            "publishedAt": "2022-04-22T08:30:00Z",
-            "content": "In response, Boozman has raced to maintain Trumps support, get backup from Republican leaders and receive his own funding from major contributors looking to protect him. The incumbent has started air… [+7312 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Karoun Demirjian, Amy Cheng",
-            "title": "US sends Ukraine Phoenix Ghost drones, howitzers to combat Russia - The Washington Post",
-            "description": "The Phoenix Ghosts are similar to Switchblade drones — small and precise weapons that can strike targets in “kamikaze” fashion.",
-            "url": "https://www.washingtonpost.com/world/2022/04/22/ukraine-russia-phoenix-ghost-drones-howitzer/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F4O3CAFPFAI6ZHN5BVDATVCMDQ.jpg&w=1440",
-            "publishedAt": "2022-04-22T08:21:09Z",
-            "content": "Placeholder while article actions load\r\nPresident Biden announced an additional $800 million in military assistance for Ukraine on Thursday, with the initial portion arriving over the weekend. The pa… [+3718 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Bloomberg News",
-            "title": "China’s Plunging Markets Trigger Capital Flight, State Support - Yahoo Finance",
-            "description": "(Bloomberg) -- It’s been a painful week for traders of China’s stocks, bonds and currency as growing fears about the fallout from the nation’s Covid Zero...",
-            "url": "https://finance.yahoo.com/news/china-urges-big-investors-buy-011721908.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/htqyLVyW3hlK9.fXtJ0Pyg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/8b1bf54c5ab9da8637c7e964721a93c2",
-            "publishedAt": "2022-04-22T08:12:49Z",
-            "content": "(Bloomberg) -- Its been a painful week for traders of Chinas stocks, bonds and currency as growing fears about the fallout from the nations Covid Zero strategy send markets tumbling.\r\nMost Read from … [+5011 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Mavericks' Jalen Brunson sent to the locker room after controversial hit from Jazz's Royce O'Neale - CBS Sports",
-            "description": "Brunson left with a back injury was eventually able to come back into the game",
-            "url": "https://www.cbssports.com/nba/news/mavericks-jalen-brunson-sent-to-the-locker-room-after-controversial-hit-from-jazzs-royce-oneale/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/04/22/dabdf8c5-c32c-488a-af80-2e2821533299/thumbnail/1200x675/77209cb1336918b171d0027696c7baa1/untitled-design-2022-04-21t214955-593.png",
-            "publishedAt": "2022-04-22T06:45:00Z",
-            "content": "With Luka Doncic sidelined by a calf injury, the Dallas Mavericks needed their supporting cast to step up in their first-round series with the Utah Jazz. In Game 2 on Monday night, Jalen Brunson did … [+1645 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Silvia Amaro, Katrina Bishop",
-            "title": "European markets trade lower after Fed's Powell signals a rate hike next month - CNBC",
-            "description": "European stocks fell in early trading on Friday after the Fed's Powell said a rate hike is on the table next month.",
-            "url": "https://www.cnbc.com/2022/04/22/europe-markets-open-to-close-friday.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107023934-1646244124616-gettyimages-1238877008-powell339_030222.jpeg?v=1646244168&w=1920&h=1080",
-            "publishedAt": "2022-04-22T06:35:35Z",
-            "content": "European stocks fell in early trading on Friday after Federal Reserve Chair Jerome Powell said a half-percentage point rate hike is \"on the table\" for next month.\r\nThe pan-European Stoxx 600 dropped … [+3556 chars]"
+            "author": "Shawna Mizelle, Pete Muntean",
+            "title": "FAA apologizes for Army Golden Knights incident that prompted Capitol evacuation - CNN",
+            "description": "The Federal Aviation Administration is taking responsibility for Wednesday night's mishap involving the Army Golden Knights that resulted in the US Capitol being evacuated.",
+            "url": "https://www.cnn.com/2022/04/22/politics/faa-apology-capitol-evacuation-golden-knights/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220422154131-army-golen-knights-nationals-0420.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-04-22T23:25:00Z",
+            "content": "The Federal Aviation Administration is taking responsibility for Wednesday nights mishap involving the Army Golden Knights that resulted in the US Capitol being evacuated.\r\nWe deeply regret that we c… [+1372 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Brie Stimson",
-            "title": "Israeli police, Palestinians clash again at Al-Aqsa mosque in Jerusalem amid heightened tensions - Fox News",
-            "description": "Israeli police and Palestinians clashed again Friday morning at the Al-Aqsa Mosque in Jerusalem, a holy site important to both Jews and Muslims.",
-            "url": "https://www.foxnews.com/world/israeli-police-palestinians-clash-al-aqsa-mosque-holy-site-jerusalem-tension",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/04/AP22112156713846.jpg",
-            "publishedAt": "2022-04-22T06:33:53Z",
-            "content": "Israeli police and Palestinians clashed again Friday morning at the Al-Aqsa Mosque in Jerusalem, a holy site important to both Jews and Muslims.\r\nThe skirmish left more than two dozen Palestinians in… [+2258 chars]"
+            "author": "Louis Casiano",
+            "title": "Man tries lighting self on fire in front of US Supreme Court - Fox News",
+            "description": "A medical helicopter landed near the steps of the U.S. Supreme Court Friday after someone tried lighting himself on fire.",
+            "url": "https://www.foxnews.com/us/lighting-fire-supreme-court",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/06/Court.jpeg",
+            "publishedAt": "2022-04-22T23:18:00Z",
+            "content": "A medical helicopter landed Friday near the steps of the U.S. Capitol after a man tried lighting himself on fire just across the street at the U.S. Supreme Court.\r\nU.S. Capitol Police said the helico… [+680 chars]"
         },
         {
             "source": {
@@ -112,155 +60,207 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Ukrainian fighters hold on as Putin claims victory in Mariupol - Reuters",
-            "description": "Ukrainian fighters were clinging to their last redoubt in Mariupol on Friday after Russian President Vladimir Putin claimed victory in the biggest battle of the war, declaring the port city \"liberated\" following weeks of relentless bombardment.",
+            "title": "Kyiv accuses Moscow of 'imperialism' after Russia flags interest in south Ukraine - Reuters",
+            "description": "Moscow wants to take full control over southern Ukraine, a Russian general said on Friday, a statement Ukraine said gave the lie to Russia's previous assertions that it had no territorial ambitions.",
             "url": "https://www.reuters.com/world/europe/ukrainian-fighters-hold-putin-claims-victory-mariupol-2022-04-22/",
-            "urlToImage": "https://www.reuters.com/resizer/rV-qx2tWESYZPSrHYJbh6lAUPhs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LI4D3DIWC5MGHP34S4ZFOSMPBM.jpg",
-            "publishedAt": "2022-04-22T06:07:00Z",
-            "content": "KYIV, April 22 (Reuters) - Ukrainian fighters were clinging to their last redoubt in Mariupol on Friday after Russian President Vladimir Putin claimed victory in the biggest battle of the war, declar… [+5150 chars]"
+            "urlToImage": "https://www.reuters.com/resizer/iOvudQALKsKR3Q11yi2NJnV6ezU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WYL655MBCZNIPEXLAZ43EIUBTE.jpg",
+            "publishedAt": "2022-04-22T22:57:00Z",
+            "content": "KYIV/MARIUPOL, Ukraine, April 22 (Reuters) - Moscow wants to take full control over southern Ukraine, a Russian general said on Friday, a statement Ukraine said gave the lie to Russia's previous asse… [+6884 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Arelis R. Hernández",
+            "title": "Texas soldier drowns during border rescue attempt - The Washington Post",
+            "description": "A Texas National Guard soldier drowned early Friday as he attempted to rescue migrants caught in the swift currents of the Rio Grande near Eagle Pass, Tex. The Guard member was deployed as part of Gov. Greg Abbott's border security initiative, Operation Lone …",
+            "url": "https://www.washingtonpost.com/nation/2022/04/22/texas-soldier-drowns-border/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JFB6C4GLFQI6XL6QS4TPP3ALUY.jpg&w=1440",
+            "publishedAt": "2022-04-22T22:52:00Z",
+            "content": "Placeholder while article actions load\r\nA Texas National Guard soldier drowned early Friday in the Rio Grande while trying to rescue migrants struggling with swift currents as they crossed the border… [+3524 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Celina Tebor, Ryan W. Miller and Christal Hayes, USA TODAY",
+            "title": "Russia says 1 dead, 27 missing after storied warship sunk by Ukrainians; Second mass grave found near Mariupol, officials say: Live updates - USA TODAY",
+            "description": "Russian official says new phase is about influencing Ukraine's economy. Mariupol still contested. Russia details death toll from Moskva warship. Live updates.",
+            "url": "https://www.usatoday.com/story/news/world/2022/04/22/ukraine-russia-invasion-live-updates/7404389001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/04/22/USAT/85fa2093-7138-493f-9a81-373e3a1680ef-AFP_AFP_328R4H7.jpg?auto=webp&crop=7261,4084,x1,y400&format=pjpg&width=1200",
+            "publishedAt": "2022-04-22T22:41:15Z",
+            "content": "A day after Russian President Vladimir Putin claimed his troops were victorious in the battle for Mariupol, a Russian military official laid out wider aims in the country's new phase of the war in ea… [+9066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Krystal Hur",
+            "title": "Cramer's week ahead: Tech giants report earnings, be ready to act on market bounces - CNBC",
+            "description": "\"You can put a little money to work on days like today … but only if you have the money to begin with,\" the \"Mad Money\" host said Friday.",
+            "url": "https://www.cnbc.com/2022/04/22/cramers-week-ahead-tech-giants-report-earnings-be-ready-for-bounces.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106980383-1637817315754-gettyimages-1231159359-AFP_92Y9HA.jpeg?v=1647294792&w=1920&h=1080",
+            "publishedAt": "2022-04-22T22:34:33Z",
+            "content": "CNBC's Jim Cramer urged investors to take advantage of down days like Friday to prepare portfolios for the Federal Reserve's upcoming interest rate hikes but only if they have the means to do so.\r\n\"A… [+4013 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Lucas Manfredi",
+            "title": "Elon Musk registers three 'X Holdings' companies to support Twitter takeover bid - Fox Business",
+            "description": "Elon Musk has registered three companies in Delaware under the name ‘X Holdings’ to support his bid to buy Twitter and take the social media giant private.",
+            "url": "https://www.foxbusiness.com/markets/elon-musk-holding-companies-twitter",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/04/0/0/Musk-Twitter-stake.png?ve=1&tl=1",
+            "publishedAt": "2022-04-22T22:14:19Z",
+            "content": "Elon Musk has registered three companies in Delaware under the name \"X Holdings\" to support his bid to buy Twitter and take the social media giant private. \r\n<table><tr><th>Ticker</th><th>Security</t… [+3729 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "ESPN"
             },
-            "author": "Kendra Andrews",
-            "title": "Golden State Warriors take Denver Nuggets' best punch, grab 3-0 series lead - ESPN",
-            "description": "The Denver Nuggets put up a good fight and got 37 points from Nikola Jokic, but it wasn't enough as the Golden State Warriors won 118-113 to go up 3-0 in the series.",
-            "url": "https://www.espn.com/nba/story/_/id/33783027/golden-state-warriors-take-denver-nuggets-best-punch-grab-3-0-series-lead",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0422%2Fr1003008_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-04-22T05:11:15Z",
-            "content": "DENVER -- Ahead of Thursday night's Game 3, Denver Nuggets coach Michael Malone vowed to \"go down swinging\" in the NBA playoffs against the Golden State Warriors while trying to find some fight withi… [+5710 chars]"
+            "author": null,
+            "title": "Sources - Joel Embiid experiencing pain in thumb but expects to play in Game 4 - ESPN",
+            "description": "Joel Embiid is experiencing pain and discomfort in his right thumb but expects to play in Saturday's Game 4, sources told ESPN.",
+            "url": "https://www.espn.com/nba/story/_/id/33787286/sources-joel-embiid-experiencing-pain-thumb-expects-play-game-4",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0422%2Fr1003246_1024x576_16%2D9.jpg",
+            "publishedAt": "2022-04-22T22:07:20Z",
+            "content": "Philadelphia 76ers star Joel Embiid is experiencing significant pain and discomfort in his right thumb and could get an MRI in the near future to determine whether there is ligament damage, sources t… [+1132 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Mail"
+                "name": "YouTube"
             },
-            "author": "Harriet Alexander",
-            "title": "'Epic disaster': CNN+ shutdown leaves laid-off staffers furious as Fox News gloats - Daily Mail",
-            "description": "CNN+ staffers have reacted with fury to Thursday's decision to end the streaming service, only three weeks after it launched. Fox News hosts were laughing at their rival's difficulties.",
-            "url": "https://www.dailymail.co.uk/news/article-10741797/Epic-disaster-CNN-shutdown-leaves-laid-staffers-furious-Fox-News-gloats.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/04/22/05/56910173-0-image-a-98_1650601869063.jpg",
-            "publishedAt": "2022-04-22T04:48:01Z",
-            "content": "Staff at CNN's short-lived streaming service CNN+ have been left 'aghast and furious' at management after the decision to end the service after only three weeks - describing it as 'an absolute debacl… [+7121 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Nathan Hodge, Julia Presniakova, Katie Polglase, Jennifer Hauser, Hira Humayun and Julia Hollingsworth, CNN",
-            "title": "Mass graves near besieged Ukrainian city Mariupol are evidence of war crimes, say Ukrainian officials - CNN",
-            "description": "Ukrainian officials say they have identified mass graves outside the city of Mariupol, which they say adds to mounting proof of Russian war crimes against Ukrainian civilians.",
-            "url": "https://www.cnn.com/2022/04/22/europe/mariupol-ukraine-russia-intl-hnk/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220421205310-ukraine-mariupol-mass-graves-0323-super-tease.jpg",
-            "publishedAt": "2022-04-22T04:40:00Z",
+            "author": null,
+            "title": "Texas Board of Pardons and Paroles discussing Melissa Lucio case Monday - WFAA",
+            "description": "The board could grant clemency to the death row inmate, which Gov. Greg Abbott has the power to grant or deny.",
+            "url": "https://www.youtube.com/watch?v=Fx88wCDE0e4",
+            "urlToImage": "https://i.ytimg.com/vi/Fx88wCDE0e4/hqdefault.jpg",
+            "publishedAt": "2022-04-22T21:39:10Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Sky.com"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Large hadron collider: A revamp that could revolutionise physics - BBC.com",
-            "description": "The BBC gets an exclusive look at the upgraded machine helping to overhaul our understanding of the Universe.",
-            "url": "https://www.bbc.com/news/science-environment-61149387",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/40CE/production/_124209561_atlas.jpg",
-            "publishedAt": "2022-04-22T04:30:05Z",
-            "content": "By Pallab GhoshScience correspondent\r\nImage caption, A hundred metres underground at the heart of the LHC: I'm shown around a ''majestic cathedral to science''\r\nDeep underground amidst the Alps, scie… [+12258 chars]"
+            "author": "Sky",
+            "title": "Prince Louis: Duchess of Cambridge takes four new photos to mark son's fourth birthday - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/prince-louis-duchess-of-cambridge-takes-four-new-photos-to-mark-sons-fourth-birthday-12596242",
+            "urlToImage": "https://e3.365dm.com/22/04/1600x900/skynews-prince-louis-louis_5747945.jpg?20220422175213",
+            "publishedAt": "2022-04-22T21:31:20Z",
+            "content": "Four new pictures of Prince Louis, taken by his mother, have been released to mark his fourth birthday.\r\nThe images were snapped earlier this month in Norfolk and show him running on a seemingly dese… [+1203 chars]"
         },
         {
             "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
+                "id": null,
+                "name": "9to5google.com"
             },
-            "author": "Nick Kostov",
-            "title": "France issues international arrest warrant for Carlos Ghosn - Fox Business",
-            "description": "French prosecutors also issued warrants for four others for allegedly helping the former Renault executive enrich himself.",
-            "url": "https://www.wsj.com/articles/france-issues-international-arrest-warrant-for-carlos-ghosn-11650578738",
-            "urlToImage": "https://images.wsj.net/im-529127/social",
-            "publishedAt": "2022-04-22T04:20:26Z",
-            "content": "PARISFrench prosecutors issued international arrest warrants for Carlos Ghosn as well as four individuals they say are linked to an auto dealer in Oman, alleging they helped the fallen auto titan fun… [+605 chars]"
+            "author": null,
+            "title": "Sources: Pixel 6 Pro was supposed to launch with face unlock - 9to5Google",
+            "description": "9to5Google can report today that the Pixel 6 Pro was originally planned to launch with face unlock, but it was pulled close to launch...",
+            "url": "https://9to5google.com/2022/04/22/pixel-6-pro-face-unlock/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/04/pixel_6_pro_face_unlock_1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-04-22T21:10:00Z",
+            "content": "9to5Google can report today that Google’s original plan was to launch the Pixel 6 Pro with face unlock, but the feature was pulled relatively close to launch.\r\nAccording to sources familiar with the … [+2633 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "Farnoush Amiri",
-            "title": "Audio: McCarthy said he would urge Trump to resign - The Associated Press",
-            "description": "WASHINGTON (AP) — House Republican leader Kevin McCarthy told fellow GOP lawmakers shortly after the Jan. 6, 2021, Capitol insurrection that he would urge then-President Donald Trump to resign, according to audio posted Thursday night by The New York Times   …",
-            "url": "https://apnews.com/21966d3d89abf913dcf20c17ac5b256b",
+            "author": "Lisa Mascaro, Farnoush Amiri",
+            "title": "McCarthy, Trump have 'positive' call despite Jan. 6 audio - The Associated Press",
+            "description": "WASHINGTON (AP) — House Republican leader Kevin McCarthy had a “positive” call with Donald Trump and appeared to be suffering little political blowback Friday from the release of audio in which he suggested the president should resign shortly after the Jan.",
+            "url": "https://apnews.com/article/capitol-siege-2022-midterm-elections-kevin-mccarthy-rachel-maddow-2dda5a508f77bb14fe31b0fa89b08197",
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/1b105f7f3ae84b91a4d6a0e6c1371904/3000.jpeg",
-            "publishedAt": "2022-04-22T04:07:30Z",
-            "content": "WASHINGTON (AP) House Republican leader Kevin McCarthy told fellow GOP lawmakers shortly after the Jan. 6, 2021, Capitol insurrection that he would urge then-President Donald Trump to resign, accordi… [+6436 chars]"
+            "publishedAt": "2022-04-22T21:06:51Z",
+            "content": "WASHINGTON (AP) House Republican leader Kevin McCarthy had a positive call with Donald Trump and appeared to be suffering little political blowback Friday from the release of audio in which he sugges… [+6569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WGAL Susquehanna Valley Pa."
+            },
+            "author": "Anne Shannon",
+            "title": "Control zone is critical to stopping spread of avian flu, agriculture secretary says - WGAL Susquehanna Valley Pa.",
+            "description": "Pennsylvania Secretary of Agriculture Russell Redding provided an update Friday on efforts to stop the spread of the avian flu.",
+            "url": "https://www.wgal.com/article/millions-of-chickens-in-lancaster-county-destroyed-because-of-avian-flu/39798366",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/images/avian-flu-control-zone-1650661512.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+            "publishedAt": "2022-04-22T21:05:00Z",
+            "content": "Nearly 3.5 million chickens in Lancaster County have been destroyed because of avian flu.\r\nDespite that, state Secretary of Agriculture Russell Redding said he's encouraged about where Pennsylvania s… [+1284 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Shawna Mizelle and Sam Fossum, CNN",
-            "title": "Biden takes swipe at GOP's assault on Disney: 'They're going after Mickey Mouse' - CNN",
-            "description": "President Joe Biden on Thursday criticized the Republican Party over its confrontation with Disney and suggested the \"far right has taken over the party.\"",
-            "url": "https://www.cnn.com/2022/04/21/politics/joe-biden-disney-republican-party/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220421211314-joe-biden-file-super-tease.jpg",
-            "publishedAt": "2022-04-22T03:56:00Z",
-            "content": null
+            "author": "Jay Croft, Steve Contorno",
+            "title": "Florida releases 4 examples from math textbooks it rejected for public schools - CNN",
+            "description": "Florida education officials have released four images from some of the math textbooks the state rejected this month, citing what they said were references to critical race theory or other \"prohibited\" topics.",
+            "url": "https://www.cnn.com/2022/04/22/us/florida-math-textbooks-critical-race-theory-examples/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220422073627-02-florida-banned-math-books.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-04-22T20:46:00Z",
+            "content": "Florida education officials have released four images from some of the math textbooks the state rejected this month, citing what they said werereferences to critical race theory or other prohibited t… [+5381 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "Our first impressions after driving FedEx’s new electric delivery van - Ars Technica",
+            "description": "BrightDrop and FedEx drove an electric van from NYC to DC—then let Ars have a try.",
+            "url": "https://arstechnica.com/cars/2022/04/our-first-impressions-after-driving-fedexs-new-electric-delivery-van/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/BrightDrop-Zevo-600-1-760x380.jpg",
+            "publishedAt": "2022-04-22T20:40:06Z",
+            "content": "Enlarge/ BrightDrop made efficient use of GM's new electric vehicle platform, bringing the Zevo 600 from idea to reality in less than two years.\r\n46 with 30 posters participating, including story aut… [+4207 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Minneapolis Star Tribune"
+                "name": "New York Times"
             },
-            "author": "Chris Hine",
-            "title": "Timberwolves rock Target Center, but melt down late in 104-95 Game 3 loss to Memphis - Star Tribune",
-            "description": "Ahead by 26 points in the first quarter and 25 in the third, the Timberwolves lost both leads in a stunning collapse. That 25-point lead? It disappeared in a stretch of less than seven minutes.",
-            "url": "https://www.startribune.com/timberwolves-grizzlies-collapse-26-25-point-leads-nba-playoffs-karl-anthony-towns/600166923/",
-            "urlToImage": "https://chorus.stimg.co/23408568/08_13WOLF042222.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
-            "publishedAt": "2022-04-22T03:33:38Z",
-            "content": "This Timberwolves team could only resist its fate for so long.\r\nIt's the fate that befalls a lot of Minnesota men's professional sports teams the inevitability that they will bring crushing disappoin… [+3454 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Julia Hollingsworth, CNN",
-            "title": "Why Australia and the US care so much about China's security pact with a tiny Pacific island nation - CNN",
-            "description": "When China announced it had inked a security pact with a tiny Pacific island this week, there was little fanfare -- at least from Beijing. Though details of the final agreement haven't been released, some onlookers say the agreement makes Australia less safe …",
-            "url": "https://www.cnn.com/2022/04/21/australia/solomon-islands-china-pact-apac-threat-intl-hnk-dst/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220421030014-pm-sogavare-xi-jinping-file-10092019-super-tease.jpg",
-            "publishedAt": "2022-04-22T03:21:00Z",
-            "content": null
+            "author": "Coral Murphy Marcos",
+            "title": "Stocks Tumble as Jitters over Interest Rates Persist - The New York Times",
+            "description": "Friday was the S&P 500’s worst day since early March. Recent comments from Fed officials have fueled expectations that interest rates will climb far faster than anyone had thought.",
+            "url": "https://www.nytimes.com/2022/04/22/business/stocks-tumble-interest-rate.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/04/22/business/22stocks/22stocks-facebookJumbo.png",
+            "publishedAt": "2022-04-22T20:30:18Z",
+            "content": "The prospect of a fast increase in interest rates has hit technology stocks particularly hard. Facebook, Microsoft, Amazon and Alphabet, Googles parent company, are down more than 10 percent for the … [+2001 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "INSIDER"
+                "name": "SciTechDaily"
             },
-            "author": "Azmi Haroun",
-            "title": "Kris Jenner testifies that Kylie and Tyga told her Blac Chyna threatened Kylie - Insider",
-            "description": "Kris Jenner took the stand on the fourth day of Blac Chyna's $108 million defamation lawsuit against the Kardashian-Jenner family.",
-            "url": "https://www.insider.com/kris-jenner-says-stands-claim-that-blac-chyna-threatened-kylie-2022-4",
-            "urlToImage": "https://i.insider.com/626023dd4f524b00194d6411?width=1200&format=jpeg",
-            "publishedAt": "2022-04-22T02:32:30Z",
-            "content": "Kris Jenner took the stand on the third day of Blac Chyna's $108 million defamation lawsuit against the Kardashian-Jenner family and told the courtroom that she discussed allegations that Blac Chyna … [+3104 chars]"
+            "author": null,
+            "title": "Large Hadron Collider Restarts After 3 Years of Upgrades: Particle Collisions at World-Record Energy Levels - SciTechDaily",
+            "description": "Beams of protons are again circulating around the collider’s 27-kilometer ring, marking the end of a multiple-year hiatus for upgrade work. In 2022, CERN is restarting the LHC after more than three years of maintenance and upgrades, known as Long Shutdown 2 (…",
+            "url": "https://scitechdaily.com/large-hadron-collider-restarts-after-3-years-of-upgrades-particle-collisions-at-world-record-energy-levels/",
+            "urlToImage": "https://scitechdaily.com/images/Particle-Collision-Illustration.jpg",
+            "publishedAt": "2022-04-22T20:21:42Z",
+            "content": "The Large Hadron Collider, the worlds largest and most powerful particle accelerator, restarted on April 22, 2022, after more than three years of maintenance, consolidation, and upgrade work.\r\nBeams … [+3629 chars]"
         },
         {
             "source": {
-                "id": "marca",
-                "name": "Marca"
+                "id": "nfl-news",
+                "name": "NFL News"
             },
-            "author": "LW",
-            "title": "Amber Heards defense shows photos of drugs and a passed out Johnny Depp - Marca English",
-            "description": "Given that we are still living in a judgemental society, trials like the one of Johnny Depp vs Amber Heard tend to be flooded with evidence of substance abuse in order to incrimina",
-            "url": "https://www.marca.com/en/lifestyle/celebrities/2022/04/22/626206f746163faf888b45a0.html",
-            "urlToImage": "https://phantom-marca.unidadeditorial.es/8067010db5ffb2f56e50effd2104d8dd/resize/1200/f/jpg/assets/multimedia/imagenes/2022/04/22/16505912252576.jpg",
-            "publishedAt": "2022-04-22T01:38:00Z",
-            "content": "Given that we are still living in a judgemental society, trials like the one of Johnny Depp vs Amber Heard tend to be flooded with evidence of substance abuse in order to incriminate one of the invol… [+1876 chars]"
+            "author": "Bucky Brooks",
+            "title": "2022 NFL Draft: All-Pros, Pro Bowlers and overachievers in this class - NFL.com",
+            "description": "Bucky Brooks sorts the 2022 NFL Draft class into All-Pros and Pro Bowlers. Where do Kyle Hamilton and Drake London land? Plus, five prospects who can outperform their draft position.",
+            "url": "https://www.nfl.com/news/2022-nfl-draft-all-pros-pro-bowlers-and-overachievers-in-this-class",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/hgyjh0f28w5vfrztli6k",
+            "publishedAt": "2022-04-22T19:39:00Z",
+            "content": "Georgia's Jordan Davis and Devonte Wyatt are the marquee interior defenders in the class. As athletic run-stoppers with flashes of pass-rush skills, they could come off the board as mid-to-late first… [+1517 chars]"
         }
     ]
 }
