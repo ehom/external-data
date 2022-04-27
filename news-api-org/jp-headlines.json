@@ -1,70 +1,96 @@
 {
     "status": "ok",
-    "totalResults": 30,
+    "totalResults": 29,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Weathernews.jp"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "ウェザーニュース",
-            "title": "今日27日(水)の天気 関東はスッキリしない空 北日本は暴風に警戒 - ウェザーニュース",
-            "description": "今日4月27日(水)は前線が通過する影響で、朝は関東から西の太平洋側で雨が降ったり止んだりする予想です。午後にかけて段々と天気は回復するものの、北日本は西よりの風が強く暴風に警戒が必要です。",
-            "url": "https://weathernews.jp/s/topics/202204/270005/",
-            "urlToImage": "https://smtgvs.weathernews.jp/s/topics/img/202204/202204270005_top_img_A.png?1651004183",
-            "publishedAt": "2022-04-26T22:01:00Z",
-            "content": "{{topic.rank}}\r\n{{topic.pageTitle}}{{editTstr(topic.editTime)}}"
+            "author": "Reuters Staff",
+            "title": "スペースＸ、ＩＳＳに向け宇宙船打ち上げ - ロイター (Reuters Japan)",
+            "description": "イーロン・マスク氏の米宇宙企業スペースＸは２７日、フロリダ州ケープカナベラルのケネディ宇宙センターから国際宇宙ステーション（ＩＳＳ）に向けて宇宙船クルードラゴンを打ち上げた。",
+            "url": "https://jp.reuters.com/article/space-exploration-spacex-iss-idJPKCN2MJ0SW",
+            "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20220427&t=2&i=1598090793&r=LYNXNPEI3Q0E2&w=800",
+            "publishedAt": "2022-04-27T10:11:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Mantan-web.jp"
+                "name": "Gizmodo.jp"
             },
-            "author": "株式会社MANTAN",
-            "title": "機動戦士ガンダム ククルス・ドアンの島：異形のドアン専用ザクがHGに “鼻”が長い！ - MANTANWEB",
-            "description": "アニメ「機動戦士ガンダム」のキャラクターデザインなどを担当した安彦良和さんが監督を務める劇場版アニメ「機動戦士ガンダム ククルス・ドアンの島」（6月3日公開）に登場するMS-06F ドアン専用ザクのプラモデルが、...",
-            "url": "https://mantan-web.jp/article/20220426dog00m200054000c.html",
-            "urlToImage": "https://storage.mantan-web.jp/images/2022/04/26/20220426dog00m200054000c/001_size6.jpg",
-            "publishedAt": "2022-04-26T22:00:00Z",
-            "content": "63MS-06F HGHG 1144 2200\r\n4277\r\nRX-78-02 HG 1144 RX-78-02 2530\r\n19791515"
+            "author": "塚本直樹",
+            "title": "あらら…未更新アプリはApp Storeから消されるようですよ - GIZMODO JAPAN",
+            "description": "開発者のProtopop Gamesが報告した内容によると、Appleから無料ゲームの｢Motivoto｣について、｢2年以上更新が行なわれていないから、削除します。猶予期間は30日間です｣との連絡がきたそう。",
+            "url": "https://www.gizmodo.jp/2022/04/application-app-store-erase.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/04/27/220427appstore-w960.jpeg",
+            "publishedAt": "2022-04-27T10:00:00Z",
+            "content": "I feel sick. Apple just sent me an email saying they're removing my free game Motivoto because its more than 2 years old.\r\nIt's part of their App improvement system.\r\nThis is not cool. Console games … [+151 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Gekisaka.jp"
+                "name": "Oricon.co.jp"
+            },
+            "author": "-",
+            "title": "柿原徹也・梶裕貴・浪川大輔ら、男性声優30名による豪華J-POPカバーアルバム 3タイトル発売決定 - ORICON NEWS",
+            "description": "人気の男性声優30名がJ-POPのヒットソングをカバーするアルバム『[Re:collection]HITSONGcoverseriesfeat.voiceactors』が、7月27日に3タイトル同時発売されることが明らかになった。　本作では、1990年代・2000年代・2010年代の誰もが知る名曲・全30曲を年代別に収録し、全3枚のアルバムとして同時リリース。男性ボーカルのみならず、女性ボーカルやグループ楽曲などバラエティーに富んだラインナップが収録されており、「ロビンソン（スピッツ）／Vocal:小野賢章」、「…",
+            "url": "https://www.oricon.co.jp/news/2233001/full/",
+            "urlToImage": "https://contents.oricon.co.jp/cdn-cgi/image/width=750,quality=85,format=auto/upimg/news/2234000/2233001/20220427_163958_p_o_1998.jpg",
+            "publishedAt": "2022-04-27T09:00:00Z",
+            "content": "30J-POP [Re:collection] HIT SONG cover series feat.voice actors7273\r\n[Recollection] HIT SONG cover series feat.voice actors~10's-20's EDITION~ \r\n199020002010303Vocal:HOWEVERGLAYVocal:Vocal:GReeeeNVoc… [+975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hochi.news"
+            },
+            "author": "報知新聞社",
+            "title": "白井一行審判のコールに甲子園はざわめき 佐々木朗希騒動以来の出場で三塁塁審…阪神―中日戦 - スポーツ報知",
+            "description": "試合前の両チームのスタメンが発表され、審判団の陣容も明らかに。",
+            "url": "https://hochi.news/articles/20220427-OHT1T51118.html",
+            "urlToImage": "https://hochi.news/images/2022/04/27/20220427-OHT1I51187-L.jpg",
+            "publishedAt": "2022-04-27T08:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nhk.or.jp"
             },
             "author": null,
-            "title": "逃げるシティに追うレアル…激戦のCL準決勝はマンチェスター・Cが4-3先勝!! | ゲキサカ - ゲキサカ",
-            "description": "[4.26 欧州CL準決勝 マンチェスター・C 4-3 R・マドリー]　UEFAチャンピオンズリーグは26日、準決勝第1戦を行い、マンチェスター・シティがレアル・マドリーを4-3で破った。ホームのマンチェスター・Cが打ち...",
-            "url": "https://web.gekisaka.jp/news/detail/?357491-357491-fl",
-            "urlToImage": "https://f.image.geki.jp/data/image/news/2560/358000/357491/news_357491_1.jpg",
-            "publishedAt": "2022-04-26T21:28:00Z",
-            "content": "[4.26 CL C 4-3 R]UEFA2614-3C254R\r\nC4-3-3GK4DFDFDFDF3MFMFMF3FWFWFW\r\nR4-3-3GK4DFDFDFDF3MFMFMFMFFWFW1FW\r\nC211\r\nCR33C36MF\r\nRDFCC2\r\n8CR101\r\n3-2R25MFCB\r\nR3235TFKRPK21\r\nC12\r\n(CL)21-222021-222021-22"
+            "title": "知床 観光船遭難【速報】運航会社社長が初会見 当日の状況は - nhk.or.jp",
+            "description": "北海道の知床半島の沖合で観光船が遭難した事故は発生から5日目。観光船の運航会社「知床遊覧船」の桂田精一社長の初めての記者…",
+            "url": "https://www3.nhk.or.jp/news/html/20220427/k10013601231000.html",
+            "urlToImage": "https://www3.nhk.or.jp/news/html/20220427/K10013601231_2204271704_0427170516_01_03.jpg",
+            "publishedAt": "2022-04-27T08:32:45Z",
+            "content": "5450"
         },
         {
             "source": {
                 "id": null,
-                "name": "Bloomberg.co.jp"
+                "name": "Security-next.com"
             },
             "author": null,
-            "title": "グーグル親会社１－３月、売上高が予想下回る－ユーチューブ広告不振 - ブルームバーグ",
-            "description": "米グーグルの親会社アルファベットが26日発表した１－３月（第１四半期）決算では、売上高がアナリスト予想にわずかに届かなかった。市場予想を下回るのは珍しい。欧州の広告収入鈍化と動画サービス、ユーチューブの不振が響いた。株価は時間外取引で一時約６％下落した。",
-            "url": "https://www.bloomberg.co.jp/news/articles/2022-04-26/RAYRN4DWRGG101",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUkwuFYcGqcY/v0/1200x800.jpg",
-            "publishedAt": "2022-04-26T21:23:00Z",
-            "content": "米グーグルの親会社\r\nアルファベットが26日発表した１－３月（第１四半期）決算では、売上高がアナリスト予想にわずかに届かなかった。市場予想を下回るのは珍しい。欧州の広告収入鈍化と動画サービス、ユーチューブの不振が響いた。株価は時間外取引で一時約６％下落した。 \r\n　　アルファベットは700億ドル（約８兆9000億円）の自社株買い計画も明らかにした。\r\n　　発表資料によると、１ー３月の売上高はパー… [+831 chars]"
+            "title": "【セキュリティ ニュース】Google、「Chrome 101」をリリース - 30件のセキュリティ修正を実施（1ページ目 / 全1ページ）：Security NEXT - Security NEXT",
+            "description": "Googleは、WindowsやmacOS、Linux向けにブラウザの最新版「Chrome 101.0.4951.41」をリリースした。：Security NEXT",
+            "url": "https://www.security-next.com/136189",
+            "urlToImage": null,
+            "publishedAt": "2022-04-27T08:02:23Z",
+            "content": "GoogleWindowsmacOSLinuxChrome 101.0.4951.41\r\n30CVE25Critical\r\n1High7Use After Free5Medium14Low4\r\nCVE-2022-1477CVE-2022-1478CVE-2022-1479CVE-2022-1480CVE-2022-1481CVE-2022-1482CVE-2022-1483CVE-2022-14… [+296 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Ryukyushimpo.jp"
+                "name": "YouTube"
             },
-            "author": "琉球新報社",
-            "title": "連休中、まん延防止見送り 玉城沖縄知事「感染防止行動を」 - 琉球新報デジタル",
-            "description": "県は26日、新型コロナウイルス感染症対策本部会議を開き、29日～5月22日までの間の県対処方針を決定した。県内では感染状況の高止まりが続いているが、県はまん延防止等重点措置の要請は見送り、3年ぶりに社会...",
-            "url": "https://ryukyushimpo.jp/news/entry-1508334.html",
-            "urlToImage": "https://030b46df30379e0bf930783bea7c8649.cdnext.stream.ne.jp/archives/002/202204/a8c891f1b3a1a6f546c6edcbe9341466.jpg",
-            "publishedAt": "2022-04-26T21:00:00Z",
+            "author": null,
+            "title": "ポーランドとブルガリアへの天然ガス供給 ロシアが停止を通告(2022年4月27日) - ANNnewsCH",
+            "description": "東ヨーロッパのポーランドとブルガリアは、ロシア側から天然ガスの供給を停止すると通告されたことが明らかになりました。　ポーランドのモラビエツキ首相は26日、ロシアのガス大手「ガスプロム」から27日以降、天然ガスの供給を停止する通告を受けたと発表しました。　ロシアは3月、友好的でない国に対しエネルギーの代金をロシア通...",
+            "url": "https://www.youtube.com/watch?v=gJbbjv_jx7U",
+            "urlToImage": "https://i.ytimg.com/vi/gJbbjv_jx7U/hqdefault.jpg",
+            "publishedAt": "2022-04-27T08:01:47Z",
             "content": null
         },
         {
@@ -73,116 +99,90 @@
                 "name": "Tokyo-np.co.jp"
             },
             "author": "東京新聞 TOKYO Web",
-            "title": "住民が木にしがみつき中止訴え…現場のずさんさ判明 神田警察通りのイチョウ伐採問題 - 東京新聞",
-            "description": "東京都千代田区が「神田警察通り」の整備に伴うイチョウ並木の伐採工事に着手してから２日目の２６日、工事の中止を求める住民らは引き続き現場...",
-            "url": "https://www.tokyo-np.co.jp/article/174095",
-            "urlToImage": "https://static.tokyo-np.co.jp/image/article/size1/f/5/3/b/f53b2a8031dee3f84b9134223519e03b_1.jpg",
-            "publishedAt": "2022-04-26T21:00:00Z",
+            "title": "＜新型コロナ・27日＞東京都で新たに6052人感染、6人死亡 病床使用率21.4% - 東京新聞",
+            "description": "東京都は27日、新型コロナウイルスの新たな感染6052人と6人の死亡を確認したと発表した。重症者は都の基準で15人。病床使用率は21....",
+            "url": "https://www.tokyo-np.co.jp/article/174255",
+            "urlToImage": "https://static.tokyo-np.co.jp/image/article/size1/a/e/1/1/ae1182a0a90d54c30814e77f032c7d15_1.jpg",
+            "publishedAt": "2022-04-27T07:50:48Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Nhk.or.jp"
+                "name": "Daily.co.jp"
             },
-            "author": null,
-            "title": "NYダウ 800ドル超の大幅下落 中国の感染拡大で景気減速に警戒 - nhk.or.jp",
-            "description": "26日のニューヨーク株式市場は、中国での新型コロナウイルスの感染拡大などを受けて景気が減速することへの警戒が強まり、ダウ…",
-            "url": "https://www3.nhk.or.jp/news/html/20220427/k10013601111000.html",
-            "urlToImage": "https://www3.nhk.or.jp/news/html/20220427/K10013601111_2204270550_0427055447_01_02.jpg",
-            "publishedAt": "2022-04-26T20:55:47Z",
-            "content": "26800\r\n26\r\n809283324018\r\nIT3.9\r\nWTI1102"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nhk.or.jp"
-            },
-            "author": null,
-            "title": "ワクチン4回目接種 推奨対象は60歳以上と基礎疾患のある人に - nhk.or.jp",
-            "description": "新型コロナウイルスワクチンの4回目の接種について、厚生労働省は27日、分科会を開き、推奨する対象を▽60歳以上と▽基礎疾…",
-            "url": "https://www3.nhk.or.jp/news/html/20220427/k10013601071000.html",
-            "urlToImage": "https://www3.nhk.or.jp/news/html/20220427/K10013601071_2204270533_0427053342_01_02.jpg",
-            "publishedAt": "2022-04-26T20:37:33Z",
-            "content": ""
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nhk.or.jp"
-            },
-            "author": null,
-            "title": "観光船遭難事故 海上保安本部は捜索継続 安全管理の実態把握も - nhk.or.jp",
-            "description": "北海道 知床半島の沖合で起きた観光船の遭難事故は発生から5日目となります。行方不明者の発見が難航する中、海上保安本部は2…",
-            "url": "https://www3.nhk.or.jp/news/html/20220427/k10013600991000.html",
-            "urlToImage": "https://www3.nhk.or.jp/news/html/20220427/K10013600991_2204262252_0427050330_01_02.jpg",
-            "publishedAt": "2022-04-26T20:06:39Z",
-            "content": "527"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yomiuri.co.jp"
-            },
-            "author": "読売新聞オンライン",
-            "title": "発見の人骨は子供の頭部か、不明女児との関連を捜査…山梨のキャンプ場付近 : 社会 : ニュース - 読売新聞オンライン",
-            "description": "山梨県道志村のキャンプ場付近の山中で、子供の頭部とみられる骨の一部が見つかったことが２６日、捜査関係者への取材で分かった。県警はＤＮＡ鑑定などで身元の特定を進めるとともに、同日朝から約４０人態勢で周囲を捜索した。キャン",
-            "url": "https://www.yomiuri.co.jp/national/20220427-OYT1T50039/",
-            "urlToImage": "https://www.yomiuri.co.jp/media/2022/04/20220427-OYT1I50024-T.jpg?type=ogp",
-            "publishedAt": "2022-04-26T20:00:00Z",
-            "content": "295523002022/04/27 05:00:002022/04/27 08:39:232022/04/27 08:39:23https://www.yomiuri.co.jp/media/2022/04/20220427-OYT1I50024-T.jpg?type=thumbnail"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkansports.com"
-            },
-            "author": "日刊スポーツ",
-            "title": "EXILE７月から２年４カ月ぶりドームツアー ATSUSHI“限定復活”で20周年イヤー彩る - 音楽 - ニッカンスポーツ",
-            "description": "EXILEが26日、全国アリーナツアー「REDPHOENIX」の大阪城ホール公演を行い、7月からドームツアー「POWEROFWISH」を開催することを発表した… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-            "url": "https://www.nikkansports.com/entertainment/news/202204260000707.html",
-            "urlToImage": "https://www.nikkansports.com/entertainment/news/img/202204260000707-w500_0.jpg",
-            "publishedAt": "2022-04-26T19:00:00Z",
-            "content": "EXILE26RED PHOENIX7POWER OF WISH2011ATSUSHI4120\r\n2024516ATSUSHI11000ATSUSHI\r\n20226511ATSUSHI25\r\n19ATSUSHIEXILEEXILE\r\nSHOKICHI36AKIRA40226226\r\nATSUSHIPOWER OF WISH11TOWER OF WISHATSUSHI1819STAR OF WIS… [+26 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yomiuri.co.jp"
-            },
-            "author": "読売新聞オンライン",
-            "title": "常任理事国の拒否権行使の乱用防止へ、国連総会が決議案を無投票で採択 - 読売新聞オンライン",
-            "description": "【ニューヨーク＝寺口亮一】国連総会は２６日、安全保障理事会の常任理事国が拒否権を行使した際に国連総会での説明を求める決議案を、総会の総意として無投票で採択した。ロシアや中国による拒否権の乱用に一定の歯止めをかける狙いが",
-            "url": "https://www.yomiuri.co.jp/world/20220427-OYT1T50003/",
-            "urlToImage": "https://www.yomiuri.co.jp/media/2022/04/20220427-OYT1I50020-T.jpg?type=ogp",
-            "publishedAt": "2022-04-26T16:14:00Z",
-            "content": "295520002022/04/27 01:14:002022/04/27 01:14:002022/04/27 01:14:00https://www.yomiuri.co.jp/media/2022/04/20220427-OYT1I50020-T.jpg?type=thumbnail"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "南部の街で“ロシア化”進む・・・ウクライナ隣国・モルドバでは不穏な動き(2022年4月26日) - ANNnewsCH",
-            "description": "ウクライナの隣国・モルドバの親ロシア派が支配する地域で、不審な事件が相次いでいます。治安機関の建物に、何者かによってロケットランチャーが撃ち込まれました。さらに、ラジオ局のアンテナへの攻撃もありました。親ロシア派が一方的に名乗っている“沿ドニエストル共和国”は、危険レベルの段階を上げました。ただ、これらは「分離主...",
-            "url": "https://www.youtube.com/watch?v=y0nawIvDxYw",
-            "urlToImage": "https://i.ytimg.com/vi/y0nawIvDxYw/hqdefault.jpg",
-            "publishedAt": "2022-04-26T15:06:55Z",
+            "author": "デイリースポーツ online",
+            "title": "オリックス“ラオウ”杉本がコロナ陽性 前夜今季初マルチで復調気配も無念の離脱 - デイリースポーツ",
+            "description": "オリックスは２７日、杉本裕太郎外野手（３１）がこの日に実施した新型コロナウイルスのＰＣＲ検査で陽性判定を受けたと発表した。この日の公示で登録抹消された。「特例２０２０」の対象選手となっている。　杉本はこの日、遠征先の東京でのどの痛みを訴え、ＰＣＲ検査を受検。陽性と判定されたため、チームから離脱し、隔離療養を行っている。",
+            "url": "https://www.daily.co.jp/baseball/2022/04/27/0015254020.shtml",
+            "urlToImage": "https://i.daily.jp/baseball/2022/04/27/Images/f_15254021.jpg",
+            "publishedAt": "2022-04-27T07:42:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Sankei.com"
+                "name": "Impress.co.jp"
             },
-            "author": "産経ニュース",
-            "title": "パキスタンの「孔子学院」で爆発 中国人院長ら３人死亡 - 産経ニュース",
-            "description": "【シンガポール＝森浩】パキスタン南部カラチのカラチ大学で２６日、大規模な爆発があり、地元警察によると、中国人３人を含む４人が死亡した。国内の武装組織「バルチス…",
-            "url": "https://www.sankei.com/article/20220426-PZRZXWBO6ZJSPC35JS2DHR2FLY/",
-            "urlToImage": "https://www.sankei.com/resizer/oTH2zQl1w9w_6NeU9fwKJfLgMQ4=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/ION6F3FD7RNAXJV3KYJGXEIOBA.jpg",
-            "publishedAt": "2022-04-26T14:07:46Z",
+            "author": null,
+            "title": "Google、アプリが収集するデータの使用目的をユーザーに公開 - Impress Watch",
+            "description": "Googleは4月27日、Google Playにデータ セーフティ セクションを追加し、ユーザー向けに公開。開発者が収集するデータと、そのデータの使用目的を明確に表示する。",
+            "url": "https://www.watch.impress.co.jp/docs/news/1406158.html",
+            "urlToImage": "https://www.watch.impress.co.jp/img/ipw/list/1406/158/01.jpg",
+            "publishedAt": "2022-04-27T07:19:41Z",
+            "content": "Copyright ©2018Impress Corporation. All rights reserved."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tv-asahi.co.jp"
+            },
+            "author": "テレ朝news",
+            "title": "【速報】山中で発見の骨は子どもの頭の骨か 道志村 - テレビ朝日",
+            "description": "山梨県道志村の山中で25日に見つかった骨の一部について、子どもの頭の骨の一部の可能性であることが分かりました。\n\n　道志村で25日、山の斜面で人の頭の骨の一部が見つかりました。\n\n　警察によりますと、骨を見つけたのはボランティアの40代男性で、その後の捜査関係者への取材でこの骨は大きさなどから子どもの骨の可能性があることが分かりました。\n\n　道志村では3年前、母親らとキャンプ場に来ていた小倉美咲さん（当時7）の行方が分からなくなっていて、骨はそのキャンプ場から東に600メートルほど離れた場所で見つかりました。\n\n…",
+            "url": "https://news.tv-asahi.co.jp/news_society/articles/000252926.html",
+            "urlToImage": "https://news.tv-asahi.co.jp/articles_img/000252926_640.jpg",
+            "publishedAt": "2022-04-27T07:12:01Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Afpbb.com"
+            },
+            "author": null,
+            "title": "ロシア軍が進撃、東部で複数の村陥落 ウクライナ国防省 - AFPBB News",
+            "description": "【4月27日 AFP】ウクライナ国防省は27日、東部ドンバス（Donbas）地方制圧を目指して攻勢を強めるロシア軍に戦線を押し上げられ、複数の村が陥落したと発表した。",
+            "url": "https://www.afpbb.com/articles/-/3402379",
+            "urlToImage": "https://afpbb.ismcdn.jp/mwimgs/8/b/1000x/img_8b4f2b54e5d938a4b646a73063383ebc181031.jpg",
+            "publishedAt": "2022-04-27T07:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bloomberg.co.jp"
+            },
+            "author": null,
+            "title": "中国２大都市でコロナ感染落ち着く兆し、上海のロックダウン緩和も - ブルームバーグ",
+            "description": "中国・上海市の新型コロナウイルス感染者数はここ３週間で最少となり、当局はロックダウン（都市封鎖）措置の緩和を示唆した。北京市でも感染拡大に歯止めがかかり、当局が両市の感染状況をコントロールし始めた兆しかもしれない。",
+            "url": "https://www.bloomberg.co.jp/news/articles/2022-04-27/RAZ9N1DWX2PS01",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwegE_QEyFHI/v0/1200x800.jpg",
+            "publishedAt": "2022-04-27T06:40:39Z",
+            "content": "中国・上海市の新型コロナウイルス感染者数はここ３週間で最少となり、当局はロックダウン（都市封鎖）措置の緩和を示唆した。北京市でも感染拡大に歯止めがかかり、当局が両市の感染状況をコントロールし始めた兆しかもしれない。\r\n　　上海で26日の新規感染者数は１万3562人と、４日連続で減少。死者数は48人だった。上海はなおロックダウン下にあり、住民2500万人の多くが自宅に閉じ込められているが、当局は2… [+744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nikkei.com"
+            },
+            "author": "日本経済新聞社",
+            "title": "東証大引け 反落し313円安 午後にかけ下げ渋り - 日本経済新聞",
+            "description": "27日の東京株式市場で日経平均株価は反落し、前日比313円48銭（1.17%）安の2万6386円63銭で終えた。終値ベースで12日以来約2週間ぶりの安値となった。前日の米株式市場で主要株価指数が大幅安となった流れを受け、東京市場では運用リスクを回避する売りが優勢となった。寄り付き直後に下げ幅は一時600円を超えた。前日の米株式市場ではハイテク株比率が高いナスダック総合株価指数が4%近く下げるな",
+            "url": "https://www.nikkei.com/article/DGXZASS0ISS16_X20C22A4000000/",
+            "urlToImage": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
+            "publishedAt": "2022-04-27T06:31:15Z",
+            "content": "27313481.17%2638663122600\r\n4%26\r\nTOPIX17.750.94%1860.76\r\n399944165561TOPIX1198760040\r\nQUICKNQN"
         },
         {
             "source": {
@@ -190,77 +190,77 @@
                 "name": "The Mainichi"
             },
             "author": "毎日新聞",
-            "title": "日韓関係、見えぬ改善糸口 徴用工・慰安婦巡り続く対立 - 毎日新聞 - 毎日新聞",
-            "description": "岸田文雄首相は26日、韓国の尹錫悦（ユン・ソンニョル）次期大統領が派遣した「政策協議代表団」と首相官邸で約25分間面会した。双方とも1965年の国交正常化以降で「最悪」と言われる日韓関係の改善の糸口を探るが、徴用工問題や慰安婦問題を巡る対立が続く中、歩み寄りは容易ではない。",
-            "url": "https://mainichi.jp/articles/20220426/k00/00m/030/265000c",
-            "urlToImage": "https://cdn.mainichi.jp/vol1/2022/04/26/20220426k0000m030270000p/0c10.jpg?1",
-            "publishedAt": "2022-04-26T13:36:14Z",
+            "title": "関門海峡で客船「がんりう」機関室から出火、航行不能に 43人乗船 - 毎日新聞 - 毎日新聞",
+            "description": "門司海上保安部によると27日午後1時50分ごろ、北九州市の関門汽船から「小倉北区砂津の沖合を航行中の船『がんりう』の機関室から出火し、航行不能となった」と118番通報があった。門司海保は巡視艇2艇で現場に急行している。船には船員2人、乗客41人が乗っていたが、けが人はなかった。",
+            "url": "https://mainichi.jp/articles/20220427/k00/00m/040/161000c",
+            "urlToImage": "https://cdn.mainichi.jp/vol1/2022/04/27/20220427k0000m040165000p/0c10.jpg?1",
+            "publishedAt": "2022-04-27T06:20:34Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Okinawatimes.co.jp"
+            },
+            "author": "沖縄タイムス＋プラス",
+            "title": "「車が2階から落ちてきた」と通報 建物内の駐車場から国道に落下 沖縄で男性を搬送 - 沖縄タイムス",
+            "description": "２７日午後０時５０分ごろ、沖縄県那覇市真嘉比の国道３３０号で、「車が２階の駐車場から落ちた」と目撃者から１１０番通報があった。那覇署などによると、国道南向け車線の「おもろまち駅前」バス停付近にある建物内の駐車場から、乗用車が国道に落下。",
+            "url": "https://www.okinawatimes.co.jp/articles/-/949784",
+            "urlToImage": "https://oki.ismcdn.jp/mwimgs/c/a/-/img_caf4ae391b959821cc28e64deb3cbdc6387680.jpg",
+            "publishedAt": "2022-04-27T05:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yomiuri.co.jp"
+            },
+            "author": "読売新聞オンライン",
+            "title": "ふるさと納税除外、洲本市の歳入２割消える…返礼品業者にも打撃 - 読売新聞オンライン",
+            "description": "ふるさと納税で基準を超える高額な返礼品を提供していたとして総務省が２６日、兵庫県洲本市の指定取り消しを発表したことを受け、上崎勝規市長は市役所で記者会見し、「もっと事務処理を厳格にすべきだった。寄付してくれた人や市民、",
+            "url": "https://www.yomiuri.co.jp/national/20220427-OYT1T50043/",
+            "urlToImage": "https://www.yomiuri.co.jp/media/2022/04/20220427-OYT1I50027-T.jpg?type=ogp",
+            "publishedAt": "2022-04-27T05:04:00Z",
+            "content": "295635102022/04/27 14:04:002022/04/27 14:04:002022/04/27 14:04:00https://www.yomiuri.co.jp/media/2022/04/20220427-OYT1I50027-T.jpg?type=thumbnail"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nikkansports.com"
+            },
+            "author": "日刊スポーツ",
+            "title": "大谷翔平「２番DH」４打数１安打１得点 エンゼルス３連勝に貢献／詳細 - ＭＬＢ - ニッカンスポーツ",
+            "description": "エンゼルス大谷翔平投手（27）が「2番DH」で出場。4打数1安打1得点でチームの3連勝に貢献した。チーム１２３４… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+            "url": "https://www.nikkansports.com/baseball/mlb/news/202204270000028.html",
+            "urlToImage": "https://www.nikkansports.com/baseball/mlb/news/img/202204270000028-w500_0.jpg",
+            "publishedAt": "2022-04-27T04:17:00Z",
+            "content": "(C)2022,Nikkan Sports News.\r\nnikkansports.comNEWS"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nhk.or.jp"
             },
             "author": null,
-            "title": "【解説】原因不明の\"肝炎\" 国内初確認 大人がなる可能性も - 日テレNEWS",
-            "description": "原因不明の子どもの「急性肝炎」が欧米などで広がっています。25日、日本国内でも初めてその可能性がある事例が報告されました。「海外では死亡例も」、「人から人への感染は？」、「サインとなる症状」、以上の3つのポイントについて詳しく解説します。 ■「急性肝炎」海外では死亡例も報告 国内での「急性肝炎」が報告されたことを...",
-            "url": "https://www.youtube.com/watch?v=O3kl9_LsPRE",
-            "urlToImage": "https://i.ytimg.com/vi/O3kl9_LsPRE/maxresdefault.jpg",
-            "publishedAt": "2022-04-26T13:09:02Z",
-            "content": null
+            "title": "常任理事国の拒否権行使に説明求める決議採択 国連総会 - nhk.or.jp",
+            "description": "国連の安全保障理事会でウクライナをめぐる決議案がロシアの拒否権によって否決され、安保理の機能不全が指摘される中、常任理事…",
+            "url": "https://www3.nhk.or.jp/news/html/20220427/k10013600821000.html",
+            "urlToImage": "https://www3.nhk.or.jp/news/html/20220427/K10013600821_2204262253_0427042232_01_02.jpg",
+            "publishedAt": "2022-04-27T04:13:02Z",
+            "content": ""
         },
         {
             "source": {
                 "id": null,
-                "name": "Itmedia.co.jp"
-            },
-            "author": "ITmedia",
-            "title": "「Twitter有料化」がトレンド入り イーロン・マスク氏の買収でTwitter民がつぶやく“期待と不安” - ITmedia NEWS",
-            "description": "4月25日（現地時間）に、米Tesla CEOで起業家のイーロン・マスク氏がTwitterを買収すると発表して以来、Twitterが今後どうなるのかに注目が集まっている。",
-            "url": "https://www.itmedia.co.jp/news/articles/2204/26/news179.html",
-            "urlToImage": "https://image.itmedia.co.jp/news/articles/2204/26/cover_news179.jpg",
-            "publishedAt": "2022-04-26T13:00:00Z",
-            "content": "425Tesla CEOTwitterTwitter2Twitter2\r\nTwitterTwittermixi300Twitter\r\nTwitterTwitter Blue20216112.99NFT\r\n49Twitter Blue\r\nTwitterTwitter\r\nTwitterTwitterTruth\r\nTwitter\r\nTwitterUserStreamAPI\r\nCopyright © I… [+48 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "name": "Afpbb.com"
             },
             "author": null,
-            "title": "【岸田総理】原油高騰対策 補助金上限１リットルあたり３５円に引き上げ表明 - 日テレNEWS",
-            "description": "岸田総理大臣は、記者会見を行い、原油価格の高騰対策として、石油元売り会社に支給している補助金の上限を、1リットルあたり35円に引き上げると表明しました。岸田総理「原油価格や物価の高騰が、コロナ禍からの社会経済活動の回復の妨げになることは、何としても防がなければなりません」会見で、岸田総理は、政府が石油元売り会社に...",
-            "url": "https://www.youtube.com/watch?v=uXzANaj9NvE",
-            "urlToImage": "https://i.ytimg.com/vi/uXzANaj9NvE/maxresdefault.jpg",
-            "publishedAt": "2022-04-26T12:39:21Z",
+            "title": "知的障害ある死刑囚の刑執行 シンガポール - AFPBB News",
+            "description": "【4月27日 AFP】シンガポール政府は27日、知的障害のあるマレーシア人男性の死刑を執行した。",
+            "url": "https://www.afpbb.com/articles/-/3402324",
+            "urlToImage": "https://afpbb.ismcdn.jp/mwimgs/d/e/1000x/img_de31ebfd8fa9f0a99f8bb38921e8b9e5194196.jpg",
+            "publishedAt": "2022-04-27T04:09:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sankei.com"
-            },
-            "author": "産経ニュース",
-            "title": "「別の方法で対応すべき」とＮＰＢ 佐々木朗への球審対応 - 産経ニュース",
-            "description": "日本野球機構（ＮＰＢ）の井原事務局長は２６日、ロッテの佐々木朗が２４日のオリックス戦で白井球審に詰め寄られた場面について、友寄審判長が「試合中に（選手に）注意…",
-            "url": "https://www.sankei.com/article/20220426-5VRY6TXFZZNBFDW3NVF6WK644I/",
-            "urlToImage": "https://www.sankei.com/resizer/qA1kFjabHJOsXC87e-puXgAtdCc=/1200x630/filters:focal(654x329:664x339)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/LCDDXDSCUVILVFWKKKYBTADMPA.jpg",
-            "publishedAt": "2022-04-26T10:10:18Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Asahi.com"
-            },
-            "author": "朝日新聞デジタル",
-            "title": "「プロパガンダ」「わな」…国連総長のロシア訪問、最悪のケースは [ウクライナ情勢] - 朝日新聞デジタル",
-            "description": "国連のグテーレス事務総長が26日、ロシアのプーチン大統領と会談する。ウクライナへの侵攻をめぐり、国際社会の認識とかけ離れた主張を続けるプーチン氏との直接会談でどのような成果を得られるのか注目される。…",
-            "url": "https://www.asahi.com/articles/ASQ4V5TSJQ4TUHBI05K.html",
-            "urlToImage": "https://imgopt.asahi.com/ogp/AS20220426001930_comm.jpg",
-            "publishedAt": "2022-04-26T10:00:00Z",
-            "content": "Copyright © The Asahi Shimbun Company. All rights reserved. No reproduction or republication without written permission."
         }
     ]
 }
