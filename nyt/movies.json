@@ -2,7 +2,7 @@
     "status": "OK",
     "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
     "section": "Movies",
-    "last_updated": "2022-05-06T12:06:14-04:00",
+    "last_updated": "2022-05-06T16:42:46-04:00",
     "num_results": 34,
     "results": [
         {
@@ -270,42 +270,46 @@
             "uri": "nyt://article/c8a6f3a0-4c14-593e-8596-94b16a030d53",
             "byline": "By Ben Kenigsberg",
             "item_type": "Article",
-            "updated_date": "2022-05-06T13:26:57-04:00",
+            "updated_date": "2022-05-06T17:09:13-04:00",
             "created_date": "2022-05-05T14:27:31-04:00",
             "published_date": "2022-05-05T14:27:31-04:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
                 "Movies",
+                "Documentary Films and Programs",
                 "Theaters (Buildings)",
-                "New York Film Festival",
-                "Museums",
-                "Documentary Films and Programs"
+                "Content Type: Service"
             ],
             "org_facet": [
                 "Alamo Drafthouse Cinema",
+                "Kim's Video",
                 "Angelika Film Center",
                 "Anthology Film Archives",
                 "Brooklyn Academy of Music",
                 "Film at Lincoln Center",
+                "Walter Reade Theater",
                 "Film Forum",
                 "Gould, Florence, Hall (French Institute Alliance Francaise)",
                 "IFC Center (Manhattan, NY)",
                 "Japan Society",
-                "Kim's Video",
-                "Loew's 175th Street Theater/United Palace of Cultural Arts (Manhattan, NY)",
+                "Light Industry (Brooklyn, NY, Movie Theater)",
                 "Maysles Institute",
-                "Walter Reade Theater",
-                "Quad Cinema",
-                "Pavilion Theater",
-                "Paris Theater (Manhattan, NY)",
-                "Nitehawk Cinema (Brooklyn, NY)",
-                "Museum of the Moving Image",
+                "Metrograph Theater (Manhattan, NY, Movie Theater)",
                 "Museum of Modern Art",
-                "Metrograph Theater (Manhattan, NY, Movie Theater)"
+                "Museum of the Moving Image",
+                "Nitehawk Cinema (Brooklyn, NY)",
+                "Paris Theater (Manhattan, NY)",
+                "Quad Cinema",
+                "Spectacle (Brooklyn, NY, Movie Theater)",
+                "United Palace Theater (Manhattan, NY)"
             ],
-            "per_facet": [],
-            "geo_facet": [],
+            "per_facet": [
+                "Roxy Cinema New York"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
             "multimedia": [
                 {
                     "url": "https://static01.nyt.com/images/2022/04/26/arts/where-to-go-nyc-film-quadpic/merlin_120760943_6a034cf2-a980-4140-9ab9-f1438e1db1b4-superJumbo.jpg",
@@ -339,6 +343,65 @@
                 }
             ],
             "short_url": "https://nyti.ms/3kG65l4"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Five International Movies to Stream Now",
+            "abstract": "This month’s picks include an Argentine heist thriller, a whimsical Palestinian romance, a German period drama and more.",
+            "url": "https://www.nytimes.com/2022/05/06/movies/five-international-movies-to-stream-now.html",
+            "uri": "nyt://article/78dccbde-7c2b-544d-bef5-1fb32901a9cf",
+            "byline": "By Devika Girish",
+            "item_type": "Article",
+            "updated_date": "2022-05-06T13:18:34-04:00",
+            "created_date": "2022-05-06T12:47:36-04:00",
+            "published_date": "2022-05-06T12:47:36-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "El Robo del Siglo (Movie)",
+                "Gaza Mon Amour (Movie)",
+                "Perfumes (Movie)",
+                "Fabian: Going to the Dogs (Movie)",
+                "Badhaai Do (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/arts/heist1/heist1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 578,
+                    "width": 1000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Guillermo Francella in “El Robo del Siglo.”",
+                    "copyright": "Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/arts/heist1/heist1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 325,
+                    "width": 487,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Guillermo Francella in “El Robo del Siglo.”",
+                    "copyright": "Warner Bros."
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/05/arts/heist1/heist1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Guillermo Francella in “El Robo del Siglo.”",
+                    "copyright": "Warner Bros."
+                }
+            ],
+            "short_url": "https://nyti.ms/3kKVS71"
         },
         {
             "section": "arts",
@@ -519,130 +582,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/3kLrXv7"
-        },
-        {
-            "section": "arts",
-            "subsection": "design",
-            "title": "Cate Blanchett and Cindy Sherman: Secrets of the Camera Chameleons",
-            "abstract": "On the 45th anniversary of Sherman’s acclaimed series “Untitled Film Stills,” they toured her show, discussing what an image, or a smile, may reveal.",
-            "url": "https://www.nytimes.com/2022/05/04/arts/design/cate-blanchett-cindy-sherman.html",
-            "uri": "nyt://article/78948c6b-5e11-5f4b-a3f1-e15128393be4",
-            "byline": "By Melena Ryzik",
-            "item_type": "Article",
-            "updated_date": "2022-05-04T21:34:05-04:00",
-            "created_date": "2022-05-04T10:00:13-04:00",
-            "published_date": "2022-05-04T10:00:13-04:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "Art",
-                "Photography",
-                "Actors and Actresses"
-            ],
-            "org_facet": [
-                "Hauser & Wirth"
-            ],
-            "per_facet": [
-                "Blanchett, Cate",
-                "Sherman, Cindy",
-                "Rosefeldt, Julian (1965- )"
-            ],
-            "geo_facet": [
-                "Upper East Side (Manhattan, NY)"
-            ],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2022/05/08/arts/08BLANCHETT-SHERMAN-12/merlin_206153973_fc28aaf3-9ad4-4c7d-80f7-5c43abbc0d6b-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 1624,
-                    "width": 2048,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "“It’s interesting, you go through this process by yourself,” Blanchett told Sherman. “I’m not a great fan of the monologue.”",
-                    "copyright": "Camila Falquez for The New York Times"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/05/08/arts/08BLANCHETT-SHERMAN-12/08BLANCHETT-SHERMAN-12-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 400,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "“It’s interesting, you go through this process by yourself,” Blanchett told Sherman. “I’m not a great fan of the monologue.”",
-                    "copyright": "Camila Falquez for The New York Times"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/05/08/arts/08BLANCHETT-SHERMAN-12/merlin_206153973_fc28aaf3-9ad4-4c7d-80f7-5c43abbc0d6b-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "“It’s interesting, you go through this process by yourself,” Blanchett told Sherman. “I’m not a great fan of the monologue.”",
-                    "copyright": "Camila Falquez for The New York Times"
-                }
-            ],
-            "short_url": "https://nyti.ms/3vHoDaV"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "Five International Movies to Stream Now",
-            "abstract": "This month’s picks include an Argentine heist thriller, a whimsical Palestinian romance, a German period drama and more.",
-            "url": "https://www.nytimes.com/2022/05/06/movies/five-international-movies-to-stream-now.html",
-            "uri": "nyt://article/78dccbde-7c2b-544d-bef5-1fb32901a9cf",
-            "byline": "By Devika Girish",
-            "item_type": "Article",
-            "updated_date": "2022-05-06T13:18:34-04:00",
-            "created_date": "2022-05-06T12:47:36-04:00",
-            "published_date": "2022-05-06T12:47:36-04:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "El Robo del Siglo (Movie)",
-                "Gaza Mon Amour (Movie)",
-                "Perfumes (Movie)",
-                "Fabian: Going to the Dogs (Movie)",
-                "Badhaai Do (Movie)"
-            ],
-            "org_facet": [],
-            "per_facet": [],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2022/05/05/arts/heist1/heist1-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 578,
-                    "width": 1000,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Guillermo Francella in “El Robo del Siglo.”",
-                    "copyright": "Warner Bros."
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/05/05/arts/heist1/heist1-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 325,
-                    "width": 487,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Guillermo Francella in “El Robo del Siglo.”",
-                    "copyright": "Warner Bros."
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/05/05/arts/heist1/heist1-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Guillermo Francella in “El Robo del Siglo.”",
-                    "copyright": "Warner Bros."
-                }
-            ],
-            "short_url": "https://nyti.ms/3kKVS71"
         },
         {
             "section": "movies",
@@ -1236,6 +1175,71 @@
                 }
             ],
             "short_url": "https://nyti.ms/3OWQ6Nj"
+        },
+        {
+            "section": "arts",
+            "subsection": "design",
+            "title": "Cate Blanchett and Cindy Sherman: Secrets of the Camera Chameleons",
+            "abstract": "On the 45th anniversary of Sherman’s acclaimed series “Untitled Film Stills,” they toured her show, discussing what an image, or a smile, may reveal.",
+            "url": "https://www.nytimes.com/2022/05/04/arts/design/cate-blanchett-cindy-sherman.html",
+            "uri": "nyt://article/78948c6b-5e11-5f4b-a3f1-e15128393be4",
+            "byline": "By Melena Ryzik",
+            "item_type": "Article",
+            "updated_date": "2022-05-04T21:34:05-04:00",
+            "created_date": "2022-05-04T10:00:13-04:00",
+            "published_date": "2022-05-04T10:00:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Art",
+                "Photography",
+                "Actors and Actresses"
+            ],
+            "org_facet": [
+                "Hauser & Wirth"
+            ],
+            "per_facet": [
+                "Blanchett, Cate",
+                "Sherman, Cindy",
+                "Rosefeldt, Julian (1965- )"
+            ],
+            "geo_facet": [
+                "Upper East Side (Manhattan, NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/08/arts/08BLANCHETT-SHERMAN-12/merlin_206153973_fc28aaf3-9ad4-4c7d-80f7-5c43abbc0d6b-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1624,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“It’s interesting, you go through this process by yourself,” Blanchett told Sherman. “I’m not a great fan of the monologue.”",
+                    "copyright": "Camila Falquez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/08/arts/08BLANCHETT-SHERMAN-12/08BLANCHETT-SHERMAN-12-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“It’s interesting, you go through this process by yourself,” Blanchett told Sherman. “I’m not a great fan of the monologue.”",
+                    "copyright": "Camila Falquez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/05/08/arts/08BLANCHETT-SHERMAN-12/merlin_206153973_fc28aaf3-9ad4-4c7d-80f7-5c43abbc0d6b-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“It’s interesting, you go through this process by yourself,” Blanchett told Sherman. “I’m not a great fan of the monologue.”",
+                    "copyright": "Camila Falquez for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3vHoDaV"
         },
         {
             "section": "movies",
