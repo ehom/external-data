@@ -1,31 +1,57 @@
 {
     "status": "ok",
-    "totalResults": 28,
+    "totalResults": 30,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hochi.news"
+            },
+            "author": "報知新聞社",
+            "title": "【巨人】桑田コーチ、シューメーカーは「疲れがたまっているのかな」 ３回降板は疲労を考慮 - スポーツ報知",
+            "description": "巨人のマット・シューメーカー投手が先発し、来日最短となる３回３安打６失点で降板。今季２敗目を喫した。",
+            "url": "https://hochi.news/articles/20220507-OHT1T51204.html",
+            "urlToImage": "https://hochi.news/images/2022/05/07/20220507-OHT1I51271-L.jpg",
+            "publishedAt": "2022-05-07T09:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jiji.com"
+            },
+            "author": "時事通信社",
+            "title": "ウクライナ高官、「ロシア艦炎上」確認されず 過去に誤情報も - 時事通信ニュース",
+            "description": "ウクライナのメディアなどによると、アレストビッチ大統領府顧問は６日、南部オデッサ州沖でロシア海軍の黒海艦隊に所属するフリゲート艦が攻撃され、炎上したとの報道について「検証された情報はない」と述べ、確認を避けた。ロシア反体制派とのオンライン対談で発言した。",
+            "url": "https://www.jiji.com/jc/article?k=2022050700437&g=int",
+            "urlToImage": "https://www.jiji.com/news2/kiji_photos/202205/20220507at36S_o.jpg",
+            "publishedAt": "2022-05-07T08:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Auone.jp"
+            },
+            "author": null,
+            "title": "【ＤｅＮＡ】２戦連続延長突入も、１０回サヨナラ負け 三島一輝が痛恨バースデー黒星 - Au Webポータル",
+            "description": "au Webポータル",
+            "url": "https://article.auone.jp/detail/1/6/10/202_10_r_20220507_1651913132420663",
+            "urlToImage": "https://portal.st-img.jp/thumb/e15d3d8a6ca6f12f64dd2566485a24f8_1651914232_l.jpg",
+            "publishedAt": "2022-05-07T08:43:00Z",
+            "content": null
+        },
         {
             "source": {
                 "id": null,
                 "name": "Nhk.or.jp"
             },
-            "author": null,
-            "title": "国連安保理 軍事侵攻以降初の議長声明採択 ロシア含め全会一致 - nhk.or.jp",
-            "description": "ウクライナ情勢をめぐり国連の安全保障理事会は、ロシアによる軍事侵攻以降、初めて議長声明を採択し、平和的な解決策を探るグテ…",
-            "url": "https://www3.nhk.or.jp/news/html/20220507/k10013614471000.html",
-            "urlToImage": "https://www3.nhk.or.jp/news/html/20220507/K10013614471_2205070710_0507080814_01_03.jpg",
-            "publishedAt": "2022-05-06T23:25:02Z",
-            "content": ""
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Full-count.jp"
-            },
-            "author": null,
-            "title": "大谷翔平、「3番・DH」で先発出場へ 米国横断4150キロ大移動→本拠地初HRなるか - Full-Count",
-            "description": "エンゼルスの大谷翔平投手は6日（日本時間7日、試合開始10時38分）、本拠地・ナショナルズ戦に「3番・指名打者」で先発出場する。前日の試合後にボストンから米国を横断する約4150キロの大移動。疲れを吹き飛ばす、7試合ぶり5号本塁打を描けるか。",
-            "url": "https://full-count.jp/2022/05/07/post1217742/",
-            "urlToImage": "https://full-count.jp/wp-content/uploads/2022/04/19000606/20220418_ohtani4_ap-560x373.jpg",
-            "publishedAt": "2022-05-06T23:09:00Z",
+            "author": "日本放送協会",
+            "title": "県内 新型コロナ新たに５７８人感染 ４割超が１０代以下｜NHK 長崎県のニュース - nhk.or.jp",
+            "description": "県内では７日、合わせて５７８人が新型コロナウイルスに感染していることが新たに確認されたと発表されました。\n先週の土曜日と比べて２７７人多く…",
+            "url": "https://www3.nhk.or.jp/lnews/nagasaki/20220507/5030014685.html",
+            "urlToImage": "https://www3.nhk.or.jp/lnews/nagasaki/20220507/5030014685_20220507192436_m.jpg",
+            "publishedAt": "2022-05-07T08:27:00Z",
             "content": null
         },
         {
@@ -34,207 +60,25 @@
                 "name": "Yomiuri.co.jp"
             },
             "author": "読売新聞オンライン",
-            "title": "「一緒にされたくない」道内の観光船、安全最優先で運航…利用者に丁寧な説明も - 読売新聞オンライン",
-            "description": "知床半島沖で乗客乗員２６人が乗った観光船「ＫＡＺＵ　Ｉ（カズワン）」が沈没した事故を受け、北海道内各地の観光船では装備の緊急点検などで安全を再確認するとともに、利用者の質問に対して丁寧な説明を心がける動きが進んでいる。",
-            "url": "https://www.yomiuri.co.jp/national/20220507-OYT1T50063/",
-            "urlToImage": "https://www.yomiuri.co.jp/media/2022/05/20220507-OYT1I50034-T.jpg?type=ogp",
-            "publishedAt": "2022-05-06T22:18:00Z",
-            "content": "297905802022/05/07 07:18:002022/05/07 09:21:222022/05/07 09:21:22https://www.yomiuri.co.jp/media/2022/05/20220507-OYT1I50034-T.jpg?type=thumbnail"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "author": null,
-            "title": "撮る人と撮られる人、またはその両方 - PC Watch",
-            "description": "コロナ禍がコミュニケーションツールとしてのPCの役割を大きく進化させている。今回は、そのうち、カメラの著しい進化について考えてみる。",
-            "url": "https://pc.watch.impress.co.jp/docs/column/config/1407239.html",
-            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1407/239/1.jpg",
-            "publishedAt": "2022-05-06T21:34:00Z",
-            "content": "1 \r\n Microsoft TeamsZoomGoogle Meet1PC \r\n PCHD \r\n 100WebHDUSB4KCPUGPUPC"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkei.com"
-            },
-            "author": "日本経済新聞社",
-            "title": "NYダウ続落、98ドル安 雇用統計受けインフレを警戒 - 日本経済新聞",
-            "description": "【NQNニューヨーク=古江敦子】6日の米株式市場でダウ工業株30種平均は続落し、前日比98ドル60セント（0.3%）安の3万2899ドル37セントで終えた。朝方発表の4月の米雇用統計が労働市場の需給逼迫と高い賃金上昇を示した。インフレ高止まりが意識され、米連邦準備理事会（FRB）の積極的な金融引き締めが続くと警戒する売りが広がった。ダウ平均は午前中に一時523ドル安まで下落した。前日もインフレ",
-            "url": "https://www.nikkei.com/article/DGXZQOGN00001_X00C22A5000000/",
-            "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO1898309007052022000000-1.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=267b16b16ab623e97167720cffd1e7a6",
-            "publishedAt": "2022-05-06T20:14:04Z",
-            "content": "NQN=63098600.3%32899374FRB\r\n523..."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkansports.com"
-            },
-            "author": "日刊スポーツ",
-            "title": "渡辺裕之さんCM出演「リポビタンＤ」大正製薬も悼む「長きに渡り貢献いただき大変感謝」 - ニッカンスポーツ",
-            "description": "俳優渡辺裕之さんが66歳で死去したことが発表されてから一夜明けた6日も、悼む声が続いた。82年～93年にCM出演した栄養ドリンク剤「リポビタンD」を販売する大… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-            "url": "https://www.nikkansports.com/entertainment/news/202205060000771.html",
-            "urlToImage": "https://www.nikkansports.com/entertainment/news/img/202205060000771-w500_0.jpg",
-            "publishedAt": "2022-05-06T20:00:00Z",
-            "content": "(C)2022,Nikkan Sports News.\r\nnikkansports.comNEWS"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Oricon.co.jp"
-            },
-            "author": "-",
-            "title": "Aぇ!group、読テレ音楽特番『カミオト』SPサポーター就任 昨年のなにわ男子からバトン【全員コメント】 - ORICON NEWS",
-            "description": "関西ジャニーズJr.の人気グループ・Aぇ!group（正門良規、末澤誠也、草間リチャード敬太、小島健、福本大晴、佐野晶哉）が、28日放送の読売テレビ音楽特番『カミオト－上方音祭－』（前11：55　※関西ローカル）のスペシャルサポーターを務めることが決まった。6日、メンバー6人がそろって大阪市内の同局で会見を行い、意気込みを語った。　同局の新たな取り組みとして、昨年、関西を盛り上げるために企画された生放送の大型音楽番組。第2回となる今年は、「音楽でつながろう」を合言葉に5時間5分の生放送となり、関西ゆかりのアーティ…",
-            "url": "https://www.oricon.co.jp/news/2233501/full/",
-            "urlToImage": "https://contents.oricon.co.jp/cdn-cgi/image/width=750,quality=85,format=auto/upimg/news/2234000/2233501/20220506_150845_p_o_4175.jpg",
-            "publishedAt": "2022-05-06T20:00:00Z",
-            "content": "ORICON NEWSoricon MENewSWebPCJASRAC9009642142Y31015 / 9009642140Y38026 | JRCX000003B14L | e-LicenseID26546\r\nCookie"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Weathernews.jp"
-            },
-            "author": "ウェザーニュース",
-            "title": "週間天気 GW最終日はお出かけOK 来週後半は全国的に雨 - ウェザーニュース",
-            "description": "この先1週間の天気のポイントは「GW最終日は広く日差しが届く」「GW明けは関東で冷たい雨に」「来週後半は強雨に注意」です。ウェザーニュースの最新の天気予報を随時確認してください。",
-            "url": "https://weathernews.jp/s/topics/202205/060245/",
-            "urlToImage": "https://smtgvs.weathernews.jp/s/topics/img/202205/202205060245_top_img_A.png?1651867410",
-            "publishedAt": "2022-05-06T19:56:00Z",
-            "content": "{{topic.rank}}\r\n{{topic.pageTitle}}{{editTstr(topic.editTime)}}"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "F1マイアミGP FP1：初開催の地でルクレールが首位発進。フェルスタッペンは一時トラブルも3番手 - オートスポーツweb",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiH2h0dHBzOi8vd3d3LmFzLXdlYi5qcC9mMS84MTI1MTfSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-05-06T19:56:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nhk.or.jp"
-            },
-            "author": null,
-            "title": "吉野家 採用説明会で外国籍との判断を理由に大学生の参加断る - nhk.or.jp",
-            "description": "牛丼チェーン大手の吉野家ホールディングスは、子会社の採用説明会に参加する予定だった大学生に対し、外国籍だと判断したことを…",
-            "url": "https://www3.nhk.or.jp/news/html/20220507/k10013614461000.html",
-            "urlToImage": "https://www3.nhk.or.jp/news/html/20220507/K10013614461_2205070426_0507043411_01_02.jpg",
-            "publishedAt": "2022-05-06T19:51:31Z",
+            "title": "西のウクライナに侵攻したロシア、「東に行かない保証ない」…麻生氏が講演で言及 - 読売新聞オンライン",
+            "description": "自民党の麻生副総裁は７日、福岡市で講演し、ウクライナを侵攻したロシアについて「西（のウクライナ）に行ったけど、東（の日本）に行かないという保証はない」と述べた。 　防衛力強化の必要性なども訴え、「自国は自分の手で守ると",
+            "url": "https://www.yomiuri.co.jp/politics/20220507-OYT1T50139/",
+            "urlToImage": "https://www.yomiuri.co.jp/media/2022/05/20220507-OYT1I50094-T.jpg?type=ogp",
+            "publishedAt": "2022-05-07T08:23:00Z",
             "content": ""
         },
         {
             "source": {
                 "id": null,
-                "name": "Sponichi.co.jp"
-            },
-            "author": "スポニチ Sponichi Annex",
-            "title": "生観戦・松坂大輔氏が大谷を分析 打者の想像をはるか超える直球に感動 - スポニチアネックス Sponichi Annex",
-            "description": "試合後、レッドソックスのクラブハウスに顔を出しました。選手は誰もが大谷投手のことを「信じられないプレーヤーだ！」と言っていましたね。ナイターで延長10回をフル… - スポーツニッポン新聞社の公式サイト（www.sponichi.co.jp）。",
-            "url": "https://www.sponichi.co.jp/baseball/news/2022/05/07/kiji/20220507s00001007099000c.html",
-            "urlToImage": "https://www.sponichi.co.jp/baseball/news/2022/05/07/jpeg/20220507s00001007127000p_view.jpg",
-            "publishedAt": "2022-05-06T17:30:00Z",
-            "content": "Copyright © SPORTS NIPPON NEWSPAPERS. All Rights Reserved.\r\nSponichi Annex"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "name": "Miyakomainichi.com"
             },
             "author": null,
-            "title": "日英首脳が中国念頭に安保協力強化で合意したことを受け中国政府が反発｜TBS NEWS DIG - TBS NEWS DIG Powered by JNN",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxUjMSbLoRts",
-            "urlToImage": null,
-            "publishedAt": "2022-05-06T16:50:40Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkansports.com"
-            },
-            "author": "日刊スポーツ",
-            "title": "藤井聡太竜王「自信のない局面が多い将棋に」今期の王座獲得消滅 キラー大橋貴洸六段に４連敗 - ニッカンスポーツ",
-            "description": "将棋の藤井聡太竜王（王位・叡王・王将・棋聖＝19）が自身6つ目のタイトル獲得を目指す第70期王座戦挑戦者決定トーナメント（T）1回戦、大橋貴洸（たかひろ）六段… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-            "url": "https://www.nikkansports.com/general/nikkan/news/202205060001319.html",
-            "urlToImage": "https://www.nikkansports.com/general/nikkan/news/img/202205060001319-w500_0.jpg",
-            "publishedAt": "2022-05-06T14:25:50Z",
-            "content": "(C)2022,Nikkan Sports News.\r\nnikkansports.comNEWS"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Natalie.mu"
-            },
-            "author": "音楽ナタリー編集部",
-            "title": "SixTONES森本慎太郎が番組収録中に鼻骨を骨折 - 音楽ナタリー",
-            "description": "森本慎太郎（SixTONES）がフジテレビ系ドラマ「ナンバMG5」の収録中に鼻骨を骨折した。",
-            "url": "https://natalie.mu/music/news/476736",
-            "urlToImage": "https://ogre.natalie.mu/asset/natalie/common/polar/common/image/music/icon_large.png",
-            "publishedAt": "2022-05-06T13:59:00Z",
-            "content": "M2SPAKB48Lil Tani YuukiYUKI"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Saitama-np.co.jp"
-            },
-            "author": null,
-            "title": "＜新型コロナ＞埼玉県内新たに１０２０人感染 ７０～８０代男女６人が死亡 - 埼玉新聞",
-            "description": "��ʌ��Ȃǂ͂U���A�V�^�R���i�E�C���X�̊����҂�V���ɂP�O�Q�O�l�m�F�����Ɣ��\\�����B���ɂ��ƂV�O�`�W�O��̒j���U�l�����S�����B�����҂̓��͌����\\���V�P�W�l�A�������܎s�P�R�X�l�A����s���P�O�R�l�A��c",
-            "url": "https://www.saitama-np.co.jp/news/2022/05/07/02.html",
-            "urlToImage": "https://www.saitama-np.co.jp/news/2022/05/07/02.jpg",
-            "publishedAt": "2022-05-06T13:07:09Z",
-            "content": "@UAV^RiECXVPOQOlmF\\BVO`WOjUlSB\\VPWlAsPRXlAsPORlAzsQWlAzJsRQlB"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkei.com"
-            },
-            "author": "日本経済新聞社",
-            "title": "JAL、450億円最終黒字へ 国内線ほぼコロナ前水準に - 日本経済新聞",
-            "description": "日本航空（JAL）は6日、2023年3月期の連結最終損益（国際会計基準）が450億円の黒字（前期は1775億円の赤字）になりそうだと発表した。国内線の需要が新型コロナウイルス禍前の水準にほぼ回復し、3期ぶりに黒字転換すると見込む。今期末までの復配と26年3月期末をメドに純有利子負債をゼロにする方針も明らかにした。ただ、新たな変異型の拡大や、燃料高による業績の下押し圧力など不透明要素はなお残る。",
-            "url": "https://www.nikkei.com/article/DGXZQOUC050IF0V00C22A5000000/",
-            "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO1893413005052022000000-1.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.5&fp-y=0.5&fp-z=1&crop=focalpoint&s=11f33af6abf4cf2da1df491ff95ca9cc",
-            "publishedAt": "2022-05-06T13:00:00Z",
-            "content": "JAL62023345017753263\r\n213900EBIT8002394203\r\nJAL19201390%7995%45%1945%10%\r\nANAHDANA1911280%35%JALANA\r\nJAL212234300263CFO1000\r\n263EBIT185020313207JALFSC55%35%LCC10%FSC\r\n2213118424\r\n1331140150203\r\nJALAN… [+5 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Mainichi"
-            },
-            "author": "毎日新聞",
-            "title": "首相歴訪、対露制裁で濃淡 東南アジア諸国「全方位外交」の壁厚く - 毎日新聞 - 毎日新聞",
-            "description": "岸田文雄首相は6日、東南アジア・欧州歴訪から帰国した。今回の訪問ではロシアのウクライナ侵攻と、中国の海洋進出という二つの問題を巡り、各国との連携に腐心した。ただし、各国と一致できた内容には濃淡があり、今後も地道な外交努力が求められそうだ。【青木純、今野悠貴】",
-            "url": "https://mainichi.jp/articles/20220506/k00/00m/030/262000c",
-            "urlToImage": "https://cdn.mainichi.jp/vol1/2022/05/06/20220506k0000m010195000p/0c10.jpg?1",
-            "publishedAt": "2022-05-06T11:41:59Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tv-asahi.co.jp"
-            },
-            "author": "テレ朝news",
-            "title": "【独自】ウクライナ鉄道の幹部が語るロシア軍の思惑 ※動画視聴の際はご注意ください - テレビ朝日",
-            "description": "戦勝記念日を前に、ロシア軍はウクライナ東部での攻撃を攻勢を強めています。ウクライナ軍がマリウポリでの避難が進まないと現状を訴えるなか、鉄道も攻撃を受けています。武器輸送を阻止する狙いがあるとみられています。どういうことなのでしょうか。\n\n　4日、ロシアのキリエンコ大統領府第1副長官らがウクライナ南東部のマリウポリを訪問しました。\n\n　9日の対ドイツ戦勝記念日を前に、ロシアの実効支配を示す狙いがあるものとみられます。\n\n　街中でロシア国旗が掲げられるなど、“ロシア化”が進むマリウポリ。\n\n　一方で…。\n\n　マリウポ…",
-            "url": "https://news.tv-asahi.co.jp/news_international/articles/000253824.html",
-            "urlToImage": "https://news.tv-asahi.co.jp/articles_img/000253824_640.jpg",
-            "publishedAt": "2022-05-06T10:35:59Z",
-            "content": "41\r\n9\r\n2\r\n5150300\r\nCEO\r\n2000\r\nCEO\r\nCEO\r\nCEO\r\nCEO\r\nCEO8\r\nCCABLE NEWS NETWORK 2022"
+            "title": "【速報・新型コロナ】7日 宮古島市と多良間村の新規陽性者年代・職業別内訳 – 宮古毎日新聞社ホームページ -宮古島の最新ニュースが満載！- - 宮古毎日新聞",
+            "description": "地方紙として宮古島の地域の話題・ビジネスや観光などのニュースや情報を毎日配信中です",
+            "url": "https://www.miyakomainichi.com/news/news-166328/",
+            "urlToImage": "https://www.miyakomainichi.com/wp-content/themes/miyako-mainichi2021/img/default.jpg",
+            "publishedAt": "2022-05-07T08:18:00Z",
+            "content": "10 20\r\n 10 11 \r\n20 12\r\n 30 20 \r\n40 12 \r\n50 7 \r\n60 11\r\n 70 6 \r\n80 1\r\n 90 1 \r\n 3 \r\n104\r\n15121187,,, 4, 3,, 2,,,,117104\r\n22"
         },
         {
             "source": {
@@ -242,12 +86,77 @@
                 "name": "Tokyo-np.co.jp"
             },
             "author": "東京新聞 TOKYO Web",
-            "title": "ロシア外相の「ヒトラーはユダヤ系」発言、プーチン大統領が謝罪 イスラエル首相との電話協議で - 東京新聞",
-            "description": "﻿　【モスクワ＝小柳悠志】ロシアのプーチン大統領は5日、ラブロフ外相がナチス・ドイツを率いたヒトラーが「ユダヤ人の血を引いている」と発...",
-            "url": "https://www.tokyo-np.co.jp/article/175757",
-            "urlToImage": "https://static.tokyo-np.co.jp/image/article/size1/1/3/e/8/13e84a703905a93aa86d5c6a4b55fb31_1.jpg",
-            "publishedAt": "2022-05-06T10:17:00Z",
+            "title": "＜新型コロナ・7日＞東京都で新たに3809人感染、6人死亡 前週土曜よりも830人増 - 東京新聞",
+            "description": "東京都は7日、新型コロナウイルスの新たな感染者3809人と6人の死亡を確認したと発表した。重症者は都の基準で8人。病床使用率は15.6...",
+            "url": "https://www.tokyo-np.co.jp/article/175979",
+            "urlToImage": "https://static.tokyo-np.co.jp/image/article/size1/a/0/7/f/a07fc508f5cf2cb80868c1267f243641_1.jpg",
+            "publishedAt": "2022-05-07T07:48:18Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golfdigest.co.jp"
+            },
+            "author": "GDO編集部",
+            "title": "山下美夢有がメジャー昇格後初の完全Vへ6差独走 安田祐香と青木瀬令奈2位 - ゴルフダイジェスト・オンライン",
+            "description": "◇国内女子メジャー◇ワールドレディスサロンパスカップ 3日目（7日）◇茨城GC西コース◇6680yd(パー72) ツアー1勝の20歳・山下美夢有が単独首位をキープして今季国内メジャー初戦の最終日を迎える。 6バーディ、1ボギーのベストスコア「67」をマークし、ただ一人の2桁アンダーとなる通算11アンダー。この大会で初日から首位を守る完全優勝となれば、東京よみうりCC開催の2003年大会を制したアニカ・ソレンスタム（スウェーデン）以来。08年の公式戦昇格後では初の快挙を狙う。 安田祐香と青木瀬令奈が5アンダー2位。…",
+            "url": "https://news.golfdigest.co.jp/jlpga/7599/article/146106/4/",
+            "urlToImage": "https://i.gimg.jp/cmsimg/270623.jpg",
+            "publishedAt": "2022-05-07T07:29:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mdpr.jp"
+            },
+            "author": "モデルプレス編集部",
+            "title": "【ゲネプロレポ】生田絵梨花・小関裕太・木村達成、ミュージカル「四月は君の嘘」開幕 公演中止から2年経て再集結 - モデルプレス",
+            "description": "俳優の小関裕太・木村達成（Wキャスト）、乃木坂46の生田絵梨花が主演を務めるミュージカル『四月は君の嘘』が7日より東京・日生劇場（29日まで）にて開幕する。2020年7月に上演予定だった本作は開幕目前で全公演中止に。約2年の時を経て、メインキャスト6名全員が再集結。6日と7日に公開ゲネプロが行われた。＜※記事内写真ネタバレあり＞",
+            "url": "https://mdpr.jp/news/detail/3141406",
+            "urlToImage": "https://img-mdpr.freetls.fastly.net/article/COQS/wm/COQS0U0UUzpNpIIEENCAJwL5pcrbGDkWd98ieHzhgfY.jpg",
+            "publishedAt": "2022-05-07T07:00:00Z",
+            "content": "5G5,500\r\n5G5Gau PAY5,500Galaxy S22Galaxy S22 Ultraau Pay16,500"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sankei.com"
+            },
+            "author": "産経ニュース",
+            "title": "運航会社社長、乗客家族に補償説明 知床観光船事故 - 産経ニュース",
+            "description": "北海道・知床沖で観光船が沈没し、１４人が死亡、１２人が行方不明となっている事故で、運航会社「知床遊覧船」の桂田精一社長（５８）が７日、乗客家族への補償に関する…",
+            "url": "https://www.sankei.com/article/20220507-IPOUYFXYTJJ2HAAZEJJK42PGAY/",
+            "urlToImage": "https://www.sankei.com/resizer/e_ao6nz6u2apPFRqZfUT5eMBVws=/1200x630/filters:focal(1360x968:1370x978)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/NLP5ZHKTKBNDBHE34OPW7JPKCY.jpg",
+            "publishedAt": "2022-05-07T06:52:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Okinawatimes.co.jp"
+            },
+            "author": "沖縄タイムス＋プラス",
+            "title": "沖縄で過去最多2375人感染 コロナ急増、初の2000人超【5月7日昼】 - 沖縄タイムス",
+            "description": "沖縄県は7日、新たに2375人が新型コロナウイルスに感染したと発表した。県内で新規陽性者が2000人を超えるのは初めてで、過去最多を更新した。先週の同じ土曜日(4月30日)の867人に比べて1508人増えた。累計感染者は17万1362人となった。",
+            "url": "https://www.okinawatimes.co.jp/articles/-/954507",
+            "urlToImage": "https://oki.ismcdn.jp/mwimgs/c/6/-/img_c668948e3a95646e1a5797db1992229e1715847.jpg",
+            "publishedAt": "2022-05-07T06:38:00Z",
+            "content": "723752000(430)8671508171362\r\nSARS-CoV-2 B.1.1.529(\r\n1106597.802258.12\r\n40.6%(256631)28.3%(1760)\r\n77"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nhk.or.jp"
+            },
+            "author": null,
+            "title": "北朝鮮 弾道ミサイルの可能性のあるもの EEZの外側に落下か - nhk.or.jp",
+            "description": "政府は、北朝鮮から弾道ミサイルの可能性があるものが発射されたと発表しました。",
+            "url": "https://www3.nhk.or.jp/news/html/20220507/k10013614721000.html",
+            "urlToImage": "https://www3.nhk.or.jp/news/html/20220507/K10013614721_2205071459_0507145943_01_02.jpg",
+            "publishedAt": "2022-05-07T05:45:40Z",
+            "content": "211\r\n225\r\nEEZ\r\n2\r\n2"
         },
         {
             "source": {
@@ -255,12 +164,103 @@
                 "name": "Www.fnn.jp"
             },
             "author": "${company}",
-            "title": "【速報】ロシア軍艦 攻撃受けまた沈没か ウクライナメディアが報じる - FNNプライムオンライン",
+            "title": "北朝鮮が発射した弾道ミサイルの可能性あるもの すでに落下したとみられる 防衛省 - FNNプライムオンライン",
             "description": "${summary}",
-            "url": "https://www.fnn.jp/articles/-/356823",
-            "urlToImage": "https://fnn.ismcdn.jp/mwimgs/9/a/600/img_9a07d9b5ecfd614b3f1dea8cbbed147c391367.jpg",
-            "publishedAt": "2022-05-06T09:58:00Z",
+            "url": "https://www.fnn.jp/articles/-/357056",
+            "urlToImage": "https://fnn.ismcdn.jp/mwimgs/5/d/600/img_5d65bdbf82bcb13120599d21633aa19c111439.jpg",
+            "publishedAt": "2022-05-07T05:30:00Z",
             "content": "RIAJ60005002\r\nJASRAC6700101198Y45039\r\n© Fuji News Network, Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ehime-np.co.jp"
+            },
+            "author": null,
+            "title": "愛媛で新たに３５３人が新型コロナに感染 - 愛媛新聞",
+            "description": "愛媛県は７日、新たに３５３人が新型コロナウイルスに感染したと発表した。既存事例が１３１人、新規事例または関連調査中が２２２人。　居住地は松山市１４９人、新居浜市４１人、今治市３１人、四国中央市２０人……",
+            "url": "https://www.ehime-np.co.jp/article/news202205070024",
+            "urlToImage": "https://www.ehime-np.co.jp/media/images/news/20220507/imgcfc627602bc2a3a8.jpeg",
+            "publishedAt": "2022-05-07T05:26:18Z",
+            "content": "© The Ehime Shimbun Co.,Ltd. All rights reserved."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nikkansports.com"
+            },
+            "author": "日刊スポーツ",
+            "title": "大谷翔平 ３打数無安打１打点 第１打席で先制打点 首位エンゼルスは３連勝で貯金８／詳細 - ＭＬＢ - ニッカンスポーツ",
+            "description": "エンゼルス大谷翔平投手は「3番DH」でナショナルズ戦にスタメン出場。3打数無安打1四球1打点だった。1回、無死二、三塁から二ゴロを放ち先制の打点を挙げた。首位… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
+            "url": "https://www.nikkansports.com/baseball/mlb/news/202205070000023.html",
+            "urlToImage": "https://www.nikkansports.com/baseball/mlb/news/img/202205070000023-w500_0.jpg",
+            "publishedAt": "2022-05-07T04:36:00Z",
+            "content": "(C)2022,Nikkan Sports News.\r\nnikkansports.comNEWS"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "引っ越しのサカイ 顧客情報406人分を「自宅ごみ」として廃棄(2022年5月7日) - ANNnewsCH",
+            "description": "引っ越し大手のサカイ引越センターは、社員が顧客400人以上の見積書を自宅に持ち帰り、ごみとして廃棄していたことを明らかにしました。　サカイ引越センターによりますと、社員1人が今年3月、本来なら社内でシュレッダーにかけて廃棄しなければならない引っ越しに関する見積書406人分を自宅に持ち帰り、一般ごみとして廃棄したと...",
+            "url": "https://www.youtube.com/watch?v=M1xPu10kIQA",
+            "urlToImage": "https://i.ytimg.com/vi/M1xPu10kIQA/hqdefault.jpg",
+            "publishedAt": "2022-05-07T04:26:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hochi.news"
+            },
+            "author": "報知新聞社",
+            "title": "阿部サダヲ、“自分の爪に似ている”大物女優を明かす「左薬指をずっと見ていると…」 - スポーツ報知",
+            "description": "俳優の阿部サダヲと岡田健史が７日、都内でダブル主演映画「死刑にいたる病」（白石和彌監督）の公開記念舞台あいさつを行った。三代目Ｊ　ＳＯＵＬ　ＢＲＯＴＨＥＲＳの岩田剛典、白石監督も出席した。",
+            "url": "https://hochi.news/articles/20220507-OHT1T51071.html",
+            "urlToImage": "https://hochi.news/images/2022/05/07/20220507-OHT1I51098-L.jpg",
+            "publishedAt": "2022-05-07T04:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews/",
+            "title": "ロシア軍は侵攻開始前の位置へ＝ゼレンスキー大統領 マリウポリの製鉄所から3回目の避難 - BBCニュース",
+            "description": "ウクライナのウォロディミル・ゼレンスキー大統領は6日、ロシアと和平合意を結ぶには、ロシア軍が侵攻開始前の位置に戻ることが条件になると述べた。ロシア軍に激しく攻撃されている南東部マリウポリでは、ウクライナ兵や民間人がたてこもっていた製鉄所から3回目の避難が実施され、民間人50人が脱出した。",
+            "url": "https://www.bbc.com/japanese/61360214",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_japanese/14FDE/production/_124628958_mediaitem124628957.jpg",
+            "publishedAt": "2022-05-07T03:22:08Z",
+            "content": ", EPA\r\n6350\r\n223BBC224\r\n2014\r\n223\r\nICRC31150\r\n7\r\n53\r\n9592\r\n59\r\n59\r\nBBC4\r\n4\r\n615000195\r\n433043000\r\n64\r\n68\r\n430\r\n3\r\nUkraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky / Uk… [+17 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "4gamer.net"
+            },
+            "author": "4Gamer編集部",
+            "title": "Team GRAPHTがプロeスポーツチーム“IGZIST”とスポンサー契約を締結 - 4Gamer.net",
+            "description": "Team GRAPHTがプロeスポーツチーム「IGZIST」とスポンサー契約を締結   配信元 MSY 配信日 2022/05/07    Team GRAPHTがプロeスポーツチーム「IGZIST」と スポンサー契約を締結 MSY株式会社（本社：東京都杉並区、代表取締役：秋山昌也、以下 MSY）が手掛ける、ゲーマーをトータルでサポートするためのプロジェクト『Team GRAPHT』は、国内有数のプロeスポーツチーム「IGZIST」（運営会社：株式会社STUN、本社：東京都渋…",
+            "url": "https://www.4gamer.net/games/999/G999905/20220506100/",
+            "urlToImage": "https://www.4gamer.net/games/999/G999905/20220506100/SS/001.jpg",
+            "publishedAt": "2022-05-07T03:00:00Z",
+            "content": "<table><tr><td>Team GRAPHTeIGZIST</td></tr><tr><td></td><td>MSY</td><td></td><td>2022/05/07</td></tr></table>MSY MSYTeam GRAPHTeIGZISTSTUNGRAPHTMSYRazer\r\nSTUN MSYeMSYeIGZIST2021e VALORANT/Rainbow Six… [+327 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livedoor.com"
+            },
+            "author": "デイリー新潮",
+            "title": "「肩書き」でチョイスか？ロシアの「日本人63人」入国禁止リストが波紋 - ライブドアニュース - livedoor",
+            "description": "ロシアが日本人63人の入国を禁止した件をデイリー新潮が取り上げた。「肩書き」だけで選んだと思われる人物が散見される、と全国紙記者。外務省関係者は「冷静な判断ができなくなっているのでは」と話した",
+            "url": "https://news.livedoor.com/article/detail/22122885/",
+            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/5/9/59577_1523_4700f699_d21b6800.jpg",
+            "publishedAt": "2022-05-07T02:33:00Z",
+            "content": null
         }
     ]
 }
