@@ -4,29 +4,133 @@
     "articles": [
         {
             "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": "Violaine Jaussent, Clément Parrot, Raphaël Godet",
+            "title": "REPLAY. Législatives 2022 : revivez le débat d'entre-deux-tours avec Mathilde Panot, François Bayrou, Jean-François Copé et Philippe Ballard sur France 2 - franceinfo",
+            "description": "Sur le plateau de \"France 2022\", les représentants des principaux échangent sur la guerre en Ukraine, la sécurité, la justice, le pouvoir d'achat, les déserts médicaux, l'hôpital public et le réchauffement climatique.",
+            "url": "https://www.francetvinfo.fr/elections/legislatives/direct-legislatives-2022-suivez-le-debat-d-entre-deux-tours-avec-mathilde-panot-francois-bayrou-jean-francois-cope-et-philippe-ballard-sur-france-2_5201926.html",
+            "urlToImage": "https://www.francetvinfo.fr/image/7617wkv5e-5d45/1500/843/27861856.jpg",
+            "publishedAt": "2022-06-16T22:08:39Z",
+            "content": "Retrouvez ici l'intégralité de notre live #LEGISLATIVES\r\n00h03 : Les nervis sont de sortie. Deux camarades violentés, gazés et frappés à Drancy. L'équipe de @RaquelGarridoFr est victime des violents … [+15203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BFMTV"
+            },
+            "author": null,
+            "title": "Mercato: le PSG a contacté Nice pour ouvrir les négociations avec Galtier - RMC Sport",
+            "description": "Alors que le PSG a trouvé un accord pour le départ de Mauricio Pochettino à un an de la fin de son contrat, la direction parisienne, en quête de son successeur, a contacté l'OGC Nice pour Christophe Galtier.",
+            "url": "https://rmcsport.bfmtv.com/football/transferts/mercato-le-psg-a-contacte-nice-pour-ouvrir-les-negociations-avec-galtier_AP-202206160727.html",
+            "urlToImage": "https://images.bfmtv.com/2aZ3EzF_zv0eotZbyl08cHnFaSs=/6x167:2038x1310/images/Christophe-Galtier-avec-Nice-le-7-mai-2022-1409987.jpg",
+            "publishedAt": "2022-06-16T21:30:22Z",
+            "content": "Alors que le PSG a trouvé un accord pour le départ de Mauricio Pochettino à un an de la fin de son contrat, la direction parisienne, en quête de son successeur, a contacté l'OGC Nice pour Christophe … [+1105 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "Rédaction",
+            "title": "Le départ de la 2e étape de la Route d'Occitanie délocalisé à Belmont-sur-Rance - L'Équipe.fr",
+            "description": "Le départ de la 2e étape de la Route d'Occitanie n'aura pas lieu à Graulhet, comme prévu, mais à Belmont-sur-Rance, vendredi.",
+            "url": "https://www.lequipe.fr/Cyclisme-sur-route/Actualites/Le-depart-de-la-2e-etape-de-la-route-d-occitanie-delocalise-a-belmont-sur-rance/1339002",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/arnaud-demare-a-remporte-la-1re-etape-b-bade-presse-sports/1500000001656089/0:0,1998:1332-640-427-75/7cbea.jpg",
+            "publishedAt": "2022-06-16T19:59:34Z",
+            "content": "Le départ de la 2e étape de la Route d'Occitanie aura lieu à Belmont-sur-Rance, vendredi. Initialement prévu à Graulhet, il a été délocalisé en raison d'une interdiction préfectorale « en lien avec l… [+114 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ouest-France"
+            },
+            "author": "Par Emile BENECH",
+            "title": "Cinq questions pour mieux comprendre la dégringolade spectaculaire du Bitcoin - Edition du soir Ouest-France - 16/06/2022 - L'édition du soir",
+            "description": "Le Bitcoin, comme les autres cryptomonnaies, connaît une dure période. Il a perdu près de 30 % de sa valeur depuis dimanche 12 juin 2022. Plusieurs raisons expliquent cette...",
+            "url": "https://www.ouest-france.fr/leditiondusoir/2022-06-16/cinq-questions-pour-mieux-comprendre-la-degringolade-spectaculaire-du-bitcoin-05a0aefc-15b8-4de2-b702-2fb790682f58",
+            "urlToImage": "https://media.ouest-france.fr/v1/pictures/f4efacdb97cffc65f0f748d20ce2bbd4-20990864.jpg?width=1260&client_id=eds&sign=2771dfb9476ae31adb4cd6eb540b9428c03b9910e083f22907a24c7d339824d4",
+            "publishedAt": "2022-06-16T19:51:32Z",
+            "content": "Par Emile BENECH\r\nLe Bitcoin, comme les autres cryptomonnaies, connaît une dure période. Il a perdu près de 30 % de sa valeur depuis dimanche 12 juin 2022. Plusieurs raisons expliquent cette chute sp… [+4887 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Céréales bloquées en Ukraine : Macron propose de passer par la Roumanie - Le Figaro",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL2Vjb25vbWllL2NlcmVhbGVzLWJsb3F1ZWVzLWVuLXVrcmFpbmUtbWFjcm9uLXByb3Bvc2UtZGUtcGFzc2VyLXBhci1sYS1yb3VtYW5pZS0yMDIyMDYxNtIBb2h0dHBzOi8vYW1wLmxlZmlnYXJvLmZyL2Vjb25vbWllL2NlcmVhbGVzLWJsb3F1ZWVzLWVuLXVrcmFpbmUtbWFjcm9uLXByb3Bvc2UtZGUtcGFzc2VyLXBhci1sYS1yb3VtYW5pZS0yMDIyMDYxNg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-06-16T19:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "le-monde",
                 "name": "Le Monde"
             },
             "author": "Le Monde",
-            "title": "Guerre en Ukraine, en direct : « Il faut que l'Ukraine puisse résister et l'emporter », déclare Emmanuel Macron à Irpine - Le Monde",
-            "description": "« Nous sommes aux côtés des Ukrainiens et des Ukrainiennes, sans ambiguïté », a ajouté le président français, en saluant « l’héroïsme » des Ukrainiens, à l’issue d’une brève visite d’une des banlieues de Kiev dévastées dans les premières semaines de l’invasio…",
-            "url": "https://www.lemonde.fr/international/live/2022/06/16/guerre-en-ukraine-en-direct-emmanuel-macron-olaf-scholz-et-mario-draghi-en-visite-a-irpine_6130539_3210.html",
-            "urlToImage": "https://img.lemde.fr/2022/06/16/876/0/6775/3387/1440/720/60/0/23a266f_1655371255303-691915.jpg",
-            "publishedAt": "2022-06-16T10:20:12Z",
-            "content": "Le président français et ses homologues allemand et italien pourraient se rendre aujourdhui à Kiev, pour réaffirmer le soutien de lEurope à lUkraine en guerre. Sans confirmer ce déplacement, Emmanuel… [+1315 chars]"
+            "title": "Guerre en Ukraine en direct : Emmanuel Macron « souhaite que l'Ukraine puisse défendre son territoire, retrouver la liberté » - Le Monde",
+            "description": "« On a un peuple ukrainien qui est aujourd’hui dans une situation très difficile », a jugé le président français à Kiev, dans une interview diffusée sur TF1. « Le devoir de la France était de venir et dire : “Nous sommes là” », a-t-il souligné.",
+            "url": "https://www.lemonde.fr/international/live/2022/06/16/guerre-en-ukraine-en-direct-zelensky-je-ne-suis-pas-sur-qu-il-y-ait-des-dirigeants-aujourd-hui-qui-pourraient-forcer-la-russie-individuellement-a-arreter-la-guerre_6130539_3210.html",
+            "urlToImage": "https://img.lemde.fr/2022/06/16/505/0/6045/3022/1440/720/60/0/2d2fd02_b32bd6f7902146f69ef671594ca7a761-b32bd6f7902146f69ef671594ca7a761-0.jpg",
+            "publishedAt": "2022-06-16T19:30:48Z",
+            "content": "Le président français, Emmanuel Macron, a salué « lhéroïsme » des Ukrainiens, à lissue dune brève visite dIrpine, une des banlieues de Kiev dévastées dans les premières semaines de linvasion russe de… [+1245 chars]"
         },
         {
             "source": {
                 "id": "le-monde",
                 "name": "Le Monde"
             },
-            "author": "Charles-Edouard Ama Koffi et Marie Pouzadoux",
-            "title": "Législatives 2022, en direct : « Si les abstentionnistes et les jeunes se mobilisent, nous serons en tête dimanche », avance Manon Aubry - Le Monde",
-            "description": "« La Nupes est aujourd’hui aux portes du pouvoir », s’est enthousiasmée l’eurodéputée sur Franceinfo, ce matin.",
-            "url": "https://www.lemonde.fr/politique/live/2022/06/16/legislatives-2022-en-direct-si-les-abstentionnistes-et-les-jeunes-se-mobilisent-nous-serons-en-tete-dimanche-avance-manon-aubry_6130544_823448.html",
-            "urlToImage": "https://img.lemde.fr/2022/06/12/530/0/4712/2356/1440/720/60/0/486b89e_5441129-01-06.jpg",
-            "publishedAt": "2022-06-16T10:15:15Z",
-            "content": "Les critiques continuent de tomber quant à la visite dEmmanuel Macron en Ukraine aujourdhui, dela part de lopposition.\r\n« La maison brûle et Emmanuel Macron regarde ailleurs. Limaginer dans un train … [+2111 chars]"
+            "author": "Brice Laemle et Jérémie Lamothe",
+            "title": "Législatives 2022, en direct : François Bayrou estime que le projet économique de la Nupes « est dingue » ; Clémentine Autain promet « un changement radical » sur les services publics - Le Monde",
+            "description": "Suivez les dernières informations sur la campagne des législatives sur notre direct.",
+            "url": "https://www.lemonde.fr/politique/live/2022/06/16/legislatives-2022-en-direct-marine-le-pen-denonce-le-deplacement-electoraliste-d-emmanuel-macron-gerald-darmanin-compare-jean-luc-melenchon-a-un-funeste-agitateur_6130544_823448.html",
+            "urlToImage": "https://img.lemde.fr/2022/05/05/175/0/2100/1050/1440/720/60/0/e227aab_1651742527427-bayrou.jpg",
+            "publishedAt": "2022-06-16T19:30:43Z",
+            "content": "La candidate de la Nouvelle Union populaire écologique et sociale (Nupes) Raquel Garrido et ses militants ont été victimes jeudi à Drancy (Seine-Saint-Denis) de gaz lacrymogène tirés à bout portant p… [+2752 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Purebreak.com"
+            },
+            "author": "Quentin Piton",
+            "title": "HPI saison 3 : une suite déjà en préparation, un gros changement à venir en 2023 - Purebreak",
+            "description": "Le final de la saison 2 d'HPI diffusé ce jeudi 16 juin 2022 sur TF1 vous a passionné ? Ca tombe bien, la série est loin d'être terminée. Audrey Fleurot (Morgane Alvaro) et Mehdi Nebbou (Adam Karadec) l'ont confirmé, une saison 3 est déjà prévue. Et si sa date…",
+            "url": "https://www.purebreak.com/news/hpi-saison-3-une-suite-deja-en-preparation-un-gros-changement-a-venir-en-2023/231543",
+            "urlToImage": "https://static1.purebreak.com/articles/3/23/15/43/@/790458-hpi-saison-3-une-suite-deja-en-prepara-opengraph_1200-1.jpg",
+            "publishedAt": "2022-06-16T19:00:00Z",
+            "content": "Une saison 3 pour HPI ?\r\nC'est ce jeudi 16 juin 2022 que TF1 diffuse le grand final de la saison 2 de HPI. A cet effet, une question est déjà posée sur toutes les lèvres : peut-on espérer une suite p… [+2232 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "20 Minutes"
+            },
+            "author": "Ludivine Trichot",
+            "title": "Garrido et des militants Nupes victimes de gaz lacrymogènes à Drancy - 20 Minutes",
+            "description": "La candidate de la Nupes Raquel Garrido et ses militants ont été victimes jeudi à Drancy (Seine-Saint-Denis) de gaz lacrymogènes tirés par un homme à bout portant, selon la police",
+            "url": "https://www.20minutes.fr/politique/3309871-20220616-legislatives-2022-raquel-garrido-militants-victimes-gaz-lacrymogenes-drancy",
+            "urlToImage": "https://img.20mn.fr/tWCZhFGmTt2MJVY3N70jZg/1200x768_raquel-garrido-candidate-nupes-dans-la-5e-circonscription-de-seine-saint-denis-illustration",
+            "publishedAt": "2022-06-16T18:48:34Z",
+            "content": "L’Insoumise met en cause un soutien de son adversaire au second tour des élections législatives, Jean-Christophe Lagarde (UDI), qui dément. « Je circulais dans une voiture avec sono pour appeler au v… [+3176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "20 Minutes"
+            },
+            "author": "Diane Regny",
+            "title": "Etats-Unis : Des dizaines de personnes évacuées du parc national de Yellowstone, inondé - 20 Minutes",
+            "description": "Au total, les gardes nationaux ont hélitreuillé 87 personnes coupées du monde extérieur",
+            "url": "https://www.20minutes.fr/monde/3309867-20220616-etats-unis-dizaines-personnes-evacuees-parc-national-yellowstone-inonde",
+            "urlToImage": "https://img.20mn.fr/KdbtIdBzTFeRricrRxlq9Sk/1200x768_quelque-10000-visiteurs-contraints-evacuer-parc-national-yellowstone-plus-celebres-etats-unis",
+            "publishedAt": "2022-06-16T18:26:40Z",
+            "content": "Les dégâts sont considérables et des dizaines de personnes ont dû être évacuées par hélicoptère cette semaine. Le parc national de Yellowstone aux Etats-Unis et les villes voisines ont été frappés pa… [+1848 chars]"
         },
         {
             "source": {
@@ -34,155 +138,12 @@
                 "name": "Francetvinfo.fr"
             },
             "author": null,
-            "title": "Assassinat de Samuel Paty : une enquête pour \"non-assistance à personne en péril\" a été ouverte en avril, après une plainte de sa famille contre l'Etat - franceinfo",
-            "description": "Les investigations ont été confiées à la brigade de répression de la délinquance aux personnes, a précisé le parquet de Paris à franceinfo.",
-            "url": "https://www.francetvinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/assassinat-de-samuel-party-une-enquete-pour-non-assistance-a-personne-en-peril-a-ete-ouverte-en-avril-apres-une-plainte-de-sa-famille-contre-l-etat_5201245.html",
-            "urlToImage": "https://www.francetvinfo.fr/pictures/jKuKAiLAb0Xq9UnJREpZM0rxifQ/1500x843/2022/06/16/phpiEqvqn.jpg",
-            "publishedAt": "2022-06-16T09:08:21Z",
-            "content": "Les investigations ont été confiées à la brigade de répression de la délinquance aux personnes, a précisé le parquet de Paris à franceinfo.Une enquête a été ouverte le 19 avril pour \"non-assistance à… [+1306 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boursorama"
-            },
-            "author": null,
-            "title": "L'Europe en baisse, craintes autour des banques centrales - Boursorama",
-            "description": "PARIS (Reuters) -     Les principales Bourses européennes reculent jeudi en début de séance tandis que les contrats à terme de Wall Street sont dans le rouge en raison des préoccupations sur l'impact économique du durcissement des politiques monétaires des gr…",
-            "url": "https://www.boursorama.com/bourse/actualites/l-europe-en-baisse-craintes-autour-des-banques-centrales-04ea123f52c05b347be249e62b0fade4",
-            "urlToImage": "https://s.brsimg.com/static-000/cache/i/content/images/1/3/f/13fa80c315f0e0770b3dcdfa171b41e2-1200x800.jpg",
-            "publishedAt": "2022-06-16T08:36:53Z",
-            "content": "L'EUROPE EN BAISSE, CRAINTES AUTOUR DES BANQUES CENTRALES\r\nPARIS (Reuters) - Les principales Bourses européennes reculent jeudi en début de séance tandis que les contrats à terme de Wall Street sont … [+2834 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "L'Indépendant"
-            },
-            "author": "Matthieu Terrats",
-            "title": "Variole du singe : l'OMS réunit son comité d'urgence, l'alerte maximale bientôt déclenchée ? - L'Indépendant",
-            "description": "Le rendez-vous est fixé au 23 juin. Là, l'OMS pourrait bien élever le Monkeypox au rang d'Urgence de santé publique de portée internationale, soit le plus haut niveau d'alerte.",
-            "url": "https://www.lindependant.fr/2022/06/16/variole-du-singe-loms-reunit-son-comite-durgence-lalerte-maximale-bientot-declenchee-10369459.php",
-            "urlToImage": "https://images.lindependant.fr/api/v1/images/view/62aae9aa102ddf6a327713dc/large/image.jpg?v=1",
-            "publishedAt": "2022-06-16T08:32:00Z",
-            "content": "Le rendez-vous est fixé au 23 juin. Là, l'OMS pourrait bien élever le Monkeypox au rang d'Urgence de santé publique de portée internationale, soit le plus haut niveau d'alerte.\r\n 1 600 cas confirmés,… [+1721 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "59hardware.net"
-            },
-            "author": "Quentin Couprie",
-            "title": "Firefox vous donne enfin une bonne raison de laisser tomber Google Chrome pour de bon ! - 59Hardware.net",
-            "description": "Mozilla Firefox vient d'apporter des modifications à son navigateur, rendant une fonctionnalité existante disponible par défaut pour tous les utilisateurs. L'outil s'appelle Total Cookie Protection, et grâce à lui, Firefox se présente désormais comme 'le navi…",
-            "url": "https://www.59hardware.net/firefox-vous-donne-enfin-une-bonne-raison-de-laisser-tomber-google-chrome-pour-de-bon/",
-            "urlToImage": "http://www.59hardware.net/wp-content/uploads/2022/06/gestion-cookie-firefox-avis.jpg",
-            "publishedAt": "2022-06-16T07:15:32Z",
-            "content": "Switch skinSwitch to the dark mode that's kinder on your eyes at night time.\r\nSwitch to the light mode that's kinder on your eyes at day time.\r\npar\r\nQuentin Couprie16 juin 2022, 9h15\r\nMozilla Firefox… [+4388 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Le HuffPost"
-            },
-            "author": "Marie Terrier",
-            "title": "Beyoncé annonce son retour avec le projet \"Renaissance\" - Le HuffPost",
-            "description": "La diva américaine a annoncé sur les réseaux sociaux l'arrivée d'un nouveau projet appelé \"renaissance\" pour la fin juillet. Les fans espèrent qu'il s'agit d'un nouvel album.",
-            "url": "https://www.huffingtonpost.fr/entry/on-connait-la-date-du-retour-de-beyonce_fr_62aacd2be4b0cf43c85276b1",
-            "urlToImage": "https://img.huffingtonpost.com/asset/62aad14a250000cc21473c77.jpeg?cache=z8ISRDf9qF&ops=1200_630",
-            "publishedAt": "2022-06-16T07:05:09Z",
-            "content": "MUSIQUE - Une date, un mot, et la planète pop est en feu. Six ans après son dernier album, la chanteuse américaine Beyoncé est de retour pour un nouveau projet appelé “renaissance”, comme le laissent… [+1604 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.rtl.fr"
-            },
-            "author": "Nerissa Hemani",
-            "title": "Maison squattée dans l'Essonne : que s'est-il vraiment passé ? - RTL",
-            "description": "RÉCIT - Le couple, propriétaire d'une maison squattée, avait en fait menti aux médias et savait la maison occupée au moment de l'achat. Retour sur cette affaire ultra-médiatisée.",
-            "url": "https://www.rtl.fr/actu/justice-faits-divers/maison-squattee-dans-l-essonne-que-s-est-il-vraiment-passe-7900164630",
-            "urlToImage": "https://images.rtl.fr/~c/2000v2000/rtl/www/1519762-la-maison-achetee-par-elodie-et-laurent-qu-ils-savaient-squattee-a-ollainville.jpeg",
-            "publishedAt": "2022-06-16T07:03:00Z",
-            "content": "Cest une histoire incroyable, une histoire de squatteurs, qui a fait la Une de l'actualité et le tour des réseaux sociaux. Une maison, des squatteurs, des victimes, mais pas celles que l'on croyait. … [+3466 chars]"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Emeline Cazi",
-            "title": "« S'il fait trop chaud, on s'arrête », dans le BTP des chantiers freinés par la canicule - Le Monde",
-            "description": "Malgré l’impact du réchauffement climatique sur son activité, la profession n’a pas encore engagé de réflexion plus générale sur son fonctionnement.",
-            "url": "https://www.lemonde.fr/planete/article/2022/06/16/s-il-fait-trop-chaud-on-s-arrete-dans-le-btp-des-chantiers-freines-par-la-canicule_6130547_3244.html",
-            "urlToImage": "https://img.lemde.fr/2022/06/14/0/6/5788/3859/1440/960/60/0/83cfac3_1655226157714-685351.jpg",
-            "publishedAt": "2022-06-16T06:18:09Z",
-            "content": "Un homme se rafraîchit avec de leau alors quil travaille sur un chantier de construction à Merignac, près de Bordeaux, le 14 juin 2022. PHILIPPE LOPEZ / AFP\r\nLa soirée électorale de Francis Dubrac, p… [+3338 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Législatives 2022 : la longue passe d'armes entre Jean-Luc Mélenchon et Bruno Le Maire - Le Figaro",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMijAFodHRwczovL3d3dy5sZWZpZ2Fyby5mci9lbGVjdGlvbnMvbGVnaXNsYXRpdmVzL2xlZ2lzbGF0aXZlcy0yMDIyLWxhLWxvbmd1ZS1wYXNzZS1kLWFybWVzLWVudHJlLWplYW4tbHVjLW1lbGVuY2hvbi1ldC1icnVuby1sZS1tYWlyZS0yMDIyMDYxNtIBjAFodHRwczovL2FtcC5sZWZpZ2Fyby5mci9lbGVjdGlvbnMvbGVnaXNsYXRpdmVzL2xlZ2lzbGF0aXZlcy0yMDIyLWxhLWxvbmd1ZS1wYXNzZS1kLWFybWVzLWVudHJlLWplYW4tbHVjLW1lbGVuY2hvbi1ldC1icnVuby1sZS1tYWlyZS0yMDIyMDYxNg?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-06-16T06:12:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Arnaud Leparmentier",
-            "title": "Aux Etats-Unis, face à la flambée des prix, la Fed double ses taux directeurs - Le Monde",
-            "description": "Pour contrer l’inflation, qui a atteint 8,6 % en mai, la banque centrale américaine a augmenté ses taux à court terme de 0,75 point, la plus forte hausse depuis 1994.",
-            "url": "https://www.lemonde.fr/economie/article/2022/06/16/etats-unis-face-a-la-flambee-des-prix-la-fed-double-ses-taux-directeurs_6130510_3234.html",
-            "urlToImage": "https://img.lemde.fr/2022/06/15/0/0/3499/2333/1440/960/60/0/dce39f6_ppp-nyk510-usa-fed-0615-1a.jpg",
-            "publishedAt": "2022-06-16T05:48:16Z",
-            "content": "A la Bourse de New York, le 15 juin 2022. BRENDAN MCDERMID / REUTERS\r\nLa Réserve fédérale (Fed) a décidé, mercredi 15 juin, de doubler ses taux directeurs, après que linflation a atteint 8,6 % au moi… [+2870 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eurosport.fr"
-            },
-            "author": "Yohann Le Coz",
-            "title": "Pogacar est en forme, L'ASVEL surpris par Monaco, les Celtics doivent gagner à domicile : l'actu sur un plateau - Eurosport FR",
-            "description": "Pogacar, l'ASVEL, Marin Cilic et les finales NBA, votre actu servie sur un plateau.",
-            "url": "https://www.eurosport.fr/omnisport/pogacar-est-en-forme-l-asvel-surpris-par-monaco-les-celtics-doivent-gagner-a-domicile-l-actu-sur-un-_sto8994256/story.shtml",
-            "urlToImage": "https://i.eurosport.com/2022/06/16/3393695-69354068-2560-1440.jpg",
-            "publishedAt": "2022-06-16T05:38:00Z",
-            "content": "Majka s'impose avec la bénédiction de Pogacar"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Butfootballclub.fr"
-            },
-            "author": "Bastien Aubert",
-            "title": "OM - Mercato : le chouchou de Longoria arrive à Marseille, d’autres renforts vont suivre ! - But! Football Club",
-            "description": "Le président de l’OM Pablo Longoria a bel et bien mis le grappin sur Javier Ribalta pour devenir son prochain directeur du football. Le Catalan de 41 ans ne devrait pas être le dernier renfort de l’organigramme phocéen.",
-            "url": "https://www.butfootballclub.fr/om/mercato/om-mercato-le-chouchou-de-longoria-arrive-a-marseille-d-autres-renforts-vont-suivre-777470",
-            "urlToImage": "https://static.butfootballclub.fr/16/2022/06/photo_article/777470/306365/1200-L-om-mercato-le-chouchou-de-longoria-arrive-marseille-dautres-renforts-vont-suivre.jpg",
-            "publishedAt": "2022-06-16T05:23:05Z",
-            "content": "Zapping But! Football Club OL, OM, LOSC - INFO BUT! : Satriano (Stade Brestois) affole la Ligue 1 !\r\nOn vous l’a annoncé très tôt hier matin : Javier Ribalta va devenir le nouveau directeur du footba… [+2011 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Midi Libre"
-            },
-            "author": "Midi Libre avec REUTERS",
-            "title": "Disparition en Amazonie d'un journaliste et d'un anthropologue : un suspect conduit la police à des restes hum - Midi Libre",
-            "description": "Une nouvelle découverte dans la disparition en Amazonie du journaliste britannique Dom Philipps et de l'anthropologue brésilien Bruno Pereira pourrait bien acter l'épilogue de cette tragique affaire. L'un des suspects a en effet conduit la police à des restes…",
-            "url": "https://www.midilibre.fr/2022/06/16/disparition-en-amazonie-dun-journaliste-et-dun-anthropologue-un-suspect-conduit-la-police-a-des-restes-humains-10369277.php",
-            "urlToImage": "https://images.midilibre.fr/api/v1/images/view/62aab8545b7f9f177d155586/large/image.jpg?v=1",
-            "publishedAt": "2022-06-16T05:07:00Z",
-            "content": "Une nouvelle découverte dans la disparition en Amazonie du journaliste britannique Dom Philipps et de l'anthropologue brésilien Bruno Pereira pourrait bien acter l'épilogue de cette tragique affaire.… [+2541 chars]"
+            "title": "Canicule : Météo France place 12 départements en vigilance rouge, 25 départements en orange à partir de vendredi - franceinfo",
+            "description": "Les départements en rouge se situent principalement le long de la façade Atlantique, tandis que les départements en orange se situent en majorité plus à l'intérieur des terres.",
+            "url": "https://www.francetvinfo.fr/meteo/canicule/canicule-meteo-france-place-12-departements-en-vigilance-rouge-25-departements-en-orange_5202040.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/Ef8VqGnHodEDegF4ZBil6PnWTw4/1500x843/2022/06/16/phpHl7abT.jpg",
+            "publishedAt": "2022-06-16T17:58:09Z",
+            "content": "Les départements en rouge se situent principalement le long de la façade Atlantique, tandis que les départements en orange se situent en majorité plus à l'intérieur des terres.Météo France a placé, j… [+1772 chars]"
         },
         {
             "source": {
@@ -190,25 +151,25 @@
                 "name": "Francetvinfo.fr"
             },
             "author": null,
-            "title": "Quels sont les risques de la chaleur pour la santé et comment s'en prémunir ? - franceinfo",
-            "description": "La France connaît une vague de chaleur particulièrement précoce cette semaine. Alors que les températures flirtent avec les 40 °C, les risques de problèmes de santé parfois graves et mortels augmentent.",
-            "url": "https://www.francetvinfo.fr/meteo/climat/canicule-quels-sont-les-risques-de-la-chaleur-pour-la-sante-et-comment-s-en-premunir_5199265.html",
-            "urlToImage": "https://www.francetvinfo.fr/pictures/YNGzB71NARJhwSiYbxKs6MrkGsY/1500x843/2022/06/15/phpATFeCW.jpg",
-            "publishedAt": "2022-06-16T05:05:43Z",
-            "content": "La France connaît une vague de chaleur particulièrement précoce cette semaine. Alors que les températures flirtent avec les 40 °C, les risques de problèmes de santé parfois graves et mortels augmente… [+9491 chars]"
+            "title": "Incidents au Stade de France : les sénateurs dénoncent \"l'impréparation\" des autorités et une \"faute grave\" - franceinfo",
+            "description": "Le président de la commission de la Culture du Sénat, Laurent Lafon, a épinglé, jeudi, \"un manque de réactivité pendant [la finale de la Ligue des champions], et une gestion critiquable\".",
+            "url": "https://www.francetvinfo.fr/faits-divers/incidents-lors-de-la-finale-de-la-ligue-des-champions-2022/incidents-au-stade-de-france-les-senateurs-denoncent-l-impreparation-des-autorites-publiques-et-la-faute-grave_5202007.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/qZ1OP_JQ7_P4I-kbfvsU7RZhOak/1500x843/2022/06/16/phpDWb1Cs.jpg",
+            "publishedAt": "2022-06-16T17:32:27Z",
+            "content": "Le président de la commission de la Culture du Sénat, Laurent Lafon, a épinglé, jeudi, \"un manque de réactivité pendant [la finale de la Ligue des champions], et une gestion critiquable\".Le jugement … [+2212 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Les Numériques"
+                "name": "BFMTV"
             },
-            "author": "Fabien Pionneau",
-            "title": "Test Huawei Watch GT 3 Pro Titanium : une luxueuse montre connectée sportive qui mise tout sur le titane - Les Numériques",
-            "description": "Déjà agressif sur l’entrée de gamme — comme bon nombre de fabricants chinois —, Huawei occupe aussi des segments plus haut de gamme. Il enfonce le clou cette année avec deux nouvelles montres en titane et céramique, les Watch GT 3 Pro.",
-            "url": "https://www.lesnumeriques.com/montre-connectee/huawei-watch-gt-3-pro-p68849/test.html",
-            "urlToImage": "https://cdn.lesnumeriques.com/optim/test/18/185019/bc101181-huawei-watch-gt-3-pro-une-luxueuse-montre-connectee-sportive-qui-mise-tout-sur-le-titane__1200_630__192-313-2798-1681_wtmk.jpeg",
-            "publishedAt": "2022-06-16T05:00:00Z",
-            "content": "Avec sa Watch GT 3 Pro, Huawei opte pour un tout nouveau design et ne se contente pas de remplacer l'acier de la Watch GT 3 46 mm par du titane. La GT 3 Pro est ainsi plus proche d'une GT 2 Pro qui e… [+11219 chars]"
+            "author": null,
+            "title": "Fraîchement réélu, Laurent Berger essuie un camouflet concernant les retraites - BFM Business",
+            "description": "Un amendement de la direction sur un éventuel allongement de l'âge de départ à la retraite a été rejeté lors d'un vote des délégués réunis en Congrès.",
+            "url": "https://www.bfmtv.com/economie/fraichement-reelu-laurent-berger-essuie-un-camouflet-concernant-les-retraites_AD-202206160595.html",
+            "urlToImage": "https://images.bfmtv.com/YzX0HqxTnEx6yLOopjaINkQUz_8=/0x40:768x472/768x0/images/Le-secretaire-general-de-la-CFDT-Laurent-Berger-le-29-avril-2021-a-Paris-1367333.jpg",
+            "publishedAt": "2022-06-16T17:16:00Z",
+            "content": "Un amendement de la direction sur un éventuel allongement de l'âge de départ à la retraite a été rejeté lors d'un vote des délégués réunis en Congrès.\r\nUnique candidat à sa succession, Laurent Berger… [+3324 chars]"
         },
         {
             "source": {
@@ -216,51 +177,90 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Girondins de Bordeaux : Gérard Lopez, «l'acrobate de la finance» au pied du mur - Le Figaro",
+            "title": "Variole du singe : un premier cas détecté en Bretagne - Ouest-France",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL3d3dy5sZWZpZ2Fyby5mci9zcG9ydHMvZm9vdGJhbGwvbGlndWUtMS9naXJvbmRpbnMtZGUtYm9yZGVhdXgtZ2VyYXJkLWxvcGV6LWwtYWNyb2JhdGUtZGUtbGEtZmluYW5jZS1hdS1waWVkLWR1LW11ci0yMDIyMDYxNtIBAA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMifWh0dHBzOi8vd3d3Lm91ZXN0LWZyYW5jZS5mci9icmV0YWduZS92YXJpb2xlLWR1LXNpbmdlLXVuLXByZW1pZXItY2FzLWRldGVjdGUtZW4tYnJldGFnbmUtNjUyMjNkNDItZWQ5MC0xMWVjLWI0NmYtMDIxYzFlOWVjZjc00gEA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-06-16T04:30:05Z",
+            "publishedAt": "2022-06-16T17:12:59Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "France Bleu"
+                "name": "Est Républicain"
             },
-            "author": null,
-            "title": "L'horoscope du jeudi 16 juin 2022 - France Bleu",
-            "description": "L’un des 12 natifs de ce zodiaque en a assez ! Et on parle du Capricorne. Signe de Terre, vous êtes mis à rude épreuve, mais vous avez la force de vous en sortir, et de faire face !",
-            "url": "https://www.francebleu.fr/emissions/l-horoscope-de-catherine-viguie/l-horoscope-du-jeudi-16-juin-2022",
-            "urlToImage": "https://cdn.radiofrance.fr/s3/cruiser-production/2021/02/d147608b-25ef-4550-aaa7-1510b5e1e25b/1200x680_catherine.jpg",
-            "publishedAt": "2022-06-16T04:00:00Z",
-            "content": "Gémeaux : avec une certaine aura, du talent, vous convainquez votre auditoire ! Bravo !\r\nCancer : excellente journée pour signer un contrat, pour vous engager !\r\nLion : vous bossez dur et les résulta… [+851 chars]"
+            "author": "Magalie DELLE-VEDOVE",
+            "title": "Grand Est. Maladie de Lyme : la Lorraine infestée de tiques - Est Républicain",
+            "description": "Il fait très chaud... Attention si vous comptez trouver refuge dans la nature. Une carte publiée par l’institut national de recherche pour ...",
+            "url": "https://www.estrepublicain.fr/environnement/2022/06/16/maladie-de-lyme-la-region-infestee-de-tiques",
+            "urlToImage": "https://cdn-s-www.estrepublicain.fr/images/1F41FAA5-F7BC-4ACB-B110-DECFFF30C1B4/FB1200/photo-1655411039.jpg",
+            "publishedAt": "2022-06-16T17:09:00Z",
+            "content": "CAS N°1 : Vous (ou une autre personne) utilisez plus de $this.View.AuthResponse.DeviceLimit appareils et/ou navigateurs en même temps →\r\nDéconnectez-vous des appareils et/ou navigateurs que vous n'ut… [+925 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "20 Minutes"
             },
-            "author": null,
-            "title": "Canicule: Pap Ndiaye indique que les épreuves du bac vont se dérouler \"selon les modalités prévues\" - Yahoo Actualités",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ea26d496-982b-485c-939e-f0770a3c8331",
-            "urlToImage": null,
-            "publishedAt": "2022-06-15T23:55:15Z",
-            "content": "Yahoo fait partie de la famille de marques Yahoo.\r\nEn cliquant sur Accepter tout, vous consentez à ce que Yahoo et nos partenaires stockent et/ou utilisent des informations sur votre appareil par lin… [+1069 chars]"
+            "author": "Ludivine Trichot",
+            "title": "Météo : Comment protégez-vous vos animaux de la canicule ? - 20 Minutes",
+            "description": "La vague de chaleur qui fait fondre la France cette semaine peut être aussi difficile à vivre pour nous que pour nos animaux",
+            "url": "https://www.20minutes.fr/societe/3309859-20220616-meteo-comment-protegez-animaux-canicule",
+            "urlToImage": "https://img.20mn.fr/byLd8F-TTWiBraIqUlL_aik/1200x768_seine_maritime_un_enfant_de_12_ans_attaque_par_deux_chiens_et_mordu_a_plusieurs_reprises1",
+            "publishedAt": "2022-06-16T17:05:41Z",
+            "content": "Plus de 40 degrés. Il fait chaud, très chaud, cette semaine en France. L’alerte canicule a été déclenchée dans 23 départements. Chacun ses astuces pour se rafraîchir : privilégier le télétravail deva… [+713 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Onze Mondial"
+                "name": "Pure People"
             },
-            "author": "Arnaud Déchelotte",
-            "title": "Real Madrid : Perez évoque la plainte de la Liga contre le PSG et la Super League ! - Onze Mondial",
-            "description": "Florentino Perez s’est exprimé sur la plainte déposée par la Liga contre le Paris Saint-Germain et Manchester City.",
-            "url": "https://www.onzemondial.com/transferts/real-madrid-perez-evoque-la-plainte-de-la-liga-contre-le-psg-782976",
-            "urlToImage": "https://static.onzemondial.com/8/2022/06/photo_article/782976/308909/1200-L-real-madrid-perez-voque-la-plainte-de-la-liga-contre-le-psg.jpg",
-            "publishedAt": "2022-06-15T22:31:59Z",
-            "content": "Zapping Onze Mondial TOP 10 : Les transferts les plus rentables de l'histoire\r\nLe Paris Saint-Germain a suscité la controverse lors des dernières semaines et notamment dans le dossier Kylian Mbappé. … [+1639 chars]"
+            "author": "Justine Texier",
+            "title": "Ryan Gosling : Nouveau look improbable... validé par sa chérie Eva Mendes ! - Pure People",
+            "description": "Un look qui détonne ! Ce jeudi, Ryan Gosling est apparu totalement changé sur les premières photos issues du film sur Barbie qui sortira dans quelques mois. Cheveux décolorés, abdos apparents et décor rose bonbon, l'acteur est complètement différent de ce qu'…",
+            "url": "https://www.purepeople.com/article/ryan-gosling-nouveau-look-improbable-valide-par-sa-cherie-eva-mendes_a493021/1",
+            "urlToImage": "https://static1.purepeople.com/articles/1/49/30/21/@/7158286-ryan-gosling-lors-de-la-89eme-ceremonie-opengraph_1200-2.jpg",
+            "publishedAt": "2022-06-16T16:51:00Z",
+            "content": "Un look... étonnant ! Ne vous inquiétez pas, Ryan Gosling n'a pas décidé de se décolorer les cheveux à vie, inspiré par David Beckham dans les années 2000... Il se prépare simplement pour le rôle de … [+1066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Le Parisien"
+            },
+            "author": "Gabriel Jaquemet",
+            "title": "Bac français 2022 : le corrigé du sujet de l’épreuve anticipée - Le Parisien",
+            "description": "18h ! Fin de l’épreuve ! Voici le corrigé du sujet du bac français pour les lycéens en fin de première de filière générale et technologique",
+            "url": "https://www.leparisien.fr/etudiant/examens/bac/bac-francais-2022-le-corrige-du-sujet-de-lepreuve-anticipee-HLFUR3NEIJFT7CYRNUUULYZZJ4.php",
+            "urlToImage": "https://www.leparisien.fr/resizer/QtxYya-Jp_Xgqd4uaEpspAfCkkk=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/UFERMR63BVATJN3UIWOHTTRJ3Q.png",
+            "publishedAt": "2022-06-16T16:25:00Z",
+            "content": "Ce jeudi 16 juin 2022, les élèves de première passaient aussi leur bac : avec la fameuse épreuve écrite de français. Retrouvez ci-dessous le corrigé des deux sujets (général et techno) et les comment… [+22650 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rugbyrama.fr"
+            },
+            "author": "Rugbyrama",
+            "title": "Top 14 - Marchand et Tolofua titulaires, Combezou au centre... Les compositions de la demi-finale Castres - Toulouse - Rugbyrama",
+            "description": "TOP 14 - La première demi-finale opposera ce vendredi soir Castrais et Toulousains. Ce qu'il faut retenir de l'annonce des compositions, sorties ce jeudi, c'est la titularisation du capitaine toulousain Julien Marchand au détriment de Peato Mauvaka. Sinon, Fr…",
+            "url": "https://www.rugbyrama.fr/rugby/top-14/2021-2022/top-14-marchand-et-tolofua-titulaires-combezou-au-centre.-les-compositions-de-la-demi-finale-castres_sto8995210/story.shtml",
+            "urlToImage": "https://i.rugbyrama.fr/2022/06/16/3393795-69356075-1600-900.jpg",
+            "publishedAt": "2022-06-16T16:23:53Z",
+            "content": "Le XV de départ de Castres : 15. Dumora ; 14. Palis, 13. Combezou, 12. Botitu, 11. Nakosi ; 10. Urdapilleta, 9. Arata ; 7. Champion de Crespigny, 8. Ben-Nicholas, 6. Babillot (cap.) ; 5. Staniforth, … [+538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "jeuxvideo.com"
+            },
+            "author": "Matt_Clank",
+            "title": "PC gamer fixe : le prix de ce monstre avec RTX 3080 dégringole de plusieurs centaines d'euros - jeuxvideo.com",
+            "description": "Grosse surprise venue du diable vauvert ! Infomax, la boutique spécialisée dans la création de configuration gaming propose en ce moment en vente flash une configuration qui concentre de nombreux composants de qualité. Mais le mieux, c’est qu’elle perd 200€ !…",
+            "url": "https://www.jeuxvideo.com/news/1590511/pc-gamer-fixe-le-prix-de-ce-monstre-avec-rtx-3080-degringole-de-plusieurs-centaines-d-euros.htm",
+            "urlToImage": "https://image.jeuxvideo.com/medias-md/165539/1655393606-2233-card.png",
+            "publishedAt": "2022-06-16T16:05:02Z",
+            "content": "Grosse surprise venue du diable vauvert ! Infomax, la boutique spécialisée dans la création de configuration gaming propose en ce moment en vente flash une configuration qui concentre de nombreux com… [+3398 chars]"
         }
     ]
 }
