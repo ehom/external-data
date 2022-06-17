@@ -1,45 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "Komchadluek.net"
+                "name": "BBC News"
             },
-            "author": "คมชัดลึกออนไลน์",
-            "title": "\"พยากรณ์อากาศวันนี้\" กรมอุตุฯ เตือนฝนฟ้าคะนองบางพื้นที่ กทม. มีฝนร้อยละ 40 - คมชัดลึก",
-            "description": "\"พยากรณ์อากาศวันนี้\" วันที่ 17 มิถุนายน 2565 กรมอุตุฯ เตือนไทยยังฝนฟ้าคะนองบางพื้นที่ ขณะที่ กทม. มีฝนร้อยละ 40",
-            "url": "https://www.komchadluek.net/news/519097",
-            "urlToImage": "https://media.komchadluek.net/uploads/images/md/2022/06/IXDQHlthUkiCtgF7gc2a.webp",
-            "publishedAt": "2022-06-17T00:28:00Z",
-            "content": "30 24-26 34-36 10-20 ./.\r\n30 25-28 34-36 15-30 ./.1 1 \r\n ()    30 24-26 33-36 15-30 ./.1 1 \r\n ()    40 24-26 32-35 15-30 ./.1 1 \r\n40 26-28 33-35 10-20 ./."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "\"พิมพิชยา\" ไม่เจ็บ แค่ตะคริว ลุ้นดวลญี่ปุ่น | 17-06-65 | เรื่องรอบขอบสนาม - Thairath Online",
-            "description": "วอลเลย์บอลหญิงทีมชาติไทย เมื่อวานนี้ดวลกับ โปแลนด์ สุดมัน แม้ว่าจะแพ้ไปหวุดหวิด 2-3 เซต แต่ถือว่าชนะใจคนไทยทั้งประเทศ  ส่วนเรื่องที่แฟนวอลเลย์บอลไทยเป็นห่วงก...",
-            "url": "https://www.youtube.com/watch?v=wRef0Tka_Eo",
-            "urlToImage": "https://i.ytimg.com/vi/wRef0Tka_Eo/maxresdefault.jpg",
-            "publishedAt": "2022-06-17T00:26:23Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bangkokbiznews.com"
-            },
-            "author": "bangkokbiznews",
-            "title": "\"บิทคับ\"ถอดเหรียญ Litecoin เหตุปกปิดข้อมูล-ผิดหลักเกณฑ์ ก.ล.ต. - กรุงเทพธุรกิจ",
-            "description": "\"บิทคับ\"ถอดเหรียญ Litecoin เหตุปกปิดข้อมูล หลังเพิ่มธุรกรรมฝากถอนเหรียญ Litecoin (LTC) ผ่าน Mimblewimble Extension Blocks-ผิดข้หลักเกณฑ์ ก.ล.ต.",
-            "url": "https://www.bangkokbiznews.com/business/1010490",
-            "urlToImage": "https://image.bangkokbiznews.com/uploads/images/md/2022/06/N9xrpjhFpsiLkdxYGCwD.webp",
-            "publishedAt": "2022-06-17T00:18:00Z",
-            "content": "Litecoin (LTC) 23/06/2565 18:00 . ()  Litecoin  Litecoin (LTC)  Mimblewimble Extension Blocks (“MWEB”) (Wallet address) \r\nLitecoin (LTC) (privacy coin) . 4/2565 ( 14) (  ...)"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "อภิมหาหลุมดำยักษ์ที่เติบโตเร็วที่สุด กลืนโลกทั้งใบได้ทุกวินาที - BBC News ไทย - บีบีซีไทย",
+            "description": "หลุมดำนี้มีมวล 3,000 ล้านเท่าของดวงอาทิตย์ โดยพื้นที่ขอบฟ้าเหตุการณ์สามารถบรรจุวงโคจรของดาวเคราะห์ในระบบสุริยะลงไปได้ทั้งหมด",
+            "url": "https://www.bbc.com/thai/international-61836228",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_thai/9B41/production/_125454793_29733d4b-2418-4bd4-a414-567d7246ca3b.jpg",
+            "publishedAt": "2022-06-17T10:14:18Z",
+            "content": ", CHRISTOPHER ONKEN / ANU"
         },
         {
             "source": {
@@ -47,12 +21,25 @@
                 "name": "Dailynews.co.th"
             },
             "author": "<?php the_author_meta('user_nicename', $post->post_author); ?>",
-            "title": "ส่งแรงใจเชียร์วันนี้ 'วอลเลย์บอลสาวไทย' ดวลเดือด 'ญี่ปุ่น' เช็กช่องถ่ายทอดสด! - เดลินิวส์ออนไลน์",
-            "description": "ห้ามพลาด! รวมพลังส่งแรงใจเชียร์ ‘นักตบสาวไทย’ สวมหัวใจสิงห์ดวลเดือด 'ญี่ปุ่น' ศึกวอลเลย์บอล “เนชันส์ ลีก 2022” ถ่ายทอดสดวันนี้!",
-            "url": "https://www.dailynews.co.th/news/1154797/",
-            "urlToImage": "https://www.dailynews.co.th/wp-content/uploads/2022/06/ใหม่ปกเว็บ-17.jpg",
-            "publishedAt": "2022-06-16T23:45:00Z",
-            "content": null
+            "title": "กล้องโทรทรรศน์อวกาศ \"หยั่งวั่ง-1\" ของจีน เสร็จงานสำรวจแล้ว - เดลินิวส์ออนไลน์",
+            "description": "\"หยั่งวั่ง-1\" ซึ่งเป็นกล้องโทรทรรศน์อวกาศเชิงพาณิชย์ของจีน เสร็จสิ้นภารกิจสำรวจตามแผนการ",
+            "url": "https://www.dailynews.co.th/news/1157654/",
+            "urlToImage": "https://www.dailynews.co.th/wp-content/uploads/2022/06/แบบรูปปกใส่แต่โลโก้1-194.jpg",
+            "publishedAt": "2022-06-17T10:14:00Z",
+            "content": "Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ryt9.com"
+            },
+            "author": null,
+            "title": "โซนี่ไทยพร้อมเปิดจอง Xperia 10 IV สมาร์ทโฟนระดับกลางรุ่นใหม่ล่าสุด ตั้งแต่วันที่ 17 มิถุนายน ถึง 3 - อาร์วายที9",
+            "description": "บริษัท โซนี่ ไทย จำกัด ขอแนะนำสมาร์ทโฟนระดับกลางรุ่นใหม่ล่าสุดกับ Xperia 10 IV (อ่านว่า เอ็กซ์พีเรีย เท็น มาร์ค โฟร์) สมาร์ทโฟนที่เบาสุดในโลกมาพร้อมแบตเตอรี่ขนาดใหญ่ถึง 5,000 mAh ผสานเทคโนโลยีอันเป็นเอกลักษณ์ของโซนี่เข้าไว้ด้วยกันได้อย่างลงตัว",
+            "url": "https://www.ryt9.com/s/prg/3331976",
+            "urlToImage": "https://www.ryt9.com/img/files/20220617/iqeb4b46b78121fc97adf85c34db0f64d7.jpg",
+            "publishedAt": "2022-06-17T10:11:17Z",
+            "content": "Xperia 10 IV ( ) 5,000 mAh Xperia 10 IV Xperia 10 IV 2 17 3 16,990 \r\nXperia 10 IV 5G* 5,000 mAh 2 Xperia Adaptive Charging 3 \r\n Xperia 10 IV 161 67 .. IP65/IP684 Xperia 10 IV Corning(R) Gorilla(R) Gl… [+804 chars]"
         },
         {
             "source": {
@@ -60,116 +47,25 @@
                 "name": "Siamsport.co.th"
             },
             "author": null,
-            "title": "แมนยูเต็งซิวอีริคเซ่น, ลิเวอร์พูลจ่อคว้ารายที่3!อัปเดตตลาดนักเตะ (17 มิ.ย. 65) - สยามกีฬา",
-            "description": "ตอนนี้ดูเหมือน แมนเชสเตอร์ ยูไนเต็ด จะมาแรงแซงทางโค้งในการคว้าตัว คริสเตียน อีริคเซ่น กองกลางเชิงสูงชาวเดนมาร์ก ไปเสริมทัพ หลังนักเตะมีใจอยากมาเล่นกับทัพ \"ปีศาจแดง\" มากกว่ากลับไปค้าแข้งกับ สเปอร์ส ขณะที่ ลิเวอร์พูล กำลังจะได้แข้งรายใหม่คนที่ 3 โดย \"หงส์แดง\" บ…",
-            "url": "https://www.siamsport.co.th/football/premierleague/view/287570",
-            "urlToImage": "https://static.siamsport.co.th/size640/2022/06/17/news202206170621933.jpg",
-            "publishedAt": "2022-06-16T23:21:00Z",
-            "content": "-   (Mirror)\r\n- 32 ( 1,280 5 (  200 ) \"\" 40 ( 1,600 ) (Sport 1) \r\n- (Getfootballnewsfrance)\r\n-   \"\" (Fabrizio Romano)\r\n- \"\" (Football Insider)\r\n- \" \" 2 (Fabrizio Romano)\r\n- .. (Mundo Deportivo)\r\n- - … [+227 chars]"
+            "title": "\"พัณณิน\"พลิกชนะเต็ง1ลิ่วตัดหวดไอทีเอฟเชียงราย - สยามกีฬา",
+            "description": "พัณณิน โควาพิทักษ์เทศ นักหวดสาวไทยวัย 19 ปี พลิกชนะ หลิว ฟางโจว เต็ง 1 ของรายการจากจีน 2-0 เซต ผ่านเข้ารอบรองชนะเลิศ ในประเภทหญิงเดี่ยว ศึกเทนนิสอาชีพ \"ไทยแลนด์-ไอทีเอฟ เทนนิส ทัวร์\" ครั้งที่ 3",
+            "url": "https://www.siamsport.co.th/tennis/other/view/287619",
+            "urlToImage": "https://static.siamsport.co.th/size640/2022/06/17/news202206171708885.jpg",
+            "publishedAt": "2022-06-17T10:09:00Z",
+            "content": "2022 \"- \" 3 (-) 15,000 494,550 ( 30,000 989,100 ) 17 ..65 \"\" 19   699 7 8 26 447 1  \r\n     2-0 6-2 6-3 1 12 \"\" 3 \"\" 2-1 7-6(9), 5-7 6-3\r\n     \"\" 31 1992 \"\" 1,482 2-0 7-6(4) 7-5 2 5 3 6 6-4Ret. ()\r\n  … [+101 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Thairath.co.th"
-            },
-            "author": "Thairath",
-            "title": "คู่ชีวิต-สมรสเท่าเทียม - ไทยรัฐ",
-            "description": "รัฐบาลโดย ครม.เห็นชอบ ร่าง พ.ร.บ.คู่ชีวิต และ ร่าง พ.ร.บ.แก้ไขเพิ่มเติมประมวลกฎหมายแพ่งและพาณิชย์ ที่สำนักงานคณะกรรมการกฤษฎีกา พิจารณาแล้ว ตามที่ กระทรวงยุติธรรม เสนอ",
-            "url": "https://www.thairath.co.th/news/politic/2420651",
-            "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5niiUZA928YSDIzC5iUFfVXjO4eRXgEtG6WqKSXScGVRDoNfvvY.jpg",
-            "publishedAt": "2022-06-16T23:05:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thairath.co.th"
-            },
-            "author": "Thairath",
-            "title": "“ตรวจมวลกระดูก” ก่อน “กระดูกพรุน” (ตอน 1) - ไทยรัฐ",
-            "description": "ภาวะกระดูกพรุน นับเป็นปัญหาสุขภาพหลักปัญหาหนึ่งของคนไทย ซึ่งสาเหตุหลัก คือ การขาดฮอร์โมนอีสโทรเจน พบมากที่สุดในผู้หญิงวัยหมดประจำเดือน ความชรา ทำให้ลดการสร้างกระดูกพบทั้งในหญิงและชายสูงอายุ",
-            "url": "https://www.thairath.co.th/lifestyle/health-and-beauty/2417740",
-            "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa5ntIRwcj5x4q675cHVNcNSCZ8WtRjhKCtdoXMKFnNjqJZ3trk4B.jpg",
-            "publishedAt": "2022-06-16T22:20:00Z",
-            "content": "dual X-ray absorptiometry (DXA) - 1 \r\n1. \r\n     1.1 \r\n     1.2 \r\n     1.3 \r\n     1.4 \r\n2. ( ) \r\n3. \r\n4. 1 \r\n5. \r\n T-score Z-score \r\n@@@@@@@@@\r\n.."
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "name": "Siamrath.co.th"
             },
             "author": null,
-            "title": "สรุปข่าวเด่นอสังหาฯ รอบสัปดาห์ 13-17 มิ.ย. 65 - DDProperty Thailand",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMizQNodHRwczovL3d3dy5kZHByb3BlcnR5LmNvbS8lRTAlQjglODIlRTAlQjklODglRTAlQjglQjIlRTAlQjglQTclRTAlQjglQUQlRTAlQjglQUElRTAlQjglQjElRTAlQjglODclRTAlQjglQUIlRTAlQjglQjIlRTAlQjglQTMlRTAlQjglQjQlRTAlQjglQTElRTAlQjglOTclRTAlQjglQTMlRTAlQjglQjElRTAlQjglOUUlRTAlQjglQTIlRTAlQjklOEMtJUUwJUI4JTlBJUUwJUI4JTk3JUUwJUI4JTg0JUUwJUI4JUE3JUUwJUI4JUIyJUUwJUI4JUExLzIwMjIvNi8yMDUxODQvJUUwJUI4JUFBJUUwJUI4JUEzJUUwJUI4JUI4JUUwJUI4JTlCJUUwJUI4JTgyJUUwJUI5JTg4JUUwJUI4JUIyJUUwJUI4JUE3JUUwJUI5JTgwJUUwJUI4JTk0JUUwJUI5JTg4JUUwJUI4JTk5JUUwJUI4JUFEJUUwJUI4JUFBJUUwJUI4JUIxJUUwJUI4JTg3JUUwJUI4JUFCJUUwJUI4JUIyJUUwJUI4JUFGLSVFMCVCOCVBMyVFMCVCOCVBRC02MNIBAA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-06-16T21:01:41Z",
+            "title": "จิ้นกระจาย 'แพท-ปอ' โพสต์คลิปโมเมนต์แดนซ์ยั่วๆ 'ดีเจมะตูม' ยุขอให้ผีผลัก - สยามรัฐ",
+            "description": "เมื่อ \"แพท ณปภา\" กับ \"ปอ อรรณพ\" โคจรมาเจอกัน มีเรื่องสนุกๆมาให้ดู โดยฝ่ายสาวอัดคลิปโพสต์ลงอินสตาแกรมส่วนตัว @pat_napapa พร้อมข้อความระบุว่า... ละลายเลย …. พ่อคุณ  ดูโพสต์นี้บน Instagram   โพสต์ที่แชร์โดย Patt Napapa T. (@pat_napapa) งานนี้ \"ดีเจมะตูม\" ทนไม่ไห…",
+            "url": "https://siamrath.co.th/n/357719",
+            "urlToImage": "https://siamrath.co.th/files/img/20220617/0368ab8f71849326a1fb3cf214bbde56a0d183d101476dbc6fc2adc7d25bc806.jpg",
+            "publishedAt": "2022-06-17T09:56:03Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "“ไบเดน” ขอโรงกลั่นผลิตน้ำมันเพิ่ม ออสซี่ขอพลเมือง “ปิดไฟ” ลดพลังงาน | TNN ข่าวดึก | 16 มิ.ย. 65 - TNN Online",
-            "description": "ก๊าซพรอม ลดการส่งพลังงานเข้าเยอรมนีเหลือร้อยละ 40 หลังระบุว่ามีข้อบกพร่องทางเทคนิคของเครื่องยนต์ต้องซ่อมแซม ขณะที่ประธานาธิบดีโจ ไบเดน ส่งจดหมายถึง 7 โรงกลั่...",
-            "url": "https://www.youtube.com/watch?v=50Gy4nPRkO0",
-            "urlToImage": "https://i.ytimg.com/vi/50Gy4nPRkO0/hqdefault.jpg",
-            "publishedAt": "2022-06-16T16:41:19Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thaich8.com"
-            },
-            "author": "ข่าวช่อง 8",
-            "title": "\"ณเดชน์-ญาญ่า\" ตอบชัด! จะเป็นคู่ต่อไปตามหมอดูทักจริงไหม - ช่อง8",
-            "description": "",
-            "url": "https://www.thaich8.com/news_detail/109480",
-            "urlToImage": "https://www.thaich8.com/assets/upload/news/20220616223627407_share.jpg",
-            "publishedAt": "2022-06-16T15:41:38Z",
-            "content": "© COPYRIGHT 2017 THAICH8.COM, ALL RIGHT RESERVED."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mcot.net"
-            },
-            "author": "https://www.facebook.com/9Entertain",
-            "title": "รายการไนน์เอ็นเตอร์เทนไนท์ไลฟ์ 16 มิ.ย. 2565 - ไนน์เอ็นเตอร์เทน",
-            "description": "-“ณเดชน์” ควักเงิน 30 ล้านบาทสร้างบ้านให้ครอบครัว -“แต้ว” ทำธุรกิจอสังหาฯ รายได้หลักร้อยล้านบาท -“เกรท” หมั่นดูแลตัวเอง หวั่นคลื่นลูกใหม่แทนที่ -“โยเกิร์ต” ลั่น! จะขอเป็นนักแสดงไปจนแก…",
-            "url": "https://nineentertain.mcot.net/rerun-9ent-6444978",
-            "urlToImage": "https://nineentertain.mcot.net/wp-content/uploads/2022/06/ปก-160665-PM-.jpg",
-            "publishedAt": "2022-06-16T14:09:31Z",
-            "content": "..- 30 - - - ! !- ... VS ..\r\n#\r\n#\r\n#\r\n#\r\n#\r\n#” /&gt;\r\n16 .. 2565- 30 -  -   - ! !- ... VS"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "ตะลุยยอดเขาแมทเธอร์ฮอร์น สวิตเซอร์แลนด์ ปีนเขา-สกีรีสอร์ท - สํานักข่าวไทย TNAMCOT",
-            "description": "สัมผัสหิมะที่เมืองเซอร์แมท (Zermatt) ของสวิตเซอร์แลนด์ มียอดเขา \"แมทเธอร์ฮอร์น\"  (The Matterhorn) โดดเด่นสูงแหลมบนแนวเทือกเขาแอลป์พรมแดนสวิตเซอร์แลนด์-อิตาลี...",
-            "url": "https://www.youtube.com/watch?v=Mr0kF3ajPQE",
-            "urlToImage": "https://i.ytimg.com/vi/Mr0kF3ajPQE/hqdefault.jpg",
-            "publishedAt": "2022-06-16T13:41:11Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pptvhd36.com"
-            },
-            "author": "PPTV Online",
-            "title": "\"สีจิ้นผิง\" ต่อสายหา \"ปูติน\"ประกาศความร่วมมือทางเศรษฐกิจ - PPTVHD36",
-            "description": "การประกาศของสหรัฐฯ และชาตินาโตในการส่งอาวุธเพิ่มเติมให้กับยูเครนคือสัญญาณว่า สงครามจะถูกลากยาวต่อไป คำถามก็คือ ยูเครนและชาติตะวันตกจะยันได้อีกนานแค่ไหน เพราะขณะนี้รัสเซียมีจีนเปิดหน้าช่วย หลังจากเมื่อวานนี้ผู้นำทั้งสองชาติยกหูพูดคุยกัน",
-            "url": "https://www.pptvhd36.com/news/%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8/174430",
-            "urlToImage": "https://img.pptvhd36.com/thumbor/2022/06/16/news-ebc4a6bed0.jpg",
-            "publishedAt": "2022-06-16T13:22:00Z",
-            "content": "CCTV \r\n 2 24 \r\n 5G \r\n- \r\n?\r\nCCTV \r\nCCTV \r\n? \r\n ?\r\n 2021 18 147,000,000 5 \r\n 250,000,000 2024\r\n 28 \r\n 4 \r\n 1989 \r\n SIPRI 80 2017 - 2021 \r\n Center for Research on Energy and Clean Air 100 93,000 3.4 \r\n… [+137 chars]"
         },
         {
             "source": {
@@ -177,90 +73,194 @@
                 "name": "Bangkokbiznews.com"
             },
             "author": "bangkokbiznews",
-            "title": "ลงนามแล้ว \"กัญชา\" เป็นสมุนไพรควบคุม อายุต่ำกว่า 20 ปี-หญิงตั้งครรภ์ห้ามใช้ - กรุงเทพธุรกิจ",
-            "description": "ลงนามแล้ว! ประกาศกระทรวงฯ \"กัญชา\" สมุนไพรควบคุม ห้ามใช้ในผู้อายุน้อยกว่า 20 ปี หญิงตั้งครรภ์ สามารถครอบครองใช้ประโยชน์สมุนไพรควบคุม ยกเว้นห้ามใช้ในผู้อายุต่ำกว่า 20 ปี สตรีมีครรภ์ หรือให้นมบุตร มีผลบังคับใช้ตั้งแต่วันถัดไปจากวันประกาศในราชกิจจาฯ",
-            "url": "https://www.bangkokbiznews.com/social/1010461",
-            "urlToImage": "https://image.bangkokbiznews.com/uploads/images/md/2022/06/vAUiDyiMy078zzDF0wUw.webp",
-            "publishedAt": "2022-06-16T12:45:00Z",
-            "content": "16 ..2565 () . 2565   4 44 43(3) (5) ... ..2542 \r\n 1    (Cannabis) \r\n:"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Techoffside.com"
-            },
-            "author": "",
-            "title": "ยาน rover ของ NASA พบขยะปริศนาบนดาวอังคารขณะทำการสำรวจ - Techoffside.com",
-            "description": "ยานสำรวจ Perseverance rover ของ NASA พบเศษขยะที่เหมือนกับกระดาษฟอยล์กันความร้อนที่หลุม Jezero บนดาวอังคารขณะทำการสำรวจพื้นที่บริเวณนั้น",
-            "url": "https://www.techoffside.com/2022/06/nasa-trash-on-mars/",
-            "urlToImage": "https://www.techoffside.com/wp-content/uploads/2022/06/rover-found-trash-on-Mars-001.jpg",
-            "publishedAt": "2022-06-16T11:55:14Z",
-            "content": "That shiny bit of foil is part of a thermal blanket a material used to control temperatures. Its a surprise finding this here: My descent stage crashed about 2 km away. Did this piece land here after… [+131 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Dailynews.co.th"
-            },
-            "author": "<?php the_author_meta('user_nicename', $post->post_author); ?>",
-            "title": "เตรียมเฮ ! จับตาศบค.ชุดใหญ่เคาะถอดแมสก์แบบสมัครใจ - เดลินิวส์ออนไลน์",
-            "description": "จับตา 17 มิ.ย. ศบค.ชุดใหญ่ เคาะปลดล็อก​ถอดหน้ากากอนามัยแบบสมัครใจ เพิ่มจังหวัดสีเขียว คลายล็อกผับ-บาร์-คาราโอเกะ เพิ่มความสะดวกเข้า-ออกประเทศ",
-            "url": "https://www.dailynews.co.th/news/1154360/",
-            "urlToImage": "https://www.dailynews.co.th/wp-content/uploads/2022/06/Cover-Template-1100x620-New-25.jpg",
-            "publishedAt": "2022-06-16T11:46:00Z",
-            "content": "Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc."
+            "title": "Daily SET50 Futures (วันที่ 17 มิถุนายน 2565) - กรุงเทพธุรกิจ",
+            "description": "กลยุทธ์ระยะสั้น (ระหว่างวัน) แกว่งตัวขึ้น แนะนำเปิด Long สัญญา S50M22 ที่ 932 และปิดสถานะที่แนวต้าน 937/943 โดย stop loss ที่ 927",
+            "url": "https://www.bangkokbiznews.com/business/1010630",
+            "urlToImage": "https://image.bangkokbiznews.com/uploads/images/md/2022/06/rY4IbtbXZe5yoHlW427e.webp",
+            "publishedAt": "2022-06-17T09:53:00Z",
+            "content": "SET50 Index Futures\r\n SET50\r\n 741 (-2.42%) 29,927 30,000 .. 2564 -0.25% -0.75% 15 0.25% 1.25% WTI ..2.27(+2.0%) / 117.58 / 100,000-150,000 / 1.2 / . (17 ..) 1,967 2,123 19 \r\n S50M22 955 930/922/905/8… [+322 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Sanook.com"
             },
-            "author": "S! News (Exclusive)",
-            "title": "เฮดังๆ ลุงธรพ่อค้าขายของป่าถูกหวยรางวัลที่ 1 รับ 12 ล้าน แจกของที่ขายหมดรถ - Sanook",
-            "description": "\"ลุงธร\" พ่อค้าขายของป่า รวยแล้ว ถูกเต็มๆ รางวัลที่ 1 รับ 12 ล้านบาท ก่อนแจกฟรีของที่ขนมาขายทั้งรถ",
-            "url": "https://www.sanook.com/news/8578114/",
-            "urlToImage": "https://s.isanook.com/ns/0/rp/rc/w700h366/yacxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL25zLzAvdWQvMTcxNS84NTc4MTE0L2xvdHRvLmpwZw==.jpg",
-            "publishedAt": "2022-06-16T11:31:33Z",
-            "content": "\"\" 1 12 \r\n 16 2565 1 361807 2 92 3 549 285 3 228 106 \r\n (16 ..) . . 1 361807 12 \r\n Pat Kotchakorn \" 12 #\""
+            "author": "S! Health (Rewrite)",
+            "title": "8 อาการผิดปกติระหว่างนอน ที่ควรตรวจ Sleep Test - Sanook",
+            "description": "ใช่คุณหรือเปล่า ที่มีปัญหาในการนอนหลับ แล้วควรเข้าตรวจ Sleep Test",
+            "url": "https://www.sanook.com/health/34497/",
+            "urlToImage": "https://s.isanook.com/he/0/rp/rc/w700h366/yacxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2hlLzAvdWQvNi8zNDQ5Ny9zbGVlcC10ZXN0LmpwZw==.jpg",
+            "publishedAt": "2022-06-17T08:50:00Z",
+            "content": "Health\r\n https://www.sanook.com/health/ Facebook.. !!"
         },
         {
             "source": {
                 "id": null,
-                "name": "Komchadluek.net"
+                "name": "Khaosod.co.th"
             },
-            "author": "คมชัดลึกออนไลน์",
-            "title": "\"แพทย์\" เตือน ผู้ป่วยโรคNCD หลังหายโควิด มีอาการอะไร ต้องรีบพบแพทย์ด่วน - คมชัดลึก",
-            "description": "แพทย์ รพ.ราชวิถี แนะผู้ป่วยโรคไม่ติดต่อเรื้อรัง (NCD) ต้องสังเกตอาการตัวเอง หลังหายป่วยโควิดแล้ว อาจเกิดภาวะลองโควิด ประสิทธิภาพการทำงานของอวัยวะต่างๆ ลดลง หากมีอาการควรรีบพบแพทย์ทันที",
-            "url": "https://www.komchadluek.net/news/519066",
-            "urlToImage": "https://media.komchadluek.net/uploads/images/md/2022/06/pgPzGmvVmwKp2qahfMMD.webp",
-            "publishedAt": "2022-06-16T11:16:00Z",
-            "content": "NCD           Guillain – Barre Syndrome ()"
+            "author": "145",
+            "title": "อุทาหรณ์! เด็กจีนกินลิ้นจี่มากเกินไป เกิดพิษเฉียบพลัน น้ำตาลต่ำ อันตรายถึงชีวิต - ข่าวสด",
+            "description": "อุทาหรณ์! เด็กจีนกินลิ้นจี่มากเกินไป เกิดพิษเฉียบพลัน น้ำตาลในเลือดต่ำ อันตรายถึงชีวิต แพทย์ชี้ผลสุกงอมทานได้ แต่อย่าทานขณะท้องว่าง",
+            "url": "https://www.khaosod.co.th/lifestyle/news_7115816",
+            "urlToImage": "https://www.khaosod.co.th/wpapp/uploads/2022/06/ลิ้นจี่ทานมากไม่ดี-010103.jpg",
+            "publishedAt": "2022-06-17T08:45:00Z",
+            "content": "! \r\n 8 “” \r\n3.0\r\n (hypoglycin A) methylenecyclopropylglycine acetyl-CoA dehydrogenase \r\n 15 5 , , , , , , , \r\n. 2 – 3 . \r\n163 () \r\n -methylenecyclopropylglycine hypoglycine A \r\n 5 \r\n . (.) \r\n163 Ctwa… [+1 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Iphone-droid.net"
+                "name": "Ryt9.com"
             },
-            "author": "Shine",
-            "title": "รีวิว ASUS Zenbook Pro 14 Duo OLED โน้ตบุ๊กระดับท็อปด้วยจอ OLED 2.8K รุ่นแรกของโลก เน้นทำงานแบบ Multi-Task พร้อมใช้ได้ไหลลื่นด้วย CPU Intel 12th Gen - iphone-droid.net",
-            "description": "รีวิว ASUS Zenbook Pro 14 Duo OLED หนึ่งในโน้ตบุ๊กทรงพล […]",
-            "url": "https://www.iphone-droid.net/asus-zenbook-pro-14-duo-oled-review/",
-            "urlToImage": "https://www.iphone-droid.net/wp-content/uploads/2022/06/asus-zenbook-pro-14-duo-oled-review00.jpg",
-            "publishedAt": "2022-06-16T11:05:45Z",
-            "content": "ASUS Zenbook Pro 14 Duo OLED Multi-Task CPU Intel Core i7-12700H Intel EVO Platform OLED 14.5 2.8K 120Hz 2 ScreenPad iphone-droid.net\r\n<ul><li> : 32.35 x 22.47 x 1.79 ~ 1.96 .</li><li> : 1.70 </li><l… [+3049 chars]"
+            "author": null,
+            "title": "พยากรณ์อากาศ 7 วันข้างหน้า ระหว่างวันที่ 17 มิถุนายน 2565 - 23 มิถุนายน - อาร์วายที9",
+            "description": "ระหว่างวันที่ 17 มิถุนายน 2565 23 มิถุนายน 2565 การคาดหมาย ในช่วงวันที่ 17 19 มิ.ย. 65 มรสุมตะวันตกเฉียงใต้กำลังอ่อนพัดปกคลุมทะเลอันดามัน ประเทศไทย และอ่าวไทย ประกอบกับมีหย่อมความกดอากาศต่ำปกคลุมบริเวณประเทศเวียดนามตอนบนและอ่าวตังเกีย",
+            "url": "https://www.ryt9.com/s/tmd/3331877",
+            "urlToImage": null,
+            "publishedAt": "2022-06-17T08:04:35Z",
+            "content": "Friday June 17, 2022 14:17 —\r\n 7 \r\n 17 2565 - 23 2565\r\n 17 - 19 .. 65 20 - 23 .. 65 1-2 2 \r\n 21 - 23 .. 65 \r\n 17 - 19 .. 65 20-40 \r\n 20 - 23 .. 65 40-60 \r\n 22-26 31-37 \r\n 10-20 ./.\r\n 17 - 20 .. 65 20… [+516 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Springnews.co.th"
+                "name": "Siamrath.co.th"
             },
-            "author": "springnews",
-            "title": "ดิว อริสรา แฮปปี้ เซบาสเตียน เปย์หนัก สร้างสปาครบวงจรให้เป็นของขวัญวันเกิด - SpringNews",
-            "description": "\"ดิว อริสรา\" เปิดของขวัญชิ้นใหญ่จากสามีสายเปย์ \"เซบาสเตียน\" สร้างห้องสปาส่วนตัวแบบครบวงจร มอบให้ในวันเกิด",
-            "url": "https://www.springnews.co.th/news/825995",
-            "urlToImage": "https://image.springnews.co.th/uploads/images/md/2022/06/SZ3bqyRoWlYUI6o4HP6l.webp",
-            "publishedAt": "2022-06-16T10:10:00Z",
-            "content": "COPYRIGHT © 2019 SPRINGNEWS. ALL RIGHTS RESERVED."
+            "author": null,
+            "title": "Law DPU แนะภาคธุรกิจรับมือกฎหมาย \"PDPA\" ระวังเก็บ ใช้ รักษา ทำลาย \"ข้อมูล\" - สยามรัฐ",
+            "description": "คณบดีคณะนิติศาสตร์ปรีดี พนมยงค์ มหาวิทยาลัยธุรกิจบัณฑิตย์ DPU แนะภาคธุรกิจรับมือกฎหมาย PDPA ระบุโดยหลักเก็บ ใช้ รักษา และทำลายข้อมูล ทำได้แต่ต้องไม่สร้างความเสียหายให้แก่เจ้าของข้อมูล ย้ำอย่าตื่นตระหนก ชี้ต้องลงทุนในการเก็บรักษาข้อมูล พร้อมเผยข้อควรระวังของนั…",
+            "url": "https://siamrath.co.th/n/357648",
+            "urlToImage": "https://siamrath.co.th/files/img/20220617/e12245771650cc8335e6d5d8142f20c8e06e2b3c076802459e4518a518f80c0f.jpg",
+            "publishedAt": "2022-06-17T07:44:35Z",
+            "content": "DPU PDPA PDPA \r\n 17 ..65 .. (.) DPU PDPA (Personal Data Protection Act) ... ..2562 Data Marketing (AI : Artificial Intelligence) Personalized Marketing  \r\nPersonalized Marketing Personalized Marketin… [+117 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thaipost.net"
+            },
+            "author": null,
+            "title": "'ผู้ว่าชัชชาติ' เปิดใจหลังพบนายกฯบิ๊กตู่ บอกเป็นผู้ใหญ่มีเมตตา ลั่นทิ้งอดีตเดินหน้าร่วมกันเพื่ออนาคต - ไทยโพสต์",
+            "description": "เมื่อเวลา 12.00 น. ที่ทำเนียบรัฐบาล นายชัชชาติ สิทธิพันธุ์ ผู้ว่าราชการกรุงเทพมหานคร ให้สัมภาษณ์และหลังพูดคุยกับพล.อ.ประยุทธ์ จันทร์โอชา",
+            "url": "https://www.thaipost.net/hi-light/163735/",
+            "urlToImage": "https://storage-wp.thaipost.net/2022/06/253035-1.jpg",
+            "publishedAt": "2022-06-17T07:42:53Z",
+            "content": "Copyright© thaipost.net, All rights reserved., iDesign.co.th"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "ดอลลาร์ขึ้น เด้งกลับมาจากระดับต่ำสุดในรอบ 1 สัปดาห์ โดย Investing.com - Investing.com",
+            "description": "ดอลลาร์ขึ้น เด้งกลับมาจากระดับต่ำสุดในรอบ 1 สัปดาห์",
+            "url": "https://th.investing.com/news/forex-news/article-77403",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEE0I024_L.jpg",
+            "publishedAt": "2022-06-17T07:41:44Z",
+            "content": "Zhang Mengying\r\nInvesting.com 1 \r\n 0.57% 104.014 00:49 . ET (4:49 . GMT)\r\nUSD/JPY 1.30% 133.93 (BOJ)  \r\n / Ray Attrill   (OTC:NABZY) \r\n BOJ \r\nAUD/USD 0.41% 0.7016 NZD/USD 0.33% 0.6341\r\nUSD/CNY 0.02% … [+82 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Js100.com"
+            },
+            "author": null,
+            "title": "จส. 100 - จส. 100",
+            "description": "หลังจากที่พล.อ.ประยุทธ์ จันทร์โอชา นายกฯ เรียกประชุมทีมเศรษฐกิจ เพื่อหารือมาตรการบรรเทาผลกระทบจากราคาน้ำมัน รัฐบาลได้มีการเจรจากับโรงกลั่นน้ำมันและโรงแยกก๊าซทั้งหมดที่มีกำไรเพิ่มขึ้นในช่วงที่ราคาน้ำมันปรับเพิ่มขึ้นมาช่วยเหลือค่าน้ำมันประชาชน โดยส่งเงินเข้าสู่…",
+            "url": "https://www.js100.com/en/site/news/view/118923",
+            "urlToImage": "https://www.js100.com/uploads/news/508827426638ef9b8b8c799cfbceb622.jpg",
+            "publishedAt": "2022-06-17T07:20:37Z",
+            "content": ".. 7,500 – 8,000 3 ..-..65     \r\n-Korn Chatikavanij “ -KLA Party  24,000 .”\r\n#\r\n#\r\nCR: -Korn Chatikavanij"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "รมต. ตปท. รัสเซีย : \"รัสเซียไม่ได้สะอาดหมดจด และก็ไม่ละอาย\" - BBC News ไทย - บีบีซีไทย",
+            "description": "รมต. ต่างประเทศรัสเซียบอกบีบีซีว่า ชาติตะวันตกกำลังกดดันเจ้าหน้าที่สหประชาชาติช่วยทำให้ข่าวเท็จขยายตัวมากขึ้น",
+            "url": "https://www.bbc.com/thai/international-61837329",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_thai/1058/production/_125448140_gettyimages-1201678645.jpg",
+            "publishedAt": "2022-06-17T06:45:56Z",
+            "content": "\" NATO \" \r\n 24 .. \r\n . \"\"\r\n (Yahidne) 360 74 5 28 ... 10 \"\" \r\n \" \" \r\n . \" \" \r\n 72 18 \r\n \" \" \r\n 2 \r\n 8 \r\n 6 \r\n 2021 8 \r\n\"\""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mgronline.com"
+            },
+            "author": null,
+            "title": "พ่อ\"สันติ\" มือฆ่ายกครัวที่ไต้หวันขอโทษแทนลูกชาย ผบ.ตร.เตรียมแถลงเย็นนี้ - ผู้จัดการออนไลน์",
+            "description": "MGR Online - พ่อสันติ มือฆ่ายกครัวที่ไต้หวันขอโทษแทนลูกชาย พ้อในฐานะพ่อขอเป็นจำเลยสังคมเพียงคนเดียว ด้าน ผบ.ตร.เตรียมแถลงผลจับกุมช่วงเย็นวันนี้",
+            "url": "https://mgronline.com/crime/detail/9650000057721",
+            "urlToImage": "https://mpics.mgronline.com/pics/Images/565000005858501.JPEG",
+            "publishedAt": "2022-06-17T06:42:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "Halma กำไร Q4 ต่ำกว่าคาด ส่วนรายได้สูงกว่าคาด โดย Investing.com - Investing.com",
+            "description": "Halma กำไร Q4 ต่ำกว่าคาด ส่วนรายได้สูงกว่าคาด",
+            "url": "https://th.investing.com/news/article-77412",
+            "urlToImage": "https://i-invdn-com.investing.com/news/",
+            "publishedAt": "2022-06-17T06:09:08Z",
+            "content": "Investing.com - Halma 4 \r\n (EPS) Halma £0.29 £788.1M Investing.com £31.35 £758.21M\r\n Aveva 1 £0.06 £704.4M £50.99 £658.73M\r\n Oxford Instruments 1 £0.37 £197.2M Investing.com £45.70 £193.40M\r\n Investi… [+5 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pptvhd36.com"
+            },
+            "author": "PPTV Online",
+            "title": "เช็กที่นี่! มติศบค. ปรับพื้นที่สีเขียว- ถอดหน้ากากอนามัย ดีเดย์ 1 ก.ค. นี้ - PPTVHD36",
+            "description": "ศบค. เคาะมติผ่อนคลาย 1 ก.ค.นี้ ทั่วประเทศ ย้ำการสวมหน้ากากอนามัยมีประโยชน์ เน้นขอความร่วมมือภาคสมัครใจ ด้านสถานบันเทิงเริ่มเปิดได้ตามปกติ",
+            "url": "https://www.pptvhd36.com/health/news/1036",
+            "urlToImage": "https://img.pptvhd36.com/health/thumbor/2022/06/17/cusArticle-efe34a7ef1.jpg",
+            "publishedAt": "2022-06-17T06:08:00Z",
+            "content": "17 .. 2565 . 2019 2019 (.) . 1 .. 2565 \r\n. - \r\n \"\" 4 \r\n- () \r\n- \r\n- \r\n- \r\n- \r\n- ATK 2,000 \r\n- \r\n- \r\n-19 -19 1,967 1,966 1 19 21,030 2,123 1 .. 65 2,271,445 2,274,934 598 -19 28 .. 64 - 16 .. 65 138,4… [+80 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "“แต้ว” ใช้ความรู้ที่เรียน ผันตัวจับธุรกิจอสังหาฯ รายได้หลักร้อยล้านบาท (คลิปจัดเต็ม) - NineEntertain Official",
+            "description": "“แต้ว” ใช้ความรู้ที่เรียน ผันตัวจับธุรกิจอสังหาฯ รายได้หลักร้อยล้านบาท (คลิปจัดเต็ม)..#แต้วณฐพร#ธุรกิจแต้ว#ดาราทำอสังหา#ดาราทำธุรกิจ#ไนน์เอ็นเตอร์เทน",
+            "url": "https://www.youtube.com/watch?v=9-NUSPA3cQ8",
+            "urlToImage": "https://i.ytimg.com/vi/9-NUSPA3cQ8/maxresdefault.jpg",
+            "publishedAt": "2022-06-17T05:56:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sanook.com"
+            },
+            "author": "tenten",
+            "title": "จอง PS5 มิถุนายน เพิ่มกติกาใหม่ แฟร์กว่าเดิม แต่ก็ยังคงหมดในไม่กี่นาที - Sanook",
+            "description": "จอง PS5 เดือนมิถุนายน โซนี่เพิ่มช่องทางจองผ่านไลฟ์ ใส่โค้ด ส่งอีเมล ด้านตัวแทนจำหน่ายยังคงมีดราม่าประปราย",
+            "url": "https://www.sanook.com/game/1149089/",
+            "urlToImage": "https://s.isanook.com/ga/0/rp/rc/w700h366/yacxacm1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2dhLzAvdWQvMjI5LzExNDkwODkvcHM1KDEpLmpwZw==.jpg",
+            "publishedAt": "2022-06-17T05:36:11Z",
+            "content": "(17 ) PlayStation 5 (PS5) 2022 Sony Store Thailand 3 \r\n<ol><li>PlayStation5 Ultra HD Blu-ray DualSense TV XR-55X90J 45,990 ( 49,370 )</li><li>PlayStation5 Ultra HD Blu-ray 16,990 </li><li>PlayStation… [+168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thansettakij.com"
+            },
+            "author": "thansettakij",
+            "title": "รู้จัก “กัญชาพันธุ์อิสระ 01” แจกล้านต้นฟรี พร้อมเปิด 4 สายพันธุ์กัญชาไทย - ฐานเศรษฐกิจ",
+            "description": "พามาทำความรู้จัก “กัญชาพันธุ์อิสระ 01” ที่\"กรมวิชาการเกษตร\"แจกล้านต้นฟรี พร้อมเปิด 4 สายพันธุ์กัญชาไทย มีพันธุ์อะไรบ้าง",
+            "url": "https://www.thansettakij.com/general-news/529140",
+            "urlToImage": "https://medias.thansettakij.com/uploads/images/md/2022/06/0qL0lAqeCuO6Artje6TW.webp",
+            "publishedAt": "2022-06-17T05:03:40Z",
+            "content": "01 \"\" 4 \r\n “ ” (16 ..) \r\n “ 01”  \r\n<ul><li></li><li> 24 </li><li></li><li> “ 01” Cannabinoid (CBD) </li></ul><ul><li>/ : Cannabis sativa L. Cannabaceae </li><li> : (primary root) 5 </li><li> : 300 -3… [+394 chars]"
         }
     ]
 }
