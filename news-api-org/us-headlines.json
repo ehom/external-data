@@ -4,55 +4,250 @@
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Fredreka Schouten, CNN",
-            "title": "Election standoff ends in New Mexico county after false fraud claims threw primary certification into question - CNN",
-            "description": "The majority of a county commission in a rural swath of New Mexico on Friday voted to certify the results of the June 7 primary, ending a standoff with state officials that had set off national alarms about potential election subversion.",
-            "url": "https://www.cnn.com/2022/06/17/politics/new-mexico-primary-results-otero-county-certification/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220614231619-maggie-toulouse-oliver-file-restricted-100520-super-tease.jpg",
-            "publishedAt": "2022-06-18T00:01:00Z",
-            "content": "(CNN)The majority of a county commission in a rural swath of New Mexico on Friday voted to certify the results of the June 7 primary, ending a standoff with state officials that had set off national … [+5062 chars]"
+            "author": "Amy Cheng, Adela Suliman, Victoria Bisset",
+            "title": "Latest Russia-Ukraine war news: Live updates - The Washington Post",
+            "description": "U.S. officials say the danger of Russia swallowing Ukraine and becoming more emboldened is worth risking a long war and potential global economic turmoil.",
+            "url": "https://www.washingtonpost.com/world/2022/06/18/russia-ukraine-war-putin-news-live-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LUBLO6XOOMI6ZH4QPHPR7MUCSY.jpg&w=1440",
+            "publishedAt": "2022-06-18T09:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Johnny Depp Fans Pushing 'Camille Vasquez for President' Merch - TMZ",
+            "description": "Camille Vasquez for President merch for sale for Johnny Depp's Lawyer.",
+            "url": "https://www.tmz.com/2022/06/18/camille-vasquez-johnny-depp-president-merch-sale/",
+            "urlToImage": "https://imagez.tmz.com/image/12/16by9/2022/06/17/120bfd87999643778588d87949c636f0_xl.jpg",
+            "publishedAt": "2022-06-18T08:00:00Z",
+            "content": "Johnny Depp's fans not only have love for the actor ... they're showering his lawyer with the highest honor in the land ... pushing for her to become the first woman Prez!\r\nDepp fans have plastered C… [+828 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Landon Mion",
+            "title": "Bill Cosby civil trial jury will have to restart deliberations after nearly reaching verdict - Fox News",
+            "description": "The jury in the trial for sexual misconduct allegations against Bill Cosby must restart deliberations after answering nearly every question on the verdict form.",
+            "url": "https://www.foxnews.com/entertainment/bill-cosby-civil-trial-jury-restart-deliberations",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/2017-06-16T162453Z_1284511624_RC1D09AD0290_RTRMADP_3_PEOPLE-COSBY.jpg",
+            "publishedAt": "2022-06-18T07:56:11Z",
+            "content": "Jurors in the civil trial for sexual misconduct allegations against actor and comedian Bill Cosby must start deliberations over after reaching a verdict on Friday for nearly all the questions asked o… [+3842 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Warriors Fans at Chase Center Celebrate After Watching 2022 NBA Championship Win in Game 6 - NBC Bay Area",
+            "description": "The Golden State Warriors won their fourth NBA championship in just eight years with a 103-90 win against the Boston Celtics in Game 6 Thursday night. The ga...",
+            "url": "https://www.youtube.com/watch?v=BZjnlrGlKLg",
+            "urlToImage": "https://i.ytimg.com/vi/BZjnlrGlKLg/maxresdefault.jpg",
+            "publishedAt": "2022-06-18T05:01:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "San Francisco Chronicle"
+            },
+            "author": "Lauren Hernández",
+            "title": "Three travelers attacked at San Francisco International Airport, suspect in custody - San Francisco Chronicle",
+            "description": "The travelers were in the pre-security public area of the International Terminal when...",
+            "url": "https://www.sfchronicle.com/bayarea/article/Three-travelers-attacked-at-San-Francisco-17250402.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/22/61/26/21697967/15/rawImage.jpg",
+            "publishedAt": "2022-06-18T04:16:30Z",
+            "content": "Three travelers were attacked by a man with an edged weapon at San Francisco International Airport on Friday evening, authorities said.San Francisco police said a man drove a vehicle into the airport… [+1460 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Faris Tanyos",
+            "title": "Production crew for Stephen Colbert's \"Late Show\" detained in congressional building near U.S. Capitol - CBS News",
+            "description": "They were part of a team filming a comedy segment for \"Triumph the Insult Comic Dog.\"",
+            "url": "https://www.cbsnews.com/news/stephen-colbert-show-detained-production-crew-triumph-insult-dog-capitol-police-congressional-offices/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/06/18/7b68cb7c-0491-4e42-bd4f-70b4e2061e32/thumbnail/1200x630/b5ca1ec1ca3e1900b94d4bf78ad2d389/gettyimages-1403319023.jpg",
+            "publishedAt": "2022-06-18T03:57:13Z",
+            "content": "Several members of a production crew with for \"The Late Show With Stephen Colbert\" were detained Thursday night in a congressional office building near the U.S. Capitol, CBS said Friday. The group wa… [+1901 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News Staff",
+            "title": "Biden administration's communication strategy 'patently horrible': Fox News contributor Joe Concha - Fox News",
+            "description": "Fox News contributor Joe Concha and former White House chief of staff Priebus critiqued President Biden’s communication strategy and approval rating on \"Hannity.\"",
+            "url": "https://www.foxnews.com/media/biden-administrations-communication-strategy-fox-news-contributor-joe-concha",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9d8daf09-22fe-4b5d-af38-ad275b0cee16/a7711627-f4ba-481b-b2ee-694b9123a05f/1280x720/match/image.jpg",
+            "publishedAt": "2022-06-18T03:54:39Z",
+            "content": "Fox News contributor Joe Concha dubbed the Biden administration's communication strategy \"crap-tastically, patently horrible\" and former White House chief of staff Reince Priebus weighed in Friday on… [+1436 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lawrence Richard",
+            "title": "US military veterans captured in Ukraine seen for first time in Russian TV footage - Fox News",
+            "description": "A Russian news outlet has aired video footage of the two U.S. service members who went missing while they were fighting in Ukraine last week. President Joe Biden is aware of the situation but has not confirmed their capture to Russian forces.",
+            "url": "https://www.foxnews.com/world/us-military-veterans-captured-ukraine-russian-tv",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/AP221667601911981.jpg",
+            "publishedAt": "2022-06-18T03:45:50Z",
+            "content": "Two U.S. military veterans who went missing in Ukraine last week were shown on a Russian news broadcast telling their loved ones Russian separatists had captured them.\r\nThe footage on the Russian new… [+2761 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CBS Sports"
             },
-            "author": "Patrick McDonald",
-            "title": "2022 U.S. Open leaderboard breakdown: Collin Morikawa, Jon Rahm soar to the top as Rory McIlroy holds - CBS Sports",
-            "description": "Some of the biggest stars in golf can be found atop the leaderboard at the 122nd United States Open",
-            "url": "https://www.cbssports.com/golf/news/2022-u-s-open-leaderboard-breakdown-collin-morikawa-jon-rahm-soar-to-the-top-as-rory-mcilroy-holds/live/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/06/17/c49c0d27-81ee-4270-8d07-c3ef656e2165/thumbnail/1200x675/46164d053ce8adaff4fa19dab4e947c9/collin-morikawa-us-open-r2-2022-usatsi.png",
-            "publishedAt": "2022-06-17T23:43:49Z",
-            "content": "History was always going to be made this week in Brookline, Massachusetts. That was inevitable. However, the Boston faithful could not have envisioned a better leaderboard heading into the weekend at… [+6113 chars]"
+            "author": "",
+            "title": "2022 U.S. Open: Rory McIlroy chases serenity of his youth while eyeing first major crown since 2014 - CBS Sports",
+            "description": "Surrounding McIlroy at The Country Club are versions of his former major-winning self",
+            "url": "https://www.cbssports.com/golf/news/2022-u-s-open-rory-mcilroy-chases-serenity-of-his-youth-while-eyeing-first-major-crown-since-2014/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/06/18/e4b00ad6-f77a-4cec-87f1-1776f75f397f/thumbnail/1200x675/8b6fb1aa30029c4e178b18283fe86bd5/rory-mcilroy-r2-us-open-2022-g.png",
+            "publishedAt": "2022-06-18T02:54:00Z",
+            "content": "BROOKLINE, Mass. -- In some ways, Rory McIlroy has been chasing his 25-year-old self for the last eight years. He's 33 now without a major championship since that summer he turned 25. He won two that… [+4742 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "New York Times"
             },
-            "author": "Maggie Haberman",
-            "title": "Trump Attacks Mike Pence for Not Rejecting Electoral Votes in 2020 - The New York Times",
-            "description": "In a speech, Donald J. Trump was undeterred by the Jan. 6 House committee’s account of how his rioting supporters menaced the vice president, and the panel’s dismantling of many of his election lies.",
-            "url": "https://www.nytimes.com/2022/06/17/us/politics/donald-trump-pence-jan-6.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/06/17/multimedia/17pol-trump-photo/17pol-trump-photo-facebookJumbo.jpg",
-            "publishedAt": "2022-06-17T22:56:35Z",
-            "content": "I never called Mike Pence a wimp, said Mr. Trump, whose daughter Ivanka was present for the call and later told her chief of staff that Mr. Trump had effectively called Mr. Pence a coward, using a vu… [+1278 chars]"
+            "author": "Patricia Mazzei",
+            "title": "Florida Allows Doctors to Order Vaccines for Very Young Children - The New York Times",
+            "description": "Unlike the other 49 states and the District of Columbia, Florida did not allow health care providers to preorder the vaccines ahead of the federal government’s June 14 deadline.",
+            "url": "https://www.nytimes.com/2022/06/17/us/florida-kids-vaccine-desantis.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/17/us/17virus-briefing-florida/17virus-briefing-florida-facebookJumbo.jpg",
+            "publishedAt": "2022-06-18T02:51:26Z",
+            "content": "Vaccinations for very young children are typically administered at pediatricians offices, but unlike pharmacies in the federal Covid vaccine program, doctors cannot order doses on their own, Dr. Gwyn… [+875 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Annie Linskey, Isaac Arnsdorf, Josh Dawsey",
+            "title": "Trump hits Pence over Jan. 6 role as possible GOP 2024 hopefuls gather - The Washington Post",
+            "description": "The former president slammed his former governing partner for acting as a’ human conveyor belt’ while presiding over the electoral college count.",
+            "url": "https://www.washingtonpost.com/politics/2022/06/17/trump-pence-jan-6-committee/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WARY44HOQII6ZH4QPHPR7MUCSY.jpg&w=1440",
+            "publishedAt": "2022-06-18T02:02:20Z",
+            "content": "Placeholder while article actions load\r\nNASHVILLE Former president Donald Trump used an evangelical conference here to ridicule former vice president Mike Pence for upholding the Constitution on Jan.… [+7936 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Celina Tebor and N'dea Yancey-Bragg, USA TODAY",
+            "title": "Ukraine moves closer to EU candidacy; Families of 2 missing American veterans speak out: Latest updates - USA TODAY",
+            "description": "On Friday, President Joe Biden said he'd been briefed on the Americans missing in Ukraine and urged others not to travel there. Latest updates.",
+            "url": "https://www.usatoday.com/story/news/politics/2022/06/17/ukraine-russia-invasion-live-updates/7655995001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/06/17/USAT/2f7e1173-d2d1-443e-80e9-bbbea29b1750-AP_Belgium_EU_Ukraine_Bid.jpg?auto=webp&crop=498,281,x0,y12&format=pjpg&width=1200",
+            "publishedAt": "2022-06-18T01:52:30Z",
+            "content": "The executive arm of the European Union recommended Friday that Ukraine become a candidate for membership, the first step in a process that could take decades. \r\nThe endorsement is set to be discusse… [+7836 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "SFGate"
+                "name": "KTVU San Francisco"
             },
-            "author": "Eric Ting",
-            "title": "Curry got a call from Obama while still on the court after Finals - SFGATE",
-            "description": "Outside of golf, Curry and Obama have appeared together to discuss social issues and...",
-            "url": "https://www.sfgate.com/warriors/article/Steph-Curry-got-a-call-from-Obama-after-Finals-17249750.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/26/20/26/22611344/6/rawImage.jpg",
-            "publishedAt": "2022-06-17T22:26:13Z",
-            "content": "Golden State Warriors guard Stephen Curry and former President Barack Obama are friends, and the 44th president wasted no time calling to congratulate the point guard after he won his fourth NBA Fina… [+1777 chars]"
+            "author": "Associated Press",
+            "title": "Deputy: 2 officers had chance to shoot Uvalde school gunman - KTVU FOX 2 San Francisco",
+            "description": "Two Uvalde city police officers passed up a fleeting chance to shoot a gunman outside Robb Elementary School before he went on to kill 21 people inside the school, a senior sheriff's deputy told The New York Times.",
+            "url": "https://www.ktvu.com/news/deputy-2-officers-had-chance-to-shoot-uvalde-school-gunman",
+            "urlToImage": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/06/1280/720/GettyImages-1240882924.jpg?ve=1&tl=1",
+            "publishedAt": "2022-06-18T01:32:47Z",
+            "content": "UVALDE, Texas - Two Uvalde city police officers passed up a fleeting chance to shoot a gunman outside Robb Elementary School before he went on to kill 21 people inside the school, a senior sheriff's … [+3637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heat.com"
+            },
+            "author": "Brian Martin, for NBA.com",
+            "title": "5 incredible stats from 2022 Bill Russell NBA Finals MVP Stephen Curry - NBA.com",
+            "description": "Steph Curry's Finals MVP-winning impact extended deep into the statistical realm. Here are 5 key numbers to know.",
+            "url": "https://www.nba.com/news/5-incredible-stats-from-2022-bill-russell-nba-finals-mvp-stephen-curry",
+            "urlToImage": "https://cdn.nba.com/manage/2022/06/curry-trophy-portrait.jpg",
+            "publishedAt": "2022-06-18T01:29:57Z",
+            "content": "Stephen Curry points to his ring finger during Game 6 of the 2022 NBA Finals.\r\nOn Thursday night in Boston, Stephen Curry was crowned an NBA champion for the fourth time and took home his first Bill … [+13663 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Ted Johnson",
+            "title": "Amber Heard Says Her Therapist’s Notes, Excluded From Johnny Depp Trial, Would Have Made A Difference In Jury’s Verdict - Deadline",
+            "description": "Amber Heard said that she believes that notes taken by her doctor, in which she reported alleged abuse by Johnny Depp, would have made a difference in the jury’s decision in her ex-husband’s defamation case. The notes, though, were excluded from the six-week …",
+            "url": "https://deadline.com/2022/06/johnny-depp-amber-heard-trial-2-1235048095/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/06/AP22152762888701.jpg?w=1024",
+            "publishedAt": "2022-06-18T01:14:00Z",
+            "content": "Amber Heard said that she believes that notes taken by her doctor, in which she reported alleged abuse by Johnny Depp, would have made a difference in the jury’s decision in her ex-husband’s defamati… [+5198 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dow Jones Futures: What To Do As Bear Market Intensifies; Tesla Rival Leads 5 Key Stocks - Investor's Business Daily",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMikQFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtd2hhdC10by1kby1hcy1iZWFyLW1hcmtldC1pbnRlbnNpZmllcy10ZXNsYS1yaXZhbC1sZWFkcy01LWtleS1zdG9ja3Mv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-06-18T00:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "Russia frees captive Ukrainian medic who filmed Mariupol atrocity - New York Post ",
+            "description": "Yuliia Paievska, a medic who recorded and released 256 gigabytes of shocking footage captured during bloody fighting in Mariupol, was freed by Russian forces on Friday.",
+            "url": "https://nypost.com/2022/06/17/russia-frees-captive-hero-medic-who-filmed-mariupol-siege/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/06/newspress-collage-22713200-1655509664586.jpg?quality=75&strip=all&1655495348&w=1024",
+            "publishedAt": "2022-06-18T00:42:00Z",
+            "content": "TALLINN, Estonia A celebrated Ukrainian medic whose footage was smuggled out of the besieged city of Mariupol by an Associated Press team was freed by Russian forces on Friday, three months after she… [+3671 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Tom Tapp",
+            "title": "Ginni Thomas Says She “Can’t Wait” To Talk To Jan. 6 Committee After She Is Served With Letter Requesting Interview - Deadline",
+            "description": "Ginni Thomas, conservative political activist and wife of Supreme Court Justice Clarence Thomas, was served with an official letter yesterday from the Congressional Committee Investigating January 6 requesting an interview, according to MSNBC. A reported copy…",
+            "url": "https://deadline.com/2022/06/ginni-thomas-january-sixth-committee-interview-1235048088/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/06/AP22140657793012.jpg?w=1024",
+            "publishedAt": "2022-06-18T00:38:00Z",
+            "content": "Ginni Thomas, conservative political activist and wife of Supreme Court Justice Clarence Thomas, was served with an official letter yesterday from the Congressional Committee Investigating January 6r… [+1630 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Joe Otterson",
+            "title": "Vince McMahon Makes Brief ‘SmackDown Live’ Appearance After Misconduct Allegations - Variety",
+            "description": "Vince McMahon opened “SmackDown Live” on Friday night with a brief appearance in the ring. McMahon strutted to the ring with a smile on his face as his theme music — “No Chance in Hell” — played over the speakers. He kept his remarks brief, saying, “It is a p…",
+            "url": "https://variety.com/2022/tv/news/vince-mcmahon-smackdown-live-wwe-1235297674/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/06/Vince-McMahon.jpg?w=1024",
+            "publishedAt": "2022-06-18T00:07:00Z",
+            "content": "Vince McMahon opened “SmackDown Live” on Friday night with a brief appearance in the ring.\r\nMcMahon strutted to the ring with a smile on his face as his theme music — “No Chance in Hell” — played ove… [+1891 chars]"
         },
         {
             "source": {
@@ -64,203 +259,8 @@
             "description": "A gunman opened fire inside a suburban Alabama church during a potluck dinner, killing three members.",
             "url": "https://www.cbsnews.com/live-updates/alabama-church-shooting-police-press-conference-watch-live-stream-today-2022-06-17/",
             "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/06/17/be99f05f-b5f9-427f-bff9-3711decb47c8/thumbnail/1200x630g2/6d7caa5b7385a661b8acf658603ccda7/ap22168083239715.jpg",
-            "publishedAt": "2022-06-17T22:22:00Z",
-            "content": "A \"hero\" attending a potluck dinner subdued the gunman who opened fire inside an Alabama church Thursday, killing three members, police said. Police announced the death of the third victim Friday aft… [+4129 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Melina Delkic, Jason Karaian, Isabella Simonetti",
-            "title": "Wall Street Has Its Worst Week Since March 2020 - The New York Times",
-            "description": "The selling was fueled by persistently high inflation and fears that the Fed’s efforts to tame it with higher interest rates will choke growth.",
-            "url": "https://www.nytimes.com/2022/06/17/business/stock-market.html",
-            "urlToImage": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-            "publishedAt": "2022-06-17T21:59:17Z",
-            "content": "Its all part of one story, which is inflation, said Aswath Damodaran, a professor of finance at New York University. Until we get a handle on where were going to end up in inflation, youre going to s… [+704 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Anton Troianovski, Adam Satariano",
-            "title": "Latest on Russia's War in Ukraine: Live Updates - The New York Times",
-            "description": "The Russian leader accused the U.S. of treating its allies as colonies while declaring itself “the messenger of the Lord on Earth.” The European Commission recommended that Ukraine be granted E.U. candidate status, the first step in a long process. The prime …",
-            "url": "https://www.nytimes.com/live/2022/06/17/world/ukraine-russia-news",
-            "urlToImage": "https://static01.nyt.com/images/2022/06/17/multimedia/17ukraine-briefing-promo-5pm/17ukraine-briefing-carousel-4pm-add-1-facebookJumbo.jpg",
-            "publishedAt": "2022-06-17T20:53:18Z",
-            "content": "Foreign fighters in Ukraine, whether they have joined the countrys International Legion or one of the loosely organized outfits around the country, face the prospect of hostile treatment if captured … [+4757 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Loren Grush",
-            "title": "Hundreds of SpaceX employees signed letter denouncing Elon Musk's behavior - The Verge",
-            "description": "Over 400 SpaceX employees signed a letter protesting Elon Musk’s recent behavior online before it was taken down. At least five people have been terminated for their involvement in writing the letter.",
-            "url": "https://www.theverge.com/2022/6/17/23172913/spacex-complaint-letter-firing-elon-musk",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/KK1caSh6erhokRscLHJ6VtzmSh8=/0x252:5273x3013/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23636096/1230844804.jpg",
-            "publishedAt": "2022-06-17T20:39:29Z",
-            "content": "The letter was only distributed for a day and a half\r\nSpaceX headquarters in January 2021.\r\nPhoto by PATRICK T. FALLON/AFP via Getty Images\r\nIt took less than a day and a half for more than 400 Space… [+4601 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Monica Chin",
-            "title": "How to run PugetBench for Photoshop - The Verge",
-            "description": "PugetBench for Photoshop is a quick and easy way to see how well your PC stacks up to the competition when it comes to editing. All you need to download is a small plug-in.",
-            "url": "https://www.theverge.com/23172582/pugetbench-for-photoshop-benchmark-how-to",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/FuPeCMUch166zGVziM0ZDnuVsDQ=/0x74:2532x1400/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23635620/Screenshot_2022_06_17_123439.png",
-            "publishedAt": "2022-06-17T20:39:09Z",
-            "content": "See how well your PC can photo\r\nYou can do it in just a couple minutes.\r\nPuget Systems offers a number of different benchmarks to test out your PC using automated real-world tasks in the Adobe Creati… [+1555 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "ABC News",
-            "title": "Trump fires back at Jan. 6 committee, calls hearings 'disgraceful performance' - ABC News",
-            "description": "The House committee is laying out what it says was a \"sophisticated, seven-part plan\" by Trump to illegally overturn his 2020 election loss.",
-            "url": "https://abcnews.go.com/Politics/trump-fires-back-jan-committee-calls-hearings-disgraceful/story?id=85463648",
-            "urlToImage": "https://s.abcnews.com/images/Politics/trump-majority-conference-01-ap-jef-220617_1655492688669_hpMain_16x9_992.jpg",
-            "publishedAt": "2022-06-17T20:37:30Z",
-            "content": "Former President Donald Trump on Friday fired back at the House select committee investigating the events of Jan. 6, 2021.\r\n\"There's no clearer example of the menacing spirit that has devoured the Am… [+4189 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Richard Fausset, Luke Broadwater",
-            "title": "Bennie Thompson Has Spent His Career Protecting Voting Rights - The New York Times",
-            "description": "Representative Bennie G. Thompson, chairman of the committee investigating the attack on the Capitol, has spent his career fighting to protect the right to vote.",
-            "url": "https://www.nytimes.com/2022/06/17/us/bennie-thompson-jan-6-committee.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/06/17/us/17bennieThompson01/17bennieThompson01-facebookJumbo.jpg",
-            "publishedAt": "2022-06-17T20:34:48Z",
-            "content": "He probably did more to bring about the election of Blacks to local political office than anybody, said Danny E. Cupit, a trial lawyer and longtime friend of Mr. Thompsons.\r\nMr. Thompson became a Hin… [+1538 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Des Moines Register"
-            },
-            "author": "Katie Akin and William Morris, Des Moines Register",
-            "title": "Iowa Supreme Court rules on abortion law, constitutional protection - Des Moines Register",
-            "description": "Friday's decision comes as the U.S. Supreme Court considers a case that may overturn abortion protections at the federal level.",
-            "url": "https://www.desmoinesregister.com/story/news/2022/06/17/iowa-supreme-court-abortion-law-ruling-planned-parenthood-kim-reynolds/7646049001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/04/13/PDEM/2986814e-a89b-4647-8846-764628dd4421-0413-Abby-Finkenauer-011.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200",
-            "publishedAt": "2022-06-17T20:26:15Z",
-            "content": "The state Supreme Court on Friday overturned its 2018 decision that said Iowans had a fundamental right to abortion under the state constitution.\r\nFriday's ruling — coupled with the potential overtur… [+10914 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Jacob Bogage",
-            "title": "Juneteenth is becoming the latest commercialized holiday - The Washington Post",
-            "description": "As corporations market Juneteenth, some leave small Black businesses behind and risk alienating consumers, experts say.",
-            "url": "https://www.washingtonpost.com/business/2022/06/17/juneteenth-walmart-black-businesses/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MNVXP5HMZMI6ZH4QPHPR7MUCSY.jpg&w=1440",
-            "publishedAt": "2022-06-17T20:17:00Z",
-            "content": "Placeholder while article actions load\r\nBefore a new wave of civil rights demonstrations swept the country, before Congress made Juneteenth a federal holiday, Brenda Hampton was already in business.\r… [+7231 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Tom Phillips",
-            "title": "How the final journey of Dom Phillips and Bruno Pereira ended in tragedy - The Guardian",
-            "description": "The journalist and Indigenous expert travelled upstream in Brazil’s far western Amazon region, a trip from which they did not return alive",
-            "url": "https://amp.theguardian.com/world/2022/jun/17/dom-phillips-bruno-pereira-final-journey",
-            "urlToImage": null,
-            "publishedAt": "2022-06-17T19:33:00Z",
-            "content": "Dom Phillips and Bruno PereiraFri 17 Jun 2022 13.37 EDT\r\nDom Phillips loved the Amazon and he loved the Amazons fish. His favourite was the tucunaré, a speckled South American peacock bass whose Indi… [+10378 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Risk of long COVID associated with delta versus omicron variants of SARS-CoV-2 - The Lancet",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiU2h0dHBzOi8vd3d3LnRoZWxhbmNldC5jb20vam91cm5hbHMvbGFuY2V0L2FydGljbGUvUElJUzAxNDAtNjczNigyMikwMDk0MS0yL2Z1bGx0ZXh00gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-06-17T19:17:17Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Marquise Francis",
-            "title": "Three weeks after Uvalde school massacre, many Texans fight to keep focus on changing gun laws - Yahoo News",
-            "description": "Almost a month after an 18-year-old gunman shot and killed 19 children and two teachers, wounding 17 others, at Robb Elementary School in Uvalde, Texas...",
-            "url": "https://news.yahoo.com/three-weeks-after-uvalde-school-massacre-texans-fight-to-keep-focus-on-changing-gun-laws-190810566.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ns9l_i7UItYbnIt9oURdxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-06/71ba70e0-ee6e-11ec-8d7f-fc96d20981ae",
-            "publishedAt": "2022-06-17T19:08:10Z",
-            "content": "Three weeks after an 18-year-old gunman shot and killed 19 children and two teachers, wounding 17 others, at Robb Elementary School in Uvalde, Texas, local law enforcement has gone silent on its inve… [+11649 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Matt Eppers, USA TODAY",
-            "title": "NBA power rankings: Way-too-early look at 2022-23 season. Warriors on top after winning NBA Finals - USA TODAY",
-            "description": "The Warriors should be in the mix for a title again next season. But it could be crowded at the top with plenty of other worthwhile contenders.",
-            "url": "https://www.usatoday.com/story/sports/nba/2022/06/17/nba-power-rankings-early-look-warriors-2022-23-season/7642883001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/06/17/USAT/3ddb6867-4255-40fd-bb3d-ce989b5ab1db-USP_NBA__Milwaukee_Bucks_at_Golden_State_Warriors.jpg?auto=webp&crop=4724,2658,x0,y157&format=pjpg&width=1200",
-            "publishedAt": "2022-06-17T18:37:35Z",
-            "content": "The confetti has barely settled on the Golden State Warriors' championship, but the NBA discussion is always moving forward.\r\nThe Warriors will return to the Bay Area next week for their celebratory … [+8895 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Scharon Harding",
-            "title": "The US has a long way to go before adopting a universal charger policy - Ars Technica",
-            "description": "\"Restore the sanity,\" say US Senators Markey, Sanders, and Warren.",
-            "url": "https://arstechnica.com/gadgets/2022/06/the-us-has-a-long-way-to-go-before-a-universal-charger-is-law/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/12/USB-C-Andrew-640x215.jpg",
-            "publishedAt": "2022-06-17T18:09:15Z",
-            "content": "USB Type-C, the most exciting boring connector in the industry right now.\r\n126 with 68 posters participating\r\nAfter the European Union (EU) announced that numerous consumer tech devices using wired c… [+4897 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Mitchell Clark",
-            "title": "Verizon and AT&T's FAA deal expands C-band 5G, with restrictions until July 2023 - The Verge",
-            "description": "After months of delays, the FAA has made a deal with cellular carriers on how to move forward with rolling out C-band 5G. The agreement is meant to keep airplanes safe.",
-            "url": "https://www.theverge.com/2022/6/17/23172731/verizon-att-c-band-5g-rollout-faa-deal-airports-plan",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/UNvvE1salFDa7eeIv3RlUo8S9qo=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22792078/acastro_180430_1777_5G_0001.0.0.jpg",
-            "publishedAt": "2022-06-17T18:09:00Z",
-            "content": "Its going to be a phased rollout\r\nIllustration by Alex Castro / The Verge\r\nThe Federal Aviation Administration, or FAA, says it expects AT&amp;T and Verizon to be able to more or less fully roll out … [+4785 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Drake Drops SURPRISE Album & Video With Tristan Thompson | Daily Pop | E! News - E! News",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU9TU2kW491o",
-            "urlToImage": null,
-            "publishedAt": "2022-06-17T17:55:44Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "publishedAt": "2022-06-17T23:52:00Z",
+            "content": "A \"hero\" attending a potluck dinner subdued the gunman who opened fire inside an Alabama church Thursday, killing three members, police said. Police announced the death of the third victim Friday aft… [+4341 chars]"
         }
     ]
 }
