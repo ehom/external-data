@@ -1,18 +1,109 @@
 {
     "status": "ok",
-    "totalResults": 27,
+    "totalResults": 29,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Weathernews.jp"
+            },
+            "author": "ウェザーニュース",
+            "title": "台風4号、明日4日(月)九州に接近 九州南部や四国は大雨警戒 - ウェザーニュース",
+            "description": "明日4日(月)は台風4号（アイレー）が東シナ海を北上して、九州に近づいてくる予想です。九州南部や四国の太平洋側では雷を伴った激しい雨の降るおそれがあるため、河川の増水などに警戒してください。",
+            "url": "https://weathernews.jp/s/topics/202207/030215/",
+            "urlToImage": "https://smtgvs.weathernews.jp/s/topics/img/202207/202207030215_top_img_A.png?1656840533",
+            "publishedAt": "2022-07-03T09:24:00Z",
+            "content": "{{topic.rank}}\r\n{{topic.pageTitle}}{{editTstr(topic.editTime)}}"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yomiuri.co.jp"
+            },
+            "author": "読売新聞オンライン",
+            "title": "３０人乗り中国船が沈没、３人以外は不明…台風が接近中の香港沖 - 読売新聞オンライン",
+            "description": "【北京＝田川理恵】香港紙・明報（電子版）などによると、香港の南西沖約３００キロ・メートルの海上で２日、作業船が沈没する事故があった。 　船には約３０人の中国人船員が乗っており、救助された３人以外は行方が分からなくなって",
+            "url": "https://www.yomiuri.co.jp/world/20220703-OYT1T50092/",
+            "urlToImage": "https://www.yomiuri.co.jp/media/2022/07/20220703-OYT1I50074-T.jpg?type=ogp",
+            "publishedAt": "2022-07-03T09:00:00Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sponichi.co.jp"
+            },
+            "author": "スポニチ Sponichi Annex",
+            "title": "今村聖奈、重賞初騎乗初勝利の快挙 海外でも女性ジョッキーが大活躍 - スポニチアネックス Sponichi Annex",
+            "description": "競馬界は女性ジョッキーが活躍する時代を迎えている。先月19日の仏オークスはナシュワに騎乗したホリー・ドイル（25＝英国）が勝ち、G1・3勝目で女性初の欧州クラシック… - スポーツニッポン新聞社の公式サイト（www.sponichi.co.jp）。",
+            "url": "https://www.sponichi.co.jp/gamble/news/2022/07/03/kiji/20220703s00004048516000c.html",
+            "urlToImage": "https://www.sponichi.co.jp/gamble/news/2022/07/03/jpeg/20220703s00004048511000p_view.jpg",
+            "publishedAt": "2022-07-03T08:53:00Z",
+            "content": "Copyright © SPORTS NIPPON NEWSPAPERS. All Rights Reserved.\r\nSponichi Annex"
+        },
         {
             "source": {
                 "id": null,
                 "name": "YouTube"
             },
             "author": null,
-            "title": "高知・早明浦ダム取水制限 香川への水供給半分に｜TBS NEWS DIG - TBS NEWS DIG Powered by JNN",
-            "description": "「四国の水がめ」と呼ばれる早明浦ダムでの貯水率の低下を受け、香川県への水の供給を半分にする取水制限が始まりました。記者「水不足の目安となる旧大川村役場の屋上も湖面に姿を現わしています」吉野川上流にある高知県の早明浦ダムで貯水率が3割を下回るおそれがあるとして、2日午前9時、第3次取水制限が始まりました。香川県への...",
-            "url": "https://www.youtube.com/watch?v=6pz_LWxHbc4",
-            "urlToImage": "https://i.ytimg.com/vi/6pz_LWxHbc4/maxresdefault.jpg",
-            "publishedAt": "2022-07-02T22:22:27Z",
+            "title": "セブン&アイ 「そごう・西武」売却に向け米投資ファンドと優先的に交渉へ｜TBS NEWS DIG - TBS NEWS DIG Powered by JNN",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYFFPjEBunRo",
+            "urlToImage": null,
+            "publishedAt": "2022-07-03T08:52:37Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sankei.com"
+            },
+            "author": "産経ニュース",
+            "title": "電力逼迫で太陽光発電の危うさ露呈 供給力は天候次第、夕方には低下 - 産経ニュース",
+            "description": "東京電力管内に電力需給逼迫注意報が出されてから３日で１週間。経済産業省は６月３０日、火力発電所の再開など供給力が積み増しされたとして注意報を解除した。電力需要…",
+            "url": "https://www.sankei.com/article/20220703-J73IG7DSDJOEZK5EPQAJTQKHCU/",
+            "urlToImage": "https://www.sankei.com/resizer/3gdEL6g1bfX9_fmB14dJNxB2J6E=/1200x630/smart/filters:quality(50)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/P6PRQOC24NKABMUC44OMQSSQNU.jpg",
+            "publishedAt": "2022-07-03T08:27:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tokyo-np.co.jp"
+            },
+            "author": "東京新聞 TOKYO Web",
+            "title": "＜新型コロナ・3日＞東京都で新たに3788人の感染確認、1人死亡 - 東京新聞",
+            "description": "東京都は3日、新型コロナウイルスの新たな感染者3788人と90代男性1人の死亡を確認したと発表した。前の週の日曜日に比べて1784人増...",
+            "url": "https://www.tokyo-np.co.jp/article/187335",
+            "urlToImage": "https://static.tokyo-np.co.jp/image/article/size1/c/4/8/b/c48bab76488fa21459d52272edf1334d_1.jpg",
+            "publishedAt": "2022-07-03T07:54:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Afpbb.com"
+            },
+            "author": null,
+            "title": "ロシア南西部で「大規模爆発」、3人死亡 ウクライナ国境近く - AFPBB News",
+            "description": "【7月3日 AFP】ウクライナとの国境に近いロシア南西部ベルゴロド（Belgorod）で3日早朝、「大規模な爆発」が相次いで発生し、少なくとも3人が死亡、4人が負傷した。",
+            "url": "https://www.afpbb.com/articles/-/3412731",
+            "urlToImage": "https://afpbb.ismcdn.jp/mwimgs/e/f/1000x/img_efcd576242321738fe9baf6d6c5afba0272512.jpg",
+            "publishedAt": "2022-07-03T07:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "【NNNドキュメント】熱海土石流 \"盛り土\"が奪った命と遺族の思い NNNセレクション - 日テレNEWS",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUHFERVw8BmQ",
+            "urlToImage": null,
+            "publishedAt": "2022-07-03T07:30:04Z",
             "content": null
         },
         {
@@ -21,64 +112,77 @@
                 "name": "Nhk.or.jp"
             },
             "author": null,
-            "title": "【気象予報士解説】台風4号 進路は？この先の雨・暑さは？ - nhk.or.jp",
-            "description": "台風4号は沖縄本島付近を通過したあと北北西へ進んでいて、5日には九州にかなり接近し、上陸するおそれがあります。台風の今後…",
-            "url": "https://www3.nhk.or.jp/news/html/20220703/k10013699821000.html",
-            "urlToImage": "https://www3.nhk.or.jp/news/html/20220703/K10013699821_2207030709_0703071148_01_03.jpg",
-            "publishedAt": "2022-07-02T22:11:48Z",
+            "title": "兵庫 加東 川の中州に7人取り残され消防が全員救助 けが人なし - nhk.or.jp",
+            "description": "3日午後、兵庫県加東市を流れる加古川が雨で増水し中州に7人が一時取り残されました。消防のヘリコプターで午後4時までに全員…",
+            "url": "https://www3.nhk.or.jp/news/html/20220703/k10013700301000.html",
+            "urlToImage": "https://www3.nhk.or.jp/news/html/20220703/K10013700301_2207031609_0703161542_01_02.jpg",
+            "publishedAt": "2022-07-03T07:06:02Z",
             "content": ""
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "Livedoor.com"
             },
-            "author": null,
-            "title": "角田裕毅13番手「困難な状況でとてもいい予選ができた。入賞を目指す」チームは想定以上の結果に安堵／F1第10戦 - オートスポーツweb",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiH2h0dHBzOi8vd3d3LmFzLXdlYi5qcC9mMS84MzQwMDjSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-07-02T22:06:00Z",
+            "author": "朝日新聞デジタル",
+            "title": "業界初? 高卒女性が銀行取締役に (2022年7月3日掲載) - ライブドアニュース - livedoor",
+            "description": "■高知銀行・三宮晶子さん（65）地元高知銀行の取締役に就任して7年。金融庁によれば、最終学歴が高校卒の女性で取締役になったのは銀行業界で初という。入行して手形の交換業務に就いた。結婚や出産で退職する",
+            "url": "https://news.livedoor.com/topics/detail/22440166/",
+            "urlToImage": "https://image.news.livedoor.com/newsimage/stf/d/0/d0652_1509_6fba76b3_c24be934.jpg",
+            "publishedAt": "2022-07-03T07:00:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Appbank.net"
+                "name": "Biglobe.ne.jp"
             },
-            "author": "technology",
-            "title": "ニンテンドーの伝説的ゲームクリエイターが「電卓で遊んでいる人」に受けた刺激 - AppBank.net",
-            "description": "今のコンシューマーゲーム業界のBIG3といえば、「ニンテンドー」「SONY」「Microsoft」です。中でも任天堂は、世界中で人気のあるゲームを開発し続けています。 そんなニンテンドー製品の歴史につ",
-            "url": "https://www.appbank.net/2022/07/03/technology/2257128.php",
-            "urlToImage": "https://www.appbank.net/wp-content/uploads/2022/06/20220628-nintendousamune-1.jpeg",
-            "publishedAt": "2022-07-02T21:48:00Z",
-            "content": "BIG3SONYMicrosoft\r\nYouTubeFlatlife\r\n*Category\r\n Technology*SourceFlatlife,,wikipedia\r\n1889\r\n1959\r\n196490060\r\n1970\r\n19722\r\n1977197766\r\nTV15TV112TV\r\n19801\r\n2\r\n199160\r\nGAME AGAME B2GAME AGAME B4340\r\n704… [+212 chars]"
+            "author": "lifehacker",
+            "title": "WindowsとmacOSを二刀流で使う15のコツ（2022年7月3日）｜BIGLOBEニュース - BIGLOBEニュース",
+            "description": "macOSとWindowsは、かなり違うプラットフォームなので、普通はどちらか一方を使いこなすだけで、せいいっぱいかもしれません。そこで今回は、WindowsとmacOS、両…｜BIGLOBEニュース",
+            "url": "https://news.biglobe.ne.jp/it/0703/lfh_220703_6362011972.html",
+            "urlToImage": "https://news.biglobe.ne.jp/it/0703/6362011972/lfh_971b484d-e563-49bb-b7d8-0eb250381029-w1280_thum800.jpg",
+            "publishedAt": "2022-07-03T07:00:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Getnavi.jp"
+                "name": "Golfdigest.co.jp"
             },
-            "author": "GetNavi編集部",
-            "title": "ゲーミングヘッドセット「H3 Hybrid」はゲームライト層にピッタリ - GetNavi web",
-            "description": "各ジャンルの有識者たちに“栄誉ある”金字塔的アイテムを聞き込み。最新のテクノロジーを結集したベストバイをドドンと紹介していく!! トレンドのデジタルガジェットを、各ジャンルに精通するプロがレコメンド。新商品のなかでも、後世に残る“傑作”の数々を紹介する。いま何を買うべきか、迷った際の指針に...",
-            "url": "https://getnavi.jp/digital/745882/",
-            "urlToImage": "https://getnavi.jp/wps/wp-content/uploads/2022/05/p31-K.jpg",
-            "publishedAt": "2022-07-02T21:30:00Z",
-            "content": "!!\r\n H3 Hybrid\r\nGetNavi 20224\r\nEPOS\r\nH3 Hybrid\r\n2120\r\nBluetoothBluetooth\r\nSPEC1.537BluetoothMac OS XPS4PS5SwitchXbox OneXbox Series X2mUSBW183×H176×D90mm298g\r\n!\r\ne\r\nBluetooth2PCPCPCH3PRO HybridFPSe"
+            "author": "GDO編集部",
+            "title": "青木瀬令奈が逃げ切りでツアー3勝目 「64」の黄アルムらが2位 - ゴルフダイジェスト・オンライン",
+            "description": "◇国内女子◇資生堂レディスオープン 最終目（3日）◇戸塚CC（神奈川県）◇6570yd（パー72） 単独首位で出た青木瀬令奈が6バーディ、3ボギーの「69」で回り、通算14アンダーとして逃げ切り、今季初優勝を果たした。2021年6月「宮里藍サントリーレディス」以来のツアー通算3勝目。出だしで2連続ボギーをたたいたが、直後の2連続バーディでスコアを戻すと、その後に3つ伸ばした。 黄アルム（韓国）が8バーディを奪取、トーナメントコースレコードの「64」をマークして、吉田優利、菊地絵理香と並んで通算12アンダー2位に入…",
+            "url": "https://news.golfdigest.co.jp/jlpga/7607/article/147820/5/",
+            "urlToImage": "https://i.gimg.jp/cmsimg/277122.jpg",
+            "publishedAt": "2022-07-03T06:12:51Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Weathernews.jp"
+                "name": "YouTube"
             },
-            "author": "ウェザーニュース",
-            "title": "天気予報＜傘マップ＞ 7月3日(日) - ウェザーニュース",
-            "description": "きょう雨が降るエリア、傘が必要なエリアを詳しく解説します。ウェザーニュース天気予報。",
-            "url": "https://weathernews.jp/s/topics/202207/030025/",
-            "urlToImage": "https://smtgvs.weathernews.jp/s/topics/img/202207/202207030025_top_img_A.png?1656797559",
-            "publishedAt": "2022-07-02T21:02:00Z",
-            "content": "{{topic.rank}}\r\n{{topic.pageTitle}}{{editTstr(topic.editTime)}}"
+            "author": null,
+            "title": "【LIVE】昼の最新気象ニュース・地震情報 2022年7月3日(日)／夕方にかけて激しい雨に警戒〈ウェザーニュースLiVE〉 - ウェザーニュース",
+            "description": "【最新の天気に関する情報】お天気アプリ「ウェザーニュース」からも随時最新情報をお伝えしていますhttps://weathernews.jp/s/download/weathernewstouch.html?fm=youtube※ご連絡※チャット上で他の方にルールを強要するコメントが見受けられます。本チャンネルでは...",
+            "url": "https://www.youtube.com/watch?v=O5nNk3Bilk4",
+            "urlToImage": "https://i.ytimg.com/vi/O5nNk3Bilk4/maxresdefault_live.jpg",
+            "publishedAt": "2022-07-03T05:03:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Natalie.mu"
+            },
+            "author": "コミックナタリー編集部",
+            "title": "「TRIGUN STAMPEDE」ヴァッシュ役は松岡禎丞、ガンアクションシーン収めたPV公開（動画あり / コメントあり） - コミックナタリー",
+            "description": "内藤泰弘「トライガン」を原作としたオリジナル新作アニメ「TRIGUN STAMPEDE（トライガン スタンピード）」のスタッフ・キャスト情報が発表され、ティザービジュアルとPVが公開された。",
+            "url": "https://natalie.mu/comic/news/484012",
+            "urlToImage": "https://ogre.natalie.mu/media/news/comic/2022/0703/TRIGUN_STAMPEDE_teaser.jpg?imwidth=750&imdensity=1",
+            "publishedAt": "2022-07-03T04:00:00Z",
+            "content": "TRIGUN STAMPEDE PV\r\n2023TRIGUN STAMPEDE\r\nPV600$$\r\nCG!?\r\n!!\r\n25\r\n27\r\nTRIGUN\r\nTRIGUN2017TRIGUNTRIGUN Badlands RumbleCGTRIGUN\r\nSF"
         },
         {
             "source": {
@@ -90,33 +194,59 @@
             "description": "ロシア軍は東部ルハンシク州のウクライナ側の拠点を完全に包囲したなどと主張し、州全域の掌握に向けて、さらに攻勢を強める構え…",
             "url": "https://www3.nhk.or.jp/news/html/20220703/k10013699701000.html",
             "urlToImage": "https://www3.nhk.or.jp/news/html/20220703/K10013699701_2207030233_0703043738_01_02.jpg",
-            "publishedAt": "2022-07-02T20:37:24Z",
+            "publishedAt": "2022-07-03T03:56:50Z",
             "content": ""
         },
         {
             "source": {
                 "id": null,
-                "name": "Nikkansports.com"
+                "name": "Pokemon.co.jp"
             },
-            "author": "日刊スポーツ",
-            "title": "大谷翔平「３番DH」でアストロズ戦 ２戦連発19号出るか／速報中 - ＭＬＢ - ニッカンスポーツ",
-            "description": "エンゼルス大谷翔平投手（27）は「3番DH」でアストロズ戦に出場。大谷と球宴ファン投票を争うアストロズのアルバレスも「3番DH」で先発出場。--《redbol… - 日刊スポーツ新聞社のニュースサイト、ニッカンスポーツ・コム（nikkansports.com）。",
-            "url": "https://www.nikkansports.com/baseball/mlb/news/202207030000027.html",
-            "urlToImage": "https://www.nikkansports.com/baseball/mlb/news/img/202207030000027-w500_0.jpg",
-            "publishedAt": "2022-07-02T20:36:00Z",
-            "content": "(C)2022,Nikkan Sports News.\r\nnikkansports.comNEWS"
+            "author": null,
+            "title": "【ポケモンセンターカナザワ】7月3日（日）開催 ポケモンメザスタ「ふたりでトレーナータッグバトル バドレックスに挑戦！」 参加者当選発表｜ポケモンセンターカナザワ - ポケモンセンター スタッフボイス",
+            "description": "ポケモンセンターのスタッフがおとどけ！全国のポケモンセンターのニュースやおすすめ商品をチェック！",
+            "url": "https://voice.pokemon.co.jp/stv/kanazawa/2022/07/post-12012.html",
+            "urlToImage": "https://voice.pokemon.co.jp/stv/common/images/facebook_OGB.jpg",
+            "publishedAt": "2022-07-03T03:30:46Z",
+            "content": "73\r\n12\r\n--------------------\r\n73\r\n1400\r\n3\r\n1415\r\n22\r\n1430\r\n20\r\n1445\r\n4\r\n1500\r\n5\r\n1515\r\n11\r\n1530\r\n2\r\n1545\r\n13\r\n1600\r\n18\r\n1615\r\n7\r\n12\r\n37.5\r\n--------------------\r\n©2022 Pokémon.\r\n©1995-2022 Nintendo/Cr… [+78 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sanspo.com"
+                "name": "Forbesjapan.com"
             },
-            "author": "サンスポ",
-            "title": "野村昭子さん、死す ９５歳、１日に自宅で親族が発見 「渡鬼」「家政婦は見た！」、黒澤映画にも出演…親しまれた庶民的な名脇役 - サンスポ",
-            "description": "ＴＢＳ系「渡る世間は鬼ばかり」やテレビ朝日系「家政婦は見た！」などで知られる女優、野村昭子（のむら・あきこ）さんが死去したことが２日、分かった。９５歳だった。…",
-            "url": "https://www.sanspo.com/article/20220703-2KIYCIH6XZMGJOC4F4OGIZBBOM/",
-            "urlToImage": "https://www.sanspo.com/resizer/f-dPZ7oFRkzKo3f2zQM78dnKKpg=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/ZUYUDCZEARK5ZKHBOMTLRE2DNI.jpg",
-            "publishedAt": "2022-07-02T20:00:02Z",
+            "author": "https://www.facebook.com/forbesjapan/",
+            "title": "好評のボルボXC60にもグーグルシステム新搭載が追加 - Forbes JAPAN",
+            "description": "4年前に日本の最優秀車賞であるカー・オブ・ザ・イヤーを受賞したボルボXC60だか、昨年の末にかなり面白いマイナーチェンジ版が上陸した。国内の道路状況にぴったり合うということと、乗り味、加速性、上質感などで高い人気を保持する主力SUVのXC6",
+            "url": "https://forbesjapan.com/articles/detail/48585",
+            "urlToImage": "https://2019.images.forbesjapan.media/articles/48000/48585/photos/410x618/485851484fb8dfecb68053961b33de03f8e8a.jpg",
+            "publishedAt": "2022-07-03T03:30:00Z",
+            "content": "4XC60SUVXC60XC60 B5 AWDGoogle\r\n12.32OSGoogle Apps and ServicesVolvo Cars app\r\n4\r\nGoogle OK GoogleOK Google YouTubeAI\r\nGoogle PlayBowers &amp; Wilkins"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "【角田裕毅F1第10戦密着】「ドライ寄りのセットアップ」で臨んだ予選。雨脚の強まったQ2では賭けに出るも13番手 - オートスポーツweb",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiH2h0dHBzOi8vd3d3LmFzLXdlYi5qcC9mMS84MzQwMzLSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-07-03T02:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sankei.com"
+            },
+            "author": "産経ニュース",
+            "title": "ＫＤＤＩ社長、会見冒頭で「深く反省」 - 産経ニュース",
+            "description": "ＫＤＤＩは３日、２日未明に発生した大規模通信障害について同社本社（東京都千代田区）で記者会見を開催。高橋誠社長が冒頭、「社会インフラを支える安定サービスを提供…",
+            "url": "https://www.sankei.com/article/20220703-GVLGBTBE7VN6NOUR53LOCAGCYA/",
+            "urlToImage": "https://www.sankei.com/resizer/A-zySh5qEhbBJDz3W9vhswFH7aA=/1200x630/filters:focal(1901x848:1911x858):quality(50)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/JWJTPIH6JRNALJUBL3CE2OZFUQ.jpg",
+            "publishedAt": "2022-07-03T02:20:54Z",
             "content": null
         },
         {
@@ -125,142 +255,12 @@
                 "name": "Yomiuri.co.jp"
             },
             "author": "読売新聞オンライン",
-            "title": "２歳女児熱中症死「柵に閉じ込め外出度々」…「息してない」連絡に水をかけるよう指示 - 読売新聞オンライン",
-            "description": "発見時、吐血の形跡も 　容疑者２人は事件当日、外出先で家族から女児が息をせず倒れていると連絡を受け、体に水をかけて冷やすよう指示していたことがわかった。府警は、熱中症になる可能性を認識していた疑いもあるとみて調べている。",
-            "url": "https://www.yomiuri.co.jp/national/20220703-OYT1T50002/",
-            "urlToImage": "https://www.yomiuri.co.jp/media/2022/07/20220703-OYT1I50005-T.jpg?type=ogp",
-            "publishedAt": "2022-07-02T20:00:00Z",
-            "content": "313520902022/07/03 05:00:002022/07/03 07:41:122022/07/03 07:41:12https://www.yomiuri.co.jp/media/2022/07/20220703-OYT1I50005-T.jpg?type=thumbnail"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Impress.co.jp"
-            },
-            "author": null,
-            "title": "【7月3日更新】今週発売！ 期待の新作ゲーム情報まとめ - GAME Watch",
-            "description": "7月に突入し、暑さもさらに増してきた今週。様々なジャンルの期待の新作タイトル情報をお届けしたい。",
-            "url": "https://game.watch.impress.co.jp/docs/news/1421729.html",
-            "urlToImage": "https://game.watch.impress.co.jp/img/gmw/list/1421/729/003.jpg",
-            "publishedAt": "2022-07-02T15:00:00Z",
-            "content": "77\r\n MX VS ATV LegendsPS5/PS4 THQ Nordic PS5/PS4 5,170 \r\n 1&amp;2 \r\nPS5/PS4/Xbox Series X|S/Xbox One/Nintendo Switch 5,478 Digital Deluxe Edition7,678 Steam78 \r\n Refine My Girlfriend is a Mermaid \r\nP… [+304 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Saitama-np.co.jp"
-            },
-            "author": null,
-            "title": "＜新型コロナ＞埼玉、新たに１２２０人感染 １人死亡 - 埼玉新聞",
-            "description": "��ʌ��Ȃǂ͂Q���A�V�^�R���i�E�C���X�����҂�V���ɂP�Q�Q�O�l�m�F�����Ɣ��\\�����B���ɂ��ƁA�X�O�㏗�������S�����B�����҂̓��́A�����\\���V�Q�O�l�A�������܎s�Q�X�S�l�A����s�V�W�l�A��z�s�T�P�l�A�z�c",
-            "url": "https://www.saitama-np.co.jp/news/2022/07/03/02.html",
-            "urlToImage": "https://www.saitama-np.co.jp/news/2022/07/03/02.jpg",
-            "publishedAt": "2022-07-02T13:13:44Z",
-            "content": "@QAV^RiECXVPQQOlmF\\BAXOSBA\\VQOlAsQXSlAsVWlAzsTPlAzJsVVlB"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sankei.com"
-            },
-            "author": "産経ニュース",
-            "title": "ＫＤＤＩ通信障害、ジャニーズＷＥＳＴのライブにも影響 大阪 - 産経ニュース",
-            "description": "２日に発生したＫＤＤＩ（ａｕ）の通信障害。携帯電話による音声通話やデータ通信が利用しづらくなっており、ａｕショップが対応に追われたほか、インターネット上では、…",
-            "url": "https://www.sankei.com/article/20220702-LKZJTPJ53JKERIMWURY4BKQ5OM/",
-            "urlToImage": "https://www.sankei.com/resizer/6_no1PwFNaYXGmz4ZtvpMs1jy1I=/1200x630/smart/filters:quality(50)/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/JS2NI5L44BIENBLZBE7LTTFBUE.jpg",
-            "publishedAt": "2022-07-02T12:22:33Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kumanichi.com"
-            },
-            "author": "https://www.facebook.com/KUMANICHIs",
-            "title": "熊本県内で新たに874人感染 新型コロナ 5日連続で800人台 - 熊本日日新聞",
-            "description": null,
-            "url": "https://kumanichi.com/articles/711180",
-            "urlToImage": "https://kumanichi.com/sites/default/files/styles/sns_share/public/2022-07/IP220702MAC000004000_00.jpg?itok=3KonZmQN",
-            "publishedAt": "2022-07-02T11:19:45Z",
-            "content": "2874610800511289456383\r\n317126975571017610148301252\r\n2629"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Goo.ne.jp"
-            },
-            "author": null,
-            "title": "ジャニーズ元メンバー、現行犯逮捕「弟はジャニーズが力を入れている…のメンバー」 - gooトップ",
-            "description": "ジャニーズグループKAT－TUNの元メンバー・田中聖容疑者が、6月29日に再び覚せい剤取締法違反（所持）の疑いで千葉県警に現行犯逮捕された。ネットには、\r\n《周りのサポートがないと無理。1人じゃ絶対やめられない。》\r\n《本人の意思が弱いとかそういうこ...",
-            "url": "https://ima.goo.ne.jp/word/220312/ジャニーズ元メンバー、現行犯逮捕「弟はジャニーズが力を入れている…のメンバー」",
-            "urlToImage": "https://ima.xgoo.jp/word/img/contents/4/61664.jpg",
-            "publishedAt": "2022-07-02T09:45:00Z",
-            "content": ""
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nhk.or.jp"
-            },
-            "author": null,
-            "title": "東京都 新型コロナ 1人死亡 3616人感染確認 前週比1400人余増 - nhk.or.jp",
-            "description": "東京都内の2日の感染確認は、1週間前の土曜日より1400人あまり多い3616人で、15日連続で前の週の同じ曜日を上回りま…",
-            "url": "https://www3.nhk.or.jp/news/html/20220702/k10013699171000.html",
-            "urlToImage": "https://www3.nhk.or.jp/news/html/20220702/K10013699171_2207021904_0702190824_01_02.jpg",
-            "publishedAt": "2022-07-02T08:13:10Z",
-            "content": "2114003616152101003616\r\n11456\r\n15\r\n272945.9150.0\r\n236162022.1798\r\n652847.9\r\nECMO115\r\n801"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkei.com"
-            },
-            "author": "日本経済新聞社",
-            "title": "仮想通貨ファンドのスリーアローズ、米破産法適用申請（写真=ロイター） - 日本経済新聞",
-            "description": "シンガポールに拠点を置く暗号資産（仮想通貨）ヘッジファンドのスリーアローズキャピタルは1日、米連邦破産法15条の適用を米ニューヨーク連邦破産裁判所に申請した。仮想通貨価格の急落で事業環境が悪化するなか、英領バージン諸島の裁判所が清算を命じていた。スリーアローズは複数の融資サービスから資金を借り入れ、高いレバレッジをかけた運用で知られる。ブロックチェーン（分散型台帳）分析会社のナンセンに",
-            "url": "https://www.nikkei.com/article/DGXZQOUB022LE0S2A700C2000000/",
-            "urlToImage": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2123568002072022000000-1.jpg?ixlib=js-2.3.2&auto=format%2Ccompress&ch=Width%2CDPR&q=45&fit=crop&bg=FFFFFF&w=1200&h=630&fp-x=0.16&fp-y=0.57&fp-z=1&crop=focalpoint&s=a3440d2bc2c2a4582b254b514c3f6531",
-            "publishedAt": "2022-07-02T08:03:03Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tenki.jp"
-            },
-            "author": "日直主任",
-            "title": "きょう2日も危険な暑さ 京都市で最高気温38.6℃(気象予報士 日直主任 2022年07月02日) - tenki.jp",
-            "description": "きょう2日も、強い日差しと南からの暖かい空気の影響で、東北南部～九州では体温を超えるような危険な暑さになった所があります。京都市では最高気温38.6℃、福岡市は今年初めて猛暑日となりました。",
-            "url": "https://tenki.jp/forecaster/deskpart/2022/07/02/18188.html",
-            "urlToImage": "https://storage.tenki.jp/storage/static-images/forecaster_diary/image/1/18/181/18188/main/20220702151308/large.jpg",
-            "publishedAt": "2022-07-02T06:59:37Z",
-            "content": "?\r\nCopyright (C) 2022 All Rights Reserved.Copyright (C) 2022 ALiNK All Rights Reserved."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Pokemon.co.jp"
-            },
-            "author": null,
-            "title": "【ポケモンセンターヒロシマ】7月2日（土）開催 ポケモンメザスタ「ふたりでトレーナータッグバトル バドレックスに挑戦！」 参加者当選発表｜ポケモンセンターヒロシマ - ポケモンセンター スタッフボイス",
-            "description": "ポケモンセンターのスタッフがおとどけ！全国のポケモンセンターのニュースやおすすめ商品をチェック！",
-            "url": "https://voice.pokemon.co.jp/stv/hiroshima/2022/07/post-12014.html",
-            "urlToImage": "https://voice.pokemon.co.jp/stv/common/images/facebook_OGB.jpg",
-            "publishedAt": "2022-07-02T03:10:00Z",
-            "content": "72\r\n12\r\n--------------------\r\n72\r\n1300\r\n26\r\n1315\r\n15\r\n1330\r\n3\r\n1345\r\n5\r\n1400\r\n31\r\n1415\r\n24\r\n1430\r\n25\r\n1445\r\n8\r\n1500\r\n18\r\n1515\r\n12\r\n12\r\n5\r\n37.5\r\n--------------------\r\n©2022 Pokémon.\r\n©1995-2022 Ninten… [+83 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "373news.com"
-            },
-            "author": "Minami-Nippon Shimbun",
-            "title": "6月日銀短観 鹿児島、宮崎 景況感2期ぶり改善 まん延防止解除、旅行補助再開受け上向く [経済・産業] | 鹿児島の経済ニュース - 南日本新聞",
-            "description": "日銀鹿児島支店が１日発表した鹿児島、宮崎両県の６月の企業短期経済観測調査（短観）は、全産業の業況判断ＤＩ（良いと悪いの割合差）が前回調査より４ポイント上昇のプラス１となり、２期ぶりに改善した。まん延防止等重点措置の解除や旅行補助事業の再開・拡大を受け、非製造業を中心に景況感が上向いた。",
-            "url": "https://373news.com/_news/economy/topic_economy.php?storyid=158775",
-            "urlToImage": "https://373news.com/_photo/2022/07/20220702S101718-upload_image_1.jpg",
-            "publishedAt": "2022-07-02T03:02:00Z",
-            "content": null
+            "title": "予報では最高気温３１度だったが…都心３５・３度、「猛暑日」９日連続で過去最長 - 読売新聞オンライン",
+            "description": "東京都心は３日午後０時８分に３５・３度を観測した。都心が３５度以上の猛暑日となるのは９日連続で、観測が始まった１８７５年（明治８年）以降、過去最長となった。 　これまでの最長記録は７年前の２０１５年７月３１日～８月７日",
+            "url": "https://www.yomiuri.co.jp/national/20220703-OYT1T50054/",
+            "urlToImage": "https://www.yomiuri.co.jp/media/2022/07/20220703-OYT1I50038-T.jpg?type=ogp",
+            "publishedAt": "2022-07-03T01:17:00Z",
+            "content": "313558802022/07/03 10:17:002022/07/03 18:04:522022/07/03 18:04:52https://www.yomiuri.co.jp/media/2022/07/20220703-OYT1I50038-T.jpg?type=thumbnail"
         }
     ]
 }
