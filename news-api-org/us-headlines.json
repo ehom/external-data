@@ -4,250 +4,159 @@
     "articles": [
         {
             "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "María Luisa Paúl",
+            "title": "Indianapolis doctor reported 10-year-old's abortion as required - The Washington Post",
+            "description": "Records show the doctor, Caitlin Bernard, reported the 10-year-old's abortion as required by law, despite criticism from Indiana Attorney General Todd Rokita.",
+            "url": "https://www.washingtonpost.com/nation/2022/07/15/indiana-doctor-abortion-report-investigation/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5WPZSB6UAI6RFK3PUXBTN4ZMY.jpg&w=1440",
+            "publishedAt": "2022-07-15T09:04:00Z",
+            "content": "Comment on this story\r\nHours after a man was charged Wednesday with raping a 10-year-old Ohio girl, Indiana Attorney General Todd Rokita (R) questioned whether the Indianapolis doctor who helped the … [+6909 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "Dbrand launches Something skins that makes your phone look like Nothing - The Verge",
+            "description": "Nothing’s hyped-up Phone 1 has launched, and it’s pretty normal besides the rear translucent aesthetics. Dbrand is releasing a decal called Something that mimics the design of the Nothing phone but for iPhone and Pixel.",
+            "url": "https://www.theverge.com/2022/7/15/23218671/dbrand-something-decal-skins-looks-like-nothing-phone-1",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/rk2-zseKAkRAf6M8o-tH1lAgUvY=/0x58:4096x2203/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23842227/Something___iPhone.png",
+            "publishedAt": "2022-07-15T09:00:00Z",
+            "content": "Its like Nothings whole shtick that you can stick to your current phone\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nThis iPhone looks a whole … [+1967 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Daisuke Wakabayashi",
+            "title": "China’s Economy Hits a Slump as Covid Policy Takes a Toll - The New York Times",
+            "description": "High unemployment, a housing market in crisis and sluggish consumer spending during lockdowns are putting pressure on Beijing in a year when officials are focused on projecting stability.",
+            "url": "https://www.nytimes.com/2022/07/14/business/economy/china-economy-slows.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/15/multimedia/15china-GDP-1/15china-GDP-1-facebookJumbo.jpg",
+            "publishedAt": "2022-07-15T08:48:45Z",
+            "content": "In May, Li Keqiang, Chinas premier, called an emergency meeting and sounded the alarm about the need to gin up economic growth to more than 100,000 officials from businesses and local governments. Th… [+2859 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kate Sullivan and Betsy Klein, CNN",
+            "title": "Biden faces a crucial day of closely watched meetings in the West Bank and Saudi Arabia - CNN",
+            "description": "President Joe Biden on Friday is meeting with President Mahmoud Abbas of the Palestinian Authority in the West Bank before heading to Saudi Arabia for the final leg of his closely watched Middle East trip.",
+            "url": "https://www.cnn.com/2022/07/15/politics/biden-west-bank-saudi-arabia-day-3/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220714153832-24-biden-israel-0714-super-tease.jpg",
+            "publishedAt": "2022-07-15T08:45:00Z",
+            "content": "Jerusalem (CNN)President Joe Biden on Friday is meeting with President Mahmoud Abbas of the Palestinian Authority in the West Bank before heading to Saudi Arabia for the final leg of his closely watc… [+7613 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/mariella-moon",
+            "title": "James Webb telescope can take detailed photos of our own solar system's planets and moons - Engadget",
+            "description": "NASA has released images of Jupiter taken during James Webb's commissioning period..",
+            "url": "https://www.engadget.com/james-webb-telescope-jupiter-images-072407786.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/5b336350-0407-11ed-8ebf-613d0f2674f2",
+            "publishedAt": "2022-07-15T07:26:08Z",
+            "content": "Over the past few days, NASA has released stunning photos of nebulae, groups of galaxies and even the \"deepest\" view of the universe taken by the James Webb Space Telescope. Now, the agency has relea… [+2366 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Goh Chiew Tong",
+            "title": "Boosting supply is the best way to stabilize oil prices, says OECD chief - CNBC",
+            "description": "Speaking to CNBC's \"Squawk Box Asia\" on Friday, OECD's secretary-general said that Russia's war on Ukraine has imposed \"a heavy burden on the world.\"",
+            "url": "https://www.cnbc.com/2022/07/15/boosting-supply-is-the-best-way-to-stabilize-price-of-oil-says-oecd.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107089215-1657858839287-gettyimages-1241886935-AFP_32ED684.jpeg?v=1657858903&w=1920&h=1080",
+            "publishedAt": "2022-07-15T06:30:12Z",
+            "content": "The best way to stabilize oil prices is to boost supply, and alternatives to Russian oil are available to the world, said Mathias Corman, the secretary-general of the Organization for Economic Cooper… [+1792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Andrew Miller",
+            "title": "Since Biden admin called inflation ‘transitory’, US has seen 13 straight months of soaring costs - Fox Business",
+            "description": "Inflation hit 9.1% this week and has soared for 13 months since Treasury Secretary Janet Yellen told Americans that inflation in the United States would be \"transitory.\"",
+            "url": "https://www.foxbusiness.com/politics/biden-admin-called-inflation-transitory-us-13-straight-months-of-soaring-costs",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/06/0/0/Janet-Yellen.jpg?ve=1&tl=1",
+            "publishedAt": "2022-07-15T06:05:59Z",
+            "content": "The United States has experienced 13 straight months of high inflation since the Biden administration dismissed concerns about rising costs and said the contributing factors were \"transitory.\"\r\n\"We h… [+3341 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Watch NASA's SpaceX CRS-25 Launch to the International Space Station - NASA",
-            "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DX4KcXhFBqN8",
-            "urlToImage": null,
-            "publishedAt": "2022-07-15T00:11:57Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Hugo Lowell",
-            "title": "Secret Service agents’ January 6 texts were erased after oversight request - The Guardian US",
-            "description": "Office of Inspector General revealed that messages from 5 and 6 January were destroyed only after the request was made",
-            "url": "https://amp.theguardian.com/us-news/2022/jul/14/us-secret-service-agents-texts-erased-january-6",
-            "urlToImage": "https://i.guim.co.uk/img/media/78213a2ae09d7499cdf02a9da955ede4c22dcb65/0_188_3662_2197/master/3662.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a261d143d3313f20249778d7c9683706",
-            "publishedAt": "2022-07-14T23:52:00Z",
-            "content": "Texts sent between US Secret Service agents on 5 and 6 January 2021 were erased after the agencys oversight body sought the communications in a review into the Capitol attack, according to a letter f… [+2782 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Sri Lankan president hands in resignation after fleeing to Singapore - Reuters.com",
-            "description": "Sri Lankan president Gotabaya Rajapaksa submitted a letter of resignation on Thursday, a spokesperson for the parliament speaker said, hours after fleeing to Singapore following mass protests over an economic meltdown.",
-            "url": "https://www.reuters.com/world/asia-pacific/sri-lanka-awaits-presidents-resignation-after-flight-2022-07-14/",
-            "urlToImage": "https://www.reuters.com/resizer/HQoxnt_xLB6BZVJdIuMaBcnddjQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/T7WGHR6WSFORHBUWZCJ4VPZX4U.jpg",
-            "publishedAt": "2022-07-14T23:36:00Z",
-            "content": "COLOMBO/SINGAPORE, July 14 (Reuters) - Sri Lankan president Gotabaya Rajapaksa submitted a letter of resignation on Thursday, a spokesperson for the parliament speaker said, hours after fleeing to Si… [+6071 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Karoun Demirjian",
-            "title": "NDAA: House lists demands for Pentagon on Russia, extremism, inflation - The Washington Post",
-            "description": "The legislation, considered one of the few “must-pass” bills Congress authors each year, is yet to be reconciled with the Senate’s version.",
-            "url": "https://www.washingtonpost.com/national-security/2022/07/14/ndaa-pentagon-defense-authorization-bill/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5EKUYLKOIVB57GGHERISLHNODY.jfif&w=1440",
-            "publishedAt": "2022-07-14T23:33:12Z",
-            "content": "Comment on this story\r\nHouse lawmakers on Thursday approved an $840 billion plan to direct Pentagon policy and spending in the year ahead, lending strong bipartisan support to legislation aiming to h… [+6290 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Dakin Andone and Chuck Johnston, CNN",
-            "title": "Indiana's Republican AG says he's investigating doctor who helped 10-year-old rape victim get an abortion - CNN",
-            "description": "Indiana's Republican attorney general said Thursday that authorities in his state are investigating -- for potential failure to report child abuse -- a doctor who said she recently helped a 10-year-old rape victim from Ohio obtain an abortion in Indiana, even…",
-            "url": "https://www.cnn.com/2022/07/14/us/indiana-ag-ohio-rape-victim/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220714115625-01-todd-rokita-file-super-tease.jpg",
-            "publishedAt": "2022-07-14T22:57:00Z",
+            "title": "2023 Toyota Crown | First Look - Kelley Blue Book",
+            "description": "This is the new Toyota Crown. A brief history lesson: The “Toyopet crown” was the first Japanese car to be sold in America back in 1958 up until 1972, making...",
+            "url": "https://www.youtube.com/watch?v=Nc8ZIa0LUdE",
+            "urlToImage": "https://i.ytimg.com/vi/Nc8ZIa0LUdE/hqdefault.jpg",
+            "publishedAt": "2022-07-15T05:02:02Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "New York Times"
+                "id": "fox-news",
+                "name": "Fox News"
             },
-            "author": "Christopher Clarey",
-            "title": "Tiger Woods Has a Very Bad Day at the British Open - The New York Times",
-            "description": "The three-time Open champion, including two on the Old Course at St. Andrews, was six over par after the first round that started with a double bogey on the first hole.",
-            "url": "https://www.nytimes.com/2022/07/14/sports/golf/tiger-woods-british-open.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/07/14/multimedia/tiger2/tiger2-facebookJumbo.jpg",
-            "publishedAt": "2022-07-14T22:47:14Z",
-            "content": "It was a dream-come-true type day minus some of the golf, Homa said. It really felt like fantasy.\r\nWoods might have opted for nightmare, but he did sound content that he had managed to get healthy en… [+1337 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Rebecca Elliott and Micah Maidenberg",
-            "title": "Twitter Lawsuit Adds to Musk's Tesla and SpaceX Challenges - The Wall Street Journal",
-            "description": "The billionaire built his reputation and fortune juggling diverse businesses—a skill that is being tested like rarely before.",
-            "url": "https://www.wsj.com/articles/twitter-lawsuit-adds-to-elon-musks-tesla-and-spacex-challenges-11657791181",
-            "urlToImage": "https://images.wsj.net/im-582873/social",
-            "publishedAt": "2022-07-14T22:31:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Clay Risen",
-            "title": "Ivana Trump, Ex-Wife of Donald Trump and Businesswoman, Dies at 73 - The New York Times",
-            "description": "She helped build his real estate empire, though she was better known for being one half of the quintessential 1980s power couple.",
-            "url": "https://www.nytimes.com/2022/07/14/nyregion/ivana-trump-dead.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/07/14/obituaries/14Trump-Ivana9/14Trump-Ivana9-facebookJumbo-v2.jpg",
-            "publishedAt": "2022-07-14T22:20:04Z",
-            "content": "One of Mr. Trumps first big projects was redeveloping the aging Commodore Hotel, adjacent to Grand Central Terminal in Midtown Manhattan. Ms. Trump, who was then working on her interior design licens… [+1382 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Eric Sylvers and Marcus Walker",
-            "title": "Italian Prime Minister Mario Draghi Submits Resignation as Coalition Collapses - The Wall Street Journal",
-            "description": "Italian Prime Minister Mario Draghi said he would resign after his coalition fell apart over disagreements on whether to send arms to Ukraine.",
-            "url": "https://www.wsj.com/articles/italian-political-turmoil-adds-to-investor-fears-around-europe-11657799964",
-            "urlToImage": "https://images.wsj.net/im-583554/social",
-            "publishedAt": "2022-07-14T21:25:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Scottie Andrew",
-            "title": "Constance Wu says she attempted suicide after 'Fresh Off the Boat' tweet backlash - CNN",
-            "description": "The \"Crazy Rich Asians\" actress said that while she was \"afraid of coming back on social media because [she] almost lost [her] life from it,\" she wanted to share her story to start a conversation about mental health.",
-            "url": "https://www.cnn.com/2022/07/14/entertainment/constance-wu-suicide-attempt-cec/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220714135141-constance-wu-june-2022.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-07-14T21:22:00Z",
-            "content": "Editors Note: If you or someone you know is struggling with suicidal thoughts or mental health matters, please call the National Suicide Prevention Lifeline at 800-273-8255 (or 988 beginning July 16,… [+1967 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Eric Bradner, Jeremy Harlan and Stella Chan, CNN",
-            "title": "Judge orders arrest of Mesa County Clerk Tina Peters for violating bond - CNN",
-            "description": "A Colorado judge on Thursday ordered the arrest of Tina Peters, the indicted Mesa County clerk and leading election denier who lost last month's Republican primary for secretary of state.",
-            "url": "https://www.cnn.com/2022/07/14/politics/tina-peters-warrant/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220714132055-tina-peters-june-28-super-tease.jpg",
-            "publishedAt": "2022-07-14T21:03:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "U.S., Israel sign joint pledge to deny Iran nuclear weaponry - Reuters.com",
-            "description": "U.S. President Joe Biden and Israeli Prime Minister Yair Lapid signed a joint pledge on Thursday to deny Iran nuclear arms, a show of unity by allies long divided over diplomacy with Tehran.",
-            "url": "https://www.reuters.com/world/us-israel-sign-joint-pledge-denying-nuclear-weapon-iran-2022-07-14/",
-            "urlToImage": "https://www.reuters.com/resizer/9s55cuf9V--1MbwmW7WYrix2OAA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7COTVX6RW5I3NHQOJIPEL735NI.jpg",
-            "publishedAt": "2022-07-14T20:56:00Z",
-            "content": "JERUSALEM, July 14 (Reuters) - U.S. President Joe Biden and Israeli Prime Minister Yair Lapid signed a joint pledge on Thursday to deny Iran nuclear arms, a show of unity by allies long divided over … [+4996 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSAT San Antonio"
-            },
-            "author": "Cody King",
-            "title": "First cases of monkeypox confirmed in Bexar County, Metro Health says - KSAT San Antonio",
-            "description": "Two people in Bexar County have tested positive for monkeypox, according to the San Antonio Metropolitan Health District.",
-            "url": "https://www.ksat.com/news/local/2022/07/14/first-cases-of-monkeypox-confirmed-in-bexar-county-metro-health-says/",
-            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WUG33DKTYZD37D75EEMV3DURBE.jpg?_a=ATAK9d60",
-            "publishedAt": "2022-07-14T20:48:00Z",
-            "content": "SAN ANTONIO Two people in Bexar County have tested positive for monkeypox, according to the San Antonio Metropolitan Health District.\r\nThey are the first confirmed cases here but Metro Health says th… [+2640 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Texas sues Biden over new abortion guidance as conservative groups mull more challenges - POLITICO",
-            "description": "The suit targets a Monday memo in which the the government warned health workers and hospitals that refusing to treat patients who need an abortion could put them in legal jeopardy.",
-            "url": "https://www.politico.com/news/2022/07/14/texas-biden-abortion-trump-00045846",
-            "urlToImage": "https://static.politico.com/fe/20/5f732ca14c57a6c3334af0ca77a3/supreme-court-abortion-texas-45138.jpg",
-            "publishedAt": "2022-07-14T20:35:44Z",
-            "content": "In its lawsuit, Texas claims the new guidance forces hospitals and doctors to commit crimes and risk their licensure under Texas law.\r\nWhile Texas is the first to sue over the new guidance, the state… [+3293 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Slate Magazine"
-            },
-            "author": "Heather Schwedel",
-            "title": "Why the Internet Is So Obsessed With Lea Michele Replacing Beanie Feldstein in Funny Girl - Slate",
-            "description": "The answer manages to involve backstage drama, Glee parallels, ill-founded rumors, TikTok, and Babs.",
-            "url": "https://slate.com/culture/2022/07/lea-michele-beanie-feldstein-funny-girl-drama-explained.html",
-            "urlToImage": "https://compote.slate.com/images/66ea783e-8423-4b17-b56c-68e31868adf4.jpeg?width=780&height=520&rect=1560x1040&offset=0x0",
-            "publishedAt": "2022-07-14T20:30:00Z",
-            "content": "In news that theater people are calling their Jan. 6, their Infinity War, and their 9/11, this week it was announced that actress Lea Michele will be joining Broadways Funny Girl in the lead role in … [+11683 chars]"
+            "author": "Lorraine Taylor",
+            "title": "Sri Lankan president resigns after fleeing country, Parliament to start search for replacement - Fox News",
+            "description": "Sri Lanka’s Parliament speaker announced President Gotabaya Rajapaksa resigned effective Thursday after he fled the country amid protests and a severe economic crisis.",
+            "url": "https://www.foxnews.com/world/sri-lankan-president-resigns-after-fleeing-country-parliament-start-search-replacement",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/AP22194019965400.jpg",
+            "publishedAt": "2022-07-15T04:37:04Z",
+            "content": "Sri Lankan President Gotabaya Rajapaksa resigned Thursday after feeling the country amid an economic crisis in the country.\r\nSri Lanka's Parliament Speaker Mahinda Yapa Abeyweardana made the announce… [+2832 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "ESPN"
             },
-            "author": "Adrian Wojnarowski",
-            "title": "Phoenix Suns' Deandre Ayton signing 4-year, $133M maximum contract offer sheet with Indiana Pacers, agents say - ESPN",
-            "description": "Suns restricted free agent center Deandre Ayton is signing a four-year, $133 million maximum contract offer sheet with the Pacers, his agents, Bill Duffy and Nima Namakian, told ESPN on Thursday.",
-            "url": "https://www.espn.com/nba/story/_/id/34242899/phoenix-suns-deandre-ayton-signing-4-year-131m-maximum-contract-offer-sheet-indiana-pacers-agents-say",
-            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0711%2Fr1035282_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-07-14T20:24:30Z",
-            "content": "Phoenix Suns restricted free agent center Deandre Ayton is signing a four-year, $133 million maximum contract offer sheet with the Indiana Pacers, his agents, Bill Duffy and Nima Namakian, told ESPN … [+3463 chars]"
+            "author": "Kevin Pelton",
+            "title": "NBA free agency 2022 - What's next for Phoenix Suns, Indiana Pacers after Deandre Ayton's max offer sheet? - ESPN",
+            "description": "Kevin Pelton breaks down what's next for the Phoenix Suns and Indiana Pacers now that the Suns have matched the Pacers' max offer for Deandre Ayton.",
+            "url": "https://www.espn.com/nba/insider/insider/story/_/id/34244273/nba-free-agency-2022-next-phoenix-suns-indiana-pacers-deandre-ayton-max-offer-sheet",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0714%2Fr1036385_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-07-15T04:29:17Z",
+            "content": "What does the Phoenix Suns' decision to match the Indiana Pacers' max offer sheet for restricted free agent Deandre Ayton mean for them and the Pacers?\r\nShortly after ESPN's Adrian Wojnarowski report… [+6001 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Jason Donner, Brie Stimson",
+            "title": "Manchin says he won't support climate, tax provisions in sweeping Democratic bill - Fox News",
+            "description": "Sen. Joe Manchin said he will not support the climate or tax provisions of a Democratic economic package he had been negotiating with Senate Majority Leader Chuck Schumer for months.",
+            "url": "https://www.foxnews.com/politics/manchin-wont-support-climate-tax-increase-provisions-sweeping-democratic-bill",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/05/Joe-Manchin-Roe-v.-Wade-Senate-Vote.jpg",
+            "publishedAt": "2022-07-15T04:12:22Z",
+            "content": "Sen. Joe Manchin, D-W.Va., and his staff told Senate Majority Leader Chuck Schumer, D, N.Y., unequivocally Thursday that he is only willing to support a reconciliation bill in August that includes a … [+3057 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "Rolling Stone"
             },
-            "author": "",
-            "title": "Lamar Jackson gets into major Twitter spat with former Super Bowl champion who once played for Ravens - CBS Sports",
-            "description": "This was easily the best NFL Twitter feud of the week",
-            "url": "https://www.cbssports.com/nfl/news/lamar-jackson-gets-into-major-twitter-spat-with-former-super-bowl-champion-who-once-played-for-ravens/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/14/0ef74477-2cb8-4d64-8d77-8d60b17d89ed/thumbnail/1200x675/78e94ebd47a4d9f8b950935e8995c098/lamar-jackson.jpg",
-            "publishedAt": "2022-07-14T20:07:00Z",
-            "content": "It's not often you see a former NFL MVP get into a Twitter spat with a former Super Bowl champion, but that's exactly what what happened this week with Lamar Jackson and Bernard Pollard. \r\nThe Twitte… [+2246 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Silas Laycock",
-            "title": "James Webb Space Telescope: An astronomer explains the stunning, newly released 1st images - Space.com",
-            "description": "Saying researchers are excited is an understatement.",
-            "url": "https://www.space.com/james-webb-space-telescope-first-images-explained",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/f6agFUKnpjDoqUFL8kxxcW-1200-80.jpg",
-            "publishedAt": "2022-07-14T19:57:46Z",
-            "content": "This article was originally published at The Conversation\r\n (opens in new tab). The publication contributed the article to Space.com'sExpert Voices: Op-Ed &amp; Insights\r\n (opens in new tab). \r\nSilas… [+8498 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Elyse Dupre",
-            "title": "Sex of Khloe Kardashian and Tristan Thompson’s 2nd Baby Revealed - E! NEWS",
-            "description": "Khloe Kardashian and Tristan Thompson, who are already parents to True Thompson, are expecting their second child together via surrogate. Find out the sex of the baby here.",
-            "url": "https://www.eonline.com/news/1337996/sex-of-khloe-kardashian-and-tristan-thompsons-2nd-baby-revealed",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022614/rs_1200x1200-220714084253-1200-Khloe_Kardashian_Tristan_Thompson-gj.jpg?fit=around%7C1080:566&output-quality=90&crop=1080:566;center,top",
-            "publishedAt": "2022-07-14T19:52:00Z",
-            "content": "Oh baby!\r\nKhloe Kardashian and Tristan Thompson are expecting a baby boy, a source confirms to E! News. \r\nThe Kardashians star and the Chicago Bulls playerwho share daughter True Thompson, 4are expec… [+803 chars]"
+            "author": "Kristine Kwak",
+            "title": "‘J-Hope Isn’t Limited to Bright Things’: The BTS Star Breaks Down His Full-Length Solo Debut - Rolling Stone",
+            "description": "J-Hope goes inside the process for Jack in the Box, getting support from his fellow BTS members, and showing off his darker side",
+            "url": "https://www.rollingstone.com/music/music-features/j-hope-bts-album-jack-in-box-lollapalooza-1380778/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/07/j-hope-of-BTS_Jack-In-The-Box_A-4-Enhanced.jpg",
+            "publishedAt": "2022-07-15T04:00:27Z",
+            "content": "RM, Jin, Suga, J-Hope, Jimin, V, and Jung Kook have officially been together as BTS since 2013, working tirelessly while becoming the biggest band in the world. The group recently announced it would … [+11051 chars]"
         },
         {
             "source": {
@@ -255,12 +164,103 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Oil settles lower ahead of potential large U.S. rate hike - Reuters.com",
-            "description": "Oil prices settled lower on Thursday, but pared nearly all losses after falling more than $4 earlier in the session as investors focused on the prospect of a large U.S. rate hike later this month that could stem inflation but at the same time hit oil demand.",
-            "url": "https://www.reuters.com/business/energy/oil-prices-tick-down-inflation-woes-take-centre-stage-2022-07-14/",
-            "urlToImage": "https://www.reuters.com/resizer/wMZJFkaH0ExII56K2fCS_IePHPU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HUDH5NGWORPIBAWVTT4UFTUJSY.jpg",
-            "publishedAt": "2022-07-14T19:46:00Z",
-            "content": "NEW YORK, July 14 (Reuters) - Oil prices settled lower on Thursday, but pared nearly all losses after falling more than $4 earlier in the session as investors focused on the prospect of a large U.S. … [+3203 chars]"
+            "title": "Ukraine denounces deadly missile strike as war overshadows G20 meeting - Reuters.com",
+            "description": "Western officials accused their Russian counterparts of war crimes on Friday after Russian missiles struck a Ukrainian city far behind the frontlines in an attack Kyiv officials said killed at least 23 people.",
+            "url": "https://www.reuters.com/world/europe/ukraine-denounces-deadly-strike-talks-show-progress-grain-exports-2022-07-14/",
+            "urlToImage": "https://www.reuters.com/resizer/il7njBb0kFew-kjDrGrsLRZTdlk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V7YVIMYQAVPL5N2CE4K7P7JQRM.jpg",
+            "publishedAt": "2022-07-15T03:57:00Z",
+            "content": "VINNYTSIA, Ukraine, July 15 (Reuters) - Western officials accused their Russian counterparts of war crimes on Friday after Russian missiles struck a Ukrainian city far behind the frontlines in an att… [+5916 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Andrew Feinberg",
+            "title": "Ivana Trump, Donald Trump’s ex-wife, dies at 73 - The Independent",
+            "description": "Czechoslovakian-born former model and businesswoman had three children with real estate mogul who would later become president",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/ivana-trump-death-donald-b2123555.html",
+            "urlToImage": "https://static.independent.co.uk/2021/05/11/16/GettyImages-51959141.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-07-15T02:25:55Z",
+            "content": "Ivana Trump, the first of president Donald Trumps three wives and the mother of his three eldest children, passed away on Thursday at age 73.\r\nMr Trump confirmed his ex-wifes death in a post on his T… [+3702 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Secret Service deleted texts from Jan. 5 and 6, 2021, after watchdog sought records - ABC News",
+            "description": "An internal watchdog said Wednesday that the Secret Service deleted text messages from Jan. 5 and 6, 2021, after the records were requested.",
+            "url": "https://abcnews.go.com/Politics/secret-service-deleted-texts-jan-2021-watchdog-sought/story?id=86843614",
+            "urlToImage": "https://s.abcnews.com/images/Politics/secret-service-rt-ps-220714_1657836511480_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-07-15T02:14:04Z",
+            "content": "The Secret Service deleted text messages from Jan. 5 and 6, 2021, after an internal watchdog requested them as part of a review of the departments handling of last years Capitol riot, the watchdog sa… [+3993 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Constance Wu Attempted Suicide After 2019 Online Backlash - E! News",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di_6-Vr3SAo4",
+            "urlToImage": null,
+            "publishedAt": "2022-07-15T01:54:42Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Lancet"
+            },
+            "author": null,
+            "title": "Population-level risks of alcohol consumption by amount, geography, age, sex, and year: a systematic analysis for the Global Burden of Disease Study 2020 - The Lancet",
+            "description": "There is strong evidence to support recommendations on alcohol consumption varying\nby age and location. Stronger interventions, particularly those tailored towards younger\nindividuals, are needed to reduce the substantial global health loss attributable\nto al…",
+            "url": "https://www.thelancet.com/article/S0140-6736(22)00847-9/fulltext",
+            "urlToImage": "//els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/asset/30b26c0f-58a0-4f8f-bdc0-916ee314768c/gr1.jpg",
+            "publishedAt": "2022-07-15T01:52:33Z",
+            "content": "We use cookies to help provide and enhance our service and tailor content and ads. To update your cookie settings, please visit the Cookie Preference Center for this site.Copyright © 2022 Elsevier In… [+173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "Amazon Prime Day 2022: Remaining Deals on Laptops, TVs and More - CNET",
+            "description": "Prime Day 2022 may officially be over, but that doesn't mean the deals just stop.",
+            "url": "https://www.cnet.com/news-live/amazon-prime-day-2022-deals-still-available/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/3a903e9a582a8a8b69d2e5ab4c4719e751c915f7/hub/2022/07/13/dc795b71-2c01-4da1-ba1e-f1c2fe853586/premium-hub-3.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2022-07-15T01:34:00Z",
+            "content": "Prime Day 2022 may officially be over, but that doesn't mean the deals just stop.\r\nWith Prime Day behind us, the deals have started to dry up. However, they're not quite gone yet. There are still a l… [+8487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Josh Dinner",
+            "title": "Dragon capsule launches on SpaceX's 25th cargo mission to the space station - Space.com",
+            "description": "The uncrewed Dragon is scheduled to dock with the space station on Saturday morning (July 16).",
+            "url": "https://www.space.com/spacex-crs-25-cargo-mission-launch-success",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/iM2Ax8QpPUEVW8pMXKohWV-1200-80.jpeg",
+            "publishedAt": "2022-07-15T01:19:00Z",
+            "content": "A SpaceX Falcon 9 rocket launched from NASA's Kennedy Space Center (KSC) in Florida this evening (July 14), sending a robotic Dragon resupply craft toward the International Space Station (ISS). \r\nThe… [+5853 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Naomi Thomas, CNN",
+            "title": "25 million children missed out on lifesaving vaccines in 2021, WHO and UNICEF data shows - CNN",
+            "description": "Vaccine coverage continued to decline worldwide in 2021, with 25 million children missing out on lifesaving vaccines, according to data published Thursday by the World Health Organization and UNICEF.",
+            "url": "https://www.cnn.com/2022/07/14/health/who-unicef-childhood-vaccination-2021-decline/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220714134453-01-dtap-vaccine-super-tease.jpg",
+            "publishedAt": "2022-07-15T00:56:00Z",
+            "content": "(CNN)Vaccine coverage continued to decline worldwide in 2021, with 25 million children missing out on lifesaving vaccines, according to data published Thursday by the World Health Organization and UN… [+2898 chars]"
         }
     ]
 }
