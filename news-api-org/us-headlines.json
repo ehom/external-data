@@ -4,42 +4,55 @@
     "articles": [
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": "Shawna Chen, Rebecca Falconer",
-            "title": "New York Republican Zeldin attacked at gubernatorial campaign event - Axios",
-            "description": "He was speaking on stage when a man reportedly attacked him on stage, per multiple reports.",
-            "url": "https://www.axios.com/2022/07/22/gop-rep-zeldin-attacked-new-york-governor-campaign-event",
-            "urlToImage": "https://images.axios.com/kbC9-pADltMozYIdeH1EHWUZAnc=/0x413:6918x4304/1366x768/2022/07/22/1658454000638.jpg",
-            "publishedAt": "2022-07-22T09:56:15Z",
-            "content": "A man \"attempted to stab\" Rep. Lee Zeldin, the New York Republican gubernatorial candidate, at a rally on Thursday, his campaign said. No one was injured in the attack in Perinton, Monroe County, aut… [+2491 chars]"
+            "author": "Ayse Wieting",
+            "title": "'A beacon of hope': Ukraine, Russia sign grain export deal - The Associated Press - en Español",
+            "description": "ISTANBUL (AP) — Russia and Ukraine signed separate agreements Friday with Turkey and the United Nations clearing the way for the export of millions of tons of desperately needed Ukrainian grain — as well as some Russian grain and fertilizer — across the Black…",
+            "url": "https://apnews.com/article/russia-ukraine-middle-east-global-trade-a2c89d94a0f8473b40a1fcde5710bda8",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/28edbfd0c3d44207a4487b6c56f28356/3000.jpeg",
+            "publishedAt": "2022-07-23T00:04:36Z",
+            "content": "ISTANBUL (AP) Russia and Ukraine signed separate agreements Friday with Turkey and the United Nations clearing the way for the export of millions of tons of desperately needed Ukrainian grain as well… [+7639 chars]"
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": null,
-            "title": "Trump watched Jan. 6 U.S. Capitol riot unfold on TV, ignored pleas to call for peace - Reuters",
-            "description": "Donald Trump sat for hours watching the Jan. 6 attack on the U.S. Capitol unfold on live TV, ignoring pleas by his children and other close advisers to urge his supporters to stop the violence, witnesses told a congressional hearing on Thursday.",
-            "url": "https://www.reuters.com/world/us/us-capitol-probes-season-finale-focus-trump-supporters-three-hour-rage-2022-07-21/",
-            "urlToImage": "https://www.reuters.com/resizer/8qtJaZeCRRVC1Cqmo1H07-CRBSQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JBC2FLHCKNKV5A2QW7IOIW7RWM.jpg",
-            "publishedAt": "2022-07-22T09:13:00Z",
-            "content": "WASHINGTON, July 21 (Reuters) - Donald Trump sat for hours watching the Jan. 6 attack on the U.S. Capitol unfold on live TV, ignoring pleas by his children and other close advisers to urge his suppor… [+5656 chars]"
+            "author": "William Boston and Georgi Kantchev",
+            "title": "VW Board Ousts CEO Herbert Diess After Pivot to Electric Vehicles - The Wall Street Journal",
+            "description": "Key shareholders joined forces with labor leaders to force out Chief Executive Herbert Diess. The move comes after renewed internal strife over the slow progress developing core software for the company’s new generation of electric vehicles.",
+            "url": "https://www.wsj.com/articles/volkswagen-ceo-herbert-diess-is-stepping-down-11658507894",
+            "urlToImage": "https://images.wsj.net/im-589253/social",
+            "publishedAt": "2022-07-22T23:47:00Z",
+            "content": null
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Jon Porter",
-            "title": "AMD’s leaked Noise Suppression feature might be its response to RTX Voice - The Verge",
-            "description": "AMD could be on the cusp of releasing a competitor to RTX Voice to cancel out background noise from your microphone. That’s according to a trailer for AMD Noise Suppression that the company posted (then deleted) to its YouTube channel.",
-            "url": "https://www.theverge.com/2022/7/22/23273859/amd-noise-suppression-machine-learning-reduction-microphone-rtx-voice-competitor",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_vFKxhpCUi2Fg4tfpZnAzEbNXKs=/0x86:1200x714/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23892521/579976_amd_radeon_6000_series_ryzen_logos_1260x709_0.jpg",
-            "publishedAt": "2022-07-22T08:23:12Z",
-            "content": "A video announcing the feature was posted to YouTube but quickly deleted\r\nIts currently unclear what AMD hardware (pictured) might be required to use the new feature.\r\nImage: AMD\r\nAMD looks to be on … [+1757 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Biden's doctor: President's Covid symptoms 'have improved' - BBC",
+            "description": "The 79-year-old president still has only mild symptoms, his White House physician says.",
+            "url": "https://www.bbc.com/news/world-us-canada-62271499",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73F1/production/_126018692_gettyimages-1408313524.jpg",
+            "publishedAt": "2022-07-22T23:27:21Z",
+            "content": "By Bernd Debusmann JrBBC News, Washington\r\nUS President Joe Biden's condition has improved since he first tested positive for Covid-19, the White House has said. \r\nThe 79-year-old is experiencing mil… [+3503 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Robert Legare",
+            "title": "Steve Bannon guilty of criminal contempt of Congress - CBS News",
+            "description": "Bannon faced criminal contempt of Congress charges for refusing to comply with a subpoena for documents and testimony issued by the House Jan. 6 select committee.",
+            "url": "https://www.cbsnews.com/news/steve-bannon-verdict-jan-6-criminal-contempt-congress-trial/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/22/3f4aa245-c57a-49ef-a7a0-70b6ae770c4a/thumbnail/1200x630/b92eab102480e6f4d4fd41e7a8fad96c/gettyimages-1410149902.jpg",
+            "publishedAt": "2022-07-22T23:22:00Z",
+            "content": "Washington — Steve Bannon, Donald Trump's one-time top campaign aide and chief White House strategist, has been found guilty of two counts of criminal contempt of Congress for refusing to comply with… [+6003 chars]"
         },
         {
             "source": {
@@ -47,103 +60,155 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Kyler Murray signing massive extension: Which QBs are next to receive monster deals in the coming months? - CBS Sports",
-            "description": "Lamar Jackson and Justin Herbert are prime candidates for massive extensions",
-            "url": "https://www.cbssports.com/nfl/news/kyler-murray-signing-massive-extension-which-qbs-are-next-to-receive-monster-deals-in-the-coming-months/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/24/9b88cb04-b0db-4cfe-abaa-18c7e6c3380d/thumbnail/1200x675/58d09720750b68a69043a8e9b8297ea9/lamar-jackson-1400.jpg",
-            "publishedAt": "2022-07-22T05:01:00Z",
-            "content": "Kyler Murray became the latest quarterback to receive a massive contract, agreeing to a five-year, $230.5 million deal that makes him the second-highest-paid player in the NFL in terms of average ann… [+8854 chars]"
+            "title": "MLB trade deadline: Mets acquire Daniel Vogelbach from Pirates in exchange for Colin Holderman - CBS Sports",
+            "description": "Vogelbach should represent an upgrade over Dominic Smith as a most-days DH",
+            "url": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-mets-acquire-daniel-vogelbach-from-pirates-in-exchange-for-colin-holderman/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/22/dd9d00ac-b025-477b-8083-157b4ce7fb96/thumbnail/1200x675/916940d6b88f2e4b05f62cb1067180c7/daniel-vogelbach-pirates.jpg",
+            "publishedAt": "2022-07-22T22:58:22Z",
+            "content": "The New York Mets have acquired designated hitter Daniel Vogelbach from the Pittsburgh Pirates in exchange for right-handed reliever Colin Holderman. The teams announced the deal on Twitter.\r\nVogelba… [+1444 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Ryan Vlastelica and Abhishek Vishnoi",
-            "title": "‘Awful’ Snap Sales Wipe $47 Billion From Social Media Stocks - Yahoo Finance",
-            "description": "(Bloomberg) -- US social-media giants shed nearly $47 billion in market value in extended trading Thursday, as disappointing revenue from Snap Inc. raised...",
-            "url": "https://finance.yahoo.com/news/meta-alphabet-knocked-down-snap-210613231.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Miqw5hu.FXZ8s3mz7HE6rQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/aef99cfd177b6241f9b29f5244c3fd19",
-            "publishedAt": "2022-07-22T04:41:15Z",
-            "content": "(Bloomberg) -- US social-media giants shed nearly $47 billion in market value in extended trading Thursday, as disappointing revenue from Snap Inc. raised concerns about the outlook for online advert… [+1801 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Tom Schad and Lindsay Schnell, USA TODAY",
-            "title": "Noah Lyles bests Michael Johnson's record to repeat as 200 world champ - USA TODAY",
-            "description": "Noah Lyles won his second consecutive world title at 200 meters, breaking the American record in one of the week's most highly anticipated events.",
-            "url": "https://www.usatoday.com/story/sports/2022/07/21/noah-lyles-bests-michael-johnsons-record-repeat-200-world-champ/10123499002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/22/USAT/bdba4b29-5998-47f9-b517-2e44bba11253-GTY_1410195484.jpg?auto=webp&crop=4422,2488,x0,y0&format=pjpg&width=1200",
-            "publishedAt": "2022-07-22T04:15:13Z",
-            "content": "Noah Lyles still owns the men's 200-meter dash.\r\nLyles broke Michael Johnson's national record Thursday night to repeat as world champion – and lead the second U.S. sprint sweep in six days at Haywar… [+5045 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "MIKE STOBBE",
-            "title": "Monkeypox virus could become entrenched as new STD in the US - Yahoo News",
-            "description": "The spread of monkeypox in the U.S. could represent the dawn of a new sexually transmitted disease, though some health officials say the virus that causes...",
-            "url": "https://news.yahoo.com/monkeypox-virus-could-become-entrenched-041041732.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/keVM2IZRnNxTX4B2kCW9cg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/6V9e.SZ6kixnT4K1K3Cc3Q--~B/aD0xNzgzO3c9MjY3NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/0262dc76b6a1441303bdc147b7250cc5",
-            "publishedAt": "2022-07-22T04:14:39Z",
-            "content": "NEW YORK (AP) The spread of monkeypox in the U.S. could represent the dawn of a new sexually transmitted disease, though some health officials say the virus that causes pimple-like bumps might yet be… [+6799 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rochester Democrat and Chronicle"
-            },
-            "author": "Gary Craig",
-            "title": "Rochester police officer killed in shooting; another officer injured. What we know now - Democrat & Chronicle",
-            "description": "A Rochester police officer, who was one of two shot on Bauman Street Thursday night, has died from his injuries.",
-            "url": "https://www.democratandchronicle.com/story/news/2022/07/22/rochester-ny-police-shooting-two-rpd-officers-shot-bauman-street/65379945007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/22/PROC/7b16ead0-a527-4e4e-81c9-3fd359b5f6d2-RPD.jpg?crop=1919,1079,x0,y128&width=1919&height=1079&format=pjpg&auto=webp",
-            "publishedAt": "2022-07-22T04:07:30Z",
-            "content": "A Rochester police officer, who was one of two shot on Bauman Street Thursday night, has died from his injuries.\r\nPolice spokesman Lt. Gregory Bello said the two were shot shortly after 9:15 p.m. by … [+1398 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": "politico",
+                "name": "Politico"
             },
             "author": null,
-            "title": "First US case of polio in nearly a decade is an Orthodox Jewish man - The Jerusalem Post",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiOGh0dHBzOi8vd3d3Lmpwb3N0LmNvbS9oZWFsdGgtYW5kLXdlbGxuZXNzL2FydGljbGUtNzEyODAw0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-07-22T03:43:00Z",
-            "content": null
+            "title": "'His life was threatened.' But Pence isn't talking about it. - POLITICO",
+            "description": "The former VP avoided the subject of Trump, except to praise administration policies, in an Arizona swing pitting them against each other.",
+            "url": "https://www.politico.com/news/2022/07/22/trump-pence-arizona-election-00047542",
+            "urlToImage": "https://static.politico.com/b4/59/9da02e474ef5a724645258474a81/220722-mike-pence-getty-773.jpg",
+            "publishedAt": "2022-07-22T22:52:53Z",
+            "content": "Wow, what a great day, Pence said when he stepped on stage.\r\nFor several days, the Trump-Pence split screen has been built up as not only a major swing state contest with implications for November, b… [+6474 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Laurie McGinley, Dan Diamond, Lena H. Sun",
+            "title": "Coronavirus booster shots for people under 50 on hold amid drive to speed up new vaccine - The Washington Post",
+            "description": "Reformulated shots would target the now-dominant omicron subvariants of the coronavirus.",
+            "url": "https://www.washingtonpost.com/health/2022/07/22/booster-shots-coronavirus-under-50/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7MGLIPERZUI6ZDO5KIJWTCGSMM.jpg&w=1440",
+            "publishedAt": "2022-07-22T22:43:18Z",
+            "content": "Comment on this story\r\nBooster shots of the coronavirus vaccinefor people younger than 50 are on hold as the Biden administration tries to accelerate a fall vaccination campaign using reformulated sh… [+4580 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Dan Lamothe",
+            "title": "As Ukraine pounds Russian targets, U.S. sends more artillery - The Washington Post",
+            "description": "More than 100 “high-value” military targets have been hit, including command posts, ammunition depots and radar sites, a senior U.S. defense official said.",
+            "url": "https://www.washingtonpost.com/national-security/2022/07/22/ukraine-artillery-russia/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HMXUNZHTZYI6ZLAWR67XDFGNPA.jpg&w=1440",
+            "publishedAt": "2022-07-22T22:02:41Z",
+            "content": "Comment on this story\r\nU.S. officials said Friday that they will send additional sophisticated artillery systems and ammunition to Ukraine, bolstering the countrys forces again as they carry out a co… [+2969 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "Spider-Man: Freshman Year and X-Men ’97 are just the beginning - The Verge",
+            "description": "Marvel’s big animation panel at this year’s San Diego Comic-Con revealed that Spider-Man: Freshman Year, X-Men ’97, and What If...? have already been renewed.",
+            "url": "https://www.theverge.com/2022/7/22/23274562/spider-man-freshman-year-x-men-97-what-if-san-diego-comic-con",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/1Gpyrt35VED8XHFJtaoY39Alzo8=/0x283:1200x911/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23894083/FYSwMIhUEAAdjDi.jpeg",
+            "publishedAt": "2022-07-22T21:50:58Z",
+            "content": "The future of the MCUs looking very animated\r\nThough Marvels live-action projects are a big part of whats got people hyped for this years San Diego Comic-Con, the studios Hall H showcase today made c… [+1951 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Beast"
+                "name": "Des Moines Register"
             },
-            "author": "Matt Wilstein",
-            "title": "Jan. 6 Committee Embarrasses Josh Hawley With Fleeing Video - The Daily Beast",
-            "description": "The video of Hawley running away from the rioters he helped incite was reportedly met with “loud laughter” inside the hearing room.",
-            "url": "https://www.thedailybeast.com/jan-6-committee-embarrasses-josh-hawley-with-fleeing-video",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1438,w_2556,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1658454112/JH_rgdgav",
-            "publishedAt": "2022-07-22T03:40:38Z",
-            "content": "Sen. Josh Hawley (R-MO) made an inadvertently comedic cameo at the Jan. 6 committees primetime hearing Thursday night when Rep. Elaine Luria (D-VA) laid out what Donald Trumps most loyal congressiona… [+1663 chars]"
+            "author": "Staff and wire reports, Des Moines Register",
+            "title": "Iowa state park shooting leaves 4 dead at Maquoketa Caves - Des Moines Register",
+            "description": "Three people and the alleged gunman were killed following a shooting at Iowa's Maquoketa Caves State Park. The campground and Camp Shalom were evacuated.",
+            "url": "https://www.desmoinesregister.com/story/news/2022/07/22/maquoketa-caves-state-park-shooting-closed-iowa-camp-shalom-jackson-county/10127217002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/22/PDEM/6983dc2a-679a-4c39-8edc-33f68da038dd-AP22203637624888.jpg?auto=webp&crop=5145,2894,x1,y330&format=pjpg&width=1200",
+            "publishedAt": "2022-07-22T21:48:47Z",
+            "content": "Three family members were shot to death while camping in an eastern Iowa state park Friday, and the suspected gunman died of a self-inflicted gunshot wound, police said.\r\nOfficers responded to report… [+8197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Matt Grobar",
+            "title": "‘The Walking Dead’s Andrew Lincoln & Danai Gurira Make Surprise Comic-Con Appearance To Tout Upcoming Limited Series On Rick Grimes & Michonne; Grimes-Led Films Not Moving Forward - Deadline",
+            "description": "Longtime The Walking Dead cast members Andrew Lincoln and Danai Gurira wowed fans at Comic-Con on Friday with a surprise appearance at Hall H—teasing an upcoming limited series that will wrap up story arcs for their respective characters of Rick Grimes and Mi…",
+            "url": "https://deadline.com/2022/07/the-walking-deads-andrew-lincoln-danai-gurira-tease-new-rick-grimes-series-1235075061/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/07/andrew-lincoln-danai-gurira.jpg?w=1000",
+            "publishedAt": "2022-07-22T21:30:00Z",
+            "content": "Longtime The Walking Dead cast members Andrew Lincoln and Danai Gurira wowed fans at Comic-Con on Friday with a surprise appearance at Hall H—teasing an upcoming limited series that will wrap up stor… [+4740 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Mark Schlabach, Chris Low",
+            "title": "NCAA - 18 violations, almost $60K in illegal benefits by Tennessee football under former coach Jeremy Pruitt - ESPN",
+            "description": "The NCAA says the Tennessee Volunteers football program committed 18 violations under former head coach Jeremy Pruitt, including nearly $60,000 in illegal benefits for players and recruits.",
+            "url": "https://www.espn.com/college-football/story/_/id/34281182/ncaa-alleges-18-violations-almost-60k-illegal-benefits-tennessee-football-former-coach-jeremy-pruitt",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0118%2Fr803502_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-07-22T21:10:23Z",
+            "content": "The NCAA has charged Tennessee's football program with 18 Level I alleged rules violations, the most severe under its rules, for impermissible recruiting benefits totaling about $60,000 that were pai… [+7679 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "John Timmer",
+            "title": "NASA’s new toy may have already spotted the oldest known galaxy - Ars Technica",
+            "description": "Remarkably normal-looking galaxies, remarkably close to the Big Bang.",
+            "url": "https://arstechnica.com/science/2022/07/nasas-new-toy-may-have-already-spotted-the-oldest-known-galaxy/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Screen-Shot-2022-07-22-at-3.47.01-PM-760x380.png",
+            "publishedAt": "2022-07-22T21:02:34Z",
+            "content": "Enlarge/ The two newly imaged galaxies, with the older one at right.\r\n29 with 23 posters participating\r\nOne of the design goals for the James Webb Space Telescope was to provide the ability to image … [+3236 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ian Livingston",
+            "title": "Blazing heat stretches from the Desert Southwest to the Northeast this weekend - The Washington Post",
+            "description": "The hottest weather of the year is enveloping the Mid-Atlantic and Northeast, while parts of the South and Southwest continue to bake.",
+            "url": "https://www.washingtonpost.com/climate-environment/2022/07/22/heatwave-texas-northeast-mid-atlantic/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RO752GNIOJH6XAHODG347R5OQU.png&w=1440",
+            "publishedAt": "2022-07-22T20:56:00Z",
+            "content": "Comment on this story\r\nMore than 80 million Americans remain under heat alerts as punishingly high temperatures keep their grip on the Lower 48 through the weekend.\r\nReadings near or past 100 degrees… [+6473 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Niners Nation"
+            },
+            "author": "Rob Guerrera",
+            "title": "Why 49ers fans should be happy Kyler Murray agreed to an extension - Niners Nation",
+            "description": "Is Kyler Murray’s extension in Arizona good news for 49ers fans?",
+            "url": "https://www.ninersnation.com/2022/7/22/23274625/49ers-kyler-murray-extension",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/XoXwiZl0PhoGMG8WhtfsHbzfhCI=/0x766:3400x2546/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23893755/usa_today_16931229.jpg",
+            "publishedAt": "2022-07-22T20:50:15Z",
+            "content": null
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Reuters",
-            "title": "U.S. charges ex-Coinbase manager in first crypto insider trading case - CNN",
-            "description": "A former product manager at Coinbase Global and two others have been charged with wire fraud in the first insider trading case involving cryptocurrency, U.S. prosecutors in Manhattan said on Thursday.",
-            "url": "https://www.cnn.com/2022/07/21/tech/first-crypto-insider-trading/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220721121902-01-coinbase-app-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-07-22T03:26:00Z",
-            "content": "A former product manager at Coinbase Global and two others have been charged with wire fraud in the first insider trading case involving cryptocurrency, U.S. prosecutors in Manhattan said on Thursday… [+1931 chars]"
+            "author": "Andy Rose",
+            "title": "Special board meeting to consider firing Uvalde schools police chief Pete Arredondo is canceled - CNN",
+            "description": "A special school board meeting scheduled for Saturday morning in Uvalde, Texas, to consider whether to terminate the employment of the district's police chief is canceled, the district announced Friday.",
+            "url": "https://www.cnn.com/2022/07/22/us/uvalde-arredondo-board-meeting-canceled/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220722125932-arredondo-0524-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-07-22T20:42:00Z",
+            "content": "A special school board meeting scheduled for Saturday morning in Uvalde, Texas, to consider whether to terminate the employment of the districts police chief is canceled, the district announced Frida… [+2413 chars]"
         },
         {
             "source": {
@@ -151,116 +216,51 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Japan government approves state funeral date for Abe, plan sparks protests - Reuters",
-            "description": "The Japanese government said on Friday it would hold a state funeral for former Prime Minister Shinzo Abe on Sept. 27, amid street and social media protests that the state shouldn't fund ceremonies for Japan's longest-serving, but divisive, premier.",
-            "url": "https://www.reuters.com/world/asia-pacific/japan-decides-hold-ex-pm-abes-state-funeral-sept-27-source-2022-07-22/",
-            "urlToImage": "https://www.reuters.com/resizer/UYdyDOrEiO6326KmWXC1byqTZ3o=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OCX53QCKQJORRP3ATFXD54HTKU.jpg",
-            "publishedAt": "2022-07-22T03:01:00Z",
-            "content": "TOKYO, July 22 (Reuters) - The Japanese government said on Friday it would hold a state funeral for former Prime Minister Shinzo Abe on Sept. 27, amid street and social media protests that the state … [+2632 chars]"
+            "title": "Wall Street closes lower as ad tech, social media stocks drop - Reuters",
+            "description": "U.S. stocks ended lower on Friday as disappointing earnings from Snap spooked investors and shares in social media and ad tech firms dropped, offsetting gains from card issuer American Express following an upbeat forecast.",
+            "url": "https://www.reuters.com/markets/us/sp-500-nasdaq-futures-fall-social-media-stocks-lead-declines-2022-07-22/",
+            "urlToImage": "https://www.reuters.com/resizer/vNSQrnO1It0a3a083wlnkfamsPo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6YQ2DCD6YBMP3PBB3EZVUS6NNQ.jpg",
+            "publishedAt": "2022-07-22T20:39:00Z",
+            "content": "July 22 (Reuters) - U.S. stocks ended lower on Friday as disappointing earnings from Snap spooked investors and shares in social media and ad tech firms dropped, offsetting gains from card issuer Ame… [+3597 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "KOMO News"
-            },
-            "author": "Holly Menino, KOMO News anchor/reporter",
-            "title": "New research takes closer look at highly transmissible omicron subvariant - KOMO News",
-            "description": "A new study led by researchers at the University of Washington is examining the highly-transmissible BA.5 omicron subvariant.",
-            "url": "https://komonews.com/news/coronavirus/new-research-takes-closer-look-at-high-transmissible-omicron-subvariant",
-            "urlToImage": "https://komonews.com/resources/media/c9a9ccf2-cf01-46aa-ab59-17ffd4a0e16c-large16x9_thumb_82995.png?1658457458407",
-            "publishedAt": "2022-07-22T02:50:45Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Natasha Bertrand and Jim Sciutto, CNN",
-            "title": "Russia's Ukraine war effort running 'out of steam' as Putin's ability to spy in Europe cut in half, MI6 chief says - CNN",
-            "description": "The chief of Britain's foreign intelligence service believes that Russia is losing steam in its invasion of Ukraine, and has lost its ability to spy in Europe \"by half\" following the expulsion of more than 400 Russian intelligence officers from cities across …",
-            "url": "https://www.cnn.com/2022/07/21/politics/mi6-chief-russia-spying/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220721123439-mi6-chief-richard-moore-file-restricted-super-tease.jpg",
-            "publishedAt": "2022-07-22T02:42:00Z",
-            "content": "Aspen (CNN)The chief of Britain's foreign intelligence service believes that Russia is losing steam in its invasion of Ukraine, and has lost its ability to spy in Europe \"by half\" following the expul… [+4033 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "The Last of Us Part I Remake - Official PS5 Features and Gameplay Trailer - IGN",
-            "description": "Join the Game Directors of The Last of Us Part I for a deep dive into how the team went in and rebuilt the game from the ground up, including Dualsense integ...",
-            "url": "https://www.youtube.com/watch?v=omqOwpR-Kds",
-            "urlToImage": "https://i.ytimg.com/vi/omqOwpR-Kds/hqdefault.jpg",
-            "publishedAt": "2022-07-22T02:18:16Z",
-            "content": null
+            "title": "World Court says it has jurisdiction, Myanmar genocide case to proceed - Reuters",
+            "description": "The World Court on Friday rejected Myanmar's objections to a genocide case over its treatment of the Muslim Rohingya minority, paving the way for the case to be heard in full.",
+            "url": "https://www.reuters.com/world/asia-pacific/world-court-rule-whether-myanmar-genocide-case-can-proceed-2022-07-22/",
+            "urlToImage": "https://www.reuters.com/resizer/nlThobycV2foAFr5KGtiX-UQao0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6IZDFGMRNBPYPIX42HS7IUYLIE.jpg",
+            "publishedAt": "2022-07-22T20:30:00Z",
+            "content": "THE HAGUE, July 22 (Reuters) - The World Court on Friday rejected Myanmar's objections to a genocide case over its treatment of the Muslim Rohingya minority, paving the way for the case to be heard i… [+3436 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Page Six"
+                "name": "wwe.com"
             },
-            "author": "Bernie Zilio",
-            "title": "Jennifer Lopez, Ben Affleck honeymoon in Paris following Las Vegas wedding - Page Six",
-            "description": "This marks the couple’s first international trip as husband and wife after secretly tying the knot in Las Vegas over the weekend.",
-            "url": "https://pagesix.com/2022/07/21/jennifer-lopez-ben-affleck-honeymoon-in-paris-after-vegas-wedding/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/07/jen-and-ben-index.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2022-07-22T01:50:00Z",
-            "content": "Ben Affleck and Jennifer Lopez have taken their first international trip as Mr. and Mrs.\r\nThe newlyweds were photographed honeymooning in Paris, France, on Thursday, just days after tying the knot in… [+2454 chars]"
+            "author": null,
+            "title": "VINCE MCMAHON RETIRES – World Wrestling Entertainment Inc. - WWE Corporate",
+            "description": "WWE corporate information, the recognized leader in global sports-entertainment.",
+            "url": "https://corporate.wwe.com/news/company-news/2022/07-22-2022a",
+            "urlToImage": "https://corporate.wwe.com/~/media/Images/W/WWE/logo/logo-black.jpg",
+            "publishedAt": "2022-07-22T20:16:35Z",
+            "content": "STAMFORD, Conn., July 22, 2022 Vince McMahon today released the following statement:\r\n“As I approach 77 years old, I feel it’s time for me to retire as Chairman and CEO of WWE. Throughout the years, … [+6720 chars]"
         },
         {
             "source": {
-                "id": "ign",
-                "name": "IGN"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Alex Stedman",
-            "title": "Dungeons & Dragons: Honor Among Thieves - All the Easter Eggs in the New Trailer - Comic-Con 2022 - IGN - IGN",
-            "description": "The first trailer for Dungeons & Dragons is crammed with creatures and spells that fans know and love. From Owlbears and Mimics to Magic Missiles and Witch Bolts, we break down all the geek-worthy Easter eggs in this footage.",
-            "url": "https://www.ign.com/articles/dungeons-dragons-honor-among-thieves-trailer-easter-eggs",
-            "urlToImage": "https://assets-prd.ignimgs.com/2022/07/22/sdcc2022-news-dndhonoramongthieves-blogroll-5-1658450919341.jpg?width=1280",
-            "publishedAt": "2022-07-22T01:29:32Z",
-            "content": "San Diego Comic-Con is just getting underway, but already Paramount dropped the first trailer for Dungeons &amp; Dragons: Honor Among Thieves. This new live-action movie looks to be delving deep into… [+2304 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Samantha Lock, Martin Belam",
-            "title": "Russia-Ukraine war: what we know on day 149 of the invasion - The Guardian",
-            "description": "Russia and Ukraine expected to sign deal on Friday to resume Black Sea grain exports; Google banned in occupied Donetsk for allegedly promoting ‘terrorism and violence against all Russians’",
-            "url": "https://amp.theguardian.com/world/2022/jul/22/russia-ukraine-war-what-we-know-on-day-149-of-the-invasion",
-            "urlToImage": "https://i.guim.co.uk/img/media/2f69732d31a3bc7e00548f4cd8494390e7553601/0_91_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ecc63f390b96d421f165184d1af1f6d",
-            "publishedAt": "2022-07-22T01:19:00Z",
-            "content": "Ukraine, Russia, Turkey and the UN secretary general, António Guterres, will sign a deal later today to resume Ukraines Black Sea grain exports, the Turkish presidents office has said. On Thursday ni… [+366 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jason Morris, Preston Fore, Celeste Noraian and Dan Berman, CNN",
-            "title": "Judge criticizes Atlanta DA who hosted fundraiser for opponent of Trump grand jury target: 'What were you thinking?' - CNN",
-            "description": "An Atlanta judge says he will ensure a report from the special grand jury investigating former President Donald Trump's efforts to overturn the 2020 presidential election in Georgia won't be an \"October surprise.\"",
-            "url": "https://www.cnn.com/2022/07/21/politics/georgia-fani-willis-trump-election-october-surprise/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220204080304-trump-fani-willis-split-super-tease.jpg",
-            "publishedAt": "2022-07-22T01:19:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Saroj Pathirana",
-            "title": "Military raids Sri Lanka protest camps, leaders arrested - Al Jazeera English",
-            "description": "Protesters accuse soldiers of ‘brutal’ assaults, as security forces descend on sites in early hours of Friday morning.",
-            "url": "https://www.aljazeera.com/news/2022/7/22/military-raids-sri-lanka-protest-camps-leaders-arrested",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/000_32F63HD.jpg?resize=1200%2C630",
-            "publishedAt": "2022-07-22T00:29:46Z",
-            "content": "Colombo, Sri Lanka The military in Sri Lanka has taken control of the presidential secretariat in Colombo, after what members of the countrys months-long protest movement described as a brutal assaul… [+6679 chars]"
+            "author": "Alexander Tin",
+            "title": "U.S. confirms first two cases of monkeypox in children — one case is in California - CBS News",
+            "description": "One case is in an infant who is a California resident and another is in a toddler who is not a U.S. resident, the CDC said.",
+            "url": "https://www.cbsnews.com/news/monkeypox-children-first-cases-u-s-california/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/07/22/55f52a87-b80e-4a7b-bfc0-b191e55023f0/thumbnail/1200x630/ac6429d66408693bcedf7e81fe2da2b8/download.jpg",
+            "publishedAt": "2022-07-22T18:27:00Z",
+            "content": "Health officials have confirmed the first two U.S. cases of monkeypox in children, the Centers for Disease Control and Prevention announced Friday. \r\nBoth cases are \"likely the result of household tr… [+4559 chars]"
         }
     ]
 }
