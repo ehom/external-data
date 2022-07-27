@@ -4,107 +4,42 @@
     "articles": [
         {
             "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
+                "id": null,
+                "name": "Eurosport.fr"
             },
-            "author": "Solène L'Hénoret",
-            "title": "Guerre en Ukraine, en direct : les Vingt-Sept s'accordent sur un plan de réduction de la consommation de gaz de l'Union européenne - Le Monde",
-            "description": "Le groupe gazier russe Gazprom a annoncé qu’il réduirait de façon draconienne, dès mercredi, les livraisons de gaz à l’Europe via le gazoduc Nord Stream 1, arguant de la nécessité d’opérations de maintenance d’une turbine.",
-            "url": "https://www.lemonde.fr/international/live/2022/07/26/guerre-en-ukraine-en-direct-les-vingt-sept-reunis-a-bruxelles-pour-s-accorder-sur-un-plan-de-reduction-de-la-consommation-de-gaz-de-l-union-europeenne_6136139_3210.html",
-            "urlToImage": "https://img.lemde.fr/2022/07/26/505/0/5364/2682/1440/720/60/0/dbc8d60_077717e0b9f04eeebc278de4b7e5237e-077717e0b9f04eeebc278de4b7e5237e-0.jpg",
-            "publishedAt": "2022-07-26T10:07:30Z",
-            "content": "Live animé par Solène L'Hénoret \r\nLes contributions à ce direct sont ouvertes de 9 heures à 21 heures.\r\n<ul><li>Gazprom annonce une nouvelle réduction draconienne des livraisons de gaz à lEurope. Le … [+3959 chars]"
+            "author": "Vincent Roussel",
+            "title": "Euro féminin 2022 - Après Angleterre-Suède : le bonheur est à une marche, tout un peuple en folie - Eurosport FR",
+            "description": "EURO 2022 - L'Angleterre, qui est bien en finale sur son sol, a fait vibrer toute une nation, après son récital face à la Suède (4-0).",
+            "url": "https://www.eurosport.fr/football/euro-2022/2022/euro-feminin-2022-apres-angleterre-suede-le-bonheur-est-a-une-marche-tout-un-peuple-en-folie_sto9062062/story.shtml",
+            "urlToImage": "https://i.eurosport.com/2022/07/26/3423059-69846348-2560-1440.jpg",
+            "publishedAt": "2022-07-26T22:17:00Z",
+            "content": "A l'image de la gardienne Mary Earps après la victoire face à la Suède (4-0), l'euphorie gagne toute l'Angleterre à mesure que le titre se rapproche\r\nCrédit: Getty Images"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "Rédaction",
+            "title": "Transferts : Gianluca Scamacca quitte Sassuolo et rejoint West Ham - L'Équipe",
+            "description": "Ciblé par le conseiller foot du PSG Luis Campos, Gianluca Scamacca (Sassuolo) s'est engagé ce mardi avec West Ham. L'attaquant italien a signé un contrat de cinq ans.",
+            "url": "https://www.lequipe.fr/Football/Actualites/Transferts-gianluca-scamacca-quitte-sassuolo-et-rejoint-west-ham/1345554",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/gianluca-scamacca-quitte-sassuolo-club-qu-il-avait-rejoint-en-2017-paolo-bona-ipp-presse-sports/1500000001669239/0:0,1934:1289-640-427-75/94850.jpg",
+            "publishedAt": "2022-07-26T22:10:18Z",
+            "content": "Un temps priorité du PSG et de son nouveau conseiller foot, Luis Campos, Gianluca Scamacca (23 ans) va continuer sa carrière en Angleterre. West Ham a annoncé ce mardi soir l'arrivée du buteur en pro… [+19 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Midi Libre"
+                "name": "Francetvinfo.fr"
             },
-            "author": "midi libre",
-            "title": "Myocardite et vaccins anti-Covid : le risque existe mais reste faible avec Pfizer et Moderna, selon l'ANSM - Midi Libre",
-            "description": "Dans le cadre du dispositif de surveillance renforcée des vaccins contre le Covid-19, EPI-PHARE (groupement d’intérêt scientifique ANSM-Cnam) a conduit une nouvelle étude de pharmaco-épidémiologie sur le risque de myocardite après une vaccination par un vacci…",
-            "url": "https://www.midilibre.fr/2022/07/26/myocardite-et-vaccins-anti-covid-le-risque-existe-mais-reste-faible-avec-pfizer-et-moderna-selon-lansm-10456741.php",
-            "urlToImage": "https://images.midilibre.fr/api/v1/images/view/62dfaf66193daf7e666d3434/large/image.jpg?v=1",
-            "publishedAt": "2022-07-26T09:31:00Z",
-            "content": "Dans le cadre du dispositif de surveillance renforcée des vaccins contre le Covid-19, EPI-PHARE (groupement d’intérêt scientifique ANSM-Cnam) a conduit une nouvelle étude de pharmaco-épidémiologie su… [+2626 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Bombardements russes «massifs» dans le sud de l'Ukraine - Le Figaro",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL2ZsYXNoLWFjdHUvYm9tYmFyZGVtZW50cy1ydXNzZXMtbWFzc2lmcy1kYW5zLWxlLXN1ZC1kZS1sLXVrcmFpbmUtMjAyMjA3MjbSAWFodHRwczovL2FtcC5sZWZpZ2Fyby5mci9mbGFzaC1hY3R1L2JvbWJhcmRlbWVudHMtcnVzc2VzLW1hc3NpZnMtZGFucy1sZS1zdWQtZGUtbC11a3JhaW5lLTIwMjIwNzI2?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-07-26T09:21:55Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SO FOOT"
-            },
-            "author": "",
-            "title": "Amazon augmente de 40% le prix de l'abonnement annuel à Prime Vidéo - SO FOOT",
-            "description": "Même le prix de l'essence n'aurait pas osé augmenter à ce point d'un coup. Après avoir fait un pas en avant vers le consommateur en proposant ...",
-            "url": "https://www.sofoot.com/amazon-augmente-de-40-le-prix-de-l-abonnement-annuel-a-prime-video-516996.html",
-            "urlToImage": "https://www.sofoot.com/IMG/img-amazon-augmente-de-40-le-prix-de-l-abonnement-annuel-a-prime-video-1658825806_x600_articles-516996.jpg",
-            "publishedAt": "2022-07-26T09:00:00Z",
-            "content": "Même le prix de l'essence n'aurait pas osé augmenter à ce point d'un coup.Après avoir fait un pas en avant vers le consommateur en proposant un pass saison à 89, Amazon vient de reculer de deux cases… [+703 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Le HuffPost"
-            },
-            "author": "Grégory Rozières",
-            "title": "Pourquoi les projections sur les vagues de Covid sont de plus en plus compliquées - Le HuffPost",
-            "description": "Si l'immunité liée au vaccin et aux infections naturelles a grandement diminué le risque de forme grave, le suivi du coronavirus s'en trouve perturbé.",
-            "url": "https://www.huffingtonpost.fr/entry/pourquoi-les-projections-sur-les-vagues-de-covid-sont-de-plus-en-plus-compliquees_fr_62de64cee4b000da2402030d",
-            "urlToImage": "https://img.huffingtonpost.com/asset/62dfaaea25000090af3311cb.jpg?ops=1200_630",
-            "publishedAt": "2022-07-26T08:53:34Z",
-            "content": "SCIENCE - Démarrée début juin, on peut dire ce mardi 26 juillet que la 7e vague de Covid-19 en France a atteint son pic. Du côté des cas positifs comme des hospitalisations, les indicateurs sont à la… [+8680 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Paris Match"
-            },
-            "author": null,
-            "title": "De Sephora à Micromania, la journée de Jennifer Lopez et Ben Affleck à Paris - Paris Match",
-            "description": "L'escapade parisienne de Jennifer Lopez et Ben Affleck se poursuit.",
-            "url": "https://www.parismatch.com/People/De-Sephora-a-Micromania-la-journee-de-Jennifer-Lopez-et-Ben-Affleck-a-Paris-1819064",
-            "urlToImage": "https://resize-parismatch.lanmedia.fr/var/pm/public/media/image/2022/07/26/09/de-sephora-a-micromania-la-journee-de-jennifer-lopez-et-ben-affleck-a-paris.jpg?VersionId=k2JZqBumIkTLpDYjNqex_4JBhKPq2pPI",
-            "publishedAt": "2022-07-26T08:30:00Z",
-            "content": "Ils ressemblent presque à monsieur et madame Tout-le-monde ! Jennifer Lopez et Ben Affleck poursuivent leur escapade parisienne, accompagnés de leurs enfants respectifs. Suivis à la trace par les pap… [+1413 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Le Progrès"
-            },
-            "author": "L.L.",
-            "title": "Vie quotidienne. Hausses du Livret A, du Smic… Ce qui change à partir du 1er août - Le Progrès",
-            "description": "Qui dit août dit revalorisation automatique du Smic et du taux de rémunération du Livret A, mais ce ne sont pas les deux seuls changements à survenir dans le quotidien des Français ce mois-ci. On fait le point.",
-            "url": "https://www.leprogres.fr/magazine-lifestyle/2022/07/25/hausses-du-livret-a-du-smic-ce-qui-change-a-partir-du-1er-aout",
-            "urlToImage": "https://cdn-s-www.leprogres.fr/images/13E123F9-CFFE-4177-A2B9-407EDB62E237/FB1200/photo-1658329987.jpg",
-            "publishedAt": "2022-07-26T08:05:43Z",
-            "content": "On fait le point sur les principales modifications qui entrent en vigueur dès lundi prochain.\r\nLe taux du Livret A passe à 2 %...\r\nAprès une hausse historique au 1er février, le taux de rémunération … [+3872 chars]"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Le Monde avec AFP",
-            "title": "JO 2024 : le programme et la billetterie détaillés - Le Monde",
-            "description": "Treize millions de billets seront proposés, parmi lesquels 400 000 seront achetés par l’Etat et distribués « aux jeunes et scolaires, surtout [aux] moins de 16 ans », a annoncé Emmanuel Macron.",
-            "url": "https://www.lemonde.fr/sport/article/2022/07/25/jo-2024-le-programme-et-la-billetterie-detailles_6136117_3242.html",
-            "urlToImage": "https://img.lemde.fr/2022/07/22/43/0/4000/2666/1440/960/60/0/d19021a_5770325-01-06.jpg",
-            "publishedAt": "2022-07-26T07:43:08Z",
-            "content": "Le président du comité dorganisation des Jeux olympiques qui se tiendront à Paris en 2024, Tony Estanguet, le 13 avril 2022, à Saint-Denis (Seine-Saint-Denis). FRANCK FIFE / AFP\r\nDeux ans avant le dé… [+5607 chars]"
+            "author": "franceinfo",
+            "title": "Incendies dans l'Hérault : près de 1 000 hectares détruits par les feux, 280 personnes évacuées, cinq pompi... - franceinfo",
+            "description": "Le parquet de Montpellier, qui ouvre une enquête judiciaire, privilégie la piste criminelle en raison de la proximité des départs de feu.",
+            "url": "https://www.francetvinfo.fr/faits-divers/incendie/incendies-dans-l-herault-environ-700-hectares-detruits-par-les-feux-deux-pompiers-legerement-blesses_5278996.html",
+            "urlToImage": "https://www.francetvinfo.fr/image/7619u7rws-ee94/1500/843/28448698.jpg",
+            "publishedAt": "2022-07-26T22:04:55Z",
+            "content": "Retrouvez ici l'intégralité de notre live #INCENDIES\r\n00h04 : Il est minuit. Voici les principaux titres de l'actualité :\r\nPrès de 1 000 hectares ont brûlé dans l'incendie des communes de Saint-Bauzi… [+5952 chars]"
         },
         {
             "source": {
@@ -112,129 +47,64 @@
                 "name": "Francetvinfo.fr"
             },
             "author": null,
-            "title": "Remise de 20 centimes de Total : un risque de \"perte d'emplois\" pour les concurrents, selon le représentant de - franceinfo",
-            "description": "Selon Francis Pousse, \"aujourd'hui le réseau en France est organisé de telle façon qu'il n'y a que Total qui puisse faire cette remise\", car la marque française \"maîtrise toute la chaîne, importe du pétrole, raffine du pétrole, distribue du pétrole\".",
-            "url": "https://www.francetvinfo.fr/economie/transports/prix-des-carburants/remise-de-20-centimes-de-total-un-risque-de-perte-d-emplois-pour-les-concurrents-selon-le-representant-de-5-800-stations_5278240.html",
-            "urlToImage": "https://www.francetvinfo.fr/pictures/XEqgp7iNNZ3hKkwSqfJ1kIzxW_4/1500x843/2022/07/26/phpwAmIZZ.jpg",
-            "publishedAt": "2022-07-26T07:33:44Z",
-            "content": "Selon Francis Pousse, \"aujourd'hui le réseau en France est organisé de telle façon qu'il n'y a que Total qui puisse faire cette remise\", car la marque française \"maîtrise toute la chaîne, importe du … [+3512 chars]"
+            "title": "Assurance chômage : Olivier Dussopt veut \"durcir\" les règles d'indemnisation lorsque l'économie va bien - franceinfo",
+            "description": "A la veille de la publication des chiffres de Pôle Emploi, le ministre du Travail assure que les règles d'indemnisation du chômage \"doivent tenir compte de la situation du marché de l’emploi\".",
+            "url": "https://www.francetvinfo.fr/economie/emploi/chomage/assurance-chomage-olivier-dussopt-veut-durcir-les-regles-d-indemnisation-lorsque-l-economie-va-bien_5279122.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/DpyBzvWoE54Yq1Ohmbyvwz9MXy8/1500x843/2022/07/26/phpj0rl4G.jpg",
+            "publishedAt": "2022-07-26T20:33:30Z",
+            "content": "A la veille de la publication des chiffres de Pôle Emploi, le ministre du Travail assure que les règles d'indemnisation du chômage \"doivent tenir compte de la situation du marché de lemploi\".Le minis… [+2131 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "L'Indépendant"
+                "name": "20 Minutes"
             },
-            "author": "Hugo Martin",
-            "title": "Sobriété énergétique : limiter la climatisation, covoiturage... ces mesures imposées par Elisabeth Borne à ses - L'Indépendant",
-            "description": "Ces mesures de sobriété énergétique sont demandées \"par souci d'exemplarité et d'acceptabilité des efforts qui sont demandés à la société dans son ensemble\".",
-            "url": "https://www.lindependant.fr/2022/07/26/sobriete-energetique-limiter-la-climatisation-covoiturage-ces-mesures-imposees-par-elisabeth-borne-a-ses-ministres-pour-donner-lexemple-10456667.php",
-            "urlToImage": "https://images.lindependant.fr/api/v1/images/view/62df94e5d571311c15504806/large/image.jpg?v=1",
-            "publishedAt": "2022-07-26T07:22:00Z",
-            "content": "Ces mesures de sobriété énergétique sont demandées \"par souci d'exemplarité et d'acceptabilité des efforts qui sont demandés à la société dans son ensemble\". \r\n La Première ministre souhaite que son … [+1043 chars]"
+            "author": "Camille Allain",
+            "title": "Ille-et-Vilaine : « Un acte débile »… Trois jeunes jugés pour avoir démarré un incendie - 20 Minutes",
+            "description": "Des témoins avaient alerté les pompiers qui ont permis de limiter les dégâts de cet incendie allumé à Saint-Aubin-d'Aubigné",
+            "url": "https://www.20minutes.fr/societe/3330503-20220726-ille-vilaine-acte-debile-trois-jeunes-juges-avoir-allume-feu-champ",
+            "urlToImage": "https://img.20mn.fr/K23ROdLaR5q1VhIOfqOh4ik/1200x768_liffre-pres-rennes-important-incendie-declenche-16-mai-foret-brulant-25-hectares",
+            "publishedAt": "2022-07-26T20:22:26Z",
+            "content": "Ils n’étaient pas très loquaces. A la barre du tribunal correctionnel de Rennes, trois jeunes âgés d’une vingtaine d’années étaient jugés pour avoir provoqué un début d’incendie à Saint-Aubin d’Aubig… [+4637 chars]"
         },
         {
             "source": {
                 "id": "le-monde",
                 "name": "Le Monde"
             },
-            "author": "Le Monde avec AFP",
-            "title": "Paul Sorvino, acteur des « Affranchis » et de « Nixon », est mort - Le Monde",
-            "description": "L’acteur américain, père de l’actrice Mira Sorvino, s’était également illustré dans la série télévisée « New York, police judiciaire » où il interprétait un policier.",
-            "url": "https://www.lemonde.fr/disparitions/article/2022/07/26/paul-sorvino-acteur-des-affranchis-et-de-nixon-est-mort_6136151_3382.html",
-            "urlToImage": "https://img.lemde.fr/2022/07/25/67/0/1689/1126/1440/960/60/0/09fc394_a48ae19a1b04428381a791ea1392e50e-a48ae19a1b04428381a791ea1392e50e-0.jpg",
-            "publishedAt": "2022-07-26T07:16:09Z",
-            "content": "Paul Sorvino, le 20 janvier 2018, à Beverly Hills, en Californie. RICHARD SHOTWELL / RICHARD SHOTWELL/INVISION/AP\r\nLacteur américain Paul Sorvino, célèbre pour son rôle dans le film de gangsters Les … [+1821 chars]"
+            "author": "Solène L'Hénoret, Anna Villechenon et Sandra Favier",
+            "title": "Guerre en Ukraine en direct : Washington juge « regrettable » le retrait de la Russie de l'ISS - Le Monde",
+            "description": "La NASA n’a pas reçu de notification « officielle » de la volonté des Russes de quitter la Station spatiale internationale. Le nouveau patron de l’agence spatiale russe Roscosmos a annoncé mardi que la Russie arrêterait de participer au programme « après 2024…",
+            "url": "https://www.lemonde.fr/international/live/2022/07/26/guerre-en-ukraine-en-direct-les-etats-membres-de-l-ue-d-accord-pour-reduire-leur-consommation-de-gaz_6136139_3210.html",
+            "urlToImage": "https://img.lemde.fr/2022/07/26/391/0/4600/2300/1440/720/60/0/20093dc_5801361-01-06.jpg",
+            "publishedAt": "2022-07-26T20:07:08Z",
+            "content": "Les ministres de lénergie des 27 Etats membres de lUnion européenne (UE), réunis à Bruxelles, se sont accordés mardi pour réduire leur consommation de gaz de façon coordonnée et voler ainsi au secour… [+2100 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "LaDepeche.fr"
+                "name": "Foot Mercato"
             },
-            "author": "Lucas Serdic",
-            "title": "Incendies : Airbus équipe son A400M d'un kit spécial pour le transformer en bombardier d'eau - LaDepeche.fr",
-            "description": "Airbus a réalisé des tests concluants, la semaine dernière, pour valider l'installation d'un kit spécial sur son avion militaire A400M lui permettant de se transformer en bombardier d'eau pour lutter contre les incendies. L'entreprise a encore des tests à eff…",
-            "url": "https://www.ladepeche.fr/2022/07/26/incendies-airbus-equipe-son-a400m-dun-kit-special-pour-le-transformer-en-bombardier-deau-10456628.php",
-            "urlToImage": "https://images.ladepeche.fr/api/v1/images/view/62df9430d571311c15504804/large/image.jpg?v=1",
-            "publishedAt": "2022-07-26T07:15:00Z",
-            "content": "l'essentiel\r\n Airbus a réalisé des tests concluants, la semaine dernière, pour valider l'installation d'un kit spécial sur son avion militaire A400M lui permettant de se transformer en bombardier d'e… [+3233 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Le HuffPost"
-            },
-            "author": "Marie Terrier",
-            "title": "En Californie, le mégafeu \"Oak Fire\" est hors de contrôle - Le HuffPost",
-            "description": "L'incendie a détruit 70 kilomètres carrés de forêt près du parc de Yosemite, où se trouvent les séquoias géants. C'est le plus gros feu de forêt californien de la saison.",
-            "url": "https://www.huffingtonpost.fr/entry/en-californie-le-megafeu-oak-fire-est-hors-de-controle_fr_62df8196e4b06e213fc2c256",
-            "urlToImage": "https://img.huffingtonpost.com/asset/62dfb63d210000a8b35f0d67.png?ops=1200_630",
-            "publishedAt": "2022-07-26T06:36:28Z",
-            "content": "ÉTATS-UNIS - 2.500 pompiers, près de 300 camions, 17 hélicoptères... Les forces étaient encore nombreuses lundi 25 juillet pour combattre les flammes d’un incendie “explosif” qui continuait de se pro… [+5073 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports.fr"
-            },
-            "author": "François Kulawik",
-            "title": "Dopage: L'aveu de Christophe Laporte - Sports.fr",
-            "description": "<strong>Seul vainqueur d’étape français lors du Tour de France, Christophe Laporte a réagi aux suspicions qui pèsent sur la formation Jumbo-Visma, qu’il a rejointe l’hiver dernier.</strong>",
-            "url": "https://www.sports.fr/cyclisme/tour-de-france/dopage-laveu-de-christophe-laporte-610379.html",
-            "urlToImage": "https://sf.sports.fr/wp-content/uploads/2022/07/PANORAMIC_236680_0144.jpg",
-            "publishedAt": "2022-07-26T06:30:00Z",
-            "content": "La domination de la Jumbo-Visma lors du Tour de France na pas fini de faire parler. Le sacre de Jonas Vingegaard et lincroyable récital de Wout van Aert durant les trois semaines de course ont en eff… [+2461 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Policiers agressés à Lyon. « Je ne regrette rien », déclare Gérald Darmanin, après la polémique - Ouest-France éditions locales",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMitQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcG9saXRpcXVlL2dlcmFsZC1kYXJtYW5pbi9wb2xpY2llcnMtYWdyZXNzZXMtYS1seW9uLWplLW5lLXJlZ3JldHRlLWEtcmllbi1kZWNsYXJlLWdlcmFsZC1kYXJtYW5pbi1hcHJlcy1sYS1wb2xlbWlxdWUtMjk2NzRhNTItMGNhNS0xMWVkLWFkYzAtMGQyMTUzMDczMWM40gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-07-26T06:18:11Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BFMTV"
-            },
-            "author": null,
-            "title": "Crèches People&Baby: la colère d'une maman qui doit payer 5.000 euros pour retirer son enfant - RMC",
-            "description": "Après la mort d’un bébé dans une crèche People & Baby à Lyon en juin dernier, et des accusations de maltraitance et de négligence dans plusieurs structures, des parents veulent retirer leur enfant. Au micro de RMC, la maman d’une petite fille dénonce les cond…",
-            "url": "https://rmc.bfmtv.com/actualites/societe/creches-people-baby-la-colere-d-une-maman-qui-doit-payer-5-000-euros-pour-retirer-son-enfant_AV-202207260128.html",
-            "urlToImage": "https://images.bfmtv.com/IbXq9AY3LTT_tK8AF6Ou8agxxww=/0x0:1920x1080/1920x0/images/Creche-People-and-Baby-illustration-1456269.jpg",
-            "publishedAt": "2022-07-26T06:15:00Z",
-            "content": "Après la mort dun bébé dans une crèche People &amp; Baby à Lyon en juin dernier, et des accusations de maltraitance et de négligence dans plusieurs structures, des parents veulent retirer leur enfant… [+3983 chars]"
+            "author": "Josué  Cassé",
+            "title": "Nordi Mukiele, le profil parfait du PSG version Galtier - Foot Mercato",
+            "description": "Troisième recrue estivale du Paris Saint-Germain après les arrivées de Vitinha et Hugo Ekitike, Nordi Mukiele (24 ans) s'offre donc un nouveau challenge à quelques mois de la prochaine Coupe du Monde au Qatar. Priorité de Christophe Galtier pour le secteur dé…",
+            "url": "https://www.footmercato.net/a7494939331558452439-nordi-mukiele-le-profil-parfait-du-psg-version-galtier",
+            "urlToImage": "https://assets-fr.imgfoot.com/media/cache/1200x675/ok-25.jpg",
+            "publishedAt": "2022-07-26T20:04:43Z",
+            "content": "La suite après cette publicité\r\n«Mon objectif pour les prochaines années est de n'avoir que des joueurs parisiens dans notre équipe. Il y a tellement de talents dans notre région», déclarait récemmen… [+4700 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Midi Libre"
             },
-            "author": "Midi Libre",
-            "title": "Sécheresse : la liste des 90 départements placés en état d'alerte où l'usage de l'eau est régulé - Midi Libre",
-            "description": "93 % des départements français sont en état d'alerte pour la sécheresse. Un stress hydrique qui intervient particulièrement tôt dans la saison estivale alors que le mois de juillet n'est pas encore terminé. 90 départements sont sous le coup d'un arrêté préfec…",
-            "url": "https://www.midilibre.fr/2022/07/26/secheresse-la-liste-des-90-departements-places-en-etat-dalerte-ou-lusage-de-leau-est-regule-10456591.php",
-            "urlToImage": "https://images.midilibre.fr/api/v1/images/view/62df7f3a0f2f2950d52de0d8/large/image.jpg?v=1",
-            "publishedAt": "2022-07-26T06:01:00Z",
-            "content": "93 % des départements français sont en état d'alerte pour la sécheresse. Un stress hydrique qui intervient particulièrement tôt dans la saison estivale alors que le mois de juillet n'est pas encore t… [+3046 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Francetvinfo.fr"
-            },
-            "author": null,
-            "title": "Pouvoir d'achat : 230 millions d'aide d'urgence pour le chauffage au fioul, le nouveau revers pour la majorité - franceinfo",
-            "description": "Dans la nuit de lundi à mardi, les oppositions se sont alliées pour voter un amendement LR sur le fioul : une enveloppe de 230 millions d'euros de soutien aux foyers les plus modestes contre les 50 millions voulus par l'éxecutif.",
-            "url": "https://www.francetvinfo.fr/economie/transports/prix-des-carburants/pouvoir-d-achat-230-millions-d-aide-d-urgence-pour-le-chauffage-au-fioul-le-nouveau-revers-pour-la-majorite-a-l-assemblee_5278186.html",
-            "urlToImage": "https://www.francetvinfo.fr/pictures/sSQer-MdbFL369kQc20qmkd9UII/1500x843/2022/07/25/phpgBtJDY.jpg",
-            "publishedAt": "2022-07-26T05:21:27Z",
-            "content": "Dans la nuit de lundi à mardi, les oppositions se sont alliées pour voter un amendement LR sur le fioul : une enveloppe de 230 millions d'euros de soutien aux foyers les plus modestes contre les 50 m… [+1983 chars]"
+            "author": "Corine Sabouraud",
+            "title": "Obsèques de Dani : des larmes et des milliers de roses pour le dernier hommage à l'artiste perpignanaise - Midi Libre",
+            "description": "Porté dans un silence profondément recueilli, le cercueil de l’artiste drapé d’un linceul de dentelle blanc, est sorti ce mercredi 26 juillet, de la cathédrale Saint Jean-Baptiste de Perpignan, sous un tonnerre d’applaudissements.",
+            "url": "https://www.midilibre.fr/2022/07/26/obseques-de-dani-des-larmes-et-des-milliers-de-roses-pour-le-dernier-hommage-a-lartiste-perpignanaise-10457665.php",
+            "urlToImage": "https://images.midilibre.fr/api/v1/images/view/62e0403f1844a32e5751a666/large/image.jpg?v=1",
+            "publishedAt": "2022-07-26T19:58:00Z",
+            "content": "Porté dans un silence profondément recueilli, le cercueil de l’artiste drapé d’un linceul de dentelle blanc, est sorti ce mercredi 26 juillet, de la cathédrale Saint Jean-Baptiste de Perpignan, sous … [+3516 chars]"
         },
         {
             "source": {
@@ -242,25 +112,155 @@
                 "name": "Ouest-France"
             },
             "author": "avec AFP.",
-            "title": "Mystérieuses hépatites chez des enfants. Deux nouvelles études avancent une explication - Ouest-France",
-            "description": "Deux études éclairent sur les mystérieuses hépatites apparues chez les enfants. Plutôt que le Covid-19, une co-infection de deux virus serait responsable de ces inflammations du foie.",
-            "url": "https://www.ouest-france.fr/sante/mysterieuses-hepatites-chez-des-enfants-deux-nouvelles-etudes-avancent-une-explication-685def4a-0ca0-11ed-adc0-0d21530731c8",
-            "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMjA3NjIwOWU1NjQ2NWM5OTVlMDRiNzE2NzA4OWYyZGMwZGI?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=26845b5e033cadd771fb69fadd14d0bf836ee8ab47ee464974369248fcfed457",
-            "publishedAt": "2022-07-26T05:12:55Z",
-            "content": "Deux études scientifiques ont apporté lundi 25 juillet un nouvel éclairage sur de mystérieux cas dhépatites, de graves inflammations du foie, ayant touché de très jeunes enfants dans de nombreux pays… [+2176 chars]"
+            "title": "Royaume-Uni. Une journaliste s'évanouit en plein débat télévisé pour le poste de Premier ministre - Ouest-France",
+            "description": "Alors que Liz Truss et Rishi Sunak, les deux prétendants au poste de Premier ministre au Royaume-Uni, débattaient à la télévision, la modératrice du débat a fait un malaise en plein direct.",
+            "url": "https://www.ouest-france.fr/europe/royaume-uni/royaume-uni-une-journaliste-s-evanouit-en-plein-debat-televise-pour-le-poste-de-premier-ministre-9cbcf7c6-0d14-11ed-adc0-0d21530731c8",
+            "urlToImage": "https://media.ouest-france.fr/v1/pictures/MjAyMjA3YzViMjRmZDk2NmE4ZGZhNDhmNDFkZThhZmI0NmYwNjY?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=c909111f93a3228d78d1fbe61c4646d7222fe6fc7adf24e431c52979348e17e5",
+            "publishedAt": "2022-07-26T19:40:38Z",
+            "content": "Le deuxième débat télévisé entre les candidats pour remplacer Boris Johnson au poste de Premier ministre au Royaume-Uni a été brutalement interrompu en plein direct mardi après que la modératrice du … [+2260 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BFMTV"
+                "name": "Francetvinfo.fr"
             },
             "author": null,
-            "title": "Bordeaux: Aulas, Labrune, Le Graët... qui sont les membres du Comex qui vont trancher le sort des... - RMC Sport",
-            "description": "Le Comité Exécutif de la FFF (Comex) se réunira ce mercredi matin pour statuer sur le cas des Girondins de Bordeaux, qui tentent de sauver leur place en Ligue 2. 14 membres (12 élus et 2 de droit) vont devoir se prononcer après l'avis consultatif du CNOSF, fa…",
-            "url": "https://rmcsport.bfmtv.com/football/ligue-2/bordeaux-qui-sont-les-membres-du-comex-devant-statuer-sur-le-sort-des-girondins_AV-202207260042.html",
-            "urlToImage": "https://images.bfmtv.com/06ruKUsKyrthmBfN-Zr-Flt2Izg=/0x106:2048x1258/images/Aulas-1456193.jpg",
-            "publishedAt": "2022-07-26T05:01:58Z",
-            "content": "Le Comité Exécutif de la FFF (Comex) se réunira ce mercredi matin pour statuer sur le cas des Girondins de Bordeaux, qui tentent de sauver leur place en Ligue 2. 14 membres (12 élus et 2 de droit) vo… [+2563 chars]"
+            "title": "Fusion des chaînes TF1 et M6 : un premier rapport de l'Autorité de la concurrence n'est \"pas favorable\" au pro - franceinfo",
+            "description": "Après cet avis, les deux chaînes ont réaffirmé vouloir maintenir leurs fiançailles, censées leur permettre de peser davantage face aux mastodontes mondiaux du numérique.",
+            "url": "https://www.francetvinfo.fr/economie/medias/tf1/fusion-des-chaines-tf1-et-m6-un-premier-rapport-de-l-autorite-de-la-concurrence-n-est-pas-favorable-au-projet_5279095.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/p1JxJDmAvIhfIUEkghvQL9rj12I/1500x843/2022/07/26/phpmnUYYf.jpg",
+            "publishedAt": "2022-07-26T19:36:55Z",
+            "content": "Après cet avis, les deux chaînes ont réaffirmé vouloir maintenir leurs fiançailles, censées leur permettre de peser davantage face aux mastodontes mondiaux du numérique.Premiers nuages au-dessus du p… [+1902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNEWS.fr"
+            },
+            "author": "Tanguy Hamon",
+            "title": "Policiers blessés à Lyon : le mis en cause interpellé dimanche mis en examen et écroué - CNEWS",
+            "description": "Le suspect interpellé dimanche 24 juillet, dans l'enquête sur l'agression de policiers à Lyon la semaine dernière, a été mis en examen ce mardi pour violences aggravées sur des fonctionnaires de police et placé en détention provisoire, a appris CNEWS de sourc…",
+            "url": "https://www.cnews.fr/france/2022-07-25/policiers-blesses-lyon-un-nouveau-suspect-un-clandestin-de-26-ans-interpelle",
+            "urlToImage": "https://static.cnews.fr/sites/default/files/000_par8078301_62de9d3804d32.jpg",
+            "publishedAt": "2022-07-26T19:23:03Z",
+            "content": "Publié le\r\n26/07/2022 à 19:23 -\r\nMis à jour le\r\n26/07/2022 à 20:26\r\nLe suspect interpellé dimanche 24 juillet, dans l'enquête sur l'agression de policiers à Lyon la semaine dernière, a été mis en exa… [+2794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": null,
+            "title": "Un centre de vaccination contre la variole du singe ouvert à Paris : \"Les rendez-vous sont pris d'assaut\" - franceinfo",
+            "description": "L'Ile-de-France est la région qui compte le plus de cas de contamination au Monkeypox : environ 1 000 cas, pour 1 745 dans toute la France. Un premier centre de vaccin, géré par la mairie de Paris, a ouvert mardi dans la capitale.",
+            "url": "https://www.francetvinfo.fr/sante/maladie/variole-du-singe/un-centre-de-vaccination-contre-la-variole-du-singe-ouvert-a-paris-les-rendez-vous-sont-pris-d-assaut_5278873.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/DUDuzZf-ZtHlFyPNGfwE2qAqHTo/1500x843/2022/07/26/phpCN8UP1.jpg",
+            "publishedAt": "2022-07-26T19:03:33Z",
+            "content": "L'Ile-de-France est la région qui compte le plus de cas de contamination au Monkeypox : environ 1 000 cas, pour 1 745 dans toute la France. Un premier centre de vaccin, géré par la mairie de Paris, a… [+3348 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Virginie Malingre",
+            "title": "Face au « chantage » de Moscou, les Vingt-Sept s'entendent pour réduire de 15 % leur consommation de gaz - Le Monde",
+            "description": "En cas de pénurie, cet objectif deviendrait contraignant. Mais plusieurs pays ont négocié des dérogations.",
+            "url": "https://www.lemonde.fr/economie/article/2022/07/26/face-au-chantage-de-moscou-les-vingt-sept-s-entendent-pour-reduire-de-15-leur-consommation-de-gaz_6136254_3234.html",
+            "urlToImage": "https://img.lemde.fr/2022/07/20/21/0/5240/3493/1440/960/60/0/2bc2fbb_5753859-01-06.jpg",
+            "publishedAt": "2022-07-26T18:56:57Z",
+            "content": "Ursula von der Leyen, la présidente de la Commission européenne, le 20 juillet 2022 à Bruxelles. JOHN THYS / AFP\r\nRester unis face à Vladimir Poutine. Ne pas lui donner la satisfaction dapparaître di… [+3223 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Le HuffPost"
+            },
+            "author": "Margaret Oheneba",
+            "title": "Énième revers pour l'exécutif, l'Assemblée vote une enveloppe pour augmenter les retraites - Le HuffPost",
+            "description": "Les député ont également voté ce mardi le financement par l’État de la renationalisation à 100% d’EDF, une opération à 9,7 milliards d’euros.",
+            "url": "https://www.huffingtonpost.fr/entry/enieme-revers-pour-lexecutif-lassemblee-vote-une-enveloppe-pour-augmenter-les-retraites_fr_62e026b0e4b03dbb991e2359",
+            "urlToImage": "https://img.huffingtonpost.com/asset/62e03401250000779a477086.jpg?cache=yI9sgoiN0M&ops=1200_630",
+            "publishedAt": "2022-07-26T18:43:08Z",
+            "content": "POLITIQUE - Privé de majorité absolue depuis les législatives, le gouvernement a essuyé un nouveau revers, ce mardi 25 juillet à l’Assemblée nationale. Les députés ont voté, contre l’avis de l’exécut… [+3735 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "La «tenue correcte» exigée à l'Assemblée nationale tournée en dérision - Le Figaro",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL3BvbGl0aXF1ZS9sYS10ZW51ZS1jb3JyZWN0ZS1leGlnZWUtYS1sLWFzc2VtYmxlZS1uYXRpb25hbGUtdG91cm5lZS1lbi1kZXJpc2lvbi0yMDIyMDcyNtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-07-26T17:58:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Webgirondins.com"
+            },
+            "author": "WebGirondins",
+            "title": "Le Parisien annonce la probable réintégration des Girondins de Bordeaux en Ligue 2 - WebGirondins",
+            "description": "C'est une information du média Le Parisien publié ce mardi soir.",
+            "url": "https://www.webgirondins.com/actualite-girondins-le-parisien-annonce-la-probable-reintegration-des-girondins-de-bordeaux-en-ligue-2-116599",
+            "urlToImage": "https://www.webgirondins.com/cache/images/_f95b4aad400d4d1ea22cc923e5496b90.jpg",
+            "publishedAt": "2022-07-26T17:32:00Z",
+            "content": "© Iconsport\r\nLe quotidien annonce que le Comex de la FFF va \"vraisemblablement autoriser Bordeaux à démarrer la saison en Ligue 2\".\r\nAinsi, Bordeaux jouerait ce samedi à 19h le premier match de sa sa… [+413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Les Numériques"
+            },
+            "author": "Florian Agez",
+            "title": "Le casque VR Meta Quest 2 voit son prix fortement rehaussé - Les Numériques",
+            "description": "Deux ans après son lancement, le casque VR Quest 2 de Meta (ex-Oculus/Facebook) va bientôt changer de prix, mais pas dans la direction qu'on aurait attendue. C'est en effet une hausse de 100 € qui va s'appliquer aux deux modèles disponibles.",
+            "url": "https://www.lesnumeriques.com/casque-realite-virtuelle/le-casque-vr-meta-quest-2-voit-son-prix-fortement-rehausse-n188539.html",
+            "urlToImage": "https://cdn.lesnumeriques.com/optim/news/18/188539/a8adc0e1-nda-26-07-19h-le-casque-vr-meta-quest-2-voit-son-prix-fortement-rehausse__1200_630__0-101-3136-1747.jpeg",
+            "publishedAt": "2022-07-26T17:00:00Z",
+            "content": "Deux ans après son lancement, le casque VR Quest 2 de Meta (ex-Oculus/Facebook) va bientôt changer de prix, mais pas dans la direction qu'on aurait attendue. C'est en effet une hausse de 100  qui va … [+4033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.tf1.fr"
+            },
+            "author": null,
+            "title": "Ici tout commence du 26 juillet 2022 - Episode 451 - MYTF1",
+            "description": "Entre angoisses et menaces, Greg a la tête sous l’eau. A L'institut, Solal est pris entre deux feux. De leur côté, Antoine et Rose trouvent un compromis concernant le potager.. Retrouvez \"Ici tout commence\", du lundi au vendredi à 18h35 sur TF1. Retrouvez tou…",
+            "url": "https://www.tf1.fr/tf1/ici-tout-commence/videos/ici-tout-commence-du-26-juillet-2022-episode-451-64940323.html",
+            "urlToImage": "https://photos.tf1.fr/1200/720/ici-tout-commence-du-26-juillet-2022-episode-451-64940323-1658823465-f5d1aa-917f1a-0@1x.jpg",
+            "publishedAt": "2022-07-26T16:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "20 Minutes"
+            },
+            "author": "Clément Rodriguez",
+            "title": "« Danse avec les stars » : Billy Crawford, premier candidat à officialiser sa participation à la saison 12 - 20 Minutes",
+            "description": "L’interprète du titre « Trackin » foulera le parquet de l’émission à la rentrée",
+            "url": "https://www.20minutes.fr/arts-stars/television/3330475-20220726-danse-stars-billy-crawford-premier-candidat-officialiser-participation-saison-12",
+            "urlToImage": "https://img.20mn.fr/gQ2x0Jk3QXONYJKGMQDzKCk/1200x768_billy-crawford-cannes-2003",
+            "publishedAt": "2022-07-26T16:04:17Z",
+            "content": "C’est une star des années 2000 qui est la première à officialiser sa participation à la prochaine saison de Danse avec les stars. Sur les réseaux sociaux, TF1 a annoncé que Billy Crawford, âgé aujour… [+2395 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BFM Bourse"
+            },
+            "author": null,
+            "title": "Lvmh : Malgré l'inflation, LVMH voit ses bénéfices s'envoler de 23% sur le premier semestre - BFM Bourse",
+            "description": "(BFM Bourse) - Le leader mondial du luxe est parvenu à dégager un bénéfice de 6,5 milliards d'euros sur les six premiers mois de l'année 2022, soit bien …",
+            "url": "https://www.tradingsat.com/lvmh-FR0000121014/actualites/lvmh-malgre-l-inflation-lvmh-voit-ses-benefices-s-envoler-de-23-sur-le-premier-semestre-1028993.html",
+            "urlToImage": "https://www.tradingsat.com/media/pictures/realsize/news/jp-morgan-reprend-le-suivi-de-lvmh-a-surponderer-674199.jpg",
+            "publishedAt": "2022-07-26T15:49:28Z",
+            "content": "(BFM Bourse) - Le leader mondial du luxe est parvenu à dégager un bénéfice de 6,5 milliards d'euros sur les six premiers mois de l'année 2022, soit bien mieux qu'en 2021.\r\nLVMH, numéro un mondial du … [+2460 chars]"
         }
     ]
 }
