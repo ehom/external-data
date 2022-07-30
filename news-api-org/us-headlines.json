@@ -4,55 +4,237 @@
     "articles": [
         {
             "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Rick Childress, Marisa Iati, Andrea Sachs",
-            "title": "Biden issues disaster declaration as Kentucky flooding kills at least 16 - The Washington Post",
-            "description": "Gov. Andy Beshear (D) said he expected the death toll to more than double.",
-            "url": "https://www.washingtonpost.com/climate-environment/2022/07/29/kentucky-flooding-deaths/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CVI3JIAPNEI63CHIYWG4HW5O4I.jpg&w=1440",
-            "publishedAt": "2022-07-30T00:42:14Z",
-            "content": "Comment on this story\r\nHAZARD, Ky. People brought harrowing stories of survival Friday as they took shelter at a school that had become a refuge for those who lost everything when muddy water rapidly… [+6494 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Kentucky: At least 19 dead in worst Appalachia floods for years - BBC",
+            "description": "Rainfall in the region ahead of the flash floods was \"virtually unprecedented\", state geologist says.",
+            "url": "https://www.bbc.com/news/world-us-canada-62351166",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D885/production/_126092455_gettyimages-1242171586.jpg",
+            "publishedAt": "2022-07-30T08:27:12Z",
+            "content": "Media caption, At least 19 people have died in the Kentucky floods\r\nDevastating flash floods have killed at least 19 people in the Appalachia region of eastern Kentucky - the worst such disaster ther… [+3315 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Britney Spears Book is Done, Delayed Because of Paper Shortage - TMZ",
+            "description": "Britney Spears' tell-all book is finally completed, but there's a major problem in getting it out ... there's a paper shortage.",
+            "url": "https://www.tmz.com/2022/07/30/britney-spears-autobiography-book-paper-shortage-delay/",
+            "urlToImage": "https://imagez.tmz.com/image/24/16by9/2022/07/29/24858db43ce54ee99ab8d1efdd353bcd_xl.jpg",
+            "publishedAt": "2022-07-30T08:00:00Z",
+            "content": "Britney Spears' tell-all is finally completed, sources with direct knowledge tell TMZ, but we've learned there's a delay in releasing it and it all has to do with .... THE SUPPLY SHORTAGE!\r\nSources c… [+1286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Pope Francis: Did the pontiff's apology in Canada go far enough? - BBC",
+            "description": "Pope Francis has faced criticism in Canada that he has not done enough to repair the harms of the past.",
+            "url": "https://www.bbc.com/news/world-us-canada-62353811",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/191D/production/_126092460_gettyimages-1242110396.jpg",
+            "publishedAt": "2022-07-30T07:48:44Z",
+            "content": "By Aleem MaqboolReligion editor, BBC News, Iqaluit \r\nMedia caption, Inuit residential school survivor recalls 'haunting' first night\r\nDuring his trip to Canada, Pope Francis said sorry, he talked abo… [+4683 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Gloria Oladipo",
+            "title": "‘I’m one of the lucky ones’: vaccines scarce as US monkeypox cases rise - The Guardian US",
+            "description": "The US has nearly 5,000 confirmed cases of the virus, but getting vaccinated has not always been straightforward",
+            "url": "https://amp.theguardian.com/us-news/2022/jul/30/us-monkeypox-vaccine-cases-rise",
+            "urlToImage": null,
+            "publishedAt": "2022-07-30T06:04:00Z",
+            "content": "US newsThe US has nearly 5,000 confirmed cases of the virus, but getting vaccinated has not always been straightforward\r\nFor 67-year-old Peter Madero, getting a monkeypox vaccination from the Chelsea… [+3870 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "ESPN"
             },
-            "author": "ESPN staff",
-            "title": "NFL training camp 2022 live - Lamar Jackson looks sharp, first-rounders make positive strides - ESPN",
-            "description": "Young talent on both sides of the ball are starting to make their mark around the league. Check out the top videos and notes from the NFL on Friday.",
-            "url": "https://www.espn.com/nfl/story/_/id/34311772/nfl-training-camp-updates-2022-lamar-jackson-looks-sharp-first-rounders-make-positive-strides",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0729%2Fr1042045_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-07-30T00:32:48Z",
-            "content": "With 2022 NFL training camps getting ready to hit high gear, young starting quarterbacks around the league are getting valuable reps.\r\nAt the New England Patriots' camp on Friday, onlookers anticipat… [+12342 chars]"
+            "author": "David Schoenfield",
+            "title": "MLB trade grades - Seattle Mariners land trade deadline's top available pitcher in deal for Luis Castillo - ESPN",
+            "description": "Seattle is going all-in as it tries to (finally!) return to the playoffs. But did the M's give up too much?",
+            "url": "https://www.espn.com/mlb/insider/insider/story/_/id/34313524/mlb-trade-grades-seattle-mariners-land-trade-deadline-top-available-pitcher-deal-luis-castillo",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0728%2Fr1041661_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-07-30T05:14:01Z",
+            "content": "The trade: The Mariners acquire RHP Luis Castillo from the Reds for SS Noelvi Marte, SS Edwin Arroyo, RHP Levi Stoudt and RHP Andrew Moore.\r\nWith the Mariners in a wild-card position and looking to e… [+8007 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "KABC-TV"
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Will Smith addresses Oscars slap, apologizes to Chris Rock in new video - KABC-TV",
-            "description": "\"It's been a minute...\" the text at the beginning of the video reads. \"Over the last few months, I've been doing a lot of thinking and personal work.\"",
-            "url": "https://abc7.com/will-smith-apology-chris-rock-slap-oscars-2022/12082207/",
-            "urlToImage": "https://cdn.abcotvs.com/dip/images/11686582_032822-ap-will-smith-slap-img.jpg?w=1600",
-            "publishedAt": "2022-07-29T23:35:31Z",
-            "content": "LOS ANGELES -- Will Smith has apologized to Chris Rock for slapping the comedian at the Oscars earlier this year, addressing the incident in a new video posted to social media.\r\n\"It's been a minute..… [+4643 chars]"
+            "title": "UFC 277 Embedded: Vlog Series - Episode 6 - UFC - Ultimate Fighting Championship",
+            "description": "Champ Alexander Volkanovski touches down to support his team. The stars of UFC 277 make weight in the morning and face off for fans that afternoon in Dallas,...",
+            "url": "https://www.youtube.com/watch?v=BLVcVojKHdg",
+            "urlToImage": "https://i.ytimg.com/vi/BLVcVojKHdg/hqdefault.jpg",
+            "publishedAt": "2022-07-30T04:36:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Stanley Reed",
+            "title": "Europe’s Race to Secure New Energy Sources Is on a Knife’s Edge - The New York Times",
+            "description": "A long-term switch to more renewable sources has been overtaken by a short-term scramble to stave off a crisis.",
+            "url": "https://www.nytimes.com/2022/07/30/business/europe-natural-gas.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/07/29/business/00euro-energy-1/00euro-energy-1-facebookJumbo.jpg",
+            "publishedAt": "2022-07-30T04:01:10Z",
+            "content": "In some countries, including Britain and Germany, energy companies have not yet fully passed these costs to their customers, meaning the hardest blows are yet to come.\r\nThe biggest risk at the moment… [+1313 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Daniella Diaz, Annie Grayer and Eva McKend, CNN",
-            "title": "House passes assault-style weapons ban - CNN",
-            "description": "The House of Representatives voted Friday evening to ban assault-style weapons, sending the bill to the Senate where it's not expected to advance.",
-            "url": "https://www.cnn.com/2022/07/29/politics/house-vote-assault-weapons-ban/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220729161731-house-passes-weapons-ban-super-tease.jpg",
-            "publishedAt": "2022-07-29T23:33:00Z",
-            "content": "(CNN)The House of Representatives voted Friday evening to ban assault-style weapons, sending the bill to the Senate where it's not expected to advance.\r\nThe final vote was 217-213.\r\nDemocrats Henry C… [+4992 chars]"
+            "author": "Paul P. Murphy and Steve Almasy, CNN",
+            "title": "Do you have a winning ticket for the $1.28 billion Mega Millions? Here are the six numbers - CNN",
+            "description": "[Breaking news update, published at 11:03 p.m. ET]",
+            "url": "https://www.cnn.com/2022/07/29/us/mega-millions-lottery-jackpot-friday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220728150530-mega-millions-0726-super-tease.jpg",
+            "publishedAt": "2022-07-30T03:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pinstripe Alley"
+            },
+            "author": "Chris Guay",
+            "title": "Yankees win as Judge and company powers the offense - Pinstripe Alley",
+            "description": "The Yankees won on a game with rain, drama, and home runs.",
+            "url": "https://www.pinstripealley.com/2022/7/29/23284472/yankees-mlb-game-score-recap-royals-judge-perez-cole-merrifield-rizzo-benintendi",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/LWZGJjy3KEthgFBlJBAHeQLpiVY=/0x133:3178x1797/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23911069/1411724120.jpg",
+            "publishedAt": "2022-07-30T03:02:34Z",
+            "content": "It is amazing how quickly a game can go from in-control to spinning out at 100 miles per hour. Everything seemed to be going fairly well for most of the first half of the game. For most of the second… [+4944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Jake Adelstein",
+            "title": "Shinzo Abe's Assassin Tetsuya Yamagami Succeeds in Plot to Expose Japan's Deep Ties with Unification Church - The Daily Beast",
+            "description": "The shooting of ex-PM Shinzo Abe has blown open secret ties between Japan’s ruling party and the mass-marrying Moonies.",
+            "url": "https://www.thedailybeast.com/shinzo-abes-assassin-tetsuya-yamagami-succeeds-in-plot-to-expose-japans-deep-ties-with-unification-church",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1659147078/073022-Adelstein-japan-hero_wialgs",
+            "publishedAt": "2022-07-30T03:00:00Z",
+            "content": "NARA, JapanThe shooting of ex-Prime Minister Shinzo Abe has had unexpected political blowback. The killer attacked Abe not for his political beliefs, but because he wanted to take revenge upon the So… [+16225 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Charles Creitz",
+            "title": "Biden partially building border wall despite Trump jabs is simply an 'election year gimmick': Biggs - Fox News",
+            "description": "President Joe Biden will build part of a border wall project he halted in Arizona, but Andy Biggs says it is political tokenism in an election year.",
+            "url": "https://www.foxnews.com/media/biden-building-border-wall-despite-trump-jabs-simply-election-year-gimmick-biggs",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/11/GettyImages-1236523866.jpg",
+            "publishedAt": "2022-07-30T02:58:23Z",
+            "content": "President Biden will build a section of border wall in Yuma, Arizona, despite a campaign pledge not to add \"another foot of wall in my administration\" in what one Arizona lawmaker said is the White H… [+2347 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Faith Karimi, CNN",
+            "title": "Chris Rock jokes he was 'smacked by Suge Smith' after Will Smith apology video - CNN",
+            "description": "Chris Rock is still not saying how he feels about getting slapped by Will Smith, but he is still making passing jokes about the incident.",
+            "url": "https://www.cnn.com/2022/07/29/entertainment/chris-rock-will-smith-apology-cec/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220729115000-will-smith-oscars-slap-comments-restricted-super-tease.jpg",
+            "publishedAt": "2022-07-30T02:54:00Z",
+            "content": "(CNN)Chris Rock is still not saying how he feels about getting slapped by Will Smith, but he is still making passing jokes about the incident.\r\nThe comedian was on stage in Atlanta on Friday night as… [+2527 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Marianna Sotomayor",
+            "title": "House overcomes internal rancor to pass assault weapons ban - The Washington Post",
+            "description": "The historic legislation passed along party lines with a razor-thin majority and only two Republicans voting in support.",
+            "url": "https://www.washingtonpost.com/politics/2022/07/29/house-overcomes-internal-rancour-pass-assault-weapons-ban/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D22MSOAC4QI63C7LFNHEQGYVAA.jpg&w=1440",
+            "publishedAt": "2022-07-30T01:58:41Z",
+            "content": "Comment on this story\r\nHouse Democrats passed an assault weapons ban for the first time in roughly 30 years Friday, a legislative feat on a politically fraught issue that tested the unity of the cauc… [+6601 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures: Stock Market Rally Passes Inflection Point; Apple, Exxon Flash Buy Signals | Investor's Business Daily - Investor's Business Daily",
+            "description": "The major indexes had big gains in a critical week. China EV sales are on tap.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-rally-passes-inflection-point-apple-exxon-flash-buy-signals/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/12/FAP2020-bull-123019-shutter.jpg",
+            "publishedAt": "2022-07-30T01:50:00Z",
+            "content": "Dow Jones futures will open on Sunday evening, along with S&amp;P 500 futures and Nasdaq futures. The stock market rally passed an inflection point, making a decisive move higher in the past week.\r\nX… [+9726 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Alex Jones' media company files for bankruptcy amid defamation trial - CBS News",
+            "description": "The trial seeks to force Jones to pay $150 million or more to the family of one of the children killed in the 2012 Sandy Hook Elementary School attack.",
+            "url": "https://www.cbsnews.com/news/alex-jones-media-company-files-for-bankruptcy-amid-trial/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/07/30/d3bfd9dd-3ae5-420a-bab4-08d2b888f695/thumbnail/1200x630/87d6647008e85f78ff0aa7814fb6dc57/gettyimages-1230457578.jpg",
+            "publishedAt": "2022-07-30T01:48:24Z",
+            "content": "Conspiracy theorist Alex Jones' media company Free Speech Systems filed for bankruptcy on Friday — but his attorney said it should not disrupt the defamation damages trial underway in Texas that seek… [+2900 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Cheung",
+            "title": "What does Taiwan think about the possibility of a visit by Nancy Pelosi? - CNN",
+            "description": "Reports that US House Speaker Nancy Pelosi is planning a visit to Taiwan have sparked tense exchanges between the United States and China -- but the island itself has been far less vocal.",
+            "url": "https://www.cnn.com/2022/07/29/china/pelosi-visit-what-taiwan-thinks-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220729115045-05-pelosi-visit-taiwan.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-07-30T01:17:00Z",
+            "content": "Reports that US House Speaker Nancy Pelosi is planning a visit to Taiwan have sparked tense exchanges between the United States and China and growing speculation over how Beijing might react.\r\nWhile … [+5935 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tim Lister, Julia Kesaieva and Josh Pennington, CNN",
+            "title": "Ukrainian President Volodymyr Zelensky says prison attack 'deliberate war crime by the Russians,' as Russia blames Ukraine - CNN",
+            "description": "Ukrainian President Volodymyr Zelensky said Friday the attack on a prison in separatist-held eastern Ukraine, which resulted in the deaths of at least 40 prisoners, was \"a deliberate war crime by the Russians.\"",
+            "url": "https://www.cnn.com/2022/07/29/europe/donetsk-prison-strike-ukraine-russia-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220729151552-01-olenivka-prison-072922-super-tease.jpg",
+            "publishedAt": "2022-07-30T00:07:00Z",
+            "content": "Kyiv, Ukraine (CNN)Ukrainian President Volodymyr Zelensky said Friday the attack on a prison in separatist-held eastern Ukraine, which resulted in the deaths of at least 40 prisoners, was \"a delibera… [+5959 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motorsport.com"
+            },
+            "author": "Gary Watkins",
+            "title": "Porsche unveils latest generation 911 GT3 car - Motorsport.com",
+            "description": "Porsche has focused on drivability with the new GT3 contender it unveiled ahead of this weekend’s Spa 24 Hours.",
+            "url": "https://www.motorsport.com/gt/news/porsche-new-generation-911-gt3-car/10345484/",
+            "urlToImage": "https://cdn-1.motorsport.com/images/amp/68y7MA40/s6/porsche-911-gt3-r-1.jpg",
+            "publishedAt": "2022-07-29T23:26:49Z",
+            "content": "The aim during design and development of the new car based on the 992-shape 911 was to make it fast for longer, according to Sebastian Golz, project manager on the latest-generation 911 GT3-R.\r\nOur t… [+2696 chars]"
         },
         {
             "source": {
@@ -69,198 +251,16 @@
         },
         {
             "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": "Michael Baca",
-            "title": "Seahawks' Jamal Adams sustains broken finger, will wear special cast for games - NFL.com",
-            "description": "Seahawks safety Jamal Adams sustained a broken finger during a recent practice and is likely to undergo surgery following the 2022 season, NFL Network Insider Ian Rapoport reported Friday.",
-            "url": "https://www.nfl.com/news/seahawks-jamal-adams-sustains-broken-finger-will-wear-special-cast-for-games",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/qhsfbd5wgsujgass0toh",
-            "publishedAt": "2022-07-29T22:10:00Z",
-            "content": "Jamal Adams is on the mend again, but the Seahawks' star safety is doing his best not to miss any games in 2022.\r\nAdams sustained a broken finger after it got stuck in a helmet during a recent practi… [+1154 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Daily Beast"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Monkeypox: First deaths outside Africa in Brazil and Spain - BBC",
-            "description": "Brazil and Spain report fatalities from the virus, but most infections are mild and overall risk is low.",
-            "url": "https://www.bbc.com/news/health-62350022",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1010/production/_126021140_gettyimages-1401390462.jpg",
-            "publishedAt": "2022-07-29T21:55:57Z",
-            "content": "By Malu CursinoBBC News\r\nBrazil and Spain have reported their first monkeypox deaths. \r\nA 41-year-old man in Brazil became the first fatality from the virus outside Africa. Spain announced its first … [+2100 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Inna Varenytsia",
-            "title": "Zelenskyy visits port as Ukraine prepares to ship out grain - The Associated Press",
-            "description": "ODESA, Ukraine (AP) — Ukrainian President Volodymyr Zelenskyy visited a Black Sea port Friday as crews prepared terminals to export grain trapped by Russia’s five-month-old war , work that was inching forward a week after a deal was struck to allow critical f…",
-            "url": "https://apnews.com/article/russia-ukraine-zelenskyy-global-trade-2a08f4271668d459ffc1ac990c37993b",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f2cd3acde7e74c9e967e140946c83cdd/2000.jpeg",
-            "publishedAt": "2022-07-29T21:44:14Z",
-            "content": "ODESA, Ukraine (AP) Ukrainian President Volodymyr Zelenskyy visited a Black Sea port Friday as crews prepared terminals to export grain trapped by Russias five-month-old war, work that was inching fo… [+5468 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Gabrielle Chung",
-            "title": "Kelis Slams Pharrell Williams Over \"Petty\" Sampling Debacle on Beyoncé's Renaissance Album - E! NEWS",
-            "description": "Kelis called out Pharrell Williams, who wrote and produced her 2003 smash \"Milkshake,\" for not informing her that an interpolation of the song would be used on Beyoncé's new Renaissance album.",
-            "url": "https://www.eonline.com/news/1340036/kelis-slams-pharrell-williams-over-petty-sampling-debacle-on-beyonces-renaissance-album",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022629/rs_1200x1200-220729122734-1200_-_3_Split-Beyonce_Kelis_Pharrell_Williams-gj.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2022-07-29T21:10:00Z",
-            "content": "Kelis just brought some beef to the yard.\r\nAmid the highly anticipated release of Beyoncé's Renaissance album, the R&amp;B singer shared some heated words about an interpolation of her smash single \"… [+738 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tampa Bay Times"
-            },
-            "author": "Dan Sullivan, Mary Claire Molloy, Natalie Weber",
-            "title": "FBI investigating Russian interference possibly linked to St. Petersburg Uhuru Movement - Tampa Bay Times",
-            "description": "Search warrants appear to be related to an indictment that was unsealed Friday against a Russian national.",
-            "url": "https://www.tampabay.com/news/breaking-news/2022/07/29/federal-agents-serve-warrant-at-uhuru-house-in-st-pete/",
-            "urlToImage": "https://www.tampabay.com/resizer/maRYD2Lb9KI_UkrwQjGE4XwECoM=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/2M54CBLNQJAZZJ3F4D35VC6SZ4.jpg",
-            "publishedAt": "2022-07-29T21:07:50Z",
-            "content": "Federal law enforcement officials appear to be investigating members of the Uhuru Movement in St. Petersburg for alleged connections to a Russian government official who prosecutors say directed U.S.… [+13267 chars]"
-        },
-        {
-            "source": {
-                "id": "the-wall-street-journal",
-                "name": "The Wall Street Journal"
-            },
-            "author": "Karen Langley, Joe Wallace and Rebecca Feng",
-            "title": "U.S. Stocks Rise, Giving S&P 500 Best Month Since 2020 - The Wall Street Journal",
-            "description": "The index notched its third consecutive day of gains since Wednesday’s Fed decision, clawing back some of its losses from a dismal first half.",
-            "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-07-29-2022-11659080320",
-            "urlToImage": "https://images.wsj.net/im-593048/social",
-            "publishedAt": "2022-07-29T20:56:00Z",
-            "content": "Major stock indexes rose Friday to end their best month since 2020, clawing back some of their losses from a dismal first half. \r\nThe S&amp;P 500 gained 9.1% in July, while the Dow Jones Industrial A… [+163 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "John Haltiwanger",
-            "title": "Pelosi Taiwan trip raises risk of 'accident' and crisis: China experts - Business Insider",
-            "description": "\"If she goes, the prospect of a crisis goes way up as China will need to respond,\" a former US diplomat told Insider.",
-            "url": "https://www.businessinsider.com/pelosi-taiwan-trip-raises-accident-risk-triggering-crisis-china-experts-2022-7",
-            "urlToImage": "https://i.insider.com/62e42bfe4b455800188b69a1?width=1200&format=jpeg",
-            "publishedAt": "2022-07-29T20:40:26Z",
-            "content": "House Speaker Nancy Pelosi departed on Friday for a tour of Asia that could include a controversial stop in Taiwan, the self-governed island democracy at the heart of rising tensions between Beijing … [+7998 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "'Alarm bell': Oz's struggles have GOP pitching alternate path to Senate takeover - POLITICO",
-            "description": "Republican officials outlined the Oz campaign's polling and financial troubles in recent meetings, emphasizing they can still win the Senate without Pennsylvania.",
-            "url": "https://www.politico.com/news/2022/07/29/alarm-bell-gop-donors-oz-00048747",
-            "urlToImage": "https://static.politico.com/74/f7/0a60c6754302bffbeaff60965eba/election-2022-pennsylvania-senate-61813.jpg",
-            "publishedAt": "2022-07-29T20:01:40Z",
-            "content": "On a donor call last week that focused on Senate races throughout the country, NRSC officials discussed Ozs poor performance in polls, including his high unfavorability ratings, said a person on the … [+8140 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SFGate"
-            },
-            "author": "Amy Graff",
-            "title": "Rain reported inside Las Vegas casinos amid thunderstorms - SFGATE",
-            "description": "Thunderstorms dumped heavy rain and kicked up high winds across central Nevada on...",
-            "url": "https://www.sfgate.com/weather/article/Las-Vegas-streets-casinos-flood-amid-thunderstorms-17338670.php",
-            "urlToImage": "https://s.hdnux.com/photos/01/26/63/10/22753846/3/rawImage.jpg",
-            "publishedAt": "2022-07-29T20:01:04Z",
-            "content": "Thunderstorms dumped heavy rain and kicked up high winds across central Nevada on Thursday, flooding the streets and casinos of Las Vegas. Lightning and small hail were also in the stormy mix that hi… [+3289 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Nikolas Lanum",
-            "title": "'The View' host suggests Saudis would run to Iran if they felt abandoned by US - Fox News",
-            "description": "Sara Haines claimed Saudi Arabia could turn to Iran if its relationship with the U.S. was severed, despite longstanding tensions between the two countries.",
-            "url": "https://www.foxnews.com/media/the-view-host-suggests-saudis-would-run-iran-felt-abandoned",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/The_View_Iran-62e426d033ae490d8e3db0ee_1_Jul_29_2022_19_03_59_poster.jpg",
-            "publishedAt": "2022-07-29T20:00:12Z",
-            "content": "Co-host of ABCs \"The View\" Sara Haines suggested Friday that Saudi Arabia would run to Iran if it felt abandoned by the United States, despite the fact the two Middle Eastern countries are longtime e… [+2669 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Natasha Bertrand, Frederik Pleitgen",
-            "title": "CNN Exclusive: Russian officials requested adding convicted murderer to Griner/Whelan prisoner swap - CNN",
-            "description": "Russian government officials requested that a former colonel from the country's domestic spy agency who was convicted of murder in Germany last year be added to the US' proposed swap of a notorious arms dealer for Brittney Griner and Paul Whelan, multiple sou…",
-            "url": "https://www.cnn.com/2022/07/29/politics/griner-whelan-russia-murderer-request/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220727120745-whelan-griner-split.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-07-29T20:00:00Z",
-            "content": "Russian government officials requested that a former colonel from the countrys domestic spy agency who was convicted of murder in Germany last year be added to the US proposed swap of a notorious arm… [+4323 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/jon-fingas",
-            "title": "Free AI tool restores old photos by creating slightly new loved ones | Engadget - Engadget",
-            "description": "A recent AI tool can restore vintage photos in a few seconds, and for free..",
-            "url": "https://www.engadget.com/free-ai-old-photo-restoration-tool-190502361.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/3750ddf0-0f6a-11ed-b164-ac38016725f8",
-            "publishedAt": "2022-07-29T19:16:55Z",
-            "content": "You can find AI that creates new images, but what if you want to fix an old family photo? You might have a no-charge option. Louis Bouchard and PetaPixel have drawn attention to a free tool recently … [+1480 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Christine Hauser",
-            "title": "The $1.28 Billion Mega Millions Jackpot and You - The New York Times",
-            "description": "On Friday night, somebody might win the second-largest jackpot ever. Or not. It’s probably not going to be you, but what if it is? Here’s what you should know.",
-            "url": "https://www.nytimes.com/2022/07/29/us/megamillions-jackpot.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/07/29/multimedia/29xp-megamillions-02/29xp-megamillions-02-facebookJumbo.jpg",
-            "publishedAt": "2022-07-29T19:11:56Z",
-            "content": "Not all lottery winners are required to appear at a news conference with a broad grin, holding a giant fake check. Under its open records law, Wisconsins lottery releases the name and city of the win… [+1776 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Chico Harlan, Amanda Coletta",
-            "title": "Pope Francis in Canada: Penitential pilgrimage ends in Iqaluit, Nunavut, amid criticism - The Washington Post",
-            "description": "Indigenous people say his apologies for the actions of « many Christians » in Canada's residential schools are a crucial first step. But they want him to apologize for the Church as an institution.",
-            "url": "https://www.washingtonpost.com/world/2022/07/29/pope-francis-nunavut-canada-criticism/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TZNWSPQPPYI63CHIYWG4HW5O4I.jpg&w=1440",
-            "publishedAt": "2022-07-29T19:01:00Z",
-            "content": "Comment on this story\r\nIQALUIT, Nunavut In the last stop on a penitential pilgrimage that has drawn mixed reviews from the Indigenous people he came to see, Pope Francis on Friday apologized again to… [+7069 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Mike Wall",
-            "title": "When and where will China's big rocket debris fall to Earth this weekend? - Space.com",
-            "description": "There's no good answer to this question yet, unfortunately.",
-            "url": "https://www.space.com/chinese-rocket-space-debris-fall-when-where",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QmLExkazkgmjh4DzRWMsC5-1200-80.jpeg",
-            "publishedAt": "2022-07-29T18:48:22Z",
-            "content": "A big Chinese rocket body will likely crash back to Earth tomorrow (July 30), but nobody knows exactly when or where.\r\nThe 25-ton (22.5 metric tons) core stage of a Long March 5B rocket will reenter … [+4907 chars]"
+            "author": "Matt Wilstein",
+            "title": "Jon Stewart Fires Back at Ted Cruz's 'Bullshit' Excuses - The Daily Beast",
+            "description": "The comedian and activist went off on Cruz, calling his reason for opposing a bill that would provide healthcare to veterans “inaccurate, not true, bullshit.”",
+            "url": "https://www.thedailybeast.com/jon-stewart-fires-back-at-ted-cruzs-bullshit-excuses",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1659135230/JS_1_zepi0l",
+            "publishedAt": "2022-07-29T23:11:48Z",
+            "content": "After days of lobbying Republican senators from Capitol Hill and the airwaves of Newsmax and Fox News, Jon Stewart is showing no signs of letting up on the fight to pass the Honoring Our PACT Act, wh… [+1675 chars]"
         }
     ]
 }
