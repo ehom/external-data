@@ -4,120 +4,159 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Daily Mail"
+                "id": "bbc-news",
+                "name": "BBC News"
             },
-            "author": "Adrian Kajumba",
-            "title": "Everton 0-1 Chelsea: Jorginho's penalty hands the Blues three points against Frank Lampard's side - Daily Mail",
-            "description": "ADRIAN KAJUMBA AT GOODISON PARK: Thomas Tuchel was right, Chelsea were not at their highest level on day one. Not going forward at least. But it is not often they come here and win.",
-            "url": "https://www.dailymail.co.uk/sport/live/article-11076907/Everton-vs-Chelsea-Premier-League-2022-23-Live-Result.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/06/19/61136245-0-image-a-67_1659811725668.jpg",
-            "publishedAt": "2022-08-06T23:39:33Z",
-            "content": "Thomas Tuchel was right, Chelsea were not at their highest level on day one. Not going forward at least.\r\nBut it is not often they come here and win so that alone would have been a huge source of sat… [+6000 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Metro.co.uk"
-            },
-            "author": "Lucy Mapstone",
-            "title": "Britney Spears' sons choosing not to see her, says ex Kevin Federline - Metro.co.uk",
-            "description": "The teenage boys decided not to attend her recent wedding.",
-            "url": "https://metro.co.uk/2022/08/07/britney-spears-sons-choosing-not-to-see-her-says-ex-kevin-federline-17140215/",
-            "urlToImage": "https://metro.co.uk/wp-content/uploads/2022/08/SEC_118234016_1659827466.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
-            "publishedAt": "2022-08-06T23:10:00Z",
-            "content": "Kevin Federline says that his sons with Britney Spears have decided not to see her for a while (Picture: Getty Images/Instagram)\r\nBritney Spears has not seen her sons in several months, according to … [+4830 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Tom Brown",
-            "title": "Lauren Goodger in hiding at secret address with 'fractured eye socket' after she was attacked - Daily Mail",
-            "description": "Dancing on Ice and Big Brother star Lauren Goodger is in hiding from her boyfriend after he allegedly attacked and left her with a 'fractured eye socket' only hours after her daughter's funeral.",
-            "url": "https://www.dailymail.co.uk/news/article-11088205/Lauren-Goodger-hiding-secret-address-fractured-eye-socket-attacked.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/06/23/61140119-0-image-a-61_1659825888202.jpg",
-            "publishedAt": "2022-08-06T23:07:01Z",
-            "content": "Ex-Towie star Lauren Goodger is in hiding after her boyfriend allegedly attacked her and left the glamour model with a 'fractured eye socket' only hours after her daughter's funeral.\r\nThe 35-year-old… [+4737 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Sun"
-            },
-            "author": "Jon Boon",
-            "title": "Cristiano Ronaldo sends ‘play me’ plea to Man Utd boss Ten Hag ahead of Brighton opener despite ongoing tra... - The Sun",
-            "description": "",
-            "url": "https://www.thesun.co.uk/sport/19439668/cristiano-ronaldo-man-utd-brighton-premier-league/",
-            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2022/08/OFF-PLATFORM-2ron-insta-post-copy.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-            "publishedAt": "2022-08-06T23:00:02Z",
-            "content": "CRISTIANO RONALDO issued a play me plea to Manchester United boss Erik ten Hag ahead of todays Premier League opener.\r\nThe Red Devils entertain Brighton at Old Trafford in Ten Hag's first competitive… [+2285 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Telegraph.co.uk"
-            },
-            "author": null,
-            "title": "Hosepipe bans must come in now, says Environment Secretary - The Telegraph",
-            "description": "Crackdown on water use looms, with George Eustice intervening as fears of extended drought grow",
-            "url": "https://www.telegraph.co.uk/politics/2022/08/06/hosepipe-bans-must-come-now-says-environment-secretary/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/politics/2022/08/06/TELEMMGLPICT000305123449_trans_NvBQzQNjv4Bqek9vKm18v_rkIPH9w2GMNpPHkRvugymKLtqq96r_VP8.jpeg?impolicy=logo-overlay",
-            "publishedAt": "2022-08-06T22:56:00Z",
-            "content": "Christine Colvin, of the Rivers Trust, said: We did feel that these bans were coming in quite late. Given that we were experiencing an incredibly dry July off the back of a low-rainfall year, I think… [+1525 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Liverpool Echo"
-            },
-            "author": "Rebecca Koncienzcy",
-            "title": "Man in serious condition after being stabbed in head at pub - Liverpool Echo",
-            "description": "Paramedics at the scene treated him for stab wounds to his arms, chest and head",
-            "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/man-serious-condition-after-being-24691587",
-            "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article24691590.ece/ALTERNATES/s1200/0_16-Elephant-Ln-Google-Maps.png",
-            "publishedAt": "2022-08-06T22:09:52Z",
-            "content": "A man is in a serious condition after being stabbed in the head at a pub this evening.\r\nMerseyside Police said they were called to the Vine Tavern on Elephant Lane in Thatto Heath, St Helens at about… [+1610 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Extent of struggle to find NHS dentist revealed by far-reaching BBC research - BBC",
+            "description": "Nine in 10 UK dentists are not accepting new adult patients, while eight in 10 are refusing children.",
+            "url": "https://www.bbc.co.uk/news/health-62253893",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12B57/production/_126213667_gettyimages-1227547065.jpg",
+            "publishedAt": "2022-08-07T23:04:13Z",
+            "content": "By Ruth Green, Harriet Agerholm &amp; Libby RogersBBC News\r\nNine in 10 NHS dental practices across the UK are not accepting new adult patients for treatment under the health service, a BBC investigat… [+8909 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Andrew Downie",
-            "title": "Five more arrested in Brazil over murders of Dom Phillips and Bruno Pereira - The Guardian",
-            "description": "Suspect already in custody is likely leader of illegal fishing mafia based in Amazon region, police say",
-            "url": "https://amp.theguardian.com/world/2022/aug/06/five-more-people-arrested-in-brazil-over-murders-of-dom-phillips-and-bruno-pereira",
-            "urlToImage": "https://i.guim.co.uk/img/media/116544694288c7b4e614806ddcb39d0685dbc91a/0_0_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91f181dfe7ceafa7ef41c098c538aab1",
-            "publishedAt": "2022-08-06T22:06:00Z",
-            "content": "Brazilian police arrested another five people in connection with the murders of British journalist Dom Phillips and Brazilian Indigenous activist Bruno Pereira on Saturday, and said one of the suspec… [+3041 chars]"
+            "author": "Sally Weale, Vikram Dodd",
+            "title": "Revealed: Met police strip-searched 650 children in two-year period - The Guardian",
+            "description": "Appropriate adults were often absent during the search, and the majority of children were innocent",
+            "url": "https://amp.theguardian.com/uk-news/2022/aug/08/police-data-raises-alarm-over-welfare-of-strip-searched-children",
+            "urlToImage": null,
+            "publishedAt": "2022-08-07T23:01:00Z",
+            "content": "Metropolitan policeAppropriate adults were often absent during the search, and the majority of children were innocent\r\nThe childrens commissioner for England has denounced the Metropolitan polices re… [+6496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Phillip Inman",
+            "title": "City workers get double-digit wage rises while lowest-paid see 1% increase - The Guardian",
+            "description": "Report finds ‘tale of two labour markets’ as workers in London’s financial district enjoy inflation-busting increases",
+            "url": "https://amp.theguardian.com/business/2022/aug/08/city-workers-get-double-digit-wage-rises-while-lowest-paid-see-1-increase",
+            "urlToImage": null,
+            "publishedAt": "2022-08-07T23:01:00Z",
+            "content": "UK cost of living crisisReport finds tale of two labour markets as workers in Londons financial district enjoy inflation-busting increases\r\nCity workers received double-digit wage rises while people … [+4540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Sammy Barker",
+            "title": "Press X for Trophies Is a Sad Indictment of PS5, PS4 Today - Push Square",
+            "description": "Embarrassing",
+            "url": "https://www.pushsquare.com/news/2022/08/press-x-for-trophies-is-a-sad-indictment-of-ps5-ps4-today",
+            "urlToImage": "https://images.pushsquare.com/1c00cb69e86a9/1280x720.jpg",
+            "publishedAt": "2022-08-07T23:00:00Z",
+            "content": "Sony has a big problem on its hands, and its not clear how its going to solve it. While previous oddities like My Name Is Mayo and Mr Massagy were fun Platinum novelties, the PS Store is now getting … [+1388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jacob Steinberg",
+            "title": "Erling Haaland ‘born to score goals’, says Pep Guardiola after City victory - The Guardian",
+            "description": "The Norwegian striker scored both goals in the 2-0 win at West Ham and his manager described him as ‘a guy with incredible talent’",
+            "url": "https://amp.theguardian.com/football/2022/aug/07/erling-haaland-born-to-score-goals-says-pep-guardiola-after-city-victory",
+            "urlToImage": null,
+            "publishedAt": "2022-08-07T22:41:00Z",
+            "content": "Premier League<ul><li>Norwegian striker scores both goals in 2-0 win at West Ham</li><li>'Hes a guy with incredible talent, says Citys manager</li></ul>\r\nPep Guardiola said Erling Haaland was born to… [+3158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Andy Bull",
+            "title": "Inspired England beat Australia to win Commonwealth Games hockey gold - The Guardian",
+            "description": "The England women’s hockey team beat Australia to take gold in the Commonwealth Games, with Holly Hunt and Tess Howard scoring in a 2-1 victory",
+            "url": "https://amp.theguardian.com/sport/2022/aug/07/england-women-australia-commonwealth-games-hockey-gold-medal-match-report",
+            "urlToImage": null,
+            "publishedAt": "2022-08-07T22:18:00Z",
+            "content": "Commonwealth Games 2022<ul><li>Holly Hunt and Tess Howard score in comfortable 2-1 victory</li><li>Team had good-luck messages from triumphant Lionesses</li></ul>\r\nAfter 24 years of trying, the Engla… [+4809 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Chris Wheeler",
+            "title": "Erik ten Hag is left to admit he has a 'HELL of a job' on his hands - Daily Mail",
+            "description": "Erik ten Hag was frustrated with his players after his first Premier League game in charge of Manchester United ended with a 2-1 home defeat to Brighton.",
+            "url": "https://www.dailymail.co.uk/sport/football/article-11089495/Erik-ten-Hag-admits-HELL-job-hands-Man-Uniteds-home-loss-Brighton.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/07/17/61154249-0-image-a-19_1659890709334.jpg",
+            "publishedAt": "2022-08-07T21:56:50Z",
+            "content": "Manchester United manager Erik ten Hag spelt out the size of the challenge facing him at Old Trafford after losing his first Premier League game yesterday.\r\nDefeat by Brighton brutally demonstrated t… [+2243 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Mirror Online"
             },
-            "author": "Simon Mullock",
-            "title": "Erik ten Hag issues warning to Man Utd stars in address to fans ahead of new season - The Mirror",
-            "description": "After months of preparation and talk, Erik ten Hag's Manchester United competitive reign finally gets underway on Sunday when the Red Devils host Brighton at Old Trafford",
-            "url": "https://www.mirror.co.uk/sport/football/news/man-united-erik-ten-hag-27674072",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article27516900.ece/ALTERNATES/s1200/0_Erik-Ten-Hag.jpg",
-            "publishedAt": "2022-08-06T21:30:00Z",
-            "content": "Erik ten Hag's dream is to bring Total Football to Manchester United. But the Dutchman has warned his players that they must first be prepared to win ugly as he strives to bring the beautiful game to… [+3497 chars]"
+            "author": "David Maddock",
+            "title": "Thomas Tuchel's Chelsea have fatal flaw exposed in Premier League opening game - The Mirror",
+            "description": "Chelsea claimed a 1-0 win over Everton in their opening Premier League fixture of the season but their performance on the pitch has identified a few problems for boss Thomas Tuchel",
+            "url": "https://www.mirror.co.uk/sport/football/news/chelsea-fatal-flaw-thomas-tuchel-27679968",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article27680003.ece/ALTERNATES/s1200/0_GettyImages-1413288792.jpg",
+            "publishedAt": "2022-08-07T21:30:00Z",
+            "content": "Typicial Chelsea. Defend deep, create little on the break, win 1-0 with a Jorginho penalty.\r\n Before their fans start pouring out the social media bile, its not this reporter saying thatbut their own… [+3318 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sky.com"
+                "name": "Mirror Online"
             },
-            "author": "Megan Baynes",
-            "title": "Girl dies at water park near Windsor 'after getting into difficulty' as investigation launches into incident - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/girl-missing-feared-dead-at-liquid-leisure-waterpark-near-windsor-sky-news-understands-12667358",
-            "urlToImage": "https://e3.365dm.com/22/08/1600x900/skynews-liquid-leisure_5857004.jpg?20220806201038",
-            "publishedAt": "2022-08-06T21:22:30Z",
-            "content": "An 11-year-old girl who went missing at a water park near Windsor on Saturday has died, Thames Valley Police have confirmed.\r\nThe girl's death is being treated as unexplained and an investigation has… [+2031 chars]"
+            "author": "Kirsty McCormack",
+            "title": "Love Island's Summer threatens to unveil Coco's antics in vicious reunion row - The Mirror",
+            "description": "Love Island fans finally got to see the explosive row between Coco Lodge and Summer Botwe during Sunday's Reunion episode and it seems the two ladies aren't going to be pals any time soon",
+            "url": "https://www.mirror.co.uk/tv/tv-news/love-islands-summer-threatens-unveil-27681662",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article27681859.ece/ALTERNATES/s1200/0_split.jpg",
+            "publishedAt": "2022-08-07T21:22:45Z",
+            "content": "Love Island's Coco Lodge and Summer Botwe butted heads during Sunday night's Reunion episode as their row was finally shown on screen.\r\nIt had already been reported that Coco stormed off set during t… [+2238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Kim Pearson",
+            "title": "Nutritionist KIM PEARSON reveals 10 genius tricks to avoid that holiday half stone - Daily Mail",
+            "description": "We asked Harley Street nutritionist Kim Pearson, who specialises in weight loss and maintenance, how to have a fabulous break and tuck into some tempting treats.",
+            "url": "https://www.dailymail.co.uk/femail/article-11089621/Nutritionist-KIM-PEARSON-reveals-10-genius-tricks-avoid-holiday-half-stone.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/07/21/61158973-0-image-a-17_1659905788524.jpg",
+            "publishedAt": "2022-08-07T21:01:46Z",
+            "content": "All year we look forward to those two weeks hitting the beach with the family, lying on a sun lounger with your favourite book...and filling your boots at the buffet.\r\nHolidays are the opportunity to… [+9379 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Catherine Simpson",
+            "title": "CATHERINE SIMPSON depended on hormone pills until she got the news every woman dreads - Daily Mail",
+            "description": "At the age of 54 Catherine Simpson was told that she had to stop taking her HRT. The UK-based writer was diagnosed with breast cancer that thrived on oestrogen",
+            "url": "https://www.dailymail.co.uk/femail/article-11089611/CATHERINE-SIMPSON-depended-hormone-pills-got-news-woman-dreads.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/07/21/61157541-0-image-a-55_1659903062131.jpg",
+            "publishedAt": "2022-08-07T21:01:10Z",
+            "content": "After the biopsy, the wait was 12 days. Twelve endless days of not knowing. Twelve terrifying, sleepless nights of fearing the worst. I decided not to tell my daughters, then aged 24 and 22, until I … [+11505 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Aime Williams",
+            "title": "US Senate passes Biden's flagship economic package - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/4d1e86e0-0254-4144-b784-88d963b310d5",
+            "urlToImage": null,
+            "publishedAt": "2022-08-07T20:44:16Z",
+            "content": "Keep abreast of significant corporate, financial and political developments around the world.\r\nStay informed and spot emerging risks and opportunities with independent global reporting, expert\r\ncomme… [+32 chars]"
         },
         {
             "source": {
@@ -125,103 +164,12 @@
                 "name": "Sky.com"
             },
             "author": "Sky",
-            "title": "Sunak vows to crack down on university degrees that do not improve 'earning potential' - Sky News",
+            "title": "Ceasefire agreed as Israel and Palestinian Islamic Jihad come to a truce - Sky News",
             "description": "",
-            "url": "https://news.sky.com/story/sunak-vows-to-crack-down-on-university-degrees-that-do-not-improve-earning-potential-12667369",
-            "urlToImage": "https://e3.365dm.com/22/07/1600x900/skynews-rishi-sunak-tory-conservative_5843808.jpg?20220723201221",
-            "publishedAt": "2022-08-06T21:10:29Z",
-            "content": "Rishi Sunak has vowed to phase out university degrees that do not improve students' \"earning potential\", under plans to reform education if he became the UK's next prime minister.\r\nIn proposals annou… [+2240 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Guardian staff reporter",
-            "title": "Raging fire in Cuban oil depot leaves 80 injured and 17 firefighters missing - The Guardian",
-            "description": "800 people evacuated as smoke billows towards Havana after lightning strikes oil tank in Matanzas supertanker base",
-            "url": "https://amp.theguardian.com/world/2022/aug/06/raging-fire-in-cuban-oil-depot-leaves-80-injured-and-17-firefighters-missing",
-            "urlToImage": "https://i.guim.co.uk/img/media/285b69a036990bd1cc4b87bf9aa2e8cdcf2e40f2/0_341_5616_3370/master/5616.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3c3e8cd76c936092350244078912a52",
-            "publishedAt": "2022-08-06T20:53:00Z",
-            "content": "A fire set off by a lightning strike at an oil storage facility raged uncontrolled on Saturday in the city of Matanzas, where four explosions and flames injured nearly 80 people and left 17 firefight… [+2574 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "John Brewin",
-            "title": "Jürgen Klopp hits out at Liverpool performance and laments Thiago injury - The Guardian",
-            "description": "Liverpool manager Jürgen Klopp says ‘performance was a defeat’ in the 2-2 opening draw at Fulham",
-            "url": "https://amp.theguardian.com/football/2022/aug/06/jurgen-klopp-liverpool-fulham-reaction-thiago-injury",
-            "urlToImage": null,
-            "publishedAt": "2022-08-06T20:35:00Z",
-            "content": "'That wasn't us': Klopp frustrated after Liverpool's 2-2 draw at Fulham video \r\nLiverpool<ul><li>Liverpool manager concedes Fulham display was a defeat</li><li>Klopp says latest injury will not force… [+3446 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "David Connett",
-            "title": "Strikes at Ukrainian nuclear plant ‘alarming’, says UN watchdog chief - The Guardian",
-            "description": "Head of International Atomic Energy Agency says shelling at Zaporizhzhia plant underlines ‘very real risk of a nuclear disaster’",
-            "url": "https://amp.theguardian.com/world/2022/aug/06/strikes-at-ukrainian-nuclear-plant-alarming-says-un-watchdog-chief",
-            "urlToImage": "https://i.guim.co.uk/img/media/7c8b3f265f77e19cd1bce4eae68b3c634bf9d9ad/0_276_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ef0868fd1041f2a5ae3120951e23230",
-            "publishedAt": "2022-08-06T20:26:00Z",
-            "content": "The UN nuclear watchdog has called for an immediate end to all military action near Ukraines Zaporizhzhia nuclear plant after it was hit by shelling, causing one of the reactors to shut down and crea… [+1839 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Owen Tonks",
-            "title": "Laura Anderson is 'living out of SUITCASES' after Dane Bowers split - Daily Mail",
-            "description": "Laura Anderson, 33, says she's living out of her suitcases after splitting from her boyfriend Dane Bowers, 42.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-11087757/Laura-Anderson-living-SUITCASES-Dane-Bowers-split.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/08/06/19/61135783-0-image-a-38_1659810132987.jpg",
-            "publishedAt": "2022-08-06T18:33:46Z",
-            "content": "Laura Anderson says she's living out of her suitcases after splitting from her boyfriend Dane Bowers.\r\nThe former Love Island star, 33, announced she and former Another Level singer Dane, 42, were go… [+3283 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Michael Savage",
-            "title": "Gordon Brown: ‘Set emergency budget or risk a winter of dire poverty’ - The Guardian",
-            "description": "Former PM has warned of a financial timebomb awaiting families as Labour plans a major intervention to address crisis",
-            "url": "https://amp.theguardian.com/politics/2022/aug/06/gordon-brown-set-emergency-budget-or-risk-a-winter-of-dire-poverty",
-            "urlToImage": null,
-            "publishedAt": "2022-08-06T18:09:00Z",
-            "content": "Gordon BrownFormer PM has warned of a financial timebomb awaiting families as Labour plans a major intervention to address crisis\r\nBoris Johnson and the Tory leadership candidates should agree an imm… [+6451 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Push Square"
-            },
-            "author": "Robert Ramsey",
-            "title": "Quiz: Test Your PlayStation General Knowledge - Issue 15 - Push Square",
-            "description": "It's time to PlayStation",
-            "url": "https://www.pushsquare.com/quizzes/test-your-playstation-general-knowledge-issue-15",
-            "urlToImage": "https://images.pushsquare.com/b8c046086f982/1280x720.jpg",
-            "publishedAt": "2022-08-06T18:00:00Z",
-            "content": "How much do you know about PlayStation and the gaming industry that surrounds it? If you fancy yourself a walking PlayStation encyclopaedia, then why not put your brain to the test with our PlayStati… [+453 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Times"
-            },
-            "author": "Tim Shipman, Katie Tarrant",
-            "title": "Inside the Tory hustings — where it's all still to play for - The Times",
-            "description": "Kevan Lines is having sleepless nights again — just as he did during the EU referendum campaign. A solicitor like his wife, Jill, 61, Lines, 59, from Blaenau Gw",
-            "url": "https://www.thetimes.co.uk/article/inside-the-tory-hustings-where-its-all-still-to-play-for-3mspnc6pq",
-            "urlToImage": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fdca6dc1e-1596-11ed-a669-519b582f91b7.jpg?crop=3500%2C1969%2C0%2C182&resize=1200",
-            "publishedAt": "2022-08-06T17:00:00Z",
-            "content": "Kevan Lines is having sleepless nights again just as he did during the EU referendum campaign.\r\nA solicitor like his wife, Jill, 61, Lines, 59, from Blaenau Gwent, southeast Wales, attended the Conse… [+487 chars]"
+            "url": "https://news.sky.com/story/ceasefire-hopes-as-israel-and-palestinian-islamic-jihad-come-to-a-truce-12668154",
+            "urlToImage": "https://e3.365dm.com/22/08/1600x900/skynews-rafah-gaza-strip_5857892.jpg?20220807205426",
+            "publishedAt": "2022-08-07T20:37:30Z",
+            "content": "Israel and Palestinian Islamic Jihad have agreed to a ceasefire following a weekend of fighting.\r\nThe stoppage began at 11.30pm local time (9.30pm BST), the Israeli government and Islamic Jihad said … [+2252 chars]"
         },
         {
             "source": {
@@ -229,38 +177,90 @@
                 "name": "Telegraph.co.uk"
             },
             "author": null,
-            "title": "Four ways China could take Taiwan as military tensions boil over - The Telegraph",
-            "description": "Beijing will aim to take island ‘in lightning-fast 48-hour offensive’, diplomatic sources tell The Telegraph",
-            "url": "https://www.telegraph.co.uk/world-news/2022/08/06/china-taiwan-tensions-military-news-war/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/world-news/2022/08/06/taiwan_war_games_lead_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg?impolicy=logo-overlay",
-            "publishedAt": "2022-08-06T15:18:00Z",
-            "content": "The seven zones in which Chinese forces are currently exercising were chosen for their importance in a potential campaign to seal off the island and thwart foreign intervention, according to Major Ge… [+1549 chars]"
+            "title": "Steve Barclay: It will be a sprint to avoid an NHS winter crisis - The Telegraph",
+            "description": "Health Secretary tells The Telegraph that hospitals face ‘very serious challenges coming down the track in the autumn’",
+            "url": "https://www.telegraph.co.uk/politics/2022/08/07/steve-barclay-will-sprint-avoid-nhs-winter-crisis/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/politics/2022/08/07/TELEMMGLPICT000304864776_1_trans_NvBQzQNjv4BqtTVKrFaS1H77uAjii304ervsmVynDXPDSQstsk6ilEk.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2022-08-07T20:30:00Z",
+            "content": "He has set up a task force in his department to bring much more focus to this issue, to work at it at pace and to see what is the scope of the opportunity.\r\nI have been working at pace over recent we… [+1606 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Nintendo Life"
+                "name": "Telegraph.co.uk"
             },
-            "author": "Kate Gray",
-            "title": "Back Page: How To Make Your Own Xenoblade Chronicles 3 Monster Name - Nintendo Life",
-            "description": "The Ballad of Sharpwitted Tracy",
-            "url": "https://www.nintendolife.com/features/back-page-how-to-make-your-own-xenoblade-chronicles-3-monster-name",
-            "urlToImage": "https://images.nintendolife.com/de5f798be0da4/1280x720.jpg",
-            "publishedAt": "2022-08-06T15:00:00Z",
-            "content": "In the magazine business, the Back Page is where you'd find all the weird goofs that we couldn't fit in anywhere else. Some may call it \"filler\"; we prefer \"a whole page to make terrible jokes that a… [+8617 chars]"
+            "author": null,
+            "title": "Steve Barclay dispels image of 'zombie' health department - The Telegraph",
+            "description": "Health Secretary wants to take a ‘political risk’ to help the NHS through what is certain to be a challenging winter",
+            "url": "https://www.telegraph.co.uk/politics/2022/08/07/steve-barclay-dispels-image-zombie-health-department/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/politics/2022/08/07/TELEMMGLPICT000304864775_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2022-08-07T20:30:00Z",
+            "content": "We are sitting at a large oval conference table in his office, which boasts a large glass wall and terrace with spectacular views over Westminster.\r\nIt is a room that has hosted three occupants in th… [+3674 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
+                "name": "Sky.com"
             },
-            "author": "Geneva Abdul",
-            "title": "Ministers coordinate response after cyber-attack hits NHS 111 - The Guardian",
-            "description": "Outage that affected services across system may not be fully resolved until next week, says IT provider",
-            "url": "https://amp.theguardian.com/society/2022/aug/06/ministers-coordinate-response-cyberattack-nhs",
-            "urlToImage": null,
-            "publishedAt": "2022-08-06T14:26:00Z",
-            "content": "NHSOutage that affected services across system may not be fully resolved until next week, says IT provider\r\nMinisters are working to coordinate a resilience response after a cyber-attack caused a sig… [+2433 chars]"
+            "author": "Victoria Seabrook",
+            "title": "US Senate passes landmark $430bn climate change, tax and drug pricing bill to lower global warming emissions - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/u-s-senate-passes-landmark-430bn-climate-change-tax-and-drug-pricing-bill-12668146",
+            "urlToImage": "https://e3.365dm.com/22/08/1600x900/skynews-senate-usa-chuck-schumer_5857966.jpg?20220807221058",
+            "publishedAt": "2022-08-07T20:26:15Z",
+            "content": "The US Senate has approved a sweeping package that supporters say will slash climate heating carbon emissions, lower drug prices for the elderly and demand higher taxes from corporations and the weal… [+3815 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WhatCulture"
+            },
+            "author": "Gareth Morgan",
+            "title": "Ranking Every WWE To AEW Move From Worst To Best - WhatCulture",
+            "description": "Which WWE to AEW moves have gone on to be epic hits? And how many will go down as misses?",
+            "url": "https://whatculture.com/wwe/ranking-every-wwe-to-aew-move-from-worst-to-best",
+            "urlToImage": "https://cdn3.whatculture.com/images/2022/08/40585863dd841340-1200x675.jpg",
+            "publishedAt": "2022-08-07T18:42:41Z",
+            "content": "The landscape may have somewhat shifted again over the last few weeks, with AEW's biggest competitor thoroughly shaking up their creative team on the back of Vince McMahon's sudden resignation, but t… [+1770 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telegraph.co.uk"
+            },
+            "author": null,
+            "title": "Partygate investigation an 'obscene abuse of power', ministers say - The Telegraph",
+            "description": "Lord Zac Goldsmith and Nadine Dorries criticise ‘highly partisan, vengeful and vindictive MPs’ behind inquiry into Boris Johnson",
+            "url": "https://www.telegraph.co.uk/politics/2022/08/07/partygate-investigation-obscene-abuse-power-ministers-say/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/politics/2022/08/07/TELEMMGLPICT000276802445_trans_NvBQzQNjv4BqoQPvIBMppk-9YjIHtLBmo10zLz5eFJ--D5q8qaCKGwA.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2022-08-07T17:39:00Z",
+            "content": "The Privileges Committee has called for those with knowledge of the 12 alleged parties in Westminster to come forward to give evidence including former staff such as civil servants and have been gran… [+756 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Lamiat Sabin",
+            "title": "Feltham fire: 70 firefighters tackle large blaze metres away from homes in west London - The Independent",
+            "description": "The smoke could be seen by passengers on planes about to land at nearby Heathrow Airport",
+            "url": "https://www.independent.co.uk/news/uk/home-news/feltham-fire-west-london-firefighters-b2140240.html",
+            "urlToImage": "https://static.independent.co.uk/2022/08/07/18/newFile-1.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-08-07T17:38:16Z",
+            "content": "About 70 firefighters have been called to the scene of an outdoor fire in Feltham, west London, just metres away from peoples homes.\r\nTrees, hedges, plants, and garden decking have been burning behin… [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telegraph.co.uk"
+            },
+            "author": null,
+            "title": "Why Europe is suffering a worse inflation crisis than Britain - The Telegraph",
+            "description": "The UK is suffering less inflation than the average EU nation",
+            "url": "https://www.telegraph.co.uk/business/2022/08/07/why-europe-suffering-worse-inflation-crisis-britain/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2022/08/07/A-map-of-Europe-with-Euros-and-pound-coins_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png?impolicy=logo-overlay",
+            "publishedAt": "2022-08-07T17:25:00Z",
+            "content": "While alternative sources have been found, rising gas, electricity and petrol prices still account for around half of the Netherlands inflation, which was 9.9pc in June.\r\nThe Netherlands is very, ver… [+1785 chars]"
         }
     ]
 }
