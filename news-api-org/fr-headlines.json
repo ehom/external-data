@@ -4,42 +4,81 @@
     "articles": [
         {
             "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Le Monde avec AFP",
+            "title": "Un incendie parcourt 400 hectares entre Lozère et Aveyron - Le Monde",
+            "description": "En fin d’après midi à 17 h 30, la surface parcourue par le feu était encore de 50 hectares, face à une progression soudaine 200 pompiers sont mobilisés dans des secteurs de pinèdes difficile d’accès.",
+            "url": "https://www.lemonde.fr/planete/article/2022/08/09/un-incendie-parcourt-400-hectares-entre-lozere-et-aveyron_6137534_3244.html",
+            "urlToImage": "https://img.lemde.fr/2022/08/08/85/0/2048/1365/1440/960/60/0/e863a4e_1660000733321-fzqiqthxwae5dx7.jpeg",
+            "publishedAt": "2022-08-08T22:11:35Z",
+            "content": "Un nuage de fumée qui provient de lincendie qui sévit en Lozère et en Aveyron. Le 8 août 2022 MÉTÉO SUD-AVEYRON\r\nUn incendie parti en fin de journée lundi 8 août du Massegros, en Lozère, déclenché pa… [+1792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": "Alice Galopin, Luc Chagnon, Juliette Campion",
+            "title": "Gaza : le Conseil de sécurité de l'ONU se réunit en urgence au lendemain de la trêve entre le Jihad islamique et Israël - franceinfo",
+            "description": "Israël rouvre la frontière avec la bande de Gaza, au lendemain de l'entrée en vigueur d'une trêve, \"pour des besoins humanitaires\", a annoncé Tel-Aviv.",
+            "url": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/direct-israel-rouvre-la-frontiere-avec-la-bande-de-gaza-au-lendemain-de-l-entree-en-vigueur-d-une-treve_5298991.html",
+            "urlToImage": "https://www.francetvinfo.fr/image/761b712yr-db12/1500/843/28583455.jpg",
+            "publishedAt": "2022-08-08T22:09:48Z",
+            "content": "Retrouvez ici l'intégralité de notre live #GAZA\r\n20h03 : Bonsoir @Elisa, le Jihad islamique, fondé dans les années 1980, est principalement implanté à Gaza mais est également présent en Cisjordanie, … [+8319 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foot Mercato"
+            },
+            "author": "Lucas Billard",
+            "title": "OM : Jérôme Rothen dézingue Igor Tudor - Foot Mercato",
+            "description": "",
+            "url": "https://www.footmercato.net/a7050764747143287949-om-jerome-rothen-dezingue-igor-tudor",
+            "urlToImage": "https://assets-fr.imgfoot.com/media/cache/1200x675/tudor-om-vs-reims.jpg",
+            "publishedAt": "2022-08-08T21:56:14Z",
+            "content": "La suite après cette publicité\r\nMalgré une préparation estivale très mouvementée en interne et décevante sur le plan sportif, Igor Tudor a réussi ses premiers pas officiels en tant qu'entraîneur de l… [+1419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": null,
+            "title": "Vendée : un incendie dans une zone industrielle fait un mort et deux blessés - franceinfo",
+            "description": "\"La personne décédée est un jeune apprenti, a précisé la préfecture de Vendée qui ajoute qu'il \"y a un blessé léger chez les salariés\" et qu'un \"pompier blessé léger\" a été \"transporté à l'hôpital\".",
+            "url": "https://www.francetvinfo.fr/faits-divers/vendee-un-incendie-dans-une-zone-industrielle-fait-un-mort-et-deux-blesses_5299810.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/Scd3m40yXtXPG9UzbGRmSSZtbak/1500x843/2022/08/08/php8ic01p.jpg",
+            "publishedAt": "2022-08-08T21:32:57Z",
+            "content": "\"La personne décédée est un jeune apprenti, a précisé la préfecture de Vendée qui ajoute qu'il \"y a un blessé léger chez les salariés\" et qu'un \"pompier blessé léger\" a été \"transporté à l'hôpital\".U… [+879 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "20 Minutes"
             },
             "author": null,
-            "title": "Guerre en Ukraine EN DIRECT : Moscou accuse Kiev d’avoir bombardé la centrale de Zaporojie et évoque des… - 20 Minutes",
+            "title": "Guerre en Ukraine EN DIRECT : Kiev va recevoir un milliard de dollars d'aide américaine et 4,5 milliards de… - 20 Minutes",
             "description": "Retrouvez toutes les informations sur le conflit en ce lundi 8 août 2022",
             "url": "https://www.20minutes.fr/monde/3334943-20220808-guerre-ukraine-direct-secretaire-general-onu-reclame-arret-bombardements-visant-sites-nucleaires",
-            "urlToImage": "https://img.20mn.fr/JWfPOQ_RScOtUqo_ft20FA/1200x768_un-soldat-russe-gardant-la-centrale-nucleaire-de-zaporijjia-le-1er-mai-2022-illustration",
-            "publishedAt": "2022-08-08T09:57:22Z",
-            "content": "7h59 : Marina Ovsiannikova jugée pour « discréditation de l’armée »Les ennuis judiciaires se poursuivent pour la présentatrice. Le 14 mars dernier, elle avait interrompu en direct le journal de la pr… [+765 chars]"
+            "urlToImage": "https://img.20mn.fr/HU0qhCadTBi012xX6lQ5Tyk/1200x768_dollars",
+            "publishedAt": "2022-08-08T20:38:57Z",
+            "content": "21h34 : Près de 80.000 soldats russes tués ou blessés, selon le PentagonePrès de 80.000 soldats russes ont été tués ou blessés depuis le début de l’invasion de l’Ukraine, a déclaré lundi le numéro tr… [+874 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Le Blog de Jean-Marc Morandini"
+                "name": "Onze Mondial"
             },
-            "author": "Jean-Marc Morandini",
-            "title": "Audiences Prime: \"Bienvenue à Marly-Gomont\" sur TF1 large leader à 3,3 millions - Le film de France 2 et ... - Le Blog de Jean-Marc Morandini",
-            "description": "Hier soir, TF1 misait sur un film avec \"Bienvenue à Marly-Gomont\", tandis que France 2 proposait \"Les traducteurs\". De son côté, France 3 pariait sur \"Le ...",
-            "url": "https://www.jeanmarcmorandini.com/article-508033-audiences-prime-bienvenue-a-marly-gomont-sur-tf1-large-leader-a-33-millions-le-film-de-france-2-et-capital-sur-m6-a-19-million-france-3-faible.html",
-            "urlToImage": "https://static.jeanmarcmorandini.com/sites/jeanmarcmorandini.com/files/styles/facebook/public/bienvenue_a_marly_gomont_0.jpeg?itok=pRRJ0zA0",
-            "publishedAt": "2022-08-08T09:56:00Z",
-            "content": "TF1 1er par défaut avec ENCORE une redif' !\r\nL'inédit de F2 trop faible. F5 en forme sans atteindre le million.\r\nChérie 25, bien haute pour une redif' d'une série de F2.\r\nHier regarder James Bond \"oc… [+81 chars]"
-        },
-        {
-            "source": {
-                "id": "lequipe",
-                "name": "L'equipe"
-            },
-            "author": "Rédaction",
-            "title": "Sébastien Desabre nouveau sélectionneur de la RD Congo - L'Équipe",
-            "description": "L'ancien entraîneur de Niort, Sébastien Desabre, a lui-même annoncé son arrivée à la tête de la sélection de la RD Congo, dimanche.",
-            "url": "https://www.lequipe.fr/Football/Actualites/Sebastien-desabre-nouveau-selectionneur-de-la-rd-congo/1347177",
-            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/sebastien-desabre-est-le-nouveau-selectionneur-de-la-rd-congo-r-perrocheau-l-equipe/1500000001672513/0:0,1998:1332-640-427-75/82c3f.jpg",
-            "publishedAt": "2022-08-08T08:53:12Z",
-            "content": "Finalement, la Fédération de la République démocratique du Congo (FECOFA) ne s'était pas tant précipitée en annonçant, samedi, la nomination à la tête de sa sélection du maintenant ex-entraîneur de N… [+591 chars]"
+            "author": "Yassine Ben Amor",
+            "title": "Naples, PSG : en attendant Navas, un ancien gardien parisien va rejoindre le Napoli ! - Onze Mondial",
+            "description": "Toujours à la recherche d’un gardien titulaire, le Napoli est tout proche de boucler l’arrivée d’une doublure.",
+            "url": "https://www.onzemondial.com/transferts/naples-psg-en-attendant-navas-un-ancien-gardien-du-psg-va-rejoindre-le-napoli-790855",
+            "urlToImage": "https://static.onzemondial.com/8/2022/08/photo_article/790855/312935/1200-L-naples-psg-en-attendant-navas-un-ancien-gardien-du-psg-va-rejoindre-le-napoli.jpg",
+            "publishedAt": "2022-08-08T20:23:57Z",
+            "content": null
         },
         {
             "source": {
@@ -47,103 +86,129 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "La Chine annonce poursuivre ses exercices militaires près de Taïwan - Le Figaro",
+            "title": "Accident à la Poudrerie de Bergerac: un «flash» suivi de trois explosions, selon Eurenco - Le Figaro",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL2ludGVybmF0aW9uYWwvbGEtY2hpbmUtcG91cnN1aXQtc2VzLWV4ZXJjaWNlcy1taWxpdGFpcmVzLXByZXMtZGUtdGFpd2FuLTIwMjIwODA40gFoaHR0cHM6Ly9hbXAubGVmaWdhcm8uZnIvaW50ZXJuYXRpb25hbC9sYS1jaGluZS1wb3Vyc3VpdC1zZXMtZXhlcmNpY2VzLW1pbGl0YWlyZXMtcHJlcy1kZS10YWl3YW4tMjAyMjA4MDg?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL3NvY2lldGVzL2FjY2lkZW50LWEtbGEtcG91ZHJlcmllLWRlLWJlcmdlcmFjLXVuLWZsYXNoLXN1aXZpLWRlLXRyb2lzLWV4cGxvc2lvbnMtc2Vsb24tZXVyZW5jby0yMDIyMDgwONIBfmh0dHBzOi8vYW1wLmxlZmlnYXJvLmZyL3NvY2lldGVzL2FjY2lkZW50LWEtbGEtcG91ZHJlcmllLWRlLWJlcmdlcmFjLXVuLWZsYXNoLXN1aXZpLWRlLXRyb2lzLWV4cGxvc2lvbnMtc2Vsb24tZXVyZW5jby0yMDIyMDgwOA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-08-08T08:41:56Z",
+            "publishedAt": "2022-08-08T20:08:16Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "20 Minutes"
+                "name": "CNEWS.fr"
             },
-            "author": "Aymeric Le Gall",
-            "title": "OM : Hué par le Vélodrome contre Reims, Igor Tudor avale la pilule sans broncher - 20 Minutes",
-            "description": "Le nouvel entraîneur marseillais s’est fait copieusement siffler par le public marseillais avant le coup d’envoi du match contre Reims. La victoire des siens devrait lui offrir un peu de répit avant le déplacement à Brest dimanche",
-            "url": "https://www.20minutes.fr/sport/football/3334967-20220808-om-hue-velodrome-contre-reims-igor-tudor-avale-pilule-broncher",
-            "urlToImage": "https://img.20mn.fr/6bWl9F0vSYek0566tMgbiCk/1200x768_igor-tudor-connu-premiere-agitee-banc-om-lors-reception-reims-velodrome",
-            "publishedAt": "2022-08-08T08:24:30Z",
-            "content": "Malgré une préparation folklorique marquée par des tensions en interne, l’Olympique de Marseille a parfaitement entamé sa saison en battant le Stade de Reims (4-1) au Vélodrome dimanche soir. Un succ… [+1944 chars]"
+            "author": "CNEWS avec AFP",
+            "title": "Variole du singe : le gros centre de vaccination à Paris rappelle des personnes vaccinées - CNEWS",
+            "description": "Une rupture de la chaîne du froid début août au sein du gros centre de vaccination parisien contre la variole du singe, nécessite de réitérer les injections effectuées ces jours-là, soit près de 500 personnes, a indiqué lundi la marie de Paris, excluant tout …",
+            "url": "https://www.cnews.fr/france/2022-08-08/variole-du-singe-le-gros-centre-de-vaccination-paris-rappelle-des-personnes",
+            "urlToImage": "https://static.cnews.fr/sites/default/files/000_32fx3c2-taille1200_62f151be954d1_0.jpg",
+            "publishedAt": "2022-08-08T20:03:53Z",
+            "content": "Publié le\r\n08/08/2022 à 21:57 -\r\nMis à jour le\r\n08/08/2022 à 21:58\r\nUne rupture de la chaîne du froid début août au sein du gros centre de vaccination parisien contre la variole du singe, nécessite d… [+1755 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Pure People"
+                "name": "Francetvinfo.fr"
             },
-            "author": "Caroline Perrin",
-            "title": "Mort de Daniel Lévi : \"Il n'a pas eu le succès qu'il méritait\", les regrets d'une célèbre chanteuse... - Pure People",
-            "description": "Daniel Lévi a rendu son dernier souffle le 6 août dernier à l'âge de 60 ans, après avoir lutté de longues années contre un cancer du côlon. Sa disparition a ému ses nombreux fans et les grands acteurs de la musique française pour qui l'artiste n'a pas toujour…",
-            "url": "https://www.purepeople.com/article/mort-de-daniel-levi-il-n-a-pas-eu-le-succes-qu-il-meritait-les-regrets-d-une-celebre-chanteuse_a495514/1",
-            "urlToImage": "https://static1.purepeople.com/articles/4/49/55/14/@/7198814-exclusif-daniel-levi-gala-digital-de-opengraph_1200-3.jpg",
-            "publishedAt": "2022-08-08T07:42:00Z",
-            "content": "Les dernières nouvelles de Daniel Lévi données par son épouse Sandrine Aboukrat laissaient présager le pire. Le pire a fini par arriver. Ce samedi 6 août, après de longues années de bataille contre u… [+2029 chars]"
+            "author": null,
+            "title": "Incendies en France : comment expliquer leur multiplication en 2022 ? - franceinfo",
+            "description": "Depuis le début de l'année 2022, 48 415 hectares ont pris feu en France. Avec la sécheresse historique du pays, les incendies touchent de nouvelles zones. Le réchauffement climatique fait craindre une répétition des feux.",
+            "url": "https://www.francetvinfo.fr/meteo/secheresse/incendies-en-france-comment-expliquer-leur-multiplication-en-2022_5299732.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/6Dm4xQzFk7p5Q1rqKKZhhN8A7CE/1500x843/2022/08/08/phpDn9YCF.jpg",
+            "publishedAt": "2022-08-08T20:00:34Z",
+            "content": "Depuis le début de l'année 2022, 48 415 hectares ont pris feu en France. Avec la sécheresse historique du pays, les incendies touchent de nouvelles zones. Le réchauffement climatique fait craindre un… [+1098 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "L'actrice Olivia Newton-John, star du film Grease, est morte à l'âge de 73 ans - Le Figaro",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL2NpbmVtYS9sLWFjdHJpY2Utb2xpdmlhLW5ld3Rvbi1qb2huLXN0YXItZGUtZ3JlYXNlLW1ldXJ0LWEtNzMtYW5zLTIwMjIwODA40gFiaHR0cHM6Ly9hbXAubGVmaWdhcm8uZnIvY2luZW1hL2wtYWN0cmljZS1vbGl2aWEtbmV3dG9uLWpvaG4tc3Rhci1kZS1ncmVhc2UtbWV1cnQtYS03My1hbnMtMjAyMjA4MDg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-08-08T19:50:53Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Foot Mercato"
+                "name": "Le Parisien"
             },
-            "author": "Zino Tissier",
-            "title": "L1 : une statistique incroyable pour la 1ère journée - Foot Mercato",
-            "description": "",
-            "url": "https://www.footmercato.net/a7799638877281194151-ligue-1-une-statistique-incroyable-pour-la-1ere-journee",
-            "urlToImage": "https://assets-fr.imgfoot.com/media/cache/1200x675/sotoca-rcl.jpg",
-            "publishedAt": "2022-08-08T07:21:07Z",
-            "content": "Un triplé de Florian Sotoca avec Lens, un doublé de Luis Suarez avec l'OM ou encore les deux buts de Lionel Messi ont contribué à cette escalade de but en Ligue 1 ce week-end. Avec 34 buts dans cette… [+938 chars]"
+            "author": "Le Parisien",
+            "title": "Rodéo urbain à Pontoise : un homme de 18 ans mis en examen et placé en détention - Le Parisien",
+            "description": "Il avait été placé en garde à vue samedi après avoir reconnu avoir renversé et grièvement blessé deux enfants âgés de 7 et 11 ans vendredi soir.",
+            "url": "https://www.leparisien.fr/val-d-oise-95/rodeo-urbain-a-pontoise-un-homme-de-18-ans-mis-en-examen-08-08-2022-7DEL5LRLGVBA3BJ5VWZ5QSPRH4.php",
+            "urlToImage": "https://www.leparisien.fr/resizer/UOtO3K_gY7O6lUXG2R8PBiJneso=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/C4JVEDYWSVB3BGROV46VXNHWP4.jpg",
+            "publishedAt": "2022-08-08T19:02:00Z",
+            "content": "Le jeune homme de 18 ans placé en garde à vue samedi après avoir reconnu avoir renversé et grièvement blessé deux enfants âgés de 7 et 11 ans vendredi soir avec un motocross lors dun rodéo urbain à P… [+1693 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eurosport.fr"
+                "name": "Midi Libre"
             },
-            "author": "Clément Lemaître",
-            "title": "Didier Deschamps met en garde Zinédine Zidane pour le poste de sélectionneur : \"La place n'est pas libre\" - Eurosport FR",
-            "description": "EQUIPE DE FRANCE - Didier Deschamps a mis en garde Zinédine Zidane, actuellement sans club, sur les Bleus ce lundi dans un entretien accordé au Parisien.",
-            "url": "https://www.eurosport.fr/football/equipe-de-france/2021-2022/didier-deschamps-met-en-garde-zinedine-zidane-pour-le-poste-de-selectionneur-la-place-n-est-pas-libr_sto9077645/story.shtml",
-            "urlToImage": "https://i.eurosport.com/2022/06/14/3392599-69332248-2560-1440.jpg",
-            "publishedAt": "2022-08-08T07:10:46Z",
-            "content": "\"On a eu l'impression de revoir le Deschamps de l'Euro\" : Pourquoi DD a-t-il autant tâtonné ?\r\n00:06:43"
+            "author": "Benjamin Polge",
+            "title": "Carburants : nouvelle baisse début août, visualisez l'évolution des prix depuis 2020 - Midi Libre",
+            "description": "Les tarifs des carburants viennent encore de baisser pour la première semaine d'août, annonce le ministère de la Transition écologique. Un mouvement baissier amorcé dans la semaine du lundi 18 juillet 2022.",
+            "url": "https://www.midilibre.fr/2022/08/08/carburants-nouvelle-baisse-debut-aout-visualisez-levolution-des-prix-depuis-2020-10478586.php",
+            "urlToImage": "https://images.midilibre.fr/api/v1/images/view/62f11ae803aca764207fe9c6/large/image.jpg?v=1",
+            "publishedAt": "2022-08-08T18:01:00Z",
+            "content": "Les tarifs des carburants viennent encore de baisser pour la première semaine d'août, annonce le ministère de la Transition écologique. Un mouvement baissier amorcé dans la semaine du lundi 18 juille… [+1613 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Le HuffPost"
+                "name": "Www.tf1.fr"
             },
-            "author": "Le HuffPost avec AFP",
-            "title": "La police de Londres mise en cause pour l'ampleur « inquiétante » des fouilles à nu de mineurs - Le HuffPost",
-            "description": "En deux ans, environ 650 mineurs de 10 à 17 ans, majoritairement des adolescents noirs, ont été soumis à ce type de fouilles.",
-            "url": "https://www.huffingtonpost.fr/international/article/la-police-de-londres-mise-en-cause-pour-l-ampleur-inquietante-des-fouilles-a-nu-de-mineurs_206340.html",
-            "urlToImage": "https://huffpost-focus.sirius.press/2022/08/08/2dac0bd_1659941080144-000-322879t.jpg",
-            "publishedAt": "2022-08-08T07:06:12Z",
-            "content": "ROYAUME-UNI - La police londonienne rattrapée par un scandale. La commissaire à lenfance pour lAngleterre a exprimé, ce lundi 8 août, son inquiétude devant lampleur du recours par la police de la cap… [+2893 chars]"
+            "author": null,
+            "title": "DNA du 9 août 2022 en avance - C'est bien le sang de Samuel... - MYTF1",
+            "description": "La police confirme les craintes de Victoire, mais la découverte d’un indice pourrait leur permettre de retrouver le coupable. Emma initie Camille à une pratique risquée. La confiance de Gaspard envers Tristan est mise à rude épreuve.. Retrouvez \"Demain nous a…",
+            "url": "https://www.tf1.fr/tf1/demain-nous-appartient/videos/dna-du-9-aout-2022-en-avance-94705466.html",
+            "urlToImage": "https://photos.tf1.fr/1200/720/dna-du-9-aout-2022-en-avance-94705466-1659962740-0788eb-a512d6-0@1x.jpg",
+            "publishedAt": "2022-08-08T18:00:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Sud Ouest"
+                "name": "Asmonaco.com"
             },
-            "author": "Sudouest.fr",
-            "title": "Incendies en Dordogne : environ 110 hectares brûlés et le feu menace toujours de reprendre - Sud Ouest",
-            "description": "Ces feux qui ont ravagé plusieurs parcelles forestières de la Double dans la nuit du 7 au 8 août semblaient fixés au matin. Mais les conditions météo donnent du fil à retordre aux sapeurs-pompiers",
-            "url": "https://www.sudouest.fr/faits-divers/incendies-en-dordogne-environ-110-hectares-brules-et-des-sapeurs-pompiers-toujours-sur-le-pont-11891998.php",
-            "urlToImage": "https://media.sudouest.fr/11891998/1200x-1/fzligv-xwaab2yl.jpg",
-            "publishedAt": "2022-08-08T06:55:25Z",
-            "content": "Dimanche 7 août, deux feux sont partis successivement de parcelles de résineux, à La Roche-Chalais et Eygurande-et-Gardedeuil. Vers minuit, les sapeurs-pompiers parlaient de 110 hectares détruits env… [+1542 chars]"
+            "author": null,
+            "title": "Le groupe de l'AS Monaco pour le déplacement à Eindhoven - AS Monaco",
+            "description": "Découvre la liste des joueurs retenus par Philippe Clement pour le 3e tour préliminaire retour de Ligue des Champions à Eindhoven.",
+            "url": "https://www.asmonaco.com/le-groupe-des-rouge-et-blanc-pour-eindhoven/",
+            "urlToImage": "https://www.asmonaco.com/wp-content/uploads/2022/08/groupe-1.jpg",
+            "publishedAt": "2022-08-08T17:54:45Z",
+            "content": null
         },
         {
             "source": {
-                "id": "les-echos",
-                "name": "Les Echos"
+                "id": null,
+                "name": "Yahoo Entertainment"
             },
-            "author": "Les Echos",
-            "title": "Les recommandations des analystes : Deezer, LVMH, Kering, Axa, Renault, Crédit Agricole, Nexans - Investir",
-            "description": "Ce lundi matin, Deutsche Bank initie la couverture de la plateforme de streaming audio Deezer, qui s’est introduite...",
-            "url": "https://investir.lesechos.fr/marches/les-recos-des-analystes/les-recommandations-des-analystes-deezer-lvmh-kering-axa-renault-credit-agricole-nexans-2029811.php",
-            "urlToImage": "https://investir.lesechos.fr/medias/2022/08/08/2029811_1659939937_2029555-1659697412-2024780-1657022749-deezer3.jpg",
-            "publishedAt": "2022-08-08T06:23:00Z",
-            "content": "Deezer : Deutsche Bank initie la couverture à « conserver » et vise 5 euros.\r\nLVMH : Credit Suisse maintient son opinion à « surperformance » et son cours cible à 800 euros. Sur Kering, le bureau gar… [+407 chars]"
+            "author": null,
+            "title": "\"On a donné en pâture mon fils à l'Amérique\": le père de Sébastien Raoult dénonce un \"déni de justice\" - Yahoo Actualités",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dbf479fb-cc5a-4ff4-ba51-e69a748c7ae6",
+            "urlToImage": null,
+            "publishedAt": "2022-08-08T17:06:34Z",
+            "content": "Yahoo fait partie de la famille de marques Yahoo.\r\nEn cliquant sur Accepter tout, vous consentez à ce que Yahoo et nos partenaires stockent et/ou utilisent des informations sur votre appareil par lin… [+1069 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Covid-19 : 109 morts en 24 heures, moins de 1200 malades en soins critiques - Le Figaro",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL3NjaWVuY2VzL2NvdmlkLTE5LTEwOS1tb3J0cy1lbi0yNC1oZXVyZXMtbW9pbnMtZGUtMTIwMC1tYWxhZGVzLWVuLXNvaW5zLWNyaXRpcXVlcy0yMDIyMDgwONIBcmh0dHBzOi8vYW1wLmxlZmlnYXJvLmZyL3NjaWVuY2VzL2NvdmlkLTE5LTEwOS1tb3J0cy1lbi0yNC1oZXVyZXMtbW9pbnMtZGUtMTIwMC1tYWxhZGVzLWVuLXNvaW5zLWNyaXRpcXVlcy0yMDIyMDgwOA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-08-08T16:35:25Z",
+            "content": null
         },
         {
             "source": {
@@ -151,38 +216,38 @@
                 "name": "Boursorama"
             },
             "author": null,
-            "title": "Les actions européennes devraient repartir à la hausse pour le début de semaine - Boursorama",
-            "description": "par Laetitia Volga\n\n\n PARIS (Reuters) -     Les principales Bourses européennes sont attendues en hausse à l'ouverture lundi et devraient effacer une partie des pertes de la séance précédente à la suite des chiffres sur l'emploi américain, en attendant de nou…",
-            "url": "https://www.boursorama.com/bourse/actualites/les-actions-europeennes-devraient-repartir-a-la-hausse-pour-le-debut-de-semaine-c8d1fddb86a2540466b1fba759181277",
-            "urlToImage": "https://s.brsimg.com/static-000/cache/i/content/images/3/6/c/36cdb85b319649af565f3d076b9dd5e9-1200x800.jpg",
-            "publishedAt": "2022-08-08T05:55:41Z",
-            "content": "LES ACTIONS EUROPÉENNES DEVRAIENT REPARTIR À LA HAUSSE POUR LE DÉBUT DE SEMAINE\r\npar Laetitia Volga\r\nPARIS (Reuters) - Les principales Bourses européennes sont attendues en hausse à l'ouverture lundi… [+3747 chars]"
+            "title": "Les actions en nette hausse, repli des rendements et du dollar - Boursorama",
+            "description": "PARIS (Reuters) -     Les Bourses européennes ont terminé en nette hausse lundi, la progression de Wall Street en matinée ayant permis d'amplifier le rebond enclenché par le recul des rendements obligataires, même si les incertitudes sur l'inflation et les ta…",
+            "url": "https://www.boursorama.com/bourse/actualites/les-actions-en-nette-hausse-repli-des-rendements-et-du-dollar-ff2932251390e18aae40d2b45fdffdf9",
+            "urlToImage": "https://s.brsimg.com/static-000/cache/i/content/images/8/2/9/82960d3c255ea9e10f54e9022b7ad6bc-1200x800.jpg",
+            "publishedAt": "2022-08-08T16:10:57Z",
+            "content": "LES BOURSES EUROPÉENNES TERMINENT EN HAUSSE\r\nPARIS (Reuters) - Les Bourses européennes ont terminé en nette hausse lundi, la progression de Wall Street en matinée ayant permis d'amplifier le rebond e… [+3990 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "20 Minutes"
+                "name": "Paris Match"
             },
-            "author": "Clément Rodriguez",
-            "title": "« 20 ans d’amour » : « Je n’ai pas compris pourquoi on ne pouvait plus être amis avec Laurent », confie… - 20 Minutes",
-            "description": "Celle qui s’est fait piéger il y a dix-sept ans sur TF1 revient sur l’émission qui l’a fait connaître auprès de la France entière",
-            "url": "https://www.20minutes.fr/arts-stars/television/3333851-20220808-20-ans-amour-compris-pourquoi-pouvait-plus-etre-amis-laurent-confie-adeline-incroyable-fiance",
-            "urlToImage": "https://img.20mn.fr/g7vCUHgiQiWoRml9yxDs7Sk/1200x768_laurent-ournac-adeline-incroyable-fiance",
-            "publishedAt": "2022-08-08T05:55:03Z",
-            "content": "Le Bachelor, Greg le millionnaire, Mariés au premier regard… On ne compte plus les émissions qui tentent de faire se rencontrer deux âmes sœurs. M6 propose alors de revenir sur les plus grandes émiss… [+6065 chars]"
+            "author": null,
+            "title": "Pascal Obispo révèle que son fils porte un prénom hommage à Daniel Lévi - Paris Match",
+            "description": "Les deux artistes étaient restés amis depuis leur rencontre dans la comédie musicale «Les Dix Commandements».",
+            "url": "https://www.parismatch.com/People/Mort-de-Daniel-Levi-Pascal-Obispo-lui-rend-hommage-1820630",
+            "urlToImage": "https://resize-parismatch.lanmedia.fr/var/pm/public/media/image/2022/08/08/15/pascal-obispo-revele-que-son-fils-porte-un-prenom-hommage-a-daniel-levi.jpg?VersionId=W_C4Rimr3PTvj62Yygudfgt9.7V.Gq9m",
+            "publishedAt": "2022-08-08T16:10:00Z",
+            "content": "Les deux artistes étaient restés amis depuis leur rencontre dans la comédie musicale «Les Dix Commandements».Suite au décès de Daniel Lévi , survenu le 6 août, de nombreuses personnalités lui ont ren… [+1861 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Pressesante.com"
+                "name": "jeuxvideo.com"
             },
-            "author": "Marie Desange",
-            "title": "La rémission d'un cancer signifie t-elle la guérison? - Presse santé",
-            "description": "La rémission signifie que les signes et les symptômes du cancer ont diminué. Elle peut être partielle ou complète. Lorsqu'une personne connaît une rémission complète du cancer, tous les signes et symp",
-            "url": "https://www.pressesante.com/la-remission-dun-cancer-signifie-t-elle-la-guerison/",
-            "urlToImage": "https://www.pressesante.com/wp-content/uploads/2021/11/Recidive-du-cancer-Freepik.jpg",
-            "publishedAt": "2022-08-08T05:03:42Z",
-            "content": "La rémission signifie que les signes et les symptômes du cancer ont diminué. Elle peut être partielle ou complète. Lorsquune personne connaît une rémission complète du cancer, tous les signes et symp… [+6144 chars]"
+            "author": "Ayden_",
+            "title": "Top Gun Maverick : Tom Cruise s’envole vers les sommets et surpasse un mythe du cinéma - jeuxvideo.com",
+            "description": "L’année 1997 a été marquée par la sortie au cinéma d’un véritable mastodonte au box-office. S’inspirant du récit du naufrage du célèbre navire le 14 avril 1912, Titanic a littéralement tout renversé sur son passage. Un duo – DiCaprio/Winslet – inoubliable, un…",
+            "url": "https://www.jeuxvideo.com/news/1614914/top-gun-maverick-tom-cruise-s-envole-vers-les-sommets-et-surpasse-un-mythe-du-cinema.htm",
+            "urlToImage": "https://image.jeuxvideo.com/medias-md/165997/1659973572-5726-card.jpg",
+            "publishedAt": "2022-08-08T15:49:12Z",
+            "content": "Lannée 1997 a été marquée par la sortie au cinéma dun véritable mastodonte au box-office. Sinspirant du récit du naufrage du célèbre navire le 14 avril 1912, Titanic a littéralement tout renversé sur… [+2306 chars]"
         },
         {
             "source": {
@@ -190,77 +255,12 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Ehpad. « On se doit d'être irréprochables de haut en bas », promet la dirigeante du groupe Korian - Ouest-France",
+            "title": "Béluga dans la Seine. L’animal va être déplacé vers la Manche, une « importante logistique » prévue - Paris-Normandie",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiqQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvc29jaWV0ZS9zZW5pb3JzL2VudHJldGllbi1vbi1zZS1kb2l0LWQtZXRyZS1pcnJlcHJvY2hhYmxlcy1kZS1oYXV0LWVuLWJhcy1wcm9tZXQtbGEtZGlyaWdlYW50ZS1kZS1rb3JpYW4tMjZiOTMzZjAtMDBiYy0xMWVkLTlhY2QtNjRlNTBmY2UzMWUz0gEA?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiigFodHRwczovL3d3dy5wYXJpcy1ub3JtYW5kaWUuZnIvaWQzMzIwMzgvYXJ0aWNsZS8yMDIyLTA4LTA4L2JlbHVnYS1kYW5zLWxhLXNlaW5lLXRvdWpvdXJzLWRhbnMtbGVjbHVzZS1wcmVzLWRlLXZlcm5vbi1sZS1jZXRhY2UtZXN0LWRhbnMtdW7SAQA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-08-08T05:02:02Z",
+            "publishedAt": "2022-08-08T15:38:22Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Programme-television.org"
-            },
-            "author": "Télé 7 Jours",
-            "title": "Demain nous appartient : Nordine est pris au piège… Les résumés des épisodes de cette semaine - Télé7",
-            "description": "Que va-t-il se passer dans les épisodes de \"Demain nous appartient\" sur TF1, diffusés du lundi 8 au vendredi 12 août 2022 ? Spoilers…",
-            "url": "https://www.programme-television.org/news-tv/Demain-nous-appartient-Nordine-est-pris-au-piege-Les-resumes-des-episodes-de-cette-semaine-4691295",
-            "urlToImage": "https://resize.programme-television.ladmedia.fr/img/var/premiere/storage/images/tele-7-jours/news-tv/demain-nous-appartient-nordine-est-pris-au-piege-les-resumes-des-episodes-de-cette-semaine-4691295/99916583-1-fre-FR/Demain-nous-appartient-Nordine-est-pris-au-piege-Les-resumes-des-episodes-de-cette-semaine.jpg",
-            "publishedAt": "2022-08-08T04:57:00Z",
-            "content": "Lundi 8 août, épisode 1246 : Malgré les nombreux indices, Victoire refuse de croire à la nouvelle hypothèse des enquêteurs. Noor se montre très présente pour Cédric et sa famille. Aurore pousse Willi… [+2181 chars]"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Le Monde avec AFP",
-            "title": "Au Mexique, dix mineurs coincés sous terre depuis plusieurs jours - Le Monde",
-            "description": "Près de quatre cents secouristes sont mobilisés pour tenter de sauver les dix hommes coincés par 60 mètres de profondeur, dont la moitié a été inondée.",
-            "url": "https://www.lemonde.fr/international/article/2022/08/08/au-mexique-dix-mineurs-coinces-sous-terre-depuis-plusieurs-jours_6137466_3210.html",
-            "urlToImage": "https://img.lemde.fr/2022/08/06/66/0/3974/2649/1440/960/60/0/8bd0267_5880828-01-06.jpg",
-            "publishedAt": "2022-08-08T04:49:22Z",
-            "content": "Des soldats et des secouristes saffairent pour sauver dix mineurs piégés dans une mine de charbon depuis mercredi après un effondrement, à Agujita dans la localité de Las Sabinas, au Mexique, le 5 ao… [+2781 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Le Parisien"
-            },
-            "author": "Le Parisien avec AFP",
-            "title": "Météo : la vague de chaleur va s’intensifier malgré des orages, un pic de canicule attendu vendredi - Le Parisien",
-            "description": "La vague de chaleur actuelle va se poursuivre cette semaine en France, avec des températures en forte hausse en fin de semaine.",
-            "url": "https://www.leparisien.fr/meteo/jusqua-38c-la-vague-de-chaleur-va-sintensifier-la-semaine-prochaine-malgre-des-orages-07-08-2022-F6STINJDHZDYVGU4XCOJD3IYFQ.php",
-            "urlToImage": "https://www.leparisien.fr/resizer/CWUrCb5GNQlngVaMWY8KBktW4iQ=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/LSZVLYNJNJF7FLPOYKSXBBN4WY.jpg",
-            "publishedAt": "2022-08-08T04:33:00Z",
-            "content": "Ne rangez pas si vite les ventilateurs, les prochains jours seront tout aussi chauds voire plus ! La vague de chaleur actuelle va continuer la semaine prochaine en France, accompagnée dorages dans le… [+2183 chars]"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Clothilde Mraffko",
-            "title": "A Gaza, un cessez-le-feu précaire et une impasse politique persistante - Le Monde",
-            "description": "Quarante-cinq Palestiniens ont été tués lors de l’opération militaire israélienne dans l’enclave palestinienne. Le Jihad islamique, visé par les frappes de l’Etat hébreu, réclame la libération de deux prisonniers.",
-            "url": "https://www.lemonde.fr/international/article/2022/08/08/a-gaza-un-cessez-le-feu-entre-le-jihad-islamique-et-israel-et-une-impasse-politique-persistante_6137452_3210.html",
-            "urlToImage": "https://img.lemde.fr/2022/08/08/0/0/5792/3861/1440/960/60/0/9c5df6e_c4cd1add6d2944c9aacd006eaa4d0069-2b85b07fd02d41c495ef54d51009dfbd-0.jpg",
-            "publishedAt": "2022-08-08T03:53:18Z",
-            "content": "Une Palestinienne étend du linge, à Gaza, le 8 août 2022, dans sa maison endommagée, alors que le cessez-le-feu de la veille est maintenu. SUHAIB SALEM / REUTERS\r\nJusquau bout, roquettes palestinienn… [+3081 chars]"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Le Monde avec AFP et Reuters",
-            "title": "En Colombie, Gustavo Petro prête serment et devient le premier président de gauche du pays - Le Monde",
-            "description": "Cet ancien guérillero de 62 ans a lancé un appel aux groupes armés pour signer la paix et mettre fin à la « guerre antidrogues ». Il a aussi proposé la création un fonds international pour protéger l’Amazonie, en proie à la déforestation.",
-            "url": "https://www.lemonde.fr/international/article/2022/08/08/en-colombie-gustavo-petro-prete-serment-et-devient-le-premier-president-de-gauche-du-pays_6137445_3210.html",
-            "urlToImage": "https://img.lemde.fr/2022/08/07/15/0/3579/2386/1440/960/60/0/0caf88b_5895123-01-06.jpg",
-            "publishedAt": "2022-08-08T00:26:37Z",
-            "content": "Investiture du président colombien Gustavo Petro sur la place Bolivar, à Bogota, le 6 août 2022. RAUL ARBOLEDA / AFP\r\nUne foule immense de plusieurs centaines de milliers de personnes sest rassemblée… [+7561 chars]"
         }
     ]
 }
