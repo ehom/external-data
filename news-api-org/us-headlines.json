@@ -4,107 +4,55 @@
     "articles": [
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": "Marcia Dunn",
-            "title": "EXPLAINER: NASA tests new moon rocket, 50 years after Apollo - The Associated Press",
-            "description": "CAPE CANAVERAL, Fla. (AP) — Years late and billions over budget, NASA’s new moon rocket makes its debut next week in a high-stakes test flight before astronauts get on top. The 322-foot (98-meter) rocket will attempt to send an empty crew capsule into a far-f…",
-            "url": "https://apnews.com/article/astronomy-space-launches-spacex-exploration-technology-5db3523e917b5a4e612b0aef158286b8",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6ff87dab6df5455a88a1d116c0c36a9f/3000.jpeg",
-            "publishedAt": "2022-08-25T00:36:43Z",
-            "content": "CAPE CANAVERAL, Fla. (AP) Years late and billions over budget, NASAs new moon rocket makes its debut next week in a high-stakes test flight before astronauts get on top.\r\nThe 322-foot (98-meter) rock… [+6895 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jason Hanna, Steve Almasy",
-            "title": "Uvalde school board votes unanimously to fire police chief Pete Arredondo - CNN",
-            "description": "The Uvalde school board voted unanimously Wednesday evening to immediately terminate the contract of district police chief Pete Arredondo, three months after a teenaged gunman took the lives of 19 children and two teachers at Robb Elementary.",
-            "url": "https://www.cnn.com/2022/08/24/us/uvalde-school-police-pete-arredondo/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220722122506-01-pete-arredondo-restricted.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-08-25T00:18:00Z",
-            "content": "The Uvalde school board voted unanimously Wednesday evening to immediately terminate the contract of district police chief Pete Arredondo, three months after a teenaged gunman took the lives of 19 ch… [+6798 chars]"
+            "author": null,
+            "title": "Uvalde school board fires police Chief Pete Arredondo after mass shooting - CBS News",
+            "description": "Pete Arredondo was accused of making several critical mistakes during the May shooting that left 19 students and two teachers dead.",
+            "url": "https://www.cbsnews.com/news/uvalde-school-board-fires-police-chief-pete-arredondo-after-mass-shooting/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/25/7660557a-64aa-4069-aa9d-38345bd676fb/thumbnail/1200x630/df6181b74c89069418f7d665a161fa33/uvalde-school-board-meeting.jpg",
+            "publishedAt": "2022-08-25T09:38:00Z",
+            "content": "Uvalde CISD fires Police Chief Arredondo \r\nUvalde CISD fires Police Chief Arredondo01:02\r\nThe Uvalde school district's embattled police chief was fired Wednesday following allegations that he made se… [+5738 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Times"
+                "name": "Daily Beast"
             },
-            "author": "Zolan Kanno-Youngs, Stacy Cowley, Jim Tankersley",
-            "title": "Biden Announces $10,000 in Student Loan Debt Relief - The New York Times",
-            "description": "The debt forgiveness comes after months of deliberations in the White House over fairness and fears that the plan could make inflation worse ahead of the midterm elections.",
-            "url": "https://www.nytimes.com/2022/08/24/us/politics/student-loan-forgiveness-biden.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/08/24/us/politics/24dc-studentloans-2/merlin_211882191_c70613e0-1428-4c75-ab77-f1157b60dac8-facebookJumbo.jpg",
-            "publishedAt": "2022-08-24T23:04:31Z",
-            "content": "Senate Democrats continued to make direct appeals to the White House for loan forgiveness in the days leading up the decision. Senator Chuck Schumer of New York, the majority leader, as well as Ms. W… [+1697 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Carmen Reinicke",
-            "title": "U.S. stock futures are flat after Dow, S&P 500 break three-day slide - CNBC",
-            "description": "The Federal Reserve's Jackson Hole symposium is in focus for investors as it kicks off Thursday.",
-            "url": "https://www.cnbc.com/2022/08/24/us-stock-futures-flat-after-dow-sp-500-break-three-day-slide-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107108811-Stellantis-OB-Photo-220824-CC-PRESS-12.jpg?v=1661361948&w=1920&h=1080",
-            "publishedAt": "2022-08-24T23:00:00Z",
-            "content": "U.S. stock futures were flat on Wednesday night after all three major averages ended higher during the daily trading session.\r\nDow Jones Industrial Average futures shed 7 points, or 0.02%. S&amp;P 50… [+1581 chars]"
+            "author": "Adam Manno",
+            "title": "'Batgirl' Directors Tried to Pirate Movie Before HBO Max Locked Them Out of Servers - The Daily Beast",
+            "description": "Adil El Arbi and Bilall Fallah were in Morocco for the former’s wedding when they got the news. Panicked, they turned to impromptu piracy.",
+            "url": "https://www.thedailybeast.com/obsessed/batgirl-directors-tried-to-pirate-movie-before-hbo-max-locked-them-out-of-servers",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1845,w_3280,x_0,y_83/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1661402859/GettyImages-1399387919_hyk2si",
+            "publishedAt": "2022-08-25T08:32:32Z",
+            "content": "The creators behind HBO Maxs Batgirl say they were so stunned by the streamers decision to scrap the movie that they tried to log onto the server and record their work on a cellphone before their acc… [+4455 chars]"
         },
         {
             "source": {
                 "id": "politico",
                 "name": "Politico"
             },
-            "author": null,
-            "title": "RNC chief on tape to donors: We need help to win the Senate - POLITICO",
-            "description": "In a private call with major givers, Ronna McDaniel lauded the quality of Republican Senate candidates but said they’re getting swamped by Democrats on the airwaves.",
-            "url": "https://www.politico.com/news/2022/08/24/rnc-chief-on-tape-to-donors-00053642",
-            "urlToImage": "https://static.politico.com/96/59/925080d74af9982234149d7f2fda/https-delivery.gettyimages.com/downloads/1229557060",
-            "publishedAt": "2022-08-24T22:37:35Z",
-            "content": "We absolutely have better candidates and a better message, McDaniel said, pushing back on what she described as a false, media-driven narrative that the GOPs prospects in Senate races are waning. But… [+4046 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Josh Dawsey, Jacqueline Alemany",
-            "title": "Archives asked for records in 2021 after Trump lawyer agreed they should be returned, email says - The Washington Post",
-            "description": "",
-            "url": "https://www.washingtonpost.com/national-security/2022/08/24/trump-records-archives-2021/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KIBJOCUJ6EI6ZAJHUNH3JGYOCI.jpg&w=1440",
-            "publishedAt": "2022-08-24T22:31:29Z",
-            "content": "About two dozen boxes of presidential records stored in then-president Donald Trumps White House residence were not returned to the National Archives and Records Administration in the final days of h… [+5347 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Caroline O'Donovan",
-            "title": "Amazon Care is shutting down - The Washington Post",
-            "description": "Amazon will shutter Amazon Care, the virtual and in-home health service it initially created for its employees, by the end of this year.",
-            "url": "https://www.washingtonpost.com/technology/2022/08/24/amazon-care-telehealth-shutting-down/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5RZCWRCTAI63JZPDZYUSBZPXQ.jpg&w=1440",
-            "publishedAt": "2022-08-24T22:18:50Z",
-            "content": "Comment on this story\r\nAmazon will shutter Amazon Care, the virtual and in-home health service it initially created for its employees, by the end of this year.\r\nPeople who work at Amazon Care learned… [+4405 chars]"
+            "author": "https://www.facebook.com/daniellippman",
+            "title": "How Trump has spent his days since the feds searched his home - POLITICO",
+            "description": "The stakes may be high but the summer schedule goes on.",
+            "url": "https://www.politico.com/news/2022/08/25/how-trump-has-spent-his-days-since-the-feds-searched-his-home-00053666",
+            "urlToImage": "https://static.politico.com/17/ec/a1f0b45048408dae7fe3cc503a0b/https-delivery.gettyimages.com/downloads/1241535345",
+            "publishedAt": "2022-08-25T08:30:00Z",
+            "content": "In the weeks since the FBIs search of his Palm Beach estate, Trump has mostly worked out of his office at Bedminster where he has held meetings with aides and lawyers. He appeared at political fundra… [+6260 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ESPN"
+                "name": "CNBC"
             },
-            "author": "Dale Johnson",
-            "title": "Champions League draw pots set for group stage - ESPN",
-            "description": "The pots for the 2022-23 Champions League group stage draw have been confirmed after Wednesday's qualifiers.",
-            "url": "https://www.espn.com/soccer/uefa-champions-league/story/4729055/champions-league-draw-pots-set-for-group-stage",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0213%2Fr973957_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-08-24T22:09:39Z",
-            "content": "The pots for the 2022-23 Champions League group stage draw have been confirmed after Dinamo Zagreb, FC Copenhagen and Rangers secured the final three places on Wednesday evening.\r\n- Stream on ESPN+: … [+1504 chars]"
+            "author": "Arjun Kharpal",
+            "title": "Sony hikes the price of its PlayStation 5 console because of soaring inflation - CNBC",
+            "description": "Sony on Thursday raised the recommended retail price of its PlayStation 5 games console in several international markets citing the global economic environment.",
+            "url": "https://www.cnbc.com/2022/08/25/sony-raises-price-of-playstation-5-console-due-to-soaring-inflation.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106799601-1605802468554-gettyimages-1220230403-20200615sopamasl064.jpeg?v=1605803796&w=1920&h=1080",
+            "publishedAt": "2022-08-25T07:49:50Z",
+            "content": "Sony on Thursday raised the recommended retail price of its PlayStation 5 games console in several international markets citing the global economic environment, including high inflation.\r\nThe Japanes… [+3526 chars]"
         },
         {
             "source": {
@@ -116,86 +64,21 @@
             "description": "Former Attorney General Bill Barr concluded that then-President Donald Trump couldn't be charged with obstructing the Russia probe because there wasn't an underlying conspiracy between his campaign and Russia, breaking with special counsel Robert Mueller's vi…",
             "url": "https://www.cnn.com/2022/08/24/politics/barr-mueller-report/index.html",
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190222022146-barr-mueller-split-super-tease.jpg",
-            "publishedAt": "2022-08-24T22:04:00Z",
+            "publishedAt": "2022-08-25T07:18:00Z",
             "content": "(CNN)Former Attorney General Bill Barr concluded that then-President Donald Trump couldn't be charged with obstructing the Russia probe because there wasn't an underlying conspiracy between his campa… [+4121 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Tracy Wright",
-            "title": "Nick Cannon expecting another child with Brittany Bell, shares her baby bump reveal in maternity video - Fox News",
-            "description": "Nick Cannon will become a father for the 10th time as he shared a video showing off Brittany Bell's baby bump online. The parents have two children together.",
-            "url": "https://www.foxnews.com/entertainment/nick-cannon-expecting-another-child-brittany-bell-shares-baby-bump-reveal-maternity-video",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/d1a7cd86-Nick-Cannon.jpg",
-            "publishedAt": "2022-08-24T22:00:18Z",
-            "content": "Nick Cannon revealed he's becoming a father once again with Brittany Bell in a maternity video shared on Instagram Wednesday afternoon. This will be his third child with the former Miss Universe Guam… [+2692 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Life"
-            },
-            "author": "Cassie Gill",
-            "title": "Ben Affleck & Jennifer Lopez’s Wedding Vows Were ‘Achingly Beautiful’: Their Love Is ‘Pretty Spectacular’ - HollywoodLife",
-            "description": "Ben Affleck and Jennifer Lopez's longtime friends Kevin Smith and Jason Mewes revealed they were 'crying' at their wedding as the couple says their vows.",
-            "url": "https://hollywoodlife.com/2022/08/24/ben-affleck-jennifer-lopez-wedding-vows-kevin-smith-interview/",
-            "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2022/08/bennifer-wedding-backgrid-ftr.jpg",
-            "publishedAt": "2022-08-24T21:45:00Z",
-            "content": "View galleryImage Credit: BACKGRID\r\nThere wasnt a dry eye in the house as Ben Affleck, 50, and Jennifer Lopez, 53, exchanged vows at their romantic Aug. 20 wedding. The nuptials, which were held on B… [+4103 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Derek Gatopoulos",
-            "title": "22 reported killed in Independence Day attack in Ukraine - The Associated Press",
-            "description": "KYIV, Ukraine (AP) — Russian forces Wednesday launched a rocket attack on a Ukrainian train station on the embattled country's Independence Day, killing 22 people, President Volodymyr Zelenskyy said after warning for days that Moscow might attempt “something …",
-            "url": "https://apnews.com/3507728aeaf8ebfc68a1cdbd3aa8c30e",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/83c74600971c4c678e489ab024eae750/3000.jpeg",
-            "publishedAt": "2022-08-24T21:22:30Z",
-            "content": "KYIV, Ukraine (AP) Russian forces Wednesday launched a rocket attack on a Ukrainian train station on the embattled countrys Independence Day, killing 22 people, President Volodymyr Zelenskyy said aft… [+5505 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Pakistan rejects India’s closure of missile firing incident - Al Jazeera English",
-            "description": "Indian Air Force on Tuesday said it sacked three officers for accidentally firing a missile into Pakistan in March.",
-            "url": "https://www.aljazeera.com/news/2022/8/24/pakistan-rejects-indias-closure-of-missile-firing-incident",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/AP22236078050389.jpg?resize=1920%2C1440",
-            "publishedAt": "2022-08-24T21:00:04Z",
-            "content": "Pakistan has rejected Indias closure of the incident of the firing of a supersonic missile into Pakistani territory on March 9, and reiterated a demand for a joint probe, the Ministry of Foreign Affa… [+2772 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Caroline Blair",
-            "title": "Fiery fight over dog broke up Sylvester Stallone's 25-year marriage: report - Page Six",
-            "description": "Flavin filed paperwork to dissolve their 25-year marriage in Palm Beach County, Fla., on Aug. 19, Page Six confirmed.",
-            "url": "https://pagesix.com/2022/08/24/fiery-fight-over-dog-broke-up-sylvester-stallones-25-year-marriage/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/08/Sylvester-Stallone-fight-over-dog-divorce.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2022-08-24T20:58:00Z",
-            "content": "Man’s best friend turned wife’s worst nightmare.\r\nJennifer Flavin filed for divorce after she and Sylvester Stallone had a massive fight over their new Rottweiler, sources told TMZ Wednesday.\r\nStallo… [+2349 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Iran reviews U.S. response to EU nuclear text for revival of 2015 pact - Reuters",
-            "description": "Iran has received Washington's response to an EU-drafted final offer for saving Tehran's 2015 nuclear deal with major powers, Iran's foreign ministry said on Wednesday, giving no firm indication of how close they are to narrowing remaining gaps.",
-            "url": "https://www.reuters.com/world/middle-east/iran-receives-us-response-eu-nuclear-text-revival-2015-pact-2022-08-24/",
-            "urlToImage": "https://www.reuters.com/resizer/dfNIj4UF7GuaY8CK3oYhcuN5-xA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FHP5TD2QOVPEJHEFXCIBAR2DIE.jpg",
-            "publishedAt": "2022-08-24T20:33:00Z",
-            "content": "DUBAI, Aug 24 (Reuters) - Iran has received Washington's response to an EU-drafted final offer for saving Tehran's 2015 nuclear deal with major powers, Iran's foreign ministry said on Wednesday, givi… [+3288 chars]"
+            "author": "Paradise Afshar and Aya Elamroussi, CNN",
+            "title": "Human remains found in receding Lake Mead identified as man who reportedly drowned two decades ago, officials say - CNN",
+            "description": "Human remains found at Lake Mead more than three months ago have been identified as Thomas Erndt, who is believed to have died by drowning two decades ago, authorities in Nevada said Wednesday.",
+            "url": "https://www.cnn.com/2022/08/25/us/lake-mead-human-remains-identified/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220825045538-boats-callville-bay-marina-lake-mead-super-tease.jpg",
+            "publishedAt": "2022-08-25T06:35:00Z",
+            "content": "(CNN)Human remains found at Lake Mead more than three months ago have been identified as Thomas Erndt, who is believed to have died by drowning two decades ago, authorities in Nevada said Wednesday.\r… [+2779 chars]"
         },
         {
             "source": {
@@ -205,49 +88,10 @@
             "author": "Ian Sherr",
             "title": "iPhone 14 Launches Sept. 7: Apple Event Confirmed - CNET",
             "description": "Apple's \"Far Out\" launch event is also rumored to include a peek at the Apple Watch 8.",
-            "url": "https://www.cnet.com/tech/mobile/iphone-14-launches-sept-7-apple-event-confirmed/",
+            "url": "https://www.cnet.com/tech/mobile/iphone-14-launches-sept-7-apple-event-confirmed-watch/",
             "urlToImage": "https://www.cnet.com/a/img/resize/0d13ca28965a2a15fd6519860754cf79915c2eef/2022/08/24/95996d4e-2a27-4deb-b48b-13f2cbab9a2d/opal-d-hero-banner.jpg?auto=webp&fit=crop&height=630&width=1200",
-            "publishedAt": "2022-08-24T20:26:00Z",
+            "publishedAt": "2022-08-25T05:54:26Z",
             "content": "Apple has set the date for its latest iPhone's debut. The new device, which is expected to be called the iPhone 14 and include an always-on display, will be unveiled on Sept. 7 at 10 a.m. PT. Rumors … [+3488 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Thomas Barrabi",
-            "title": "US housing market in 'much worse shape' than Fed admits: economist - New York Post ",
-            "description": "Ian Shepherdson, a chief economist at Pantheon Macroeconomics, provided a bearish outlook for homeowners.",
-            "url": "https://nypost.com/2022/08/24/us-housing-market-in-much-worse-shape-than-fed-admits-economist/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/08/housing-market-fed-comp.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2022-08-24T20:07:00Z",
-            "content": "The Federal Reserves policy tightening has nudged the US housing market into a slump and policymakers have yet to fully acknowledge the extent of the trouble, according to a prominent economist.\r\nIan… [+3250 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Michigan.gov"
-            },
-            "author": null,
-            "title": "MDARD - Update from the State Veterinarian on Canine Parvovirus Cases in Northern Michigan - Michigan (.gov)",
-            "description": null,
-            "url": "https://www.michigan.gov/mdard/about/media/pressreleases/2022/08/24/update-from-the-state-vet",
-            "urlToImage": null,
-            "publishedAt": "2022-08-24T19:54:50Z",
-            "content": "LANSING, MI — To date, the results from the additional testing facilitated by the Michigan Department of Agriculture and Rural Development (MDARD) and completed by the Michigan State University Veter… [+3063 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Saleen Martin, USA TODAY",
-            "title": "Winston Churchill portrait stolen, Fairmont Château Laurier says - USA TODAY",
-            "description": "A famous portrait of former British prime minister Winston Churchill appears to be involved in an art heist.",
-            "url": "https://www.usatoday.com/story/news/world/2022/08/24/winston-churchill-portrait-stolen-canadian-hotel/7883406001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/08/24/USAT/606fef1b-45c4-478a-849a-ad796ec27d58-Yousuf-Karsh-Winston-Churchill-1941-Press.jpg?auto=webp&crop=1870,1052,x0,y240&format=pjpg&width=1200",
-            "publishedAt": "2022-08-24T18:58:37Z",
-            "content": "<ul><li>Employees at the Fairmont Château Laurier in Canada noticed a famous portrait of former British prime minister Winston Churchill wasn't hung properly.</li><li>They soon realized it was a fake… [+5269 chars]"
         },
         {
             "source": {
@@ -255,12 +99,168 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Gravitas: Breathtaking photos of Jupiter as captured by James Webb telescope - WION",
+            "title": "NASA Releases Stunning New Images Of Jupiter From James Webb Space Telescope - MSNBC",
             "description": null,
-            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ds140himJ1js",
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtT8gCEX6IXA",
             "urlToImage": null,
-            "publishedAt": "2022-08-24T18:42:01Z",
+            "publishedAt": "2022-08-25T05:30:08Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Reis Thebault",
+            "title": "Russian attack on train station, homes in Ukrainian town of Chaplyne kills at least 25 - The Washington Post",
+            "description": "The attack underscored Russia’s targeting of transportation infrastructure, a strategy that has killed scores of bystanders during the war.",
+            "url": "https://www.washingtonpost.com/world/2022/08/24/russia-ukraine-train-station-strike/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PSXOL6BD5UI63JZPDZYUSBZPXQ.jpg&w=1440",
+            "publishedAt": "2022-08-25T05:21:00Z",
+            "content": "Comment on this story\r\nAs Ukrainians marked the 31st anniversary of their countrys break from the Soviet Union with a somber parade in Kyiv on Wednesday, Russia launched a deadly missile attack on a … [+3584 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Biden forgives millions of student loans; critics fear inflation - Reuters",
+            "description": "President Joe Biden said on Wednesday the U.S. government will forgive $10,000 in student loans for millions of debt-saddled former college students, keeping a pledge he made in the 2020 campaign for the White House.",
+            "url": "https://www.reuters.com/world/us/biden-expected-cancel-student-loans-millions-us-borrowers-wednesday-2022-08-24/",
+            "urlToImage": "https://www.reuters.com/resizer/WsBCmIZYzeOQngIx8v47qJvyR1Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KWKOGMYCDVNKJKY64S67P7TPQY.jpg",
+            "publishedAt": "2022-08-25T05:14:00Z",
+            "content": "WASHINGTON, Aug 24 (Reuters) - President Joe Biden said on Wednesday the U.S. government will forgive $10,000 in student loans for millions of debt-saddled former college students, keeping a pledge h… [+5506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith",
+            "title": "European markets climb ahead of Jackson Hole - CNBC",
+            "description": "European markets were uncertain on Thursday as global investors await the start of the U.S. Federal Reserve's Jackson Hole economic symposium.",
+            "url": "https://www.cnbc.com/2022/08/25/europe-markets-open-to-close-caution-reigns-ahead-of-jackson-hole.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107016872-1645115562077-107016872-16451155032022-02-17t160240z_1691077713_rc2sls9lbsun_rtrmadp_0_europe-stocks.jpg?v=1661403314&w=1920&h=1080",
+            "publishedAt": "2022-08-25T05:12:00Z",
+            "content": "LONDON European markets were uncertain on Thursday as global investors awaited the start of the U.S. Federal Reserve's Jackson Hole economic symposium.The pan-European Stoxx 600 index hovered fractio… [+1997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Federal judge partially blocks Idaho abortion law - KTVB",
+            "description": "A federal judge has issued a partial pause on Idaho's abortion law when it conflicts with the Emergency Medical Treatment and Labor Act. Doctors will not fac...",
+            "url": "https://www.youtube.com/watch?v=curg4HlZYss",
+            "urlToImage": "https://i.ytimg.com/vi/curg4HlZYss/hqdefault.jpg",
+            "publishedAt": "2022-08-25T04:14:30Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Andy Bailey",
+            "title": "Ranking Los Angeles Lakers' Trade Options Following Patrick Beverley Deal - Bleacher Report",
+            "description": "A couple months ago, a reunion between Jazz roles players for Westbrook and picks Pacers role players for Westbrook and picks Hayward and Oubre for Westbrook...",
+            "url": "https://bleacherreport.com/articles/10046482-ranking-los-angeles-lakers-trade-options-following-patrick-beverley-deal",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1661345040/ejdeuwlfbystdc2jlt8u.jpg",
+            "publishedAt": "2022-08-25T04:13:23Z",
+            "content": "Russell Westbrook and LeBron James. (Adam Pantozzi/NBAE via Getty Images)\r\nA couple of months ago, a reunion between LeBron James and Kyrie Irving on the Los Angeles Lakers felt a lot more likely tha… [+9209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Musk lawyers seize on Twitter whistleblower revelations, forces social media giant to surrender info - WION",
+            "description": "Revelations about security failings that Twitter came as a shot in the arm for Elon Musk and his lawyers as they fight to cancel the billionaire's buyout bid...",
+            "url": "https://www.youtube.com/watch?v=GEV0J0fIKfk",
+            "urlToImage": "https://i.ytimg.com/vi/GEV0J0fIKfk/maxresdefault.jpg",
+            "publishedAt": "2022-08-25T04:07:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Cameron Kiszla",
+            "title": "‘Space is haunted’: NASA captures sound of a black hole, scaring the internet - KTLA Los Angeles",
+            "description": "If you’ve seen “Interstellar,” you may think you have a pretty good idea of what a black hole sounds like, but as they say, truth is stranger than fiction. In the hit Christopher Nolan movie from 2014, Matthew McConaughey’s character Joseph Cooper enters a bl…",
+            "url": "https://ktla.com/news/space-is-haunted-nasa-captures-sound-of-a-black-hole-scaring-the-internet/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2022/08/download-34.png?w=1280",
+            "publishedAt": "2022-08-25T03:36:49Z",
+            "content": "If you’ve seen “Interstellar,” you may think you have a pretty good idea of what a black hole sounds like, but as they say, truth is stranger than fiction.\r\nIn the hit Christopher Nolan movie from 20… [+2133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Mega-Predator: Fossils Discovered of Giant Sea Monster That Ruled the Oceans 66 Million Years Ago - SciTechDaily",
+            "description": "Paleontologists have discovered a huge new mosasaur from Morocco, named Thalassotitan atrox, which filled the apex predator niche. With massive jaws and teeth like those of killer whales, Thalassotitan hunted other marine reptiles — plesiosaurs, sea turtles, …",
+            "url": "https://scitechdaily.com/mega-predator-fossils-discovered-of-giant-sea-monster-that-ruled-the-oceans-66-million-years-ago/",
+            "urlToImage": "https://scitechdaily.com/images/Thalassotitan-atrox-Crop.jpg",
+            "publishedAt": "2022-08-25T03:26:33Z",
+            "content": "ByUniversity of BathAugust 24, 2022\r\nArtists representation of Thalassotitan atrox. Credit: Andrey Atuchin\r\nPaleontologists have discovered a huge new mosasaur from Morocco, named Thalassotitanatrox,… [+6007 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Marcia Dunn",
+            "title": "EXPLAINER: NASA tests new moon rocket, 50 years after Apollo - The Associated Press",
+            "description": "CAPE CANAVERAL, Fla. (AP) — Years late and billions over budget, NASA’s new moon rocket makes its debut next week in a high-stakes test flight before astronauts get on top. The 322-foot (98-meter) rocket will attempt to send an empty crew capsule into a far-f…",
+            "url": "https://apnews.com/article/astronomy-space-launches-spacex-exploration-technology-5db3523e917b5a4e612b0aef158286b8",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6ff87dab6df5455a88a1d116c0c36a9f/3000.jpeg",
+            "publishedAt": "2022-08-25T03:26:16Z",
+            "content": "CAPE CANAVERAL, Fla. (AP) Years late and billions over budget, NASAs new moon rocket makes its debut next week in a high-stakes test flight before astronauts get on top.\r\nThe 322-foot (98-meter) rock… [+6895 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lateshia Beachum",
+            "title": "Yoga To The People Leaders arrested for tax fraud - The Washington Post",
+            "description": "Leaders of the now-defunct Yoga to the People company are facing serious charges for not claiming their earnings from the popular yoga entity.",
+            "url": "https://www.washingtonpost.com/nation/2022/08/24/yoga-leaders-tax-fraud/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4HFSA2VG3QI6RLLPBADXBXG5YI.jpg&w=1440",
+            "publishedAt": "2022-08-25T03:25:00Z",
+            "content": "Comment on this story\r\nThe leaders of a popular donation-funded yoga studio chain could find themselves behind bars for tax fraud, according to the Justice Department.\r\nYoga to the People leaders Gre… [+4494 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jennifer Hansler, Kylie Atwood, Celine Alkhaldi",
+            "title": "US confirms it has sent response to EU on proposal to salvage the Iran nuclear deal - CNN",
+            "description": "The United States has sent its response to the European Union on a proposal to try to save the Iran nuclear deal, the US State Department confirmed Wednesday.",
+            "url": "https://www.cnn.com/2022/08/24/politics/us-response-iran-nuclear-deal/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/180606093823-us-iran-flags.jpg?q=x_3,y_281,h_1684,w_2993,c_crop/w_800",
+            "publishedAt": "2022-08-25T02:57:00Z",
+            "content": "The United States has sent its response to the European Union on a proposal to try to save the Iran nuclear deal, the US State Department confirmed Wednesday.\r\nAs you know, we received Irans comments… [+4995 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Plane's engine catches fire on flight from Mexico to LA, giving passengers a fright - KABC-TV",
+            "description": "A flight from Mexico to Los Angeles had to turn around only minutes after takeoff when an engine sparked up and caught fire only minutes after takeoff.",
+            "url": "https://abc7.com/flight-emergency-airplane-engine-fire-viva-aerobus-plane-catches/12163003/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/12162765_082422-kabc-5pm-la-emergency-landing-vid.jpg?w=1600",
+            "publishedAt": "2022-08-25T02:02:09Z",
+            "content": "LOS ANGELES (KABC) -- Passengers on a flight from Mexico to Los Angeles had a scary moment as they saw their plane's engine spark up and catch fire only minutes after takeoff.\r\nThe Viva Aerobus fligh… [+484 chars]"
         }
     ]
 }
