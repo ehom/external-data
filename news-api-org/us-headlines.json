@@ -4,42 +4,146 @@
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh and Paradise Afshar, CNN",
+            "title": "'Get out now': Mayor urges residents to flee ahead of rising river waters in Mississippi - CNN",
+            "description": "With Mississippi's Pearl River now expected to crest earlier than originally forecast, threatening to flood streets and creep into homes within the next 48 hours, some Jackson residents are being told to flee.",
+            "url": "https://www.cnn.com/2022/08/28/us/mississippi-pearl-river-flood-warning-sunday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220827222719-02-mississippi-river-flood-sunday-super-tease.jpg",
+            "publishedAt": "2022-08-28T06:26:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Lauren Gambino",
+            "title": "‘The US could lose the right to vote within months’: Top official warns on threat to democracy - The Guardian US",
+            "description": "Jena Griswold urges Americans to pay attention to crucial but often overlooked races for secretary of state",
+            "url": "https://amp.theguardian.com/us-news/2022/aug/27/jena-griswold-colorado-elections-secretary-of-state-democracy",
+            "urlToImage": "https://i.guim.co.uk/img/media/535132b31335c7bd3863753bc9ed748a76193e51/0_121_5882_3531/master/5882.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a89bdea58e517402e6ffc225746d037",
+            "publishedAt": "2022-08-28T06:00:00Z",
+            "content": "Colorados secretary of state, Jena Griswold, is warning anyone who will listen that the fate of free and fair elections in the United States hangs in the balance in this Novembers midterm contests.\r\n… [+10006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Abbey White",
+            "title": "Sydney Sweeney Says Photo From Mom’s Birthday Has Been Turned Into a Political Statement: “Please Stop Making Assumptions” - Hollywood Reporter",
+            "description": "Euphoria star Sydney Sweeney has addressed online backlash to a series of photos and videos from her mother’s 60th birthday party, which the actress posted to her Instagram on Saturday. Among the photos the Emmy-nominated talent published is an image featurin…",
+            "url": "https://www.hollywoodreporter.com/news/general-news/sydney-sweeney-birthday-photo-political-statement-1235207213/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/08/GettyImages-1414693645.jpg?w=1024",
+            "publishedAt": "2022-08-28T05:26:15Z",
+            "content": "Euphoria star Sydney Sweeney has addressed online backlash to a series of photos and videos from her mother’s 60th birthday party, which the actress posted to her Instagram on Saturday. \r\nAmong the p… [+3360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "Tom Brady claims he was never going to play for anyone but the Buccaneers - NBC Sports",
+            "description": "Tom Brady unexpectedly opted to meet with reporters after his one-drive preseason cameo in Saturday night’s game against the Colts. During his brief remarks, he addressed one of the various elephants herding the room.“I read all these different stories about …",
+            "url": "https://profootballtalk.nbcsports.com/2022/08/28/tom-brady-claims-he-was-never-going-to-play-for-anyone-but-the-buccaneers/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/08/USATSI_18942827-e1661660979787.jpg",
+            "publishedAt": "2022-08-28T04:35:00Z",
+            "content": "Tom Brady unexpectedly opted to meet with reporters after his one-drive preseason cameo in Saturday nights game against the Colts. During his brief remarks, he addressed one of the various elephants … [+2745 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brad Lendon, CNN",
+            "title": "US sends two warships through Taiwan Strait, in first transit since Pelosi trip - CNN",
+            "description": "Two United States Navy warships have entered the Taiwan Strait in what is the first US naval transit in the waterway since US-China tensions spiked this month over a visit to the island by House Speaker Nancy Pelosi.",
+            "url": "https://www.cnn.com/2022/08/27/asia/us-navy-destroyer-taiwan-strait-transit-intl-hnk-ml/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220827223817-uss-chancellorsville-220828-super-tease.jpg",
+            "publishedAt": "2022-08-28T04:16:00Z",
+            "content": "Seoul, South Korea (CNN)Two United States Navy warships have entered the Taiwan Strait in what is the first US naval transit in the waterway since US-China tensions spiked this month over a visit to … [+5700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL preseason Week 3 scores, highlights, updates: Bears' Justin Fields tosses three touchdowns - CBS Sports",
+            "description": "All the best highlights from Week 3 of the preseason are right here",
+            "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-3-scores-highlights-updates-bears-justin-fields-tosses-three-touchdowns/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/28/cbf52243-854e-4f07-8774-866316da5960/thumbnail/1200x675/d964ae9cddf846ff3c9bb09122443063/tua-dolphins-getty.jpg",
+            "publishedAt": "2022-08-28T04:09:00Z",
+            "content": "The NFL preseason is almost done, but we still have two more days of football to digest. We've got eight games on Saturday, highlighted by a rematch of last year's Super Bowl as the Los Angeles Rams … [+10808 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lincoln Journal Star"
+            },
+            "author": "Amie Just",
+            "title": "Amie Just: Nebraska can't afford Irish hangover after inexplicable loss to Northwestern - Lincoln Journal Star",
+            "description": "The seventh loss in a row for Nebraska was a roundhouse kick to the gullet, especially after the hope-springs-eternal-esque offseason.",
+            "url": "https://journalstar.com/sports/huskers/football/amie-just-nebraska-cant-afford-irish-hangover-after-inexplicable-loss-to-northwestern/article_d0992484-eace-55bd-8395-1326bc2e22bb.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/d/09/d0992484-eace-55bd-8395-1326bc2e22bb/630ab8364e42e.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2022-08-28T04:01:44Z",
+            "content": "DUBLIN Try as Nebraska fans might, the answer to the Huskers continued woes isnt at the bottom of a plastic pint.\r\nNo, all the free alcohol due to internet issues at Aviva Stadium on Saturday wasnt e… [+22708 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WPVI-TV"
+            },
+            "author": null,
+            "title": "Man wanted in double shooting barricades self inside North Philadelphia home - WPVI-TV",
+            "description": "Police said a man wanted in a double shooting barricaded himself inside a North Philadelphia home on Saturday night.",
+            "url": "https://6abc.com/north-philadelphia-shooting-man-barricaded-in-home-philly-double-lehigh-avenue/12173688/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/12173682_082722-wpvi-barricade-shooting-11-video-vid.jpg?w=1600",
+            "publishedAt": "2022-08-28T03:15:16Z",
+            "content": "PHILADELPHIA (WPVI) -- Police said a man wanted in a double shooting barricaded himself inside a North Philadelphia home on Saturday night.\r\nThe incident began at about 9:30 p.m. when the suspect ope… [+475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YourTango"
+            },
+            "author": "Ruby Miranda",
+            "title": "The 3 Zodiac Signs With Rough Horoscopes On Sunday, August 28, 2022 - YourTango",
+            "description": "Gemini, Virgo and Capricorn are the three zodiac signs with rough horoscopes on Sunday, August 28, 2022. Read on to find out why.",
+            "url": "https://www.yourtango.com/2022353419/zodiac-signs-rough-horoscopes-august-28-2022",
+            "urlToImage": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/zodiac-signs-rough-horoscopes-august-28-2022.png?itok=e6QiZLny",
+            "publishedAt": "2022-08-28T03:03:03Z",
+            "content": "On August 28, 2022, during Virgo Sun, zodiac signs will be experiencing a day so filled with negative energy that we may want to just sit this one out.\r\nToday has us dancing with Moon trine Uranus, V… [+4737 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Chicago Bears vs. Cleveland Browns Preseason Week 3 Highlights | 2022 NFL Season - NFL",
+            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+            "url": "https://www.youtube.com/watch?v=Rbztz-XAS4w",
+            "urlToImage": "https://i.ytimg.com/vi/Rbztz-XAS4w/hqdefault.jpg",
+            "publishedAt": "2022-08-28T02:23:47Z",
+            "content": null
+        },
+        {
+            "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Annie Linskey, Michael Scherer",
-            "title": "Democrats improve outlook on House amid better political environment - The Washington Post",
-            "description": "While Democrats acknowledge they still face major hurdles, there has been an unmistakable mood shift, according to interviews with candidates, strategists and officials.",
-            "url": "https://www.washingtonpost.com/politics/2022/08/27/democrats-republicans-house-midterms/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5WVEWGQCF4I63C7LFNHEQGYVAA.jpg&w=1440",
-            "publishedAt": "2022-08-28T00:23:30Z",
-            "content": "Comment on this story\r\nDemocrats are voicing growing confidence about limiting losses in the House and potentially even salvaging their majority in the midterm elections, with candidates and allied g… [+14030 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "Alaina Getzenberg",
-            "title": "Buffalo Bills release punter Matt Araiza in wake of gang-rape lawsuit - ESPN",
-            "description": "The Buffalo Bills have released punter Matt Araiza two days after a civil lawsuit was filed alleging he and two other current and former San Diego State football players gang raped a minor.",
-            "url": "https://www.espn.com/nfl/story/_/id/34472012/buffalo-bills-release-punter-matt-araiza-wake-gang-rape-lawsuit",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0825%2Fr1053035_1024x576_16%2D9.jpg",
-            "publishedAt": "2022-08-28T00:11:48Z",
-            "content": "ORCHARD PARK, N.Y. - The Buffalo Bills have released punter Matt Araiza two days after a civil lawsuit was filed alleging he and two other current and former San Diego State football players gang rap… [+2822 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daytona Beach News-Journal"
-            },
-            "author": "Ken Willis, Daytona Beach News-Journal Online",
-            "title": "Live updates from Coke Zero 400 NASCAR race, results at Daytona - Daytona Beach News-Journal",
-            "description": "Daytona International Speedway is ready to host the Coke Zero Sugar 400 NASCAR Cup race Saturday night, August 27, 2022. Follow for live updates.",
-            "url": "https://www.news-journalonline.com/story/sports/nascar/2022/08/27/live-updates-coke-zero-400-daytona-nascar-race-results-weather-forecast/7904034001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/08/27/NDNJ/43d4cbd7-3748-4d65-bfdf-4461dda2e413-Coke_400_puddles.jpg?auto=webp&crop=6414,3608,x0,y270&format=pjpg&width=1200",
-            "publishedAt": "2022-08-28T00:11:15Z",
-            "content": "It's always the last few laps, and the inevitable crashes at Daytona International Speedway, that help determine who gets the checkered flag.\r\nBut you have to race all 160 laps of the Coke Zero Sugar… [+4635 chars]"
+            "author": "David Nakamura",
+            "title": "Judge may grant Trump's request for special master to review papers FBI took - The Washington Post",
+            "description": "The judge in the case gave the government until Tuesday to present its arguments in the matter.",
+            "url": "https://www.washingtonpost.com/politics/2022/08/27/trump-judge-special-master-fbi/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TD7JB7BFLUI63JZPDZYUSBZPXQ.jpg&w=1440",
+            "publishedAt": "2022-08-28T02:13:00Z",
+            "content": "Comment on this story\r\nA federal judge indicated on Saturday that she is inclined to grant former president Donald Trumps request for an independent special master to review boxes of classified docum… [+3096 chars]"
         },
         {
             "source": {
@@ -51,216 +155,112 @@
             "description": "At least 23 people have died and 140 been injured in violent clashes between rival Libyan militias across the country's capital of Tripoli, the Libyan Ministry of Health said Saturday.",
             "url": "https://www.cnn.com/2022/08/27/world/violent-clashes-rival-militias-libya/index.html",
             "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220827173345-01-tripoli-08272022-super-tease.jpg",
-            "publishedAt": "2022-08-27T23:38:00Z",
+            "publishedAt": "2022-08-28T00:50:00Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Corinne Heller",
-            "title": "Maren Morris and Cassadee Pope Slam Brittany Aldean Over \"Tomboy\" Post - E! NEWS",
-            "description": "Maren Morris and Cassadee Pope are feuding with Brittany Aldean, wife of fellow country star Jason Aldean, over an Instagram post that referenced gender identity.",
-            "url": "https://www.eonline.com/news/1343821/maren-morris-and-cassadee-pope-slam-brittany-aldean-over-tomboy-post",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022727/rs_1200x1200-220827122019-1200.Maren-Morris-Cassadee-Pope-Brittany-Aldean.ct.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2022-08-27T22:22:00Z",
-            "content": "While Cassadee did not mention Brittany by name, Maren fired back at Jason's wife and doubled down on her own nickname for her in the comments section.\r\n\"You know, I'm glad she didn't become a boy ei… [+774 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Tierney Sneed",
-            "title": "Judge says she has 'preliminary intent' to appoint special master to oversee Mar-a-Lago search review - CNN",
-            "description": "A federal judge scheduled a hearing for Thursday to consider former President Donald Trump's request for a \"special master\" to oversee the FBI's review of evidence seized at Mar-a-Lago.",
-            "url": "https://www.cnn.com/2022/08/27/politics/trump-special-master-mar-a-lago-search-review/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220819105852-mar-a-lago-search-file-080822-super-tease.jpg",
-            "publishedAt": "2022-08-27T22:19:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Some Pennsylvania Republicans defend Mastriano for posing in Confederate uniform - Reuters",
-            "description": "Some Republicans in Pennsylvania defended Donald Trump-backed gubernatorial candidate Doug Mastriano on Saturday after Reuters published a 2014 photo of him posing in a Confederate uniform.",
-            "url": "https://www.reuters.com/world/us/some-pennsylvania-republicans-defend-mastriano-posing-confederate-uniform-2022-08-27/",
-            "urlToImage": "https://www.reuters.com/resizer/bZHg62Gjz2Eg-HSlNMSUBdWlh-4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WS5NNHCNBRJB5FIEBTZNLSJGIE.jpg",
-            "publishedAt": "2022-08-27T22:06:00Z",
-            "content": "WASHINGTON, Aug 27 (Reuters) - Some Republicans in Pennsylvania defended Donald Trump-backed gubernatorial candidate Doug Mastriano on Saturday after Reuters published a 2014 photo of him posing in a… [+3010 chars]"
-        },
-        {
-            "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
-            },
-            "author": "Around the NFL Staff",
-            "title": "2022 NFL preseason, Week 3: What We Learned from Saturday’s games - NFL.com",
-            "description": "Atlanta's Desmond Ridder played deep into the second half in his final preseason game, while Jaguars first-round LB Devin Lloyd made his debut. We break down what you need to know from Week 3 of the 2022 NFL preseason.",
-            "url": "https://www.nfl.com/news/2022-nfl-preseason-week-3-what-we-learned-from-saturday-s-games",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/jvlmipqzyeaph5iqyo6u",
-            "publishedAt": "2022-08-27T22:06:00Z",
-            "content": "The NFL offered up a full slate of Friday night preseason games, which featured wins by the Browns, Falcons, Jets, Cardinals and 49ers."
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
-            },
-            "author": "Associated Press",
-            "title": "Bob LuPone, Actor Who Helped Found and Lead Off-Broadway’s MCC Theater, Dies at 76 - Hollywood Reporter",
-            "description": "Bob LuPone, who as an actor earned a Tony nomination in the original run of A Chorus Line and went on to help found and lead the influential off-Broadway theater company MCC Theater for almost 40 years, has died. He was 76. LuPone, brother of Broadway icon Pa…",
-            "url": "https://www.hollywoodreporter.com/lifestyle/arts/bob-lupone-dead-patti-lupone-brother-actor-mcc-1235207203/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/08/GettyImages-1170383351.jpg?w=1024",
-            "publishedAt": "2022-08-27T21:31:27Z",
-            "content": "Bob LuPone, who as an actor earned a Tony nomination in the original run of A Chorus Line and went on to help found and lead the influential off-Broadwaytheater company MCC Theater for almost 40 year… [+2290 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Emma Roth",
-            "title": "Netflix's Resident Evil has already been canceled - The Verge",
-            "description": "Netflix’s live-action Resident Evil adaptation has been canceled after one season, according to a report from Deadline.",
-            "url": "https://www.theverge.com/2022/8/27/23324830/netflix-resident-evil-canceled-after-season-one",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/rSvd6uKEtXbqgccBQv0oL_SWRFc=/0x3:1422x748/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23975403/resident_evil_netflix_1.jpeg",
-            "publishedAt": "2022-08-27T21:15:22Z",
-            "content": "Image: Marcos Cruz / Netflix\r\nNetflixs Resident Evil series has been canceled a little over a month after its initial debut, according to a report from Deadline. The streamer reportedly decided again… [+1602 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Nebraska's head-scratching onside kick proves costly for Scott Frost in loss to Northwestern - CBS Sports",
-            "description": "Frost's decision-making in the second half against the Wildcats left a lot to be desired",
-            "url": "https://www.cbssports.com/college-football/news/nebraskas-head-scratching-onside-kick-proves-costly-for-scott-frost-in-loss-to-northwestern/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/27/791e167c-f14a-4699-b7a5-cdbe365944d8/thumbnail/1200x675/e05bbbee4ef5ccb9e9c4a35b51764c04/scott-frost-nw-usatsi.jpg",
-            "publishedAt": "2022-08-27T21:11:15Z",
-            "content": "Already entering the 2022 season on one of the hottest seats in college football, Nebraska coach Scott Frost didn't earn himself any goodwill with his decision-making during the second half of a 31-2… [+1679 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Dana Kennedy",
-            "title": "Three Dutch soldiers shot and wounded outside Indianapolis hotel - New York Post ",
-            "description": "Three Dutch soldiers were shot and wounded outside the Indianapolis hotel where they were staying early Saturday, police said.",
-            "url": "https://nypost.com/2022/08/27/three-dutch-soldiers-shot-and-wounded-outside-indianapolis-hotel/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/08/dutch-soldiers-indianapolis-shooting.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2022-08-27T20:12:00Z",
-            "content": "Three Dutch soldiers were shot and wounded outside the Indianapolis hotel where they were staying early Saturday, police said.\r\nCops found the three men with gunshot wounds around 3:30 am in downtown… [+617 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Times"
-            },
-            "author": "Michael D. Shear, Jim Tankersley, Zolan Kanno-Youngs",
-            "title": "Biden Gave In to Pressure on Student Debt Relief After Months of Doubt - The New York Times",
-            "description": "At the White House and aboard Air Force One, advocates of debt cancellation made a sustained push to win over the president, who feared the plan would be seen as a giveaway to the privileged.",
-            "url": "https://www.nytimes.com/2022/08/26/us/politics/biden-student-loans.html",
-            "urlToImage": "https://static01.nyt.com/images/2022/08/26/us/politics/26dc-biden-loans1/26dc-biden-loans1-facebookJumbo.jpg",
-            "publishedAt": "2022-08-27T20:07:00Z",
-            "content": "Some think its too much, Mr. Biden said when he announced his decision, noting the outrage from Republicans and some Democrats. Some think its too little. But I believe my plan is responsible and fai… [+3655 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Edward Helmore",
-            "title": "US investigates fake heiress who infiltrated Trump’s Mar-a-Lago resort - The Guardian US",
-            "description": "A Ukrainian woman posed as a Rothschild to gain access to the Florida resort, heightening fears over security lapses",
-            "url": "https://amp.theguardian.com/us-news/2022/aug/27/fake-heiress-infiltrates-mar-a-lago-trump",
-            "urlToImage": "https://i.guim.co.uk/img/media/a3ee0ad48cc6c2bf7f2bc94943555e795e1c216e/0_137_4200_2519/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad13a493ae8187b012e2b70c70c2162d",
-            "publishedAt": "2022-08-27T19:01:00Z",
-            "content": "A second foreign national is being investigated by US authorities for gaining access to Mar-a-Lago, Donald Trumps Florida resort which is at the center of an FBI probe over missing classified documen… [+5051 chars]"
+            "author": "Nadeem Badshah",
+            "title": "Russia-Ukraine war latest: what we know on day 186 of the invasion - The Guardian",
+            "description": "Radiation fears over Zaporizhzhia nuclear plant linger amid accusations from Moscow and Kyiv of more shelling near the site",
+            "url": "https://amp.theguardian.com/world/2022/aug/28/russia-ukraine-war-latest-what-we-know-on-day-186-of-the-invasion",
+            "urlToImage": null,
+            "publishedAt": "2022-08-28T00:05:00Z",
+            "content": "<li>Concern about the potential for a radiation leak at Zaporizhzhia nuclear power plant is persisting. Ukraines state energy operator has warned there are risks of hydrogen leakage and sputtering of… [+3064 chars]"
         },
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "Timothy Nerozzi",
-            "title": "Mississippi flooding: Governor declares state of emergency with river expected to crest at 36 feet Monday - Fox News",
-            "description": "Mississippi Gov. Tate Reeves, a Republican, declared a state of emergency due to new projections that now estimate the Pearl River could peak at 36 feet waters.",
-            "url": "https://www.foxnews.com/us/mississippi-flooding-governor-declares-state-emergency-river-expected-crest-36-feet-monday",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/Mississippi-Flooding.jpg",
-            "publishedAt": "2022-08-27T18:57:34Z",
-            "content": "Mississippi Gov. Tate Reeves declared a state of emergency Saturday ahead of expected flooding from the Pearl River. \r\nThe river is projected to crest at 36 feet by early Monday morning. \r\n\"The City … [+1775 chars]"
+            "author": "Marina Lopes",
+            "title": "DeSantis removes elected Broward school board officials after Parkland report - The Washington Post",
+            "description": "The Florida governor's suspension of the officials was praised by the families of victims of school violence, but it also sparked accusations of overreach.",
+            "url": "https://www.washingtonpost.com/politics/2022/08/27/desantis-broward-school-board-parkland/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3L2TO6REHAI63JZPDZYUSBZPXQ.jpg&w=1440",
+            "publishedAt": "2022-08-27T23:53:00Z",
+            "content": "Comment on this story\r\nFlorida Gov. Ron DeSantis (R) suspended four elected school board members on Friday, after a grand jury found that they had acted with negligence and incompetence in implementi… [+4516 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "OPB News"
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "‘Synthetic’ Embryo With Brain and Beating Heart Grown From Stem Cells - Neuroscience News",
+            "description": "Researchers created model embryos from mouse stem cells that form a beating heart, a brain, and the foundation for other organs. The new model provides a novel way for future researchers to create and research the earliest stages of development.",
+            "url": "https://neurosciencenews.com/synthetic-embryo-brain-stem-cell-21306/",
+            "urlToImage": "https://neurosciencenews.com/files/2022/08/embryo-neurons-stem-cells-neurosicens.jpeg",
+            "publishedAt": "2022-08-27T22:39:51Z",
+            "content": "Summary: Researchers created model embryos from mouse stem cells that form a beating heart, a brain, and the foundation for other organs. The new model provides a novel way for future researchers to … [+15731 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "William Harwood",
+            "title": "Countdown begins for NASA's Artemis 1 moon mission and maiden flight of SLS megarocket - CBS News",
+            "description": "The 46-hour, 10-minute countdown sets up a launch attempt at 8:33 a.m. EDT Monday at the opening of a two-hour window.",
+            "url": "https://www.cbsnews.com/news/artemis-launch-moon-sls-rocket-mission-maiden-flight/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/08/27/40e1a788-4f41-44bb-a9ab-bcb554726faf/thumbnail/1200x630/73728f4e5c7a8e37a9dcae84eb2d0e92/082722-padview.jpg",
+            "publishedAt": "2022-08-27T22:11:00Z",
+            "content": "Countdown clocks began ticking Saturday for the maiden launch of NASA new Space Launch System rocket Monday on a long-awaited mission to send an unpiloted Orion crew capsule around the moon and back.… [+5826 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "Wildfire nearly quadruples in size, triggers evacuations in rural Josephine County - Oregon Public Broadcasting",
-            "description": "The Rum Creek Fire burning in rural Josephine County triggered evacuation alerts early Saturday morning.",
-            "url": "https://www.opb.org/article/2022/08/27/rum-creek-fire-southern-oregon/",
-            "urlToImage": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/zi9j-GcDCciFzN3lUEOmwtLWNvU=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/4L6EZB6VQZGM7HXGO5Z5ABDC7A.jpg",
-            "publishedAt": "2022-08-27T18:04:32Z",
-            "content": "The Rum Creek Fire burning in rural Josephine County, Ore., on Aug. 27, 2022.\r\nOregon Department of Forestry\r\nA wildfire burning in rural Josephine County triggered evacuation alerts early Saturday m… [+1249 chars]"
-        },
-        {
-            "source": {
-                "id": "politico",
-                "name": "Politico"
-            },
-            "author": null,
-            "title": "Intel officials to assess national security fallout from Trump's Mar-a-Lago documents - POLITICO",
-            "description": "Director of National Intelligence Avril Haines confirmed the review in a letter to top lawmakers.",
-            "url": "https://www.politico.com/news/2022/08/27/intel-officials-national-security-fallout-trumps-mar-a-lago-documents-00054006",
-            "urlToImage": "https://static.politico.com/9a/bb/acf1ad654d5cbfa9a67971245863/220826-trump-getty.jpg",
-            "publishedAt": "2022-08-27T17:08:20Z",
-            "content": "The correspondence represents the Biden administrations first known engagement with Congress on the issue of the ongoing investigation ensnaring the former president. Court documents unsealed in rece… [+3071 chars]"
+            "title": "Haines says intelligence officials to assess national security risks from Mar-a-Lago documents: reports - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMinAFodHRwczovL3RoZWhpbGwuY29tL3BvbGljeS9uYXRpb25hbC1zZWN1cml0eS8zNjE4MjEyLWhhaW5lcy1zYXlzLWludGVsbGlnZW5jZS1vZmZpY2lhbHMtdG8tYXNzZXNzLW5hdGlvbmFsLXNlY3VyaXR5LXJpc2tzLWZyb20tbWFyLWEtbGFnby1kb2N1bWVudHMtcmVwb3J0cy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-08-27T22:09:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Fox Business"
+                "name": "KTVZ"
             },
-            "author": "Timothy Nerozzi",
-            "title": "California gas car ban will apply to Virginia, too, due to 2021 law - Fox Business",
-            "description": "Virginia will adopt new car sale regulations passed by California due to a 2021 law signed by Democratic Gov. Ralph Northam to mirror the state's emissions standards.",
-            "url": "https://www.foxbusiness.com/politics/california-gas-car-ban-will-apply-to-virginia-too-due-to-2021-law",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/11/0/0/traffic.jpg?ve=1&tl=1",
-            "publishedAt": "2022-08-27T16:53:09Z",
-            "content": "Despite having a Republican governor, Virginia is on track to adopt the new Californian restrictions on the sale of gas-powered vehicles.\r\nThe California Air Resources Board\r\n issued the rule and hel… [+1854 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Timothy Nerozzi",
-            "title": "Sick dolphin with 'low' chance of survival nursed back to health in Thailand - Fox News",
-            "description": "A sick dolphin calf that experts said had a \"low\" chance of survival after being found drowning in a tidal pool was successfully nursed back to health in Thailand.",
-            "url": "https://www.foxnews.com/lifestyle/sick-dolphin-low-chance-survival-nursed-back-health-thailand",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/Thailand-Sick-Dolphin-Bottle-2.jpg",
-            "publishedAt": "2022-08-27T16:46:37Z",
-            "content": "A dolphin calf found sick by Thai fishermen is making a successful recovery with the help of a team of volunteers.\r\nParadon, whose name means \"brotherly burden,\" was expected to die from its ailments… [+2678 chars]"
+            "author": "The Associated Press",
+            "title": "SW Oregon's Rum Creek Fire nearly quadruples in size, prompting evacuations; governor invokes Conflagration Act - KTVZ",
+            "description": "A wildfire in remote southwest Oregon almost quadrupled in size overnight Saturday, forcing evacuations and prompting the governor to invoke an emergency act that allows the state fire marshal to take command of suppression efforts.",
+            "url": "https://ktvz.com/news/fire-alert/2022/08/27/sw-oregons-rum-creek-fire-nearly-quadruples-in-size-prompting-evacuations-governor-invokes-conflagration-act/",
+            "urlToImage": "https://ktvz.b-cdn.net/2022/08/Rum-Creek-Fire-827.jpg",
+            "publishedAt": "2022-08-27T20:50:58Z",
+            "content": "(Update: More from AP on fires around the region)\r\nAlso: Updates on the Cedar Creek, Crockets Knob, Windigo, Potter, Big Swamp fires\r\nSALEM, Ore. (AP) A wildfire in remote southwest Oregon almost qua… [+18032 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Deadline"
+                "name": "MarketWatch"
             },
-            "author": "Anthony D'Alessandro",
-            "title": "Horror Pic ‘The Invitation’ Leads Worst Weekend At This Summer’s Box Office, All Pics Grossing $54M - Deadline",
-            "description": "SATURDAY AM UPDATE: The bowels of the summer box office have been reached with Sony’s new C CinemaScore horror movie The Invitation leading with $6M-$7M at 3,114 theaters. Like the late Andy Rooney, I get a lot of mail from sources, but in this instance it’s …",
-            "url": "https://deadline.com/2022/08/box-office-the-invitation-1235101502/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/08/invitation-e1661611343162.jpg?w=992",
-            "publishedAt": "2022-08-27T15:05:00Z",
-            "content": "SATURDAY AM UPDATE: The bowels of the summer box office have been reached, with Sony’s new C CinemaScore horror movie The Invitation leading with $6M-$7M at 3,114 theaters. Like the late Andy Rooney,… [+7438 chars]"
+            "author": "Vivien Lou Chen",
+            "title": "Fed’s Powell sparked a 1,000-point rout in the Dow. Here's what investors should do next. - MarketWatch",
+            "description": "Investors are looking for places to hide as the Federal Reserve makes no bones about inflicting pain if that's what it will take to win its inflation fight.",
+            "url": "https://www.marketwatch.com/story/where-to-hide-as-powell-talks-of-inflicting-some-pain-in-quest-to-tame-inflation-11661552625",
+            "urlToImage": "https://images.mktw.net/im-611804/social",
+            "publishedAt": "2022-08-27T20:15:00Z",
+            "content": "Now might be the time to consider hiding out in short-dated Treasurys or corporate bonds and other defensive parts of the stock market.On Friday, Federal Reserve Chairman Jerome Powell talked of a wi… [+7900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rock Paper Shotgun"
+            },
+            "author": "Graham Smith",
+            "title": "Netflix cancel Resident Evil live action series after one season - Rock Paper Shotgun",
+            "description": "Netflix have announced they're not renewing their live action Resident Evil series for a second season, probably because it was bad and no one liked it.",
+            "url": "https://www.rockpapershotgun.com/netflix-cancel-resident-evil-live-action-series-after-one-season",
+            "urlToImage": "https://assets2.rockpapershotgun.com/Resident-Evil-TV-Show.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Resident-Evil-TV-Show.jpg",
+            "publishedAt": "2022-08-27T19:59:17Z",
+            "content": "Netflix have announced that they're not ordering a second season of their live action Resident Evil adaptation. As reported by Deadline, the critically maligned series failed to find much of an audie… [+1452 chars]"
         }
     ]
 }
