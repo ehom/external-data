@@ -4,55 +4,159 @@
     "articles": [
         {
             "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stephanie Giang-Paunon",
+            "title": "Queen Elizabeth II lying in state, Prince William, Prince Harry hold vigil - Fox News",
+            "description": "The Queen lies-in-state for a third day in Westminster Hall Saturday. Her grandchildren the Prince of Wales, William, and Prince Harry stood vigil over her coffin, after King Charles III and his siblings stood vigil Friday.",
+            "url": "https://www.foxnews.com/live-news/queen-elizabeth-ii-lying-in-state-prince-william-prince-harry-to-hold-vigil",
+            "urlToImage": "https://livenews.foxnews.com/images/2022/09/6d49e6cb063b68e912f1af950d9c8552.jpg",
+            "publishedAt": "2022-09-18T09:11:15Z",
+            "content": "President Joe Biden and first lady Jill Biden will be the only American delegates to attend Queen Elizabeth IIs official funeral service in London Monday, but other U.S. dignitaries, including former… [+899 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "In a first, EU moves to cut money for Hungary over damaging democracy - Reuters",
+            "description": "The European Union executive recommended on Sunday suspending some 7.5 billion euros in funding for Hungary over corruption, the first such case in the 27-nation bloc under a new sanction meant to better protect the rule of law.",
+            "url": "https://www.reuters.com/world/first-eu-seen-moving-cut-money-hungary-over-damaging-democracy-2022-09-18/",
+            "urlToImage": "https://www.reuters.com/resizer/XAYAIbeGtoCs35cilwM8tq4UT4Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FT7VIQSVTFNAZOQ4AWJXUOP7EE.jpg",
+            "publishedAt": "2022-09-18T09:09:00Z",
+            "content": "BRUSSELS, Sept 18 (Reuters) - The European Union executive recommended on Sunday suspending some 7.5 billion euros in funding for Hungary over corruption, the first such case in the 27-nation bloc un… [+2912 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Typhoon Nanmadol bears down on Japan's Kyushu island - Reuters",
+            "description": "Typhoon Nanmadol bore down on Japan's southernmost main island of Kyushu on Sunday with the Japan Meteorological Agency (JMA) warning of gales and high waves.",
+            "url": "https://www.reuters.com/world/asia-pacific/super-typhoon-nanmadol-bears-down-japans-kyushu-island-2022-09-18/",
+            "urlToImage": "https://www.reuters.com/resizer/TU61vOKDqNbxM7KT_EsDq2wZzV8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ATDUIZU7DZDJXCO5YZ7JCEX5AI.JPG",
+            "publishedAt": "2022-09-18T09:03:00Z",
+            "content": "TOKYO, Sept 18 (Reuters) - Typhoon Nanmadol bore down on Japan's southernmost main island of Kyushu on Sunday with the Japan Meteorological Agency (JMA) warning of gales and high waves.\r\nThe 14th typ… [+1566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Bam Margera Heading Back to Rehab with Restructured Program - TMZ",
+            "description": "Bam Margera is back on the road to recovery, but this time ... they're going to be rejiggering things to avoid yet another episode of escape déjà vu.",
+            "url": "https://www.tmz.com/2022/09/18/bam-margera-rehab-restructured-program-outpatient/",
+            "urlToImage": "https://imagez.tmz.com/image/9b/16by9/2022/09/14/9b7f58a7a79b4561b4eb133571714a6e_xl.jpg",
+            "publishedAt": "2022-09-18T08:00:00Z",
+            "content": "Bam Margera is back on the road to recovery, but this time ... they're gonna be rejiggering things to avoid yet another episode of escape déjà vu.\r\nSources connected to Bam tell TMZ ... earlier this … [+1392 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "David Smith",
+            "title": "The end of the debate? Republicans draw the curtain on political theater - The Guardian US",
+            "description": "It’s a time-honored tradition, but as the US midterms loom, many Republican candidates are ducking out of televised debates",
+            "url": "https://amp.theguardian.com/us-news/2022/sep/18/the-end-of-the-debate-republicans-midterms",
+            "urlToImage": null,
+            "publishedAt": "2022-09-18T07:01:00Z",
+            "content": "US politicsIts a time-honored tradition, but as the US midterms loom, many Republican candidates are ducking out of televised debates\r\nThe vast collections of the Smithsonian Institution in Washingto… [+7191 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Austen Goslin",
+            "title": "Fortnite adds Spider-Gwen with the new Season 4 battle pass - Polygon",
+            "description": "Fortnite Chapter 3 Season 4 has a new battle pass that includes Gwen Stacy, aka Spider-Gwen, in her costume from Spider-Man: Into the Spider-Verse, along with dozens of other cosmetics to unlock.",
+            "url": "https://www.polygon.com/23357208/fortnite-spider-gwen-battle-pass-unlock-skins-trailer",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/JvTtTTTdkDcz2FyrksaqQCTp84w=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24029600/Battle_Pass_Lineup.jpg",
+            "publishedAt": "2022-09-18T06:17:09Z",
+            "content": "Fortnites new Chrome-themed season is bringing a visitor from the Spider-Verse"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Ed Pilkington",
+            "title": "Special master ruling shows Trump’s takeover of courts has started to sting - The Guardian US",
+            "description": "Aileen Cannon, who Trump nominated in 2020, granted his wish over the Mar-a-Lago search – a maverick decision that is the thin end of the wedge",
+            "url": "https://amp.theguardian.com/us-news/2022/sep/18/trump-special-master-mar-a-lago-judiciary-courts",
+            "urlToImage": null,
+            "publishedAt": "2022-09-18T06:02:00Z",
+            "content": "US justice systemAileen Cannon, who Trump nominated in 2020, granted his wish over the Mar-a-Lago search a maverick decision that is the thin end of the wedge\r\nIn the first televised presidential deb… [+9823 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "ESPN"
             },
-            "author": null,
-            "title": "Appalachian State Mountaineers beat Troy with 53-yard Hail Mary on final play - ESPN",
-            "description": "Chase Brice fired a 53-yard touchdown pass to Christan Horn on the final play of the game as Appalachian State pulled out a 32-28 victory over Troy.",
-            "url": "https://www.espn.com/college-football/story/_/id/34612069/appalachian-state-mountaineers-beat-troy-53-yard-hail-mary-final-play",
-            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0917%2Fr1063438_1024x576_16%2D9.jpg",
-            "publishedAt": "2022-09-18T00:08:50Z",
-            "content": "BOONE, N.C. -- Chase Brice's last-second heave deflected into Christan Horn's arms for a 53-yard touchdown on the final play of the game and Appalachian State pulled out a 32-28 victory over Troy in … [+884 chars]"
+            "author": "Mike Coppinger",
+            "title": "Canelo Alvarez closes trilogy with Gennadiy Golovkin with unanimous decision win - ESPN",
+            "description": "Canelo Alvarez started strong and held off Gennadiy Golovkin's late charge to take a unanimous decision Saturday night.",
+            "url": "https://www.espn.com/boxing/story/_/id/34614317/canelo-alvarez-closes-trilogy-gennadiy-golovkin-unanimous-decision-win",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0918%2Fr1063582_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-09-18T06:00:00Z",
+            "content": "LAS VEGAS -- After the final bell and 36 rounds together, Canelo Alvarez and Gennadiy Golovkin shared a long embrace, apparently ending a feud that grew personal over the five years since they first … [+6153 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eonline.com"
+                "name": "Detroit Free Press"
             },
-            "author": "Daisy Maldonado",
-            "title": "Blake Lively Slams Paparazzi While Sharing Candid Pregnancy Pictures - E! NEWS",
-            "description": "Two days after Blake Lively revealed her pregnancy on the red carpet, the actress shared new baby bump photos in an Instagram post that also called out disrespectful paparazzi.",
-            "url": "https://www.eonline.com/news/1346573/pregnant-blake-lively-speaks-out-about-baby-no-4",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202176/rs_1024x759-210806073421-1024-Blake-Lively-Ryan-Reynolds-Free-Man-Red-Carpet.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2022-09-17T23:36:00Z",
-            "content": "Hey Upper East Siders, did you hear the news? Queen B (Blake Lively, that is) is expecting her fourth baby!\r\nThe Gossip Girl alum debuted her baby bump during an appearance at the Forbes Power Women'… [+680 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Kevin Sullivan, Mary Jordan",
-            "title": "Biden, world leaders, head to Queen's funeral - The Washington Post",
-            "description": "VIP guests have made a constant stream of special requests. Some have asked to bring their doctor, some a personal assistant. Some have requested a private room where they can rest.",
-            "url": "https://www.washingtonpost.com/world/2022/09/17/queen-funeral-biden-leaders/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q7KFZWBWIQI63IGWIFJJTP7L2U.jpg&w=1440",
-            "publishedAt": "2022-09-17T23:26:00Z",
-            "content": "LONDON The Japanese emperor, who lives in luxury in Tokyos Imperial Palace, will ride a crowded shuttle bus to Queen Elizabeths funeral on Monday.\r\nBut while Emperor Naruhito and Empress Masako have … [+6601 chars]"
+            "author": ", Detroit Free Press",
+            "title": "Michigan State football's big hopes doused by Washington, 39-28 - Detroit Free Press",
+            "description": "Former Indiana QB Michael Penix Jr. tortured Michigan State football again for nearly 400 yards in Washington's 39-28 victory in Seattle.",
+            "url": "https://www.freep.com/story/sports/college/michigan-state/spartans/2022/09/18/michigan-state-football-score-washington-michael-penix-jr/69501077007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/18/PDTF/7422ede6-4412-42d6-b77f-dd0fadfcd5f2-USATSI_19068592.jpg?auto=webp&crop=5771,3246,x1,y166&format=pjpg&width=1200",
+            "publishedAt": "2022-09-18T03:35:05Z",
+            "content": "SEATTLE Michael Penix Jr. and Washington tossed Michigan State footballs secondary into the deep water of Union Bay over and over Saturday night.\r\nThe Huskies defense shoved the Spartans offensive li… [+8557 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CBS Sports"
+                "name": "The Guardian"
             },
-            "author": "",
-            "title": "Nebraska's crushing loss to No. 6 Oklahoma shows depth of despair Cornhuskers must overcome - CBS Sports",
-            "description": "Mickey Joseph's pitch for the full-time job got off to a rough start Saturday",
-            "url": "https://www.cbssports.com/college-football/news/nebraskas-crushing-loss-to-no-6-oklahoma-shows-depth-of-despair-cornhuskers-must-overcome/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/17/032efd7e-aa3a-4aa8-bbb5-9ae733adb8e5/thumbnail/1200x675/0d122bba588c04d1922fd7df466df375/mickey-joseph-nebraska-us.png",
-            "publishedAt": "2022-09-17T22:39:26Z",
-            "content": "LINCOLN, Neb. -- Sean Taylor had the reasoning for Nebraska's long-term downturn defined, if not solved. As his once-glorious program was being clobbered by No. 6 Oklahoma on Saturday, the 45-year-ol… [+6201 chars]"
+            "author": "Maya Yang",
+            "title": "Russia-Ukraine war latest: what we know on day 207 of the invasion - The Guardian",
+            "description": "Czech Republic calls for ‘special international tribunal’ after Izium mass grave found; Turkish and Indian leaders call for end to war at Asia summit",
+            "url": "https://amp.theguardian.com/world/2022/sep/18/russia-ukraine-war-latest-what-we-know-on-day-207-of-the-invasion",
+            "urlToImage": null,
+            "publishedAt": "2022-09-18T01:47:00Z",
+            "content": "<li>The Czech Republic, which currently holds the EU presidency, have called for a special international tribunal after a mass grave was discovered in Izium, a town in north-eastern Ukraine. In the 2… [+3319 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nicki Brown",
+            "title": "Some migrants who were flown to Martha's Vineyard will still 'wind up in Florida anyway,' advocacy organization says - CNN",
+            "description": "Florida Gov. Ron DeSantis spent taxpayers' money on flying migrants to Martha's Vineyard in Massachusetts and some of those people are \"still going to wind up in Florida anyway,\" said Domingo Garcia, the president of the League of United Latin American Citize…",
+            "url": "https://www.cnn.com/2022/09/17/us/marthas-vineyard-migrants-florida-saturday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220917194239-marthas-vineyard-migrants-florida-saturday.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-18T01:39:00Z",
+            "content": "Florida Gov. Ron DeSantis spent taxpayers money on flying migrants to Marthas Vineyard inMassachusettsand some of those people are still going to wind up in Florida anyway, said Domingo Garcia, the p… [+3981 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Alexandra Hutzler",
+            "title": "Texas Gov. Abbott sends 50 migrants to VP Harris' home - ABC News",
+            "description": "Abbott also sent two buses of migrants to her residence on Thursday.",
+            "url": "https://abcnews.go.com/Politics/texas-gov-abbott-sends-50-migrants-vp-harris/story?id=90070912",
+            "urlToImage": "https://s.abcnews.com/images/US/migrants-arrival-01-rt-jef-220917_1663448366925_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-09-18T01:04:37Z",
+            "content": "Fifty more migrants arrived outside Vice President Kamala Harris's residence in Washington, D.C., on Saturday, days after two buses carrying asylum seekers arrived at her Naval Observatory home from … [+3244 chars]"
         },
         {
             "source": {
@@ -64,8 +168,21 @@
             "description": "In one town, some homes floated off their foundation and others were flooded, the National Weather Service reported.",
             "url": "https://www.cbsnews.com/news/alaska-storm-major-flooding-residents-evacuated/",
             "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/09/17/00f577de-50c6-4a5b-a6eb-f26d65fc2631/thumbnail/1200x630/1d64d2ecd93dc76f84bdc343044d8b33/alaska-flooding-heidi-varga-3.png",
-            "publishedAt": "2022-09-17T21:57:00Z",
-            "content": "A massive, potentially record-breaking storm brought major flooding and damage to coastal towns in Alaska Saturday, and some residents were evacuated. Gov. Mike Dunleavy said he \"verbally declared\" a… [+3906 chars]"
+            "publishedAt": "2022-09-18T00:33:00Z",
+            "content": "A massive, potentially record-breaking storm brought major flooding and damage to coastal towns in Alaska Saturday, and some residents were evacuated. Gov. Mike Dunleavy said he \"verbally declared\" a… [+5240 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Andrew Miller",
+            "title": "Trump holds Save America rally in Ohio supporting Senate candidate JD Vance - Fox News",
+            "description": "Former President Donald Trump was speaking at a rally in Youngstown, Ohio on Saturday night in support of Republican Senate Candidate J.D. Vance.",
+            "url": "https://www.foxnews.com/politics/trump-holds-save-america-rally-ohio-supporting-senate-candidate-jd-vance",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Donald-Trump-Pennsylvania-Rally.jpg",
+            "publishedAt": "2022-09-17T22:51:55Z",
+            "content": "Former President Donald Trump held a rally in Youngstown, Ohio on Saturday night in support of Republican Senate Candidate J.D. Vance with roughly 50 days left until the November midterm elections.\r\n… [+735 chars]"
         },
         {
             "source": {
@@ -82,16 +199,16 @@
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": "Kiely Westhoff",
-            "title": "Yeshiva University puts all student club activities on hold days after Supreme Court declined to block an order requiring the school to recognize LGBTQ club - CNN",
-            "description": "New York's Yeshiva University announced Friday it would put all undergraduate club activities on hold, days after losing a bid to have the US Supreme Court block a court order that requires the university to recognize an LGBTQ student club, an attorney for th…",
-            "url": "https://www.cnn.com/2022/09/17/us/yeshiva-university-student-club-activities-hold/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220917160123-yeshiva-university-student-club-activities-hold.jpg?q=w_800,c_fill",
-            "publishedAt": "2022-09-17T21:38:00Z",
-            "content": "New Yorks Yeshiva University announced Friday that it would put all undergraduate club activities on hold, daysafter losing a bid to have the US Supreme Court block a court order that requires the un… [+2263 chars]"
+            "author": ", USA TODAY",
+            "title": "Queen updates: Biden arrives in London for funeral; Queen's grandchildren stand vigil by coffin - USA TODAY",
+            "description": "All eight of Queen Elizabeth II's grandchildren stood in silent vigil beside her coffin early Saturday evening.",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2022/09/17/queen-updates-king-charles-iii-prince-william-make-unannounced-visit/10400399002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/17/USAT/18da7f88-3542-4044-80b0-9cf344abe420-AP22260770704788.jpg?auto=webp&crop=3415,1921,x0,y173&format=pjpg&width=1200",
+            "publishedAt": "2022-09-17T21:33:45Z",
+            "content": "King Charles III made an unannounced visit Saturday to greet some of the thousands queuing to pay respects to Queen Elizabeth II, whose coffin is lying-in-state in Westminster Hall.\r\nCharles and his … [+11716 chars]"
         },
         {
             "source": {
@@ -122,145 +239,28 @@
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Cointelegraph"
             },
             "author": null,
-            "title": "Logan Paul says Roman Reigns will acknowledge him - WWE",
-            "description": "During a special press conference in Las Vegas, Logan Paul tells Roman Reigns that he is the table and Reigns will acknowledge Paul at WWE Crown Jewel. Catch...",
-            "url": "https://www.youtube.com/watch?v=l7SeXka_9QI",
-            "urlToImage": "https://i.ytimg.com/vi/l7SeXka_9QI/maxresdefault.jpg",
-            "publishedAt": "2022-09-17T21:07:25Z",
-            "content": null
+            "title": "Ethereum completes merge, Do Kwon faces arrest warrant and Bitcoin dives after rally: Hodler's Digest, Sept. 11-17 - Cointelegraph",
+            "description": "Ethereum completes its highly anticipated merge, Abra unveils U.S. banking plans and Thailand aims for a crypto lending ban.",
+            "url": "https://cointelegraph.com/magazine/2022/09/17/ethereum-completes-merge-do-kwon-faces-arrest-warrant-bitcoin-dives-after-rally-hodlers-digest-sept-11-17",
+            "urlToImage": "https://cointelegraph.com/magazine/wp-content/uploads/2022/09/SEPT-11-17.jpg",
+            "publishedAt": "2022-09-17T20:30:14Z",
+            "content": "Coming every Saturday, Hodlers Digest will help you track every single important news story that happened this week. The best (and worst) quotes, adoption and regulation highlights, leading coins, pr… [+7880 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Beast"
-            },
-            "author": "Brooke Leigh Howard",
-            "title": "More Migrants, Including Baby, Arrive at Vice President Kamala Harris' Washington D.C. Home - The Daily Beast",
-            "description": "Another 50 migrants, including a 1-month-old baby, have been dumped on the doorstep of the vice president.",
-            "url": "https://www.thedailybeast.com/more-migrants-including-baby-arrive-at-vice-president-kamala-harris-washington-dc-home",
-            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2395,w_4258,x_0,y_181/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1663432037/VP_uqkwle",
-            "publishedAt": "2022-09-17T20:56:09Z",
-            "content": "A new busload of 50 migrants, including a 1-month old child, were dropped in front of the Naval Observatory on Saturday, which is the Washington D.C. home of Vice President Kamala Harris, Fox News fi… [+2197 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Meredith Deliso",
-            "title": "Multiple fatalities after 2 small aircraft collide mid-air in Colorado - ABC News",
-            "description": "Several 911 callers reported seeing two planes collide over Boulder County.",
-            "url": "https://abcnews.go.com/US/multiple-fatalities-small-aircraft-collide-mid-air-colorado/story?id=90064922",
-            "urlToImage": "https://s.abcnews.com/images/US/colorado-plane2_1663452512870_hpMain_16x9_992.jpg",
-            "publishedAt": "2022-09-17T20:18:38Z",
-            "content": "Three people are confirmed dead after two small aircraft collided mid-air in Colorado Saturday, authorities said.\r\nMultiple 911 callers reported seeing two planes collide over Boulder County shortly … [+1302 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Lauren Kaori Gurley",
-            "title": "Rail strike averted over rail deal that gives workers more time off - The Washington Post",
-            "description": "Tough attendance policies influenced Aaron Hiles's decision to skip his doctor's appointment so he wasn't penalized at his railroad job. These polices are at the heart of the high-stakes confrontation this past week between the nation’s largest rail carriers …",
-            "url": "https://www.washingtonpost.com/business/2022/09/17/railroad-strike-attendance-workers/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KQJ7WKRWBQI63IGWIFJJTP7L2U.jpg&w=1440",
-            "publishedAt": "2022-09-17T19:51:00Z",
-            "content": "Aaron Hiles, a locomotive engineer, told his wife he felt different, though he couldnt say exactly how. He made an appointment to see a doctor, his family said. But then his employer, BNSF, one of th… [+8788 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "name": "SciTechDaily"
             },
             "author": null,
-            "title": "Queen's grandchildren hold vigil around coffin - Sky News",
-            "description": "The Queen's eight grandchildren held a 15-minute vigil around the monarch's coffin at Westminster Hall.#shorts #Queen #Royals",
-            "url": "https://www.youtube.com/watch?v=t7yXZOb4G8g",
-            "urlToImage": "https://i.ytimg.com/vi/t7yXZOb4G8g/maxresdefault.jpg",
-            "publishedAt": "2022-09-17T18:29:21Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Exclusive: Zelenskiy accuses Russia of war crimes, sees no early end to war - Reuters",
-            "description": "President Volodymyr Zelenskiy accused Russia on Friday of committing war crimes in Ukraine's northeast and said it was too early to say the tide of the war was turning despite rapid territorial gains by his forces this month.",
-            "url": "https://www.reuters.com/world/europe/zelenskiy-alleges-torture-war-crimes-evidence-recaptured-northeast-2022-09-16/",
-            "urlToImage": "https://www.reuters.com/resizer/sdqXdtucdHyYEH0hjOaXf3Auxzc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UIFDDOAX5NMNFIZI2QMBYYTIPE.jpg",
-            "publishedAt": "2022-09-17T18:10:00Z",
-            "content": "KYIV, Sept 16 (Reuters) - President Volodymyr Zelenskiy accused Russia on Friday of committing war crimes in Ukraine's northeast and said it was too early to say the tide of the war was turning despi… [+4018 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "New iPhones have Qualcomm satellite modem, new Apple radio chips - Reuters.com",
-            "description": "Apple Inc's <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> iPhone 14 models contain a Qualcomm Inc <a href=\"https://www.reuters.com/companies/QCOM.O\" target=\"_blank\">(QCOM.O)</a> chip that can talk to satellites, but have addi…",
-            "url": "https://www.reuters.com/technology/new-iphones-have-qualcomm-satellite-modem-new-apple-radio-chips-2022-09-17/",
-            "urlToImage": "https://www.reuters.com/resizer/zIYZ1j9AVX_rEh21J1J7wlDhlI4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JLIQSGKLBROOFHJK5T5NSKMXJE.jpg",
-            "publishedAt": "2022-09-17T18:09:00Z",
-            "content": "SAN LUIS OBISPO, Calif., Sept 17 (Reuters) - Apple Inc's (AAPL.O) iPhone 14 models contain a Qualcomm Inc (QCOM.O) chip that can talk to satellites, but have additional custom-designed Apple componen… [+1862 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Page Six"
-            },
-            "author": "Nicki Gostin",
-            "title": "Prince Harry wears military uniform during vigil for Queen Elizabeth II - Page Six",
-            "description": "The Duke of Sussex was wearing his military uniform after his father, King Charles III reversed an earlier decision barring him from donning it.",
-            "url": "https://pagesix.com/2022/09/17/prince-harry-wears-military-uniform-during-vigil-for-the-queen/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/09/william-harry-comp.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2022-09-17T17:15:00Z",
-            "content": "Prince Harry wore his military uniform during a vigil for Queen Elizabeth II after getting special permission from King Charles III to wear it.\r\nThe Duke of Sussex took part in a 15-minute honor guar… [+2999 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": "Isabel Wang",
-            "title": "Can the Fed tame inflation without further crushing the stock market? What investors need to know. - MarketWatch",
-            "description": "Investors should brace for more volatility with policy makers expected to deliver another jumbo rate hike",
-            "url": "https://www.marketwatch.com/story/the-fed-isnt-trying-to-wreck-the-stock-market-as-it-wrestles-with-inflation-but-it-isnt-going-to-ride-to-the-rescue-11663366540",
-            "urlToImage": "https://images.mktw.net/im-624883/social",
-            "publishedAt": "2022-09-17T17:01:00Z",
-            "content": "The Federal Reserve isnt trying to slam the stock market as it rapidly raises interest rates in its bid to slow inflation still running red hot but investors need to be prepared for more pain and vol… [+5477 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Rishabh Pratap, Larry Register and Heather Chen, CNN",
-            "title": "Indian leader Narendra Modi tells Putin: Now is not the time for war - CNN",
-            "description": "Indian Prime Minister Narendra Modi appears to have directly rebuffed Moscow's invasion of Ukraine, telling Russian President Vladimir Putin that now is not the time for war.",
-            "url": "https://www.cnn.com/2022/09/17/world/modi-putin-russia-ukraine-war-rebuke-intl-hnk/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220916172556-modi-putin-0916-super-tease.jpg",
-            "publishedAt": "2022-09-17T16:40:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "KSL.com"
-            },
-            "author": "Jacqueline Howard, CNN",
-            "title": "Study finds potential link between daily multivitamin, improved cognition in older adults - KSL.com",
-            "description": "Taking a daily multivitamin might be associated with improved brain function in older adults, a new study says, and the benefit appears to be greater for those with a history of cardiovascular disease.",
-            "url": "https://www.ksl.com/article/50475841/study-finds-potential-link-between-daily-multivitamin-improved-cognition-in-older-adults",
-            "urlToImage": "https://img.ksl.com/slc/2893/289330/28933047.jpg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2022-09-17T15:39:15Z",
-            "content": "Estimated read time: 5-6 minutes\r\nWINSTON-SALEM, N.C. Taking a daily multivitamin might be associated with improved brain function in older adults, a new study says, and the benefit appears to be gre… [+6049 chars]"
+            "title": "NASA Seeks New Astronaut Lunar Landers for Future Artemis Moon Missions - SciTechDaily",
+            "description": "As NASA works toward the goal of a regular cycle of moon landings, they are seeking proposals for sustainable lunar lander development and demonstration. NASA is preparing to return humans to the Moon through Artemis missions. This includes landing the first …",
+            "url": "https://scitechdaily.com/nasa-seeks-new-astronaut-lunar-landers-for-future-artemis-moon-missions/",
+            "urlToImage": "https://scitechdaily.com/images/Blue-Origin-Crewed-Lander-scaled.jpg",
+            "publishedAt": "2022-09-17T20:14:46Z",
+            "content": "ByNASASeptember 17, 2022\r\nArtist concept of the Blue Origin National Team crewed lander on the surface of the Moon as part of the Artemis program. Credit: Blue Origin\r\nAs NASA\r\nEstablished in 1958, t… [+2959 chars]"
         }
     ]
 }
