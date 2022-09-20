@@ -4,237 +4,94 @@
     "articles": [
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Queen Elizabeth's funeral: For one day, the nation stood still - BBC",
-            "description": "In living rooms and parks, pubs and town squares, people marked the Queen's funeral in their own way.",
-            "url": "https://www.bbc.co.uk/news/uk-62960196",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/06A1/production/_126779610_mediaitem126779609.jpg",
-            "publishedAt": "2022-09-19T23:08:11Z",
-            "content": "By Jon Kelly and BBC reporters BBC News\r\nIt was a day when people stood still - on the streets and in their homes - to witness Queen Elizabeth II's final journey.\r\nRoyals and world leaders were insid… [+6216 chars]"
-        },
-        {
-            "source": {
                 "id": null,
-                "name": "Liverpool Echo"
+                "name": "Birmingham Live"
             },
-            "author": "Abigail Nicholson, Cheryl Mullin",
-            "title": "Live updates as bomb squad called to city street - Liverpool Echo",
-            "description": "Police are guarding a cordon in Dingle after a warrant was carried out",
-            "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/live-updates-bomb-squad-called-25059708",
-            "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article25059698.ece/ALTERNATES/s1200/0_WhatsApp-Image-2022-09-19-at-213834jpeg.jpg",
-            "publishedAt": "2022-09-19T22:46:00Z",
-            "content": "Army bomb squad have descended on a Liverpool Street after a raid.\r\nMerseyside Police carried out a warrant on Netherby Street in Dingle at around 8.20pm on Monday, September, 19. Officers carried ou… [+758 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky Sports"
-            },
-            "author": null,
-            "title": "Man Utd ready to make move for Benfica striker Goncalo Ramos in January - Paper Talk - Sky Sports",
-            "description": "All the top stories and transfer rumours from Tuesday's national newspapers...",
-            "url": "https://www.skysports.com/transfer/news/12691/12701689/man-utd-ready-to-make-move-for-benfica-striker-goncalo-ramos-in-january-paper-talk",
-            "urlToImage": "https://e0.365dm.com/19/10/1600x900/skysports-paper-talk-papers_4819668.jpg?20200516213727",
-            "publishedAt": "2022-09-19T21:57:47Z",
-            "content": "All the top stories and transfer rumours from Tuesday's national newspapers...\r\nTHE SUN\r\nManchester United are ready to make a January move for Benfica striker Goncalo Ramos, who was linked with Newc… [+3242 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Ian Herbert",
-            "title": "Qatar World Cup reality... Booze bans, grim rooms for fans and Big Brother spy cams - Daily Mail",
-            "description": "IAN HERBERT: The World Cup is being paraded like never before. Behind the razzmatazz in Qatar, how prepared is this tiny nation for an influx of one million fans? And what will the experience be like?",
-            "url": "https://www.dailymail.co.uk/sport/football/article-11228749/Qatar-World-Cup-reality-Booze-bans-grim-rooms-fans-Big-Brother-spy-cams.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/09/19/21/62593681-0-image-a-21_1663621029354.jpg",
-            "publishedAt": "2022-09-19T21:30:46Z",
-            "content": "Harry Kane will never have known projection like it a 30ft image of the England captain is wrapped around a glass skyscraper in central Doha.\r\nIt makes him a dominant part of the visual landscape on … [+15858 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Arsenal already have Mikel Arteta replacement as Granit Xhaka reveals role in Nwaneri debut - Football.London",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vd3d3LmZvb3RiYWxsLmxvbmRvbi9hcnNlbmFsLWZjL2ZpeHR1cmVzLXJlc3VsdHMvZ3Jhbml0LXhoYWthLWFyc2VuYWwtYXJ0ZXRhLW53YW5lcmktMjUwNTg1NzjSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-09-19T21:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Julie Cook",
-            "title": "Suddenly gout is on the rise - so why do so few patients get the treatment they need? - Daily Mail",
-            "description": "As an active young man in his 20s, Harry Tyndall was both shocked and scared to wake up one morning with an intense shooting pain in his right foot.",
-            "url": "https://www.dailymail.co.uk/health/article-11228333/Suddenly-gout-rise-patients-treatment-need.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/09/19/20/62593477-0-image-a-3_1663617384957.jpg",
-            "publishedAt": "2022-09-19T21:18:37Z",
-            "content": "As an active young man in his 20s, Harry Tyndall was both shocked and scared to wake up one morning with an intense shooting pain in his right foot.\r\nIt was the worst pain ever I thought Id broken it… [+9161 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "John Naish",
-            "title": "Why even mild Covid is now being linked to long-term heart trouble - Daily Mail",
-            "description": "Two weeks after falling ill with Covid TV doctor Xand van Tulleken (pictured) thought he was on the mend, when he suddenly took a turn for the worse.",
-            "url": "https://www.dailymail.co.uk/health/article-11228101/Why-mild-Covid-linked-long-term-heart-trouble.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/09/19/21/62595023-0-image-a-2_1663620298777.jpg",
-            "publishedAt": "2022-09-19T21:00:07Z",
-            "content": "Two weeks after falling ill with Covid TV doctor Xand van Tulleken thought he was on the mend, when he suddenly took a turn for the worse.\r\nI woke at 3am with my heart rate rushing at 170 beats per m… [+15699 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Record"
-            },
-            "author": "Kirsten McStay, Kyle O'Sullivan",
-            "title": "Kate Middleton forced to awkwardly move out of Meghan's way amid seat confusion - Daily Record",
-            "description": "There was a bit of awkwardness when the royals approached their seats, as Prince William had to direct his family members on when they could walk down the row of seats",
-            "url": "https://www.dailyrecord.co.uk/entertainment/celebrity/kate-middleton-meghan-markle-funeral-28032756",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article28030739.ece/ALTERNATES/s1200/2_Kate.jpg",
-            "publishedAt": "2022-09-19T20:36:00Z",
-            "content": "At the Queen's funeral today when the procession arrived in St George's Chapel at Windsor Castle, there appeared to be a bit of confusion over the seating arrangements. Following the late monarch's h… [+4573 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Aaron Timms",
-            "title": "English football has commercialism of US sports without their egalitarianism - The Guardian",
-            "description": "Despite legitimate anger at US-inspired initiatives like the failed European Super League, the creeping influence of America in football need not be universally bad",
-            "url": "https://amp.theguardian.com/football/2022/sep/19/english-football-got-the-commercialism-of-us-sports-but-none-of-their-egalitarianism",
-            "urlToImage": null,
-            "publishedAt": "2022-09-19T20:26:00Z",
-            "content": "FootballDespite legitimate anger at US-inspired initiatives like the failed European Super League, the creeping influence of America in football need not be universally bad\r\nMon 19 Sep 2022 18.53 BST… [+13258 chars]"
+            "author": "James Cartledge, Kelly Ashmore, Ben Perrin",
+            "title": "70 firefighters tackle massive supermarket blaze amid fight outside - updates - Birmingham Live",
+            "description": "Footage shows fracas break out as 999 teams tackle huge fire",
+            "url": "https://www.birminghammail.co.uk/news/midlands-news/zeenat-supermarket-fire-live-updates-25060078",
+            "urlToImage": "https://i2-prod.birminghammail.co.uk/incoming/article25060435.ece/ALTERNATES/s1200/0_Zeenat2jpeg.jpg",
+            "publishedAt": "2022-09-20T10:28:58Z",
+            "content": "A school was closed today after a massive blaze broke out at a Birmingham supermarket - as video footage emerged showing a fight outside. The fracas was recorded by onlookers as the blaze raged at th… [+1065 chars]"
         },
         {
             "source": {
                 "id": "independent",
                 "name": "Independent"
             },
-            "author": "Graig Graziosi",
-            "title": "Tsunami warning issued after 7.6 magnitude earthquake rocks central Mexico - The Independent",
-            "description": "Two other major quakes, one in 1985 and one in 1997, occurred in Mexico on 19 September",
-            "url": "https://www.independent.co.uk/news/world/americas/mexico-earthquake-today-tsunami-warning-b2170700.html",
-            "urlToImage": "https://static.independent.co.uk/2022/09/19/19/newFile-2.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2022-09-19T20:24:04Z",
-            "content": "A strong earthquake has hit central Mexico. The extent of the damage caused by the quake is still being determined. The earthquake is reported to be a 7.6 magnitude quake according to the US Geologic… [+2317 chars]"
+            "author": "Thomas Kingsley",
+            "title": "Liz Truss – live: Brexit US trade deal 'snub' an 'embarrassment' for PM, Labour says - The Independent",
+            "description": "The Tory leader will hold talks with Biden and Macron among other leaders at the United Nations General Assembly in New York",
+            "url": "https://www.independent.co.uk/news/uk/politics/liz-truss-news-latest-uk-tax-biden-b2170968.html",
+            "urlToImage": "https://static.independent.co.uk/2022/09/20/08/SEI125772059%20%281%29.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-09-20T10:26:59Z",
+            "content": "Channel 4 sell-off could be ditched, new culture secretary says, after protests\r\nThe new culture secretary has cast doubt on the future of Government plans to sell off Channel 4, saying it is re-exam… [+1008 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "https://www.theguardian.com/profile/martinfarrer,https://www.theguardian.com/profile/rebecca-ratcliffe,https://www.theguardian.com/profile/martin-belam,https://www.theguardian.com/profile/leonie-chao-fong,https://www.theguardian.com/profile/harry-taylor,https://www.theguardian.com/profile/vivian-ho,https://www.theguardian.com/profile/carolinedavies,https://www.theguardian.com/profile/daniel-boffey,https://www.theguardian.com/profile/michael-goodier,https://www.theguardian.com/profile/davidsmith,https://www.theguardian.com/profile/emine-sinmaz,https://www.theguardian.com/profile/jamie-grierson,https://www.theguardian.com/profile/samjones,https://www.theguardian.com/profile/aubrey-allegretti,https://www.theguardian.com/profile/benquinn,https://www.theguardian.com/profile/emily-dugan,https://www.theguardian.com/profile/peterwalker,https://www.theguardian.com/profile/alexandratopping,https://www.theguardian.com/profile/rachel-hall,https://www.theguardian.com/profile/rowena-mason,https://www.theguardian.com/profile/severincarrell,https://www.theguardian.com/profile/philip-oltermann,https://www.theguardian.com/profile/lisaocarroll,https://www.theguardian.com/profile/archie-bland",
-            "title": "Queen’s funeral: Elizabeth II laid to rest alongside husband, royal family announces – latest updates - The Guardian",
-            "description": "The official website of the royal family said a private burial took place in the King George VI Memorial Chapel",
-            "url": "https://www.theguardian.com/uk-news/live/2022/sep/19/queen-elizabeth-ii-state-funeral-westminster-abbey-updates",
-            "urlToImage": "https://i.guim.co.uk/img/media/28df4f9d2c78587436a7979b836e811f508bfae6/0_91_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7381dd3b1501627589a66a8a7e2ef54a",
-            "publishedAt": "2022-09-19T20:23:00Z",
-            "content": "Show key events onlyPlease turn on JavaScript to use this feature\r\nRoyal family publishes unseen photograph of the Queen after her burial\r\nThe royal family has released a new photograph of the Queen,… [+9544 chars]"
+            "author": "Tobi Thomas",
+            "title": "About 250000 people queued to see Queen's coffin in London, says minister - The Guardian",
+            "description": "Culture secretary gives estimate of number who waited to pay respects to late monarch in person",
+            "url": "https://amp.theguardian.com/uk-news/2022/sep/20/about-250000-people-queued-to-see-queens-coffin-in-london-says-minister",
+            "urlToImage": "https://i.guim.co.uk/img/media/52a9d6e89c13ec2540716bd095dcb681bc2a1a1b/0_224_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=96366dc72971d5e6972ba403e0384baf",
+            "publishedAt": "2022-09-20T09:54:00Z",
+            "content": "About a quarter of a million people queued for up to 17 hours to see the Queens coffin as it lay in state at Westminster Hall.\r\nThe figures were revealed by Michelle Donelan, the UK culture secretary… [+2809 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Manchester Evening News"
+            },
+            "author": "Jessica Sansome",
+            "title": "ITV This Morning's Holly Willoughby and Phillip Schofield issue queue jump explanation as they 'understand reaction' - Manchester Evening News",
+            "description": "Holly addressed the controversy in a VT which documented the pair's visit to Westminster Hall",
+            "url": "https://www.manchestereveningnews.co.uk/news/tv/itv-mornings-holly-willoughby-phillip-25061422",
+            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article25061502.ece/ALTERNATES/s1200/2_tm-1.jpg",
+            "publishedAt": "2022-09-20T09:38:42Z",
+            "content": "Holly Willoughby and Phillip Schofield have explained what happened when they were spotted inside Westminster Hall while the Queen was lying in state. The duo have been hosting special episodes of Th… [+3689 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Sky.com"
             },
-            "author": "Siba Jackson, news reporter",
-            "title": "Ukraine: Children among 146 bodies exhumed at mass burial site in city of Izyum, says official - Sky News",
+            "author": "Sky",
+            "title": "Madeleine McCann's parents lose legal battle over detective's accusations - Sky News",
             "description": "",
-            "url": "https://news.sky.com/story/ukraine-children-among-146-bodies-exhumed-at-mass-burial-site-in-city-of-izyum-says-official-12701624",
-            "urlToImage": "https://e3.365dm.com/22/09/1600x900/skynews-ukraine-izyum_5905291.jpg?20220919203335",
-            "publishedAt": "2022-09-19T19:54:18Z",
-            "content": "The remains of two children are among 146 bodies exhumed at a mass burial site close to the city of Izyum in eastern Ukraine, according to an official.\r\nMany of the victims are civilians, with some f… [+2328 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Birmingham Live"
-            },
-            "author": "Stephanie Balloo",
-            "title": "Dramatic scenes as 50 firefighters battle huge fire in Alum Rock Road - Birmingham Live",
-            "description": "Ten fire crews tackling blaze near to Thornton Road",
-            "url": "https://www.birminghammail.co.uk/news/midlands-news/dramatic-scenes-50-firefighters-battle-25059355",
-            "urlToImage": "https://i2-prod.birminghammail.co.uk/incoming/article25059453.ece/ALTERNATES/s1200/1_Astonishing-drone-footage-from-the-scene-in-Alum-Rock-Road.png",
-            "publishedAt": "2022-09-19T19:41:33Z",
-            "content": "Dozens of firefighters are battling a huge blaze in a Birmingham street this evening. Ten fire crews were sent to tackle the fire after it erupted in Alum Rock.\r\nWest Midlands Fire Service dispatched… [+1229 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Push Square"
-            },
-            "author": "Sammy Barker",
-            "title": "Rumour: PS5 Redesign to Feature Detachable Disc Drive - Push Square",
-            "description": "Optional accessory expected next September alongside refreshed format",
-            "url": "https://www.pushsquare.com/news/2022/09/rumour-ps5-redesign-to-feature-detachable-disc-drive",
-            "urlToImage": "https://images.pushsquare.com/9049794feedff/1280x720.jpg",
-            "publishedAt": "2022-09-19T19:15:00Z",
-            "content": "@rjejr Of course it's a push to digital \r\nBut the existing AD is roughly the same size, but without the notable bumpout where the drive is (it's symmetrical and actually looks better, lol.)\r\nThe new … [+3022 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "In pictures: Extraordinary photos from the Queen's funeral - BBC News - BBC",
-            "description": "The country says goodbye to Queen Elizabeth II for the final time, in an emotional day full of pomp and ceremony.",
-            "url": "https://www.bbc.co.uk/news/resources/idt-2d82cfba-f5ea-4072-ba5e-32c28c749a55",
-            "urlToImage": "https://c.files.bbci.co.uk/16FE1/production/_126777149_dntbwc-u.jpg",
-            "publishedAt": "2022-09-19T18:42:55Z",
-            "content": "The coffin, topped with the Royal Standard and Imperial State Crown, was carried to Westminster Abbey on the State Gun Carriage of the Royal Navy, drawn by 142 sailors. King Charles III and other sen… [+1041 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "George Parker",
-            "title": "Queen Elizabeth's state funeral marks culmination of national mourning - Financial Times",
-            "description": "World leaders and royalty gather at Westminster Abbey for historic ceremony",
-            "url": "https://www.ft.com/content/80760bc4-d3da-4231-9249-7c83662eb684",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffe8128c8-085a-44f0-9db6-3671c53537fb.png?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2022-09-19T18:35:05Z",
-            "content": "Queen Elizabeth II has completed the journey to her final resting place at Windsor after a momentous state funeral at Westminster Abbey, as world leaders joined Britons in mourning the countrys longe… [+5368 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Windows Central"
-            },
-            "author": "Jez Corden",
-            "title": "Microsoft has issued a major update to the Xbox DRM - Windows Central",
-            "description": "Fewer online checks for disc-based games on Xbox One and Xbox Series X|S.",
-            "url": "https://www.windowscentral.com/gaming/xbox/microsoft-has-issued-a-major-update-to-the-xbox-drm",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/L98FVSHvzaRzcQGTGKUFTC-1200-80.jpg",
-            "publishedAt": "2022-09-19T17:51:19Z",
-            "content": "<ul><li>DRM stands for \"digital rights management,\" which refers to online checks on platforms like iOS, Android, Windows, and Xbox to ensure you actually own the license to the content you're access… [+2642 chars]"
+            "url": "https://news.sky.com/story/madeleine-mccanns-parents-lose-case-against-portuguese-ex-detective-goncalo-amaral-12701770",
+            "urlToImage": "https://e3.365dm.com/22/04/1600x900/skynews-kate-gerry-mccann_5747994.jpg?20220422183416",
+            "publishedAt": "2022-09-20T09:21:56Z",
+            "content": "Madeleine McCann's parents have lost a court case over claims in a bestselling book by a former detective that implicated them in their daughter's disappearance.\r\nLawyers for Kate and Gerry McCann ar… [+2505 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "John Crace",
-            "title": "Queen's farewell makes Britain proud again, just for one day - The Guardian",
-            "description": "The bagpipe lament spoke for Charles and all of us. Rest in peace",
-            "url": "https://amp.theguardian.com/politics/2022/sep/19/queens-farewell-makes-uk-proud-again-just-for-one-day-john-crace",
-            "urlToImage": "https://i.guim.co.uk/img/media/c2646bf8afa8bb33e893b083c89a9f3e341aaf27/567_316_3821_2293/master/3821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=5aa9629e6bf420e321fbeb950516514c",
-            "publishedAt": "2022-09-19T17:34:00Z",
-            "content": "We can be Heroes, Just for One Day. In death, Queen Elizabeth first gave us The Queue. A chance for the UK to show its gentler, more united self. That we could be quite nice to one another if we put … [+6872 chars]"
+            "author": "Jessica Elgot",
+            "title": "Ministers to review Channel 4 privatisation and scrapping of BBC licence fee - The Guardian",
+            "description": "Culture secretary says she will ‘re-examine the business case’ but declines to say if licence fee could be axed",
+            "url": "https://amp.theguardian.com/media/2022/sep/20/ministers-to-review-channel-4-privatisation-and-scrapping-of-bbc-licence-fee",
+            "urlToImage": null,
+            "publishedAt": "2022-09-20T08:56:00Z",
+            "content": "Channel 4Culture secretary says she will re-examine the business case but declines to say if licence fee could be axed\r\nMinisters are reviewing the decisions to privatise Channel 4 and to scrap the B… [+4245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Oldhamathletic.co.uk"
+            },
+            "author": "Oldham Athletic",
+            "title": "Unsworth Appointed Latics Manager - News - oldhamathletic.co.uk",
+            "description": "Oldham Athletic are thrilled to announce the appointment of David Unsworth as the club’s new first-team manager.",
+            "url": "https://www.oldhamathletic.co.uk/news/2022/september/20092022-unsworth-appointed-latics-manager/",
+            "urlToImage": "https://www.oldhamathletic.co.uk/siteassets/image/202223/du-ls-copy.jpg",
+            "publishedAt": "2022-09-20T08:45:54Z",
+            "content": "Oldham Athletic are thrilled to announce the appointment of David Unsworth as the clubs new first-team manager.\r\nArriving at Boundary Park on a three-year contract, the 48-year-old joins Latics havin… [+3917 chars]"
         },
         {
             "source": {
@@ -242,25 +99,168 @@
                 "name": "Telegraph.co.uk"
             },
             "author": null,
-            "title": "Ukraine's counter-offensive recaptures first village in Luhansk - The Telegraph",
-            "description": "Defence expert describes Kremlin’s troops as ‘an army in crisis’ as Ukrainians look to force Russians out of the entire region",
-            "url": "https://www.telegraph.co.uk/world-news/2022/09/19/ukraines-counter-offensive-recaptures-first-village-luhansk/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/world-news/2022/09/19/TELEMMGLPICT000309796572_trans_NvBQzQNjv4BqH8g0IxmZhOOFzRvM6k8ERpnDQzwgRmiqFHqV_gtIbpc.jpeg?impolicy=logo-overlay",
-            "publishedAt": "2022-09-19T17:23:00Z",
-            "content": "Ukraine has recaptured its first village in Luhansk, a region that Russian forces took five months to bomb into submission and conquer.\r\nBelogorovka is the latest prize for Ukraines continuing counte… [+1765 chars]"
+            "title": "Ukraine war latest: Russian submarines retreat from Crimea after drone strike - The Telegraph",
+            "description": "Russia has withdrawn submarines from its Black Sea naval headquarters in Crimea, according to the Ministry of Defence.",
+            "url": "https://www.telegraph.co.uk/world-news/2022/09/20/ukraine-news-russia-war-putin-counter-offensive-nuclear-plant/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/world-news/2022/09/20/TELEMMGLPICT000309938402_trans_NvBQzQNjv4BqhasgUMiR-rxiRxu9qBoVLW6YzhIvUEUDsLmHNi1h8Fw.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2022-09-20T08:38:51Z",
+            "content": "Former Russian President Dmitry Medvedev has said it is \"essential\" that Russian-backed separatists in Ukraine carry out referendums that would see their regions join Russia.\r\nIn a post on social med… [+1141 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Wales Online"
+                "name": "Wccftech"
             },
-            "author": "Megan Nisbet",
-            "title": "BBC viewers in tears at presenter Kirsty Young's 'outstanding' speech after Queen's funeral - Wales Online",
-            "description": "Viewers of BBC One were moved by the poignant words delivered by Kirsty Young, who appeared to hold back tears, following the Queen's committal service",
-            "url": "https://www.walesonline.co.uk/lifestyle/tv/bbc-viewers-tears-presenter-kirsty-25058499",
-            "urlToImage": "https://i2-prod.chroniclelive.co.uk/incoming/article25058542.ece/ALTERNATES/s1200/0_kirstyJPG.jpg",
-            "publishedAt": "2022-09-19T17:14:34Z",
-            "content": "BBC One viewers were moved to tears following presenter Kirsty Young's \"outstanding\" closing speech as coverage of the Queen's state funeral came to an end. Britain's longest-reigning monarch was lai… [+2727 chars]"
+            "author": "Hassan Mujtaba",
+            "title": "NVIDIA’s Next-Gen GeForce RTX 4090 Founders Edition “BFGPU” Graphics Card Leaks Ahead of Unveil - Wccftech",
+            "description": "NVIDIA's next-gen GeForce RTX 4090 graphics card or BFGPU as the green team likes to call it has leaked ahead of its official unveil.",
+            "url": "https://wccftech.com/nvidia-next-gen-geforce-rtx-4090-founders-edition-graphics-card-leaks-ahead-of-unveil/",
+            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2022/09/NVIDIA-GeForce-RTX-4090-Graphics-Card-GTC-2022-BFGPU.jpg",
+            "publishedAt": "2022-09-20T08:27:00Z",
+            "content": "NVIDIA's next-gen GeForce RTX 4090 graphics card has leaked ahead of its official unveil in a few hours by Videocardz.\r\nNVIDIA GeForce RTX 4090, The Ada Lovelace Flagship Graphics Card, Has Been Pict… [+2279 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Julia Kollewe",
+            "title": "Mike Ashley to step down from Frasers Group board - The Guardian",
+            "description": "Retail tycoon to remain as remain as the controlling shareholder of Sports Direct and House of Fraser owner",
+            "url": "https://amp.theguardian.com/business/2022/sep/20/mike-ashley-step-down-frasers-group-board-sports-direct-house-of-fraser",
+            "urlToImage": null,
+            "publishedAt": "2022-09-20T08:15:00Z",
+            "content": "Frasers GroupRetail tycoon to remain as remain as the controlling shareholder of Sports Direct and House of Fraser owner\r\nTue 20 Sep 2022 02.52 EDT\r\nMike Ashley is to step down from the board of Fras… [+2698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express"
+            },
+            "author": "Adam Chapman",
+            "title": "UK painkiller found to reduce risk of bowel cancer by 50% - 'major preventative effect' - Express",
+            "description": "The everyday painkiller was found to reduce the risk of inherited bowel cancer for at least ten years after stopping treatment. The finding is exciting but always speak to your doctor first before taking any form of medication.",
+            "url": "https://www.express.co.uk/life-style/health/1671662/cancer-bowel-cancer-aspirin-risk",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/11/1200x712/4292187.jpg",
+            "publishedAt": "2022-09-20T07:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Rachel Sharp",
+            "title": "Adnan Syed hearing - live: Serial podcast's subject walks out of court to cheers as conviction is overturned - The Independent",
+            "description": "Officials have 30 days to decide whether they will fully drop the charges against him",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/adnan-syed-freed-sentence-vacated-evidence-serial-baltimore-b2170884.html",
+            "urlToImage": "https://static.independent.co.uk/2022/09/19/22/SEI126137080.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-09-20T07:30:00Z",
+            "content": "The Supreme Court decision that may deny Adnan Syed legal recourse\r\nOne of the key claims used in vacating Adnan Syeds murder conviction is that prosecutors witheld valuable evidence from his defence… [+866 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Dominic King",
+            "title": "Jordan Henderson is added to the England squad, despite missing Liverpool's last three games - Daily Mail",
+            "description": "Gareth Southgate did not initially name Jordan Henderson in his 28-man party for the trip to Milan and the clash at Wembley. However, Henderson has now been called up to the England team.",
+            "url": "https://www.dailymail.co.uk/sport/football/article-11230027/Jordan-Henderson-added-England-squad-despite-missing-Liverpools-three-games.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/09/20/08/62608707-0-image-a-4_1663660139565.jpg",
+            "publishedAt": "2022-09-20T07:00:57Z",
+            "content": "Jordan Henderson has been added to England's squad for the games against Italy and Germany after making a quicker than expected return from injury.\r\nWhen Henderson damaged his hamstring in Liverpool'… [+2581 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Simon Calder",
+            "title": "Paddington station closure causes Tuesday morning rush-hour chaos - The Independent",
+            "description": "24 hours on, the ‘substantial dewirement’ that stopped all trains on Monday is still not fixed",
+            "url": "https://www.independent.co.uk/travel/news-and-advice/paddington-station-closed-trains-gwr-b2170936.html",
+            "urlToImage": "https://static.independent.co.uk/2022/09/19/17/newFile-10.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-09-20T07:00:08Z",
+            "content": "London Paddington, one of Britains 10 busiest rail stations, has remained almost completely closed for Tuesday morning rush hour.\r\nThe station, which is the terminus for trains to the West of England… [+2295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Leicester disorder: Streets quiet after arrests say police - BBC",
+            "description": "Officers have carried out \"proactive patrols\" overnight and reported no new problems in Leicester.",
+            "url": "https://www.bbc.com/news/uk-england-leicestershire-62965416",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14D75/production/_126756358_img-20220917-wa0014.jpg",
+            "publishedAt": "2022-09-20T06:41:48Z",
+            "content": "Media caption, Footage shows hundreds of people filling streets\r\nPolice said \"proactive patrols\" continued in East Leicester overnight following disorder at the weekend.\r\nTensions involving mainly yo… [+2934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express"
+            },
+            "author": "Dorothy Reddin",
+            "title": "Hidden meaning behind Meghan Markle's Stella McCartney funeral outfit - 'thoughtful' - Express",
+            "description": "Meghan Markle stepped out at the late Queen's state funeral on Monday where her symbolic outfit had a hidden meaning.",
+            "url": "https://www.express.co.uk/life-style/style/1671624/meghan-markle-queen-elizabeth-funeral-outfit-stella-mccartney-hidden-meaning-style",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/12/1200x712/4292038.jpg",
+            "publishedAt": "2022-09-20T06:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Anton Stanley",
+            "title": "Arsenal star Gabriel replicates Ivan Toney tweet after win over Brentford as Gunners show post still... - talkSPORT",
+            "description": "",
+            "url": "https://talksport.com/football/1197888/arsenal-gabriel-ivan-toney-twitter-brentford-mikel-arteta-all-or-nothing-rant/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/09/RAS-TALKSPORT-GABRIEL-TONEY.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2022-09-20T06:34:55Z",
+            "content": "You may think Arsenal players would have celebrated a brilliant 3-0 win over Brentford but, instead, they’re focusing on events long ago.\r\nThe Gunners were tremendous in west London as they saw off t… [+3073 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Derbyshire Live"
+            },
+            "author": "Joel Moore, Ben Lyons",
+            "title": "Proud local men among coffin bearers at Queen's funeral - Derbyshire Live",
+            "description": "They carried the coffin of country's longest-serving monarch",
+            "url": "https://www.derbytelegraph.co.uk/news/local-news/proud-local-men-among-coffin-7604221",
+            "urlToImage": "https://i2-prod.derbytelegraph.co.uk/incoming/article7604249.ece/ALTERNATES/s1200/0_Queen-Elizabeth-II-funeral.jpg",
+            "publishedAt": "2022-09-20T06:25:17Z",
+            "content": "Two local men were among the coffin bearers at the funeral of Queen Elizabeth II yesterday. Dean Jones, from Long Eaton, and Luke Simpson, from just over the Nottinghamshire border in Selston, were a… [+2309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Justin McCurry",
+            "title": "Warnings over floods and landslides in Japan in wake of Typhoon Nanmadol - The Guardian",
+            "description": "Two dead and thousands without power as storm dumps heavy rain and authorities warn six million to evacuate",
+            "url": "https://amp.theguardian.com/world/2022/sep/20/warnings-over-floods-and-landslides-in-japan-in-wake-of-typhoon-nanmadol",
+            "urlToImage": null,
+            "publishedAt": "2022-09-20T05:42:00Z",
+            "content": "JapanTwo dead and thousands without power as storm dumps heavy rain and authorities warn six million to evacuate\r\nTue 20 Sep 2022 01.42 EDT\r\nTwo people have died and more than 100 were injured after … [+3576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Bird flu cases confirmed in Suffolk and Essex - BBC",
+            "description": "The Animal and Plant Health Agency says 1.9 mile (3km) protection zones are in place.",
+            "url": "https://www.bbc.com/news/uk-england-suffolk-62959403",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3C6D/production/_126496451_ac7c3821-048b-477c-8172-13623acd990b.jpg",
+            "publishedAt": "2022-09-20T05:11:39Z",
+            "content": "Two cases of bird flu have been confirmed at sites in Suffolk and Essex.\r\nSuffolk Trading Standards confirmed the highly pathogenic avian flu virus - H5N1 - was found on Saturday in a garden chicken … [+1408 chars]"
         }
     ]
 }
