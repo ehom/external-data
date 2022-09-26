@@ -1,123 +1,149 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Andrew Freedman",
-            "title": "Tropical Storm Ian to strengthen, storm watch issued for Florida Keys - Axios",
-            "description": "The storm's track is not yet clear, with trends favoring a landfall in the Florida Panhandle.",
-            "url": "https://www.axios.com/2022/09/25/hurricane-ian-intensifies-florida-threat",
-            "urlToImage": "https://images.axios.com/BT8O4J49AWjTbAlFKREi-PBb6R4=/0x188:1280x908/1366x768/2022/09/25/1664141633360.jpg",
-            "publishedAt": "2022-09-26T00:33:45Z",
-            "content": "Tropical Storm Ian was strengthening Sunday night, and it is forecast to intensify more rapidly Monday and Tuesday possibly into a high-end Category 4 storm. \r\nThe big picture: Ian could hit western … [+2926 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Jada Yuan",
-            "title": "At Elton John's White House concert, tears and a trip down memory lane - The Washington Post",
-            "description": "The singer, who came to Washington on a farewell concert tour, performed a six-song set at the White House Friday, and was surprised to receive the National Humanities Medal",
-            "url": "https://www.washingtonpost.com/lifestyle/2022/09/25/elton-john-white-house-biden/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R5YII7GEXZB7ZLMHGN6RGJI4ZU.jpg&w=1440",
-            "publishedAt": "2022-09-26T00:29:06Z",
-            "content": "When Donald Trump asked one of his favorite musicians, Elton John, to perform at his 2017 inauguration, the knighted singer politely declined in an email:\r\nThank you so much for the extremely kind in… [+8029 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Philadelphia Inquirer"
-            },
-            "author": "Jake Blumgart",
-            "title": "Man charged in two deaths after he crashed his car into an intersection in unsanctioned Wildwood drag race - The Philadelphia Inquirer",
-            "description": "Police charged Gerald J. White, 37, of Pittsburgh with two counts of death by auto and two counts of assault by auto, in the death of Lindsay Weakland, 18, and Timothy Ogden, 34.",
-            "url": "https://www.inquirer.com/news/wildwood-tragedy-drag-racing-cars-death-20220925.html",
-            "urlToImage": "https://www.inquirer.com/resizer/vuAQwwL705mUhEcgIGbZDCaOZQU=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/L4ORNSNZMZFVNKGNQYUUE7XBTY.jpg",
-            "publishedAt": "2022-09-26T00:05:04Z",
-            "content": "After two people were killed this weekend in Wildwood, N.J., when a driver struck a car and then hit two pedestrians during an unsanctioned drag racing rally known as H2Oi, the mayor said his first o… [+5844 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Jaylon Thompson, Victoria Hernandez and Richard Morin, USA TODAY",
-            "title": "NFL scores, schedule: Live updates for Week 3; Packers hold off Brady - USA TODAY",
-            "description": "Tom Brady and Aaron Rodgers meet for the fifth time in their careers as the Packers-Buccaneers game headlines a strong slate of Week 3 NFL action.",
-            "url": "https://www.usatoday.com/story/sports/nfl/2022/09/25/nfl-schedule-week-3-scores-results-tv-information/8105219001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2020/10/15/USAT/e5d67f1a-fb8f-4658-b200-cab63545a4d4-NFLPicks_wk6.jpg?auto=webp&crop=840,472,x838,y819&format=pjpg&width=1200",
-            "publishedAt": "2022-09-26T00:00:00Z",
-            "content": "Week 3 of the NFL season kicked off with the Cleveland Browns defeating the Pittsburgh Steelers on Thursday night. The action ramped up Sunday when the Green Bay Packers and Tampa Bay Buccaneers head… [+10144 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Nellie Andreeva",
-            "title": "Zack Estrin Dies: ‘Lost In Space’ Showrunner Was 51 - Deadline",
-            "description": "Top television writer-producer Zack Estrin, known for his work as executive producer/showrunner of Lost In Space and co-executive producer on Prison Break, passed away suddenly Sept. 23 in Hermosa Beach. He was 51. Estrin, who was in good health, died of susp…",
-            "url": "https://deadline.com/2022/09/zack-estrin-dead-lost-in-space-showrunner-tv-writer-producer-1235126967/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/09/ZackEstrin.png?w=1024",
-            "publishedAt": "2022-09-25T23:09:00Z",
-            "content": "Top television writer-producer Zack Estrin, known for his work as executive producer/showrunner of Lost In Space and co-executive producer on Prison Break, passed away suddenly Sept. 23 in Hermosa Be… [+2608 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Cindy Boren",
-            "title": "Rihanna to headline Super Bowl LVII halftime show - The Washington Post",
-            "description": "In 2019, the singer said she had turned down a Super Bowl halftime offer because of how Colin Kaepernick had been treated.",
-            "url": "https://www.washingtonpost.com/sports/2022/09/25/rihanna-headline-super-bowl-lvii-halftime-show/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/35YUZZ5NYRDH7J7DYULCX43HNI.jpg&w=1440",
-            "publishedAt": "2022-09-25T23:05:00Z",
-            "content": "Rihanna, who said in 2019 that she turned down the chance to perform in the Super Bowl halftime show because of how Colin Kaepernick had been treated, will headline the Super Bowl LVII halftime show … [+2808 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "John Bacon and Jorge L. Ortiz, USA TODAY",
-            "title": "Ukraine updates: Zelenskyy says Putin 'knows he is losing this war' - USA TODAY",
-            "description": "Zelenskyy said Putin plans on annexing Ukraine territories so he can justify his invasion by claiming he is actually defending Russian territory.",
-            "url": "https://www.usatoday.com/story/news/world/2022/09/25/ukraine-updates-zelenskyy-says-putin-knows-he-losing-war/8113858001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/25/USAT/9c5afb5d-3cbf-4ea9-8047-102d8d7e3c42-AP_Russia_Ukraine_3.jpg?auto=webp&crop=5212,2932,x0,y264&format=pjpg&width=1200",
-            "publishedAt": "2022-09-25T22:22:45Z",
-            "content": "The U.S. has warned the Kremlin of the devastating consequences Russia would face should nuclear weapons be used in Ukraine, national security adviser Jake Sullivan said Sunday.\r\n\"If Russia crosses t… [+6129 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Fans react to 0-3 Raiders: Do they already want coach Josh McDaniels to be fired? - Fresno Bee",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiOmh0dHBzOi8vd3d3LmZyZXNub2JlZS5jb20vc3BvcnRzL25mbC9hcnRpY2xlMjY2MzQyNzIxLmh0bWzSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-09-25T22:17:03Z",
-            "content": null
+            "author": "Anna Chernova, Radina Gigova",
+            "title": "At least 5 children among dead after attacker opens fire at school in Russia - CNN",
+            "description": "At least five children have been killed in a school shooting in the western Russian city of Izhevsk, Russian state media reported Monday.",
+            "url": "https://www.cnn.com/2022/09/26/europe/izhevsk-school-shooting-russia-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220926112806-02-izhevsk-school-shooting.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-26T10:00:00Z",
+            "content": "At least five children have been killed in a school shooting in the western Russian city of Izhevsk, Russian state media reported Monday.\r\nNine fatalities have been reported so far, according to Russ… [+936 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Kara Fox, Barbie Latza Nadeau, Antonia Mortensen and Nicola Ruotolo, CNN",
-            "title": "Giorgia Meloni set to be Italy's most far-right prime minister since Mussolini -- exit poll - CNN",
-            "description": "Italy will be led by the most far-right government since the fascist era of Benito Mussolini, early exit polls suggest.",
-            "url": "https://www.cnn.com/2022/09/25/europe/italy-election-results-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220925145413-02-giorgia-meloni-file-super-tease.jpg",
-            "publishedAt": "2022-09-25T22:01:00Z",
-            "content": null
+            "author": "Laura He, Jessie Yeung, Jonny Hallam",
+            "title": "British pound plummets to record low against the dollar - CNN",
+            "description": "The British pound crashed to a record low against the US dollar on Monday on growing fears about the stability of UK government finances.",
+            "url": "https://www.cnn.com/2022/09/25/business/british-pound-drops-record-low-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220925221700-british-pound-us-dollar.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-26T08:55:00Z",
+            "content": "The British pound crashed to a record low against the US dollar on Monday on growing fears about the stability of UK government finances.\r\nThe plunge of nearly5% to just above $1.03 came during tradi… [+4300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "STOCK MARKET NEWS: Futures weak, British pound plunge, gasoline on the rise - Fox Business",
+            "description": "Gasoline prices keep rising while oil falls on recession fears. FOX Business is providing real-time updates on the markets, commodities and all the most active stocks on the move.",
+            "url": "https://www.foxbusiness.com/live-news/stock-market-news-today-september-26-2022",
+            "urlToImage": "https://livenews.foxbusiness.com/images/2022/09/70968a2530cffe8afb7c156735bb13b3.jpg",
+            "publishedAt": "2022-09-26T08:38:20Z",
+            "content": "U.S. equity futures traded lower on Monday. following another brutal week for stocks.\r\nThe major futures indexes suggest a decline of 0.1% when trading begins on Wall Street.\r\nThe Dow Jones Industria… [+1265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Carly Cassella",
+            "title": "A New Island Has Arisen in The Pacific Following Underwater Eruption - ScienceAlert",
+            "description": "A submerged volcano on the seamount known as the Home Reef in the central Tonga Islands has awoken after 16 years of deep sleep to poke its head out of the blue.",
+            "url": "https://www.sciencealert.com/a-new-island-has-arisen-in-the-pacific-following-underwater-eruption",
+            "urlToImage": "https://www.sciencealert.com/images/2022/09/VolcanicIslandEmerges.jpg",
+            "publishedAt": "2022-09-26T07:07:30Z",
+            "content": "A submerged volcano on the seamount known as the Home Reef in the central Tonga Islands has awoken after 16 years of deep sleep to poke its head out of the blue.\r\nOn 10 September 2022, lava and rock … [+3151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Giorgia Meloni: Italy's far right on course to win election - BBC",
+            "description": "Giorgia Meloni is set to lead a right-wing coalition as Italy's first female PM, provisional results show.",
+            "url": "https://www.bbc.com/news/world-europe-63029909",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E9D8/production/_126846895_meloni.jpg",
+            "publishedAt": "2022-09-26T06:55:55Z",
+            "content": "By Paul KirbyBBC News, Rome\r\nFar-right leader Giorgia Meloni has claimed victory in Italy's election, and is on course to become the country's first female prime minister.\r\nMs Meloni is widely expect… [+4713 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "David Mchugh, Justin Spike, Karel Janicek",
+            "title": "Lights out, ovens off: Europe preps for winter energy crisis - The Associated Press",
+            "description": "FRANKFURT, Germany (AP) — As Europe heads into winter in the throes of an energy crisis , offices are getting chillier.",
+            "url": "https://apnews.com/cca7e5afd38fbcfc1ad72934e8e59bd9",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/7b379ffa83fe4f9ebfd9eb2ff8c8d052/3000.jpeg",
+            "publishedAt": "2022-09-26T06:39:36Z",
+            "content": "FRANKFURT, Germany (AP) As Europe heads into winter in the throes of an energy crisis, offices are getting chillier. Statues and historic buildings are going dark. Bakers who cant afford to heat thei… [+8158 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Andrew Freedman",
+            "title": "Tropical Storm Ian nears hurricane strength: Florida on alert - Axios",
+            "description": "The storm's track is not yet clear, with trends favoring a landfall in the Florida Panhandle.",
+            "url": "https://www.axios.com/2022/09/25/hurricane-ian-intensifies-florida-threat",
+            "urlToImage": "https://images.axios.com/BT8O4J49AWjTbAlFKREi-PBb6R4=/0x188:1280x908/1366x768/2022/09/25/1664141633360.jpg",
+            "publishedAt": "2022-09-26T06:33:45Z",
+            "content": "A strengthening Tropical Storm Ian was expected to intensify into a hurricane on Monday and possibly into a high-end Category 4 storm as early as midweek this week. \r\nState of play: Ian was some 355 … [+3478 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hannah Sorisohn",
+            "title": "Brett Favre continued to pressure for volleyball facility funding even after being told it was possibly illegal, according to new filing - CNN",
+            "description": "A series of text conversations between Pro Football Hall of Famer Brett Favre and former Mississippi Gov. Phil Bryant appear to show Favre repeatedly pressing the then-governor about funding the construction of a volleyball facility at the University of South…",
+            "url": "https://www.cnn.com/2022/09/26/us/brett-favre-texts-mississippi-welfare-fraud-case/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220926010136-brett-favre-0925.jpg?q=w_800,c_fill",
+            "publishedAt": "2022-09-26T05:37:00Z",
+            "content": "A series of text conversations between Pro Football Hall of Famer Brett Favre and former Mississippi Gov. Phil Bryant appear to show Favre repeatedly pressing the then-governor about funding the cons… [+4394 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annie Palmer",
+            "title": "Amazon's second Prime Day sale will take place Oct. 11-12 - CNBC",
+            "description": "Amazon is adding another day for online deals, which could help jumpstart holiday shopping as the company faces slowing sales and a host of economic challenges.",
+            "url": "https://www.cnbc.com/2022/09/26/amazons-second-prime-day-sale-will-take-place-oct-11-12.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106900691-1624361635111-gettyimages-1233586479-AMAZON_PRIME_DAY.jpeg?v=1664168461&w=1920&h=1080",
+            "publishedAt": "2022-09-26T05:01:01Z",
+            "content": "Amazon is hosting another Prime Day-like deal bonanza next month, marking the first time it will hold two such events in the same year.\r\nThe company said Monday that the event, which it's calling the… [+1751 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Jacques Billeaud",
+            "title": "From Yale to jail: Oath Keepers founder Stewart Rhodes' path - The Associated Press",
+            "description": "PHOENIX (AP) — Long before he assembled one of the largest far-right anti-government militia groups  in U.S.",
+            "url": "https://apnews.com/4372b311695c401255c6881111ff4f41",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5975bbf454df486ebf5fa456e08d92be/3000.jpeg",
+            "publishedAt": "2022-09-26T04:10:23Z",
+            "content": "PHOENIX (AP) Long before he assembled one of the largest far-right anti-government militia groups in U.S. history, before his Oath Keepers stormed the U.S. Capitol on Jan. 6, 2021, Stewart Rhodes was… [+14470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jason Owens",
+            "title": "Chargers coach Brandon Staley let Justin Herbert decide to keep playing injured in blowout loss to Jaguars - Yahoo Sports",
+            "description": "Herbert kept playing with injury in a hopeless game with his starting left tackle sidelined.",
+            "url": "https://sports.yahoo.com/chargers-coach-brandon-staley-let-justin-herbert-decide-to-keep-playing-injured-in-blowout-loss-to-jaguars-025115512.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dwW3obYlAhstS2KBjnCoAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/e2397ed0-3d45-11ed-9f7f-b2677c61232b",
+            "publishedAt": "2022-09-26T03:51:00Z",
+            "content": "Justin Herbert was a game-time decision to play Sunday against the Jacksonville Jaguars after fracturing rib cartilage in Week 2.\r\nThen he lost his blindside protection in the third quarter when Pro … [+2902 chars]"
         },
         {
             "source": {
@@ -125,142 +151,116 @@
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "NFLPA to investigate Dolphins' handling of Tua Tagovailoa's concussion check vs. Bills, per report - CBS Sports",
-            "description": "Tagovailoa briefly left Sunday's game after suffering what the team called a head injury",
-            "url": "https://www.cbssports.com/nfl/news/nflpa-to-investigate-dolphins-handling-of-tua-tagovailoas-concussion-check-vs-bills-per-report/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/25/814febbb-108b-4eba-8275-075588a2ff5d/thumbnail/1200x675/9dc866d502fcdfb91cf3e41ba9c76361/tua-3-us.jpg",
-            "publishedAt": "2022-09-25T21:36:30Z",
-            "content": "The NFLPA is initiating an investigation into the Dolphins' handling of Tua Tagovailoa's concussion check during Sunday's 21-19 win over the Bills, according to NFL Media. Tagovailoa briefly left the… [+1430 chars]"
+            "title": "NFL Week 3 grades: Chiefs get a 'D' after upset loss to Colts, Dolphins earn an 'A' for upsetting Bills - CBS Sports",
+            "description": "Here are the Week 3 grades for every team that played on Sunday",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-3-grades-chiefs-get-a-d-in-upset-loss-to-colts-dolphins-earn-an-a-for-upsetting-bills/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/26/ae8318bf-9c05-4a77-99ae-7e17034a80e0/thumbnail/1200x675/6a795cb71569acd96c6e57a216cafcee/screen-shot-2022-09-25-at-8-45-40-pm.png",
+            "publishedAt": "2022-09-26T03:48:00Z",
+            "content": "It's not often you see the Kansas City Chiefs fully implode, but that's exactly what happened on Sunday during the team's shocking 20-17 loss to the Indianapolis Colts. There was an offensive implosi… [+4078 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Sami Fathi",
-            "title": "YouTuber Tests Apple Watch Ultra Durability With a Hammer: Table Breaks Before the Watch - MacRumors",
-            "description": "A YouTuber has put Apple's claims for the durability of the Apple Watch Ultra to the test by putting it up against a drop test, a jar of nails,...",
-            "url": "https://www.macrumors.com/2022/09/25/youtube-tests-apple-watch-ultra-hammer/",
-            "urlToImage": "https://images.macrumors.com/t/0gGrRcXr_gqLfGsSuWXQIoA_GB8=/1600x/article-new/2022/09/apple-watch-ultra-hammer-test-1.jpg",
-            "publishedAt": "2022-09-25T21:27:41Z",
-            "content": "A YouTuber has put Apple's claims for the durability of the Apple Watch Ultra to the test by putting it up against a drop test, a jar of nails, and repeated hits with a hammer to test the sapphire cr… [+1452 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Loree Seitz",
-            "title": "‘Don’t Worry Darling’ Actors KiKi Layne and Ari’el Stachel Speak Out About Being Cut ‘From Most of the Movie’ - Yahoo Entertainment",
-            "description": "\"But we thriving in real life,\" Layne wrote",
-            "url": "https://www.yahoo.com/entertainment/don-t-worry-darling-actors-210249395.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/nsqjfvO9tsId3e8ktU9F3g--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thewrap.com/217cdde386930a8fe28bb8880cfd02a9",
-            "publishedAt": "2022-09-25T21:02:49Z",
-            "content": "Actors KiKi Layne and Ariel Stachel are added to the existing catalogue of Dont Worry Darling drama by speaking out about being cut from most of the movie.\r\nThe best thing about #DontWorryDarling is … [+1985 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "name": "KABC-TV"
             },
             "author": null,
-            "title": "Iran protests Western stance on mass protests over woman's death - Reuters",
-            "description": "Iran summoned the British and Norwegian ambassadors over what it called interference and hostile media coverage of the nationwide unrest triggered by the death of a woman detained by morality police.",
-            "url": "https://www.reuters.com/world/middle-east/iran-summons-uk-norwegian-envoys-unrest-persists-2022-09-25/",
-            "urlToImage": "https://www.reuters.com/resizer/vzQ92USxr-98xGyMPkTR4ggLP9w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OXN775BTSVJZJMCK7IOVVEC2K4.jpg",
-            "publishedAt": "2022-09-25T19:44:00Z",
-            "content": "DUBAI, Sept 25 (Reuters) - Iran summoned the British and Norwegian ambassadors over what it called interference and hostile media coverage of the nationwide unrest triggered by the death of a woman d… [+5646 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "GamesRadar+"
-            },
-            "author": "Vikki Blake",
-            "title": "Alleged GTA 6 leaker has been formally charged by police - Gamesradar",
-            "description": "\"The teenager has been charged with breach of bail and two counts of computer misuse\"",
-            "url": "https://www.gamesradar.com/alleged-gta-6-leaker-has-been-formally-charged-by-police/",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6wkBw7S8q9nKY7VCzXrD3L-1200-80.jpg",
-            "publishedAt": "2022-09-25T19:39:26Z",
-            "content": "The 17-year-old arrested on suspicion of hacking and widely thought to be the person behind last weekend's shocking GTA 6 leaks has now been charged with the offenses. \r\nOn Thursday, September 22, a … [+3262 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Bradford Betz",
-            "title": "NASA postpones decision on rolling Artemis I back to the Vehicle Assembly Building due to Tropical Storm Ian - Fox News",
-            "description": "NASA is holding off on a decision on whether or not to rollback Artemis I to the Vehicle Assembly Building as weather forecasts indicated more favorable conditions for a launch.",
-            "url": "https://www.foxnews.com/science/nasa-postpones-decision-whether-roll-artemis-i-back-vehicle-assembly-building-tropical-storm-ian",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/gettyimages-1420218661_copy.jpg",
-            "publishedAt": "2022-09-25T19:33:33Z",
-            "content": "NASA says it is holding off a decision on whether to launch Artemis I on Tuesday as preparations for a possible rollback to the Vehicle Assembly Building continue. \r\nPlanners suggested on Saturday th… [+1662 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Kari Lake: Cheney comments may be ‘best gift I have ever received’ - The Hill",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vMzY2MDMwMi1rYXJpLWxha2UtY2hlbmV5LWNvbW1lbnRzLW1heS1iZS1iZXN0LWdpZnQtaS1oYXZlLWV2ZXItcmVjZWl2ZWQv0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-09-25T19:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Anders Hagstrom",
-            "title": "North Korea fires second ballistic missile into sea ahead of VP Harris visit to Seoul - Fox News",
-            "description": "North Korea has fired two ballistic missiles into the sea this weekend. The launches come days before joint drills between the U.S. and South Korean militaries.",
-            "url": "https://www.foxnews.com/world/north-korea-fires-second-ballistic-missile-sea-ahead-vp-harris-visit-seoul",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/acf962bf-north-korea.jpg",
-            "publishedAt": "2022-09-25T17:27:46Z",
-            "content": "North Korea fired a second ballistic missile into the sea on Sunday ahead of a visit from Vice President Kamala Harris to the South Korean capital.\r\nKim Jong Un's regime fired its first missile off o… [+2608 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Rachel Pannett, Annabelle Timsit",
-            "title": "Philippines on high alert as 'explosive' Super Typhoon Noru makes landfall - The Washington Post",
-            "description": "The typhoon is forecast to bring large waves, torrential rains and wind gusts of up to 127 miles per hour to the northern Philippine island of Luzon.",
-            "url": "https://www.washingtonpost.com/world/2022/09/25/philippines-super-typhoon-noru-karding/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H5EX6NR4WQI63DDOSODL27GYEY.jpg&w=1440",
-            "publishedAt": "2022-09-25T17:20:00Z",
-            "content": "Emergency officials in the Philippines were on high alert Sunday as a rapidly intensifying tropical storm known as Super Typhoon Noru made landfall off the eastern shore of the capital, Manila, and m… [+4245 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Hurricane Fiona: drone video of destruction in Puerto Rico - 9NEWS",
-            "description": "Drone video of destruction in Salinas after hurricane Fiona hit the island. Source: CNNMore local videos here: https://bit.ly/2Pa0d1lSubscribe to NEXT: http:...",
-            "url": "https://www.youtube.com/watch?v=eRALavIOXeQ",
-            "urlToImage": "https://i.ytimg.com/vi/eRALavIOXeQ/maxresdefault.jpg",
-            "publishedAt": "2022-09-25T17:04:28Z",
-            "content": null
+            "title": "CA mandatory kindergarten bill: Gov. Gavin Newsom rejects mandatory kindergarten law - KABC-TV",
+            "description": "California will not expand education to make kindergarten mandatory after Gov. Gavin Newsom vetoed a law meant to address decreasing attendance during the pandemic.",
+            "url": "https://abc7.com/california-mandatory-kindergarten-bill-newsom-vetoes-law-education/12266553/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/12266573_california-generic-kindergarten-AP-TN-img.jpg?w=1600",
+            "publishedAt": "2022-09-26T03:40:00Z",
+            "content": "SACRAMENTO -- Beyond what they learn academically in kindergarten, students learn everyday routines: how to take care of class materials and how to be kind to their peers, according to Golden Empire … [+3878 chars]"
         },
         {
             "source": {
                 "id": "bloomberg",
                 "name": "Bloomberg"
             },
-            "author": "Elena Popina, Jess Menton",
-            "title": "Stock Traders Brace for a Steeper Dive as Fed Ups Recession Fear - Bloomberg",
-            "description": "A hawkish Federal Reserve crushed whatever hope investors had, plunging the stock market into a doom spiral last week and sparking traders’ fears that even more losses are on the way.",
-            "url": "https://www.bloomberg.com/news/articles/2022-09-25/stock-traders-brace-for-a-steeper-dive-as-fed-ups-recession-fear",
-            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iU5eax7zlox8/v1/1200x800.jpg",
-            "publishedAt": "2022-09-25T17:00:07Z",
-            "content": "A hawkish Federal Reserve crushed whatever hope investors had, plunging the stock market into a doom spiral last week and sparking traders’ fears that even more losses are on the way. \r\nAny hopes tha… [+319 chars]"
+            "author": "Danny Lee, Will Davies",
+            "title": "Flight Bookings Out of Hong Kong Jump 400%, With Osaka Up 7,300% - Bloomberg",
+            "description": "Trip.com’s Hong Kong website experienced a nearly 400% increase in outbound flight orders over the weekend compared with Sept. 17-18, the online travel agency said Monday, after the city eased virus travel restrictions, including doing away with the dreaded h…",
+            "url": "https://www.bloomberg.com/news/articles/2022-09-26/flight-bookings-out-of-hong-kong-leap-400-with-osaka-up-7-300",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXhO_0lJ__9A/v0/1200x800.jpg",
+            "publishedAt": "2022-09-26T03:32:00Z",
+            "content": "Trip.com’s Hong Kong website experienced a nearly 400% increase in outbound flight orders over the weekend compared with Sept. 17-18, the online travel agency said Monday, after the city \r\neased viru… [+378 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Zach Kruse",
+            "title": "Top takeaways from Packers' 14-12 win over Buccaneers - Packers Wire",
+            "description": "The top takeaways from the Packers’ 14-12 win over the Buccaneers in Week 3.",
+            "url": "https://packerswire.usatoday.com/lists/top-takeaways-from-packers-14-12-win-over-buccaneers/",
+            "urlToImage": "https://packerswire.usatoday.com/wp-content/uploads/sites/57/2022/09/b414782d33b3494eaf1b41af2f4e4aba.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2022-09-26T03:10:00Z",
+            "content": "Kim Klement-USA TODAY Sports\r\nThe Packers displayed the height of the offense’s potential during a two-drive stretch to open the game against one of the NFL’s best defenses. Green Bay engineered scor… [+788 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hamdi Alkhshali and Jomana Karadsheh, CNN",
+            "title": "Fifth Iranian paramilitary member killed as president warns protesters will be dealt with 'decisively' - CNN",
+            "description": "A fifth member of an Iranian volunteer paramilitary group died Sunday after clashing with what state media called \"rioters and thugs,\" as the country's President Ebrahim Raisi warned that protesters would be dealt with \"decisively\" after days of nationwide un…",
+            "url": "https://www.cnn.com/2022/09/25/middleeast/mahsa-amini-death-iran-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220923205546-mahsa-amini-un-investigation-iran-protest-intl-hnk-super-tease.jpg",
+            "publishedAt": "2022-09-26T03:06:00Z",
+            "content": "(CNN)A fifth member of an Iranian volunteer paramilitary group died Sunday after clashing with what state media called \"rioters and thugs,\" as the country's President Ebrahim Raisi warned that protes… [+5970 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Press of Atlantic City"
+            },
+            "author": "BILL BARLOW  Staff Writer",
+            "title": "Suspect, 2 victims ID'd after chaotic unsanctioned car rally in Wildwood turns deadly (WITH RAW VIDEO) - Press of Atlantic City",
+            "description": "WILDWOOD — Two people were killed in a Saturday collision here in an incident connected to the H2oi car rally on a day that included other crashes in the community.",
+            "url": "https://pressofatlanticcity.com/news/local/suspect-2-victims-idd-after-chaotic-unsanctioned-car-rally-in-wildwood-turns-deadly-with-raw/article_2e702c0c-3d2a-11ed-a53f-fbe5ad76e9f1.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/e/a6/ea6779d2-3d0d-11ed-8d0b-4773652fa956/6330b56577ce0.image.png?crop=1536%2C806%2C0%2C59&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2022-09-26T02:30:00Z",
+            "content": "Drone video from Wildwood Saturday night show the large crowds on the sidewalk and the emergency responders on scene at Rio Grande Avenue after a driver lost control and struck a golf cart. In a sepa… [+7245 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tracy Wright",
+            "title": "'Don't Worry Darling' tops box office with $19 million debut despite drama surrounding Olivia Wilde film - Fox News",
+            "description": "Olivia Wilde directed Harry Styles, Florence Pugh, Gemma Chan, Chris Pine and Nick Kroll in the thriller released Friday, which earned $30 million globally.",
+            "url": "https://www.foxnews.com/entertainment/dont-worry-darling-tops-box-office-19-million-debut-despite-drama-surrounding-olivia-wilde-film",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/dont-worry-darling-cast.jpg",
+            "publishedAt": "2022-09-26T02:03:42Z",
+            "content": "\"Don't Worry Darling\" did not disappoint at the box office, darling. Olivia Wilde's sophomore release earned $19.2 million domestically, nabbing the top spot across theatrical releases nationwide.\r\nT… [+6682 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Abner Li",
+            "title": "Google Pixel Watch retail box emphasizing ‘with Fitbit’ leaks - 9to5Google",
+            "description": "There have been many Pixel Watch leaks in recent weeks, and we now have a look at the retail box for Google's first wearable...",
+            "url": "https://9to5google.com/2022/09/25/pixel-watch-box-leak/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/09/google-pixel-watch-face-official-4.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-09-26T01:41:00Z",
+            "content": "A lot about the Pixel Watch has leaked in recent weeks, and we now have a look at the retail box for Google’s first wearable.\r\nCompared to Apple (and Samsung), Google is opting (via Reddit) for long,… [+1200 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ganesh Rao",
+            "title": "Dan Niles predicts when the S&P 500 might bottom, and reveals how he's profited this year - CNBC",
+            "description": "Dan Niles, founder of The Satori Fund, reveals what he thinks investors should be worried about right now.",
+            "url": "https://www.cnbc.com/2022/09/26/dan-niles-predicts-when-the-sp-500-might-bottom-and-reveals-how-hes-profited.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104212465-IMG_0061.JPG?v=1664154167&w=1920&h=1080",
+            "publishedAt": "2022-09-26T01:02:00Z",
+            "content": null
         }
     ]
 }
