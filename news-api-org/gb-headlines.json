@@ -4,55 +4,146 @@
     "articles": [
         {
             "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Anthony Cuthbertson",
+            "title": "Nasa DART mission - live: Nasa successfully smashes spacecraft into asteroid in first major test - The Independent",
+            "description": "Nasa dart mission live stream and news today",
+            "url": "https://www.independent.co.uk/space/nasa-dart-mission-live-asteroid-b2175263.html",
+            "urlToImage": "https://static.independent.co.uk/2022/09/23/22/dart_2.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-09-27T00:32:53Z",
+            "content": "What next? \r\nAs the image of Dimorphos grew from a faint spec, to a grey smudge, and then a real object in the cameras of Nasas Dart mission Applied Physics Laboratory Dart Mission Systems Engineer E… [+1374 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "Telegraph.co.uk"
+                "name": "The Guardian"
+            },
+            "author": "Pippa Crerar",
+            "title": "'Coming back to finish the job': Starmer aims to reclaim centre ground - The Guardian",
+            "description": "Leader will promise ‘fresh start’ for UK after turbulence of successive Conservative governments in keynote address to conference",
+            "url": "https://amp.theguardian.com/politics/2022/sep/26/labour-conference-starmer-party-financial-responsibility",
+            "urlToImage": null,
+            "publishedAt": "2022-09-26T23:09:00Z",
+            "content": "LabourLeader will promise fresh start for UK after turbulence of successive Conservative governments in keynote address to conference\r\nKeir Starmer will attempt to take on the mantle of Tony Blair on… [+5268 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Rupert Neate",
+            "title": "Super-rich UK non-doms avoiding £3.2bn in tax each year, report finds - The Guardian",
+            "description": "Analysis also challenges argument that the scheme attracts wealthy people who would otherwise leave the country",
+            "url": "https://amp.theguardian.com/news/2022/sep/27/super-rich-uk-non-doms-avoiding-32bn-in-tax-each-year-report-finds",
+            "urlToImage": null,
+            "publishedAt": "2022-09-26T23:02:00Z",
+            "content": "The super-richAnalysis also challenges argument that the scheme attracts wealthy people who would otherwise leave the country\r\nSuper-rich overseas people in the UK registered as having non-domicile s… [+3582 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Jackson Cole",
+            "title": "Fan violence at Wembley pub before England's UEFA Nations League clash against Germany leads to four a... - talkSPORT",
+            "description": "",
+            "url": "https://talksport.com/football/1203789/fan-violence-wembley-pub-england-nations-league-germany/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/09/MG-SPORT-PREVIEW-PUB.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2022-09-26T21:33:45Z",
+            "content": "A group of approximately football fans stormed a Wembley pub in some unsavoury scenes before England’s UEFA Nations League clash against Germany. \r\nThe build-up to the match was overshadowed by some … [+3565 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Manchester Evening News"
+            },
+            "author": "Isaac Johnson",
+            "title": "Rio Ferdinand sends message to Man United captain Harry Maguire after poor showing for England - Manchester Evening News",
+            "description": "The Reds skipper, already facing pressure at Man United, had a disappointing night for the Three Lions",
+            "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-harry-maguire-england-25113286",
+            "urlToImage": "https://i2-prod.football.london/incoming/article25113287.ece/ALTERNATES/s1200/0_GettyImages-1427662486.jpg",
+            "publishedAt": "2022-09-26T21:20:53Z",
+            "content": "Rio Ferdinand says he sympathises with Harry Maguire following a below-par performance for England in their 3-3 Nations League draw with Germany on Monday evening.\r\nThe defender lost the ball and gav… [+1449 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Jill Lupupa, news reporter",
+            "title": "King Charles's new royal monogram revealed - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/king-charless-new-royal-cypher-revealed-12705725",
+            "urlToImage": "https://e3.365dm.com/22/09/1600x900/skynews-kng-charles-cypher_5911343.jpg?20220926203200",
+            "publishedAt": "2022-09-26T21:07:26Z",
+            "content": "King Charles's new royal cypher has been revealed ahead of its appearance on government buildings, state documents and post boxes.\r\nThe monogram will be added to various public offices, papers, and s… [+2362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Kalyeena Makortoff",
+            "title": "Two UK lenders temporarily pull new mortgage deals amid volatile market - The Guardian",
+            "description": "Virgin Money and Skipton Building Society withdraw deals for new customers as drop in pound leaves banks unable to price products",
+            "url": "https://amp.theguardian.com/money/2022/sep/26/uk-lenders-temporarily-pull-new-mortgage-deals-amid-volatile-market",
+            "urlToImage": null,
+            "publishedAt": "2022-09-26T20:50:00Z",
+            "content": "MortgagesVirgin Money and Skipton building society withdraw deals for new customers as drop in pound leaves banks unable to price products\r\nUK lenders Virgin Money and Skipton Building Society tempor… [+3218 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Russia-Ukraine war latest: Russia strikes more than 40 Ukrainian towns as heavy fighting rages - The Telegraph",
-            "description": "Russian shelling hit more than 40 towns in Ukraine in the space of 24 hours, Ukrainian officials said on Monday, as fierce fighting continues to rage in the country&rsquo;s south.",
-            "url": "https://www.telegraph.co.uk/world-news/2022/09/26/ukraine-war-russia-latest-nuclear-sham-referendum-military-mobilisation/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/world-news/2022/09/26/TELEMMGLPICT000310598571_1_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?impolicy=logo-overlay",
-            "publishedAt": "2022-09-26T10:30:50Z",
-            "content": "Pro-Kremlin businessman Yevgeny Prigozhin has admitted that he founded Russia's notorious Wagner mercenary group in 2014.\r\nMr Prigozhin, a key ally of President Vladimir Putin, had previously taken l… [+698 chars]"
+            "title": "Ryzen 7000 Reviews Breakdown, The GPU Situation, Q&A | The Full Nerd ep. 231 - PCWorld",
+            "description": "Join The Full Nerd gang as they talk about the latest PC hardware topics. In this episode the gang covers all of the Ryzen 7000 reviews that dropped today (i...",
+            "url": "https://www.youtube.com/watch?v=kF8tC0eLKmM",
+            "urlToImage": "https://i.ytimg.com/vi/kF8tC0eLKmM/hqdefault.jpg",
+            "publishedAt": "2022-09-26T20:23:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "A Brand New Island Appears in the Pacific Ocean - SciTechDaily",
+            "description": "Home Reef Erupts in the Southwest Pacific Ocean The underwater volcano has again created a small island. In the southwest Pacific Ocean, a seafloor ridge with the highest density of underwater volcanoes in the world stretches from New Zealand to Tonga. On Sep…",
+            "url": "https://scitechdaily.com/a-brand-new-island-appears-in-the-pacific-ocean/",
+            "urlToImage": "https://scitechdaily.com/images/Home-Reef-Erupts-Annotated.jpg",
+            "publishedAt": "2022-09-26T20:04:47Z",
+            "content": "Home Reef erupts. September 14, 2022. (Click image for wider view.)\r\nHome Reef Erupts in the Southwest Pacific Ocean\r\nThe underwater volcano has again created a small island.\r\nIn the southwest Pacifi… [+2982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Sky",
+            "title": "Tom Daley's husband Dustin Lance Black reveals he suffered 'serious head injury' - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/tom-daleys-husband-dustin-lance-black-reveals-he-suffered-serious-head-injury-12705982",
+            "urlToImage": "https://e3.365dm.com/22/09/1600x900/skynews-dustin-black-tom-daley_5911880.jpg?20220926204544",
+            "publishedAt": "2022-09-26T19:56:21Z",
+            "content": "The husband of OIympic gold medallist Tom Daley has revealed he recently suffered a \"serious head injury\" and was advised to \"shut off my brain\" in order to recover. \r\nDustin Lance Black, a US screen… [+1085 chars]"
         },
         {
             "source": {
                 "id": "independent",
                 "name": "Independent"
             },
-            "author": "Namita Singh",
-            "title": "Pound - live: Sterling hits record low as Truss accused of gambling with UK economy - The Independent",
-            "description": "Currency tumbled to an unprecedented $1.0327, extending a 3.61 per cent dive from Friday",
-            "url": "https://www.independent.co.uk/news/uk/politics/liz-truss-tax-cuts-pound-sterling-dollar-latest-b2175108.html",
-            "urlToImage": "https://static.independent.co.uk/2022/09/26/05/AFP_32JY7PN.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2022-09-26T10:24:07Z",
-            "content": "Pound plunge really serious, says Labour shadow chief secretary to Treasury \r\nLabours shadow chief secretary to the Treasury Pat McFadden has described the fall in the pound as really serious.\r\nHe to… [+963 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "https://www.theguardian.com/profile/oliver-holmes,https://www.theguardian.com/profile/lorenzo-tondo,https://www.theguardian.com/profile/kateconnolly,https://www.theguardian.com/profile/kim-willsher",
-            "title": "Italy election: Near-final results show Giorgia Meloni's far-right Brothers of Italy have won most votes – live updates - The Guardian",
-            "description": "Giorgia Meloni’s Brothers of Italy party is set to lead a coalition with a majority in both houses",
-            "url": "https://www.theguardian.com/world/live/2022/sep/26/italy-election-result-giorgia-meloni-brothers-of-italy-far-right",
-            "urlToImage": "https://i.guim.co.uk/img/media/5198db37b058b15c459e44f99dae4d3d2985e342/0_232_4252_2552/master/4252.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1be095f93e2869b11f2ca1d2319d11d9",
-            "publishedAt": "2022-09-26T10:21:28Z",
-            "content": "Near-final results show Brothers of Italy have won the most votes\r\nNear-final results give a party with neo-fascist roots, the Brothers of Italy, the most votes in Italys national elections.\r\nThe res… [+10054 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Five police officers seriously injured in London as hundreds protest death of Iranian woman Mahsa Amini - Evening Standard",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL25ld3MvbG9uZG9uL2lyYW5pYW4tZW1iYXNzeS1wb2xpY2UtbG9uZG9uLWNsYXNoLXByb3Rlc3QtbWFyYmUtYXJjaC1iMTAyNzk4MS5odG1s0gFvaHR0cHM6Ly93d3cuc3RhbmRhcmQuY28udWsvbmV3cy9sb25kb24vaXJhbmlhbi1lbWJhc3N5LXBvbGljZS1sb25kb24tY2xhc2gtcHJvdGVzdC1tYXJiZS1hcmNoLWIxMDI3OTgxLmh0bWw_YW1w?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-09-26T09:22:40Z",
-            "content": null
+            "author": "Rob Merrick",
+            "title": "Bank of England forced to intervene as pound crashes to all-time low after 'disastrous' mini-Budget - The Independent",
+            "description": "Emergency action fails to prop up pound, leaving Liz Truss facing political crisis after just three weeks in power",
+            "url": "https://www.independent.co.uk/news/uk/politics/bank-of-england-pound-interest-rates-budget-b2175691.html",
+            "urlToImage": "https://static.independent.co.uk/2022/09/26/16/urnpublicidap.org9db82393ce2b444fa70bae5cf8a0f461.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-09-26T19:51:59Z",
+            "content": "The Bank of England was forced into an emergency intervention on Monday, warning that it would not hesitate to hike interest rates as much as needed after the pound plummeted in the wake of Kwasi Kwa… [+3576 chars]"
         },
         {
             "source": {
@@ -60,181 +151,51 @@
                 "name": "Sky.com"
             },
             "author": "Sky",
-            "title": "Children among 13 dead as gunman opens fire at Russian school - Sky News",
+            "title": "Ukraine war: Images show 10 miles of queues as Russians flee Vladimir Putin's call-up to fight - Sky News",
             "description": "",
-            "url": "https://news.sky.com/story/six-dead-and-20-wounded-as-gunman-opens-fire-in-school-in-russia-12705612",
-            "urlToImage": "https://e3.365dm.com/22/09/1600x900/skynews-izhevsk-russia-school_5911268.jpg?20220926112641",
-            "publishedAt": "2022-09-26T09:11:15Z",
-            "content": "At least 13 people - including seven children - have been killed during a shooting at a school in the Russian city of Izhevsk.\r\nThe Russian Investigative Committee said the victims also included two … [+1473 chars]"
+            "url": "https://news.sky.com/story/ukraine-war-images-show-10-miles-of-queues-as-russians-flee-vladimir-putins-call-up-to-fight-12705978",
+            "urlToImage": "https://e3.365dm.com/22/09/1600x900/skynews-lars-checkpoint-ukraine_5911862.jpg?20220926201022",
+            "publishedAt": "2022-09-26T19:43:21Z",
+            "content": "New satellite images showing large numbers of Russians fleeing to Georgia and Mongolia have been released after Vladimir Putin's order to mobilise hundreds of thousands of reservists for the conflict… [+2940 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Amanda Whiting",
+            "title": "The battle for the Iron Throne is pointless when everyone in House of the Dragon is this evil - The Independent",
+            "description": "house of the dragon westeros iron throne game of thrones prequel",
+            "url": "https://www.independent.co.uk/arts-entertainment/tv/features/house-of-dragon-iron-throne-battle-b2175595.html",
+            "urlToImage": "https://static.independent.co.uk/2022/09/26/17/newFile.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-09-26T19:32:08Z",
+            "content": "Do you ever have one of those days when everyone feels unworthy of the Iron Throne?\r\nWere more than halfway through the first season of House of the Dragon, which the ambiguously infirmed and heavily… [+3551 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "David Harding",
+            "title": "Putin 'deeply mourns' death of 11 Russian schoolchildren, killed by gunman wearing swastika T-shirt - The Independent",
+            "description": "Kremlin describes the incident as a terrorist act",
+            "url": "https://www.independent.co.uk/news/world/europe/russia-shooting-six-dead-school-izhevsk-b2175213.html",
+            "urlToImage": "https://static.independent.co.uk/2022/09/26/12/izhv.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-09-26T19:26:12Z",
+            "content": "At least 15 people have been killed after a gunman with a swastika on his T-shirt opened fire at a school in the western Russian city of Izhevsk.\r\nAmong the dead were 11 children, said police. Two te… [+2055 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Daily Mail"
             },
-            "author": "Emily Craig",
-            "title": "Beer IS good for you! Scientists claim two pints a day may slash your risk of dementia - Daily Mail",
-            "description": "Australian researchers, who studied the drinking habits and dementia rates among 25,0000 over-60s, found two pints a day slashed the risk of the memory-robbing condition by a third.",
-            "url": "https://www.dailymail.co.uk/health/article-11249925/Beer-good-Scientists-claim-two-pints-day-slash-risk-dementia.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/09/26/09/60686125-0-image-a-2_1664182302844.jpg",
-            "publishedAt": "2022-09-26T09:07:05Z",
-            "content": "Drinking beer every night may lower your risk of dementia, scientists claim.\r\nAustralian researchers studied the drinking habits and dementia rates among 25,000 over-60s.\r\nResults showed people who d… [+7774 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Express"
-            },
-            "author": "Katie Elliott",
-            "title": "Bank of England interest panic as markets 'expect base rate to hit 5.8% in 12 months' - Express",
-            "description": "The Bank of England has raised the Base Rate six times since December, to help stem soaring inflation.",
-            "url": "https://www.express.co.uk/finance/personalfinance/1674315/bank-of-england-base-rate-interest-rates-uk",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/23/1200x712/4304161.jpg",
-            "publishedAt": "2022-09-26T08:41:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sky",
-            "title": "Pensioner killed in hit-and-run in Tesco car park in north London - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/pensioner-killed-in-hit-and-run-in-tesco-car-park-in-north-london-12705607",
-            "urlToImage": "https://e3.365dm.com/22/09/1600x900/skynews-tesco-google-maps_5911161.jpg?20220926092815",
-            "publishedAt": "2022-09-26T08:28:22Z",
-            "content": "A man in his 80s has died in a hit-and-run in a Tesco car park in north London, police have said.\r\nOfficers are searching for the driver of the van involved in the fatal incident at the Coppetts Cent… [+762 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Lizzie May",
-            "title": "Ellie Simmonds reveals she has 'already' been trolled online after Strictly Come Dancing performance - Daily Mail",
-            "description": "The Paralympic swimmer, 27, had detailed her fears of being in the dance off and getting no votes ahead of her Cha Cha Cha to Dance by DNCE on Saturday night.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-11249067/Ellie-Simmonds-reveals-trolled-online-Strictly-Come-Dancing-performance.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/09/26/00/62791185-0-image-a-159_1664149191314.jpg",
-            "publishedAt": "2022-09-26T08:20:27Z",
-            "content": "Ellie Simmonds has sadly revealed that she has 'already' been trolled online following her first performance on Strictly Come Dancing on Saturday night.\r\nThe Paralympic swimmer, 27, has achondroplasi… [+6305 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "This Is Anfield"
-            },
-            "author": "Jack Sear",
-            "title": "Alexander-Arnold dropped from England squad - This Is Anfield",
-            "description": "Their last game before the World Cup...",
-            "url": "https://www.thisisanfield.com/2022/09/trent-alexander-arnold-dropped-from-england-squad-for-last-game-before-world-cup/",
-            "urlToImage": "https://www.thisisanfield.com/wp-content/uploads/2021-11-12-252-England_Albania-1.jpg",
-            "publishedAt": "2022-09-26T08:17:43Z",
-            "content": "Liverpool right-back Trent Alexander-Arnold is one of five players to have been left out of England’s squad to face Germany on Monday, their last game before the World Cup.\r\nManager Gareth Southgate … [+2260 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Liverpool Echo"
-            },
-            "author": "Ellen Kirwin",
-            "title": "Dirt bike rider, 26, dead and two taken to hospital after crash - Liverpool Echo",
-            "description": "An air ambulance landed as police cordoned off a scene",
-            "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/dirt-bike-rider-26-dead-25105078",
-            "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article25105082.ece/ALTERNATES/s1200/0_JS278476411.jpg",
-            "publishedAt": "2022-09-26T07:41:10Z",
-            "content": "A man has died after a crash in Runcorn.\r\nEmergency services rushed to the scene of the crash at around 1.20pm, on Friday, September 23. A red and white dirt bike and a black Ford Eco sport were invo… [+1408 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Football365.com"
-            },
-            "author": "John Nicholson",
-            "title": "Gareth Southgate needs one last act of bravery in his final weeks with England - Football365",
-            "description": "Gareth Southgate needs one last big revolutionary act. Whether that comes via team selection, tactical shape or both, is up to him.",
-            "url": "https://www.football365.com/news/gareth-southgate-one-last-act-bravery-final-weeks-england",
-            "urlToImage": "https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2022/09/26083759/England-manager-Gareth-Southgate-with-Jack-Grealish.jpg",
-            "publishedAt": "2022-09-26T07:39:49Z",
-            "content": "Sadly, we are in the last weeks of Gareth Southgate. The holiday from The Usual England is nearly over. It’s been a great love affair with so many hot memories, so many highs and only a few lows.\r\nHe… [+6756 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theregister.com"
-            },
-            "author": "Simon Sharwood",
-            "title": "PC component scavenging queue jumper pulled into line with a screensaver - The Register",
-            "description": "Fake BSOD became tool of revenge when a staffer ignored the sensible rules of seniority",
-            "url": "https://www.theregister.com/2022/09/26/who_me/",
-            "urlToImage": "https://regmedia.co.uk/2021/02/02/shutterstock_bsod.jpg",
-            "publishedAt": "2022-09-26T07:32:00Z",
-            "content": "Who, Me? Welcome to the working week and therefore to a new instalment of Who, Me?, The Register's confessional in which readers reveal and defend their darkest deeds.\r\nThis week meet a chap we'll Re… [+2857 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Aldi boss: Shoppers are switching in their droves - BBC",
-            "description": "The discounter gains 1.5 million new customers in 12 weeks, says UK chief executive Giles Hurley.",
-            "url": "https://www.bbc.com/news/business-63015985",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AC98/production/_126848144_aldishopper.jpg",
-            "publishedAt": "2022-09-26T06:46:57Z",
-            "content": "By Emma SimpsonBusiness correspondent, BBC News\r\nThe boss of Aldi has said customers are switching to the discounter \"in droves\" as the cost of living crisis continues to hit struggling households.\r\n… [+5594 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Graeme Wearden",
-            "title": "House sellers 'putting up prices despite rate rises and cost of living crisis' - The Guardian",
-            "description": "Average price of homes coming to market in September increased by 0.7% on previous month to £367,760, says Rightmove",
-            "url": "https://amp.theguardian.com/money/2022/sep/26/house-sellers-putting-up-prices-despite-rate-rises-and-cost-of-living-crisis",
-            "urlToImage": "https://i.guim.co.uk/img/media/1e6bf8b493b9120e89b755726c5bd452b9366341/35_0_2944_1767/master/2944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=94a29838c13c590ed92d1e28cd529189",
-            "publishedAt": "2022-09-26T05:30:00Z",
-            "content": "House sellers have continued to raise their asking prices despite borrowers facing higher interest rates and the cost of living squeeze, data from property portal Rightmove shows.\r\nThe average price … [+2359 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Nasa spacecraft lining up to smash into an asteroid - BBC",
-            "description": "The Dart mission will test a technique for defending the Earth against hazardous space rocks.",
-            "url": "https://www.bbc.co.uk/news/science-environment-63006717",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E59E/production/_126828785_dart_still-reviseda.jpg",
-            "publishedAt": "2022-09-26T05:14:58Z",
-            "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nIn the coming hours, the American space agency will crash a probe into an asteroid. \r\nNasa's Dart mission wants to see how difficult it would be … [+4595 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Jennifer Williams",
-            "title": "Foreign investment grows in north of England but falls in rest of UK - Financial Times",
-            "description": "Increase in FDI is only ‘notable success’ of Northern Powerhouse project, says former Treasury minister",
-            "url": "https://www.ft.com/content/a8ae0664-4654-4646-910e-5b63d38631e7",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc1ac6b08-3a90-4c89-a774-85a4d1cd3178.png?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2022-09-26T04:00:59Z",
-            "content": "The value of foreign direct investment into the north of England has risen by almost three-quarters in the past five years while falling in every other part of the UK, including London. \r\nAnalysis of… [+3664 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Pound slumps to all-time low against dollar - BBC",
-            "description": "Sterling plunged by 4% in early Asia trade to the lowest level since decimalisation in 1971.",
-            "url": "https://www.bbc.co.uk/news/business-63030208",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/96FE/production/_126845683_poundandfollar.jpg",
-            "publishedAt": "2022-09-26T01:57:26Z",
-            "content": "By Monica Miller &amp; Peter HoskinsBusiness reporters\r\nThe pound has fallen to its lowest level against the US dollar since decimalisation in 1971.\r\nIn early Asia trade, sterling fell by more than 4… [+1287 chars]"
+            "author": "Lewis Browning",
+            "title": "Gareth Southgate insists Trent Alexander-Arnold's England absence has 'NOTHING to do with World Cup' - Daily Mail",
+            "description": "Alexander-Arnold, alongside Jarrod Bowen, James Ward-Prowse and Fikayo Tomori, was one of the players left out of the squad for the side's final game before the World Cup.",
+            "url": "https://www.dailymail.co.uk/sport/football/article-11252077/Gareth-Southgate-insists-Trent-Alexander-Arnolds-England-absence-World-Cup.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/09/26/22/62822911-0-image-a-56_1664228366270.jpg",
+            "publishedAt": "2022-09-26T19:21:03Z",
+            "content": "Gareth Southgate has suggested leaving Trent Alexander-Arnold out of his England squad has 'nothing to do with the World Cup' after the Liverpool man failed the make the Three Lions' bench in their m… [+2165 chars]"
         },
         {
             "source": {
@@ -242,25 +203,64 @@
                 "name": "The Guardian"
             },
             "author": "Guardian staff reporter",
-            "title": "'A generational talent': Rihanna to perform Super Bowl half-time show - The Guardian",
-            "description": "Singer declined to play the show in 2019, in solidarity with Colin Kaepernick. Announcing the news, Jay-Z praised her for surpassing expectations ‘at every turn’",
-            "url": "https://amp.theguardian.com/sport/2022/sep/26/a-generational-talent-rihanna-to-perform-super-bowl-half-time-show",
+            "title": "'It's officially over': Tyson Fury claims planned fight with Anthony Joshua is off - The Guardian",
+            "description": "In a post on social media, Tyson Fury has called off the planned showdown after his self-imposed deadline of 5pm expired",
+            "url": "https://amp.theguardian.com/sport/2022/sep/26/tyson-fury-anthony-joshua-boxing-news",
             "urlToImage": null,
-            "publishedAt": "2022-09-26T01:14:00Z",
-            "content": "Super BowlSinger declined to play the show in 2019, in solidarity with Colin Kaepernick. Announcing the news, Jay-Z praised her for surpassing expectations at every turn\r\nMon 26 Sep 2022 02.14 BST\r\nU… [+2695 chars]"
+            "publishedAt": "2022-09-26T19:04:00Z",
+            "content": "Tyson Fury<ul><li>Fury gave Joshuas camp 5pm deadline to sign fight contract</li><li>Joshua said on Sunday he would sign deal after legal checks</li></ul>\r\nMon 26 Sep 2022 20.04 BST\r\nTyson Fury says … [+2926 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Tommy Stubbington",
+            "title": "UK government borrowing costs suffer historic rise after Kwarteng 'shocks' investors - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/68105770-f158-4b44-a8c6-b026574e89e1",
+            "urlToImage": null,
+            "publishedAt": "2022-09-26T18:41:12Z",
+            "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
         },
         {
             "source": {
                 "id": null,
-                "name": "Daily Mail"
+                "name": "Telegraph.co.uk"
             },
-            "author": "Owen Tonks",
-            "title": "Ant and Dec give a glimpse at their life in South Africa while filming I'm A Celebrity spin-off - Daily Mail",
-            "description": "Ant McPartlin and Declan Donnelly have given a glimpse at their life in South Africa while filming the upcoming I'm A Celebrity... Get Me Out of Here! spin-off.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-11249043/Ant-Dec-glimpse-life-South-Africa-filming-Im-Celebrity-spin-off.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2022/09/26/00/62791479-0-image-a-233_1664149986136.jpg",
-            "publishedAt": "2022-09-26T00:11:17Z",
-            "content": "Ant McPartlin and Declan Donnelly have given fans a glimpse at their life in South Africa while they're in the country to film for the upcoming I'm A Celebrity... Get Me Out of Here! spin-off show.\r\n… [+5817 chars]"
+            "author": null,
+            "title": "US whistleblower Edward Snowden granted Russian citizenship - The Telegraph",
+            "description": "Former US intelligence contractor is not eligible to be drafted into Russian army, according to his lawyer",
+            "url": "https://www.telegraph.co.uk/world-news/2022/09/26/us-whistleblower-snowden-granted-russian-citizenship/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/world-news/2022/09/26/TELEMMGLPICT000078579010_trans_NvBQzQNjv4Bq9PikuTrmQO3f57XLkA28TG8HY4ZFrniSXaLtLcTAUTE.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2022-09-26T18:31:00Z",
+            "content": "US authorities have for years wanted Mr Snowden returned to the US to face a criminal trial on espionage charges.\r\nAs president, Donald Trump said he would take a look at pardoning Mr Snowden, but ne… [+1820 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Becky Johnson",
+            "title": "Aldi promises to continue to offer lowest prices despite big drop in profits - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/aldi-promises-to-continue-to-offer-lowest-prices-despite-big-drop-in-profits-12705952",
+            "urlToImage": "https://e3.365dm.com/22/09/1600x900/skynews-aldi-supermarket_5897067.jpg?20220913075218",
+            "publishedAt": "2022-09-26T18:20:04Z",
+            "content": "Aldi has pledged to continue to offer the lowest grocery prices in the UK despite suffering a steep fall in profits.\r\nThe supermarket chain's chief executive, Giles Hurley, told Sky News: \"We've made… [+1900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telegraph.co.uk"
+            },
+            "author": null,
+            "title": "Doncaster Sheffield Airport to close in blow for levelling up agenda - The Telegraph",
+            "description": "The Prime Minister previously pledged to ‘protect this airport’",
+            "url": "https://www.telegraph.co.uk/business/2022/09/26/doncaster-sheffield-airport-close-blow-levelling-agenda/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2022/09/26/TELEMMGLPICT000310682974_trans_NvBQzQNjv4BqgeM9nLqjJU1C6JsEKW4oSt3bi7s1wsZuWO3ma0o_jZI.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2022-09-26T17:06:00Z",
+            "content": "One of Liz Trusss first pledges to red wall voters has been left in tatters after the owner of Doncaster Sheffield Airport said the business would close down despite promises of a taxpayer bailout.\r\n… [+1933 chars]"
         }
     ]
 }
