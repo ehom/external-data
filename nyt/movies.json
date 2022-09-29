@@ -2,9 +2,83 @@
     "status": "OK",
     "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
     "section": "Movies",
-    "last_updated": "2022-09-29T13:49:21-04:00",
+    "last_updated": "2022-09-29T15:25:46-04:00",
     "num_results": 34,
     "results": [
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "The New York Film Festival: Movies for Art’s Sake",
+            "abstract": "In “Tár,” “Showing Up” and other selections, the annual event makes the case for big-screen aesthetics and large-scale ambitions.",
+            "url": "https://www.nytimes.com/2022/09/29/movies/new-york-film-festival-preview.html",
+            "uri": "nyt://article/c0ad63fa-25f8-59e2-ad97-4c45386ed371",
+            "byline": "By A.O. Scott",
+            "item_type": "Article",
+            "updated_date": "2022-09-29T16:07:48-04:00",
+            "created_date": "2022-09-29T15:24:51-04:00",
+            "published_date": "2022-09-29T15:24:51-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "New York Film Festival",
+                "Tar (Movie)",
+                "White Noise (2022) (Movie)",
+                "Pacifiction (Movie)",
+                "Corsage (Movie)",
+                "Aftersun (Movie)",
+                "Saint Omer (Movie)",
+                "Master Gardener (Movie)",
+                "Stars at Noon (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Field, Todd",
+                "Blanchett, Cate",
+                "Reichardt, Kelly",
+                "Williams, Michelle (Actor)",
+                "Baumbach, Noah",
+                "Serra, Albert",
+                "Kreutzer, Marie",
+                "Wells, Charlotte (1987- )",
+                "Diop, Alice",
+                "Schrader, Paul",
+                "Denis, Claire"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/29/arts/29nyff-notebook-tar/merlin_212059650_bfddab6e-3346-44c8-abd3-e4625b0cb360-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cate Blanchett as a conductor caught up in a #MeToo scandal of her own making in “Tár.”",
+                    "copyright": "Focus Features"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/29/arts/29nyff-notebook-tar/29nyff-notebook-tar-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cate Blanchett as a conductor caught up in a #MeToo scandal of her own making in “Tár.”",
+                    "copyright": "Focus Features"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/29/arts/29nyff-notebook-tar/29nyff-notebook-tar-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cate Blanchett as a conductor caught up in a #MeToo scandal of her own making in “Tár.”",
+                    "copyright": "Focus Features"
+                }
+            ],
+            "short_url": "https://nyti.ms/3LV0Cnd"
+        },
         {
             "section": "movies",
             "subsection": "",
@@ -133,7 +207,7 @@
             "uri": "nyt://article/a05fcee5-497e-52f1-8b74-df5f533c4534",
             "byline": "By A.O. Scott",
             "item_type": "Article",
-            "updated_date": "2022-09-29T11:19:34-04:00",
+            "updated_date": "2022-09-29T15:44:03-04:00",
             "created_date": "2022-09-29T11:19:34-04:00",
             "published_date": "2022-09-29T11:19:34-04:00",
             "material_type_facet": "",
@@ -251,19 +325,22 @@
             "uri": "nyt://interactive/75ed85de-3867-521e-ad81-4b7751da2715",
             "byline": "By Nadav Gavrielov",
             "item_type": "Interactive",
-            "updated_date": "2022-09-29T13:58:00-04:00",
+            "updated_date": "2022-09-29T16:16:14-04:00",
             "created_date": "2022-09-29T13:43:00-04:00",
             "published_date": "2022-09-29T13:43:00-04:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
-                "Movies",
                 "New York Film Festival",
-                "Hamptons International Film Festival"
+                "Hamptons International Film Festival",
+                "Movies",
+                "Festivals"
             ],
             "org_facet": [],
             "per_facet": [],
-            "geo_facet": [],
+            "geo_facet": [
+                "New York State"
+            ],
             "multimedia": [
                 {
                     "url": "https://static01.nyt.com/images/2022/09/29/arts/film-festivals-ny-lead/film-festivals-ny-lead-superJumbo.jpg",
@@ -418,64 +495,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/3LWNcXJ"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "‘Mona Lisa and the Blood Moon’ Review: Escape From New Orleans",
-            "abstract": "This hyper-stylized quasi-superhero movie by Ana Lily Amirpour follows a mental hospital patient with supernatural abilities; it looks a lot more fun than it actually is.",
-            "url": "https://www.nytimes.com/2022/09/29/movies/mona-lisa-and-the-blood-moon-review.html",
-            "uri": "nyt://article/fe9e25b5-4ebd-534b-a5fb-4b368ba10515",
-            "byline": "By Beatrice Loayza",
-            "item_type": "Article",
-            "updated_date": "2022-09-29T12:30:50-04:00",
-            "created_date": "2022-09-29T08:04:51-04:00",
-            "published_date": "2022-09-29T08:04:51-04:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "Mona Lisa and the Blood Moon (Movie)"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Amirpour, Ana Lily",
-                "Hudson, Kate (1979- )"
-            ],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2022/09/28/arts/mona1/mona1-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 1046,
-                    "width": 2048,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "From left, Jong-seo Jun, Evan Whitten and Ed Skrein in “Mona Lisa and the Blood Moon.”",
-                    "copyright": "Saban Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/09/28/arts/mona1/mona1-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 400,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "From left, Jong-seo Jun, Evan Whitten and Ed Skrein in “Mona Lisa and the Blood Moon.”",
-                    "copyright": "Saban Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/09/28/arts/mona1/mona1-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "From left, Jong-seo Jun, Evan Whitten and Ed Skrein in “Mona Lisa and the Blood Moon.”",
-                    "copyright": "Saban Films"
-                }
-            ],
-            "short_url": "https://nyti.ms/3SGo1Ld"
         },
         {
             "section": "movies",
@@ -665,7 +684,7 @@
             "uri": "nyt://article/d37ede01-a0a5-5817-b120-bfb24d9baa01",
             "byline": "By Natalia Winkelman",
             "item_type": "Article",
-            "updated_date": "2022-09-29T11:29:23-04:00",
+            "updated_date": "2022-09-29T15:42:13-04:00",
             "created_date": "2022-09-29T11:29:23-04:00",
             "published_date": "2022-09-29T11:29:23-04:00",
             "material_type_facet": "",
@@ -679,7 +698,9 @@
                 "Mitre, Santiago",
                 "Darin, Ricardo"
             ],
-            "geo_facet": [],
+            "geo_facet": [
+                "Argentina"
+            ],
             "multimedia": [
                 {
                     "url": "https://static01.nyt.com/images/2022/09/28/arts/argentina1/argentina1-superJumbo.jpg",
@@ -717,13 +738,71 @@
         {
             "section": "movies",
             "subsection": "",
+            "title": "‘Mona Lisa and the Blood Moon’ Review: Escape From New Orleans",
+            "abstract": "This hyper-stylized quasi-superhero movie by Ana Lily Amirpour follows a mental hospital patient with supernatural abilities; it looks a lot more fun than it actually is.",
+            "url": "https://www.nytimes.com/2022/09/29/movies/mona-lisa-and-the-blood-moon-review.html",
+            "uri": "nyt://article/fe9e25b5-4ebd-534b-a5fb-4b368ba10515",
+            "byline": "By Beatrice Loayza",
+            "item_type": "Article",
+            "updated_date": "2022-09-29T12:30:50-04:00",
+            "created_date": "2022-09-29T08:04:51-04:00",
+            "published_date": "2022-09-29T08:04:51-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Mona Lisa and the Blood Moon (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Amirpour, Ana Lily",
+                "Hudson, Kate (1979- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/28/arts/mona1/mona1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1046,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Jong-seo Jun, Evan Whitten and Ed Skrein in “Mona Lisa and the Blood Moon.”",
+                    "copyright": "Saban Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/28/arts/mona1/mona1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Jong-seo Jun, Evan Whitten and Ed Skrein in “Mona Lisa and the Blood Moon.”",
+                    "copyright": "Saban Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/28/arts/mona1/mona1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Jong-seo Jun, Evan Whitten and Ed Skrein in “Mona Lisa and the Blood Moon.”",
+                    "copyright": "Saban Films"
+                }
+            ],
+            "short_url": "https://nyti.ms/3SGo1Ld"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
             "title": "‘What We Leave Behind’ Review: A Father’s Final Project",
             "abstract": "At 89, Julián Moreno began building a home in Mexico for his children who had immigrated to the U.S. His granddaughter made the poignant documentary “What We Leave Behind.”",
             "url": "https://www.nytimes.com/2022/09/29/movies/what-we-leave-behind-review.html",
             "uri": "nyt://article/2e8fee70-7354-5745-b960-64ac8f9ef173",
             "byline": "By Lisa Kennedy",
             "item_type": "Article",
-            "updated_date": "2022-09-29T07:00:11-04:00",
+            "updated_date": "2022-09-29T15:38:46-04:00",
             "created_date": "2022-09-29T07:00:11-04:00",
             "published_date": "2022-09-29T07:00:11-04:00",
             "material_type_facet": "",
@@ -775,6 +854,70 @@
                 }
             ],
             "short_url": "https://nyti.ms/3LZ58Be"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "‘Sirens’ Review: The Risk in Rocking Out in Beirut",
+            "abstract": "A documentary about an all-female metal group in Lebanon shows the difficulties of asserting complex identities in a repressive environment.",
+            "url": "https://www.nytimes.com/2022/09/29/movies/sirens-review.html",
+            "uri": "nyt://article/1ddd307c-8bf7-5e81-a71b-984679084f95",
+            "byline": "By Glenn Kenny",
+            "item_type": "Article",
+            "updated_date": "2022-09-29T15:38:54-04:00",
+            "created_date": "2022-09-29T07:00:09-04:00",
+            "published_date": "2022-09-29T07:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Documentary Films and Programs",
+                "Pop and Rock Music",
+                "Women and Girls",
+                "Content Type: Personal Profile",
+                "Sirens (2022) (Movie)"
+            ],
+            "org_facet": [
+                "Slaves to Sirens (Music Group)"
+            ],
+            "per_facet": [
+                "Baghdadi, Rita (1985- )"
+            ],
+            "geo_facet": [
+                "Lebanon"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/29/arts/29Sirens1/merlin_213563196_0df461c9-f166-4f51-8705-befc10e8de34-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1080,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In “Sirens,” Lilas Mayassi and Shery Bechara, the founders of the Lebanese thrash metal band Slave to Sirens, have a rough road ahead of them.",
+                    "copyright": "Rita Baghdadi/Oscilloscope laboratories"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/29/arts/29Sirens1/29Sirens1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In “Sirens,” Lilas Mayassi and Shery Bechara, the founders of the Lebanese thrash metal band Slave to Sirens, have a rough road ahead of them.",
+                    "copyright": "Rita Baghdadi/Oscilloscope laboratories"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/09/29/arts/29Sirens1/29Sirens1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In “Sirens,” Lilas Mayassi and Shery Bechara, the founders of the Lebanese thrash metal band Slave to Sirens, have a rough road ahead of them.",
+                    "copyright": "Rita Baghdadi/Oscilloscope laboratories"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fsQXrT"
         },
         {
             "section": "movies",
@@ -962,66 +1105,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/3UQ0klu"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "‘Sirens’ Review: The Risk in Rocking Out in Beirut",
-            "abstract": "A documentary about an all-female metal group in Lebanon shows the difficulties of asserting complex identities in a repressive environment.",
-            "url": "https://www.nytimes.com/2022/09/29/movies/sirens-review.html",
-            "uri": "nyt://article/1ddd307c-8bf7-5e81-a71b-984679084f95",
-            "byline": "By Glenn Kenny",
-            "item_type": "Article",
-            "updated_date": "2022-09-29T07:00:08-04:00",
-            "created_date": "2022-09-29T07:00:08-04:00",
-            "published_date": "2022-09-29T07:00:08-04:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Documentary Films and Programs",
-                "Pop and Rock Music",
-                "Sirens (Movie)"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Rita Baghdadi"
-            ],
-            "geo_facet": [
-                "Lebanon"
-            ],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2022/09/29/arts/29Sirens1/merlin_213563196_0df461c9-f166-4f51-8705-befc10e8de34-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 1080,
-                    "width": 2048,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "In “Sirens,” Lilas Mayassi and Shery Bechara, the founders of the Lebanese thrash metal band Slave to Sirens, have a rough road ahead of them.",
-                    "copyright": "Rita Baghdadi/Oscilloscope laboratories"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/09/29/arts/29Sirens1/29Sirens1-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 400,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "In “Sirens,” Lilas Mayassi and Shery Bechara, the founders of the Lebanese thrash metal band Slave to Sirens, have a rough road ahead of them.",
-                    "copyright": "Rita Baghdadi/Oscilloscope laboratories"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/09/29/arts/29Sirens1/29Sirens1-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "In “Sirens,” Lilas Mayassi and Shery Bechara, the founders of the Lebanese thrash metal band Slave to Sirens, have a rough road ahead of them.",
-                    "copyright": "Rita Baghdadi/Oscilloscope laboratories"
-                }
-            ],
-            "short_url": "https://nyti.ms/3fsQXrT"
         },
         {
             "section": "movies",
@@ -1994,65 +2077,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/3DQc41o"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "Five International Movies to Stream Now",
-            "abstract": "This month’s picks include a South Korean queer drama, an erotic German creature feature, a charming caper set in the French countryside and more.",
-            "url": "https://www.nytimes.com/2022/09/23/movies/five-international-movies-to-stream-now.html",
-            "uri": "nyt://article/3c6aa40d-ebcd-5328-9c51-5455cc622519",
-            "byline": "By Devika Girish",
-            "item_type": "Article",
-            "updated_date": "2022-09-23T15:27:53-04:00",
-            "created_date": "2022-09-23T14:16:33-04:00",
-            "published_date": "2022-09-23T14:16:33-04:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "A Distant Place (Movie)",
-                "Wild (2022) (Movie)",
-                "Wet Sand (Movie)",
-                "Plaza Catedral (Movie)",
-                "The Man in the Hat (Movie)"
-            ],
-            "org_facet": [],
-            "per_facet": [],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2022/09/22/arts/distant-place1/distant-place1-superJumbo.png",
-                    "format": "Super Jumbo",
-                    "height": 984,
-                    "width": 2048,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Hong Kyung, left, with Kang Gil-woo in “A Distant Place.”",
-                    "copyright": "Tubi"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/09/22/arts/distant-place1/distant-place1-threeByTwoSmallAt2X.png",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 400,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Hong Kyung, left, with Kang Gil-woo in “A Distant Place.”",
-                    "copyright": "Tubi"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/09/22/arts/distant-place1/distant-place1-thumbLarge.png",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Hong Kyung, left, with Kang Gil-woo in “A Distant Place.”",
-                    "copyright": "Tubi"
-                }
-            ],
-            "short_url": "https://nyti.ms/3DQWgM0"
         }
     ]
 }
