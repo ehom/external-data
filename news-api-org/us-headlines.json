@@ -4,81 +4,250 @@
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Contorno",
+            "title": "Five takeaways from the only Florida governor debate between DeSantis and Crist - CNN",
+            "description": "Florida Gov. Ron DeSantis and Democrat Charlie Crist went toe-to-toe on abortion, Hurricane Ian response, the state's ongoing culture wars and the rising Republican's future political ambitions in an hour-long debate that produced a handful of notable moments…",
+            "url": "https://www.cnn.com/2022/10/24/politics/florida-governor-debate-takeaways-desantis-crist/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221024194416-crist-desantis-debate-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-25T10:09:00Z",
+            "content": "Florida Gov. Ron DeSantis and Democrat Charlie Crist went toe-to-toe on abortion, Hurricane Ian response, the states ongoing culture wars and the rising Republicans future political ambitions in an h… [+9177 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Exclusive: U.S. considers HAWK air defense equipment for Ukraine - Reuters",
+            "description": "The United States is considering sending older HAWK air defense equipment from storage to Ukraine to help it defend against Russian drone and cruise missile attacks, two U.S. officials told Reuters.",
+            "url": "https://www.reuters.com/world/europe/exclusive-us-considers-hawk-air-defense-equipment-ukraine-say-us-officials-2022-10-25/",
+            "urlToImage": "https://www.reuters.com/resizer/OVgmFPpxho3GyJE4IF6jv_Ts6E8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UMG34BMY2RNSJFFHO2R5VL5LLM.jpg",
+            "publishedAt": "2022-10-25T10:09:00Z",
+            "content": "WASHINGTON, Oct 25 (Reuters) - The United States is considering sending older HAWK air defense equipment from storage to Ukraine to help it defend against Russian drone and cruise missile attacks, tw… [+2393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ukrainska Pravda",
+            "title": "Russians are advancing on two fronts and preparing defensive positions in Kherson Oblast General Staff - Yahoo News",
+            "description": "OLENA ROSHCHINA - TUESDAY, 25 OCTOBER 2022, 08:16 Russian troops launched 15 missile strikes on the territory of Ukraine over the past day. They are...",
+            "url": "https://news.yahoo.com/russians-advancing-two-fronts-preparing-051656493.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/BL3kSHR1gPax9qIE593Urw--~B/aD0zODc7dz02OTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ukrayinska_pravda_articles_451/5e1a2682a0ab3263245a7bf08242d362",
+            "publishedAt": "2022-10-25T09:41:24Z",
+            "content": "OLENA ROSHCHINA — TUESDAY, 25 OCTOBER 2022, 08:16\r\nRussian troops launched 15 missile strikes on the territory of Ukraine over the past day. They are conducting offensive operations on the Bakhmut an… [+5350 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Adidas to End Kanye West Ye Partnership After Antisemitic Comments - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=13cc6a58-5443-11ed-b80e-426e6d4c4546&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMC0yNS9hZGlkYXMtaXMtc2FpZC10by1lbmQta2FueWUtd2VzdC1wYXJ0bmVyc2hpcC1hZnRlci1jb250cm92ZXJzaWVz",
+            "urlToImage": null,
+            "publishedAt": "2022-10-25T08:24:30Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Michael Birnbaum, David L. Stern, Emily Rauhala",
+            "title": "Russia's methodical attacks exploit frailty of Ukrainian power system - The Washington Post",
+            "description": "Ukraine and Western officials say it is difficult to protect against Russia's relentless bombing of infrastructure and energy conservation is crucial.",
+            "url": "https://www.washingtonpost.com/world/2022/10/25/russias-methodical-attacks-exploit-frailty-ukrainian-power-system/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HUA4GQADWRJ5YRKEXRAGC26BBE.jpg&w=1440",
+            "publishedAt": "2022-10-25T08:00:00Z",
+            "content": "Comment on this story\r\nRussias ongoing attacks on Ukraines energy infrastructure have been so methodical and destructive that Ukrainian and Western officials say they are being directed by electricit… [+10723 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Enda Curran, Jana Randow and Jonnelle Marte",
+            "title": "Fed Is Losing Billions, Wiping Out Profits That Funded Spending - Yahoo Finance",
+            "description": "(Bloomberg) -- Profits and losses aren’t usually thought of as a consideration for central banks, but rapidly mounting red ink at the Federal Reserve and...",
+            "url": "https://finance.yahoo.com/news/fed-losing-billions-wiping-profits-060001473.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/hN1TGVPnyFgMwQcx5het.w--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/c055b2506147a8592976bd98b2904b07",
+            "publishedAt": "2022-10-25T06:34:41Z",
+            "content": "(Bloomberg) -- Profits and losses arent usually thought of as a consideration for central banks, but rapidly mounting red ink at the Federal Reserve and many peers risks becoming more than just an ac… [+5991 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "CBS Sports"
             },
             "author": "Jared Dubin",
-            "title": "Patriots vs. Bears score: Live updates, game stats, highlights, analysis for 'Monday Night Football' - CBS Sports",
-            "description": "Mac Jones is back as New England looks for a third straight win",
-            "url": "https://www.cbssports.com/nfl/news/patriots-vs-bears-score-live-updates-game-stats-highlights-analysis-for-monday-night-football/live/",
+            "title": "Patriots vs. Bears score: Justin Fields spoils Bailey Zappe's return to lineup as Chicago rolls to 'MNF' upset - CBS Sports",
+            "description": "The Bears snap New England's win streak in Foxborough",
+            "url": "https://www.cbssports.com/nfl/news/patriots-vs-bears-score-justin-fields-spoils-bailey-zappes-return-to-lineup-as-chicago-rolls-to-mnf-upset/live/",
             "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/27/56f25ac9-fdf1-41ba-af5b-475c41d0c34d/thumbnail/1200x675/a1a4eb87b7eab518950c7f56a479eec1/mac-jones-patriots-usatsi.jpg",
-            "publishedAt": "2022-10-25T00:43:00Z",
-            "content": "Not a single one of the Bills, Dolphins or Jets lost in Week 7. Now, it's up to the Patriots to keep the AFC East hot streak alive. After back-to-back wins over the Lions and Browns, both with rookie… [+1119 chars]"
+            "publishedAt": "2022-10-25T06:10:00Z",
+            "content": "The Patriots entered \"Monday Night Football\" as 8.5-point favorites over the Bears, looking to win their third straight in Mac Jones' return to the lineup following a three-game absence. They left wi… [+4266 chars]"
         },
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": "financial-times",
+                "name": "Financial Times"
             },
-            "author": "Michael Phillis",
-            "title": "2 killed in shooting at St. Louis high school; gunman dead - The Associated Press",
-            "description": "ST. LOUIS (AP) — An armed former student broke into a St. Louis high school Monday morning warning, “You are all going to die!” before fatally shooting a teacher and a teenage girl, and wounding seven others before police killed him in an exchange of gunfire.",
-            "url": "https://apnews.com/5aa844c9d070bb4e6fc64151da76d6a4",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/58ef6cd9a71140c8b6f9ed17a55ad27c/3000.jpeg",
-            "publishedAt": "2022-10-25T00:08:36Z",
-            "content": "ST. LOUIS (AP) An armed former student broke into a St. Louis high school Monday morning warning, You are all going to die! before fatally shooting a teacher and a teenage girl, and wounding seven ot… [+6664 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Carla K. Johnson",
-            "title": "What's behind worrying RSV surge in US children's hospitals? - The Associated Press",
-            "description": "Children's hospitals in parts of the U.S. are seeing a surge in a common respiratory illness that can cause severe breathing problems for babies.  RSV cases fell dramatically two years ago as the pandemic shut down schools, day cares and businesses.",
-            "url": "https://apnews.com/072e11e5e3af77aac19fe95773a69610",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/fea1ac6812174fe2a418c387ea667194/3000.jpeg",
-            "publishedAt": "2022-10-24T23:52:34Z",
-            "content": "Childrens hospitals in parts of the U.S. are seeing a surge in a common respiratory illness that can cause severe breathing problems for babies. \r\nRSV cases fell dramatically two years ago as the pan… [+4400 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NBCSports.com"
-            },
-            "author": "Michael David Smith",
-            "title": "Jaguars trade James Robinson to Jets - NBC Sports",
-            "description": "A day after losing running back Breece Hall to a season-ending knee injury, the Jets are adding another back.The Jaguars are trading running back James Robinson to the Jets for a sixth-round pick that could become a fifth-round pick if Robinson meets certain …",
-            "url": "https://profootballtalk.nbcsports.com/2022/10/24/jaguars-trade-james-robinson-to-jets/",
-            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/10/GettyImages-1433887040-e1666655492793.jpg",
-            "publishedAt": "2022-10-24T23:51:00Z",
-            "content": "A day after losing running back Breece Hall to a season-ending knee injury, the Jets are adding another back.\r\nThe Jaguars are trading running back James Robinson to the Jets for a sixth-round pick t… [+737 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Evan Simko-Bednarski",
-            "title": "Brother of dead Princeton student Misrach Ewunetie says location of sister's body 'suspicious' - New York Post ",
-            "description": "The brother of the 20-year-old Princeton junior who was found dead six days after she went missing is calling the location where her body was discovered “suspicious.”",
-            "url": "https://nypost.com/2022/10/24/brother-of-dead-princeton-student-says-location-of-sisters-body-suspicious/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/10/missing-princeton-found-comp-1.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2022-10-24T23:12:00Z",
-            "content": "The brother of the 20-year-old Princeton junior who was found dead six days after she went missing is calling the location where her body was discovered “suspicious.”\r\nMisrach Ewunetie’s brother, Uni… [+2114 chars]"
+            "author": null,
+            "title": "Live news updates: China's renminbi falls to weakest since 2007 following stocks sell-off - Financial Times",
+            "description": "",
+            "url": "https://www.ft.com/content/ebe60f35-bdba-4f65-b95e-ba3212cf0d03",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e557439-fea3-4e45-aab4-5417fa7745f5.png?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-10-25T05:56:08Z",
+            "content": "UBS reported a 24 per cent fall in net profit, as its rich clients held back from turbulent markets and investment banking revenues shrank.\r\nThe worlds biggest wealth manager generated $1.7bn of net … [+1797 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Variety"
             },
-            "author": "Chris Willman",
-            "title": "Taylor Swift‘s ‘Midnights’ Is First Album in Five Years to Move a Million Units in a Week… and She Did It in Three Days - Variety",
-            "description": "Popular on Variety Taylor Swift’s “Midnights” has become the first album to register a million units in a week in five years. The last album to do it? Taylor Swift’s “Reputation,” all the way back in 2017. Moreover, “Midnights” accomplished the feat in just i…",
-            "url": "https://variety.com/2022/music/news/taylor-swift-million-units-midnights-album-equivalent-first-five-years-1235413173/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2022/10/image0-1-e1666369400671.jpeg?w=1000&h=563&crop=1",
-            "publishedAt": "2022-10-24T22:57:00Z",
-            "content": "Taylor Swift’s “Midnights” has become the first album to register a million units in a week in five years. The last album to do it? Taylor Swift’s “Reputation,” all the way back in 2017.\r\nMoreover, “… [+3706 chars]"
+            "author": "J. Kim Murphy",
+            "title": "James Corden Apologizes for Restaurant Ban Controversy in ‘Late Late Show’ Monologue: ‘I Made a Rude Comment and It Was Wrong’ - Variety",
+            "description": "Popular on Variety James Corden took some time at the start of Monday’s episode of “The Late Late Show” to acknowledge a recent controversy involving his now-reversed ban from New York restaurant Balthazar, offering an apology for “the rude comment” he direct…",
+            "url": "https://variety.com/2022/tv/news/james-corden-restaurant-ban-apology-1235413436/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/10/james-corden-desk.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2022-10-25T05:16:00Z",
+            "content": "James Corden took some time at the start of Monday’s episode of “The Late Late Show” to acknowledge a recent controversy involving his now-reversed ban from New York restaurant Balthazar, offering an… [+2101 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michael Wayland",
+            "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects - CNBC",
+            "description": "The auto industry's earnings and forecasts are being closely watched by Wall Street for any signs that consumer demand could be weakening.",
+            "url": "https://www.cnbc.com/2022/10/25/general-motors-gm-earnings-q3-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107134795-1665755669077-gmboltworkers.jpg?v=1666670461&w=1920&h=1080",
+            "publishedAt": "2022-10-25T04:01:01Z",
+            "content": "DETROIT General Motors is set to report its third-quarter earnings before the bell on Tuesday.\r\nHere's what Wall Street is expecting, according to Refinitiv consensus estimates:\r\n<ul><li>Adjusted ear… [+1260 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KCTV Kansas City"
+            },
+            "author": "Zoe Brown",
+            "title": "Amazon driver found dead in front yard, Ray County Sheriff’s Office investigating - KCTV 5",
+            "description": "An investigation is underway and two dogs are dead after an Amazon driver’s body was found in someone’s yard just outside of Excelsior Springs.",
+            "url": "https://www.kctv5.com/2022/10/25/amazon-driver-found-dead-front-yard-ray-county-sheriffs-office-investigating/",
+            "urlToImage": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/0eH1cy8AtVXnaAq70PHkTMbVgEg=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/ARGCIU2QONCCVJDGTLGBPHRYKE.png",
+            "publishedAt": "2022-10-25T02:43:00Z",
+            "content": "WOOD HEIGHTS, Mo. (KCTV) An investigation is underway and two dogs are dead after an Amazon drivers body was found in someones yard just outside of Excelsior Springs.\r\nRay County Sheriff Scott Childe… [+1011 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Rallies 400 Points, What To Do Now; 4 Tech Titans Report Earnings - Investor's Business Daily",
+            "description": "Tech titans Alphabet, Apple, Meta Platforms and Microsoft all report earnings this week.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-rallies-what-to-do-now-alphabet-apple-meta-microsoft-to-report/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/09/Stock-apple-streamingevent-01-company.jpg",
+            "publishedAt": "2022-10-25T02:40:00Z",
+            "content": "Dow Jones futures were lower ahead of Tuesday's open after the Dow Jones Industrial Average rallied more than 400 points Monday. Tech titans Alphabet, Apple, Meta Platforms and Microsoft have earning… [+7147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "Alexandra Mae Jones, CTVNews.ca",
+            "title": "Sleeping 5 hours or fewer could put you at risk of multiple chronic diseases, study finds - KSL.com",
+            "description": "A new study using data that spans 25 years has found that getting just five hours of sleep or fewer every night is associated with a higher likelihood of being diagnosed with multiple chronic diseases.",
+            "url": "https://www.ksl.com/article/50501397/sleeping-5-hours-or-fewer-could-put-you-at-risk-of-multiple-chronic-diseases-study-finds",
+            "urlToImage": "https://img.ksl.com/slc/2791/279165/27916568.jpeg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2022-10-25T02:31:44Z",
+            "content": "Estimated read time: 4-5 minutes\r\nTORONTO, Canada A new study using data that spans 25 years has found that getting just five hours of sleep or fewer every night is associated with a higher likelihoo… [+5452 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Lester Fabian Brathwaite",
+            "title": "'Call Me Kat' has halted production following death of Leslie Jordan - Entertainment Weekly News",
+            "description": "\"We will be taking time to grieve and to celebrate the many gifts Leslie gave to us and to the entire world,\" Bialik, the cast, and producers of the show said in a statement.",
+            "url": "https://ew.com/tv/call-me-kat-halts-production-death-of-leslie-jordan/",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B1520%2C453%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F10%2F25%2FCall-Me-Kat-cast-102422.jpg",
+            "publishedAt": "2022-10-25T02:08:00Z",
+            "content": "Fox's Call Me Kat has halted production following the untimely death of Leslie Jordan.\r\nJordan portrayed Phil, a newly single gay man who works as the head baker at the café owned by the titular Kat … [+2537 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FOX 4 News"
+            },
+            "author": "FOX 4 Staff",
+            "title": "Dallas hospital shooting suspect accused girlfriend of cheating before killing 2 workers, affidavit says - FOX 4 News Dallas-Fort Worth",
+            "description": "The Dallas police chief vented his frustration that the gunman charged with murdering two Methodist Dallas employees was allowed able to be inside the hospital. The violent prison parolee was twice arrested for parole violations with the most recent one in Ju…",
+            "url": "https://www.fox4news.com/news/dallas-hospital-shooting-suspect-accused-girlfriend-of-cheating-before-killing-2-workers-affidavit-says",
+            "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/1280/720/hernandez-shooting.jpg?ve=1&tl=1",
+            "publishedAt": "2022-10-25T02:05:40Z",
+            "content": "DALLAS - The Dallas police chief vented his frustration that the gunman charged with murdering two Methodist Dallas employees was allowed able to be inside the hospital.\r\nThe violent prison parolee w… [+5802 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Daniel Van Boom",
+            "title": "'House of the Dragon' Season Finale: That Killer Ending Explained - CNET",
+            "description": "Somebody died in House of the Dragon's season finale, but you probably knew that would happen going in. Spoilers ahead.",
+            "url": "https://www.cnet.com/culture/entertainment/house-of-the-dragon-season-finale-that-killer-ending-explained/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/66c92d716f731c3a66abd4af42f63c0aebb6dc44/hub/2022/10/24/7e4e205e-69c5-4f9c-b677-a06637f6a0df/emma-d-arcy-matt-smith-0.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-10-25T00:57:00Z",
+            "content": "After years of anticipation and over two months of airtime, House of the Dragon season 1 is done and dusted. Excitement was high for HBO'sGame of Thrones prequel, and with around 30 million people wa… [+5225 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Steve Almasy, Sara Turnbull",
+            "title": "A Virginia high school will stay open while hundreds of students call out sick with flu-like symptoms - CNN",
+            "description": "Hundreds of students missed class Monday at a northern Virginia high school where \"a number of students have tested positive for influenza A\" and others have symptoms consistent with the flu.",
+            "url": "https://www.cnn.com/2022/10/24/health/virginia-high-school-staying-open-flu-like-symptoms/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221021222531-01-virginia-high-school-flu-absences-stafford-county.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-25T00:04:00Z",
+            "content": "Hundreds of students missed class Monday at a northern Virginia high school where a number of students have tested positive for influenza A and others have symptoms consistent with the flu.\r\nThe numb… [+2013 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Stephen Holder",
+            "title": "Why the Colts benched Matt Ryan, and what's next - ESPN",
+            "description": "Ryan's turnovers and lack of mobility were vulnerabilities behind a struggling offensive line, and the Colts are now turning to the unproven Sam Ehlinger.",
+            "url": "https://www.espn.com/nfl/story/_/id/34871205/why-colts-benched-matt-ryan-next",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1024%2Fr1080751_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-10-24T23:36:33Z",
+            "content": "INDIANAPOLIS -- In the back corner of the visitors locker room at Nissan Stadium in Nashville on Sunday, long after most of its occupants had departed, Matt Ryan gritted his teeth to perform the simp… [+7465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Tensions rise in Arizona as midterms approach - CBS Evening News",
+            "description": "Voters in Arizona have filed formal complaints against armed vigilantes who are patrolling ballot drop boxes in the closing weeks of the 2022 midterm electio...",
+            "url": "https://www.youtube.com/watch?v=-74abcVFyB0",
+            "urlToImage": "https://i.ytimg.com/vi/-74abcVFyB0/maxresdefault.jpg",
+            "publishedAt": "2022-10-24T22:54:06Z",
+            "content": null
         },
         {
             "source": {
@@ -92,175 +261,6 @@
             "urlToImage": "https://assets-prd.ignimgs.com/2022/10/24/apple-logos-blogroll-logos-1666650579942.jpg?width=1280",
             "publishedAt": "2022-10-24T22:42:02Z",
             "content": "Apple is raising the cost of its subscription services across the board, and the change includes increases to Apple TV+, Apple Music, and its Apple One bundle.\r\nApple says it's raising its prices to … [+2697 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Variety"
-            },
-            "author": "Todd Spangler",
-            "title": "Warner Bros. Discovery to Take up to $4.3 Billion in Post-Merger Restructuring Charges, Including up to $2.5 Billion in Content Write-Offs - Variety",
-            "description": "Warner Bros. Discovery, trying to get its balance sheet in order, said it will incur between $3.2 billion and $4.3 billion in pre-tax restructuring charges related to Discovery’s acquisition of WarnerMedia. The media company disclosed expected ranges for the …",
-            "url": "https://variety.com/2022/tv/news/warner-bros-discovery-restructuring-charge-q3-2022-1235413112/",
-            "urlToImage": "https://variety.com/wp-content/uploads/2022/04/warner-bros-discovery-logo-1.png?w=1000&h=563&crop=1",
-            "publishedAt": "2022-10-24T21:38:00Z",
-            "content": "Warner Bros. Discovery, trying to get its balance sheet in order, said it will incur between $3.2 billion and $4.3 billion in pre-tax restructuring charges related to Discovery’s acquisition of Warne… [+3333 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Athletic"
-            },
-            "author": "Zak Keefer",
-            "title": "Why was Matt Ryan benched? Inside Colts’ decision to start Sam Ehlinger - The Athletic",
-            "description": "This wasn't what Indy's brain trust envisioned when they acquired the veteran QB, but they decided a change was needed.",
-            "url": "https://theathletic.com/3726506/2022/10/24/matt-ryan-sam-ehlinger-colts-decision/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/10/24172642/GettyImages-1431758678-1024x683.jpg",
-            "publishedAt": "2022-10-24T21:20:35Z",
-            "content": "Privately, this is a move theyd been mulling for weeks, unconvinced they were getting the consistency at quarterback they needed, worried the dam would eventually break on a season thats felt wobbly … [+8654 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Cannabis Users Experience More Pain After Surgery - SciTechDaily",
-            "description": "Adults who use cannabis experience more pain after surgery compared to people who don’t use cannabis. This is according to a scientific study presented at the ANESTHESIOLOGY® 2022 annual meeting. “Cannabis is the most commonly used illicit drug in the United …",
-            "url": "https://scitechdaily.com/cannabis-users-experience-more-pain-after-surgery/",
-            "urlToImage": "https://scitechdaily.com/images/Cannabis-Vape-Pens-and-Flower.jpg",
-            "publishedAt": "2022-10-24T21:07:30Z",
-            "content": "According to new reseaarch, cannabis use increases pain after surgery.\r\nAdults who use cannabis experience more pain after surgery compared to people who dont use cannabis. This is according to a sci… [+2292 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Deadline"
-            },
-            "author": "Lynette Rice",
-            "title": "‘House Of The Dragon’ Gets Biggest Finale-Night Viewership For HBO Since ‘Game Of Thrones’ Ender - Deadline",
-            "description": "More than 9 million people tuned into the season finale of House of the Dragon on Sunday, marking HBO’s biggest finale night for one of its series since the conclusion of Game of Thrones in May 2019. HOTD was up against Sunday Night Football and the final gam…",
-            "url": "https://deadline.com/2022/10/house-of-the-dragon-finale-ratings-1235153704/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/10/olivia-cooke-ewan-mitchell.jpg?w=1024",
-            "publishedAt": "2022-10-24T20:42:00Z",
-            "content": "More than 9 million people tuned into the season finale of House of the Dragon on Sunday, marking HBO’s biggest finale night for one of its series since the conclusion of Game of Thrones in May 2019.… [+1684 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Ed Pilkington",
-            "title": "Ex-Minneapolis officer pleads guilty to abetting murder of George Floyd - The Guardian US",
-            "description": "J Alexander Kueng to serve 3.5 years in prison to run concurrently with previous sentence he was given in federal trial",
-            "url": "https://www.theguardian.com/us-news/2022/oct/24/george-floyd-minneapolis-police-officer-j-alexander-kueng-pleads-guilty",
-            "urlToImage": "https://i.guim.co.uk/img/media/07c58f6909b18bb09e301a734fef2d4a5d5482d0/0_100_2200_1320/master/2200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7853e783d7069bf78bd4b2d573c486d4",
-            "publishedAt": "2022-10-24T20:30:00Z",
-            "content": "One of two former Minneapolis police officers charged with aiding and abetting the killing of George Floyd, the Black man whose violent death prompted street protests around the world, has pleaded gu… [+2701 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Devlin Barrett, Perry Stein, Ellen Nakashima",
-            "title": "Two alleged Chinese intelligence officers accused by DOJ of trying to buy info about prosecution - The Washington Post",
-            "description": "Complaint accuses two alleged Chinese spies of money laundering and attempting to obstruct an investigation into a China-based telecommunications company.",
-            "url": "https://www.washingtonpost.com/national-security/2022/10/24/justice-china-telecom-giant-spy-investigation/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6IWEEIO2PU5A4ZOQ4EOSOJSRKM.JPG&w=1440",
-            "publishedAt": "2022-10-24T20:24:00Z",
-            "content": "Comment on this story\r\nThe United States on Monday unveiled charges accusing two Chinese intelligence officers of attempting to subvert a criminal investigation into a China-based telecommunications … [+7569 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Lauren Feiner",
-            "title": "FTC seeks to hold Drizly CEO accountable for alleged security failures, even if he moves to another company - CNBC",
-            "description": "The proposed security requirements would follow CEO James Cory Rellas even if he moves onto another company.",
-            "url": "https://www.cnbc.com/2022/10/24/ftc-seeks-to-hold-drizly-ceo-accountable-for-alleged-security-failures.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106834891-1612379188649-gettyimages-1230953078-UBER_DRIZLY.jpeg?v=1666641224&w=1920&h=1080",
-            "publishedAt": "2022-10-24T19:53:44Z",
-            "content": "In a new proposed settlement, the Federal Trade Commission is seeking to hold a tech CEO accountable to specific security standards, even if he moves to a new company.\r\nThe agency announced Monday th… [+3199 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "U.S. liberal Democrats urge Biden to seek negotiated Ukraine settlement - Reuters",
-            "description": "Thirty liberal U.S. congressional Democrats urged President Joe Biden on Monday to shift his strategy for the Russia-Ukraine war by pursuing a negotiated settlement along with his current provision of military and economic support to Kyiv.",
-            "url": "https://www.reuters.com/world/us-liberal-democrats-urge-biden-seek-negotiated-ukraine-settlement-2022-10-24/",
-            "urlToImage": "https://www.reuters.com/resizer/rFM59IHd73Qz8EJ7Bipu391RC-A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L7YETX2NTRLFHAFL34RZ3E3AME.jpg",
-            "publishedAt": "2022-10-24T19:43:00Z",
-            "content": "WASHINGTON, Oct 24 (Reuters) - Thirty liberal U.S. congressional Democrats urged President Joe Biden on Monday to shift his strategy for the Russia-Ukraine war by pursuing a negotiated settlement alo… [+2124 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Isaac Schultz",
-            "title": "Oldest Human DNA Found in the UK Reveals Origins of Early Britons - Gizmodo",
-            "description": "Human remains found in two caves are more than 13,500 years old.",
-            "url": "https://gizmodo.com/oldest-human-dna-found-in-the-uk-reveals-origins-of-ear-1849694469",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a90977b5cce656e31e0220b76fd1b1ae.png",
-            "publishedAt": "2022-10-24T18:46:00Z",
-            "content": "Researchers investigating ancient remains found in England and Wales have determined that they contain some of the oldest human DNA ever obtained in the United Kingdom. The DNA indicates Britain was … [+3157 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Jessica Golden",
-            "title": "Talent agency CAA drops Ye, as film studio MRC ditches documentary because of his antisemitic remarks - CNBC",
-            "description": "Hollywood talent agency CAA dropped Ye, previously known as Kanye West, as a client.",
-            "url": "https://www.cnbc.com/2022/10/24/caa-drops-ye-mrc-ditches-documentary-over-antisemitic-remarks.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107139736-1666634483581-gettyimages-1429667472-dsc_8763_fbaa2cae-2435-495f-81cc-118410a8afe0.jpeg?v=1666635225&w=1920&h=1080",
-            "publishedAt": "2022-10-24T18:13:45Z",
-            "content": "Major Hollywood talent agency CAA on Monday dropped Ye, also known as Kanye West, as the rapper and business mogul faces intensifying criticism over his recent antisemitic remarks.\r\n\"I can confirm th… [+2535 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ariane de Vogue, Tierney Sneed",
-            "title": "Clarence Thomas freezes order for Lindsey Graham to testify before Georgia grand jury investigating 2020 election - CNN",
-            "description": "Justice Clarence Thomas on Monday agreed to temporarily freeze a lower court order requiring the testimony of Republican Sen. Lindsey Graham in front of an Atlanta-area special grand jury that is investigating efforts to overturn the 2020 presidential electio…",
-            "url": "https://www.cnn.com/2022/10/24/politics/supreme-court-lindsey-graham-clarence-thomas/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221011192619-senator-lindsey-graham-file-092922.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-10-24T18:13:00Z",
-            "content": "Justice Clarence Thomas on Monday agreed to temporarily freeze a lower court order requiring the testimony of Republican Sen. Lindsey Graham in front of an Atlanta-area special grand jury that is inv… [+4187 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "TMZ"
-            },
-            "author": "TMZ Staff",
-            "title": "Leslie Jordan Dead at 67 - TMZ",
-            "description": "Leslie Jordan, the beloved actor and comedian has died.",
-            "url": "https://www.tmz.com/2022/10/24/leslie-jordan-dead-dies-car-crash/",
-            "urlToImage": "https://imagez.tmz.com/image/0a/16by9/2022/10/24/0ae8c895b395418589499754a12e23c2_xl.jpg",
-            "publishedAt": "2022-10-24T18:13:00Z",
-            "content": "3:17 PM PT -- A tow truck just removed Leslie's car from the scene, you can see heavy damage to the front passenger's side, with his wheel almost totally taken off.\r\n1:50 PM PT -- A rep for Leslie Jo… [+1645 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Tereza Pultarova",
-            "title": "Why the James Webb Space Telescope's amazing 'Pillars of Creation' photo has astronomers buzzing - Space.com",
-            "description": "\"It's like taking the X-ray of a human.\"",
-            "url": "https://www.space.com/james-webb-space-telescope-pillars-creation-excites-astronomer",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/hwRa4o4wGYsRKGYXXsn6hb-1200-80.jpg",
-            "publishedAt": "2022-10-24T18:10:10Z",
-            "content": "The James Webb Space Telescope took a breathtaking look inside the \"Pillars of Creation,\" a spectacular dust cloud formation made famous by its predecessor, the Hubble Space Telescope. \r\nThe image is… [+8987 chars]"
         }
     ]
 }
