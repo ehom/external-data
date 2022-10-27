@@ -8,24 +8,311 @@
     },
     {
         "date": "2022-10-27",
-        "state": "Tennessee",
-        "fips": "47",
-        "cases": 2298594,
-        "deaths": 27792
+        "state": "Alabama",
+        "fips": "01",
+        "cases": 1534287,
+        "deaths": 20558
     },
     {
         "date": "2022-10-27",
-        "state": "Texas",
-        "fips": "48",
-        "cases": 7927898,
-        "deaths": 91369
+        "state": "Alaska",
+        "fips": "02",
+        "cases": 306446,
+        "deaths": 1369
     },
     {
         "date": "2022-10-27",
-        "state": "South Dakota",
-        "fips": "46",
-        "cases": 264187,
-        "deaths": 3059
+        "state": "American Samoa",
+        "fips": "60",
+        "cases": 8251,
+        "deaths": 34
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Arizona",
+        "fips": "04",
+        "cases": 2287886,
+        "deaths": 31548
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Arkansas",
+        "fips": "05",
+        "cases": 958675,
+        "deaths": 12452
+    },
+    {
+        "date": "2022-10-27",
+        "state": "California",
+        "fips": "06",
+        "cases": 11345628,
+        "deaths": 96780
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Colorado",
+        "fips": "08",
+        "cases": 1678918,
+        "deaths": 13607
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Connecticut",
+        "fips": "09",
+        "cases": 910367,
+        "deaths": 11448
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Delaware",
+        "fips": "10",
+        "cases": 312655,
+        "deaths": 3136
+    },
+    {
+        "date": "2022-10-27",
+        "state": "District of Columbia",
+        "fips": "11",
+        "cases": 169436,
+        "deaths": 1392
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Florida",
+        "fips": "12",
+        "cases": 7149300,
+        "deaths": 82176
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Georgia",
+        "fips": "13",
+        "cases": 2835571,
+        "deaths": 39057
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Guam",
+        "fips": "66",
+        "cases": 59720,
+        "deaths": 402
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Hawaii",
+        "fips": "15",
+        "cases": 353081,
+        "deaths": 1701
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Idaho",
+        "fips": "16",
+        "cases": 499941,
+        "deaths": 5219
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Illinois",
+        "fips": "17",
+        "cases": 3811411,
+        "deaths": 39947
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Indiana",
+        "fips": "18",
+        "cases": 1937565,
+        "deaths": 24864
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Iowa",
+        "fips": "19",
+        "cases": 862925,
+        "deaths": 10177
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Kansas",
+        "fips": "20",
+        "cases": 888315,
+        "deaths": 9628
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Kentucky",
+        "fips": "21",
+        "cases": 1618689,
+        "deaths": 17261
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Louisiana",
+        "fips": "22",
+        "cases": 1461433,
+        "deaths": 18168
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Maine",
+        "fips": "23",
+        "cases": 296746,
+        "deaths": 2642
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Maryland",
+        "fips": "24",
+        "cases": 1267155,
+        "deaths": 15539
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Massachusetts",
+        "fips": "25",
+        "cases": 2078225,
+        "deaths": 21923
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Michigan",
+        "fips": "26",
+        "cases": 2877509,
+        "deaths": 39199
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Minnesota",
+        "fips": "27",
+        "cases": 1686048,
+        "deaths": 13825
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Mississippi",
+        "fips": "28",
+        "cases": 933065,
+        "deaths": 12968
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Missouri",
+        "fips": "29",
+        "cases": 1683637,
+        "deaths": 21845
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Montana",
+        "fips": "30",
+        "cases": 314068,
+        "deaths": 3569
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Nebraska",
+        "fips": "31",
+        "cases": 540345,
+        "deaths": 4559
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Nevada",
+        "fips": "32",
+        "cases": 850204,
+        "deaths": 11555
+    },
+    {
+        "date": "2022-10-27",
+        "state": "New Hampshire",
+        "fips": "33",
+        "cases": 356343,
+        "deaths": 2737
+    },
+    {
+        "date": "2022-10-27",
+        "state": "New Jersey",
+        "fips": "34",
+        "cases": 2787227,
+        "deaths": 34885
+    },
+    {
+        "date": "2022-10-27",
+        "state": "New Mexico",
+        "fips": "35",
+        "cases": 626168,
+        "deaths": 8633
+    },
+    {
+        "date": "2022-10-27",
+        "state": "New York",
+        "fips": "36",
+        "cases": 6217634,
+        "deaths": 72393
+    },
+    {
+        "date": "2022-10-27",
+        "state": "North Carolina",
+        "fips": "37",
+        "cases": 3237440,
+        "deaths": 26963
+    },
+    {
+        "date": "2022-10-27",
+        "state": "North Dakota",
+        "fips": "38",
+        "cases": 271913,
+        "deaths": 2434
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Northern Mariana Islands",
+        "fips": "69",
+        "cases": 13171,
+        "deaths": 40
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Ohio",
+        "fips": "39",
+        "cases": 3173375,
+        "deaths": 40111
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Oklahoma",
+        "fips": "40",
+        "cases": 1208316,
+        "deaths": 14961
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Oregon",
+        "fips": "41",
+        "cases": 908188,
+        "deaths": 8680
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Pennsylvania",
+        "fips": "42",
+        "cases": 3304816,
+        "deaths": 47705
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Puerto Rico",
+        "fips": "72",
+        "cases": 1011753,
+        "deaths": 5248
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Rhode Island",
+        "fips": "44",
+        "cases": 432042,
+        "deaths": 3696
     },
     {
         "date": "2022-10-27",
@@ -36,10 +323,24 @@
     },
     {
         "date": "2022-10-27",
-        "state": "Rhode Island",
-        "fips": "44",
-        "cases": 430636,
-        "deaths": 3686
+        "state": "South Dakota",
+        "fips": "46",
+        "cases": 264187,
+        "deaths": 3059
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Tennessee",
+        "fips": "47",
+        "cases": 2298594,
+        "deaths": 27792
+    },
+    {
+        "date": "2022-10-27",
+        "state": "Texas",
+        "fips": "48",
+        "cases": 7928140,
+        "deaths": 91374
     },
     {
         "date": "2022-10-27",
@@ -54,13 +355,6 @@
         "fips": "50",
         "cases": 144895,
         "deaths": 740
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Puerto Rico",
-        "fips": "72",
-        "cases": 1010338,
-        "deaths": 5243
     },
     {
         "date": "2022-10-27",
@@ -87,8 +381,8 @@
         "date": "2022-10-27",
         "state": "West Virginia",
         "fips": "54",
-        "cases": 606794,
-        "deaths": 7502
+        "cases": 607087,
+        "deaths": 7513
     },
     {
         "date": "2022-10-27",
@@ -99,303 +393,9 @@
     },
     {
         "date": "2022-10-27",
-        "state": "Pennsylvania",
-        "fips": "42",
-        "cases": 3304816,
-        "deaths": 47705
-    },
-    {
-        "date": "2022-10-27",
         "state": "Wyoming",
         "fips": "56",
         "cases": 178444,
         "deaths": 1908
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Oregon",
-        "fips": "41",
-        "cases": 908188,
-        "deaths": 8680
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Oklahoma",
-        "fips": "40",
-        "cases": 1205519,
-        "deaths": 14943
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Ohio",
-        "fips": "39",
-        "cases": 3173375,
-        "deaths": 40111
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Northern Mariana Islands",
-        "fips": "69",
-        "cases": 13171,
-        "deaths": 40
-    },
-    {
-        "date": "2022-10-27",
-        "state": "North Dakota",
-        "fips": "38",
-        "cases": 271913,
-        "deaths": 2434
-    },
-    {
-        "date": "2022-10-27",
-        "state": "North Carolina",
-        "fips": "37",
-        "cases": 3237440,
-        "deaths": 26963
-    },
-    {
-        "date": "2022-10-27",
-        "state": "New York",
-        "fips": "36",
-        "cases": 6217634,
-        "deaths": 72393
-    },
-    {
-        "date": "2022-10-27",
-        "state": "New Mexico",
-        "fips": "35",
-        "cases": 626168,
-        "deaths": 8633
-    },
-    {
-        "date": "2022-10-27",
-        "state": "New Jersey",
-        "fips": "34",
-        "cases": 2787227,
-        "deaths": 34885
-    },
-    {
-        "date": "2022-10-27",
-        "state": "New Hampshire",
-        "fips": "33",
-        "cases": 356343,
-        "deaths": 2737
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Nevada",
-        "fips": "32",
-        "cases": 850204,
-        "deaths": 11555
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Nebraska",
-        "fips": "31",
-        "cases": 540345,
-        "deaths": 4559
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Montana",
-        "fips": "30",
-        "cases": 314068,
-        "deaths": 3569
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Missouri",
-        "fips": "29",
-        "cases": 1683637,
-        "deaths": 21845
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Mississippi",
-        "fips": "28",
-        "cases": 933065,
-        "deaths": 12968
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Minnesota",
-        "fips": "27",
-        "cases": 1680916,
-        "deaths": 13786
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Michigan",
-        "fips": "26",
-        "cases": 2877509,
-        "deaths": 39199
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Massachusetts",
-        "fips": "25",
-        "cases": 2078225,
-        "deaths": 21923
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Maryland",
-        "fips": "24",
-        "cases": 1266249,
-        "deaths": 15531
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Maine",
-        "fips": "23",
-        "cases": 296507,
-        "deaths": 2641
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Louisiana",
-        "fips": "22",
-        "cases": 1461433,
-        "deaths": 18168
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Kentucky",
-        "fips": "21",
-        "cases": 1618689,
-        "deaths": 17261
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Kansas",
-        "fips": "20",
-        "cases": 888315,
-        "deaths": 9628
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Iowa",
-        "fips": "19",
-        "cases": 862925,
-        "deaths": 10177
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Indiana",
-        "fips": "18",
-        "cases": 1937565,
-        "deaths": 24864
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Illinois",
-        "fips": "17",
-        "cases": 3811411,
-        "deaths": 39947
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Idaho",
-        "fips": "16",
-        "cases": 499941,
-        "deaths": 5219
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Hawaii",
-        "fips": "15",
-        "cases": 353081,
-        "deaths": 1701
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Guam",
-        "fips": "66",
-        "cases": 59720,
-        "deaths": 402
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Georgia",
-        "fips": "13",
-        "cases": 2835571,
-        "deaths": 39057
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Florida",
-        "fips": "12",
-        "cases": 7149300,
-        "deaths": 82176
-    },
-    {
-        "date": "2022-10-27",
-        "state": "District of Columbia",
-        "fips": "11",
-        "cases": 169436,
-        "deaths": 1392
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Delaware",
-        "fips": "10",
-        "cases": 312655,
-        "deaths": 3136
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Connecticut",
-        "fips": "09",
-        "cases": 910367,
-        "deaths": 11448
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Colorado",
-        "fips": "08",
-        "cases": 1678736,
-        "deaths": 13606
-    },
-    {
-        "date": "2022-10-27",
-        "state": "California",
-        "fips": "06",
-        "cases": 11345628,
-        "deaths": 96780
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Arkansas",
-        "fips": "05",
-        "cases": 958675,
-        "deaths": 12452
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Arizona",
-        "fips": "04",
-        "cases": 2287886,
-        "deaths": 31548
-    },
-    {
-        "date": "2022-10-27",
-        "state": "American Samoa",
-        "fips": "60",
-        "cases": 8251,
-        "deaths": 34
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Alaska",
-        "fips": "02",
-        "cases": 306446,
-        "deaths": 1369
-    },
-    {
-        "date": "2022-10-27",
-        "state": "Alabama",
-        "fips": "01",
-        "cases": 1531305,
-        "deaths": 20533
     }
 ]
