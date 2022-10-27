@@ -133,9 +133,9 @@
             "uri": "nyt://article/ea288a3d-8ff6-516d-aebb-b88ca65469fc",
             "byline": "By Maya Phillips",
             "item_type": "Article",
-            "updated_date": "2022-10-27T07:00:02-04:00",
-            "created_date": "2022-10-27T07:00:02-04:00",
-            "published_date": "2022-10-27T07:00:02-04:00",
+            "updated_date": "2022-10-27T16:10:24-04:00",
+            "created_date": "2022-10-27T07:00:03-04:00",
+            "published_date": "2022-10-27T07:00:03-04:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
@@ -151,7 +151,7 @@
             "geo_facet": [],
             "multimedia": [
                 {
-                    "url": "https://static01.nyt.com/images/2022/10/26/arts/wendell1/merlin_215188017_347523d0-9652-41ab-9cb6-98b64333a93f-superJumbo.jpg",
+                    "url": "https://static01.nyt.com/images/2022/10/28/arts/wendell1/merlin_215188017_347523d0-9652-41ab-9cb6-98b64333a93f-superJumbo.jpg",
                     "format": "Super Jumbo",
                     "height": 1152,
                     "width": 2048,
@@ -161,7 +161,7 @@
                     "copyright": "Netflix"
                 },
                 {
-                    "url": "https://static01.nyt.com/images/2022/10/26/arts/wendell1/wendell1-threeByTwoSmallAt2X.jpg",
+                    "url": "https://static01.nyt.com/images/2022/10/28/arts/wendell1/wendell1-threeByTwoSmallAt2X.jpg",
                     "format": "threeByTwoSmallAt2X",
                     "height": 400,
                     "width": 600,
@@ -171,7 +171,7 @@
                     "copyright": "Netflix"
                 },
                 {
-                    "url": "https://static01.nyt.com/images/2022/10/26/arts/wendell1/wendell1-thumbLarge.jpg",
+                    "url": "https://static01.nyt.com/images/2022/10/28/arts/wendell1/wendell1-thumbLarge.jpg",
                     "format": "Large Thumbnail",
                     "height": 150,
                     "width": 150,
@@ -308,21 +308,21 @@
             "uri": "nyt://article/994569c5-2f72-55f4-b413-e5d7c53ddd69",
             "byline": "By Lisa Kennedy",
             "item_type": "Article",
-            "updated_date": "2022-10-27T07:00:07-04:00",
+            "updated_date": "2022-10-27T16:08:04-04:00",
             "created_date": "2022-10-27T07:00:07-04:00",
             "published_date": "2022-10-27T07:00:07-04:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
-                "Louis Armstrongs Black & Blues (Movie)",
+                "Louis Armstrong's Black & Blues (Movie)",
                 "Documentary Films and Programs",
                 "Jazz",
                 "Black People"
             ],
             "org_facet": [],
             "per_facet": [
-                "Jenkins, Sacha (1971- )",
-                "Armstrong, Louis"
+                "Armstrong, Louis",
+                "Jenkins, Sacha (1971- )"
             ],
             "geo_facet": [],
             "multimedia": [
@@ -334,7 +334,7 @@
                     "type": "image",
                     "subtype": "photo",
                     "caption": "Louis Armstrong, in “Louis Armstrong’s Black & Blues,” a documentary directed by Sacha Jenkins.",
-                    "copyright": "via Louis Armstrong House Museum/Apple TV+"
+                    "copyright": "via Louis Armstrong House Museum; Apple TV+"
                 },
                 {
                     "url": "https://static01.nyt.com/images/2022/10/28/arts/27louis-armstrong/27louis-armstrong-threeByTwoSmallAt2X.jpg",
@@ -344,7 +344,7 @@
                     "type": "image",
                     "subtype": "photo",
                     "caption": "Louis Armstrong, in “Louis Armstrong’s Black & Blues,” a documentary directed by Sacha Jenkins.",
-                    "copyright": "via Louis Armstrong House Museum/Apple TV+"
+                    "copyright": "via Louis Armstrong House Museum; Apple TV+"
                 },
                 {
                     "url": "https://static01.nyt.com/images/2022/10/28/arts/27louis-armstrong/27louis-armstrong-thumbLarge.jpg",
@@ -354,7 +354,7 @@
                     "type": "image",
                     "subtype": "photo",
                     "caption": "Louis Armstrong, in “Louis Armstrong’s Black & Blues,” a documentary directed by Sacha Jenkins.",
-                    "copyright": "via Louis Armstrong House Museum/Apple TV+"
+                    "copyright": "via Louis Armstrong House Museum; Apple TV+"
                 }
             ],
             "short_url": "https://nyti.ms/3syguD9"
@@ -541,6 +541,74 @@
         {
             "section": "movies",
             "subsection": "",
+            "title": "Sheriff Delivers Results of ‘Rust’ Shooting Investigation to Prosecutors",
+            "abstract": "The Santa Fe County District Attorney’s Office must now decide whether to file charges. The sheriff’s office sought to determine how a live round got into the gun Alec Baldwin was holding.",
+            "url": "https://www.nytimes.com/2022/10/27/movies/rust-alec-baldwin-shooting-report.html",
+            "uri": "nyt://article/7ce90892-1530-5b1b-9424-696cb6416463",
+            "byline": "By Julia Jacobs and Graham Bowley",
+            "item_type": "Article",
+            "updated_date": "2022-10-27T15:32:52-04:00",
+            "created_date": "2022-10-27T15:32:52-04:00",
+            "published_date": "2022-10-27T15:32:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Rust (Movie)",
+                "Murders, Attempted Murders and Homicides",
+                "Suits and Litigation (Civil)"
+            ],
+            "org_facet": [
+                "Santa Fe County Sheriffs Office"
+            ],
+            "per_facet": [
+                "Hutchins, Halyna (1979-2021)",
+                "Baldwin, Alec",
+                "Gutierrez-Reed, Hannah",
+                "Halls, Dave",
+                "Kenney, Seth",
+                "Souza, Joel (1973- )"
+            ],
+            "geo_facet": [
+                "New Mexico"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/27/arts/27rust-report2/merlin_205973835_d5bcbd36-2afc-48b6-ae5f-63e7cb660030-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1151,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The scene inside the church on the set of “Rust” after the film’s cinematographer, Halyna Hutchins, was fatally shot last year.",
+                    "copyright": "Santa Fe County Sheriff’s Office"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/27/arts/27rust-report2/merlin_205973835_d5bcbd36-2afc-48b6-ae5f-63e7cb660030-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The scene inside the church on the set of “Rust” after the film’s cinematographer, Halyna Hutchins, was fatally shot last year.",
+                    "copyright": "Santa Fe County Sheriff’s Office"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/27/arts/27rust-report2/merlin_205973835_d5bcbd36-2afc-48b6-ae5f-63e7cb660030-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The scene inside the church on the set of “Rust” after the film’s cinematographer, Halyna Hutchins, was fatally shot last year.",
+                    "copyright": "Santa Fe County Sheriff’s Office"
+                }
+            ],
+            "short_url": "https://nyti.ms/3TKuvtr"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
             "title": "‘Call Jane’ Review: Abortion History That’s Being Repeated Now",
             "abstract": "A fictionalized drama about the Jane Collective, a clandestine group that helped women secure safe, illegal abortions before 1973, is of the moment.",
             "url": "https://www.nytimes.com/2022/10/27/movies/call-jane-review-abortion.html",
@@ -664,7 +732,7 @@
             "uri": "nyt://article/9822e6ca-171f-5443-8823-a2f8093df3be",
             "byline": "By Richard Sandomir",
             "item_type": "Article",
-            "updated_date": "2022-10-27T11:03:45-04:00",
+            "updated_date": "2022-10-27T16:05:03-04:00",
             "created_date": "2022-10-27T10:26:57-04:00",
             "published_date": "2022-10-27T10:26:57-04:00",
             "material_type_facet": "",
@@ -672,11 +740,11 @@
             "des_facet": [
                 "Deaths (Obituaries)",
                 "The Paper Chase (Book)",
-                "The Paper Chase (Movie)",
                 "Books and Literature",
                 "Writing and Writers",
                 "Law Schools",
-                "Legal Profession"
+                "Legal Profession",
+                "The Paper Chase (Movie)"
             ],
             "org_facet": [
                 "Harvard Law School"
@@ -729,7 +797,7 @@
             "uri": "nyt://article/f4e37002-5366-52b0-ab22-6a03af4c754d",
             "byline": "By Carlos Aguilar",
             "item_type": "Article",
-            "updated_date": "2022-10-27T13:46:01-04:00",
+            "updated_date": "2022-10-27T16:06:31-04:00",
             "created_date": "2022-10-27T10:00:07-04:00",
             "published_date": "2022-10-27T10:00:07-04:00",
             "material_type_facet": "",
@@ -781,74 +849,15 @@
         {
             "section": "movies",
             "subsection": "",
-            "title": "‘A Chance Encounter’ Review: Bland Days In Taormina",
-            "abstract": "Andrea von Kampen, a singer-songwriter who has a way with the acoustic guitar, is the most engaging part of this tentative romantic drama.",
-            "url": "https://www.nytimes.com/2022/10/27/movies/a-chance-encounter-review.html",
-            "uri": "nyt://article/0b85d8fa-3347-5e2f-b3cc-c5a4b53d1d84",
-            "byline": "By Glenn Kenny",
-            "item_type": "Article",
-            "updated_date": "2022-10-27T07:00:06-04:00",
-            "created_date": "2022-10-27T07:00:06-04:00",
-            "published_date": "2022-10-27T07:00:06-04:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "A Chance Encounter (Movie)",
-                "Movies"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Alexander Jeffery",
-                "Paul T.O. Petersen",
-                "Andrea von Kampen"
-            ],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2022/10/25/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 900,
-                    "width": 1918,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Andrea von Kampen in “A Chance Encounter.”",
-                    "copyright": "Samuel Goldwyn Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/10/25/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 400,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Andrea von Kampen in “A Chance Encounter.”",
-                    "copyright": "Samuel Goldwyn Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/10/25/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Andrea von Kampen in “A Chance Encounter.”",
-                    "copyright": "Samuel Goldwyn Films"
-                }
-            ],
-            "short_url": "https://nyti.ms/3sxmr3g"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
             "title": "‘Please Baby Please’ Review: Hyper-Masculinity, on Its Head",
             "abstract": "This 1950s satire from Amanda Kramer broadens the scope of the queer leather canon.",
             "url": "https://www.nytimes.com/2022/10/27/movies/please-baby-please-review-hyper-masculinity-on-its-head.html",
             "uri": "nyt://article/1cbe38b4-b2fe-5d8f-9d18-bfca80d484c3",
             "byline": "By Teo Bugbee",
             "item_type": "Article",
-            "updated_date": "2022-10-27T07:00:06-04:00",
-            "created_date": "2022-10-27T07:00:06-04:00",
-            "published_date": "2022-10-27T07:00:06-04:00",
+            "updated_date": "2022-10-27T16:09:18-04:00",
+            "created_date": "2022-10-27T07:00:07-04:00",
+            "published_date": "2022-10-27T07:00:07-04:00",
             "material_type_facet": "",
             "kicker": "",
             "des_facet": [
@@ -857,10 +866,7 @@
             ],
             "org_facet": [],
             "per_facet": [
-                "Kramer, Amanda (Film Director)",
-                "Riseborough, Andrea",
-                "Moore, Demi",
-                "Harry Melling"
+                "Kramer, Amanda (Film Director)"
             ],
             "geo_facet": [],
             "multimedia": [
@@ -900,20 +906,77 @@
         {
             "section": "movies",
             "subsection": "",
+            "title": "‘A Chance Encounter’ Review: Bland Days In Taormina",
+            "abstract": "Andrea von Kampen, a singer-songwriter who has a way with the acoustic guitar, is the most engaging part of this tentative romantic drama.",
+            "url": "https://www.nytimes.com/2022/10/27/movies/a-chance-encounter-review.html",
+            "uri": "nyt://article/0b85d8fa-3347-5e2f-b3cc-c5a4b53d1d84",
+            "byline": "By Glenn Kenny",
+            "item_type": "Article",
+            "updated_date": "2022-10-27T16:15:51-04:00",
+            "created_date": "2022-10-27T07:00:06-04:00",
+            "published_date": "2022-10-27T07:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "A Chance Encounter (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Jeffery, Alexander (Film Director)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/28/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 900,
+                    "width": 1918,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Andrea von Kampen in “A Chance Encounter.”",
+                    "copyright": "Samuel Goldwyn Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/28/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Andrea von Kampen in “A Chance Encounter.”",
+                    "copyright": "Samuel Goldwyn Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/28/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716/merlin_215191020_95f9ec0d-1da9-44d5-b49f-7f6308820716-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Andrea von Kampen in “A Chance Encounter.”",
+                    "copyright": "Samuel Goldwyn Films"
+                }
+            ],
+            "short_url": "https://nyti.ms/3sxmr3g"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
             "title": "‘The Novelist’s Film’ Review: Real Talk",
             "abstract": "In Hong Sang-soo’s latest study in small moments and chance encounters, a visit to an old friend prompts a writer in crisis to try something new.",
             "url": "https://www.nytimes.com/2022/10/27/movies/the-novelists-film-review.html",
             "uri": "nyt://article/65fcc021-28ea-5dcb-b18a-9c1f5b0ac2d1",
             "byline": "By Austin Considine",
             "item_type": "Article",
-            "updated_date": "2022-10-27T07:00:03-04:00",
-            "created_date": "2022-10-27T07:00:03-04:00",
-            "published_date": "2022-10-27T07:00:03-04:00",
+            "updated_date": "2022-10-27T16:11:26-04:00",
+            "created_date": "2022-10-27T07:00:04-04:00",
+            "published_date": "2022-10-27T07:00:04-04:00",
             "material_type_facet": "",
             "kicker": "Critic’s Pick",
             "des_facet": [
                 "Movies",
-                "The Novelists Film (Movie)"
+                "The Novelist's Film (Movie)"
             ],
             "org_facet": [],
             "per_facet": [
@@ -923,7 +986,7 @@
             "geo_facet": [],
             "multimedia": [
                 {
-                    "url": "https://static01.nyt.com/images/2022/10/26/arts/novelist1/merlin_215187273_03fcdbe9-ba4b-4973-a9fa-5b3c57401d42-superJumbo.jpg",
+                    "url": "https://static01.nyt.com/images/2022/10/28/arts/novelist1/merlin_215187273_03fcdbe9-ba4b-4973-a9fa-5b3c57401d42-superJumbo.jpg",
                     "format": "Super Jumbo",
                     "height": 1080,
                     "width": 1920,
@@ -933,7 +996,7 @@
                     "copyright": "Cinema Guild"
                 },
                 {
-                    "url": "https://static01.nyt.com/images/2022/10/26/arts/novelist1/novelist1-threeByTwoSmallAt2X.jpg",
+                    "url": "https://static01.nyt.com/images/2022/10/28/arts/novelist1/novelist1-threeByTwoSmallAt2X.jpg",
                     "format": "threeByTwoSmallAt2X",
                     "height": 400,
                     "width": 600,
@@ -943,7 +1006,7 @@
                     "copyright": "Cinema Guild"
                 },
                 {
-                    "url": "https://static01.nyt.com/images/2022/10/26/arts/novelist1/novelist1-thumbLarge.jpg",
+                    "url": "https://static01.nyt.com/images/2022/10/28/arts/novelist1/novelist1-thumbLarge.jpg",
                     "format": "Large Thumbnail",
                     "height": 150,
                     "width": 150,
@@ -954,6 +1017,63 @@
                 }
             ],
             "short_url": "https://nyti.ms/3swRuMK"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "‘The Lair’ Review: Going Underground",
+            "abstract": "A band of grunts takes on mysterious underground monsters in this goofy horror movie.",
+            "url": "https://www.nytimes.com/2022/10/27/movies/the-lair-review.html",
+            "uri": "nyt://article/b761be72-f087-5ef7-9815-7009134eed4d",
+            "byline": "By Jeannette Catsoulis",
+            "item_type": "Article",
+            "updated_date": "2022-10-27T16:12:46-04:00",
+            "created_date": "2022-10-27T07:00:03-04:00",
+            "published_date": "2022-10-27T07:00:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "The Lair (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Marshall, Neil (Film Director)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/28/arts/lair1/lair1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1002,
+                    "width": 1779,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Charlotte Kirk in “The Lair.”",
+                    "copyright": "RLJE Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/28/arts/lair1/lair1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 401,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Charlotte Kirk in “The Lair.”",
+                    "copyright": "RLJE Films"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/10/28/arts/lair1/lair1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Charlotte Kirk in “The Lair.”",
+                    "copyright": "RLJE Films"
+                }
+            ],
+            "short_url": "https://nyti.ms/3sSINN3"
         },
         {
             "section": "movies",
@@ -1012,63 +1132,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/3sAygWv"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "‘The Lair’ Review: Going Underground",
-            "abstract": "A band of grunts takes on mysterious underground monsters in this goofy horror movie.",
-            "url": "https://www.nytimes.com/2022/10/27/movies/the-lair-review.html",
-            "uri": "nyt://article/b761be72-f087-5ef7-9815-7009134eed4d",
-            "byline": "By Jeannette Catsoulis",
-            "item_type": "Article",
-            "updated_date": "2022-10-27T07:00:02-04:00",
-            "created_date": "2022-10-27T07:00:02-04:00",
-            "published_date": "2022-10-27T07:00:02-04:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "The Lair (Movie)"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Marshall, Neil (Film Director)"
-            ],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2022/10/25/arts/lair1/lair1-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 1002,
-                    "width": 1779,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Charlotte Kirk in “The Lair.”",
-                    "copyright": "RLJE Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/10/25/arts/lair1/lair1-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 401,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Charlotte Kirk in “The Lair.”",
-                    "copyright": "RLJE Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/10/25/arts/lair1/lair1-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Charlotte Kirk in “The Lair.”",
-                    "copyright": "RLJE Films"
-                }
-            ],
-            "short_url": "https://nyti.ms/3sSINN3"
         },
         {
             "section": "movies",
@@ -1767,7 +1830,7 @@
             "uri": "nyt://article/99072f42-8da3-5f0e-9db0-d984a2d9aa1f",
             "byline": "By Kyle Buchanan",
             "item_type": "Article",
-            "updated_date": "2022-10-24T16:09:09-04:00",
+            "updated_date": "2022-10-27T15:57:21-04:00",
             "created_date": "2022-10-21T12:30:09-04:00",
             "published_date": "2022-10-21T12:30:09-04:00",
             "material_type_facet": "",
@@ -1775,7 +1838,8 @@
             "des_facet": [
                 "Movies",
                 "Everything Everywhere All at Once (Movie)",
-                "Actors and Actresses"
+                "Actors and Actresses",
+                "audio-neutral-immersive"
             ],
             "org_facet": [],
             "per_facet": [
@@ -1999,68 +2063,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/3Diqs1I"
-        },
-        {
-            "section": "arts",
-            "subsection": "television",
-            "title": "Kevin Spacey Is Cleared of Anthony Rapp’s Battery Claim",
-            "abstract": "A jury found Mr. Spacey not liable in a civil trial. Mr. Rapp, an original cast member in “Rent,” had filed a lawsuit accusing Mr. Spacey of making a sexual advance when Mr. Rapp was 14.",
-            "url": "https://www.nytimes.com/2022/10/20/arts/television/kevin-spacey-verdict-anthony-rapp.html",
-            "uri": "nyt://article/98ddaa3c-4139-5b90-a9dd-6e1769d39dc6",
-            "byline": "By Julia Jacobs and Nate Schweber",
-            "item_type": "Article",
-            "updated_date": "2022-10-21T10:33:52-04:00",
-            "created_date": "2022-10-20T19:08:56-04:00",
-            "published_date": "2022-10-20T19:08:56-04:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Suits and Litigation (Civil)",
-                "Sexual Harassment",
-                "#MeToo Movement",
-                "Child Abuse and Neglect",
-                "New York Child Victims Act (2019)",
-                "Decisions and Verdicts"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Rapp, Anthony",
-                "Spacey, Kevin"
-            ],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2022/10/20/multimedia/20spacey-verdict-01-1-62f6/20spacey-verdict-01-1-62f6-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 1365,
-                    "width": 2048,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "After less than an hour and a half of deliberation on Thursday, a jury in the U.S. District Court in Manhattan decided in favor of Kevin Spacey.",
-                    "copyright": "Yuki Iwamura/Agence France-Presse — Getty Images"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/10/20/multimedia/20spacey-verdict-01-1-62f6/20spacey-verdict-01-1-62f6-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 400,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "After less than an hour and a half of deliberation on Thursday, a jury in the U.S. District Court in Manhattan decided in favor of Kevin Spacey.",
-                    "copyright": "Yuki Iwamura/Agence France-Presse — Getty Images"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2022/10/20/multimedia/20spacey-verdict-01-1-62f6/20spacey-verdict-01-1-62f6-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "After less than an hour and a half of deliberation on Thursday, a jury in the U.S. District Court in Manhattan decided in favor of Kevin Spacey.",
-                    "copyright": "Yuki Iwamura/Agence France-Presse — Getty Images"
-                }
-            ],
-            "short_url": "https://nyti.ms/3eLZyWK"
         }
     ]
 }
