@@ -4,29 +4,94 @@
     "articles": [
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
+                "id": null,
+                "name": "YouTube"
             },
             "author": null,
-            "title": "Market Revs Higher, Time To Step On Gas? Fed Looms - Investor's Business Daily",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vd3d3LmludmVzdG9ycy5jb20vbWFya2V0LXRyZW5kL3N0b2NrLW1hcmtldC10b2RheS9kb3ctam9uZXMtZnV0dXJlcy1tYXJrZXQtcmFsbHktcmV2cy1oaWdoZXItZmVkLW1lZXRpbmctbG9vbXMv0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2022-10-29T00:09:00Z",
+            "title": "Russia Vs Ukraine War Update Live | Russians Retreat From Kherson | Ukraine News | News18 Live - CNN-News18",
+            "description": "Russia Vs Ukraine War Update Live | Russians Retreat From Kherson | Ukraine News | News18 LiveTens of thousands of civilians and Russian-appointed officials ...",
+            "url": "https://www.youtube.com/watch?v=dSGksruu8L8",
+            "urlToImage": "https://i.ytimg.com/vi/dSGksruu8L8/maxresdefault_live.jpg",
+            "publishedAt": "2022-10-29T10:37:10Z",
             "content": null
         },
         {
             "source": {
-                "id": null,
-                "name": "The Philadelphia Inquirer"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Scott Lauber, Alex Coffey, Rob Tornoe, Matt Breen, David Murphy and Matt Mullin",
-            "title": "Phillies-Astros news: Game 1 underway in Houston; Eagles adopt Phillies’ playoff anthem; expect a late night - The Philadelphia Inquirer",
-            "description": "The first two games of the World Series will take place in Houston before returning to Philadelphia on Monday.",
-            "url": "https://www.inquirer.com/phillies/live/phillies-game-1-houston-astros-world-series-today-mlb-playoffs-live-updates-20221028.html",
-            "urlToImage": "https://www.inquirer.com/resizer/l38ka2Lg_lRZdxvtxq_uTUuSUjk=/0x0:5468x3648/760x507/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/WGAFQQVSAFGOXDBGZK3XBIWQ2U.jpg",
-            "publishedAt": "2022-10-29T00:03:00Z",
-            "content": null
+            "author": "Heather Chen, Philip Wang, Angus Watson",
+            "title": "45 dead as Tropical Storm Nalgae hits Philippines - CNN",
+            "description": "Tropical Storm Nalgae has killed at least 45 people and injured dozens more in the Philippines, the country's disaster agency said Saturday.",
+            "url": "https://www.cnn.com/2022/10/28/asia/tropical-storm-nalgae-paeng-philippines-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221028202630-03-philippines-tropical-storm-nalgae-102822.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-29T09:45:00Z",
+            "content": "Tropical Storm Nalgae has killed at least 45 people and injured dozens more in the Philippines, the countrys disaster agency said Saturday.\r\nA further 14 people were missing after the storm, known lo… [+1188 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Mike Axisa",
+            "title": "World Series score: Phillies grab Game 1 vs. Astros as J.T. Realmuto's home run caps huge comeback - CBS Sports",
+            "description": "Philadelphia dug its way out of a five-run hole against Justin Verlander to take Game 1 in Houston",
+            "url": "https://www.cbssports.com/mlb/news/world-series-score-phillies-grab-game-1-vs-astros-as-jt-realmutos-home-run-caps-huge-comeback/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/29/e7d2c024-a932-45b2-9723-fb00d51d5a9e/thumbnail/1200x675/4b880226a64350de0c1e3a0bc8e942c2/jt-world-series-getty.png",
+            "publishedAt": "2022-10-29T09:45:00Z",
+            "content": "The Philadelphia Phillies defeated the Houston Astros, 6-5, on Friday night in a drama-filled Game 1 of the 2022 World Series. The Phillies, who came back from a five-run deficit, now possess a 1-0 l… [+8866 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "David Axe",
+            "title": "Scientists Fear New COVID Strains Are Deadly—Just Like 2020 Wave - The Daily Beast",
+            "description": "The most recent COVID variants have been more contagious but less deadly. Early evidence suggests the new mutations could be much more dangerous and drive hospitalizations back up.",
+            "url": "https://www.thedailybeast.com/scientists-fear-bq1-covid-variants-are-deadly-like-the-2020-wave",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1667006773/102922-axe-covid-hero_tvuiky",
+            "publishedAt": "2022-10-29T07:48:04Z",
+            "content": "The new COVID-19 subvariants that are becoming dominant all over the world arent just more contagious than previous variants and subvariantsthey might cause more severe disease, too.\r\nThats an ominou… [+5167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Kyiv set for longer power cuts after air strikes - BBC",
+            "description": "Russian strikes on energy infrastructure leave Ukrainians facing power cuts of more than four hours.",
+            "url": "https://www.bbc.com/news/world-europe-63435586",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/24FF/production/_127417490_mediaitem127417489.jpg",
+            "publishedAt": "2022-10-29T05:49:04Z",
+            "content": "The Ukrainian authorities have warned people in the capital Kyiv to expect longer power cuts, lasting more than four hours, because of Russian attacks on energy infrastructure.\r\nRolling blackouts are… [+3422 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MassLive.com"
+            },
+            "author": "Brian Robb | brobb@masslive.com",
+            "title": "Jaylen Brown wants to help Donda Academy students after school reportedly closes - MassLive.com",
+            "description": "Jaylen Brown decided to leave Kanye West's Donda Sports this week but he still wants to help those students impacted by the reported closing of Donda Academy.",
+            "url": "https://www.masslive.com/celtics/2022/10/jaylen-brown-wants-to-help-donda-academy-students-after-school-reportedly-closes.html",
+            "urlToImage": "https://www.masslive.com/resizer/xJ13mQoMsRg2EwWJN4-hSvGTz68=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JZ45KN5YWNEM7KDDWGPZVDZ54U.jpg",
+            "publishedAt": "2022-10-29T05:23:00Z",
+            "content": "Jaylen Brown said that hes leaving Kanye Wests Donda Sports earlier this week and spoke about that decision for the first time after the Celtics loss to the Cavaliers on Friday night at TD Garden.\r\nW… [+2454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jack Baer",
+            "title": "Nets owner Joe Tsai condemns Kyrie Irving's tweeting of antisemitic video - Yahoo Sports",
+            "description": "The Nets star's video was \"full of anti-semitic disinformation,\" according to the billionaire.",
+            "url": "https://sports.yahoo.com/nets-owner-joe-tsai-condemns-kyrie-irvings-tweeting-antisemitic-video-044809514.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/uF0WFbOVT.UMAYPMfKG0Qw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/9aa4fd10-5744-11ed-bfeb-aaea7afd0883",
+            "publishedAt": "2022-10-29T04:48:00Z",
+            "content": "Kyrie Irving's latest venture into conspiracy theories and controversy has drawn condemnation from Brooklyn Nets team owner Joe Tsai and his own team for its clear antisemitism.\r\nOn Thursday, the Net… [+2594 chars]"
         },
         {
             "source": {
@@ -35,24 +100,24 @@
             },
             "author": "Kristina Sgueglia, Zenebou Sylla, Justin Lear, Laura Ly",
             "title": "At least 6 people injured in shooting outside Pittsburgh funeral, officials say - CNN",
-            "description": "At least six people were injured after a shooting erupted on Friday outside a church in Pittsburgh where a funeral was taking place, according to Pittsburgh Police Commander Rick Ford.",
+            "description": "At least six people were injured after a shooting erupted Friday outside a church in Pittsburgh where a funeral was taking place, police said.",
             "url": "https://www.cnn.com/2022/10/28/us/pittsburgh-funeral-service-shooting/index.html",
             "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221028105419-02-pittsburgh-shots-fired.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-10-28T22:35:00Z",
-            "content": "At least six people were injured after a shooting erupted on Friday outside a church in Pittsburgh where a funeral was taking place, according to Pittsburgh Police Commander Rick Ford.\r\nOne victim or… [+3307 chars]"
+            "publishedAt": "2022-10-29T04:25:00Z",
+            "content": "At least six people were injured after a shooting erupted Friday outside a church in Pittsburgh where a funeral was taking place, police said. \r\nOne victim originally reported in critical condition i… [+3389 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "New York Post"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Caitlin Doornbos",
-            "title": "Dr. Oz leads John Fetterman in second poll after Democrat's debate struggles - New York Post ",
-            "description": "Republican celebrity heart surgeon and former TV talk show host Dr. Mehmet Oz has surged past Democratic Pennsylvania Lt. Gov. John Fetterman in a pair of Senate race polls.",
-            "url": "https://nypost.com/2022/10/28/oz-leads-fetterman-in-poll-after-democrats-debate-struggles/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/10/QmJUxfbKEmP1gqv5GAzm4b2ERu-ykUjAIvQdDcSvlH8.jpeg?quality=75&strip=all&w=1024",
-            "publishedAt": "2022-10-28T22:11:00Z",
-            "content": "Republican celebrity heart surgeon and former TV talk show host Dr. Mehmet Oz has surged past Democratic Pennsylvania Lt. Gov. John Fetterman in a pair of Senate race polls taken since the candidates… [+2583 chars]"
+            "author": "Chloe Melas",
+            "title": "Tom Brady and Gisele Bündchen announce divorce - CNN",
+            "description": "Tom Brady and Gisele Bündchen on Friday announced they are divorcing after 13 years of marriage.",
+            "url": "https://www.cnn.com/2022/10/28/entertainment/tom-brady-gisele-bndchen/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221028102236-tom-brady-gisele-bundchen-2019-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-29T03:26:00Z",
+            "content": "Tom Brady and Gisele Bündchen on Friday announced they are divorcing after 13 years of marriage. \r\nWe arrived at this decision amicably and with gratitude for the time we spent together. We are bless… [+2747 chars]"
         },
         {
             "source": {
@@ -60,207 +125,142 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Florida Boards of Medicine and Osteopathy to consider rule barring gender-affirming care for minors - WFLA News Channel 8",
-            "description": "Details affecting local, regional and national news events of the day are provided by the News Channel 8 Team as well as updates on weather and traffic.",
-            "url": "https://www.youtube.com/watch?v=mIhgxZJg-7o",
-            "urlToImage": "https://i.ytimg.com/vi/mIhgxZJg-7o/maxresdefault.jpg",
-            "publishedAt": "2022-10-28T21:43:32Z",
+            "title": "Obama campaigns in Atlanta with one simple message: Keep Democrats in office - 11Alive",
+            "description": "The former president gave a 35-minute speech that touched on everything from abortion to election denialism.",
+            "url": "https://www.youtube.com/watch?v=r0uMoF4WHWY",
+            "urlToImage": "https://i.ytimg.com/vi/r0uMoF4WHWY/maxresdefault.jpg",
+            "publishedAt": "2022-10-29T03:18:53Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "WLKY Louisville"
+                "name": "Page Six"
             },
-            "author": null,
-            "title": "Police expected to announce arrest in connection to 2017 Delphi teen killings on Monday - WLKY Louisville",
-            "description": "Police will hold a news conference Monday to provide an update on their investigation into the unsolved murders of two teenage girls killed during a 2017 hiking trip in Indiana.",
-            "url": "https://www.wlky.com/article/delphi-indiana-teen-killing-2017-arrest/41805219",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/thu0432-crimeinsertindelphimurderedteens-mp4-00-00-30-06-still001-1487344403.jpg?crop=0.797xw:0.797xh;0.101xw,0.0610xh&resize=1200:*",
-            "publishedAt": "2022-10-28T21:12:00Z",
-            "content": "DELPHI, Ind. —Police will hold a news conference Monday to provide an update on their investigation into the unsolved murders of two teenage girls killed during a 2017 hiking trip in Indiana.\r\nIndian… [+1457 chars]"
+            "author": "Bernie Zilio",
+            "title": "Matthew Perry had 'emergency' surgery days before 'Friends' reunion - Page Six",
+            "description": "Perry spoke to Sawyer ahead of the Nov. 1 release of his highly anticipated tell-all, “Friends, Lovers, and the Big Terrible Thing: A Memoir.”",
+            "url": "https://pagesix.com/2022/10/28/matthew-perry-had-emergency-surgery-days-before-friends-reunion/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/10/matthew-perry-dateline.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2022-10-29T02:00:00Z",
+            "content": "Matthew Perry revealed he had to undergo “emergency dental surgery” days before filming the “Friends” reunion last April.\r\n“They did all sorts of things,” the actor, 53, told Diane Sawyer during a si… [+6010 chars]"
         },
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "abc-news",
+                "name": "ABC News"
             },
-            "author": "Jen Christensen",
-            "title": "Pandemic 'immunity gap' is probably behind surge in RSV cases, scientists say - CNN",
-            "description": "The measures that helped keep us safe from Covid-19 over the past 2½ years -- lockdowns, physical distancing, wearing masks, washing hands -- also helped limit the spread of other viruses. As people return to school and work and take off their masks, those vi…",
-            "url": "https://www.cnn.com/2022/10/26/health/rsv-immunity-gap/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221025134217-toddler-washing-hands.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-10-28T21:07:00Z",
-            "content": "The measures that helped keep us safe from Covid-19 over the past 2½ years lockdowns, physical distancing, wearing masks, washing hands also helped limit the spread of other viruses. As people return… [+5894 chars]"
+            "author": "Ali Dukakis",
+            "title": "Federal judge in Arizona declines restraining order to block group from surveilling voters - ABC News",
+            "description": "He ruled the activity did not fall into the category of \"voter intimidation.\"",
+            "url": "https://abcnews.go.com/US/judge-arizona-denies-injunction-block-group-gathering-ballot/story?id=92315573",
+            "urlToImage": "https://s.abcnews.com/images/US/arizona-drop-box-gty-jef-221028_1666997506285_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-10-29T01:41:15Z",
+            "content": "A federal judge in Arizona Friday declined to issue a temporary restraining order and preliminary injunction to keep several people accused of voter intimidation from gathering near ballot boxes and … [+2502 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "2022 Apple iPad Pro M2 11\" Review - MobileTechReview",
+            "description": "The 2022 refresh of the iPad Pro puts Apple’s M2 processor front and center. We look at the smaller 11” iPad Pro 4th gen that starts at $799. It’s available ...",
+            "url": "https://www.youtube.com/watch?v=Yp_B3WcTFgk",
+            "urlToImage": "https://i.ytimg.com/vi/Yp_B3WcTFgk/maxresdefault.jpg",
+            "publishedAt": "2022-10-29T01:24:21Z",
+            "content": null
         },
         {
             "source": {
                 "id": "the-washington-post",
                 "name": "The Washington Post"
             },
-            "author": "Devlin Barrett, Perry Stein, Josh Dawsey",
-            "title": "David Raskin, veteran prosecutor, joins Trump Mar-a-Lago probe - The Washington Post",
-            "description": "David Raskin joins the case as outside national-security experts say prosecutors have amassed evidence that meets some key criteria for charging Donald Trump.",
-            "url": "https://www.washingtonpost.com/national-security/2022/10/28/raskin-mar-a-lago-trump-documents/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WQ66P5GRQOLTV57M7Y54KQY4II.JPG&w=1440",
-            "publishedAt": "2022-10-28T21:00:00Z",
-            "content": "Comment on this story\r\nOne of the Justice Departments most experienced national security prosecutors has joined the team overseeing the intensifying investigation of classified documents at Donald Tr… [+13127 chars]"
+            "author": "Lena H. Sun",
+            "title": "Flu season 2022 started a month early, severity is highest in 13 years - The Washington Post",
+            "description": "The flu has hospitalized a record number of people this season, underscoring the potential for a perilous winter of respiratory viruses with covid-19 and RSV.",
+            "url": "https://www.washingtonpost.com/health/2022/10/28/flu-season-2022-cdc/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5G52TSOEQI63LNIATTONP4LDE.jpg&w=1440",
+            "publishedAt": "2022-10-29T00:45:00Z",
+            "content": "Comment on this story\r\nInfluenza is hitting the United States unusually early and hard, resulting in the most hospitalizations at this point in the season in more than a decade and underscoring the p… [+7486 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Big Blue View"
+                "id": "the-washington-post",
+                "name": "The Washington Post"
             },
-            "author": "MichaelParra",
-            "title": "NFC East notebook: Trade deadline edition - Big Blue View",
-            "description": "With so many teams in the mix, it should be an interesting trade deadline in the division",
-            "url": "https://www.bigblueview.com/2022/10/28/23428323/nfc-east-notebook-trade-deadline-edition",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/v7CN48sXCTf_ZPvwgMO4_z40QBU=/0x0:4951x2592/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24149341/1434201058.jpg",
-            "publishedAt": "2022-10-28T21:00:00Z",
-            "content": "Welcome to this weeks edition of the NFC East notebook. The division continues to impress boasting the best-combined record amongst all the divisions in the NFL. With so many teams having success, it… [+7569 chars]"
+            "author": "Editorial Board",
+            "title": "Opinion | The Pelosi attack should spur more security for U.S. leaders - The Washington Post",
+            "description": "Can the most powerful country in the world protect its leaders?",
+            "url": "https://www.washingtonpost.com/opinions/2022/10/28/pelosi-house-attack-congress-security-protection/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VRDNTVCW5MI63LELBC57VMOFUU.jpg&w=1440",
+            "publishedAt": "2022-10-29T00:30:00Z",
+            "content": "Comment on this story\r\nThere is much we still dont know about the Friday attack on House Speaker Nancy Pelosis (D-Calif.) house. But the facts that have emerged so far are horrifying and raise a ques… [+4079 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Savannah Morning News"
-            },
-            "author": "Staff reports, Savannah Morning News",
-            "title": "US Senate candidate Herschel Walker campaigned in Statesboro - Savannah Morning News",
-            "description": "U.S. Senate candidate Herschel Walker mocks Schumer, Democrats in Statesboro campaign rally.",
-            "url": "https://www.savannahnow.com/story/news/politics/elections/2022/10/28/us-senate-candidate-herschel-walker-campaigned-statesboro-georgia/10627225002/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/28/NSMN/fd07fd61-6615-43d9-86da-bfe30226601f-102822_Herschel_Walker_LL_7.jpg?auto=webp&crop=1279,720,x0,y118&format=pjpg&width=1200",
-            "publishedAt": "2022-10-28T20:52:30Z",
-            "content": "A day after U.S. Senate Majority Leader Chuck Schumer expressed concerns about Sen. Raphael Warnock's re-election bid, Warnock's opponent, Herschel Walker, mocked Schumer and continued to deny allega… [+2103 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Parents of younger children, how are you dealing with RSV and the flu? - CNN",
-            "description": "There has been a nationwide surge in respiratory illnesses, especially in children.",
-            "url": "https://www.cnn.com/2022/10/28/health/parents-children-rsv-flu-wellness-callout/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221028113911-rsv-wellness-callout-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-10-28T20:31:00Z",
-            "content": "There has been a nationwide surge in respiratory illnesses, especially in children.\r\nIts putting a strain on hospitals, which are seeing a rise in flu and respiratory syncytial virus, or RSV, a cold … [+516 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Lisa Respers France",
-            "title": "Rihanna's 'Lift Me Up' sets emotional 'Wakanda Forever' tone - CNN",
-            "description": "Rihanna's first solo new music in six years is out and tugging at heartstrings.",
-            "url": "https://www.cnn.com/2022/10/28/entertainment/rihanna-lift-me-up/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221028075804-rihanna-wakanda-forever-1026.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-10-28T19:50:00Z",
-            "content": "Rihannas first solo new music in six years is out and tugging at heartstrings.\r\nLift Me Up from the Black Panther: Wakanda Forever soundtrack was released Friday. The song is already a hit with her f… [+1236 chars]"
+            "title": "Exclusive: United States to put United Nations focus on Iran protests - Reuters.com",
+            "description": "The United States will next week put the United Nations spotlight on protests in Iran sparked by the death of a young woman in police custody and look for ways to promote credible, independent investigations into Iranian human rights abuses.",
+            "url": "https://www.reuters.com/world/exclusive-united-states-put-united-nations-focus-iran-protests-2022-10-28/",
+            "urlToImage": "https://www.reuters.com/resizer/Su7C1TeuXD53QKZk06YqURD1zso=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JXMFJL43HFPY7AAPZD4L4H5CPU.jpg",
+            "publishedAt": "2022-10-29T00:26:00Z",
+            "content": "UNITED NATIONS, Oct 28 (Reuters) - The United States will next week put the United Nations spotlight on protests in Iran sparked by the death of a young woman in police custody and look for ways to p… [+2662 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Packers.com"
+                "name": "Investor's Business Daily"
             },
-            "author": "Wes Hodkiewicz",
-            "title": "Packers list four questionable, rule out two for Bills game - Packers.com",
-            "description": "Linebacker Rashan Gary was a full participant in Friday’s practice",
-            "url": "https://www.packers.com/news/packers-bills-injury-report-week-8-oct-28-2022",
-            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/packers/cq7z3cpfm0ivilkacitl",
-            "publishedAt": "2022-10-28T19:44:02Z",
-            "content": "GREEN BAY The Packers have listed linebacker Rashan Gary (concussion), tackle David Bakhtiari (knee), guard Elgton Jenkins (knee), and receiver Christian Watson (hamstring) as questionable for Sunday… [+1562 chars]"
+            "author": "Investor's Business Daily",
+            "title": "Market Revs Higher, Time To Step On Gas? Fed Looms - Investor's Business Daily",
+            "description": "Fed pivot hopes were a big tailwind. Here are 5 stocks near buy points with earnings due.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-revs-higher-fed-meeting-looms/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2020/11/Stock-FastGreenCar-adobe.jpg",
+            "publishedAt": "2022-10-29T00:09:00Z",
+            "content": "Dow Jones futures will open on Sunday evening, along with S&amp;P 500 futures and Nasdaq futures, with earnings season still in full swing. But investor focus also will turn to a pivotal Federal Rese… [+10966 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Hollywood Reporter"
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
             },
-            "author": "James Hibberd",
-            "title": "‘House of the Dragon,’ ‘Rings of Power,’ ‘Andor’ Fans Face Long Waits for Season 2 - Hollywood Reporter",
-            "description": "“Great article, but you buried the lede,” a Hollywood Reporter reader recently fumed in an email. “TWO YEARS before season 2 comes out?”  The reader was referring to our recent cover story on The Lord of the Rings: The Rings of Power, which included a tidbit …",
-            "url": "https://www.hollywoodreporter.com/tv/tv-news/house-of-the-dragon-rings-of-power-andor-season-2-return-date-1235250335/",
-            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/10/House-Dragon-Andor-Rings-Power-Split-Publicity-H-2022.jpg?w=1024",
-            "publishedAt": "2022-10-28T19:31:59Z",
-            "content": "“Great article, but you buried the lede,” a Hollywood Reporter reader recently fumed in an email. “TWO YEARS before season 2 comes out?” \r\nThe reader was referring to our recent cover story on The Lo… [+6459 chars]"
+            "author": "Al Jazeera",
+            "title": "All you need to know about most divisive vote in Brazil’s history - Al Jazeera English",
+            "description": "Jair Bolsonaro and Lula da Silva face off amid concerns over political violence, disinformation and future of democracy.",
+            "url": "https://www.aljazeera.com/news/2022/10/28/all-you-need-to-know-about-most-divisive-vote-in-brazils-history",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/10/2022-10-26T232629Z_165224623_RC299X9TCER8_RTRMADP_3_BRAZIL-ELECTION.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-10-28T23:50:11Z",
+            "content": "Brazilians are heading to the polls after what has been described as the countrys most polarised election campaign, pitting far-right President Jair Bolsonaro against his left-wing rival, Luiz Inacio… [+6756 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Isaac Schultz",
-            "title": "Images Show Fresh Crater on Mars Caused by Major Meteorite Impact - Gizmodo",
-            "description": "The impact was intense enough that NASA's InSight lander detected the seismic waves from over 2,000 miles away.",
-            "url": "https://gizmodo.com/meteorite-impact-crater-mars-1849715643",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c37febaf628295a76a83ff0d0f9fb5ec.png",
-            "publishedAt": "2022-10-28T19:00:00Z",
-            "content": "On December 24, 2021the day before the Webb Space Telescope would launcha rock hurtled through the thin Martian atmosphere and slammed into the ground, leaving a crater nearly 500 feet across. This w… [+2331 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "reuters",
+                "name": "Reuters"
             },
             "author": null,
-            "title": "Blazin' 5: Lions upset Tua at home, Browns cover against Bengals in Week 8 | NFL | THE HERD - The Herd with Colin Cowherd",
-            "description": "Colin Cowherd shares his Blazin' 5 picks of Week 8, including the Cleveland Browns upsetting AFC North rival Cincinnati Bengals and the New Orleans Saints na...",
-            "url": "https://www.youtube.com/watch?v=7PvR-2Bd4ic",
-            "urlToImage": "https://i.ytimg.com/vi/7PvR-2Bd4ic/maxresdefault.jpg",
-            "publishedAt": "2022-10-28T18:58:13Z",
-            "content": null
+            "title": "Amazon shares slump, Big Tech peers stay afloat - Reuters.com",
+            "description": "Amazon.com Inc's <a href=\"https://www.reuters.com/companies/AMZN.O\" target=\"_blank\">(AMZN.O)</a> shares fell about 8% on Friday after forecasting holiday-quarter sales below Wall Street estimates, while its Big Tech peers recovered from a bruising selloff thi…",
+            "url": "https://www.reuters.com/technology/amazon-slumps-tech-selloff-worsens-2022-10-28/",
+            "urlToImage": "https://www.reuters.com/resizer/0SgHdOrFOXSw-qNrJzTSWv2LLMQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IOZLRTKR6JNPRDD4LOIBKQ446Y.jpg",
+            "publishedAt": "2022-10-28T23:41:00Z",
+            "content": "Oct 28 (Reuters) - Amazon.com Inc's (AMZN.O) shares fell about 8% on Friday after forecasting holiday-quarter sales below Wall Street estimates, while its Big Tech peers recovered from a bruising sel… [+2157 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Fox Business"
             },
-            "author": "David Artavia",
-            "title": "Sheryl Underwood shows off 95-pound weight loss on 'The Talk': 'I've made significant life changes. I was not healthy.' - Yahoo Life",
-            "description": "\"This is my birthday body,\" the co-host said in front of a live studio audience.",
-            "url": "https://www.yahoo.com/lifestyle/sheryl-underwood-weight-loss-the-talk-life-changes-health-183614315.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/c439f7b0-56eb-11ed-b9bf-fa1ce164b866",
-            "publishedAt": "2022-10-28T18:36:14Z",
-            "content": "Sheryl Underwood is finding a new groove.\r\nTo ring in her 59th birthday, The Talk co-host showed off her figure on Fridays episode, during which she opened up to the studio audience about the emotion… [+1626 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Ben Beaumont-Thomas",
-            "title": "Jerry Lee Lewis, notorious US rock’n’roll star, dies aged 87 - The Guardian",
-            "description": "Artist’s songs such as Great Balls of Fire helped install rock’n’roll as the dominant American pop music of the 1950s",
-            "url": "https://www.theguardian.com/music/2022/oct/28/jerry-lee-lewis-rock-n-roll-star-dead",
-            "urlToImage": "https://i.guim.co.uk/img/media/95221e68fdc7c045f63566c48d7c371c3532b70b/184_434_3565_2138/master/3565.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a12b9550cdeeb0986869d51849ccdbd4",
-            "publishedAt": "2022-10-28T18:20:00Z",
-            "content": "Jerry Lee Lewis, the rocknroll pioneer who became one of the most infamous figures in popular music, has died aged 87, his publicist has said.\r\nHe died of natural causes at his home in DeSoto County,… [+4138 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Casey Tolan, Curt Devine, Daniel A. Medina, Majlie de Puy Kamp",
-            "title": "Alleged Paul Pelosi attacker posted multiple conspiracy theories - CNN",
-            "description": "The man who allegedly attacked House Speaker Nancy Pelosi's husband early Friday posted memes and conspiracy theories on Facebook about Covid vaccines, the 2020 election and the January 6, 2021 attack on the Capitol, and an acquaintance told CNN that he seeme…",
-            "url": "https://www.cnn.com/2022/10/28/politics/pelosi-attack-suspect-conspiracy-theories-invs/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221028115316-03-paul-pelosi-attack-scene.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-10-28T18:14:00Z",
-            "content": "The man who allegedly attacked House Speaker Nancy Pelosis husband early Friday posted memes and conspiracy theories on Facebook about Covid vaccines, the 2020 election and the January 6, 2021 attack… [+3545 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ed Cara",
-            "title": "One of the World's Biggest Killers Is on the Rise Again - Gizmodo",
-            "description": "There were an estimated 10.6 million cases and 1.6 million deaths caused by tuberculosis last year, a WHO report has found.",
-            "url": "https://gizmodo.com/tuberculosis-on-the-rise-2021-who-report-1849715455",
-            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e6b200f7f7aa0b5f7499546407100399.jpg",
-            "publishedAt": "2022-10-28T17:55:00Z",
-            "content": "One of the deadliest diseases in the world is once again gaining steam. A new report this week by the World Health Organization shows that global cases of tuberculosis and drug-resistant tuberculosis… [+2936 chars]"
+            "author": "Chris Pandolfo",
+            "title": "Liz Cheney's PAC spends $500,000 in Arizona to defeat GOP nominee Kari Lake - Fox Business",
+            "description": "Liz Cheney PAC spends $500,000 on attack ad targeting Arizona Republicans Kari Lake and Mark Finchem.",
+            "url": "https://www.foxbusiness.com/politics/republican-liz-cheneys-pac-spends-500000-arizona-defeat-gop-nominee-kari-lake",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/0/0/pt1.png?ve=1&tl=1",
+            "publishedAt": "2022-10-28T23:39:35Z",
+            "content": "Republican Rep. Liz Cheney (R-Wyo.) is targeting Arizona Republicans for defeat with a new $500,000 ad buy from her PAC attacking the GOP nominees for governor and secretary of state. \r\n\"I don't know… [+2658 chars]"
         }
     ]
 }
