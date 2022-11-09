@@ -1,45 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 35,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "CNBC"
+                "id": "reuters",
+                "name": "Reuters"
             },
-            "author": "Jihye Lee",
-            "title": "Asia-Pacific stocks mixed ahead of U.S. midterm elections - CNBC",
-            "description": "Shares in the Asia-Pacific were mixed Tuesday as investors digest the summary of opinions from the Bank of Japan and look ahead to the U.S. midterm elections.",
-            "url": "https://www.cnbc.com/2022/11/08/asia-pacific-stocks-set-to-rise-bank-of-japan-summary-of-opinions-us-midterm-elections-ahead.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/101969635-BOJ_exterior.jpg?v=1667864577&w=1920&h=1080",
-            "publishedAt": "2022-11-08T07:54:00Z",
-            "content": "Shares of KakaoPay jumped more than 11% in South Korea's morning session after the company announced its expansion plans for Japan and China.\r\nThe payment app launched a partnership with AliPay Plus … [+450 chars]"
+            "author": null,
+            "title": "Republican senators win re-election in initial U.S. midterm results - Reuters",
+            "description": "Several Republican senators easily won re-election on Tuesday in U.S. midterm elections that could usher in an era of divided government and scale back President Joe Biden's power in Washington.",
+            "url": "https://www.reuters.com/world/us/control-congress-bidens-power-ballot-us-midterms-2022-11-08/",
+            "urlToImage": "https://www.reuters.com/resizer/VDZP5O4E9myFjcyFHskA_zNUZDg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LQC5XZPP2JLLTMC4GPSJ6QBYHM.jpg",
+            "publishedAt": "2022-11-09T00:30:00Z",
+            "content": "ALPHARETTA, Ga./PHOENIX, Ariz., Nov 8 (Reuters) - Several Republican senators easily won re-election on Tuesday in U.S. midterm elections that could usher in an era of divided government and scale ba… [+6216 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon and Jorge L. Ortiz, USA TODAY",
+            "title": "Russian fighters mock 'great generals' after suffering heavy losses; Zelenskyy cracks open a door to peace talks: Ukraine live updates - USA TODAY",
+            "description": "Russia's Defense Ministry downplayed complaints from troops of being sent into an \"incomprehensible offensive\" that resulted in many deaths. Updates.",
+            "url": "https://www.usatoday.com/story/news/world/2022/11/08/ukraine-russia-war-updates/8300182001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/08/USAT/2b585bec-281f-4fc4-8ba0-7fd42107e88d-AP_APTOPIX_Russia_Ukraine_War_4.jpg?auto=webp&crop=7560,4253,x0,y384&format=pjpg&width=1200",
+            "publishedAt": "2022-11-09T00:22:30Z",
+            "content": "Russia's Defense Ministry is downplaying claims made in an open letter apparently from members of the 155th marine brigade of Russia's Pacific Fleet saying they had been sent into an \"incomprehensibl… [+6666 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "‘Fireball’ lights up early morning skies in Virginia, photos show. What was it? - Raleigh News & Observer",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiTWh0dHBzOi8vd3d3Lm5ld3NvYnNlcnZlci5jb20vbmV3cy9uYXRpb24td29ybGQvbmF0aW9uYWwvYXJ0aWNsZTI2ODQwMjQ1Mi5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-08T23:58:23Z",
+            "content": null
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Sandra Gonzalez",
-            "title": "Chris Evans has been named People magazine's 'Sexiest Man Alive' - CNN",
-            "description": "People magazine has crowned actor Chris Evans this year's Sexiest Man Alive.",
-            "url": "https://www.cnn.com/2022/11/08/entertainment/chris-evans-sexiest-man-alive-people/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221108131824-chris-evans-071922.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-11-08T06:52:00Z",
-            "content": "People magazine has crowned actor Chris Evans this years Sexiest Man Alive. \r\nThe unveiling was made on The Late Show with Stephen Colbert, with help from John Oliver and Dwayne Johnson. \r\nIn a bit t… [+1162 chars]"
+            "author": "Aya Elamroussi, Dakin Andone",
+            "title": "A single winning ticket for the $2.04 billion Powerball jackpot was sold in California - CNN",
+            "description": "Officials have finally announced the winning numbers for the record $2.04 billion Powerball lottery jackpot after Monday night's drawing was delayed when one of the 48 participating lotteries needed more time to complete the necessary protocols. The winning n…",
+            "url": "https://www.cnn.com/2022/11/08/us/powerball-lottery-record-delayed-drawing-tuesday-trnd/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221103101341-powerball.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-08T23:54:00Z",
+            "content": "A lone winning ticket for the record $2.04 billion Powerball lottery jackpot was sold in Altadena, California, lottery officials said Tuesday, making the lucky ticket holder the winner of the largest… [+5003 chars]"
         },
         {
             "source": {
-                "id": "axios",
-                "name": "Axios"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Andrew Freedman",
-            "title": "Subtropical Storm Nicole poses wind, storm surge threat to Florida - Axios",
-            "description": "The storm will bring damaging winds, storm surge flooding and heavy rains to a large area.",
-            "url": "https://www.axios.com/2022/11/07/tropical-storm-nicole-to-strike-florida-storm-surge",
-            "urlToImage": "https://images.axios.com/v5RK_hgjXCAKMribFf3WjNWQNuw=/270x0:1920x928/1366x768/2022/11/07/1667841679511.png",
-            "publishedAt": "2022-11-08T06:40:22Z",
-            "content": "Subtropical Storm Nicole, currently spinning just over 400 miles from the Bahamas, is forecast to intensify and strike Florida at or near hurricane intensity midweek.\r\nWhy it matters: The storm's int… [+3543 chars]"
+            "author": "Jackie Wattles",
+            "title": "NASA's Artemis I mission delayed again as storm barrels toward launch site - CNN",
+            "description": "The NASA Space Launch System rocket is facing a battering from Tropical Storm Nicole, which is now expected to strengthen into a hurricane before it slams into Florida's East Coast.",
+            "url": "https://www.cnn.com/2022/11/08/world/nasa-artemis-i-sls-hurricane-tropical-storm-nicole-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221108135329-artemis-i-1106.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-08T23:28:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe Artemis I mission, which is expected to send an un… [+4847 chars]"
         },
         {
             "source": {
@@ -47,77 +73,51 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "China's COVID epicentre shifts to Guangzhou as outbreaks widen - Reuters",
-            "description": "New coronavirus cases surged in Guangzhou and other Chinese cities, official data showed on Tuesday, with the global manufacturing hub becoming China's latest COVID-19 epicentre and testing the city's ability to avoid a Shanghai-style lockdown.",
-            "url": "https://www.reuters.com/world/china/guangzhous-covid-outbreak-deepens-more-lockdowns-loom-china-2022-11-08/",
-            "urlToImage": "https://www.reuters.com/resizer/Kve2dIdhbPD3051QaEBhDqWIFJ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DHVCBNHSMNM2PABXXJEATECLM4.jpg",
-            "publishedAt": "2022-11-08T06:31:00Z",
-            "content": "BEIJING, Nov 8 (Reuters) - New coronavirus cases surged in Guangzhou and other Chinese cities, official data showed on Tuesday, with the global manufacturing hub becoming China's latest COVID-19 epic… [+4134 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Amy B Wang, Ben Brasch",
-            "title": "Nancy Pelosi says Capitol Police woke her to tell her about attack on husband - The Washington Post",
-            "description": "House Speaker Nancy Pelosi (D-Calif.) spoke about how frightened she was to learn of the assault on her husband, Paul, in her first televised interview since the attack.",
-            "url": "https://www.washingtonpost.com/politics/2022/11/07/nancy-paul-pelosi-attack-interview/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AOREOWFMQLMVMR35O3ZTLJMQPI.jpg&w=1440",
-            "publishedAt": "2022-11-08T05:57:00Z",
-            "content": "Comment on this story\r\nIn her first televised interview since a violent attack on her husband, House Speaker Nancy Pelosi (D-Calif.) broke her silence about how frightened she was to learn of the ass… [+3915 chars]"
+            "title": "Wall Street ends higher as investors eye U.S. midterms - Reuters",
+            "description": "Wall Street ended higher on Tuesday during voting in midterm elections that will determine control of the U.S. Congress, with investors betting on a political stalemate that could prevent major policy changes.",
+            "url": "https://www.reuters.com/markets/us/futures-edge-higher-with-focus-midterm-elections-2022-11-08/",
+            "urlToImage": "https://www.reuters.com/resizer/A6onzXutOdxz1VuYErQrEb5U6O4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KB3N2MCUSRIWNL6J3ZDLD4HSPQ.jpg",
+            "publishedAt": "2022-11-08T23:16:00Z",
+            "content": "Nov 8 (Reuters) - Wall Street ended higher on Tuesday during voting in midterm elections that will determine control of the U.S. Congress, with investors betting on a political stalemate that could p… [+3675 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NBCSports.com"
+                "name": "CNBC"
             },
-            "author": "Mike Florio",
-            "title": "Jeff Saturday plans to pick a playcaller on Monday night - NBC Sports",
-            "description": "Former Colts center Jeff Saturday officially was introduced as interim head coach of the team on Monday night.There’s a sentence I never dreamed I’d be typing tonight.Something else Saturday likely didn’t dream he’d be doing tonight is figuring out the identi…",
-            "url": "https://profootballtalk.nbcsports.com/2022/11/08/jeff-saturday-plans-to-pick-a-playcaller-on-monday-night/",
-            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/11/USATSI_19383472-e1667883257746.jpg",
-            "publishedAt": "2022-11-08T05:12:00Z",
-            "content": "Former Colts center Jeff Saturday officially was introduced as interim head coach of the team on Monday night.\r\nTheres a sentence I never dreamed Id be typing tonight.\r\nSomething else Saturday likely… [+2007 chars]"
+            "author": "Emma Kinery, Chelsey Cox, Kevin Breuninger",
+            "title": "Live updates — Midterm elections: Inflation and abortion are voters' top concerns, NBC exit poll finds - CNBC",
+            "description": "The midterm elections will determine whether Democrats keep their congressional majorities. The outcome could have an impact on President Joe Biden's agenda.",
+            "url": "https://www.cnbc.com/2022/11/08/midterm-elections-2022-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107148261-1667940021459-GettyImages-1440056607r.jpg?v=1667940146&w=1920&h=1080",
+            "publishedAt": "2022-11-08T22:31:00Z",
+            "content": "President Joe Biden, beset by a relatively low approval rating, has mostly avoided campaigning in states holding critical midterm election races. \r\nOn Monday, the day before the election, Biden parti… [+1714 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "13WMAZ.com"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Foxconn: iPhone maker bets on electric truck firm Lordstown Motors - BBC",
-            "description": "The Taiwanese technology giant says it will invest up to $170m in Ohio-based Lordstown Motors.",
-            "url": "https://www.bbc.com/news/business-63551439",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D291/production/_127550935_lmc_endurance_1.jpg",
-            "publishedAt": "2022-11-08T05:01:37Z",
-            "content": "Foxconn, which makes iPhones for Apple, says it is deepening its investment in a US electric pick-up truck firm, which could challenge Tesla's Cybertruck.\r\nThe technology giant is spending up to $170… [+2569 chars]"
+            "author": "Justin Baxley",
+            "title": "Live Map Results | Georgia governor's race - 13WMAZ.com",
+            "description": "See a breakdown of Georgia's votes and track the results as they come in with our interactive map.",
+            "url": "https://www.13wmaz.com/article/news/local/georgia-governor-election-2022-results/93-40a03267-c6d6-4c0f-9b45-58cfb85f135e",
+            "urlToImage": "https://media.13wmaz.com/assets/WXIA/images/cdaa5554-75c4-4d66-92c1-daad57c25cb2/cdaa5554-75c4-4d66-92c1-daad57c25cb2_1140x641.jpg",
+            "publishedAt": "2022-11-08T22:17:00Z",
+            "content": "MACON, Ga. The race for Georgia governor is one of the many key races in the midterm elections on Nov. 8. \r\nIncumbent Brian Kemp is facing a familiar challenger in Stacey Abrams and Libertarian candi… [+1648 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Nintendo Life"
+                "name": "AL.com"
             },
-            "author": "Liam Doolan",
-            "title": "Sonic Frontiers Offering Free Sonic Adventure 2 DLC To Newsletter Subscribers - Nintendo Life",
-            "description": "Score some fresh kicks",
-            "url": "https://www.nintendolife.com/news/2022/11/sonic-frontiers-offering-free-sonic-adventure-2-dlc-to-newsletter-subscribers",
-            "urlToImage": "https://images.nintendolife.com/162d11b442f4d/1280x720.jpg",
-            "publishedAt": "2022-11-08T04:47:43Z",
-            "content": "Image: SEGA\r\nUpdate [Tue 8th Nov, 2022 04:00 GMT]: Codes for the Sonic Adventure 2 shoes should be getting emailed out tomorrow - so be sure to check your inbox. This offer is available until 31st Ja… [+1675 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Tyler Olson, Brooke Singman",
-            "title": "Trump says he will make a 'big announcement' on November 15 - Fox News",
-            "description": "Former President Donald Trump attacked Democrats on immigration, crime and inflation as he teased what will likely be a 2024 presidential announcement.",
-            "url": "https://www.foxnews.com/politics/trump-teases-possible-presidential-announcement-november-15",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/04/2022-04-03T015331Z_1398817989_RC2CFT94VK58_RTRMADP_3_USA-TRUMP.jpg",
-            "publishedAt": "2022-11-08T04:29:41Z",
-            "content": "Former President Donald Trump on the eve of the midterm elections Monday teased a major announcement, which could be his decision on a 2024 presidential run. \r\n\"Two years ago we were a great nation, … [+4147 chars]"
+            "author": "Matt Wake | mwake@al.com",
+            "title": "Jeff Cook, cofounder of superstar country band Alabama, has died - AL.com",
+            "description": "Whether playing guitar, fiddle or singing backing vocals, Cook was a vital component of group",
+            "url": "https://www.al.com/life/2022/11/jeff-cook-cofounder-of-superstar-country-band-alabama-has-died.html",
+            "urlToImage": "https://www.al.com/resizer/skvmzR75bAH5xKGCpj0KqCWGOj4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/56KT6MWLBVDRRCJZ6O5SLITYVI.jpg",
+            "publishedAt": "2022-11-08T22:11:00Z",
+            "content": "In the early 70s, guitarist Jeff Cook started a band called Wildcountry with his cousins, and five years later the band changed their name to Alabama. Under that second appellation, the Fort Payne fo… [+5092 chars]"
         },
         {
             "source": {
@@ -125,77 +125,25 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Baltimore Ravens vs. New Orleans Saints | 2022 Week 9 Highlights - NFL",
-            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
-            "url": "https://www.youtube.com/watch?v=8m1lnGZmoHg",
-            "urlToImage": "https://i.ytimg.com/vi/8m1lnGZmoHg/maxresdefault.jpg",
-            "publishedAt": "2022-11-08T04:18:31Z",
+            "title": "Local doc on new study on Paxlovid - WCVB Channel 5 Boston",
+            "description": "Dr. Todd Ellerin of South Shore Health discusses new study about the results of using Paxlovid in high-risk patients.Subscribe to WCVB on YouTube now for mor...",
+            "url": "https://www.youtube.com/watch?v=2GDB0ks55nA",
+            "urlToImage": "https://i.ytimg.com/vi/2GDB0ks55nA/maxresdefault.jpg",
+            "publishedAt": "2022-11-08T22:08:21Z",
             "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "US midterms: Millions of Americans to vote with Congress at stake - BBC",
-            "description": "The elections could upend the balance of power in Washington and send Joe Biden's agenda into deep freeze.",
-            "url": "https://www.bbc.com/news/world-us-canada-63551469",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/93AD/production/_127550873_voters.jpg",
-            "publishedAt": "2022-11-08T03:29:20Z",
-            "content": "Millions of Americans will vote in the midterm elections on Tuesday, with the balance of power in Congress at stake.\r\nThe entire US House of Representatives, about a third of the Senate and key state… [+3740 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Deadline"
             },
-            "author": "Lynette Rice",
-            "title": "‘Dancing With The Stars’: Not One But Two Celebs Go Home On ’90s Night - Deadline",
-            "description": "It’s ’90s night and since we’re down to only eight teams, someone’s gotta help fill those two hours of programming. Welcome En Vogue and Salt N’ Pepa to the ballroom! It was a treat to watch Len Goodman groove out to your performance of “Whatta Man” at the to…",
-            "url": "https://deadline.com/2022/11/dancing-with-the-stars-90s-night-double-elimination-1235166296/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2022/11/dancing-with-the-stars-Heidi-DAmelio-and-Artem-Chigvintsev.jpg?w=1000",
-            "publishedAt": "2022-11-08T03:02:00Z",
-            "content": "It’s ’90s night and since we’re down to only eight teams, someone’s gotta help fill those two hours of programming. Welcome En Vogue and Salt N’ Pepa to the ballroom! It was a treat to watch Len Good… [+6553 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Natasha Bertrand, Kylie Atwood, Oren Liebermann",
-            "title": "US officials urge Ukraine to signal it is still open to diplomatic discussions with Russia - CNN",
-            "description": "Senior US officials have in recent weeks been urging Ukraine to signal that it is still open to diplomatic discussions with Russia, amid concerns that public support for the country's war effort could wane with no end to the conflict in sight and neither side…",
-            "url": "https://www.cnn.com/2022/11/07/politics/us-ukraine-diplomacy/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221014153845-01-zelensky-101422.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2022-11-08T03:00:00Z",
-            "content": "Senior US officials have in recent weeks been urging Ukraine to signal that it is still open to diplomatic discussions with Russia, amid concerns that public support for the countrys war effort could… [+6740 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ESPN"
-            },
-            "author": "Marcel Louis-Jacques",
-            "title": "Mike McDaniel asked Bears QB Justin Fields to stop running - ESPN",
-            "description": "Chicago Bears QB Justin Fields set a quarterback rushing record on Sunday, and Miami Dolphins coach Mike McDaniel decided to try an unconventional tactic to counter him.",
-            "url": "https://www.espn.com/nfl/story/_/id/34975152/mike-mcdaniel-asked-bears-qb-justin-fields-stop-running",
-            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1108%2Fr1087907_1296x729_16%2D9.jpg",
-            "publishedAt": "2022-11-08T02:55:11Z",
-            "content": "MIAMI -- As he watched Chicago Bears quarterback Justin Fields set an NFL record against his team's defense, Miami Dolphins coach Mike McDaniel figured he could try something unconventional to get hi… [+1195 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Mary Ilyushina, Annabelle Timsit",
-            "title": "Russia's heavy casualties in Ukraine spark outcry and rare official response - The Washington Post",
-            "description": "It was the first time since the start of Russia’s invasion that the ministry has officially responded to reports of mass casualties and criticism of commanders on Telegram.",
-            "url": "https://www.washingtonpost.com/world/2022/11/07/casualties-russia-outcry-vuhledar-svatove/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GEVQCAUW2M245HKMAJ6EKZBJRQ.jpg&w=1440",
-            "publishedAt": "2022-11-08T02:24:00Z",
-            "content": "Comment on this story\r\nRIGA, Latvia Steep Russian casualties in key battles in eastern Ukraine have prompted an unusual public outcry and sharp criticism of military commanders by surviving soldiers,… [+8380 chars]"
+            "author": "Anthony D'Alessandro",
+            "title": "‘Black Panther: Wakanda Forever’ Advance Ticket Sales At $45M, 20% Behind ‘Doctor Strange 2’ - Deadline",
+            "description": "Advance ticket sales through Sunday for Disney-Marvel Studios’ Black Panther: Wakanda Forever stand at $45M, about 20% behind Doctor Strange in the Multiverse of Madness at the same point in time and 40% ahead of Thor: Love & Thunder. Doctor Strange 2 before …",
+            "url": "https://deadline.com/2022/11/black-panther-wakanda-forever-box-office-advance-ticket-sales-1235167041/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/11/wakanda-forever-.jpg?w=1024",
+            "publishedAt": "2022-11-08T21:58:00Z",
+            "content": "Advance ticket sales through Sunday for Disney-Marvel Studios’ Black Panther: Wakanda Foreverstand at $45M, about 20% behind Doctor Strange in the Multiverse of Madness at the same point in time and … [+1184 chars]"
         },
         {
             "source": {
@@ -203,64 +151,116 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Human rights case overshadows start of COP27 climate change summit in Egypt - PBS NewsHour",
-            "description": "Global leaders are meeting at a pivotal conference in Egypt to discuss climate change, but human rights are overshadowing the beginning of the COP27 summit. ...",
-            "url": "https://www.youtube.com/watch?v=0AWGsQQZ6zI",
-            "urlToImage": "https://i.ytimg.com/vi/0AWGsQQZ6zI/maxresdefault.jpg",
-            "publishedAt": "2022-11-08T00:06:30Z",
+            "title": "Lindsay Lohan Remembers Aaron Carter (Exclusive) - Entertainment Tonight",
+            "description": "Lindsay Lohan opens up to ET about Aaron Carter, who died Saturday at 34. The actress and the singer dated when they were teenagers. Lohan also shares an upd...",
+            "url": "https://www.youtube.com/watch?v=tldKbUn35nE",
+            "urlToImage": "https://i.ytimg.com/vi/tldKbUn35nE/maxresdefault.jpg",
+            "publishedAt": "2022-11-08T21:52:09Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Law & Crime"
+                "name": "The Guardian"
             },
-            "author": "alberto-luperon",
-            "title": "Tyson Foods CFO Walked Intoxicated into Random Woman’s Home, Fell Asleep on Her Bed: Police - Law & Crime",
-            "description": "Police say a major executive of one of America's biggest companies walked intoxicated into a woman's home this weekend and fell asleep on her bed.",
-            "url": "https://lawandcrime.com/crime/tyson-foods-cfo-walked-intoxicated-into-random-womans-home-fell-asleep-on-her-bed-police/",
-            "urlToImage": "https://lawandcrime.com/wp-content/uploads/2022/11/John-R.-Tyson-via-Washington-County-Jail.jpg",
-            "publishedAt": "2022-11-08T00:06:00Z",
-            "content": "John R. Tyson\r\nPolice say a man walked intoxicated into a woman’s home this weekend and fell asleep on her bed and the suspect wasn’t just anybody, but a major executive of one of America’s biggest c… [+2002 chars]"
+            "author": "Alex Hern",
+            "title": "Binance to buy FTX in major cryptocurrency exchange merger - The Guardian",
+            "description": "Public squabble between the two largest offshore exchanges’ bosses led to run on FTX and forced sale",
+            "url": "https://www.theguardian.com/technology/2022/nov/08/binance-to-buy-ftx-in-major-cryptocurrency-exchange-merger",
+            "urlToImage": "https://i.guim.co.uk/img/media/6b8baec5763b0c05ace9e3cee5b82b4dace9337f/0_57_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b355eed9ece7b4603a1cda7cc4bfd34",
+            "publishedAt": "2022-11-08T21:49:00Z",
+            "content": "The two largest offshore cryptocurrency exchanges are merging, after a week of public squabbling between Binances chief executive, Changpeng Zhao, and FTXs boss, Sam Bankman-Fried, triggered a bank r… [+4153 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Page Six"
+                "name": "YouTube"
             },
-            "author": "Evan Real",
-            "title": "Lindsay Lohan reacts to ex-boyfriend Aaron Carter's death - Page Six",
-            "description": "“My heart goes out to his family and may he rest in peace,” said the actress, who dated the late pop star during their teen years.",
-            "url": "https://pagesix.com/2022/11/07/lindsay-lohan-reacts-to-ex-boyfriend-aaron-carters-death/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/11/lindsay-lohan-aaron-carter-death.jpg?quality=75&strip=all&w=1200",
-            "publishedAt": "2022-11-07T22:31:00Z",
-            "content": "Lindsay Lohan paid her respects to ex-boyfriend Aaron Carter, who died Saturday at age 34.\r\nMy heart goes out to his family and may he rest in peace, the Falling for Christmas star, 36, told Entertai… [+2360 chars]"
+            "author": null,
+            "title": "Watch LIVE: Maricopa County officials give update as voting machine problems reported. - AZFamily 3TV and CBS 5 News",
+            "description": "Maricopa County officials give update as voting machine problems reported.",
+            "url": "https://www.youtube.com/watch?v=s495N8Nldmw",
+            "urlToImage": "https://i.ytimg.com/vi/s495N8Nldmw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChLMA8=&rs=AOn4CLBpyI5i47uF30cjrAaNJ_IplGn4OA",
+            "publishedAt": "2022-11-08T21:34:54Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "MMA Fighting"
+                "name": "Consequence.net"
             },
-            "author": "Alexander K. Lee",
-            "title": "Israel Adesanya cried backstage after heavily criticized UFC 276 win: ‘It’s the expectations I put on myself’ - MMA Fighting",
-            "description": "Israel Adesanya wanted to put on a highlight-reel performance at UFC 276.",
-            "url": "https://www.mmafighting.com/2022/11/7/23445804/israel-adesanya-cried-backstage-heavily-criticized-ufc-276-win-its-the-expectations-i-put-on-myself",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/zDt7ps7_V3xmzPYNVnJRhQy3pLg=/0x399:3231x2091/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24176632/1406460818.jpg",
-            "publishedAt": "2022-11-07T22:30:00Z",
-            "content": "Israel Adesanya can relate to some of the disappointment that was felt with his most recent championship performance.\r\nThe Last Stylebender recorded his fifth straight defense of the undisputed UFC m… [+5436 chars]"
+            "author": "Paolo Ragusa",
+            "title": "Hozier on His New Song for God of War: Ragnarök, “Blood Upon the Snow”: Exclusive - Consequence",
+            "description": "Folk artist premieres his contribution to the game's OST, plus talks about working on his third album.",
+            "url": "https://consequence.net/2022/11/hozier-blood-upon-the-snow-god-of-war-interview/",
+            "urlToImage": "https://consequence.net/wp-content/uploads/2022/11/hozier-social.jpg?quality=80",
+            "publishedAt": "2022-11-08T21:32:00Z",
+            "content": "The hype has been building for God of War: Ragnarök (out November 9th on PlayStation 5 and PlayStation 4), the newest installment of the hit video game series. Not only is it the first new God of War… [+2867 chars]"
         },
         {
             "source": {
-                "id": "ign",
-                "name": "IGN"
+                "id": null,
+                "name": "The Weather Channel"
             },
-            "author": "Adam Bankhurst",
-            "title": "PSA: Pokémon Scarlet and Violet Spoilers Have Begun to Leak - IGN",
-            "description": "We have a warning for all of you trainers out there excited to go to the Paldea region — spoilers for Pokémon Scarlet and Violet have unfortunately begun to leak.",
-            "url": "https://www.ign.com/articles/psa-pokmon-scarlet-and-violet-spoilers-have-begun-to-leak",
-            "urlToImage": "https://assets-prd.ignimgs.com/2022/11/07/untitled-1-1662556816191-1667859365917.jpg?width=1280",
-            "publishedAt": "2022-11-07T22:25:54Z",
-            "content": "We have a warning for all of you trainers out there excited to go to the Paldea region spoilers for Pokémon Scarlet and Violet have unfortunately begun to leak.\r\nAs reported by VGC, the leaks arrive … [+1172 chars]"
+            "author": "The Weather Channel",
+            "title": "Evacuations Ordered For Thousands In Florida Ahead Of Tropical Storm Nicole - The Weather Channel",
+            "description": "With 34 Florida counties under a state of emergency ahead of Tropical Storm Nicole, residents in some vulnerable areas are being advised to evacuate. - Articles from The Weather Channel | weather.com",
+            "url": "https://weather.com/safety/hurricane/news/2022-11-07-florida-hurricane-nicole-emergency-preparations",
+            "urlToImage": "https://s.w-x.co/NicolePrepsBrevardFL9.8.22.png",
+            "publishedAt": "2022-11-08T21:28:07Z",
+            "content": "At a Glance\r\n<ul><li>Mandatory evacuations have been ordered in Palm Beach County.</li><li>Other areas are opening shelters.</li><li>Thirty-four counties are under a state of emergency.</li></ul>\r\nSi… [+6386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Disney Stock Falls On Earnings Miss But Disney+ Beats Estimates - Investor's Business Daily",
+            "description": "Disney+ subscriber growth beat forecasts, but the company's earnings and revenue missed forecasts",
+            "url": "https://www.investors.com/news/disney-earnings-disney-plus-subscribers/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2020/06/Stock-Disneyland-61-shutt.jpg",
+            "publishedAt": "2022-11-08T21:23:00Z",
+            "content": "Walt Disney (DIS) reported a decline in Q4 earnings Tuesday afternoon, ending the company's growth streak. The Dow Jones entertainment giant's earnings have steadily improved over the last six quarte… [+3574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Angela Giuffrida",
+            "title": "‘Exceptional’ trove of 24 ancient statues found immersed in Tuscan spa - The Guardian",
+            "description": "Collection of bronzes dating back 2,300 years sheds light on transition between Etruscans and Romans",
+            "url": "https://www.theguardian.com/world/2022/nov/08/exceptional-trove-of-24-ancient-statues-found-immersed-in-tuscan-spa",
+            "urlToImage": "https://i.guim.co.uk/img/media/63a2312a0e93d264e18bd2f8c93674036b8e9aad/96_0_2880_1728/master/2880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9f420b7994197b5e0bee1778f82937c",
+            "publishedAt": "2022-11-08T20:16:00Z",
+            "content": "An exceptional trove of bronze statues preserved for thousands of years by mud and boiling water have been discovered in a network of baths built by the Etruscans in Tuscany.\r\nThe 24 partly submerged… [+4678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KOMO News"
+            },
+            "author": "KOMO News Staff",
+            "title": "1 student injured in shooting at Ingraham High School in north Seattle, person in custody - KOMO News",
+            "description": "One person was injured in a shooting at Ingraham High School in north Seattle Tuesday morning.",
+            "url": "https://komonews.com/news/local/police-respond-to-report-of-school-shooting-in-north-seattle-ingraham-high-school-area",
+            "urlToImage": "https://komonews.com/resources/media/4103ecb7-35c2-4a67-9869-b9753dbb3768-large16x9_IngrahamHS.jpg?1667938508348",
+            "publishedAt": "2022-11-08T20:11:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Microsoft November 2022 Patch Tuesday fixes 6 exploited zero-days, 68 flaws - BleepingComputer",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbWljcm9zb2Z0L21pY3Jvc29mdC1ub3ZlbWJlci0yMDIyLXBhdGNoLXR1ZXNkYXktZml4ZXMtNi1leHBsb2l0ZWQtemVyby1kYXlzLTY4LWZsYXdzL9IBf2h0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbWljcm9zb2Z0L21pY3Jvc29mdC1ub3ZlbWJlci0yMDIyLXBhdGNoLXR1ZXNkYXktZml4ZXMtNi1leHBsb2l0ZWQtemVyby1kYXlzLTY4LWZsYXdzL2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-08T18:39:42Z",
+            "content": null
         }
     ]
 }
