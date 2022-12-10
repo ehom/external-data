@@ -4,16 +4,107 @@
     "articles": [
         {
             "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Le Qatar soupçonné de corruption : une vice-présidente du Parlement européen interpellée en Belgique - Le Figaro",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMikQFodHRwczovL3d3dy5sZWZpZ2Fyby5mci9pbnRlcm5hdGlvbmFsL2xlLXFhdGFyLXNvdXBjb25uZS1kZS1jb3JydXB0aW9uLXVuZS12aWNlLXByZXNpZGVudGUtZHUtcGFybGVtZW50LWV1cm9wZWVuLWludGVycGVsbGVlLWVuLWJlbGdpcXVlLTIwMjIxMjA50gGRAWh0dHBzOi8vYW1wLmxlZmlnYXJvLmZyL2ludGVybmF0aW9uYWwvbGUtcWF0YXItc291cGNvbm5lLWRlLWNvcnJ1cHRpb24tdW5lLXZpY2UtcHJlc2lkZW50ZS1kdS1wYXJsZW1lbnQtZXVyb3BlZW4taW50ZXJwZWxsZWUtZW4tYmVsZ2lxdWUtMjAyMjEyMDk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-09T21:17:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "beIN SPORTS"
+            },
+            "author": null,
+            "title": "Messi et Molina rendent fou Omar da Fonseca - beIN SPORTS",
+            "description": "A la pause, l'Argentine mène 1-0 face aux Pays-Bas grâce à un but de Nahuel Molina sur une passe décisive de... Lionel Messi ! Un but qui a rendu fou Omar da Fonseca.",
+            "url": "https://www.beinsports.com/france/fifa-coupe-du-monde-2022/video/messi-et-molina-rendent-fou-omar-da-fonseca/2002883",
+            "urlToImage": "https://images.beinsports.com/rpceMTZ4Z-8YjdLBWHtpHGwKKqQ=/670x424/smart/filters:watermark(https://assets.beinsports.com/picto-play.png,285,162,0)/4541640-PANORAMIC_250708_0295.jpg",
+            "publishedAt": "2022-12-09T20:07:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.fr"
+            },
+            "author": "Martin Mosnier",
+            "title": "COUPE DU MONDE 2022 | France - Angleterre - Quelle équipe face aux Anglais ? Deschamps ne touche à rien - Eurosport FR",
+            "description": "COUPE DU MONDE - Selon L'Equipe, Didier Deschamps ne devrait absolument rien changer pour affronter l'Angleterre ce samedi en quart de finale.",
+            "url": "https://www.eurosport.fr/football/coupe-du-monde/2022/coupe-du-monde-2022-france-angleterre-quelle-equipe-face-aux-anglais-deschamps-ne-touche-a-rien_sto9265645/story.shtml",
+            "urlToImage": "https://i.eurosport.com/2022/11/26/3497908-71305328-2560-1440.jpg",
+            "publishedAt": "2022-12-09T19:39:00Z",
+            "content": "Kylian Mbappé avec ses coéquipiers lors de la victoire des Bleus face au Danemark\r\nCrédit: Getty Images"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "20 Minutes"
+            },
+            "author": "Cécile De Sèze",
+            "title": "Guerre en Ukraine : Vladimir Poutine « ouvert » à un « accord », Brittney Griner de retour à la maison - 20 Minutes",
+            "description": "« 20 Minutes » fait le point pour vous tous les soirs sur l’avancée du conflit en Ukraine",
+            "url": "https://www.20minutes.fr/monde/ukraine/4014182-20221209-guerre-ukraine-vladimir-poutine-ouvert-accord-brittney-griner-retour-maison",
+            "urlToImage": "https://img.20mn.fr/fCuGMQcPRn2FnHwyagQSzik/1200x768_le-president-russe-vladimir-poutine-quitte-la-salle-apres-une-conference-de-presse-a-l-issue-du-sommet-de-l-union-economique-eurasienne-uee-a-bichkek-au-kirghizstan",
+            "publishedAt": "2022-12-09T18:43:20Z",
+            "content": "Vous avez raté les derniers événements sur la guerre en Ukraine ? Pas de panique, 20 Minutes fait le point pour vous tous les soirs, à 19h30. Qui a fait quoi ? Qui a dit quoi ? Où en sommes-nous ? La… [+3993 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Le Monde",
+            "title": "Les préservatifs seront également gratuits pour les mineurs, annonce Emmanuel Macron - Le Monde",
+            "description": "Jeudi, le président de la République avait déclaré que les 18-25 ans pourraient, dès 2023, s’en procurer gratuitement en pharmacie, sans ordonnance.",
+            "url": "https://www.lemonde.fr/sante/article/2022/12/09/les-preservatifs-seront-egalement-gratuits-pour-les-mineurs-a-partir-du-1er-janvier-annonce-emmanuel-macron_6153747_1651302.html",
+            "urlToImage": "https://img.lemde.fr/2022/12/09/12/0/5532/3688/1440/960/60/0/2774a24_1670613279768-000-8w97jc.jpg",
+            "publishedAt": "2022-12-09T18:32:06Z",
+            "content": "La gratuité du préservatif en pharmacie sera étendue aux mineurs, a précisé vendredi 9 décembre, Emmanuel Macron, qui avait annoncé la veille le lancement de cette mesure pour les 18-25 ans à partir … [+2539 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": "Julia Sereni",
+            "title": "Interpellations de militants de Corsica Libera : Charles Pieri mis en examen et incarcéré - France 3 Régions",
+            "description": "Charles Pieri, ancien cadre de Corsica Libera et ex-leader présumé du FLNC, a été placé en détention ce vendredi soir. Six autres militants du parti indépendantiste, dont trois membres de l'exécutif, ont été mis en examen...",
+            "url": "https://france3-regions.francetvinfo.fr/corse/corsica-libera-tous-les-militants-interpelles-lundi-presentes-au-juge-d-instruction-2671880.html",
+            "urlToImage": "https://france3-regions.francetvinfo.fr/image/8C5AEq4Kd3j0tH0Iv-twzi1OpEc/930x620/regions/2020/06/09/5edf4e80d455d_000_yp2c3-3508589.jpg",
+            "publishedAt": "2022-12-09T18:25:49Z",
+            "content": "Charles Pieri, ancien cadre de Corsica Libera et ex-leader présumé du FLNC, a été placé en détention ce vendredi soir. Six autres militants du parti indépendantiste, dont trois membres de l'exécutif,… [+2325 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "BFMTV"
             },
             "author": null,
-            "title": "EN DIRECT - France-Angleterre, J-1: Deschamps s'attend à un plan anti-Mbappé des Anglais - RMC Sport",
-            "description": "L'équipe de France a rendez-vous face à l'Angleterre, ce samedi (20h) en quart de finale de la Coupe du monde 2022 au Qatar. Suivez les dernières infos et déclarations en direct.",
-            "url": "https://rmcsport.bfmtv.com/football/equipe-de-france/en-direct-coupe-du-monde-toutes-les-infos-sur-france-angleterre_LN-202212080150.html",
-            "urlToImage": "https://images.bfmtv.com/_RF5uUoIph77IKRVAe3MyL_6Sp0=/132x206:2036x1277/images/Deschamps-1527786.jpg",
-            "publishedAt": "2022-12-09T09:48:39Z",
-            "content": "Deschamps: \"Un quart de finale c'est magnifique, mais il faut le jouer\"\r\n\"Plus on avance, plus la qualité est supérieure. Les exigences aussi. L'excitation prend aussi plus de place. Beaucoup, certai… [+29353 chars]"
+            "title": "EN DIRECT - Croatie-Brésil: les Brésiliens éliminés du Mondial, la détresse de Neymar et Thiago Silva - RMC Sport",
+            "description": "Nouvelle sensation dans cette Coupe du monde avec l'élimination du Brésil dès les quarts de finale. Après avoir été poussé en prolongation et pensé avoir fait la différence par un but de Neymar, qui a égalé Pelé, la Seleçao prend la porte à l'issue d'une séan…",
+            "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/en-direct-coupe-du-monde-suivez-bresil-croatie-en-live_LS-202212090161.html",
+            "urlToImage": "https://images.bfmtv.com/bUEQDVeU1A8KpjsLIdbVL29ncTg=/0x106:2048x1258/images/Neymar-et-Rodrygo-effondre-sur-la-pelouse-apres-l-elimination-du-Bresil-Coupe-du-monde-2022-1537628.jpg",
+            "publishedAt": "2022-12-09T18:21:14Z",
+            "content": "Sacrée opposition de style pour ce premier quart de finale de la Coupe du monde 2022, ce vendredi à Doha. D'un côté le flamboyant Brésil, qui a explosé la Corée du Sud en une seule mi-temps en huitiè… [+880 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "jeuxvideo.com"
+            },
+            "author": "Jinxeb",
+            "title": "Elden Ring : le GOTY 2022 s’est fait détrôner et ce n’était pas durant les Game Awards, voici le titre qui lui fait du tort ! - jeuxvideo.com",
+            "description": "Durant la nuit qui s’est écoulée, la cérémonie annuelle des Game Awards a enfin rendu son verdict sur le fameux « jeu de l’année » ou « GOTY ». Entre les concurrents en lice pour ce titre, la compétition fut rude mais, comme on s’y attendait depuis de nombreu…",
+            "url": "https://www.jeuxvideo.com/news/1683406/elden-ring-le-goty-2022-s-est-fait-detroner-et-ce-n-etait-pas-durant-les-game-awards-voici-le-titre-qui-lui-fait-du-tort.htm",
+            "urlToImage": "https://image.jeuxvideo.com/medias-md/167061/1670608494-231-card.jpg",
+            "publishedAt": "2022-12-09T18:13:54Z",
+            "content": "Durant la nuit qui sest écoulée, la cérémonie annuelle des Game Awards a enfin rendu son verdict sur le fameux « jeu de lannée » ou « GOTY ». Entre les concurrents en lice pour ce titre, la compétiti… [+3783 chars]"
         },
         {
             "source": {
@@ -21,233 +112,12 @@
                 "name": "Francetvinfo.fr"
             },
             "author": null,
-            "title": "Russie : un vaste incendie dans un centre commercial de la banlieue de Moscou fait un mort - franceinfo",
-            "description": "\"Le feu à ciel ouvert a été maîtrisé\", a précisé le ministère des Situations d'urgence dans un communiqué vendredi matin, précisant que 130 pompiers étaient déployés dans \"des conditions de hautes températures et de fumées denses\" pour finir d'éteindre l'ince…",
-            "url": "https://www.francetvinfo.fr/monde/russie/russie-les-services-d-urgence-luttent-contre-un-vaste-incendie-en-banlieue-de-moscou_5534028.html",
-            "urlToImage": "https://www.francetvinfo.fr/pictures/qEEPTwa9f8nbx9p4vUDU4Seqp1M/1500x843/2022/12/09/6392cf4854580_khimchi-russie.jpg",
-            "publishedAt": "2022-12-09T09:43:14Z",
-            "content": "Un vaste incendie s'étalant sur une superficie de 7 000 m2 a ravagé pendant la nuit du jeudi 8 au vendredi 9 décembre un centre commercial de Khimki (Russie), en banlieue de Moscou, tuant un vigile, … [+1755 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boursorama"
-            },
-            "author": null,
-            "title": "Rebond en vue en Europe pour la dernière séance de la semaine - Boursorama",
-            "description": "par Claude Chendjou\n\n\n PARIS (Reuters) -     Les principales Bourses européennes sont attendues en hausse vendredi dans le sillage de Wall Street et des places asiatiques mais la dernière séance de la semaine devrait rester prudente à l'image des précédentes …",
-            "url": "https://www.boursorama.com/bourse/actualites/rebond-en-vue-en-europe-pour-la-derniere-seance-de-la-semaine-858bbb26d7e1c3a953b03502abf21372",
-            "urlToImage": "https://s.brsimg.com/static-000/cache/i/content/images/5/3/4/5348cd0ecb50a2252d6c6c301b5ebfaa-1200x800.jpg",
-            "publishedAt": "2022-12-09T09:39:00Z",
-            "content": "Un trader travaille en salle des marchés à Londres\r\npar Claude Chendjou\r\nPARIS (Reuters) - Les principales Bourses européennes sont attendues en hausse vendredi dans le sillage de Wall Street et des … [+3901 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Foot Mercato"
-            },
-            "author": "Antoine Grasland",
-            "title": "La solution originale de l'Angleterre pour stopper Kylian Mbappé, David Alaba mêlé à une affaire terroriste - Foot Mercato",
-            "description": "L'Angleterre veut tout tenter pour arrêter Kylian Mbappé, David Alaba voit une sombre histoire toucher sa famille et l'Espagne s'enflamme pour son nouveau sélectionneur, retrouvez dans votre revue de presse Foot Mercato les dernières informations de la presse…",
-            "url": "https://www.footmercato.net/a4522930874301767004-la-solution-originale-de-langleterre-pour-stopper-kylian-mbappe-david-alaba-mele-dans-une-affaire-terroriste",
-            "urlToImage": "https://assets-fr.imgfoot.com/media/cache/1200x675/photo-rvp-6392fbbc202d1.jpg",
-            "publishedAt": "2022-12-09T09:08:16Z",
-            "content": "La suite après cette publicité\r\nLe plan anti-Mbappé se précise pour les Anglais\r\nIl est temps de se projeter sur le quart de finale de la Coupe du Monde qui opposera l'Angleterre à la France, samedi … [+2884 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BFMTV"
-            },
-            "author": null,
-            "title": "Le taux du livret A va encore augmenter en février 2023 - BFM Patrimoine",
-            "description": "Le gouverneur de la Banque de France a annoncé que le taux du livret A serait à nouveau relevé au début du mois de février.",
-            "url": "https://www.bfmtv.com/economie/patrimoine/placements-epargne/le-taux-du-livret-a-va-encore-augmenter-en-fevrier-2023_AV-202212090229.html",
-            "urlToImage": "https://images.bfmtv.com/nnAvYr9bVXsrexP9Ih6dyGfmfBA=/0x57:768x489/768x0/images/Le-taux-du-livret-A-augmentera-en-janvier-selon-le-ministre-de-l-Economie-Bruno-Le-Maire-1187382.jpg",
-            "publishedAt": "2022-12-09T08:31:37Z",
-            "content": "Le gouverneur de la Banque de France a annoncé que le taux du livret A serait à nouveau relevé au début du mois de février.\r\nNouveau relèvement attendu pour le livret A l'année prochaine. Après avoir… [+1335 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "LaDepeche.fr"
-            },
-            "author": "V.G",
-            "title": "Covid-19 : \"Il va y avoir une hausse des morts\", alerte le ministre de la Santé, qui appelle à la vaccination - LaDepeche.fr",
-            "description": "Invité de BFMTV ce vendredi 9 décembre, le ministre de la Santé François Braun a alerté sur la forte reprise épidémique du Covid-19 et a appelé \"les personnes fragiles\" à se faire vacciner.",
-            "url": "https://www.ladepeche.fr/2022/12/09/covid-19-il-va-y-avoir-une-hausse-des-morts-alerte-francois-braun-qui-appelle-a-la-vaccination-des-plus-fragiles-10857254.php",
-            "urlToImage": "https://images.ladepeche.fr/api/v1/images/view/6392ec678931df3bb935adf8/large/image.jpg?v=1",
-            "publishedAt": "2022-12-09T08:12:00Z",
-            "content": "l'essentiel\r\n Invité de BFMTV ce vendredi 9 décembre, le ministre de la Santé François Braun a alerté sur la forte reprise épidémique du Covid-19 et a appelé \"les personnes fragiles\" à se faire vacci… [+1137 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNEWS.fr"
-            },
-            "author": "CNEWS",
-            "title": "Infection à streptocoque : voici les symptômes qui doivent vous alerter - CNEWS",
-            "description": "Les autorités sanitaires appellent à la vigilance après la recrudescence d'infections invasives à streptocoque de groupe A. Deux enfants et un adulte ont perdu la vie à la suite de complications liées aux bactéries. Voici les symptômes qui doivent vous alerte…",
-            "url": "https://www.cnews.fr/sante/2022-12-09/infection-streptocoque-voici-les-symptomes-qui-doivent-vous-alerter-1298094",
-            "urlToImage": "https://static.cnews.fr/sites/default/files/streptococcus_pyogenes-taille1200_6390a3ae75e4c.jpg",
-            "publishedAt": "2022-12-09T07:45:00Z",
-            "content": "Publié le\r\n09/12/2022 à 07:45 -\r\nMis à jour le\r\n09/12/2022 à 07:45\r\nLes autorités sanitaires appellent à la vigilance après la recrudescence d'infections invasives à streptocoque de groupe A. Deux en… [+2360 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "20 Minutes"
-            },
-            "author": "Suzana Nevenkic",
-            "title": "Fin de vie : « Je veux mourir dans mon pays », l’appel de Katherine, atteinte de la maladie de Charcot à… - 20 Minutes",
-            "description": "Avant le début de la convention citoyenne sur la fin de vie, Katherine Icardi-Lazareff lance un appel au président de la République et demande de pouvoir mourir chez elle et dans la dignité.",
-            "url": "https://www.20minutes.fr/societe/4012992-20221209-fin-vie-veux-mourir-pays-appel-katherine-atteinte-maladie-charcot-emmanuel-macron",
-            "urlToImage": "https://img.20mn.fr/E4pYM1KPRfCzdGtPg4jpqSk/1200x768_katherine-icardi-lazareff-septembre-2022",
-            "publishedAt": "2022-12-09T07:32:37Z",
-            "content": "A partir du 9 décembre, la convention sur la fin de vie commencera ses travaux. Près de 150 citoyens français, tirés au sort, devront répondre à une question : « Le cadre d’accompagnement de fin de v… [+3368 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Orange.fr"
-            },
-            "author": "https://www.facebook.com/orangeactufr",
-            "title": "La croissance sera \"probablement faiblement positive\" en 2023, selon la Banque de France - Actu Orange",
-            "description": "Le gouverneur de la Banque de France François Villeroy de Galhau a dit vendredi s'attendre à une croissance \"probablement faiblement positive\" en 2023, après une année 2022 où elle devrait atteindre 2,6%.",
-            "url": "https://actu.orange.fr/economie/la-croissance-sera-amp-quot-probablement-faiblement-positive-amp-quot-en-2023-selon-la-banque-de-france-CNT000001VJsxn.html",
-            "urlToImage": "http://media1.woopic.com/api/v1/images/661%2Factu%2Fafp-news%2Ffb8%2Fab6%2Ffc48d492fdc577418dd5ace950%2Fla-croissance-sera-probablement-faiblement-positive-en-2023-selon-la-banque-de-france%7C000_32NJ7C8-highDef.jpg?format=470x264&facedetect=1&quality=85",
-            "publishedAt": "2022-12-09T07:28:23Z",
-            "content": "AFP, publié le vendredi 09 décembre 2022 à 08h28\r\nLe gouverneur de la Banque de France François Villeroy de Galhau a dit vendredi s'attendre à une croissance \"probablement faiblement positive\" en 202… [+1376 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lyonmag.com"
-            },
-            "author": "Lyon Mag Team",
-            "title": "Coups de cœur, déceptions, pluie : on était à la première soirée de la Fête des Lumières de Lyon (PHOTOS) - Lyon Mag",
-            "description": "Le coup d&rsquo;envoi de l&rsquo;&eacute;v&egrave;nement a &eacute;t&eacute; donn&eacute; ce jeudi soir dans un froid glacial.",
-            "url": "https://www.lyonmag.com/article/127343/coups-de-coeur-deceptions-pluie-on-etait-a-la-premiere-soiree-de-la-fete-des-lumieres-de-lyon-photos",
-            "urlToImage": "https://www.lyonmag.com/media/images/6392e2ead04d3-fdl5.jpg",
-            "publishedAt": "2022-12-09T07:24:00Z",
-            "content": "Une édition absolument naze. Place des Jacobins : nul. Place des Célestins : nul. Place de la République : nul. Place de la Bourse : nul. Place Bellecour : nul. Place Pradel : nul. Quai des Célestins… [+551 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Midi Libre"
-            },
-            "author": "midi libre avec afp",
-            "title": "Les images surréalistes de l'échange de prisonniers entre l'américaine Brittney Griner et un marchand d'armes - Midi Libre",
-            "description": "La star américaine du basket Brittney Griner est rentrée jeudi aux Etats-Unis après avoir été libérée d'une prison russe en échange d'un marchand d'armes surnommé le \"marchand de mort\", Viktor Bout.",
-            "url": "https://www.midilibre.fr/2022/12/09/les-images-surrealistes-de-lechange-de-prisonniers-entre-lamericaine-brittney-griner-et-un-marchand-darmes-russe-10857131.php",
-            "urlToImage": "https://images.midilibre.fr/api/v1/images/view/6392df79b269c71cac39fcaa/large/image.png?v=1",
-            "publishedAt": "2022-12-09T07:21:00Z",
-            "content": "La star américaine du basket Brittney Griner est rentrée jeudi aux Etats-Unis après avoir été libérée d'une prison russe en échange d'un marchand d'armes surnommé le \"marchand de mort\", Viktor Bout.\r… [+5484 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BFMTV"
-            },
-            "author": null,
-            "title": "\"Arrêtez ce cirque!\": la presse britannique s'enflamme contre le documentaire Netflix de Meghan et Harry - BFMTV",
-            "description": "Au lendemain de la première diffusion de la série de Harry et Meghan sur Netflix, les journaux britanniques s'enflamment et dénoncent notamment la critique du couple à l'égard de la presse.",
-            "url": "https://www.bfmtv.com/people/tetes-couronnees/arretez-ce-cirque-la-presse-britannique-s-enflamme-contre-le-documentaire-netflix-de-meghan-et-harry_AN-202212090139.html",
-            "urlToImage": "https://images.bfmtv.com/fb149cPp2GkYmaO-Uopcmbr3Smk=/0x165:1600x1065/1600x0/images/Harry-Meghan-1537002.jpg",
-            "publishedAt": "2022-12-09T07:17:00Z",
-            "content": "Au lendemain de la première diffusion de la série de Harry et Meghan sur Netflix, les journaux britanniques s'enflamment et dénoncent notamment la critique du couple à l'égard de la presse.\r\nAu lende… [+2593 chars]"
-        },
-        {
-            "source": {
-                "id": "lequipe",
-                "name": "L'equipe"
-            },
-            "author": "Rédaction",
-            "title": "Pays-Bas - Argentine, un classique en Coupe du monde - L'Équipe",
-            "description": "Avant leur quart de finale ce vendredi (20 heures), l'Argentine et les Pays-Bas se sont déjà rencontrés cinq fois en Coupe du monde. Retour sur des confrontations devenues un classique de la compétition.",
-            "url": "https://www.lequipe.fr/Football/Actualites/Pays-bas-argentine-un-classique-en-coupe-du-monde/1368612",
-            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/memphis-depay-et-lionel-messi-se-retrouvent-ce-vendredi-soir-pour-le-sixieme-pays-bas-argentine-de-l/1500000001720594/24:90,1479:1060-640-427-75/32fa7.jpg",
-            "publishedAt": "2022-12-09T07:15:00Z",
-            "content": "« C'est un classique du football. » Pour Sjoerd Mossou, journaliste néerlandais pour le média local AD, ce n'est jamais anodin quand les Pays-Bas croisent la route de l'Argentine en Coupe du monde. A… [+4766 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "L'Indépendant"
-            },
-            "author": "Hugo Martin",
-            "title": "Neige et verglas : un deuxième département placé en alerte orange ce vendredi - L'Indépendant",
-            "description": "Météo France a placé deux départements en vigilance orange pour neige et verglas.",
-            "url": "https://www.lindependant.fr/2022/12/09/neige-et-verglas-un-departement-place-en-alerte-orange-ce-vendredi-10857104.php",
-            "urlToImage": "https://images.lindependant.fr/api/v1/images/view/6392d5ce7d7c954b4a5b38a8/large/image.jpg?v=1",
-            "publishedAt": "2022-12-09T06:31:00Z",
-            "content": "Météo France a placé deux départements en vigilance orange pour neige et verglas. \r\n Il neige en Haute-Savoie et dans l'Ain. Ce vendredi, à 8h30, Météo France a placé un nouveau département en alerte… [+1063 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Public"
-            },
-            "author": "Public",
-            "title": "\"Enorme\" : cette blague de Booder sur Louis Boyard qui fait l'unanimité sur la toile - Public",
-            "description": "Les fans de Cyril Hanouna et d’humour étaient comblés ce jeudi 8 décembre 2022. Juste après \"Touche pas à mon poste, la chaîne C8 diffusait un nouveau numéro du programme \"La Grosse Rigolade\", une émission animée par Cyril Hanouna et où les invités racontent …",
-            "url": "https://www.public.fr/News/Enorme-cette-blague-de-Booder-sur-Louis-Boyard-qui-fait-l-unanimite-sur-la-toile-1754137",
-            "urlToImage": "https://resize-public.ladmedia.fr/img/var/public/storage/images/news/enorme-cette-blague-de-booder-sur-louis-boyard-qui-fait-l-unanimite-sur-la-toile-1754137/47224049-1-fre-FR/Enorme-cette-blague-de-Booder-sur-Louis-Boyard-qui-fait-l-unanimite-sur-la-toile.jpg",
-            "publishedAt": "2022-12-09T06:30:00Z",
-            "content": "Les fans de Cyril Hanouna et dhumour étaient comblés ce jeudi 8 décembre 2022. Juste après \"Touche pas à mon poste, la chaîne C8 diffusait un nouveau numéro du programme \"La Grosse Rigolade\", une émi… [+1908 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNEWS.fr"
-            },
-            "author": "CNEWS",
-            "title": "Coupures d'électricité : tout savoir sur le test de grande ampleur opéré par Enedis aujourd'hui - CNEWS",
-            "description": "Enedis et le gestionnaire du réseau électrique RTE organisent aujourd'hui, vendredi 9 décembre, un exercice de grande ampleur. Voici tout ce qu'il faut savoir sur ce test censé anticiper les risques de coupures de courant cet hiver.",
-            "url": "https://www.cnews.fr/france/2022-12-09/coupures-delectricite-tout-savoir-sur-le-test-de-grande-ampleur-opere-par-enedis",
-            "urlToImage": "https://static.cnews.fr/sites/default/files/000_32qj479-taille1200_6390adc67629b.jpg",
-            "publishedAt": "2022-12-09T06:01:09Z",
-            "content": "Publié le\r\n09/12/2022 à 06:01 -\r\nMis à jour le\r\n09/12/2022 à 06:02\r\nEnedis et le gestionnaire du réseau électrique RTE organisent aujourd'hui, vendredi 9 décembre, un exercice de grande ampleur. Voic… [+1784 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "LaDepeche.fr"
-            },
-            "author": "De notre correspondante à Berlin Emmanuelle Chaze",
-            "title": "Allemagne : comment un projet de coup d’Etat d'extrême-droite, qui voulait porter un prince au pouvoir, a été - LaDepeche.fr",
-            "description": "Mercredi, 25 personnes impliquées dans une tentative de coup d’Etat ont été arrêtées. Parmi elles, un prince et un ancien commandant militaire soupçonnés d'avoir planifié une invasion violente du Bundestag allemand.",
-            "url": "https://www.ladepeche.fr/2022/12/09/allemagne-un-projet-de-coup-detat-qui-voulait-porter-un-prince-au-pouvoir-dejoue-10856198.php",
-            "urlToImage": "https://images.ladepeche.fr/api/v1/images/view/63925acdcb65207deb088fb8/large/image.jpg?v=1",
-            "publishedAt": "2022-12-09T06:01:00Z",
-            "content": "l'essentiel\r\n Mercredi, 25 personnes impliquées dans une tentative de coup d’Etat ont été arrêtées. Parmi elles, un prince et un ancien commandant militaire soupçonnés d'avoir planifié une invasion v… [+3653 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Midi Libre"
-            },
-            "author": "Théo Ruiz",
-            "title": "Game Awards : \"Stray\" récompensé, l'un des meilleurs jeux vidéo de l'année est montpelliérain ! - Midi Libre",
-            "description": "L'équivalent des Oscars pour les jeux vidéo vient de récompenser le titre \"Stray\" du studio montpelliérain Blue Twelve, une consécration internationale pour les développeurs.",
-            "url": "https://www.midilibre.fr/2022/12/09/game-awards-stray-recompense-lun-des-meilleurs-jeux-video-de-lannee-est-montpellierain-10857074.php",
-            "urlToImage": "https://images.midilibre.fr/api/v1/images/view/6392c8d3494ffb52ea619e19/large/image.jpg?v=1",
-            "publishedAt": "2022-12-09T05:39:00Z",
-            "content": "L'équivalent des Oscars pour les jeux vidéo vient de récompenser le titre \"Stray\" du studio montpelliérain Blue Twelve, une consécration internationale pour les développeurs.\r\n C'est un véritable exp… [+3218 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sud Ouest"
-            },
-            "author": "SudOuest.fr avec AFP",
-            "title": "Vidéos. Une coupure d’électricité massive plonge temporairement Paris dans le noir - Sud Ouest",
-            "description": "La panne a affecté environ 120 000 clients. Un « incident technique sur un transformateur d’Enedis » a entraîné la coupure d’une « radiale », ligne à haute tension enterrée de 225 000 volts, explique RTE. La plupart des foyers ont été rétablis vers minuit",
-            "url": "https://www.sudouest.fr/economie/energie/videos-une-coupure-d-electricite-massive-plonge-temporairement-paris-dans-le-noir-13307747.php",
-            "urlToImage": "https://media.sudouest.fr/13307747/1200x-1/eiffel-tower-at-night-1490988023xwg.jpg",
-            "publishedAt": "2022-12-09T05:35:48Z",
-            "content": "Des images publiées sur les réseaux sociaux par des Parisiens stupéfaits montraient des rues aux lampadaires, feux rouges et immeubles complètement éteints, les phares des voitures étant parfois la s… [+1226 chars]"
+            "title": "Le Conseil Etat annule le décret d'application sur l'interdiction des emballages plastiques autour de certains fruits et légumes - franceinfo",
+            "description": "La plus haute instance administrative a jugé \"illégal\" le décret d'application, en raison d'un calendrier qui fixait les tolérances d'emballages plastiques. Elle demande à demande à l'Etat d'écrire un nouveau",
+            "url": "https://www.francetvinfo.fr/monde/environnement/emballages-plastiques-pour-fruits-et-legumes-le-conseil-d-etat-contraint-l-etat-a-revoir-sa-copie_5534955.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/OrODMj_N4f8i8V9Kr-4NYe1YQT0/1500x843/2022/12/09/6393777a0e026_080-hl-nguyonnet-1622838.jpg",
+            "publishedAt": "2022-12-09T18:08:06Z",
+            "content": "Cette décision intervient moins d'un an après l'entrée en vigueur de l'interdiction des emballages plastiques autour de certains fruits et légumes. Suivant les recommandations de la rapporteuse, le C… [+1994 chars]"
         },
         {
             "source": {
@@ -255,11 +125,141 @@
                 "name": "Google News"
             },
             "author": null,
-            "title": "Japon, Royaume-Uni, Italie vont développer un avion de combat de nouvelle génération - Le Figaro",
+            "title": "TÉMOIGNAGE. L'institutrice à la rue secourue par son ancien élève : « Ce soir, je dors au chaud » - Ouest-France",
             "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMifWh0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL2ZsYXNoLWVjby9qYXBvbi1yb3lhdW1lLXVuaS1pdGFsaWUtdm9udC1kZXZlbG9wcGVyLXVuLWF2aW9uLWRlLWNvbWJhdC1kZS1ub3V2ZWxsZS1nZW5lcmF0aW9uLTIwMjIxMjA50gF9aHR0cHM6Ly9hbXAubGVmaWdhcm8uZnIvZmxhc2gtZWNvL2phcG9uLXJveWF1bWUtdW5pLWl0YWxpZS12b250LWRldmVsb3BwZXItdW4tYXZpb24tZGUtY29tYmF0LWRlLW5vdXZlbGxlLWdlbmVyYXRpb24tMjAyMjEyMDk?oc=5",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMirQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvc29jaWV0ZS9wYXV2cmV0ZS90ZW1vaWduYWdlLXVuZS1pbnN0aXR1dHJpY2UtYS1sYS1ydWUtc2Vjb3VydWUtcGFyLXNvbi1hbmNpZW4tZWxldmUtY2Utc29pci1qZS1kb3JzLWF1LWNoYXVkLWQ5Y2IzZmJlLTc3ZTYtMTFlZC05ZWM0LTIyZDYyN2I2NWQ5YtIBAA?oc=5",
             "urlToImage": null,
-            "publishedAt": "2022-12-09T04:15:57Z",
+            "publishedAt": "2022-12-09T17:42:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": null,
+            "title": "Brittney Griner contre Viktor Bout : pourquoi Joe Biden est critiqué après l'échange de prisonniers entre les Etats-Unis et la Russie - franceinfo",
+            "description": "La décision de l'administration américaine d'échanger la star américaine du basket contre le trafiquant d'armes russe fait débat outre-Atlantique.",
+            "url": "https://www.francetvinfo.fr/monde/brittney-griner-contre-viktor-bout-pourquoi-joe-biden-est-critique-apres-l-echange-de-prisonniers-entre-les-etats-unis-et-la-russie_5534670.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/NpV9WRU0sTx2sk1LfYnJIsdf8YU/1500x843/2022/12/09/63932ebf3e6db_068-aa-09122022-980067-2.jpg",
+            "publishedAt": "2022-12-09T17:10:59Z",
+            "content": "Joe Biden aurait-il fait une \"mauvaise affaire\" ? Le président américain a obtenu le retour sur son sol, vendredi 9 décembre, de la star américaine du basket Brittney Griner, emprisonnée en Russie po… [+5105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "LaDepeche.fr"
+            },
+            "author": "Pierre Challier",
+            "title": "VIDEO. Sarcophages de Notre-Dame-de-Paris : un chanoine identifié, un \"cavalier\" inconnu... le contenu des cer - LaDepeche.fr",
+            "description": "Les chercheurs de l’Inrap, du CHU de Toulouse et du CNRS ont dévoilé ce vendredi après-midi, à Toulouse, les résultats des premières études faites sur les deux cercueils de plomb découverts au printemps dernier à la croisée du transept de Notre-Dame-de-Paris.…",
+            "url": "https://www.ladepeche.fr/2022/12/09/sarcophages-de-notre-dame-de-paris-le-chanoine-identifie-et-le-cold-case-du-cavalier-inconnu-10858174.php",
+            "urlToImage": "https://images.ladepeche.fr/api/v1/images/view/63936547437aaf41120e645a/large/image.jpg?v=1",
+            "publishedAt": "2022-12-09T17:01:00Z",
+            "content": "l'essentiel\r\n Les chercheurs de l’Inrap, du CHU de Toulouse et du CNRS ont dévoilé ce vendredi après-midi, à Toulouse, les résultats des premières études faites sur les deux cercueils de plomb découv… [+3479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Le HuffPost"
+            },
+            "author": "Louise Wessbecher",
+            "title": "« Pinocchio » sur Netflix revisité avec brio par Guillermo Del Toro - Le HuffPost",
+            "description": "Le réalisateur de « La Forme de l’eau » et du « Labyrinthe de Pan » signe une version sombre et tout en stop motion du conte popularisé par Disney.",
+            "url": "https://www.huffingtonpost.fr/culture/article/pinocchio-sur-netflix-revisite-avec-brio-par-guillermo-del-toro_211341.html",
+            "urlToImage": "https://huffpost-focus.sirius.press/2022/12/08/0/29/1536/864/1820/1024/75/0/431059d_1670513469932-4760263-jpg-r-1920-1080-f-jpg-q-x-xxyxx.jpg",
+            "publishedAt": "2022-12-09T16:53:00Z",
+            "content": "CINÉMA - Les adaptations de Pinocchio se suivent mais ne se ressemblent pas. Et après la version bien trop niaise de Robert Zemeckis pour Disney+, Guillermo del Toro et son pantin de bois en stop mot… [+3284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "France Bleu"
+            },
+            "author": null,
+            "title": "Grippe et Covid-19 : François Braun appelle à un \"sursaut\" de vaccination - France Bleu",
+            "description": "Le ministre de la Santé François Braun appelle ce vendredi à un \"sursaut\" de vaccination contre la grippe et le Covid-19. \"Un doublement des passages aux urgences et des hospitalisations pour la grippe\" a notamment été constaté la semaine dernière, a-t-il ind…",
+            "url": "https://www.francebleu.fr/infos/sante-sciences/grippe-et-covid-19-francois-braun-appelle-a-un-sursaut-de-vaccination-7074708",
+            "urlToImage": "https://www.francebleu.fr/s3/cruiser-production/2022/12/a385e23f-ffce-442a-acb5-f123f3789928/1200x680_epalivesix570500.jpg",
+            "publishedAt": "2022-12-09T16:49:47Z",
+            "content": "Alors que les fêtes de Noël approchent, François Braun a réitéré son appel à se faire vacciner contre la grippe et le Covid-19, lors d'une conférence de presse dédiée à la triple épidémie de Covid-19… [+2642 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "À la Madeleine, la dernière messe pour Johnny Hallyday et un appel à «la réconciliation avec Laeticia» - Le Figaro",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMijQFodHRwczovL3d3dy5sZWZpZ2Fyby5mci9tdXNpcXVlL2EtbGEtbWFkZWxlaW5lLXVuZS1kZXJuaWVyZS1tZXNzZS1wb3VyLWpvaG5ueS1oYWxseWRheS1ldC11bi1hcHBlbC1hLWxhLXJlY29uY2lsaWF0aW9uLWF2ZWMtbGFldGljaWEtMjAyMjEyMDnSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-09T16:18:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Closer"
+            },
+            "author": "GR",
+            "title": "Harry & Meghan (Netflix) : cette triste raison pour laquelle Harry n'a presque aucun souvenir de sa mère - Closer France",
+            "description": "Dans la série documentaire Harry &amp; Meghan, disponible sur Netflix depuis le 8 décembre 2022, le prince Harry évoque les souvenirs qu'il garde de sa mère, Lady Diana, morte dans un accident de voiture le 31 août 1997.",
+            "url": "https://www.closermag.fr/royautes/harry-meghan-netflix-cette-triste-raison-pour-laquelle-harry-n-a-presque-aucun-souvenir-de-sa-mere-1674615",
+            "urlToImage": "https://file1.closermag.fr/var/closermag/storage/images/1/3/9/0/9/13909355/harry-meghan-netflix-cette-triste-raison-pour-laquelle-harry-presque-aucun-souvenir-mere.jpeg?alias=exact1024x768_l",
+            "publishedAt": "2022-12-09T15:21:26Z",
+            "content": "<ul><li>Jeudi 8 décembre 2022, Netflix a dévoilé les premiers épisodes de la série documentaire Harry &amp; Meghan, centrée sur le prince Harry et Meghan Markle.</li><li>Dans le documentaire, le prin… [+2963 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Paris Match"
+            },
+            "author": null,
+            "title": "Isabelle Adjani pose avec Jackie Chan lors de la clôture du festival Red Sea - Paris Match",
+            "description": "La cérémonie de clôture du Red Sea International Film Festival s'est déroulée jeudi soir à Jeddah, en Arabie saoudite.",
+            "url": "https://www.parismatch.com/people/isabelle-adjani-pose-avec-jackie-chan-naomi-campbell-eblouissante-les-stars-cloturent-le-festival-red-sea-219715",
+            "urlToImage": "https://resize-parismatch.lanmedia.fr/var/pm/public/media/image/2022/12/09/15/gettyimages-1447903914.jpg?VersionId=ruSjUAAL0kAPyHmL0r148peamNAb3TER",
+            "publishedAt": "2022-12-09T14:50:15Z",
+            "content": "Clap de fin pour le Red Sea International Film Festival. Jeudi soir, de nombreuses célébrités des quatre coins du monde étaient rassemblées à Jeddah, en Arabie saoudite, pour la cérémonie de clôture … [+1066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foot Mercato"
+            },
+            "author": "Hanif Ben Berkane",
+            "title": "CdM 2022, Maroc : Walid Regragui donne des nouvelles de Nayef Aguerd - Foot Mercato",
+            "description": "",
+            "url": "https://www.footmercato.net/a7291696535453280268-cdm-2022-maroc-walid-regragui-donne-des-nouvelles-de-nayef-aguerd",
+            "urlToImage": "https://assets-fr.imgfoot.com/media/cache/1200x675/aguerd.jpg",
+            "publishedAt": "2022-12-09T14:48:26Z",
+            "content": "Sorti sur blessure face à l'Espagne lors des 8es de finale de la Coupe du Monde, Nayef Aguerd est toujours très incertain pour le quart de finale du Maroc face au Portugal. Un forfait serait un très … [+882 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Francetvinfo.fr"
+            },
+            "author": null,
+            "title": "INFOGRAPHIES. Crise de l'énergie : le calendrier des redémarrages des centrales nucléaires est-il tenu ? - franceinfo",
+            "description": "D'après les données publiées par EDF, l'objectif d'avoir 42 réacteurs disponibles début décembre n'est pas encore atteint.",
+            "url": "https://www.francetvinfo.fr/economie/energie/infographies-crise-de-l-energie-le-calendrier-des-redemarrages-des-centrales-nucleaires-est-il-tenu_5532417.html",
+            "urlToImage": "https://www.francetvinfo.fr/pictures/gnXdCHq8YiRW27ogaNKRPlx-XIE/1500x843/2022/12/08/6392273f1dfc8_080-hl-jffort-1891104.jpg",
+            "publishedAt": "2022-12-09T14:46:25Z",
+            "content": "Le nucléaire remonte difficilement la pente. Alors que l'hiver s'installe et que les températures baissent durablement, le redémarrage des réacteurs nucléaires accumule encore quelques semaines de re… [+1806 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Présidence de LR : Christian Jacob apporte son soutien à Éric Ciotti - Le Figaro",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL3BvbGl0aXF1ZS9wcmVzaWRlbmNlLWRlLWxyLWNocmlzdGlhbi1qYWNvYi1hcHBvcnRlLXNvbi1zb3V0aWVuLWEtZXJpYy1jaW90dGktMjAyMjEyMDnSAW1odHRwczovL2FtcC5sZWZpZ2Fyby5mci9wb2xpdGlxdWUvcHJlc2lkZW5jZS1kZS1sci1jaHJpc3RpYW4tamFjb2ItYXBwb3J0ZS1zb24tc291dGllbi1hLWVyaWMtY2lvdHRpLTIwMjIxMjA5?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-09T14:07:50Z",
             "content": null
         }
     ]
