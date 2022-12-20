@@ -10,8 +10,8 @@
         "date": "2022-12-20",
         "state": "Alaska",
         "fips": "02",
-        "cases": 301071,
-        "deaths": 1390
+        "cases": 301449,
+        "deaths": 1408
     },
     {
         "date": "2022-12-20",
@@ -39,14 +39,7 @@
         "state": "California",
         "fips": "06",
         "cases": 11695224,
-        "deaths": 100431
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Maryland",
-        "fips": "24",
-        "cases": 1305474,
-        "deaths": 15944
+        "deaths": 100424
     },
     {
         "date": "2022-12-20",
@@ -92,13 +85,6 @@
     },
     {
         "date": "2022-12-20",
-        "state": "Massachusetts",
-        "fips": "25",
-        "cases": 2134100,
-        "deaths": 22683
-    },
-    {
-        "date": "2022-12-20",
         "state": "Guam",
         "fips": "66",
         "cases": 60543,
@@ -117,13 +103,6 @@
         "fips": "16",
         "cases": 509367,
         "deaths": 5301
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Michigan",
-        "fips": "26",
-        "cases": 2963404,
-        "deaths": 40510
     },
     {
         "date": "2022-12-20",
@@ -148,6 +127,20 @@
     },
     {
         "date": "2022-12-20",
+        "state": "Kansas",
+        "fips": "20",
+        "cases": 910442,
+        "deaths": 9844
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Kentucky",
+        "fips": "21",
+        "cases": 1657664,
+        "deaths": 17708
+    },
+    {
+        "date": "2022-12-20",
         "state": "Louisiana",
         "fips": "22",
         "cases": 1482269,
@@ -155,45 +148,38 @@
     },
     {
         "date": "2022-12-20",
-        "state": "Kansas",
-        "fips": "20",
-        "cases": 910442,
-        "deaths": 9843
-    },
-    {
-        "date": "2022-12-20",
         "state": "Maine",
         "fips": "23",
-        "cases": 304490,
-        "deaths": 2802
+        "cases": 304797,
+        "deaths": 2803
     },
     {
         "date": "2022-12-20",
-        "state": "Kentucky",
-        "fips": "21",
-        "cases": 1657086,
-        "deaths": 17708
+        "state": "Maryland",
+        "fips": "24",
+        "cases": 1307751,
+        "deaths": 15960
     },
     {
         "date": "2022-12-20",
-        "state": "Alabama",
-        "fips": "01",
-        "cases": 1561557,
-        "deaths": 21178
+        "state": "Massachusetts",
+        "fips": "25",
+        "cases": 2134100,
+        "deaths": 22683
     },
     {
         "date": "2022-12-20",
-        "state": "Wyoming",
-        "fips": "56",
-        "cases": 182198,
-        "deaths": 1951
+        "state": "Michigan",
+        "fips": "26",
+        "cases": 2963404,
+        "deaths": 40510
     },
     {
         "date": "2022-12-20",
-        "state": "Nebraska",
-        "fips": "31",
-        "cases": 552369,
-        "deaths": 4835
+        "state": "Minnesota",
+        "fips": "27",
+        "cases": 1725293,
+        "deaths": 14220
     },
     {
         "date": "2022-12-20",
@@ -206,15 +192,176 @@
         "date": "2022-12-20",
         "state": "Missouri",
         "fips": "29",
-        "cases": 1728837,
-        "deaths": 23201
+        "cases": 1734640,
+        "deaths": 23235
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Montana",
+        "fips": "30",
+        "cases": 321522,
+        "deaths": 3632
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Nebraska",
+        "fips": "31",
+        "cases": 552369,
+        "deaths": 4835
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Nevada",
+        "fips": "32",
+        "cases": 871644,
+        "deaths": 11811
+    },
+    {
+        "date": "2022-12-20",
+        "state": "New Hampshire",
+        "fips": "33",
+        "cases": 365089,
+        "deaths": 2843
+    },
+    {
+        "date": "2022-12-20",
+        "state": "New Jersey",
+        "fips": "34",
+        "cases": 2895740,
+        "deaths": 35361
+    },
+    {
+        "date": "2022-12-20",
+        "state": "New Mexico",
+        "fips": "35",
+        "cases": 655719,
+        "deaths": 8784
+    },
+    {
+        "date": "2022-12-20",
+        "state": "New York",
+        "fips": "36",
+        "cases": 6495361,
+        "deaths": 77378
+    },
+    {
+        "date": "2022-12-20",
+        "state": "North Carolina",
+        "fips": "37",
+        "cases": 3300138,
+        "deaths": 28760
+    },
+    {
+        "date": "2022-12-20",
+        "state": "North Dakota",
+        "fips": "38",
+        "cases": 279330,
+        "deaths": 2461
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Northern Mariana Islands",
+        "fips": "69",
+        "cases": 13236,
+        "deaths": 41
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Ohio",
+        "fips": "39",
+        "cases": 3276630,
+        "deaths": 40874
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Oklahoma",
+        "fips": "40",
+        "cases": 1237781,
+        "deaths": 16033
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Oregon",
+        "fips": "41",
+        "cases": 933108,
+        "deaths": 8940
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Pennsylvania",
+        "fips": "42",
+        "cases": 3389458,
+        "deaths": 48746
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Puerto Rico",
+        "fips": "72",
+        "cases": 1072947,
+        "deaths": 5485
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Wyoming",
+        "fips": "56",
+        "cases": 182198,
+        "deaths": 1951
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Wisconsin",
+        "fips": "55",
+        "cases": 1946391,
+        "deaths": 15785
+    },
+    {
+        "date": "2022-12-20",
+        "state": "West Virginia",
+        "fips": "54",
+        "cases": 620606,
+        "deaths": 7786
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Washington",
+        "fips": "53",
+        "cases": 1872837,
+        "deaths": 14929
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Virgin Islands",
+        "fips": "78",
+        "cases": 23712,
+        "deaths": 127
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Virginia",
+        "fips": "51",
+        "cases": 2182520,
+        "deaths": 22738
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Vermont",
+        "fips": "50",
+        "cases": 147657,
+        "deaths": 781
+    },
+    {
+        "date": "2022-12-20",
+        "state": "Utah",
+        "fips": "49",
+        "cases": 1070006,
+        "deaths": 5161
     },
     {
         "date": "2022-12-20",
         "state": "Texas",
         "fips": "48",
-        "cases": 8050072,
-        "deaths": 92535
+        "cases": 8050600,
+        "deaths": 92538
     },
     {
         "date": "2022-12-20",
@@ -246,156 +393,9 @@
     },
     {
         "date": "2022-12-20",
-        "state": "Puerto Rico",
-        "fips": "72",
-        "cases": 1072521,
-        "deaths": 5473
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Pennsylvania",
-        "fips": "42",
-        "cases": 3389458,
-        "deaths": 48746
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Montana",
-        "fips": "30",
-        "cases": 321522,
-        "deaths": 3632
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Oregon",
-        "fips": "41",
-        "cases": 933108,
-        "deaths": 8940
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Oklahoma",
-        "fips": "40",
-        "cases": 1237781,
-        "deaths": 16033
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Ohio",
-        "fips": "39",
-        "cases": 3276630,
-        "deaths": 40874
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Northern Mariana Islands",
-        "fips": "69",
-        "cases": 13236,
-        "deaths": 41
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Minnesota",
-        "fips": "27",
-        "cases": 1725293,
-        "deaths": 14220
-    },
-    {
-        "date": "2022-12-20",
-        "state": "North Dakota",
-        "fips": "38",
-        "cases": 279330,
-        "deaths": 2461
-    },
-    {
-        "date": "2022-12-20",
-        "state": "North Carolina",
-        "fips": "37",
-        "cases": 3300138,
-        "deaths": 28760
-    },
-    {
-        "date": "2022-12-20",
-        "state": "New York",
-        "fips": "36",
-        "cases": 6495361,
-        "deaths": 77378
-    },
-    {
-        "date": "2022-12-20",
-        "state": "New Mexico",
-        "fips": "35",
-        "cases": 655719,
-        "deaths": 8784
-    },
-    {
-        "date": "2022-12-20",
-        "state": "New Jersey",
-        "fips": "34",
-        "cases": 2895740,
-        "deaths": 35361
-    },
-    {
-        "date": "2022-12-20",
-        "state": "New Hampshire",
-        "fips": "33",
-        "cases": 365089,
-        "deaths": 2843
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Nevada",
-        "fips": "32",
-        "cases": 871644,
-        "deaths": 11811
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Utah",
-        "fips": "49",
-        "cases": 1070006,
-        "deaths": 5161
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Vermont",
-        "fips": "50",
-        "cases": 147657,
-        "deaths": 781
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Virginia",
-        "fips": "51",
-        "cases": 2180387,
-        "deaths": 22731
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Virgin Islands",
-        "fips": "78",
-        "cases": 23692,
-        "deaths": 127
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Washington",
-        "fips": "53",
-        "cases": 1872837,
-        "deaths": 14929
-    },
-    {
-        "date": "2022-12-20",
-        "state": "West Virginia",
-        "fips": "54",
-        "cases": 620243,
-        "deaths": 7786
-    },
-    {
-        "date": "2022-12-20",
-        "state": "Wisconsin",
-        "fips": "55",
-        "cases": 1946391,
-        "deaths": 15785
+        "state": "Alabama",
+        "fips": "01",
+        "cases": 1561557,
+        "deaths": 21178
     }
 ]
