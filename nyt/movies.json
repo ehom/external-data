@@ -3,7 +3,7 @@
     "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
     "section": "Movies",
     "last_updated": "2022-12-22T18:12:09-05:00",
-    "num_results": 33,
+    "num_results": 34,
     "results": [
         {
             "section": "movies",
@@ -546,15 +546,70 @@
             "short_url": "https://nyti.ms/3hGsTDn"
         },
         {
+            "section": "books",
+            "subsection": "review",
+            "title": "How Well Do You Know Modern Variations of “A Christmas Carol”?",
+            "abstract": "Adaptations of this classic holiday story have been appearing on stage and screen for more than a century, but how much do you know about more recent versions?",
+            "url": "https://www.nytimes.com/interactive/2022/12/23/books/review/christmas-carol-quiz.html",
+            "uri": "nyt://interactive/3d739188-6080-56dd-b845-ba8b2dfc62a8",
+            "byline": "By J. D. Biersdorfer",
+            "item_type": "Interactive",
+            "updated_date": "2022-12-23T11:00:03-05:00",
+            "created_date": "2022-12-23T11:00:03-05:00",
+            "published_date": "2022-12-23T11:00:03-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Books and Literature",
+                "Movies"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/23/books/review/23QUIZADAPTATIONS-ACHRISTMASCAROL/23QUIZADAPTATIONS-ACHRISTMASCAROL-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ben Hickey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/23/books/review/23QUIZADAPTATIONS-ACHRISTMASCAROL/23QUIZADAPTATIONS-ACHRISTMASCAROL-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ben Hickey"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/12/23/books/review/23QUIZADAPTATIONS-ACHRISTMASCAROL/23QUIZADAPTATIONS-ACHRISTMASCAROL-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ben Hickey"
+                }
+            ],
+            "short_url": "https://nyti.ms/3FRZJJk"
+        },
+        {
             "section": "movies",
             "subsection": "",
             "title": "How Angela Lansbury and Stephen Sondheim Came to Appear in ‘Knives Out’ Sequel",
-            "abstract": "A fan of musical theater, Rian Johnson had long hoped to land the two stars. But he was already the editing phase when they agreed to take part.",
+            "abstract": "A fan of musical theater, Rian Johnson had long hoped to land the two stars. But he was already in the editing phase when they agreed to take part.",
             "url": "https://www.nytimes.com/2022/12/23/movies/glass-onion-knives-out-cameos.html",
             "uri": "nyt://article/3faa0922-f6ea-5df9-a9d5-f88c5d176160",
             "byline": "By Dave Itzkoff",
             "item_type": "Article",
-            "updated_date": "2022-12-23T10:00:06-05:00",
+            "updated_date": "2022-12-23T10:39:32-05:00",
             "created_date": "2022-12-23T10:00:06-05:00",
             "published_date": "2022-12-23T10:00:06-05:00",
             "material_type_facet": "",
@@ -734,7 +789,7 @@
             "uri": "nyt://article/dc704775-fcb7-51db-971e-0e73099d442e",
             "byline": "By Esther Zuckerman",
             "item_type": "Article",
-            "updated_date": "2022-12-23T09:00:06-05:00",
+            "updated_date": "2022-12-23T10:21:02-05:00",
             "created_date": "2022-12-23T09:00:06-05:00",
             "published_date": "2022-12-23T09:00:06-05:00",
             "material_type_facet": "",
@@ -742,14 +797,15 @@
             "des_facet": [
                 "Hair",
                 "Movies",
+                "Nineteen Hundred Twenties",
                 "Babylon (2022) (Movie)"
             ],
             "org_facet": [],
             "per_facet": [
-                "Bow, Clara",
+                "McIntosh, Jaime Leigh",
                 "Chazelle, Damien",
-                "Robbie, Margot",
-                "Jaime Leigh McIntosh"
+                "Bow, Clara",
+                "Robbie, Margot"
             ],
             "geo_facet": [],
             "multimedia": [
