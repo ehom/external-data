@@ -2,7 +2,7 @@
     "status": "OK",
     "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
     "section": "Movies",
-    "last_updated": "2023-01-24T07:37:45-05:00",
+    "last_updated": "2023-01-24T08:37:24-05:00",
     "num_results": 34,
     "results": [
         {
@@ -14,7 +14,7 @@
             "uri": "nyt://promo/ab112b39-e4af-5ce7-acda-11a00ce78865",
             "byline": "",
             "item_type": "Promo",
-            "updated_date": "2023-01-24T08:10:07-05:00",
+            "updated_date": "2023-01-24T09:09:58-05:00",
             "created_date": "2023-01-24T07:34:57-05:00",
             "published_date": "2023-01-24T07:34:57-05:00",
             "material_type_facet": "",
@@ -25,37 +25,92 @@
             "geo_facet": [],
             "multimedia": [
                 {
-                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24oscarnoms-main-gjwm/24oscarnoms-main-gjwm-superJumbo.jpg",
+                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24oscarnoms-eeao-lead-mzqp/24oscarnoms-eeao-lead-mzqp-superJumbo.jpg",
                     "format": "Super Jumbo",
-                    "height": 1365,
-                    "width": 2048,
+                    "height": 1080,
+                    "width": 1920,
                     "type": "image",
                     "subtype": "photo",
-                    "caption": "In some ways, nominations spread widely over a number of films would reflect the jumbled state of Hollywood.",
-                    "copyright": "Stefani Reynolds/Agence France-Presse — Getty Images"
+                    "caption": "",
+                    "copyright": "David Bornfriend/A24"
                 },
                 {
-                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24oscarnoms-main-gjwm/24oscarnoms-main-gjwm-threeByTwoSmallAt2X-v2.jpg",
+                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24oscarnoms-eeao-lead-mzqp/24oscarnoms-eeao-lead-mzqp-threeByTwoSmallAt2X.jpg",
                     "format": "threeByTwoSmallAt2X",
                     "height": 400,
                     "width": 600,
                     "type": "image",
                     "subtype": "photo",
-                    "caption": "In some ways, nominations spread widely over a number of films would reflect the jumbled state of Hollywood.",
-                    "copyright": "Stefani Reynolds/Agence France-Presse — Getty Images"
+                    "caption": "",
+                    "copyright": "David Bornfriend/A24"
                 },
                 {
-                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24oscarnoms-main-gjwm/24oscarnoms-main-gjwm-thumbLarge.jpg",
+                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24oscarnoms-eeao-lead-mzqp/24oscarnoms-eeao-lead-mzqp-thumbLarge.jpg",
                     "format": "Large Thumbnail",
                     "height": 150,
                     "width": 150,
                     "type": "image",
                     "subtype": "photo",
-                    "caption": "In some ways, nominations spread widely over a number of films would reflect the jumbled state of Hollywood.",
-                    "copyright": "Stefani Reynolds/Agence France-Presse — Getty Images"
+                    "caption": "",
+                    "copyright": "David Bornfriend/A24"
                 }
             ],
             "short_url": ""
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "Oscars 2023 Nominee List",
+            "abstract": "The complete list of Academy Award nominees for 2023.",
+            "url": "https://www.nytimes.com/2023/01/24/movies/2023-oscar-nominees-list.html",
+            "uri": "nyt://article/df0628b2-450a-517b-b339-bca0ded04845",
+            "byline": "By Gabe Cohn",
+            "item_type": "Article",
+            "updated_date": "2023-01-24T09:10:10-05:00",
+            "created_date": "2023-01-24T08:20:05-05:00",
+            "published_date": "2023-01-24T08:20:05-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Academy Awards (Oscars)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24oscars-list-tzbm/24oscars-list-tzbm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The scene from last year’s Oscars ceremony red carpet.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24oscars-list-tzbm/24oscars-list-tzbm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The scene from last year’s Oscars ceremony red carpet.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24oscars-list-tzbm/24oscars-list-tzbm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The scene from last year’s Oscars ceremony red carpet.",
+                    "copyright": "Stefani Reynolds/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3WBDtKd"
         },
         {
             "section": "arts",
@@ -515,60 +570,127 @@
         {
             "section": "movies",
             "subsection": "",
-            "title": "‘Alice, Darling’ Review: That’s What Friends Are For",
-            "abstract": "Anna Kendrick stars in a drama about a woman in an abusive relationship who finds refuge with two girlfriends during a getaway.",
-            "url": "https://www.nytimes.com/2023/01/19/movies/alice-darling-review-anna-kendrick.html",
-            "uri": "nyt://article/ce6432f3-cc34-596f-8d6e-b078351c0c01",
-            "byline": "By Manohla Dargis",
+            "title": "The number of actors of color nominated could increase.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/2023/01/24/movies/the-number-of-actors-of-color-nominated-could-increase.html",
+            "uri": "nyt://article/c77b470d-470d-5b9c-8e8c-277f1ad80959",
+            "byline": "By Brooks Barnes",
             "item_type": "Article",
-            "updated_date": "2023-01-23T09:19:31-05:00",
-            "created_date": "2023-01-19T11:53:27-05:00",
-            "published_date": "2023-01-19T11:53:27-05:00",
+            "updated_date": "2023-01-24T08:52:35-05:00",
+            "created_date": "2023-01-24T07:40:05-05:00",
+            "published_date": "2023-01-24T07:40:05-05:00",
             "material_type_facet": "",
             "kicker": "",
-            "des_facet": [
-                "Movies",
-                "Alice, Darling (Movie)"
-            ],
+            "des_facet": [],
             "org_facet": [],
-            "per_facet": [
-                "Kendrick, Anna",
-                "Nighy, Mary"
-            ],
+            "per_facet": [],
             "geo_facet": [],
             "multimedia": [
                 {
-                    "url": "https://static01.nyt.com/images/2023/01/19/multimedia/19alice-darling-review-mpbl/19alice-darling-review-mpbl-superJumbo.jpg",
+                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24OSCARNOMS-DIVERSITY-mjtz/24OSCARNOMS-DIVERSITY-mjtz-superJumbo.jpg",
                     "format": "Super Jumbo",
-                    "height": 1067,
-                    "width": 1600,
+                    "height": 1365,
+                    "width": 2048,
                     "type": "image",
                     "subtype": "photo",
-                    "caption": "From left, Wunmi Mosaku, Anna Kendrick and Kaniehtiio Horn in “Alice, Darling.”",
-                    "copyright": "Lionsgate"
+                    "caption": "Michelle Yeoh, center, and Ke Huy Quan, right, are widely expected to get acting nominations for “Everything Everywhere All at Once,” and Stephanie Hsu, left, also has a shot.",
+                    "copyright": "A24"
                 },
                 {
-                    "url": "https://static01.nyt.com/images/2023/01/19/multimedia/19alice-darling-review-mpbl/19alice-darling-review-mpbl-threeByTwoSmallAt2X.jpg",
+                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24OSCARNOMS-DIVERSITY-mjtz/24OSCARNOMS-DIVERSITY-mjtz-threeByTwoSmallAt2X.jpg",
                     "format": "threeByTwoSmallAt2X",
                     "height": 400,
                     "width": 600,
                     "type": "image",
                     "subtype": "photo",
-                    "caption": "From left, Wunmi Mosaku, Anna Kendrick and Kaniehtiio Horn in “Alice, Darling.”",
-                    "copyright": "Lionsgate"
+                    "caption": "Michelle Yeoh, center, and Ke Huy Quan, right, are widely expected to get acting nominations for “Everything Everywhere All at Once,” and Stephanie Hsu, left, also has a shot.",
+                    "copyright": "A24"
                 },
                 {
-                    "url": "https://static01.nyt.com/images/2023/01/19/multimedia/19alice-darling-review-mpbl/19alice-darling-review-mpbl-thumbLarge.jpg",
+                    "url": "https://static01.nyt.com/images/2023/01/24/multimedia/24OSCARNOMS-DIVERSITY-mjtz/24OSCARNOMS-DIVERSITY-mjtz-thumbLarge.jpg",
                     "format": "Large Thumbnail",
                     "height": 150,
                     "width": 150,
                     "type": "image",
                     "subtype": "photo",
-                    "caption": "From left, Wunmi Mosaku, Anna Kendrick and Kaniehtiio Horn in “Alice, Darling.”",
-                    "copyright": "Lionsgate"
+                    "caption": "Michelle Yeoh, center, and Ke Huy Quan, right, are widely expected to get acting nominations for “Everything Everywhere All at Once,” and Stephanie Hsu, left, also has a shot.",
+                    "copyright": "A24"
                 }
             ],
-            "short_url": "https://nyti.ms/3ZRnr1Q"
+            "short_url": "https://nyti.ms/3JcC5uC"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "After leading for three years, Netflix is expected to take a back seat.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/2023/01/24/movies/netflix-oscar-nominations.html",
+            "uri": "nyt://article/029f9b2f-c362-57f5-8374-594aec546251",
+            "byline": "By Brooks Barnes",
+            "item_type": "Article",
+            "updated_date": "2023-01-24T08:58:05-05:00",
+            "created_date": "2023-01-24T07:19:24-05:00",
+            "published_date": "2023-01-24T07:19:24-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": null,
+            "short_url": "https://nyti.ms/3j1ienm"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "What will be nominated? Our expert makes his predictions.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/2023/01/24/movies/what-will-be-nominated-our-expert-makes-his-predictions.html",
+            "uri": "nyt://article/d489f006-dcd1-5a1a-9e09-5fcd31112324",
+            "byline": "By Kyle Buchanan",
+            "item_type": "Article",
+            "updated_date": "2023-01-24T08:47:30-05:00",
+            "created_date": "2023-01-24T07:19:24-05:00",
+            "published_date": "2023-01-24T07:19:24-05:00",
+            "material_type_facet": "",
+            "kicker": "The Projectionist",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/01/18/multimedia/18projectionist-predix1-hblz/18projectionist-predix1-hblz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Oscar is up for grabs (well, until its rightful owner reclaimed it at last year’s Governors Ball). ",
+                    "copyright": "Krista Schlueter for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/01/18/multimedia/18projectionist-predix1-hblz/18projectionist-predix1-hblz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Oscar is up for grabs (well, until its rightful owner reclaimed it at last year’s Governors Ball). ",
+                    "copyright": "Krista Schlueter for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/01/18/multimedia/18projectionist-predix1-hblz/18projectionist-predix1-hblz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Oscar is up for grabs (well, until its rightful owner reclaimed it at last year’s Governors Ball). ",
+                    "copyright": "Krista Schlueter for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3H7btrY"
         },
         {
             "section": "theater",
@@ -1108,6 +1230,64 @@
                 }
             ],
             "short_url": "https://nyti.ms/3iTtbHx"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
+            "title": "‘Alice, Darling’ Review: That’s What Friends Are For",
+            "abstract": "Anna Kendrick stars in a drama about a woman in an abusive relationship who finds refuge with two girlfriends during a getaway.",
+            "url": "https://www.nytimes.com/2023/01/19/movies/alice-darling-review-anna-kendrick.html",
+            "uri": "nyt://article/ce6432f3-cc34-596f-8d6e-b078351c0c01",
+            "byline": "By Manohla Dargis",
+            "item_type": "Article",
+            "updated_date": "2023-01-23T09:19:31-05:00",
+            "created_date": "2023-01-19T11:53:27-05:00",
+            "published_date": "2023-01-19T11:53:27-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Alice, Darling (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kendrick, Anna",
+                "Nighy, Mary"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/01/19/multimedia/19alice-darling-review-mpbl/19alice-darling-review-mpbl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1067,
+                    "width": 1600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Wunmi Mosaku, Anna Kendrick and Kaniehtiio Horn in “Alice, Darling.”",
+                    "copyright": "Lionsgate"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/01/19/multimedia/19alice-darling-review-mpbl/19alice-darling-review-mpbl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Wunmi Mosaku, Anna Kendrick and Kaniehtiio Horn in “Alice, Darling.”",
+                    "copyright": "Lionsgate"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/01/19/multimedia/19alice-darling-review-mpbl/19alice-darling-review-mpbl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Wunmi Mosaku, Anna Kendrick and Kaniehtiio Horn in “Alice, Darling.”",
+                    "copyright": "Lionsgate"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ZRnr1Q"
         },
         {
             "section": "movies",
@@ -1874,253 +2054,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/3wfBGzy"
-        },
-        {
-            "section": "books",
-            "subsection": "",
-            "title": "A Rosier View of Roald Dahl",
-            "abstract": "“Teller of the Unexpected,” an elegant new biography, sidesteps the ugly side of the children’s book author while capturing his grandiose, tragedy-specked life.",
-            "url": "https://www.nytimes.com/2023/01/17/books/roald-dahl-biography-matthew-dennison.html",
-            "uri": "nyt://article/2a0eb9e2-f99d-5641-a73e-84c709d3d69b",
-            "byline": "By Alexandra Jacobs",
-            "item_type": "Article",
-            "updated_date": "2023-01-18T09:16:13-05:00",
-            "created_date": "2023-01-17T15:00:10-05:00",
-            "published_date": "2023-01-17T15:00:10-05:00",
-            "material_type_facet": "",
-            "kicker": "Nonfiction",
-            "des_facet": [
-                "Books and Literature",
-                "Roald Dahl, Teller of the Unexpected: A Biography (Book)",
-                "Charlie and the Chocolate Factory (Book)",
-                "Content Type: Personal Profile",
-                "Writing and Writers",
-                "genre-books-childrens"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Dahl, Roald",
-                "Dennison, Matthew"
-            ],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/17/books/17dennison-review1/17dennison-review1-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 1373,
-                    "width": 2048,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "The author Roald Dahl, here in 1971, has been the subject of two biographies, as well as Matthew Dennison’s new “Teller of the Unexpected.”",
-                    "copyright": "Ronald Dumont/Daily Express, via Getty Images"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/17/books/17dennison-review1/17dennison-review1-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 400,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "The author Roald Dahl, here in 1971, has been the subject of two biographies, as well as Matthew Dennison’s new “Teller of the Unexpected.”",
-                    "copyright": "Ronald Dumont/Daily Express, via Getty Images"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/17/books/17dennison-review1/17dennison-review1-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "The author Roald Dahl, here in 1971, has been the subject of two biographies, as well as Matthew Dennison’s new “Teller of the Unexpected.”",
-                    "copyright": "Ronald Dumont/Daily Express, via Getty Images"
-                }
-            ],
-            "short_url": "https://nyti.ms/3CU3r4y"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "Filming Eugene O’Neill When the Elements (and Investors) Don’t Cooperate",
-            "abstract": "Starring Jessica Lange and Ed Harris, Jonathan Kent’s adaptation of “Long Day’s Journey Into Night” started production, only to lose key financing.",
-            "url": "https://www.nytimes.com/2023/01/17/movies/long-days-journey-into-night-eugene-oneill-jessica-lange-ed-harris.html",
-            "uri": "nyt://article/0d88c229-7cb1-5dfa-88f2-92e13ff36553",
-            "byline": "By Roslyn Sulcas",
-            "item_type": "Article",
-            "updated_date": "2023-01-23T11:20:56-05:00",
-            "created_date": "2023-01-17T14:49:06-05:00",
-            "published_date": "2023-01-17T14:49:06-05:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "Long Day's Journey Into Night (Movie)"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Kent, Jonathan",
-                "O'Neill, Eugene",
-                "Lange, Jessica",
-                "Harris, Ed",
-                "Foster, Ben",
-                "Lindsay-Abaire, David"
-            ],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17oneill-film-01-mqpw/17oneill-film-01-mqpw-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 1536,
-                    "width": 2048,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Jonathan Kent, right, is making his feature directing debut with the drama.",
-                    "copyright": "Patrick Redmond"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17oneill-film-01-mqpw/17oneill-film-01-mqpw-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 400,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Jonathan Kent, right, is making his feature directing debut with the drama.",
-                    "copyright": "Patrick Redmond"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/17/multimedia/17oneill-film-01-mqpw/17oneill-film-01-mqpw-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Jonathan Kent, right, is making his feature directing debut with the drama.",
-                    "copyright": "Patrick Redmond"
-                }
-            ],
-            "short_url": "https://nyti.ms/3iI4GwQ"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "For the Documentarian Alice Diop, Only Fiction Could Do Justice to a Tragedy",
-            "abstract": "“Saint Omer” borrows details from a case of infanticide in France, which the director found raised profound but very personal issues.",
-            "url": "https://www.nytimes.com/2023/01/16/movies/alice-diop-saint-omer.html",
-            "uri": "nyt://article/8759add0-2c66-5b4b-b56e-88c05f92387e",
-            "byline": "By Esther Zuckerman",
-            "item_type": "Article",
-            "updated_date": "2023-01-18T14:54:28-05:00",
-            "created_date": "2023-01-16T12:24:00-05:00",
-            "published_date": "2023-01-16T12:24:00-05:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "Content Type: Personal Profile",
-                "Saint Omer (Movie)",
-                "Black People",
-                "Women and Girls"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Diop, Alice",
-                "Malanda, Guslagie"
-            ],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/18/multimedia/alice-diop-04-zgvc/alice-diop-04-zgvc-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 2048,
-                    "width": 1638,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "“There is no doubt that the process of going through this film is something that healed me,” Alice Diop, the director of “Saint Omer,” said.",
-                    "copyright": "Evelyn Freja for The New York Times"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/18/multimedia/alice-diop-04-zgvc/alice-diop-04-zgvc-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 400,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "“There is no doubt that the process of going through this film is something that healed me,” Alice Diop, the director of “Saint Omer,” said.",
-                    "copyright": "Evelyn Freja for The New York Times"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/18/multimedia/alice-diop-04-zgvc/alice-diop-04-zgvc-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "“There is no doubt that the process of going through this film is something that healed me,” Alice Diop, the director of “Saint Omer,” said.",
-                    "copyright": "Evelyn Freja for The New York Times"
-                }
-            ],
-            "short_url": "https://nyti.ms/3w5Ea3t"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "Older Moviegoers Turn Out for ‘A Man Called Otto’",
-            "abstract": "Ticket sales totaled $15 million over the holiday weekend, fueled by older audiences in the middle of the country.",
-            "url": "https://www.nytimes.com/2023/01/16/movies/a-man-called-otto-box-office.html",
-            "uri": "nyt://article/2e9d7b96-0547-516d-8e2e-1c00d2c41a95",
-            "byline": "By Brooks Barnes",
-            "item_type": "Article",
-            "updated_date": "2023-01-17T15:53:03-05:00",
-            "created_date": "2023-01-16T11:37:36-05:00",
-            "published_date": "2023-01-16T11:37:36-05:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Movies",
-                "Box Office Sales",
-                "Avatar: The Way of Water (Movie)",
-                "Avatar (Movie)",
-                "The Fabelmans (Movie)",
-                "A Man Called Otto (Movie)"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Hanks, Tom",
-                "Forster, Marc"
-            ],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/17/multimedia/16box-tqvj/16box-tqvj-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 1390,
-                    "width": 2048,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Crowds showed up for “A Man Called Otto” in cities like Detroit, Minneapolis, Denver and Salt Lake City. None of the top 75 theaters for the film were in Los Angeles or New York.",
-                    "copyright": "Niko Tavernise/Sony Pictures"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/17/multimedia/16box-tqvj/16box-tqvj-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 400,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Crowds showed up for “A Man Called Otto” in cities like Detroit, Minneapolis, Denver and Salt Lake City. None of the top 75 theaters for the film were in Los Angeles or New York.",
-                    "copyright": "Niko Tavernise/Sony Pictures"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2023/01/17/multimedia/16box-tqvj/16box-tqvj-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Crowds showed up for “A Man Called Otto” in cities like Detroit, Minneapolis, Denver and Salt Lake City. None of the top 75 theaters for the film were in Los Angeles or New York.",
-                    "copyright": "Niko Tavernise/Sony Pictures"
-                }
-            ],
-            "short_url": "https://nyti.ms/3IWl7QS"
         }
     ]
 }
