@@ -1,45 +1,227 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 37,
     "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Adam Taylor, William Neff, Daniel Wolfe",
+            "title": "For Ukraine, what's so special about Germany's Leopard 2 tanks? - The Washington Post",
+            "description": "The German-made battle tank may be a highly prized piece of military technology, but the logistic networks that could support it may be even more important.",
+            "url": "https://www.washingtonpost.com/world/2023/01/24/leopard-2-ukraine-germany-m1-abrams/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F3TJUX3KEOWTZBL37M2CJ6J67M.jpg&w=1440",
+            "publishedAt": "2023-01-24T10:00:00Z",
+            "content": "Comment on this story\r\nAs the war in Ukraine nears its one-year mark, Kyiv is pushing Western allies to provide modern battle tanks for its fight with Russian forces. And theres one particular model … [+7540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Half Moon Bay: Suspect held after another California mass shooting - BBC",
+            "description": "The latest deadly rampage killed seven farm workers, just two days after a mass shooting at Lunar New Year.",
+            "url": "https://www.bbc.com/news/world-us-canada-64382598",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D6F5/production/_128392055_mediaitem128392054.jpg",
+            "publishedAt": "2023-01-24T08:54:40Z",
+            "content": "The US state of California is reeling from its second mass shooting in days after a man shot dead seven former co-workers south of San Francisco.\r\nThe attacks took place in the coastal city of Half M… [+2674 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Natasha Turak",
+            "title": "Right-wing Quran burning in Sweden enrages Turkey and throws a new wrench in Nordics’ NATO bid - CNBC",
+            "description": "Sweden and Finland have worked to try and improve their relations with Turkey, but recent events have thrown fresh wrenches into any hopes for progress.",
+            "url": "https://www.cnbc.com/2023/01/24/quran-burning-in-sweden-enrages-turkey-threatens-nato-membership-path.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107182784-1674541959559-gettyimages-1246424231-Media_Event_ID_775927415.jpeg?v=1674542063&w=1920&h=1080",
+            "publishedAt": "2023-01-24T06:34:23Z",
+            "content": "Sweden and Finland have taken another step in joining NATO, meaning only a formal ratification of their accession agreement is now left.\r\nIt's now been eight months since Sweden and Finland declared … [+6824 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "Michelle Starr",
+            "title": "Astronomers Just Realized The Milky Way Is Too Big For Its Surroundings - ScienceAlert",
+            "description": "Our home, the Milky Way, doesn't seem particularly odd for a galaxy.",
+            "url": "https://www.sciencealert.com/astronomers-just-realized-the-milky-way-is-too-big-for-its-surroundings",
+            "urlToImage": "https://www.sciencealert.com/images/2023/01/milky-way-analogue.jpg",
+            "publishedAt": "2023-01-24T05:31:31Z",
+            "content": "Our home, the Milky Way, doesn't seem particularly odd for a galaxy. Moderately-sized, spiral in shape, with a few kinks suggestive of a disruptive past.\r\nBut astronomers have just identified a quirk… [+3950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTVU San Francisco"
+            },
+            "author": "KTVU FOX 2",
+            "title": "Oakland police say 8 people shot, 1 killed at gas station Monday evening - KTVU FOX 2 San Francisco",
+            "description": "Oakland police confirm eight people were shot and one was killed Monday evening at a gas station at Seminary Avenue and MacArthur Boulevard.",
+            "url": "https://www.ktvu.com/news/oakland-police-say-8-people-shot-1-killed-at-gas-station-monday-evening",
+            "urlToImage": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/01/1280/720/snapshot-2023-01-23T224942.368.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-24T05:00:15Z",
+            "content": "OAKLAND, Calif. - Oakland police confirm eight people were shot and one was killed Monday evening at a gas station at Seminary Avenue and MacArthur Boulevard. \r\nThe shooting happened just before 6 p.… [+700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Nick Selbe",
+            "title": "Cowboys Twitter Account Gets Called Out for Dak Prescott Tweet - Sports Illustrated",
+            "description": "Was the social media team out of line for this one?",
+            "url": "https://www.si.com/extra-mustard/2023/01/24/cowboys-twitter-account-called-out-dak-prescott-tweet",
+            "urlToImage": "https://www.si.com/.image/t_share/MTk1Mzc5NTU0NTI3NzQ5ODE5/dak-prescott.jpg",
+            "publishedAt": "2023-01-24T03:48:54Z",
+            "content": "It’s every sports team social media manager’s worst nightmare: posting after a horrible loss.\r\nSuch an endeavor was waiting for the Cowboys after their 19-12 defeat against the 49ers in Sunday’s divi… [+1130 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Google Clock update makes it easier to hit the snooze and stop the alarm - XDA Developers",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3LnhkYS1kZXZlbG9wZXJzLmNvbS9nb29nbGUtY2xvY2stNzQtdXBkYXRlLWFsYXJtLXNub296ZS1vci1zdG9wLWJ1dHRvbi_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-24T02:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andi Babineau, Kara Devlin",
+            "title": "Des Moines shooting leaves 2 students dead, founder of education program in serious condition, police say - CNN",
+            "description": "A shooting at an educational program for at-risk youth in Des Moines, Iowa, left two students dead and the program's founder seriously injured, authorities said",
+            "url": "https://www.cnn.com/2023/01/23/us/des-moines-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230123140816-05-des-moines-iowa-shooting-0123.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-24T02:44:00Z",
+            "content": "A shooting at an educational program for at-risk youth in Des Moines, Iowa, left two students dead and the programs founder seriously injured, authorities said\r\nAt 12:53 p.m. Monday, Police and fire … [+2730 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Lisa Marie Presley's Funeral: Inside the Emotional Memorial - Entertainment Tonight",
+            "description": "Inside Lisa Marie Presley’s emotional funeral at Graceland with Austin Butler, Priscilla Presley, Riley Keough and more in attendance.",
+            "url": "https://www.youtube.com/watch?v=W0IxfNU02nI",
+            "urlToImage": "https://i.ytimg.com/vi/W0IxfNU02nI/maxresdefault.jpg",
+            "publishedAt": "2023-01-24T01:30:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Earth’s inner core may have ‘paused’ its rotation and reversed, new study suggests - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMihwFodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL25leHN0YXJfbWVkaWFfd2lyZS8zODI3MjQ0LWVhcnRocy1pbm5lci1jb3JlLW1heS1oYXZlLXBhdXNlZC1pdHMtcm90YXRpb24tYW5kLXJldmVyc2VkLW5ldy1zdHVkeS1zdWdnZXN0cy_SAYsBaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy9uZXhzdGFyX21lZGlhX3dpcmUvMzgyNzI0NC1lYXJ0aHMtaW5uZXItY29yZS1tYXktaGF2ZS1wYXVzZWQtaXRzLXJvdGF0aW9uLWFuZC1yZXZlcnNlZC1uZXctc3R1ZHktc3VnZ2VzdHMvYW1wLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-24T01:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Raechal Shewfelt",
+            "title": "Pamela Anderson says she has 'no ill will' toward Tim Allen after he denies alleged 'Home Improvement' flashing - Yahoo Entertainment",
+            "description": "After actor claims incident \"never happened\" Anderson releases statement calling her account a \"true story\" and \"one of many surreal and uncomfortable...",
+            "url": "https://www.yahoo.com/entertainment/pamela-anderson-says-she-has-no-ill-will-toward-tim-allen-after-he-denies-alleged-home-improvement-flashing-005704691.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/f2107180-9b7b-11ed-9ff3-efe9c2006706",
+            "publishedAt": "2023-01-24T00:57:00Z",
+            "content": "Pamela Anderson's book and documentary are available Jan. 31. (Photo: Dia Dipasupil/Getty Images)\r\nTim Allen shot down Pamela Anderson's story, published in her upcoming book, Love, Pamela, that he f… [+2000 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": null,
+            "title": "Biden's Secret Documents: The Drip, Drip Of Revelations - Barron's",
+            "description": "The first secret documents turned up in Joe Biden's former private office and home back in November, but it was January before the White House publicly admitted the embarrassing discovery -- under pressure from a steady drip of media revelations.",
+            "url": "https://www.barrons.com/articles/biden-s-secret-documents-the-drip-drip-of-revelations-01674520808",
+            "urlToImage": null,
+            "publishedAt": "2023-01-24T00:41:03Z",
+            "content": "The first secret documents turned up in Joe Biden's former private office and home back in November, but it was January before the White House publicly admitted the embarrassing discovery -- under pr… [+3285 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WMUR Manchester"
+            },
+            "author": "Mike Haddad",
+            "title": "Snow moves out; slippery roads continue Monday night - WMUR Manchester",
+            "description": "The latest storm brought more than a foot of snow to parts of New Hampshire",
+            "url": "https://www.wmur.com/article/new-hampshire-weather-snow-forecast-12323/42615247",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/fnmmqccxkaycsbh-1674519733.jfif?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-01-24T00:40:00Z",
+            "content": "MANCHESTER, N.H. —The latest storm brought over a foot of snow to parts of New Hampshire, and that storm is starting to move away.\r\nWith snow moving out and temps falling into the 20s, any untreated … [+1087 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Peter Martin, Jenny Leonard",
+            "title": "US Confronts China With Evidence of Companies Aiding Putin's War - Bloomberg",
+            "description": "The Biden administration has confronted China’s government with evidence that suggests some Chinese state-owned companies may be providing assistance for Russia’s war effort in Ukraine, as it tries to ascertain if Beijing is aware of those activities, accordi…",
+            "url": "https://www.bloomberg.com/news/articles/2023-01-24/us-confronts-china-with-evidence-of-companies-aiding-putin-s-war",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4diOF65ik7c/v0/1200x831.jpg",
+            "publishedAt": "2023-01-24T00:31:00Z",
+            "content": "The Biden administration has confronted China’s government with evidence that suggests some Chinese state-owned companies may be providing assistance for Russia’s war effort in Ukraine, as it tries t… [+414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee",
+            "title": "Asia-Pacific markets rise as most of the region observes Lunar New Year holidays - CNBC",
+            "description": "Markets in the Asia-Pacific trade higher as most of the region observed Lunar New Year holidays.",
+            "url": "https://www.cnbc.com/2023/01/24/asia-pacific-after-new-year.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107182721-1674517631977-gettyimages-1246436806-20230122_sa_06510_022.jpeg?v=1674518746&w=1920&h=1080",
+            "publishedAt": "2023-01-24T00:25:00Z",
+            "content": "An earnings recession is imminent this year, according to Morgan Stanley equity strategist Michael Wilson. \r\n\"Our view has not changed as we expect the path of earnings in the US to disappoint both c… [+1033 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Kia Kokalitcheva",
+            "title": "Elon Musk admits Tesla investors would rely on \"funding secured\" tweet - Axios",
+            "description": "A key question the jury must decide is whether Musk's tweets were significant enough to impact investor decisions.",
+            "url": "https://www.axios.com/2023/01/24/elon-musk-tesla-investors-funding-secured-tweet",
+            "urlToImage": "https://images.axios.com/m0i7DCKmv7KdPdhG_UDrc6ibJv0=/0x0:1920x1080/1366x768/2023/01/23/1674502273977.png",
+            "publishedAt": "2023-01-24T00:14:27Z",
+            "content": "Elon Musk admitted in court on Monday that he wanted Tesla shareholders to rely on his infamous 2018 tweet that he had \"funding secured\" to take the automaker private, despite his repeated attempts t… [+1605 chars]"
+        },
         {
             "source": {
                 "id": null,
                 "name": "CBS Sports"
             },
             "author": "",
-            "title": "Stefon Diggs outburst: Bills WR, Sean McDermott address his yelling on sideline, storming out of locker room - CBS Sports",
-            "description": "Buffalo put forth a disappointing effort in the 27-10 defeat",
-            "url": "https://www.cbssports.com/nfl/news/stefon-diggs-outburst-bills-wr-sean-mcdermott-address-his-yelling-on-sideline-storming-out-of-locker-room/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/23/3fc09e67-e798-4dd3-b5df-ab80324f0e8f/thumbnail/1200x675/5f562f53f829c3e0860ed4b9cacd5799/stefon-diggs.jpg",
-            "publishedAt": "2023-01-23T23:58:00Z",
-            "content": "Season-ending playoff defeats are always crushing, but Buffalo Bills Pro Bowl wide receiver Stefon Diggs is taking his team's 27-10 home loss against the third-seeded Cincinnati Bengals especially ha… [+3002 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Zelenskiy flags shake-up after corruption allegations - Reuters",
-            "description": "Ukrainian President Volodymyr Zelenskiy said on Monday that changes would be announced imminently in the government, the regions and in the security forces following allegations of corruption nearly a year into Russia's invasion.",
-            "url": "https://www.reuters.com/world/europe/zelenskiy-ally-threatens-jailings-after-high-profile-corruption-claims-2023-01-23/",
-            "urlToImage": "https://www.reuters.com/resizer/PkhrG2sHom6QV5f38ml8wSQGeaI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DC7DE5CKEZI35ILJHC75B6O2PI.jpg",
-            "publishedAt": "2023-01-23T23:49:00Z",
-            "content": "KYIV, Jan 23 (Reuters) - Ukrainian President Volodymyr Zelenskiy said on Monday that changes would be announced imminently in the government, the regions and in the security forces following allegati… [+3159 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Des Moines Register"
-            },
-            "author": ", The Des Moines Register",
-            "title": "Shootings kill 2 students at Des Moines youth nonprofit - Des Moines Register",
-            "description": "A police spokesman said three people were taken into custody. The spokesman also said the victims were targeted but did not know their ages.",
-            "url": "https://www.desmoinesregister.com/story/news/crime-and-courts/2023/01/23/shooting-des-moines-school-downtown-multiple-victims-office/69833401007/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/23/PDEM/a0fbfbdd-880b-4d9b-8205-9a19941f836e-MicrosoftTeams-image_2.png?auto=webp&crop=3263,1836,x0,y165&format=pjpg&width=1200",
-            "publishedAt": "2023-01-23T23:40:13Z",
-            "content": "Two students were killed just before 1 p.m. Monday in shootings at Starts Right Here, an educational mentorship program in downtown Des Moines that helps at-risk youth and has won high-profile suppor… [+7944 chars]"
+            "title": "2023 Baseball Hall of Fame announcement: Date, time, TV channel, watch online, storylines, prediction - CBS Sports",
+            "description": "We'll learn the rest of the 2023 Baseball Hall of Fame class on Tuesday evening",
+            "url": "https://www.cbssports.com/mlb/news/2023-baseball-hall-of-fame-announcement-date-time-tv-channel-how-to-watch-online-storylines-prediction/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/22/ce0d696e-3cd4-4c72-9c28-8a9dd32df837/thumbnail/1200x675/cc5d30de3331af80296ba76c99b12199/scott-rolen-usatsi.png",
+            "publishedAt": "2023-01-23T23:39:00Z",
+            "content": "The results of the BBWAA vote for the 2022 Baseball Hall of Fame class will be revealed Tuesday night. Much of the intrigue in this vote will revolve around the chance Scott Rolen makes it, the gains… [+9326 chars]"
         },
         {
             "source": {
@@ -56,211 +238,29 @@
         },
         {
             "source": {
-                "id": "reuters",
-                "name": "Reuters"
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
             },
-            "author": null,
-            "title": "Ex-FBI official worked for sanctioned Russian oligarch, prosecutors say - Reuters",
-            "description": "A former top FBI official was charged on Monday with working for sanctioned Russian oligarch Oleg Deripaska, as U.S. prosecutors ramp up efforts to enforce sanctions on Russian officials and police their alleged enablers.",
-            "url": "https://www.reuters.com/world/us/ex-fbi-official-charged-with-violating-us-sanctions-russia-2023-01-23/",
-            "urlToImage": "https://www.reuters.com/resizer/ADbwgeOG3g28VH-S8kkfig54mw0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YJARCKIMHNNU5DNOSD6MC46EUU.jpg",
-            "publishedAt": "2023-01-23T23:24:00Z",
-            "content": "NEW YORK, Jan 23 (Reuters) - A former top FBI official was charged on Monday with working for sanctioned Russian oligarch Oleg Deripaska, as U.S. prosecutors ramp up efforts to enforce sanctions on R… [+2938 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Michael Kunzelman",
-            "title": "Four Oath Keepers convicted of Jan. 6 seditious conspiracy - The Associated Press - en Español",
-            "description": "WASHINGTON (AP) — Four members of the Oath Keepers were convicted Monday of seditious conspiracy in the Jan. 6, 2021, Capitol attack  in the second major trial of far-right extremists accused of plotting to forcibly keep President Donald Trump in power.",
-            "url": "https://apnews.com/article/oath-keepers-seditious-conspiracy-conviction-2b9fb724c9839524d00ee389959e0e62",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/89e9c7e948ad481b9606832320e5efb9/3000.webp",
-            "publishedAt": "2023-01-23T23:15:00Z",
-            "content": "WASHINGTON (AP) Four members of the Oath Keepers were convicted Monday of seditious conspiracy in the Jan. 6, 2021, Capitol attack in the second major trial of far-right extremists accused of plottin… [+5782 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "U.S. FDA proposes shift to annual COVID vaccine shots - Reuters",
-            "description": "The U.S. health regulator on Monday proposed one dose of the latest updated COVID-19 shot annually for healthy adults, similar to the influenza immunization campaign, as it aims to simplify the country's COVID-vaccine strategy.",
-            "url": "https://www.reuters.com/world/us/us-fda-proposes-simplify-covid-vaccine-strategy-2023-01-23/",
-            "urlToImage": "https://www.reuters.com/resizer/q3wDVp9VvJzO7QFtKQWxYVBo_x0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DFMQ5RHZANK35LPVGH7V2J2MRU.jpg",
-            "publishedAt": "2023-01-23T22:56:00Z",
-            "content": "Jan 23 (Reuters) - The U.S. health regulator on Monday proposed one dose of the latest updated COVID-19 shot annually for healthy adults, similar to the influenza immunization campaign, as it aims to… [+1879 chars]"
+            "author": "Miles Kruppa",
+            "title": "Google to Reduce Top Executive Bonuses, CEO Sundar Pichai Says - The Wall Street Journal",
+            "description": "The company has announced the largest round of layoffs in its history",
+            "url": "https://www.wsj.com/articles/google-to-reduce-top-executive-bonuses-ceo-sundar-pichai-says-11674515967",
+            "urlToImage": "https://images.wsj.net/im-708817/social",
+            "publishedAt": "2023-01-23T23:19:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "The Guardian"
             },
-            "author": "Lora Kolodny",
-            "title": "Elon Musk testifies he would have sold SpaceX stock to take Tesla private in 2018 - CNBC",
-            "description": "Tesla CEO Elon Musk took the witness stand on Monday to defend himself against allegations that he committed securities fraud and cost shareholders money.",
-            "url": "https://www.cnbc.com/2023/01/23/elon-musk-says-he-would-have-sold-spacex-stock-to-take-tesla-private.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105468700-1537838864256gettyimages-1035233996.jpeg?v=1674514295&w=1920&h=1080",
-            "publishedAt": "2023-01-23T22:51:35Z",
-            "content": "Elon Musk told a San Francisco federal court on Monday that he could have sold shares of SpaceX to take Tesla private in 2018. He was then, and still is, the CEO and largest shareholder of both compa… [+3023 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "Lorenzo Reyes, USA TODAY",
-            "title": "Cowboys coach Mike McCarthy explains failed final play during divisional round loss vs. 49ers - USA TODAY",
-            "description": "Mike McCarthy said the Dallas Cowboys practiced the final play, which was a designed gadget play that had running back Ezekiel Elliott as the center.",
-            "url": "https://www.usatoday.com/story/sports/nfl/cowboys/2023/01/23/cowboys-coach-mike-mccarthy-explains-failed-final-play-against-49-ers/11107972002/",
-            "urlToImage": "https://www.gannett-cdn.com/-mm-/07c81cc0ca2c46fc5a35bb18d229ce6c7b182e93/c=0-240-4611-2834/local/-/media/2023/01/23/USATODAY/usatsports/a2ba9ebfd4ac4e4e803655251420754f.jpg?auto=webp&format=pjpg&width=1200",
-            "publishedAt": "2023-01-23T21:32:54Z",
-            "content": "Though it was an obvious attempt of desperation, the play was so poorly executed that it lit up social media. All Dallas Cowboys coach Mike McCarthy could do in the aftermath was lament what happened… [+2080 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Ron Amadeo",
-            "title": "Big layoffs at Google’s Fuchsia OS call the project’s future into question - Ars Technica",
-            "description": "Fuchsia lost 16 percent of its employees, while the rest of Google cut 6 percent.",
-            "url": "https://arstechnica.com/gadgets/2023/01/big-layoffs-at-googles-fuchsia-os-call-the-projects-future-into-question/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/01/Google-Fuchsia-760x380.jpg",
-            "publishedAt": "2023-01-23T21:15:06Z",
-            "content": "Enlarge/ Google's Fuchsia OS, circa 2018, running on a Pixelbook.\r\n40 with 0 posters participating\r\nGoogle is still reeling from the biggest layoff in company history last Friday. Earlier cost cuts o… [+2641 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Alexandra Semenova",
-            "title": "Stock market news live updates: Tech leads stocks higher as big earnings week begins - Yahoo Finance",
-            "description": "U.S. stocks gained Monday as investors braced for a jam-packed week of corporate earnings and contemplated the Federal Reserve's next rate move before...",
-            "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-january-23-2023-111002698.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HsewSY.t3P4JMt2XK6vT4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/b07eee20-9844-11ed-bcd5-a34e00b2c97a",
-            "publishedAt": "2023-01-23T21:04:02Z",
-            "content": "U.S. stocks gained Monday as investors braced for a jam-packed week of corporate earnings and contemplated the Federal Reserve's next rate move before officials meet later this month.\r\nThe S&amp;P 50… [+4318 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Elizabeth Wolfe, Holly Yan, Chris Boyette, Eric Levenson",
-            "title": "Death toll in Monterey Park mass shooting rises to 11 as investigators search for gunman's motive - CNN",
-            "description": "The death toll in Saturday's mass shooting at a dance studio in Monterey Park, California, rose to 11 on Monday as investigators searched the gunman's background for an explanation as to the massacre.",
-            "url": "https://www.cnn.com/2023/01/23/us/monterey-park-california-mass-shooting-monday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230122103632-17-monterey-park-shooting-012223.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-23T20:23:00Z",
-            "content": "The death toll in Saturdays mass shooting at a dance studio in Monterey Park, California, rose to 11 on Monday as investigators searched the gunmans background for an explanation as to the massacre.\r… [+7053 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "https://www.engadget.com/about/editors/will-shanklin-1",
-            "title": "Apple releases iOS 16.3 with support for physical security keys - Engadget",
-            "description": "Apple’s latest mobile software update lets you log into your Apple ID with a physical security key..",
-            "url": "https://www.engadget.com/ios-16-3-physical-security-keys-details-200420087.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/796b20b0-9b56-11ed-a7be-dfceb98f6d71",
-            "publishedAt": "2023-01-23T20:06:26Z",
-            "content": "Apple boosted iOS security today with the release of its 16.3 software update. For the first time, iOS users can use physical security keys for two-factor authentication (2FA) of their Apple ID. This… [+1345 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Alta Spells",
-            "title": "Snapchat video sent by Paul Murdaugh the night he was killed considered critical part of case, prosecutors say - CNN",
-            "description": "Paul Murdaugh sent a Snapchat video to several friends just minutes before he was killed, according to a motion filed by the South Carolina state attorney prosecuting Alex Murdaugh, the disgraced former lawyer standing trial starting this week in the killing …",
-            "url": "https://www.cnn.com/2023/01/23/us/murdaugh-snapchat-video/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230123115452-alex-murdaugh-court-arrival-0123.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-23T19:58:00Z",
-            "content": "Paul Murdaugh sent a Snapchat video to several friends just minutes before he was killed, according to a motion filed by the South Carolina state attorney prosecuting Alex Murdaugh, the disgraced for… [+2118 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ashley Strickland",
-            "title": "Webb telescope peers into the frozen heart of a space cloud - CNN",
-            "description": "The James Webb Space Telescope peered inside a wispy molecular cloud located 630 light-years away and spied ices made of different elements.",
-            "url": "https://www.cnn.com/2023/01/23/world/webb-telescope-ice-chemistry-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230123113224-james-webb-space-telescope-chameleon-i-dark-molecular-cloud.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-23T19:47:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe James Webb Space Telescope peered inside a wispy m… [+3558 chars]"
-        },
-        {
-            "source": {
-                "id": "bloomberg",
-                "name": "Bloomberg"
-            },
-            "author": null,
-            "title": "Sweden Shouldn't Expect Turkey Support in NATO Bid, Erdogan Says - Bloomberg",
-            "description": null,
-            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=18ad893c-9b82-11ed-80a1-666a4a646a49&url=L25ld3MvYXJ0aWNsZXMvMjAyMy0wMS0yMy9zd2VkZW4tc2hvdWxkbi10LWV4cGVjdC10dXJrZXktc3VwcG9ydC1pbi1uYXRvLWJpZC1lcmRvZ2FuLXNheXM=",
-            "urlToImage": null,
-            "publishedAt": "2023-01-23T18:42:01Z",
-            "content": "To continue, please click the box below to let us know you're not a robot."
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "Monika Scislowska",
-            "title": "Poland pushes for more tanks for Kyiv, will seek German OK - The Associated Press",
-            "description": "WARSAW, Poland (AP) — Poland said Monday it would ask Berlin for permission to send German-built Leopard tanks to Ukraine as its Western allies move to supply Kyiv with more powerful military hardware to thwart Russia’s invasion .",
-            "url": "https://apnews.com/661511122fce6c283bb5742a43922c4c",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f68463741fd14350b4da529cb81ef422/3000.webp",
-            "publishedAt": "2023-01-23T18:22:30Z",
-            "content": "WARSAW, Poland (AP) Poland said Monday it would ask Berlin for permission to send German-built Leopard tanks to Ukraine as its Western allies move to supply Kyiv with more powerful military hardware … [+6340 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Ryan Gaydos",
-            "title": "Shannon Sharpe apologizes for role in heated incident during Lakers-Grizzlies game: 'I was wrong' - Fox News",
-            "description": "Shannon Sharpe issued an apology to the Memphis Grizzlies and Los Angeles Lakers organizations for his role in a heated incident during the teams' game Friday.",
-            "url": "https://www.foxnews.com/sports/shannon-sharpe-apologizes-role-heated-incident-lakers-grizzlies-game-wrong",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Shannon-Sharpe.jpg",
-            "publishedAt": "2023-01-23T18:19:00Z",
-            "content": "NFL legend Shannon Sharpe apologized Monday for his role in a heated argument with Memphis Grizzlies players during the teams game against the Lakers in Los Angeles.\r\nSharpe, a co-host on the FOX Spo… [+2552 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Pakistan power cut: Major cities without electricity after grid breakdown - BBC",
-            "description": "It happened after power grids were turned on in the morning, leaving millions without electricity.",
-            "url": "https://www.bbc.com/news/world-asia-64369144",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A6F2/production/_128383724_pakistan_power_cut_epa.jpg",
-            "publishedAt": "2023-01-23T17:59:47Z",
-            "content": "Pakistan suffered a huge power cut early on Monday following a breakdown in its national grid, leaving millions of people without electricity.\r\nPower was out in all major centres, including the bigge… [+3325 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jeremy Diamond, Phil Mattingly, Kevin Liptak, Evan Perez",
-            "title": "Bob Bauer: The man behind Biden's classified documents strategy - CNN",
-            "description": "President Joe Biden was facing the prospect of an imminent federal investigation after the discovery of classified documents at his former Washington office in November -- and it was up to Bob Bauer, his personal attorney, to break the news to the White House…",
-            "url": "https://www.cnn.com/2023/01/23/politics/bob-bauer-joe-biden-documents-strategy/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230123123338-file-bob-bauer.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-23T17:47:00Z",
-            "content": "President Joe Biden was facing the prospect of an imminent federal investigation after the discovery of classified documents at his former Washington office in November and it was up to Bob Bauer, hi… [+11793 chars]"
+            "author": "Ian Sample",
+            "title": "Exotic green comet not seen since stone age returns to skies above Earth - The Guardian",
+            "description": "Comet C/2022 E3, which orbits the sun every 50,000 years, will be closest to us next Wednesday and Thursday",
+            "url": "https://www.theguardian.com/science/2023/jan/23/exotic-green-comet-not-seen-since-stone-age-returns-to-skies-above-earth",
+            "urlToImage": "https://i.guim.co.uk/img/media/9730663c32600f834f712efbe85bc4ac6579712c/126_0_2718_1631/master/2718.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=919353564df408a7381dc0a48d808816",
+            "publishedAt": "2023-01-23T22:45:00Z",
+            "content": "An exotic green comet that has not passed Earth since the time of the Neanderthals has reappeared in the sky ready for its closest approach to the planet next week.\r\nDiscovered last March by astronom… [+1989 chars]"
         }
     ]
 }
