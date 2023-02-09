@@ -4,198 +4,55 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Francetvinfo.fr"
+                "id": "le-monde",
+                "name": "Le Monde"
             },
-            "author": "Benoît Jourdain",
-            "title": "Coupe de France : l'OM domine le PSG et s'offre une place dans le quart - franceinfo",
-            "description": "Les grands rivaux, qui occupent actuellement les deux premières places de la Ligue 1, se retrouvaient en huitième de finale de la Coupe de France. L'OM s'est imposé 2-1.",
-            "url": "https://www.francetvinfo.fr/sports/foot/direct-coupe-de-france-suivez-en-direct-le-match-entre-l-om-et-le-psg-l-affiche-des-8es-de-finale_5647235.html",
-            "urlToImage": "https://www.francetvinfo.fr/image/765mnkwpx-0aa6/1500/843/30800858.jpg",
-            "publishedAt": "2023-02-08T22:31:28Z",
-            "content": "Retrouvez ici l'intégralité de notre live #FOOT\r\n23h21 : A noter qu'on félicite ma collègue Camille, le précog de cette rédaction, qui avait vu juste. Elle avait annoncé une victoire marseillaise 2-1… [+8071 chars]"
+            "author": "Le Monde avec AFP",
+            "title": "Guerre en Ukraine, en direct : Volodymyr Zelensky s'exprime devant le Parlement européen lors d'une visite à Bruxelles - Le Monde",
+            "description": "Le président ukrainien, en visite à Bruxelles, s’est exprimé devant les eurodéputés en session plénière, qui l’ont acclamé debout dans l’hémicycle. Il doit ensuite rejoindre le sommet des dirigeants des Vingt-Sept. M. Zelensky était, mercredi, en visite à Lon…",
+            "url": "https://www.lemonde.fr/international/live/2023/02/09/guerre-en-ukraine-en-direct-volodymyr-zelensky-est-arrive-a-bruxelles-pour-rencontrer-les-vingt-sept_6161094_3210.html",
+            "urlToImage": "https://img.lemde.fr/2023/02/09/225/0/5472/2736/1440/720/60/0/6944a09_b243181bd06942a58ebc0c8f5254c94b-0-590acf0cfd6d4b8696a16a2c46363ad3.jpg",
+            "publishedAt": "2023-02-09T10:30:00Z",
+            "content": "« Il sagit dun moment extraordinaire, en des temps extraordinaires », a déclaré Roberta Metsola, dans un discours ponctué par les applaudissements des eurodéputés.\r\n« Désormais, les Etats doivent env… [+1024 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "YouTube"
+                "name": "Midi Libre"
             },
-            "author": null,
-            "title": "Le résumé de Manchester United / Leeds - Premier League 2022-23 (8ème journée) - CANAL+ Sport",
-            "description": "⚽️🏴󠁧󠁢󠁥󠁮󠁧󠁿 Encore plus de Premier League sur myCANAL : https://www.canalplus.com/premier-league/🔔 Abonnez-vous pour suivre toute l’actu sport de CANAL...",
-            "url": "https://www.youtube.com/watch?v=NmR6MyCXFYM",
-            "urlToImage": "https://i.ytimg.com/vi/NmR6MyCXFYM/maxresdefault.jpg",
-            "publishedAt": "2023-02-08T22:16:51Z",
-            "content": null
+            "author": "Elise Do Marcolino",
+            "title": "Épidémie de grippe : 11 régions sur 13 concernées par le rebond des contaminations, l'Occitanie dans le rouge - Midi Libre",
+            "description": "L'épidémie de grippe repart à la hausse. Avec une augmentation de 38 % du taux d'incidence, le virus circule dans toute la France. Ce 9 février, 11 régions sont concernées par un niveau d'alerte rouge.",
+            "url": "https://www.midilibre.fr/2023/02/09/epidemie-de-grippe-11-regions-sur-13-concernees-par-le-rebond-des-contaminations-loccitanie-dans-le-rouge-10986662.php",
+            "urlToImage": "https://images.midilibre.fr/api/v1/images/view/63e4af85f1865c521372a650/large/image.jpg?v=1",
+            "publishedAt": "2023-02-09T10:01:00Z",
+            "content": "L'épidémie de grippe repart à la hausse. Avec une augmentation de 38 % du taux d'incidence, le virus circule dans toute la France. Ce 9 février, 11 régions sont concernées par un niveau d'alerte roug… [+2333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "L'Indépendant"
+            },
+            "author": "Stéphane Sicard",
+            "title": "Guerre en Ukraine: Le groupe Wagner assure ne plus recruter de prisonniers après en avoir enrôlé près de 30.00 - L'Indépendant",
+            "description": "Le groupe Wagner a largement puisé dans les prisons russes pour grossir les rangs de ses mercenaires appelés à combattre en Ukraine.",
+            "url": "https://www.lindependant.fr/2023/02/09/guerre-en-ukraine-le-groupe-wagner-assure-ne-plus-recruter-de-prisonniers-apres-en-avoir-enrole-pres-de-30000-10986864.php",
+            "urlToImage": "https://images.lindependant.fr/api/v1/images/view/63e4c28135dc742c037e8bde/large/image.jpg?v=1",
+            "publishedAt": "2023-02-09T09:57:00Z",
+            "content": "Le groupe Wagner a largement puisé dans les prisons russes pour grossir les rangs de ses mercenaires appelés à combattre en Ukraine.\r\n La société privée militaire Wagner, propriété de l'oligarque rus… [+1698 chars]"
         },
         {
             "source": {
                 "id": "le-monde",
                 "name": "Le Monde"
             },
-            "author": "Le Monde",
-            "title": "Guerre en Ukraine, en direct : à l'Elysée, Macron assure Zelensky de sa volonté de poursuivre « l'effort » de livraisons d'armes à Kiev - Le Monde",
-            "description": "Après une visite à Londres, le président ukrainien est en France, mercredi soir, et a de nouveau demandé à ses alliés l’envoi d’armes lourdes à Kiev.",
-            "url": "https://www.lemonde.fr/international/live/2023/02/08/guerre-en-ukraine-en-direct-a-l-elysee-macron-assure-zelensky-de-sa-volonte-de-poursuivre-l-effort-de-livraisons-d-armes-a-kiev_6160951_3210.html",
-            "urlToImage": "https://img.lemde.fr/2023/02/08/25/0/3600/1800/1440/720/60/0/6cfe189_1675892698200-n1a8853.jpg",
-            "publishedAt": "2023-02-08T22:12:07Z",
-            "content": "Dans un entretien avec Le Figaroet lhebdomadaire allemand Der Spiegel, Volodymyr Zelensky juge quEmmanuel Macron qui le reçoit dans la soirée a désormais « changé pour de vrai » depuis certaines décl… [+1786 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boursorama"
-            },
-            "author": null,
-            "title": "Paris de nouveau en conflit avec Berlin et Madrid sur l'hydrogène - Boursorama",
-            "description": "par Michel Rose, Belén Carreño et Kate Abnett\n\n\n PARIS/MADRID/BRUXELLES (Reuters) -     Une nouvelle querelle a éclaté entre la France, l'Allemagne et l'Espagne à propos de l'énergie nucléaire, Paris étant furieux du manque de soutien de Berlin et Madrid dans…",
-            "url": "https://www.boursorama.com/bourse/actualites/paris-de-nouveau-en-conflit-avec-berlin-et-madrid-sur-l-hydrogene-b93fbe0ccd5d2e287ce6d6b965dc5641",
-            "urlToImage": "https://s.brsimg.com/static-000/cache/i/content/images/9/3/b/93bf1b9b0e8b2c3b13197b748c096774-1200x800.jpg",
-            "publishedAt": "2023-02-08T21:09:25Z",
-            "content": "Une usine d'hydrogène vert au Cepsa Energy Park à San Roque, en Espagne\r\npar Michel Rose, Belén Carreño et Kate Abnett\r\nPARIS/MADRID/BRUXELLES (Reuters) - Une nouvelle querelle a éclaté entre la Fran… [+3626 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Boursorama"
-            },
-            "author": null,
-            "title": "Washington évoque une \"flotte\" de ballons espions chinois - Boursorama",
-            "description": "Les Etats-Unis ont indiqué mercredi être \"en discussions avec (leurs) alliés et partenaires\" à propos de la \"flotte\" de ballons d'espionnage que la Chine a selon eux déployée dans le monde entier ces dernières années.\n\n\n \"Des ballons chinois ont été observés …",
-            "url": "https://www.boursorama.com/actualite-economique/actualites/washington-evoque-une-flotte-de-ballons-espions-chinois-16e033997a94e94d7cd6880e3cbafcd2",
-            "urlToImage": "https://s.brsimg.com/static-000/cache/i/content/images/f/0/f/f0fb810608d5181445e317dcaecbaa9e-1200x800.jpg",
-            "publishedAt": "2023-02-08T21:00:58Z",
-            "content": "Photo diffusée par Chase Doak, le 2 février 2023, d'un ballon soupçonné de se livrer à des activités d'espionnage pour le compte de la Chine, au-dessus de Billings, dans le Montana ( CHASE DOAK / Cha… [+3367 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNEWS.fr"
-            },
-            "author": "CNEWS avec AFP",
-            "title": "Canada : un bus percute intentionnellement une garderie, deux enfants tués et six autres blessés - CNEWS",
-            "description": "Ce mercredi, un homme a volontairement percuté avec son bus une garderie près de Montréal, tuant deux jeunes enfants et en blessant plusieurs autres, ont annoncé les autorités policières.",
-            "url": "https://www.cnews.fr/monde/2023-02-08/canada-un-bus-percute-intentionnellement-une-garderie-pres-de-montreal-plusieurs-enfants-grievement",
-            "urlToImage": "https://static.cnews.fr/sites/default/files/000_338t6rc-taille1200_63e3cd353b95d_0.jpg",
-            "publishedAt": "2023-02-08T20:49:06Z",
-            "content": "Publié le\r\n08/02/2023 à 21:46 -\r\nMis à jour le\r\n08/02/2023 à 21:46\r\nCe mercredi, un homme a volontairement percuté avec son bus une garderie près de Montréal, tuant deux jeunes enfants et en blessant… [+2344 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BFMTV"
-            },
-            "author": null,
-            "title": "EN DIRECT - Séisme en Turquie et en Syrie: le bilan dépasse désormais les 12.000 morts - BFMTV",
-            "description": "Le séisme qui a frappé la Turquie et la Syrie a fait plus de 12.000 morts, selon de nouveaux bilans officiels. Des régions entières ont été ravagées par les secousses qui ont aussi fait des milliers de blessés et de sans-abri.",
-            "url": "https://www.bfmtv.com/international/moyen-orient/turquie/en-direct-seismses-en-turquie-et-syrie-plus-de-7800-morts-le-bilan-ne-cesse-d-augmenter_LN-202302080050.html",
-            "urlToImage": "https://images.bfmtv.com/n1KTpn7Mohy7daH5oK2wfw7Tt6s=/7x111:2039x1254/2032x0/images/Un-homme-au-milieu-des-decombres-d-une-rue-d-Hatay-en-Turquie-le-7-fevrier-2023-1573771.jpg",
-            "publishedAt": "2023-02-08T19:52:50Z",
-            "content": "Depuis le séisme meurtrier qui a frappé lundi la Turquie et la Syrie, les réseaux sociaux regorgent d'informations erronées et d'images et de vidéos détournées supposant montrer notamment un \"tsunami… [+1640 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Résumé : Lyon évite la catastrophe et élimine le LOSC - beIN SPORTS France",
-            "description": "[📺 RÉSUMÉ VIDÉO] 🏆 #CoupeDeFrance😅 L'OL évite la castastrophe ! Il menait 2-0 face au LOSC avant de voir les Lillois revenir à 2-2 !👉 Finalement, les Lyo...",
-            "url": "https://www.youtube.com/watch?v=q4fFCTtorHo",
-            "urlToImage": "https://i.ytimg.com/vi/q4fFCTtorHo/maxresdefault.jpg",
-            "publishedAt": "2023-02-08T19:38:24Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ouest-France"
-            },
-            "author": null,
-            "title": "Réforme des retraites : qu'en est-il dans les autres pays européens ? - Ouest-France",
-            "description": null,
-            "url": "https://www.ouest-france.fr/economie/retraites/reforme-des-retraites-qu-en-est-il-dans-les-autres-pays-europeens-339f2b50-a0ae-11ed-be8f-4d2939631a03",
-            "urlToImage": null,
-            "publishedAt": "2023-02-08T19:33:24Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "jeuxvideo.com"
-            },
-            "author": null,
-            "title": "Hogwarts Legacy : les développeurs parlent du personnage transgenre présent dans le jeu vidéo - jeuxvideo.com",
-            "description": null,
-            "url": "https://www.jeuxvideo.com/news/1706923/hogwarts-legacy-les-developpeurs-parlent-du-personnage-transgenre-present-dans-le-jeu-video.htm",
-            "urlToImage": null,
-            "publishedAt": "2023-02-08T19:17:51Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "les-echos",
-                "name": "Les Echos"
-            },
-            "author": "Anne Drif",
-            "title": "Les familles Peugeot et Dassault prêtes à soutenir Rothschild & Co - Les Échos",
-            "description": "Les deux grandes familles françaises ainsi que d'autres investisseurs sont en discussion pour soutenir le retrait de la Bourse de la prestigieuse banque d'affaires, selon nos informations.",
-            "url": "https://www.lesechos.fr/finance-marches/ma/les-familles-peugeot-et-dassault-pretes-a-entrer-au-capital-de-rothschild-co-1904868",
-            "urlToImage": "https://media.lesechos.com/api/v1/images/view/63e3f485ac7afa2c120aa554/1280x720/0703375285777-web-tete.jpg",
-            "publishedAt": "2023-02-08T19:13:14Z",
-            "content": "La famille de David de Rothschild s'entoure des grands noms du capitalisme français pour faire ses adieux à la Bourse . Selon nos informations, les familles Peugeot et Dassault sont prêtes à soutenir… [+761 chars]"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Nicole Vulser",
-            "title": "Les 70 ans du livre de poche, un bienfait qui semble inoxydable - Le Monde",
-            "description": "En 2022, 81 millions d’exemplaires se sont écoulés, soit près d’un livre sur quatre vendus en France. Cet engouement pour l’objet, qui ne se dément pas depuis 1953, n’arrive cependant pas à inverser la chute inexorable de la lecture en France.",
-            "url": "https://www.lemonde.fr/idees/article/2023/02/08/les-70-ans-du-livre-de-poche-un-bienfait-qui-semble-inoxydable_6161065_3232.html",
-            "urlToImage": "https://img.lemde.fr/2018/07/30/0/134/473/315/1440/960/60/0/0883451_15290-t1gjjk.opvlk.JPG",
-            "publishedAt": "2023-02-08T19:00:05Z",
-            "content": "Analyse. On a oublié à quel point le livre de poche a opposé les intellectuels au milieu des années 1960, quand ce type douvrage sest ouvert aux essais, aux idées, aux sciences humaines et au Nouveau… [+2436 chars]"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Pierre Trouvé",
-            "title": "Le régulateur britannique de la concurrence rend un avis défavorable concernant le rachat d'Activision par Microsoft - Le Monde",
-            "description": "Après cinq mois d’enquête, le régulateur craint notamment que l’acquisition du géant du jeu vidéo « porte préjudice » aux consommateurs. Microsoft a jusqu’au 22 février pour répondre à ses préoccupations.",
-            "url": "https://www.lemonde.fr/pixels/article/2023/02/08/le-regulateur-britannique-de-la-concurrence-rend-un-avis-defavorable-concernant-le-rachat-d-activision-par-microsoft_6161064_4408996.html",
-            "urlToImage": "https://img.lemde.fr/2023/02/08/0/0/3500/2333/1440/960/60/0/38dd812_fw1-activision-m-a-microsoft-britain-0118-11.jpg",
-            "publishedAt": "2023-02-08T18:59:24Z",
-            "content": "Les différents épisodes de « Call of Duty » se seraient écoulés à 425 millions dexemplaires et auraient rapporté plus de 30 milliards de dollars, selon des chiffres dActivision publiés en juin 2022. … [+3901 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Le Parisien"
-            },
-            "author": "Catherine Gasté, Victor  Tassel, avec Erwan Benezet",
-            "title": "Réforme des retraites : les syndicats annoncent une nouvelle journée de mobilisation le 16 février - Le Parisien",
-            "description": "À la veille de la grande manifestation prévue ce samedi les organisations syndicales ont déjà complété le calendrier de riposte. La date est symbolique : c’est le jour où les députés doivent examiner le fameux article 7 de la loi actant le recul de l’âge léga…",
-            "url": "https://www.leparisien.fr/economie/retraites/reforme-des-retraites-les-syndicats-annoncent-une-nouvelle-journee-de-mobilisation-le-16-fevrier-08-02-2023-NN3O75ZSJVEOPPOQ4LW4GQWGMY.php",
-            "urlToImage": "https://www.leparisien.fr/resizer/GjgwLLHuZxh_3pbWSkUeiOVMgmM=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/IM36WYV32ZA4DPW5YWHGZ34WBA.jpg",
-            "publishedAt": "2023-02-08T18:47:00Z",
-            "content": "À peine le temps datterrir et déjà un nouvel appel à la mobilisation à lhorizon. Au lendemain de la 4e journée daction contre la réforme des retraites qui a rassemblé 757 000 personnes selon lIntérie… [+3994 chars]"
-        },
-        {
-            "source": {
-                "id": "le-monde",
-                "name": "Le Monde"
-            },
-            "author": "Emilie Grangeray",
-            "title": "« Clara Luciani. Ça commence comme ça », sur Amazon Prime : itinéraire d'une chanteuse « mal à l'aise avec son image » - Le Monde",
-            "description": "Couronnée par un succès critique et public, l’artiste majeure de la pop à la française se laisse filmer pour un émouvant portrait.",
-            "url": "https://www.lemonde.fr/culture/article/2023/02/08/clara-luciani-ca-commence-comme-ca-sur-amazon-prime-itineraire-d-une-chanteuse-mal-a-l-aise-avec-son-image_6161059_3246.html",
-            "urlToImage": "https://img.lemde.fr/2023/02/08/0/125/1350/900/1440/960/60/0/3984b1f_1675846750994-2100473-jpg-r-1920-1080-f-jpg-q-x-xxyxx.jpg",
-            "publishedAt": "2023-02-08T18:00:21Z",
-            "content": "La chanteuse Clara Luciani dans le documentaire de Philippe Lézin, « Clara Luciani. Ça commence comme ça ». AMAZON PRIME\r\nAMAZON PRIME À LA DEMANDE DOCUMENTAIRE\r\nParce que produit en association avec… [+3137 chars]"
+            "author": "Bertrand Bissuel, Thibaud Métais",
+            "title": "Réforme des retraites : les syndicats s'indignent de l'accusation de « mensonge » d'Olivier Dussopt - Le Monde",
+            "description": "Alors qu’une nouvelle journée de mobilisation a déjà été annoncée pour le 16 février, les organisations de salariés se montrent agacées par des propos du ministre du travail au « Monde ».",
+            "url": "https://www.lemonde.fr/politique/article/2023/02/09/reforme-des-retraites-les-syndicats-s-indignent-de-l-accusation-de-mensonge-d-olivier-dussopt_6161119_823448.html",
+            "urlToImage": "https://img.lemde.fr/2023/02/07/0/0/5500/3666/1440/960/60/0/977fa83_1675802311924-ad007-antireformeretraitesiii07616.jpg",
+            "publishedAt": "2023-02-09T09:21:41Z",
+            "content": "Le ministre du travail Olivier Dussopt à la tribune, lors des débats sur la loi retraite à lAssemblée nationale, à Paris, le 6 février 2023. JULIEN MUGUET POUR « LE MONDE »\r\nLa mobilisation contre la… [+3186 chars]"
         },
         {
             "source": {
@@ -203,64 +60,207 @@
                 "name": "Lefigaro.fr"
             },
             "author": null,
-            "title": "Volodymyr Zelensky au Figaro : «Si Poutine gagne cette guerre, il recommencera la même chose ailleurs» - Le Figaro",
+            "title": "Biden estime que Xi Jinping a «d'énormes problèmes», Pékin fustige des propos «totalement irresponsables» - Le Figaro",
             "description": null,
-            "url": "https://www.lefigaro.fr/international/volodymyr-zelensky-au-figaro-si-poutine-gagne-cette-guerre-il-recommencera-la-meme-chose-ailleurs-20230208",
+            "url": "https://www.lefigaro.fr/international/biden-juge-que-xi-jinping-rencontre-d-enormes-problemes-20230209",
             "urlToImage": null,
-            "publishedAt": "2023-02-08T17:59:19Z",
+            "publishedAt": "2023-02-09T09:09:47Z",
             "content": null
         },
         {
             "source": {
-                "id": "liberation",
-                "name": "Libération"
+                "id": "lequipe",
+                "name": "L'equipe"
             },
-            "author": "Jérôme Lefilliâtre",
-            "title": "TotalEnergies, LVMH, BNP… La super-indécence des super-profits - Libération",
-            "description": "Après les résultats faramineux du groupe de luxe et de la banque, le pétrolier a annoncé mercredi un profit record de 19 milliards d’euros.",
-            "url": "https://www.liberation.fr/economie/totalenergies-bnp-lvmh-la-super-indecence-des-superprofits-20230208_VC627IS7BNDYZII4LYGMHZOBGE/",
-            "urlToImage": "https://www.liberation.fr/resizer/542ahBRcgZxwsyMr0wfwCUmcMDI=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/IUFHTKF25BCXVPUU4DSERVM2AQ.jpg",
-            "publishedAt": "2023-02-08T17:50:00Z",
-            "content": "La saison des «superprofits» est rouverte. Depuis quelques jours, lactualité économique est rythmée par les publications successives, par les grandes entreprises françaises, de leurs résultats financ… [+932 chars]"
-        },
-        {
-            "source": {
-                "id": "liberation",
-                "name": "Libération"
-            },
-            "author": "Jonathan Bouchet-Petersen",
-            "title": "Taxer les milliardaires : la leçon de Joe Biden qui devrait inspirer Emmanuel Macron - Libération",
-            "description": "Mettre plus à contribution les ultrariches pour faire face aux défis sociaux et écologiques est une nécessité. Alors que le président américain s’est dit prêt à passer aux actes, le sujet ne devrait pas être balayé par l'exécutif français.",
-            "url": "https://www.liberation.fr/politique/taxer-les-milliardaires-la-lecon-de-joe-biden-qui-devrait-inspirer-emmanuel-macron-20230208_XHUZYT72BRANVFSJKLPPOULO3Y/",
-            "urlToImage": "https://www.liberation.fr/resizer/yXw4R6euzVL_B6v9fZDl1nWaR48=/1200x630/filters:format(jpg):quality(70):focal(1597x745:1607x755)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/MGZIFIH4ORDZ3CN4BFW5UDMWHM.jpg",
-            "publishedAt": "2023-02-08T17:45:31Z",
-            "content": "«Aucun milliardaire ne devrait payer un taux dimposition inférieur à celui dun enseignant ou dun pompier.» La sentence, qui sonne comme une évidence mais qui est loin dêtre une réalité, nest pas de J… [+920 chars]"
+            "author": "Rédaction",
+            "title": "4,2 millions de téléspectateurs devant OM-PSG sur France 3 - L'Équipe",
+            "description": "Diffusé en clair sur France 3 mercredi soir, le huitième de finale de Coupe de France OM-PSG (2-1) a réalisé une belle audience.",
+            "url": "https://www.lequipe.fr/Medias/Actualites/4-2-millions-de-telespectateurs-devant-om-psg-sur-france-3/1379770",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/4-2-millions-de-telespectateurs-ont-regarde-om-psg-2-1-sur-france-3-mercredi-soir-b-papon-l-equipe/1500000001746576/0:0,1995:1330-640-427-75/632ed.jpg",
+            "publishedAt": "2023-02-09T09:06:57Z",
+            "content": "C'était l'affiche des huitièmes de finale de la Coupe de France. Mercredi soir, OM-PSG (2-1) a réuni en moyenne 4,2 millions de téléspectateurs (19,5 % de part d'audience) sur France 3, selon Médiamé… [+93 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eurosport.fr"
+                "name": "Rugbyrama.fr"
+            },
+            "author": "Nicolas Augot",
+            "title": "[VIDEO] XV de France : pic de forme attendu à Dublin - Rugbyrama",
+            "description": "6 NATIONS 2023 - Après sa victoire à Rome lors du premier match du Tournoi, le XV de France a poursuivi sa récupération et la préparation du choc face à l'Irlande en Italie. Le centre Gaël Fickou est revenu sur l'indiscipline française face aux Azurri et assu…",
+            "url": "https://www.rugbyrama.fr/2023/02/09/6-nations-2023-xv-de-france-pic-de-forme-attendu-a-dublin-10985393.php",
+            "urlToImage": "https://images.rugbyrama.fr/api/v1/images/view/63e3f4c4a1ba5352c07fb94d/large/image.jpg?v=1",
+            "publishedAt": "2023-02-09T09:01:00Z",
+            "content": "6 NATIONS 2023 - Après sa victoire à Rome lors du premier match du Tournoi, le XV de France a poursuivi sa récupération et la préparation du choc face à l'Irlande en Italie. Le centre Gaël Fickou est… [+2665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "20 Minutes"
+            },
+            "author": "Pigiste Chaud",
+            "title": "Michel Drucker hospitalisé, son émission « Vivement dimanche » passe en rediffusions - 20 Minutes",
+            "description": "Le séjour à l’hôpital du présentateur vedette, qui passe des tests en lien avec des problèmes cardiaques passés, devrait se terminer « à la fin de la semaine »",
+            "url": "https://www.20minutes.fr/medias/4022684-20230209-television-michel-drucker-hospitalise-emission-vivement-dimanche-passe-rediffusions",
+            "urlToImage": "https://img.20mn.fr/q3x97Mo1Q0KA34EoYkA38Ck/1200x768_first-night-of-telethon-in-france-on-december-2nd-soiree-du-telethon-le-2-decembre-2022-michel-drucker-mpp-mpp291-credit-lionel-guericolas-mpp-sipa-2212031359-credit-lionel-guericolas-mpp-sipa-2212031417",
+            "publishedAt": "2023-02-09T08:44:12Z",
+            "content": "Petite alerte pour Michel Drucker. Le présentateur télé, âgé de 80 ans, est hospitalisé pour des tests en lien avec ses problèmes cardiaques passés, comme l’évoque Le Parisien. Par conséquent, les pr… [+1757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Cassim Ketfi, Cassim Ketfi",
+            "title": "Android 14 : coup d'envoi pour la Developer Preview 1 - Frandroid",
+            "description": "Comme chaque année, Google dévoile dès les premières semaines la Developer Preview de sa prochaine version majeure d'Android. Voici Android 14 DP1.",
+            "url": "https://www.frandroid.com/marques/google/1608403_android-14-coup-denvoi-pour-la-developer-preview-1",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2022/10/google-pixel-7-shooting-exterieur-test-11-scaled.jpg",
+            "publishedAt": "2023-02-09T08:30:23Z",
+            "content": "Comme chaque année, Google dévoile dès les premières semaines la Developer Preview de sa prochaine version majeure d'Android. Voici Android 14 DP1.\r\nLa face avant du Pixel 7. // Source : Frandroid Ch… [+2927 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "20 Minutes"
+            },
+            "author": "Frédéric Brenon",
+            "title": "A Rennes, des étudiants occupent la salle de la Cité et bloquent un meeting - 20 Minutes",
+            "description": "Le meeting de la Nupes a été contraint à l’annulation mercredi soir après l’irruption d’étudiants manifestant contre la réforme des retraites. Ils y sont restés durant la nuit",
+            "url": "https://www.20minutes.fr/faits_divers/4022679-20230209-reforme-retraites-rennes-etudiants-occupent-salle-cite-empechent-meeting",
+            "urlToImage": "https://img.20mn.fr/JN12dY0DTp-4YVve9uUnnSk/1200x768_la-salle-de-la-cite-en-centre-ville-de-rennes-est-occupee-depuis-mercredi-soir",
+            "publishedAt": "2023-02-09T08:13:08Z",
+            "content": "Le meeting politique des « forces de gauches réunies » (Nupes) ne s’est pas du tout passé comme prévu mercredi soir à la salle de la Cité à Rennes. Vers 20 heures, un groupe de manifestants d’un peu … [+1554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BFMTV"
             },
             "author": null,
-            "title": "Emilien Jacquelin sur la boulette de Quentin Fillon Maillet lors du relais mixte : \"Je me suis dit 'oh mon dieu !'\" - Eurosport FR",
-            "description": "COUPE DU MONDE - L'équipe de France a failli y perdre une médaille. Quentin Fillon Maillet s'est trompé de direction mercredi dans le final du relais mixte à Oberhof. Le tenant du gros globe de cristal s'en est rendu compte à temps pour que le quatuor tricolo…",
-            "url": "https://www.eurosport.fr/biathlon/championnats-du-monde/2022-2023/emilien-jacquelin-sur-la-boulette-de-quentin-fillon-maillet-lors-du-relais-mixte-je-me-suis-dit-oh-mon-dieu_vid1833139/video.shtml",
-            "urlToImage": "https://i.eurosport.com/2023/02/08/3547702-72263208-2560-1440.jpg",
-            "publishedAt": "2023-02-08T17:36:24Z",
-            "content": "COUPE DU MONDE - L'équipe de France a failli y perdre une médaille. Quentin Fillon Maillet s'est trompé de direction mercredi dans le final du relais mixte à Oberhof. Le tenant du gros globe de crist… [+227 chars]"
+            "title": "EN DIRECT - Séismes en Turquie et en Syrie: au moins 16.000 morts, l'espoir de trouver des rescapés diminue - BFMTV",
+            "description": "Le bilan des séismes qui ont frappé la Turquie et la Syrie ne cesse de s'alourdir et dépassait jeudi les 16.000 morts. Les chances de survie s'amenuisent plus de 72 heures après la catastrophe.",
+            "url": "https://www.bfmtv.com/international/moyen-orient/turquie/en-direct-seismes-en-turquie-et-en-syrie-au-moins-15-000-morts-l-espoir-de-trouver-des-rescapes-diminue_LN-202302090042.html",
+            "urlToImage": "https://images.bfmtv.com/IL4i9AUf_si1AOAlRecn3-nuknk=/0x106:2048x1258/2048x0/images/Vue-aerienne-de-residents-a-la-recherche-de-victimes-apres-un-tremblement-de-terre-en-Syrie-1572249.jpg",
+            "publishedAt": "2023-02-09T08:11:37Z",
+            "content": "Arrivé quelques heures après les séismes qui ont touché la zone, Éric Zipper secouriste de grandes catastrophes naturelles du corps mondial de Secours, témoigne des difficultés quotidiennes des sauve… [+586 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "La Provence"
+                "name": "20 Minutes"
             },
-            "author": "La Provence (avec AFP)",
-            "title": "Cinéma : le dernier Astérix et Obélix détrône \"Avatar\" au box-office - La Provence",
-            "description": "\"Par Toutatis\" ! Le film \"Astérix et Obélix : L'Empire du milieu\" a réalisé près de deux millions d'entrées pour sa première semaine d'exploitation en salles,...",
-            "url": "https://www.laprovence.com/actu/en-direct/68990613564965/cinema-le-dernier-asterix-et-obelix-detrone-avatar-au-box-office",
-            "urlToImage": "https://production-laprovence.twic.pics/v1/crop=981x551@0x31/cover=993x520/image:media/2023/01/31/ast%C3%A9rix.JPG",
-            "publishedAt": "2023-02-08T17:14:44Z",
-            "content": "\"Par Toutatis\" ! Le film \"Astérix et Obélix : L'Empire du milieu\" a réalisé près de deux millions d'entrées pour sa première semaine d'exploitation en salles, détrônant \"Avatar\" qui régnait en maître… [+1633 chars]"
+            "author": "Aymeric Le Gall",
+            "title": "Mondiaux de ski alpin : Drones, micros et storytelling… Comment rendre le ski alpin plus sexy à la télé ? - 20 Minutes",
+            "description": "Alors que les championnats du monde 2023 ont débuté de Courchevel et de Méribel, la question de la réalisation TV du ski alpin est au centre de toutes les attentions, notamment au sommet, du côté de la FIS",
+            "url": "https://www.20minutes.fr/sport/4022622-20230209-mondiaux-ski-alpin-drones-micros-storytelling-comment-rendre-ski-alpin-plus-sexy-tele",
+            "urlToImage": "https://img.20mn.fr/18LvfFX_TWm6r9u4lNF4Xik/1200x768_dimitar-dilkoff",
+            "publishedAt": "2023-02-09T08:02:36Z",
+            "content": "Alors que les championnats du monde de ski ont débuté cette semaine à Courchevel, avec un premier titre mondial à la clé pour Alexis Pinturault en combiné, un sujet agite le petit monde du planté de … [+7505 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BFMTV"
+            },
+            "author": null,
+            "title": "1,8 million d'entrées en une semaine pour \"Astérix\", qui détrône \"Avatar\" du box-office français - BFMTV",
+            "description": "Les plus célèbres des Gaulois, qui ont signé le meilleur démarrage d'un film français depuis 15 ans, ont réuni 1.882.686 spectateurs.",
+            "url": "https://www.bfmtv.com/people/cinema/1-8-million-d-entrees-en-une-semaine-pour-asterix-qui-detrone-avatar-du-box-office-francais_AD-202302090187.html",
+            "urlToImage": "https://images.bfmtv.com/FsmnoPJjbjbiBDnYqNq60wOIFTA=/10x2:778x434/768x0/images/Detail-de-l-affiche-du-film-Asterix-et-Obelix-Mission-Cleopatre-1569005.jpg",
+            "publishedAt": "2023-02-09T07:46:00Z",
+            "content": "Les plus célèbres des Gaulois, qui ont signé le meilleur démarrage d'un film français depuis 15 ans, ont réuni 1.882.686 spectateurs.\r\nAstérix et Obélix: L'Empire du milieu a réalisé près de deux mil… [+1274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Midi Libre"
+            },
+            "author": "Reuters/ Midi Libre",
+            "title": "Disney+ : 7 000 employés licenciés d'ici la fin de l'année, c'est la désillusion au pays des merveilles - Midi Libre",
+            "description": "Afin de réduire ses coûts de 5.5 milliards de dollars, Disney a annoncé mercredi 8 février le licenciement de 7 000 employés.",
+            "url": "https://www.midilibre.fr/2023/02/09/disney-7-000-employes-licencies-dici-la-fin-de-lannee-cest-la-desillusion-au-pays-des-merveilles-10986638.php",
+            "urlToImage": "https://images.midilibre.fr/api/v1/images/view/63e4a1871c77e0076e376f8f/large/image.jpg?v=1",
+            "publishedAt": "2023-02-09T07:35:00Z",
+            "content": "Afin de réduire ses coûts de 5.5 milliards de dollars, Disney a annoncé mercredi 8 février le licenciement de 7 000 employés. \r\n Walt Disney a annoncé mercredi une restructuration d'ampleur, avec une… [+3149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lefigaro.fr"
+            },
+            "author": "Le Figaro avec AFP",
+            "title": "Vinci réalise un bénéfice net 2022 de 4,26 milliards d'euros, en hausse de 64% - Le Figaro",
+            "description": "Le géant français du BTP réalise un chiffre d'affaires de 61,675 milliards, en hausse de 25%.",
+            "url": "https://www.lefigaro.fr/societes/vinci-realise-un-benefice-net-2022-de-4-26-milliards-d-euros-en-hausse-de-64-20230209",
+            "urlToImage": "https://i.f1g.fr/media/cms/1200x630_crop/2023/02/09/5aac39b0e4e4454df7fbb1de6faaf082b1f3998a744e4feca3ea9cd7694b2374.jpg",
+            "publishedAt": "2023-02-09T07:30:21Z",
+            "content": "Le géant français du BTP réalise un chiffre d'affaires de 61,675 milliards, en hausse de 25%.Le géant français du BTP Vinci a engrangé en 2022 un bénéfice net de 4,26 milliards d'euros, en hausse de … [+1212 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Cassim Ketfi, Cassim Ketfi",
+            "title": "Google Bard : l'IA se trompe et fait perdre 100 milliards de dollars à Google en bourse - Frandroid",
+            "description": "Google passe une bien mauvaise semaine. La présentation de son IA conversationnelle Google Bard contenait une erreur et la firme n'a pas convaincu la bourse avec sa conférence.",
+            "url": "https://www.frandroid.com/marques/google/1608395_google-bard-lia-se-trompe-et-fait-perdre-100-milliards-de-dollars-a-google-en-bourse",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/02/google-robot.jpg",
+            "publishedAt": "2023-02-09T07:26:41Z",
+            "content": "Google passe une bien mauvaise semaine. La présentation de son IA conversationnelle Google Bard contenait une erreur et la firme n'a pas convaincu la bourse avec sa conférence.\r\nSource : Frandroid / … [+2323 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNEWS.fr"
+            },
+            "author": "CNEWS",
+            "title": "Vaccins contre le Covid-19 : voici les personnes qui pourraient être concernées prochainement - CNEWS",
+            "description": "La Haute autorité de Santé (HAS) doit formuler de nouvelles recommandations d’ici à la fin du mois de février, notamment sur la possible instauration d’une dose annuelle de vaccin contre le Covid-19.",
+            "url": "https://www.cnews.fr/france/2023-02-09/vaccins-contre-le-covid-19-voici-les-personnes-qui-pourraient-etre-concernees",
+            "urlToImage": "https://static.cnews.fr/sites/default/files/000_338a3t3-taille1200_63e40c2e9139e.jpg",
+            "publishedAt": "2023-02-09T07:12:06Z",
+            "content": "Publié le\r\n09/02/2023 à 07:27 -\r\nMis à jour le\r\n09/02/2023 à 07:27\r\nLa Haute autorité de Santé (HAS) doit formuler de nouvelles recommandations d’ici à la fin du mois de février, notamment sur la pos… [+1783 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ouest-France"
+            },
+            "author": null,
+            "title": "Corée du Nord : Kim Jong Un a supervisé une grande parade militaire dans la nuit de mercredi - Ouest-France",
+            "description": null,
+            "url": "https://www.ouest-france.fr/monde/coree-du-nord/coree-du-nord-kim-jong-un-a-supervise-une-grande-parade-militaire-dans-la-nuit-de-mercredi-9b241148-a840-11ed-aeeb-69381795ad8f",
+            "urlToImage": null,
+            "publishedAt": "2023-02-09T06:23:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Le Parisien"
+            },
+            "author": "Le Parisien avec AFP",
+            "title": "Nord : la voiture du couple d’octogénaires disparu retrouvée dans un canal, deux corps à l’intérieur - Le Parisien",
+            "description": "Les deux octogénaires n’avaient plus donné signe de vie depuis le 1er janvier, les enquêteurs doivent désormais identifier les corps retrouvés dans le véhicule.",
+            "url": "https://www.leparisien.fr/faits-divers/nord-la-voiture-du-couple-doctogenaires-disparu-retrouvee-dans-un-canal-deux-corps-a-linterieur-09-02-2023-VU7GP2OZ4VBQ5NTNMMNHZMAX2Q.php",
+            "urlToImage": "https://www.leparisien.fr/resizer/TlP74yNPleNJMmr5iqBA6B7BQJM=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/234DWNZ7IFEAFE6AE3WD6SE3OM.jpg",
+            "publishedAt": "2023-02-09T06:23:00Z",
+            "content": "Leur disparition a créé lincompréhension. La voiture de deux octogénaires originaires de Roubaix qui nont plus donné signe de vie depuis le 1er janvier a été retrouvée ce mercredi dans le canal de lE… [+1713 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "LaDepeche.fr"
+            },
+            "author": "Arthur Pantz",
+            "title": "Retraites : est-il vraiment intéressant de racheter des trimestres pour partir avant l'heure ? - LaDepeche.fr",
+            "description": "En plein débat sur la réforme des retraites, avec en point de mire le report de l'âge de départ à 64 ans, la question du rachat de ses trimestres de cotisations revient sur le devant de la scène. Mais comment les racheter et surtout est ce que cela est avanta…",
+            "url": "https://www.ladepeche.fr/2023/02/09/retraites-est-il-vraiment-interessant-de-racheter-des-trimestres-pour-partir-avant-lheure-10984322.php",
+            "urlToImage": "https://images.ladepeche.fr/api/v1/images/view/63e3b16262a5bd17c725d33d/large/image.jpg?v=1",
+            "publishedAt": "2023-02-09T06:01:00Z",
+            "content": "l'essentiel\r\n En plein débat sur la réforme des retraites, avec en point de mire le report de l'âge de départ à 64 ans, la question du rachat de ses trimestres de cotisations revient sur le devant de… [+2805 chars]"
         }
     ]
 }
