@@ -136,7 +136,7 @@
             "uri": "nyt://article/a515a795-0157-5091-9e4e-5cf52c01dc7b",
             "byline": "By Kyle Buchanan",
             "item_type": "Article",
-            "updated_date": "2023-02-08T23:53:19-05:00",
+            "updated_date": "2023-02-09T12:11:24-05:00",
             "created_date": "2023-02-08T16:12:01-05:00",
             "published_date": "2023-02-08T16:12:01-05:00",
             "material_type_facet": "",
@@ -490,20 +490,20 @@
             "uri": "nyt://article/3bde276d-fc0c-5e66-91a2-80c257d23e8d",
             "byline": "By Claire Shaffer",
             "item_type": "Article",
-            "updated_date": "2023-02-09T07:00:08-05:00",
+            "updated_date": "2023-02-09T11:22:05-05:00",
             "created_date": "2023-02-09T07:00:08-05:00",
             "published_date": "2023-02-09T07:00:08-05:00",
             "material_type_facet": "",
             "kicker": "Critic’s Pick",
             "des_facet": [
-                "Movies"
+                "Movies",
+                "Hannah Ha Ha (Movie)"
             ],
             "org_facet": [],
             "per_facet": [
-                "Thompson, Hannah Lee",
                 "Tetewsky, Jordan",
                 "Pikovsky, Joshua",
-                "Hannah Ha Ha"
+                "Thompson, Hannah Lee (Actor)"
             ],
             "geo_facet": [],
             "multimedia": [
@@ -543,13 +543,73 @@
         {
             "section": "movies",
             "subsection": "",
+            "title": "‘Somebody I Used to Know’ Review: Reigniting Old Flames",
+            "abstract": "In Dave Franco’s new comedy, Alison Brie plays a reality television showrunner attempting to break up her ex-boyfriend’s engagement.",
+            "url": "https://www.nytimes.com/2023/02/09/movies/somebody-i-used-to-know-review.html",
+            "uri": "nyt://article/3a07e845-af2b-5c76-97f9-51d8f6a20d27",
+            "byline": "By Natalia Winkelman",
+            "item_type": "Article",
+            "updated_date": "2023-02-09T12:07:41-05:00",
+            "created_date": "2023-02-09T12:00:06-05:00",
+            "published_date": "2023-02-09T12:00:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Somebody I Used to Know (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Brie, Alison",
+                "Franco, Dave",
+                "Ellis, Jay (1981- )",
+                "Clemons, Kiersey (1993- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/08/multimedia/somebody1-htkf/somebody1-htkf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jay Ellis and Alison Brie in “Somebody I Used to Know.”",
+                    "copyright": "Scott Patrick Green/Prime"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/08/multimedia/somebody1-htkf/somebody1-htkf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jay Ellis and Alison Brie in “Somebody I Used to Know.”",
+                    "copyright": "Scott Patrick Green/Prime"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/02/08/multimedia/somebody1-htkf/somebody1-htkf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jay Ellis and Alison Brie in “Somebody I Used to Know.”",
+                    "copyright": "Scott Patrick Green/Prime"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ROKarv"
+        },
+        {
+            "section": "movies",
+            "subsection": "",
             "title": "‘Huesera: The Bone Woman’ Review: What to Dread When You’re Expecting",
             "abstract": "In Michelle Garza Cervera’s terrifying and transfixing debut feature, a pregnant woman battles visions of a demoness who threatens her body and mind.",
             "url": "https://www.nytimes.com/2023/02/09/movies/huesera-the-bone-woman-review.html",
             "uri": "nyt://article/87eea441-028a-543f-8ff3-9c42a04f6dcc",
             "byline": "By Natalia Winkelman",
             "item_type": "Article",
-            "updated_date": "2023-02-09T10:56:40-05:00",
+            "updated_date": "2023-02-09T11:55:34-05:00",
             "created_date": "2023-02-09T10:32:10-05:00",
             "published_date": "2023-02-09T10:32:10-05:00",
             "material_type_facet": "",
@@ -561,8 +621,7 @@
             "org_facet": [],
             "per_facet": [
                 "Garza Cervera, Michelle",
-                "Natalia Solian",
-                "Alfonso Dosal"
+                "Solian, Natalia"
             ],
             "geo_facet": [],
             "multimedia": [
@@ -1979,67 +2038,6 @@
                 }
             ],
             "short_url": "https://nyti.ms/3JBlHDT"
-        },
-        {
-            "section": "movies",
-            "subsection": "",
-            "title": "‘Dionne Warwick: Don’t Make Me Over’ Review: A Trailblazer Gets Her Flowers",
-            "abstract": "This documentary tries to do justice to a six-decade career in 95 minutes, which proves challenging.",
-            "url": "https://www.nytimes.com/2023/02/02/movies/dionne-warwick-dont-make-me-over-review.html",
-            "uri": "nyt://article/b0596fa2-9695-5a28-bdfe-9dc8e1c022cc",
-            "byline": "By Chris Azzopardi",
-            "item_type": "Article",
-            "updated_date": "2023-02-03T09:45:52-05:00",
-            "created_date": "2023-02-02T09:02:41-05:00",
-            "published_date": "2023-02-02T09:02:41-05:00",
-            "material_type_facet": "",
-            "kicker": "",
-            "des_facet": [
-                "Documentary Films and Programs",
-                "Dionne Warwick: Don't Make Me Over (Movie)",
-                "Pop and Rock Music",
-                "Content Type: Personal Profile"
-            ],
-            "org_facet": [],
-            "per_facet": [
-                "Warwick, Dionne",
-                "Wooley, Dave",
-                "Heilbroner, David"
-            ],
-            "geo_facet": [],
-            "multimedia": [
-                {
-                    "url": "https://static01.nyt.com/images/2023/02/03/multimedia/dionne1-zlmg/dionne1-zlmg-superJumbo.jpg",
-                    "format": "Super Jumbo",
-                    "height": 1080,
-                    "width": 2048,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Dionne Warwick is the subject of the documentary “Dionne Warwick: Don’t Make Me Over.”",
-                    "copyright": "CNN Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2023/02/03/multimedia/dionne1-zlmg/dionne1-zlmg-threeByTwoSmallAt2X.jpg",
-                    "format": "threeByTwoSmallAt2X",
-                    "height": 400,
-                    "width": 600,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Dionne Warwick is the subject of the documentary “Dionne Warwick: Don’t Make Me Over.”",
-                    "copyright": "CNN Films"
-                },
-                {
-                    "url": "https://static01.nyt.com/images/2023/02/03/multimedia/dionne1-zlmg/dionne1-zlmg-thumbLarge.jpg",
-                    "format": "Large Thumbnail",
-                    "height": 150,
-                    "width": 150,
-                    "type": "image",
-                    "subtype": "photo",
-                    "caption": "Dionne Warwick is the subject of the documentary “Dionne Warwick: Don’t Make Me Over.”",
-                    "copyright": "CNN Films"
-                }
-            ],
-            "short_url": "https://nyti.ms/3Jvm2Iq"
         }
     ]
 }
