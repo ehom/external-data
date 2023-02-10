@@ -4,237 +4,107 @@
     "articles": [
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Newspaper headlines: Raab's 'high standards' and 'Nicola cops search sea' - BBC",
-            "description": "Changes to the Church of England, Dominic Raab's defence and Burt Bacharach's death lead the papers.",
-            "url": "https://www.bbc.co.uk/news/blogs-the-papers-64591414",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2100/production/_128584480_indexpic-nc.png",
-            "publishedAt": "2023-02-10T00:13:07Z",
-            "content": null
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Safi Bugel",
-            "title": "Polls close in West Lancashire byelection | Byelections - The Guardian",
-            "description": "Labour candidate Ashley Dalton odds-on favourite to hold seat after resignation of Rosie Cooper",
-            "url": "https://www.theguardian.com/politics/2023/feb/09/polls-close-in-west-lancashire-byelection",
-            "urlToImage": "https://i.guim.co.uk/img/media/f052f457390df1a1b341a1aeec522b8121ab9d63/0_10_8192_4918/master/8192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a43b484a8de8e95bf4b6ebf3a9324d78",
-            "publishedAt": "2023-02-09T23:44:00Z",
-            "content": "Polls have closed in the West Lancashire byelection, with Labour confident of retaining the seat it has held since 1992.\r\nThe bookies have the party at 1/25 to keep hold of the seat where it had a ma… [+1993 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Guardian staff reporter",
-            "title": "Cristiano Ronaldo scores four for Al-Nassr to pass 500 career club goals - The Guardian",
-            "description": "Cristiano Ronaldo reached the career milestone of 500 club goals four days after his 38th birthday",
-            "url": "https://www.theguardian.com/football/2023/feb/09/cristiano-ronaldo-scores-four-for-al-nassr-to-pass-500-career-club-goals",
-            "urlToImage": "https://i.guim.co.uk/img/media/cb34d0381554aa8bd1bc5d4740cda6c6dc689f06/0_220_3680_2209/master/3680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d203500b11991b39b9a1a3bd9954c8d",
-            "publishedAt": "2023-02-09T23:05:00Z",
-            "content": "Cristiano Ronaldo scored four goals for Al-Nassr in the Saudi Pro League on Thursday to reach the career milestone of 500 club goals.\r\nThe Portugal international, who celebrated his 38th birthday on … [+1013 chars]"
-        },
-        {
-            "source": {
-                "id": "talksport",
-                "name": "TalkSport"
-            },
-            "author": "Robert Calcutt",
-            "title": "Manchester United takeover: Qatar Sports Investments not group interested in buying Premier League giants,... - talkSPORT",
-            "description": "",
-            "url": "https://talksport.com/football/1327713/man-utd-takeover-no-bid-qatari-sports-investment-nasser-al-khelaifi/",
-            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/02/DF-TALKSPORT-PSG-MANCHESTER.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
-            "publishedAt": "2023-02-09T23:03:45Z",
-            "content": "The group interested in making a bid to buy Manchester United are NOT Qatar Sports Investments, talkSPORT understands.\r\nThe Red Devils’ current owners, the Glazer family, have set a deadline of the e… [+2926 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "James Robinson, news reporter",
-            "title": "South Africa power crisis: State of disaster declared by president Cyril Ramaphosa - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/south-africa-power-crisis-state-of-disaster-declared-by-president-cyril-ramaphosa-12807137",
-            "urlToImage": "https://e3.365dm.com/22/12/1600x900/skynews-south-africa-president_5983805.jpg?20221201163815",
-            "publishedAt": "2023-02-09T22:51:13Z",
-            "content": "A state of disaster has been declared in South Africa as the country grapples with a severe electricity crisis.\r\nPresident Cyril Ramaphosa announced the emergency measure, which will take immediate e… [+1580 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Turkey-Syria earthquake: King thanked for 'generous' donation to DEC disaster appeal - BBC",
-            "description": "More than 20,000 people are dead and thousands are homeless in Turkey and Syria.",
-            "url": "https://www.bbc.com/news/uk-64568254",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9F18/production/_128582704_gettyimages-1246384617.jpg",
-            "publishedAt": "2023-02-09T22:48:39Z",
-            "content": "The King and Queen Consort have been thanked for a \"generous donation\" by the UK's Disasters Emergency Committee (DEC) which is helping earthquake survivors in Turkey and Syria.\r\nThe Prince and Princ… [+4867 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sarah Taaffe-Maguire, business reporter",
-            "title": "Broadband and phone bill rises to be investigated by Ofcom over concern customers don't know what they're signing up to - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/broadband-and-phone-bill-rises-to-be-investigated-by-ofcom-over-concern-customers-dont-know-what-theyre-signing-up-to-12806854",
-            "urlToImage": "https://e3.365dm.com/20/05/1600x900/skynews-australia-fast-broadband_4996009.jpg?20200522092117",
-            "publishedAt": "2023-02-09T22:46:26Z",
-            "content": "The UK communications regulator has launched an investigation into broadband and phone bill price rises as research suggested many customers are unaware providers can increase costs.\r\nThe review, to … [+2375 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Guardian staff reporter",
-            "title": "News Corp to cut 1,250 jobs after missing second-quarter estimates - The Guardian",
-            "description": "Reduced ad spends due to rising inflation and higher interest rates have battered Rupert Murdoch’s media conglomerate",
-            "url": "https://www.theguardian.com/media/2023/feb/09/news-corp-job-cuts-missed-estimates",
-            "urlToImage": "https://i.guim.co.uk/img/media/9b6a32dcc81dc7ff5085dd8586c1a2e611ddb91f/28_0_2484_1492/master/2484.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f695c37dc319677887c2998c793da9fa",
-            "publishedAt": "2023-02-09T22:30:00Z",
-            "content": "Media conglomerate News Corp said on Thursday that it would cut 1,250 jobs after it missed estimates for second-quarter earnings due to weakness in its news and digital real estate businesses.\r\nRisin… [+889 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Sun"
-            },
-            "author": "Joshua Mbu",
-            "title": "Four little-known Man Utd youngsters spotted training with first-team in huge hint they could feature in... - The Sun",
-            "description": "FOUR little-known Manchester United youngsters were spotted in first-team training in a huge hint they could feature in Erik ten Hag’s plans. The Red Devils are back in training ahead of Sund…",
-            "url": "https://www.thesun.co.uk/sport/21337926/four-man-utd-youngsters-first-team-training-ten-hag/",
-            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2023/02/crop-21338104.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-            "publishedAt": "2023-02-09T22:26:17Z",
-            "content": "FOUR little-known Manchester United youngsters were spotted in first-team training in a huge hint they could feature in Erik ten Hag's plans.\r\nThe Red Devils are back in training ahead of Sunday's vi… [+1631 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nintendo Life"
-            },
-            "author": "Gavin Lane",
-            "title": "Every Nintendo Switch Online Game Boy Advance (GBA) Game Ranked - Nintendo Life",
-            "description": "All the GBA games, ranked by you",
-            "url": "https://www.nintendolife.com/guides/every-nintendo-switch-online-game-boy-advance-gba-game-ranked",
-            "urlToImage": "https://images.nintendolife.com/8f1e85d92c79d/1280x720.jpg",
-            "publishedAt": "2023-02-09T22:00:00Z",
-            "content": "Nintendo's announcement that a selection of Game Boy Advance titles is now on Switch means that subscribers to Nintendo Switch Online Expansion Pack have instant access to a small but growing library… [+4632 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Demetri Sevastopulo, Felicia Schwartz",
-            "title": "Chinese balloon had multiple antennas for intelligence gathering, US says - Financial Times",
-            "description": "State department official said aircraft was part of a broader surveillance fleet",
-            "url": "https://www.ft.com/content/96992b83-58f7-4cdb-9900-a2bc59677ebf",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffb4822da-60be-4352-b91b-e4e2dc97943b.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-02-09T21:57:45Z",
-            "content": "The Chinese balloon that crossed the continental US last week had multiple antennas for intelligence gathering and was part of a broader surveillance fleet, the state department said on Thursday.\r\nA … [+4414 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "John Crace",
-            "title": "Bring back hanging and real men: making the Tories great again, by Lee Anderson - The Guardian",
-            "description": "The Guardian has been given exclusive access to the new deputy chair of the party’s 10-point plan",
-            "url": "https://www.theguardian.com/politics/2023/feb/09/bring-back-hanging-and-real-men-making-the-tories-great-again-by-lee-anderson",
-            "urlToImage": "https://i.guim.co.uk/img/media/8ea373a1901875bd73124e9dafdceb0352146155/441_421_4780_2869/master/4780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=defe8b63987937251c215c910ab08372",
-            "publishedAt": "2023-02-09T21:45:00Z",
-            "content": "Make England Great Again or MEGA\r\nAnd I mean England. For far too long weve wasted far too much time on trying to keep the rest of the United Kingdom happy. But think of it this way. Name me one thin… [+6237 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Siobhan Robbins",
-            "title": "Turkey-Syria earthquake: Woman whose family was wiped out tells Sky News: 'I wish I'd died and my children had lived' - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/turkey-syria-earthquake-woman-whose-family-was-wiped-out-tells-sky-news-i-wish-id-died-and-my-children-had-lived-12807046",
-            "urlToImage": "https://e3.365dm.com/23/02/1600x900/skynews-adiyaman-turkey-earthquake_6052036.jpg?20230209212103",
-            "publishedAt": "2023-02-09T21:30:27Z",
-            "content": "Turkey is burying its dead - loved ones crushed while they slept.\r\nWhether it be children, parents, or partners; the loss here is profound.\r\nAt a graveyard on the outskirts of Adiyaman, in southeaste… [+1946 chars]"
+            "author": "Jon Henley",
+            "title": "Amsterdam to outlaw cannabis-smoking in red-light district streets - The Guardian",
+            "description": "‘Historic’ clampdown on tourist excesses aims to make life more bearable for local residents",
+            "url": "https://www.theguardian.com/world/2023/feb/10/amsterdam-to-outlaw-cannabis-smoking-in-red-light-district-streets",
+            "urlToImage": "https://i.guim.co.uk/img/media/68cccbf0854e4db038ee78f6d619d3818bd60172/0_340_5184_3110/master/5184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbde3b114a048ee13e72ef1cf799fdfb",
+            "publishedAt": "2023-02-10T10:30:00Z",
+            "content": "Smoking cannabis on the street in Amsterdams red light district will soon be illegal, the city council has announced, as part of a range of bylaws designed to deter tourist excesses and make life mor… [+3196 chars]"
         },
         {
             "source": {
                 "id": "independent",
                 "name": "Independent"
             },
-            "author": "Arpan Rai",
-            "title": "Ukraine news – live: Zelensky claims EU leaders ready to give jets - The Independent",
-            "description": "Mr Zelensky said EU leaders were ready to give additional weapons and support, including aircraft",
-            "url": "https://www.independent.co.uk/news/world/europe/ukraine-death-toll-russia-warns-uk-fighter-jets-b2278784.html",
-            "urlToImage": "https://static.independent.co.uk/2023/02/09/11/SEI143463567.jpeg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-02-09T21:30:14Z",
-            "content": "Putin claims Russia economy will grow this year, despite sanctions\r\nPresident Vladimir Putin on Thursday said Russias economy had overcome the worst effects of sanctions and was expected to show mode… [+881 chars]"
+            "author": "Alex Woodward",
+            "title": "Chinese spy balloon – live: Crucial evidence from shot down surveillance balloon lost in ocean during recovery - The Independent",
+            "description": "China spy balloon shot down - latest news",
+            "url": "https://www.independent.co.uk/news/world/americas/chinese-spy-balloon-china-shot-down-video-b2279622.html",
+            "urlToImage": "https://static.independent.co.uk/2023/02/07/17/10453053.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-10T10:15:06Z",
+            "content": "Crucial evidence from Chinese spy balloon is lost in Atlantic Ocean\r\nCrucial evidence from the Chinese spy balloon shot down by the US military last week has been lost in the Atlantic Ocean.\r\nA senio… [+1097 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Nicola Bulley: It's like torture, says friend of missing mum - BBC",
+            "description": "A fortnight since she went missing, Nicola Bulley's friends and family say they will not give up hope.",
+            "url": "https://www.bbc.co.uk/news/uk-england-lancashire-64589281",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A98B/production/_128530434_12e1c8c7-1f49-45e4-86cb-91cd8f495fe5.jpg",
+            "publishedAt": "2023-02-10T10:01:14Z",
+            "content": "A friend of Nicola Bulley has said the continuing search for the mother-of-two without any answers is \"almost like torture\" - a fortnight on from her disappearance.\r\nDespite \"unimaginable frustration… [+2775 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Robyn Vinter",
-            "title": "Nicola Bulley: police issue dispersal notices after social media speculation - The Guardian",
-            "description": "Extra powers granted to allow removal of people taking photos and video at scene of 45-year-old’s disappearance",
-            "url": "https://www.theguardian.com/uk-news/2023/feb/09/nicola-bulley-police-issue-dispersal-notices-after-social-media-speculation",
-            "urlToImage": "https://i.guim.co.uk/img/media/abfaeb2dd11ceae20a81d24dc5469e5e5a54eaad/0_166_8640_5184/master/8640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=44567f150edf488592c436e11abcf385",
-            "publishedAt": "2023-02-09T21:30:00Z",
-            "content": "Police have been granted extra powers to remove social media influencers from the scene where Nicola Bulley went missing in Lancashire.\r\nA dispersal order was put in place on Wednesday night meaning … [+3217 chars]"
+            "author": "Alex Lawson",
+            "title": "Stab vests, huge dogs and escape routes: the secret diary of a prepay meter fitter - The Guardian",
+            "description": "A British Gas engineer reveals some customers’ aggressive response to forcible installations, which are now in effect banned",
+            "url": "https://www.theguardian.com/money/2023/feb/10/stab-vests-huge-dogs-and-escape-routes-british-gas-prepay-meter-fitter",
+            "urlToImage": "https://i.guim.co.uk/img/media/33a33492a9acf6fade7dbc431eb8e89f11f8b192/0_50_5602_3363/master/5602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c052043a345bc26a12bb2adbf797dd88",
+            "publishedAt": "2023-02-10T10:00:00Z",
+            "content": "The forced installation of prepayment meters has in effect been banned after it emerged that debt agents at Arvato Financial Solutions working for British Gas were ignoring signs that people were vul… [+5365 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Daily Mail"
             },
-            "author": "Niomi Harris",
-            "title": "Love Island fans are livid as Tanyel is DUMPED from the villa after Jordan recouples with Ellie - Daily Mail",
-            "description": "Love Island fans were quick to share their anger after Tanyel Revan was dumped from the villa in emotional scenes on Thursday night.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-11733643/Love-Island-fans-livid-Tanyel-DUMPED-villa-Jordan-recouples-Ellie.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2023/02/09/21/67525383-0-image-a-33_1675978894251.jpg",
-            "publishedAt": "2023-02-09T21:25:53Z",
-            "content": "Love Island fans were quick to share their anger after Tanyel Revan was dumped from the villa in emotional scenes on Thursday night. \r\nThe hair stylist was sent home after her potential love interest… [+4234 chars]"
+            "author": "Chloe Louise, Rory Tingle",
+            "title": "Apprentice candidate Reece Donnelly says he quit the Apprentice for health reasons - Daily Mail",
+            "description": "Yesterday's episode saw the cast tasked with laying on a corporate away day for a high-end client in Dubai.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/the-apprentice/article-11735541/Apprentice-candidate-Reece-Donnelly-says-quit-Apprentice-health-reasons.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/02/10/01/67531231-0-image-a-6_1675991077701.jpg",
+            "publishedAt": "2023-02-10T09:56:48Z",
+            "content": "Apprentice candidate Reece Donnelly today continued to insist he quit the show for health reasons after he was allegedly axed for drinking alcohol on a flight to Dubai. \r\nYesterday's episode saw the … [+6350 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine says two Russian missiles crossed into Romania and Moldova - Reuters",
+            "description": "Two Russian missiles crossed into Romanian and Moldovan airspace before entering Ukraine on Friday, the top Ukrainian general said.",
+            "url": "https://www.reuters.com/world/europe/ukraine-says-two-russian-missiles-crossed-into-romania-moldova-2023-02-10/",
+            "urlToImage": "https://www.reuters.com/resizer/L1I77Uspm23kVevqEUQhe7b7dZg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VVM3E3PAI5KK7NRVQOG7ZAGWAA.jpg",
+            "publishedAt": "2023-02-10T09:46:00Z",
+            "content": "KYIV, Feb 10 (Reuters) - Two Russian missiles crossed into Romanian and Moldovan airspace before entering Ukraine on Friday, the top Ukrainian general said.\r\nValeriy Zaluzhnyi, commander-in-chief of … [+601 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Telegraph.co.uk"
+                "name": "Sky.com"
             },
-            "author": null,
-            "title": "Russia prepares 2,000 tanks and 300,000 troops for 'huge invasion' in Donbas - The Telegraph",
-            "description": "The attack is expected to coincide with the one-year anniversary of Vladimir Putin's launch of the war in Ukraine on February 24",
-            "url": "https://www.telegraph.co.uk/world-news/2023/02/09/russia-prepares-2000-tanks-300000-troops-huge-invasion-donbas/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/world-news/2023/02/09/TELEMMGLPICT000324762823_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay",
-            "publishedAt": "2023-02-09T20:57:00Z",
-            "content": "The Russian military has also prepared 1,800 tanks, 3,950 armoured vehicles, 2,700 artillery systems, 810 soviet-era multi launch rocket systems, 400 fighter jets and 300 helicopters for the fresh of… [+1527 chars]"
+            "author": "Sophie Morris",
+            "title": "Dominic Raab says he 'behaved professionally at all times' as inquiry into his conduct continues - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/dominic-raab-says-he-behaved-profesionally-at-all-times-as-inquiry-into-his-conduct-continues-12807298",
+            "urlToImage": "https://e3.365dm.com/23/02/1600x900/skynews-downing-street-dominic-raab_6049528.jpg?20230207154645",
+            "publishedAt": "2023-02-10T09:28:19Z",
+            "content": "Dominic Raab has insisted he \"behaved professionally at all times\" despite facing an official inquiry into his conduct.\r\nThe deputy prime minister is being investigated by senior lawyer Adam Tolley K… [+3498 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sky Sports"
+                "name": "crash.net"
             },
-            "author": null,
-            "title": "European Super League: Fresh plans for 80-team competition announced by chief executive Bernd Reichart - Sky Sports",
-            "description": "A new-look, open European Super League could contain up to 80 teams in a multi-divisional format, the competition's chief executive has said.",
-            "url": "https://www.skysports.com/football/news/11095/12806616/european-super-league-fresh-plans-for-80-team-competition-announced-by-chief-executive-bernd-reichart",
-            "urlToImage": "https://e0.365dm.com/21/04/1600x900/skysports-banners-protest-esl_5349669.jpg?20210420175924",
-            "publishedAt": "2023-02-09T20:26:15Z",
-            "content": "A new-look, open European Super League could contain up to 80 teams in a multi-divisional format, the competition's chief executive has said.\r\nThe competition would be based on sporting performance o… [+14847 chars]"
+            "author": "Peter McLaren",
+            "title": "Sepang MotoGP Test: Aleix Espargaro, Maverick Vinales give first impressions of 2023 Aprilia: 'Better, looks good' but might more be needed? | MotoGP | News - Crash",
+            "description": "Factory Aprilia riders Aleix Espargaro and Maverick Vinales gave a thumbs-up to the new Aprilia after the opening morning of 2023 MotoGP testing at Sepang.",
+            "url": "https://www.crash.net/motogp/news/1020096/1/espargaro-vinales-give-first-impressions-2023-aprilia",
+            "urlToImage": "https://cdn.crash.net/styles/large_article/s3/pa/3268062.0008.jpg?itok=KXk3Scbw",
+            "publishedAt": "2023-02-10T09:25:38Z",
+            "content": "By the time a light rain shower arrived at 2pm, the pair were fourth (Vinales) and fifth (Espargaro) on the timesheets, behind only the Ducatis of Jorge Martin, Francesco Bagnaia and Enea Bastianini.… [+3480 chars]"
         },
         {
             "source": {
@@ -242,25 +112,155 @@
                 "name": "Sky.com"
             },
             "author": "Sky",
-            "title": "Halyna Hutchins: Alec Baldwin facing new lawsuit from relatives of cinematographer who was killed - Sky News",
+            "title": "Meningitis cases more than doubled in a year in England, charity warns - Sky News",
             "description": "",
-            "url": "https://news.sky.com/story/halyna-hutchins-alec-baldwin-facing-new-lawsuit-from-relatives-of-cinematographer-who-was-killed-12807096",
-            "urlToImage": "https://e3.365dm.com/22/02/1600x900/skynews-alec-baldwin-podcast_5658748.jpg?20220201094829",
-            "publishedAt": "2023-02-09T20:19:40Z",
-            "content": "Alec Baldwin is facing a new civil lawsuit from relatives of cinematographer Halyna Hutchins.\r\nMs Hutchins died in October 2021 after a prop gun, held by Baldwin, went off on set while the film Rust … [+1142 chars]"
+            "url": "https://news.sky.com/story/meningitis-cases-more-than-doubled-in-a-year-in-england-charity-warns-12807268",
+            "urlToImage": "https://e3.365dm.com/23/02/1600x900/skynews-meningitis-istock_6052250.jpg?20230209231607",
+            "publishedAt": "2023-02-10T09:14:32Z",
+            "content": "Meningitis cases more than doubled in a year in England, a charity has warned.\r\nMeningitis Now analysed UK Health Security Agency (UKHSA) figures and found cases of invasive meningococcal disease (IM… [+3442 chars]"
         },
         {
             "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
+                "id": null,
+                "name": "The Guardian"
             },
-            "author": "Gill Plimmer, Jim Pickard, Michael O’Dwyer",
-            "title": "Jon Thompson to become new chair of HS2 - Financial Times",
-            "description": "UK audit watchdog chief takes over as government attempts to rein in rail link’s costs",
-            "url": "https://www.ft.com/content/0413f730-ae59-4f20-91c9-233a8b305852",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F604bd159-4fa8-47bb-8eff-8536125fb34a.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-02-09T19:49:19Z",
-            "content": "Sir Jon Thompson is set to step down as chief executive of the UK audit watchdog to become the new chair of the HS2 high-speed rail link project, balancing both jobs during a six-month notice period.… [+2759 chars]"
+            "author": "https://www.theguardian.com/profile/andrewsparrow",
+            "title": "Dominic Raab says ‘setting high standards’ not same as bullying as he sidesteps resignation question – UK politics live - The Guardian",
+            "description": "Justice minister says he ‘behaved professionally at all times’ when asked about bullying claims",
+            "url": "https://www.theguardian.com/politics/live/2023/feb/10/dominic-raab-says-setting-high-standards-not-same-as-bullying-as-he-sidesteps-resignation-question-uk-politics-live",
+            "urlToImage": "https://i.guim.co.uk/img/media/a81c5f8ec4243d662d9a4f8932b329785b5f01af/1000_192_2470_1482/master/2470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2135232cbd65b306190b165e538a7a7b",
+            "publishedAt": "2023-02-10T09:02:00Z",
+            "content": "Hunt rules out pay rises for workers that would 'entrench high inflation' - but claims that's 'not a no' to any new offer\r\nJeremy Hunt, the chancellor, has been giving interviews about todays growth … [+8101 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Six Nations 2023: Ireland v France build-up - Andy Farrell's plan to win - BBC",
+            "description": "Ireland head coach Andy Farrell says his side must have \"clear understanding of the clarity of the plan\" in Saturday's Six Nations game against France.",
+            "url": "https://www.bbc.co.uk/sport/rugby-union/64585805",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/17CE4/production/_128580579_andyfarrell.jpg",
+            "publishedAt": "2023-02-10T08:47:35Z",
+            "content": "Ireland captain Johnny Sexton with head coach Andy Farrell\r\n<table><tr><th>Six Nations: Ireland v France</th></tr>\r\n<tr><td>Venue: Aviva Stadium, Dublin Date: Saturday, 11 February Kick-off: 14:15 GM… [+4679 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Turkey-Syria earthquake: New-born and mother saved after four days in rubble - BBC",
+            "description": "Ten-day-old Yagiz was retrieved from ruins in southern Turkey after almost 100 hours trapped.",
+            "url": "https://www.bbc.com/news/world-europe-64593486",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11146/production/_128585996_fojquyaxgam2g3f.jpg",
+            "publishedAt": "2023-02-10T08:09:59Z",
+            "content": "A new-born baby and his mother have been rescued from rubble in Turkey, around 90 hours after the first of Monday's deadly earthquakes.\r\nThe 10-day-old boy, named Yagiz, was retrieved from a ruined s… [+2359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Davey Winder",
+            "title": "Reddit Confirms It Was Hacked—Recommends Users Set Up 2FA - Forbes",
+            "description": "Reddit says its systems were hacked over the weekend, here's what you need to know.",
+            "url": "https://www.forbes.com/sites/daveywinder/2023/02/10/reddit-confirms-it-was-hacked-recommends-users-set-up-2fa/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63e5f5094a0ad3ad8c21a49e/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-10T07:47:07Z",
+            "content": "Reddit confirms it has been hacked\r\nNurPhoto via Getty Images\r\nReddit, the social news and discussion site with 50 million daily users, has confirmed that it has been hacked. In a February 9 security… [+3716 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telegraph.co.uk"
+            },
+            "author": null,
+            "title": "Russia-Ukraine war latest: Kharkiv and Zaporizhzhia bombarded with missile strikes overnight - The Telegraph",
+            "description": "",
+            "url": "http://www.telegraph.co.uk/world-news/2023/02/10/ukraine-russia-war-news-missile-strikes-kharkiv-zaporizhzhia",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/world-news/2023/02/10/TELEMMGLPICT000324838946_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay",
+            "publishedAt": "2023-02-10T07:42:28Z",
+            "content": "Russian forces launched a series of drone and missile attacks in southern and eastern Ukraine overnight, striking and knocking out power supplies in parts of Kharkiv and Zaporizhzhia, local officials… [+883 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Turkey-Syria earthquake: King thanked for 'generous' donation to DEC disaster appeal - BBC",
+            "description": "More than 20,000 people are dead and thousands are homeless in Turkey and Syria.",
+            "url": "https://www.bbc.co.uk/news/uk-64568254",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9F18/production/_128582704_gettyimages-1246384617.jpg",
+            "publishedAt": "2023-02-10T07:29:02Z",
+            "content": "The King and Queen Consort have been thanked for a \"generous donation\" by the UK's Disasters Emergency Committee (DEC) which is helping earthquake survivors in Turkey and Syria.\r\nThe Prince and Princ… [+5203 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Evening Standard"
+            },
+            "author": "City Staff",
+            "title": "FTSE 100 Live: No 2022 recession as Q4 GDP flatlines - Evening Standard",
+            "description": "The UK looks to have avoided recession in 2022 after estimates today showed GDP unchanged in the final quarter of the year.",
+            "url": "https://www.standard.co.uk/business/ftse-100-live-10-february-q4-gdp-figures-uk-recession-b1059308.html",
+            "urlToImage": "https://static.standard.co.uk/2021/09/17/15/newFile-1.jpg?width=1200&width=1200&auto=webp&quality=75",
+            "publishedAt": "2023-02-10T07:26:28Z",
+            "content": "Saga confirms its in talks to sell its underwriting business\r\nSaga, the specialist travel, insurance and media business for the over 50s, has confirmed that it is in talks to sell its underwriting bu… [+462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Catherine Shoard",
+            "title": "‘We fetishised being young – it’s just stupid!’: Judi Dench and Richard Eyre on ageing, Covid and saving the NHS - The Guardian",
+            "description": "Shot in 2021, a film of Allelujah, Alan Bennett’s 2018 play set on a geriatric ward, is released next month. How relevant does it remain? Its stars, including Jennifer Saunders and Bally Gill, share their thoughts during production – and more than a year later",
+            "url": "https://www.theguardian.com/film/2023/feb/10/we-fetishised-being-young-its-just-stupid-judi-dench-and-richard-eyre-on-ageing-covid-and-saving-the-nhs",
+            "urlToImage": "https://i.guim.co.uk/img/media/58d7abbc922fee3901e21e9b06b5d539ecff7046/631_2841_5158_3094/master/5158.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d95d8f25d1994aca61a79859a7e9b9ed",
+            "publishedAt": "2023-02-10T07:21:00Z",
+            "content": "I live 10 minutes walk from a disused psychiatric hospital in north London. Well, partly disused: 40% of St Anns in Tottenham, with the glossy new assessment centre and low-rise 30s blocks, is still … [+12167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "James Sillars",
+            "title": "UK economy narrowly avoids recession despite December hit from strikes - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/uk-economy-narrowly-avoids-recession-despite-december-dip-12806591",
+            "urlToImage": "https://e3.365dm.com/22/12/1600x900/skynews-cwu-birmingham-royal-mail_6004543.jpg?20221223092502",
+            "publishedAt": "2023-02-10T07:05:13Z",
+            "content": "The economy narrowly avoided recession in the second half of last year, according to early official figures, despite growth going into a sharp reverse in December partly due to the impact of strikes … [+3713 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jenni Reid",
+            "title": "As Brits reel from a cost-of-living crisis, the UK stock market quietly booms to an all-time high - CNBC",
+            "description": "The FTSE 100 has hit three all-time highs over the last week, despite continued gloom on the U.K. economy and amid a cost-of-living crisis.",
+            "url": "https://www.cnbc.com/2023/02/10/uks-ftse-100-scaling-fresh-highs-despite-cost-of-living-crisis.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107190924-1675853151054-gettyimages-1463404733-ln1_0226_o0u2xbsv.jpeg?v=1676010226&w=1920&h=1080",
+            "publishedAt": "2023-02-10T06:23:46Z",
+            "content": "The sun rises over the city on Feb. 6, 2023 in London, United Kingdom.\r\nLONDON The U.K. is facing the weakest growth prospects in the G-7 and a catalogue of cost-of-living pressures that are pushing … [+4487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Leicestershire Live"
+            },
+            "author": null,
+            "title": "Mum pays moving tribute to son, 10, who died in tragic rope swing accident - Leicestershire Live",
+            "description": null,
+            "url": "https://www.leicestermercury.co.uk/news/local-news/mum-pays-moving-tribute-son-8129256",
+            "urlToImage": null,
+            "publishedAt": "2023-02-10T05:00:00Z",
+            "content": null
         }
     ]
 }
