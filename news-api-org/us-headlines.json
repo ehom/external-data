@@ -1,240 +1,110 @@
 {
     "status": "ok",
-    "totalResults": 35,
+    "totalResults": 37,
     "articles": [
         {
             "source": {
-                "id": "nfl-news",
-                "name": "NFL News"
+                "id": null,
+                "name": "BBC News"
             },
-            "author": "Nick Shook",
-            "title": "Chiefs QB Patrick Mahomes sends message to doubters: 'In our rebuilding year we’re world champs' - NFL.com",
-            "description": "The theme, while it may include a bit of revisionist history, was clear Wednesday: The Chiefs were out to prove the doubters wrong in 2022. The Chiefs reveled in their glory during Wednesday's parade in Kansas City, and didn't shy from acknowledging what moti…",
-            "url": "https://www.nfl.com/news/chiefs-qb-patrick-mahomes-sends-message-to-doubters-in-our-rebuilding-year-we-re",
-            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/ymntixixg6leltp3ysqb",
-            "publishedAt": "2023-02-15T22:03:00Z",
-            "content": "\"I knew it, you knew it, but they didn't know it. If you knew that Patrick Mahomes was going to win MVP, let me hear you say, 'Hell yeah!' If you knew the Kansas City Chiefs were going to have the be… [+3177 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ohio train derailment: Rail firm pulls out of meeting with residents - BBC",
+            "description": "East Palestine residents left without answers after train company cites security concerns.",
+            "url": "https://www.bbc.com/news/world-us-canada-64659795",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BB65/production/_128537974_traincrash.jpg",
+            "publishedAt": "2023-02-16T10:22:29Z",
+            "content": "Media caption, Watch: Anger erupts at Ohio train crash town meeting\r\nA public meeting that was meant to ease fears about a toxic chemical spill in an Ohio town only heightened anger when the rail fir… [+5160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Doomsday Glacier Is “In Trouble” – Surprising Results From Underwater Robot Close-Up View of Melting - SciTechDaily",
+            "description": "New data from an international expedition and underwater robot Icefin beneath the remote Thwaites Glacier, nicknamed the Doomsday Glacier, in Antarctica. It is one of the most critical glaciers in West Antarctica, and its potential collapse could trigger a si…",
+            "url": "https://scitechdaily.com/doomsday-glacier-is-in-trouble-surprising-results-from-underwater-robot-close-up-view-of-melting/",
+            "urlToImage": "https://scitechdaily.com/images/Icefin-Robot-Under-the-Ice-Near-McMurdo-Research-Station-scaled.jpg",
+            "publishedAt": "2023-02-16T09:31:26Z",
+            "content": "The icefin robot under the ice near McMurdo research station, operated by the US Antarctic Program. Credit: Rob Robbins USAP\r\nNew data from an international expedition and underwater robot Icefin ben… [+6822 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a> and Jack Guy, CNN",
+            "title": "Russia's war in Ukraine: Live updates - CNN",
+            "description": "The situation in the eastern city of Bakhmut is \"the most difficult out of all\" areas in Ukraine amid intense shelling, President Volodymyr Zelensky said. Follow live updates here.",
+            "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-2-16-23/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230215134431-02-ukraine-war-0214-bakhmut-super-tease.jpg",
+            "publishedAt": "2023-02-16T09:19:00Z",
+            "content": "Finland and Swedens applications to join the NATO military alliance could be assessed separately, Turkish foreign minister Mevlüt Çavuolu said Thursday.\r\nIt is possible for us to assess the candidacy… [+1976 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Faris Tanyos",
+            "title": "El Paso shooting: 1 dead, 3 wounded at Cielo Vista mall - CBS News",
+            "description": "An off-duty officer who was working security at the mall apprehended one of the suspects within three minutes of the shooting, authorities said.",
+            "url": "https://www.cbsnews.com/news/el-paso-cielo-vista-mall-shooting/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/16/5eb97f11-be01-4945-a2b3-af6a1b937a0a/thumbnail/1200x630/c45dbc4504a6aa4390d6291705442e86/ap23047122772367.jpg",
+            "publishedAt": "2023-02-16T08:23:00Z",
+            "content": "One person was killed and three others wounded in a shooting Wednesday evening at a mall in El Paso, Texas, authorities said, and two male suspects have been arrested. \r\nThe shooting was reported at … [+2751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Josh Taylor",
+            "title": "Twitter data appears to support claims new algorithm inflated reach of Elon Musk’s tweets, Australian researcher says - The Guardian",
+            "description": "Dr Timothy Graham says his analysis shows that after the algorithm change was reported to have occurred, impressions of billionaire owner’s tweets went up 737%",
+            "url": "https://www.theguardian.com/technology/2023/feb/16/twitter-data-appears-to-support-claims-new-algorithm-inflated-reach-of-elon-musks-tweets-australian-researcher-says",
+            "urlToImage": "https://i.guim.co.uk/img/media/625c85900e4fd0f2bedaa9ef96f24901454e4be8/0_168_4075_2445/master/4075.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bbb0a13ad87f782bcc9f57cd145053d",
+            "publishedAt": "2023-02-16T07:30:00Z",
+            "content": "Data collected by an Australian researcher via Twitters API appears to support media claims thatthe reach of the tweets of the platforms billionaire owner Elon Musk have been artificially inflated.\r\n… [+2934 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Eonline.com"
             },
-            "author": "Mike Vulpo",
-            "title": "This First Look at Lady Gaga in Joker: Folie à Deux Deserves a Round of Applause - E! NEWS",
-            "description": "Lady Gaga shared a sneak peek into her role as Harley Quinn in the upcoming musical sequel to Todd Phillips' 2019 film Joker. Don't look away from this preview.",
-            "url": "https://www.eonline.com/news/1365116/this-first-look-at-lady-gaga-in-joker-folie-a-deux-deserves-a-round-of-applause",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021329/rs_1200x1200-210429141538-1200-lady_gaga_grammy_awards_2019-gj.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-02-15T22:01:11Z",
-            "content": "Valentine's Day may be over, but this bad romance is just getting started.\r\nLady Gaga surprised fans Feb. 14 when she shared a sneak peek of her upcoming movie Joker: Folie à Deux on Instagram.\r\nIn t… [+716 chars]"
+            "author": "Alexandra Bellusci",
+            "title": "Machine Gun Kelly Guitarist Sophie Lloyd Slams \"Disrespectful\" Cheating Allegations - E! NEWS",
+            "description": "Sophie Lloyd, who joined Machine Gun Kelly on his Mainstream Sellout tour, shut down rumors that she caused tension between him and his fiancée Megan Fox.",
+            "url": "https://www.eonline.com/news/1365131/machine-gun-kelly-guitarist-sophie-lloyd-slams-disrespectful-cheating-allegations",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023115/rs_1200x1200-230215133400-1200-megan-fox-mgk-sophie-lloyd.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-02-16T06:02:00Z",
+            "content": "Megan and Machine Gun Kelly sparked split rumors earlier this week with a cryptic Instagram post.\r\nOn Feb. 12, Megan, 36, posted a series of selfies and a video of a fire pit burning an envelope with… [+642 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "engadget",
+                "name": "Engadget"
             },
-            "author": null,
-            "title": "Raquel Welch, legendary bombshell actress, dies at 82 after brief illness - ABC7 News Bay Area",
-            "description": "Raquel Welch, the legendary bombshell actress who captivated movie and television audiences for decades, has died after a brief illness. She was 82. https://...",
-            "url": "https://www.youtube.com/watch?v=sUl5a66o1VY",
-            "urlToImage": "https://i.ytimg.com/vi/sUl5a66o1VY/maxresdefault.jpg",
-            "publishedAt": "2023-02-15T21:39:26Z",
-            "content": null
+            "author": "https://www.engadget.com/about/editors/mariella-moon",
+            "title": "Google relies on human employees to improve Bard chatbot's responses - Engadget",
+            "description": "Google's VP for search, Prabhakar Raghavan, reportedly sent an email to staff members, asking them to rewrite Bard responses on topics they know well..",
+            "url": "https://www.engadget.com/google-human-employees-bard-chatbot-testing-055243004.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/.b8UEp68grFbcPBBZthpMA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-05/923290a0-d65e-11ec-bfff-d76e8884d1c2.cf.jpg",
+            "publishedAt": "2023-02-16T05:54:13Z",
+            "content": "In a video ad Google posted on Twitter, its yet-to-be-launched AI chatboard Bard confidently spouted misinformation about the James Webb Space Telescope. \"JWST took the very first pictures of a plane… [+2359 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "author": null,
-            "title": "Rich Eisen's Top 5 Destinations for Free Agent QB Derek Carr | The Rich Eisen Show - The Rich Eisen Show",
-            "description": "Rich Eisen ranks his top destinations for free agent QB Derek Carr among the Carolina Panthers, Tennessee Titans, New England Patriots, New York Jets, Tampa ...",
-            "url": "https://www.youtube.com/watch?v=KRhcDe6t8IY",
-            "urlToImage": "https://i.ytimg.com/vi/KRhcDe6t8IY/maxresdefault.jpg",
-            "publishedAt": "2023-02-15T21:30:04Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "S&P 500 ends higher after strong retail sales data - Reuters",
-            "description": "The S&P 500 ended higher on Wednesday after stronger-than-expected retail sales data offered evidence of resilience in the U.S. economy, but gains were capped as investors worried about more interest rate hikes by Federal Reserve in the months ahead.",
-            "url": "https://www.reuters.com/markets/us/futures-slip-ahead-retail-sales-data-2023-02-15/",
-            "urlToImage": "https://www.reuters.com/resizer/IwXMcRv8s8cwunZi_x-AUTVsxxE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SQLLJYSLYNIOXJCWPY7AQRI7O4.jpg",
-            "publishedAt": "2023-02-15T21:20:00Z",
-            "content": "Feb 15 (Reuters) - The S&amp;P 500 ended higher on Wednesday after stronger-than-expected retail sales data offered evidence of resilience in the U.S. economy, but gains were capped as investors worr… [+3118 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ashley Strickland",
-            "title": "Megacluster of galaxies reveals its secrets in new Webb telescope image - CNN",
-            "description": "The James Webb Space Telescope captured a new image of Pandora's Cluster, a megacluster of galaxies that allowed astronomers to peer into the distant universe and observe never-before-seen details.",
-            "url": "https://www.cnn.com/2023/02/15/world/webb-telescope-pandoras-cluster-scn/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230215113116-pandoras-cluster-webb-telescope.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-15T21:11:00Z",
-            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe James Webb Space Telescope just peered into a cele… [+2095 chars]"
-        },
-        {
-            "source": {
-                "id": "ign",
-                "name": "IGN"
-            },
-            "author": "Logan Plant",
-            "title": "First Call of Duty Modern Warfare 2 and Warzone 2.0 Season 3 Details Revealed - IGN",
-            "description": "Activision has teased some of what's to come in Season 3 Call of Duty: Modern Warfare 2 and Warzone 2.0.",
-            "url": "https://www.ign.com/articles/first-call-of-duty-modern-warfare-2-and-warzone-20-season-3-details-revealed",
-            "urlToImage": "https://assets-prd.ignimgs.com/2022/06/09/call-of-duty-modern-warfare-2-how-to-access-open-beta-ign-1654769968772.png?width=1280",
-            "publishedAt": "2023-02-15T21:08:58Z",
-            "content": "Activision has teased some of what's to come in Season 3 Call of Duty: Modern Warfare 2 and Warzone 2.0.\r\nReleased as part of Modern Warfare 2 and Warzone's latest patch notes, Call of Duty confirmed… [+1525 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
-            },
-            "author": null,
-            "title": "Bukayo Saka nets Arsenal equalizer against Manchester City | Premier League | NBC Sports - NBC Sports",
-            "description": "Bukayo Saka slots home the coolest of penalties to draw Arsenal level after Ederson runs into Eddie Nketiah in the Manchester City box. #NBCSports #PremierLe...",
-            "url": "https://www.youtube.com/watch?v=xc630T_IqD0",
-            "urlToImage": "https://i.ytimg.com/vi/xc630T_IqD0/maxresdefault.jpg",
-            "publishedAt": "2023-02-15T21:04:50Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Spencer Kimball",
-            "title": "FDA advisors recommend over-the-counter use of life-saving opioid overdose treatment Narcan - CNBC",
-            "description": "If the life-saving nasal spray Narcan is approved for over-the-counter use, people could buy it in supermarkets, convenience stores or even vending machines.",
-            "url": "https://www.cnbc.com/2023/02/15/opioid-overdose-treatment-narcan-recommended-by-fda-advisors-for-over-the-counter-use-.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/104976291-Narcan_Product_Image_1.jpg?v=1676494947&w=1920&h=1080",
-            "publishedAt": "2023-02-15T21:02:27Z",
-            "content": "The Food and Drug Administration's independent advisors on Wednesday unanimously recommended over-the-counter use of the nasal spray Narcan to reverse opioid overdoses, which would significantly expa… [+6140 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Eric Garcia",
-            "title": "Trump blasts Nicola Sturgeon as ‘failed woke extremist’ in furious rant after Scottish leader steps down - The Independent",
-            "description": "The former president is of Scottish heritage on his mother’s side and owns properties in Scotland",
-            "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-nicola-sturgeon-scotland-resigns-b2283122.html",
-            "urlToImage": "https://static.independent.co.uk/2023/02/15/20/POLITICS%20Sturgeon%20%2013193637.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-02-15T21:01:10Z",
-            "content": "Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox\r\nGet our free Inside Washington email\r\nFormer president Donald Trump blasted Nicola Sturgeon as… [+1832 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Natasha Bertrand, Katie Bo Lillis",
-            "title": "US intel assessing possibility that Chinese spy balloon's path over US was accidental - CNN",
-            "description": "US intelligence officials are assessing the possibility that the suspected Chinese spy balloon was not deliberately maneuvered into the continental US by the Chinese government and are examining whether it was diverted off course by strong winds, multiple peo…",
-            "url": "https://www.cnn.com/2023/02/15/politics/us-intel-china-balloon/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230207102801-01-spy-balloon-recovery.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-15T20:46:00Z",
-            "content": "US intelligence officials are assessing the possibility that the suspected Chinese spy balloon was not deliberately maneuvered into the continental US by the Chinese government and are examining whet… [+4307 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Antarctica Doomsday Glacier: ‘We should all be very concerned’ - Al Jazeera English",
-            "description": "Melting of the Florida-sized glacier is of grave concern, with the potential for significant global sea level rise.",
-            "url": "https://www.aljazeera.com/news/2023/2/15/antarctica-doomsday-glacier-we-should-all-be-very",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/doomsday.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-02-15T20:30:01Z",
-            "content": "Scientists studying Antarcticas vast Thwaites Glacier nicknamed the Doomsday Glacier say warm water is seeping into its weak spots, threatening its demise and a massive sea rise.\r\nThwaites, which is … [+2394 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Rebecca Corey",
-            "title": "Male birth control drug effective at preventing pregnancy, preclinical study finds - Yahoo News",
-            "description": "A contraceptive developed by researchers at Weill Cornell Medical College could lead to a short-term, fast-acting option for men — without the side effects...",
-            "url": "https://news.yahoo.com/male-birth-control-drug-effective-at-preventing-pregnancy-preclinical-study-finds-201239838.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7sJqI1X2zH9mEQpWlXRKQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05Mjc-/https://s.yimg.com/os/creatr-uploaded-images/2023-02/165e9f10-ad67-11ed-bb9e-7823f14d9693",
-            "publishedAt": "2023-02-15T20:12:39Z",
-            "content": "Our study provides proof of concept that a man will some day be able to take a contraceptive drug to provide reproductive equality for both partners,\" Dr. Lonny Levin said. (Getty Images)\r\nAn experim… [+3997 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Michael Wayland",
-            "title": "Ford F-150 Lightning EV production to be halted at least through end of next week - CNBC",
-            "description": "The update comes a day after Ford confirmed production of the F-150 Lightning had been suspended over a potential battery issue.",
-            "url": "https://www.cnbc.com/2023/02/15/ford-f-150-lightning-production-halted.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107193811-1676319854796-gettyimages-1247112688-DET101.jpeg?v=1676491800&w=1920&h=1080",
-            "publishedAt": "2023-02-15T20:10:00Z",
-            "content": "DETROIT Ford Motor expects production of its electric F-150 Lightning pickup to be down through at least the end of next week to address a potential battery issue, the automaker said Wednesday.\r\nThe … [+2139 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Aime Williams",
-            "title": "World Bank president David Malpass to step down in June - Financial Times",
-            "description": "Departure of Trump appointee comes as institution faces pressure over tackling climate change",
-            "url": "https://www.ft.com/content/d9e3f0c5-007c-49c0-8efb-3f16be00f300",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe843a31d-8135-423e-bc1a-608618854aae.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-02-15T19:53:32Z",
-            "content": "World Bank president David Malpass will step down from his post at the end of June, nearly a year before his term expires.\r\nThe bank issued a statement on Wednesday saying Malpass, who was appointed … [+2969 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Joe Miller",
-            "title": "Sam Bankman-Fried's bail guarantors included former Stanford Law dean - Financial Times",
-            "description": "Two academics who worked at same university as FTX founder’s parents helped secure bond for his release",
-            "url": "https://www.ft.com/content/347e2d5c-b146-472d-bbd1-3793300dd79b",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F127a1741-f627-46d0-8e0d-4f284c1bea60.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-02-15T19:48:50Z",
-            "content": "Two academics at Stanford University, where Sam Bankman-Frieds parents worked, put up a combined $700,000 to help secure the FTX founders bail, according to court documents unsealed on Wednesday.\r\nLa… [+2530 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Ray Sanchez, Amanda Jackson, Dakin Andone",
-            "title": "Some Michigan State University students endured the unthinkable: Two mass shootings in less than 2 years - CNN",
-            "description": "Some Michigan State University students who survived Monday's mass shooting -- and their parents -- had already been through a similar, horrific experience.",
-            "url": "https://www.cnn.com/2023/02/14/us/michigan-state-oxford-high-school-shootings/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230213190506-03-michigan-state-shooting-0213.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-15T19:27:00Z",
-            "content": "Some Michigan State University students who survived Mondays mass shooting and their parents had already been through a similar, horrific experience. \r\n(Fourteen) months ago I had to evacuate from Ox… [+5432 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Mary Kekatos",
-            "title": "How people survive for days under earthquake rubble as survivors are found in Turkey, Syria - ABC News",
-            "description": "People can sometimes survive while trapped for up to a week or more.",
-            "url": "https://abcnews.go.com/Health/people-survive-days-earthquake-rubble-survivors-found-turkey/story?id=97035249",
-            "urlToImage": "https://s.abcnews.com/images/Health/turkey-earth-quake-rescue-gty-mz-35-230213_1676404317316_hpMain_16x9_992.jpg",
-            "publishedAt": "2023-02-15T18:53:46Z",
-            "content": "Days after a 7.8-magnitude earthquake and hundreds of powerful aftershocks struck southeastern Turkey and northwestern Syria, survivors were still being pulled from the rubble.\r\nRescue efforts contin… [+7709 chars]"
+            "author": "Matthew Perrone",
+            "title": "Panel backs moving opioid antidote Narcan over the counter - The Associated Press - en Español",
+            "description": "WASHINGTON (AP) — The overdose-reversing drug naloxone should be made available over the counter to aid the national response to the opioid crisis, U.S. health advisers said Wednesday. The panel of Food and Drug Administration experts voted unanimously in fav…",
+            "url": "https://apnews.com/article/business-medication-opioids-health-38ae986009788501bc418fe108593632",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cbe8b075d82c4759b523252a6bd59e4a/2400.webp",
+            "publishedAt": "2023-02-16T05:37:55Z",
+            "content": "WASHINGTON (AP) The overdose-reversing drug naloxone should be made available over the counter to aid the national response to the opioid crisis, U.S. health advisers said Wednesday.\r\nThe panel of Fo… [+5363 chars]"
         },
         {
             "source": {
@@ -242,25 +112,155 @@
                 "name": "Reuters"
             },
             "author": null,
-            "title": "Russia declares battlefield gains as Ukraine urges faster military aid - Reuters",
-            "description": "Russia said on Wednesday it had broken through two of Ukraine's fortified defence lines in the east and Kyiv spoke of relentless Russian attacks making it \"difficult for us\", as Western allies <a href=\"/world/europe/nato-countries-boost-munitions-output-pledg…",
-            "url": "https://www.reuters.com/world/europe/zelenskiy-urges-speedy-help-allies-russia-pounds-ukraines-east-2023-02-14/",
-            "urlToImage": "https://www.reuters.com/resizer/RjV7HjZz8-Vl03eWhK-owcBTSKo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K7HGIQ4VHFOPTD6KN6PKY2Z6MQ.jpg",
-            "publishedAt": "2023-02-15T18:49:00Z",
-            "content": "KYIV, Feb 15 (Reuters) - Russia said on Wednesday it had broken through two of Ukraine's fortified defence lines in the east and Kyiv spoke of relentless Russian attacks making it \"difficult for us\",… [+6073 chars]"
+            "title": "Cyclone Gabrielle death toll rises to five as recovery starts - Reuters.com",
+            "description": "New Zealand stepped up recovery efforts on Thursday after Cyclone Gabrielle left at least five people dead and displaced 9,000 in the country's most damaging storm in decades.",
+            "url": "https://www.reuters.com/business/environment/cyclone-gabrielle-death-toll-rises-five-recovery-starts-2023-02-15/",
+            "urlToImage": "https://www.reuters.com/resizer/WzQSqXalqrWC9wCgSNuJXubwOas=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MYGNKOV6KJPTXDOAOX24FKS7RA.jpg",
+            "publishedAt": "2023-02-16T05:37:00Z",
+            "content": "WELLINGTON, Feb 16 (Reuters) - New Zealand stepped up recovery efforts on Thursday after Cyclone Gabrielle left at least five people dead and displaced 9,000 in the country's most damaging storm in d… [+2557 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "PEOPLE"
+                "name": "CNET"
             },
-            "author": "https://www.facebook.com/peoplemag",
-            "title": "Rihanna's Baby Boy, 9 Months, Joins Her and A$AP Rocky on British Vogue Cover — See the Photos! - Yahoo Entertainment",
-            "description": "Rihanna and A$AP Rocky are currently expecting their second baby together",
-            "url": "https://people.com/parents/rihanna-baby-boy-aaap-rocky-british-vogue-cover-photos/",
-            "urlToImage": "https://people.com/thmb/JLqcO0-Av_7HfAwq0wyzkhpJ_zI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1049x245:1051x247)/rihanna-british-vogue-021523-3-802e20a1eee349acba5c56130cdc51f9.jpg",
-            "publishedAt": "2023-02-15T18:30:31Z",
-            "content": "Rihanna's baby boy is making his magazine debut!\r\nThe \"Diamonds\" singer, who recently revealed she's expecting her second baby, appears on the March cover of British Vogue alongside boyfriend A$AP Ro… [+2071 chars]"
+            "author": "Amanda Kooser",
+            "title": "NASA's Webb Space Telescope Reveals Never-Before-Seen Details of Pandora's Cluster - CNET",
+            "description": "\"We had to remind ourselves that this was real data, and we are working in a new era of astronomy now.\"",
+            "url": "https://www.cnet.com/science/space/nasas-webb-space-telescope-reveals-never-before-seen-details-of-pandoras-cluster/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/cf944ab0039d44ad1968e0a810c3cd8feed1a919/hub/2023/02/15/08e0f0e0-fc0a-4150-be40-f47a94a3d249/pandorasclusterweic2305a.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-02-16T04:59:29Z",
+            "content": "There are galaxies. Then there are galaxy clusters, which are made up of hundreds to thousands of galaxies held together by gravity. Then there are galaxy megaclusters -- a cluster of clusters, if yo… [+2566 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Gabrielle Chung",
+            "title": "John Legend Unveils First Family Portrait With Chrissy Teigen and Their 3 Kids - E! NEWS",
+            "description": "Chrissy Teigen and John Legend coordinated with their kids—son Miles and daughters Luna and Esti—in pinks and reds for their first portrait as a family of five. Take a look.",
+            "url": "https://www.eonline.com/news/1365185/john-legend-unveils-first-family-portrait-with-chrissy-teigen-and-their-3-kids",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023115/rs_1200x1200-230215164622-1200-chrissy-teigen-family.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-02-16T04:36:23Z",
+            "content": "John Legend and Chrissy Teigen were feeling bigger love this Valentine's Day.\r\nHaving welcomed baby girl Esti Maxine just last month, the couplewho are also parents to daughter Luna Simone, 6, and so… [+932 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Biden plans speech on balloon, unidentified objects -sources - Reuters.com",
+            "description": "President Joe Biden plans to give a speech as early as Thursday that will represent his most extensive remarks yet about a high-altitude Chinese balloon and three other objects that were shot down by U.S. fighter jets, two sources familiar with the discussion…",
+            "url": "https://www.reuters.com/world/us/biden-may-give-speech-balloon-unidentified-objects-source-2023-02-15/",
+            "urlToImage": "https://www.reuters.com/resizer/ZgnGZs57WdGf0ut1_ClvphtcHbk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B5XDHLIQ2VOHXKXCH4Q6BNBTZU.jpg",
+            "publishedAt": "2023-02-16T04:09:00Z",
+            "content": "WASHINGTON, Feb 15 (Reuters) - President Joe Biden plans to give a speech as early as Thursday that will represent his most extensive remarks yet about a high-altitude Chinese balloon and three other… [+2030 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "mlive.com"
+            },
+            "author": "John Tunison | jtunison@mlive.com",
+            "title": "Okemos High graduate among those injured in MSU shooting, principal confirms - MLive.com",
+            "description": "Okemos High School students are planning a walkout Thursday, Feb. 16 to show support for the Michigan State University community",
+            "url": "https://www.mlive.com/news/2023/02/okemos-high-graduate-among-those-injured-in-msu-shooting-principal-confirms.html",
+            "urlToImage": "https://www.mlive.com/resizer/aizCw4N_QMGfZdYtoYbb1MEUadk=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TPTEPQ3TZBBT7LUYSUOPV4BDOE.JPG",
+            "publishedAt": "2023-02-16T03:30:00Z",
+            "content": "EAST LANSING, MI -- An Okemos High School graduate is among those injured in the Michigan State University mass shooting, the school principal confirmed.\r\nOkemos High School Principal Daniel Kemsley … [+1750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "One of 12 boys rescued from Thai cave in 2018 dies at British school - The Times of Israel",
+            "description": "Duangphet 'Dom' Phromthep, 17, found unconscious Sunday in room at Brooke House College Football Academy in Leicestershire",
+            "url": "https://www.timesofisrael.com/one-of-12-boys-rescued-from-thai-cave-in-2018-dies-at-british-school/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/02/AP23046412145205-1024x640.jpg",
+            "publishedAt": "2023-02-16T03:28:06Z",
+            "content": "BANGKOK (AP) One of the 12 boys rescued from a flooded cave in Thailand in 2018 after being trapped for more than two weeks has died in England, where he was attending a sports academy, the foundatio… [+2414 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ford halts F-150 EV production, deliveries after battery fire - Reuters.com",
+            "description": "Ford Motor Co <a href=\"https://www.reuters.com/companies/F.N\" target=\"_blank\">(F.N)</a> on Wednesday said the suspension of production of its F-150 Lightning electric vehicle (EV) will last until at least the end of next week after a battery fire involving on…",
+            "url": "https://www.reuters.com/business/autos-transportation/ford-extends-f-150-ev-production-halt-through-least-next-week-2023-02-15/",
+            "urlToImage": "https://www.reuters.com/resizer/ZE2xM0DCpjyyQh1Dkrhqkhg6oPA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LTPAWRIN7JM47J3HVV3PKDTBUM.jpg",
+            "publishedAt": "2023-02-16T03:28:00Z",
+            "content": "WASHINGTON, Feb 15 (Reuters) - Ford Motor Co (F.N) on Wednesday said the suspension of production of its F-150 Lightning electric vehicle (EV) will last until at least the end of next week after a ba… [+1785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "The Conversation",
+            "title": "Radical Theory Proposes Black Holes Are The Source of Mysterious Dark Energy - ScienceAlert",
+            "description": "Black holes could explain a mysterious form of energy that makes up most of the Universe, according to astronomers.",
+            "url": "https://www.sciencealert.com/radical-theory-proposes-black-holes-are-the-source-of-mysterious-dark-energy",
+            "urlToImage": "https://www.sciencealert.com/images/2023/02/BlackHoleVisualization.jpg",
+            "publishedAt": "2023-02-16T03:26:35Z",
+            "content": "Black holes could explain a mysterious form of energy that makes up most of the Universe, according to astronomers.\r\nThe existence of \"dark energy\" has been inferred from observations of stars and ga… [+5924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "INSIDER"
+            },
+            "author": "Erin Snodgrass",
+            "title": "Marburg Virus: WHO confirms outbreak in Equatorial Guinea - Insider",
+            "description": "Patients can occur \"ghost-like,\" with deep-set eyes, expressionless faces, and extreme lethargy, according to the World Health Organization.",
+            "url": "https://www.insider.com/marburg-virus-who-confirms-outbreak-in-equatorial-guinea-2023-2",
+            "urlToImage": "https://i.insider.com/63ed95e81d14070018baf81e?width=1200&format=jpeg",
+            "publishedAt": "2023-02-16T03:14:23Z",
+            "content": "The World Health Organization confirmed an outbreak of the deadly Marburg virus in Equatorial Guinea this week.\r\nThe viral fever is confirmed to have killed at least one person in the country and is … [+3227 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Eric Tucker",
+            "title": "AP source: FBI searched U. of Delaware in Biden docs probe - The Associated Press - en Español",
+            "description": "WASHINGTON (AP) — The FBI searched the University of Delaware in recent weeks for classified documents as part of its investigation into the potential mishandling of sensitive government records  by President Joe Biden.",
+            "url": "https://apnews.com/article/biden-politics-united-states-government-classified-documents-4ce308776a5acd0de8a4be4cd3f24a7d",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f13b91646d76488b8ffe0650afb66e20/3000.webp",
+            "publishedAt": "2023-02-16T03:06:51Z",
+            "content": "WASHINGTON (AP) The FBI searched the University of Delaware in recent weeks for classified documents as part of its investigation into the potential mishandling of sensitive government records by Pre… [+3000 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Severin Carrell, Alex Atack, Jo Glanville, Adam Bransbury, Elizabeth Cassin, Hannah Moore",
+            "title": "Nicola Sturgeon's resignation: the end of an era for Scotland – podcast - The Guardian",
+            "description": "On Wednesday morning, Nicola Sturgeon called a press conference to announce she would be stepping down as the first minister of Scotland. Severin Carrell reports",
+            "url": "https://www.theguardian.com/news/audio/2023/feb/16/nicola-sturgeon-resignation-end-of-era-scotland-podcast",
+            "urlToImage": "https://i.guim.co.uk/img/media/b86d80be8922d8bd4f7a4ca45f588b49f6aaeeb0/0_0_4405_2643/master/4405.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6ecc61eca8c4097476f498cef675488",
+            "publishedAt": "2023-02-16T03:01:22Z",
+            "content": "Nicola Sturgeon has announced her resignation after more than eight years as first minister of Scotland and leader of the Scottish National party.\r\nEssentially, Ive been trying to answer two question… [+594 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jihye Lee, Lim Hui Jie",
+            "title": "Hang Seng Index gains 2% as Asia markets rise; Japan posts worst trade deficit ever - CNBC",
+            "description": "Investors in the Asia-Pacific will digest the U.S. retail sales report that came in stronger than expected.",
+            "url": "https://www.cnbc.com/2023/02/16/asia-markets-set-to-trade-higher-as-us-retail-sales-stronger-than-expected.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107150199-1668131442672-gettyimages-1297565616-vcg111314319231.jpeg?v=1676520764&w=1920&h=1080",
+            "publishedAt": "2023-02-16T02:45:00Z",
+            "content": "The Federal Reserve could move interest rates closer to 6%, said Dan Niles, founder of the Satori Fund. And he said that could be bad news for those hoping for a continued market rally.\r\n\"I think the… [+1120 chars]"
         }
     ]
 }
