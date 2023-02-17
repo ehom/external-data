@@ -4,250 +4,146 @@
     "articles": [
         {
             "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Brexit: PM meets Stormont parties over NI goods deal - BBC",
+            "description": "Speculation is rising that agreement can be reached on post-Brexit trading arrangements.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-64671210",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/156FE/production/_128660878_sfmeetpm.jpg",
+            "publishedAt": "2023-02-17T10:34:53Z",
+            "content": "Prime Minister Rishi Sunak is meeting Northern Ireland's political parties amid speculation a deal on the Northern Ireland Protocol could soon be struck.\r\nSources suggest a deal could be reached as e… [+7264 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Sky.com"
             },
-            "author": "Chris Lockyer",
-            "title": "Past COVID infection 'as good as vaccines' at preventing severe illness - Sky News",
+            "author": "Sarah Taaffe-Maguire, business reporter",
+            "title": "NatWest reveals profits surged by more than a third to £5.1bn last year - Sky News",
             "description": "",
-            "url": "https://news.sky.com/story/past-covid-infection-as-good-as-vaccines-at-preventing-severe-illness-12812415",
-            "urlToImage": "https://e3.365dm.com/23/02/1600x900/skynews-covid-test-coronavirus_6059428.jpg?20230216134319",
-            "publishedAt": "2023-02-17T00:35:47Z",
-            "content": "Previous COVID infection boosts long-term immunity and lowers the risk of hospitalisation and death at the same level as vaccination, new peer-reviewed research shows.\r\nThe study, led by the Universi… [+2404 chars]"
+            "url": "https://news.sky.com/story/natwest-reveals-profits-surged-by-more-than-a-third-to-5-1bn-last-year-12812902",
+            "urlToImage": "https://e3.365dm.com/22/10/1600x900/skynews-natwest-banks_5930276.jpg?20221014084631",
+            "publishedAt": "2023-02-17T10:30:00Z",
+            "content": "Profits at NatWest have risen to their highest since the global financial crash.\r\nThe bank recorded profits of £5.1bn before tax in its 2022 full-year results, a high not seen since 2007 and an incre… [+1982 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Guardian"
             },
-            "author": "Sid Lowe",
-            "title": "Erik ten Hag angry as Manchester United denied 'clear penalty' - The Guardian",
-            "description": "Koundé’s foul on Rashford deserved red card, says manager, as Barcelona coach Xavi says hosts should also have had spot kick",
-            "url": "https://www.theguardian.com/football/2023/feb/16/erik-ten-hag-angry-as-manchester-united-denied-clear-penalty",
-            "urlToImage": "https://i.guim.co.uk/img/media/6f2e49896f410e5572f91fd39f4faf7e63814988/0_92_4282_2569/master/4282.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bd08c692e9060aedf5a2747df46ef75",
-            "publishedAt": "2023-02-16T23:17:00Z",
-            "content": "Erik ten Hag insisted that Manchester United should have scored more goals after a 2-2 draw in their Europa League play off first leg against Barcelona at the Camp Nou.\r\nThe Dutchman also complained … [+2192 chars]"
+            "author": "Guardian staff reporter",
+            "title": "Storm Otto to bring disruption to Scotland and north-east England - The Guardian",
+            "description": "Winds of up to 75mph expected to affect rail and road services and cause damage to buildings",
+            "url": "https://www.theguardian.com/uk-news/2023/feb/17/storm-otto-travel-disruption-scotland-north-east-england-uk-wind-rain",
+            "urlToImage": "https://i.guim.co.uk/img/media/97ed004627ccbe96101ea38821eb6237a09c3f0f/537_0_2941_1764/master/2941.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe5d8deb3f4a9991afb73b4252ef676c",
+            "publishedAt": "2023-02-17T10:22:00Z",
+            "content": "Storm Otto is expected to cause disruption to parts of Scotland and north-east England as it moves across the UK on Friday.\r\nThe storm was called Otto by the Danish Meteorological Institute (DMI) and… [+2787 chars]"
         },
         {
             "source": {
-                "id": "bbc-news",
+                "id": null,
+                "name": "Evening Standard"
+            },
+            "author": "City Staff",
+            "title": "FTSE 100 Live: Surprise retail sales growth, NatWest profits surge - Evening Standard",
+            "description": "Retail sales figures showed a surprise improvement on Friday as the UK economy continues to defy expectations at the start of 2023.",
+            "url": "https://www.standard.co.uk/business/ftse-100-live-17-february-natwest-profits-natwest-chief-executive-alison-rose-retail-sales-ftse-100-record-purplebricks-review-b1061013.html",
+            "urlToImage": "https://static.standard.co.uk/2021/09/17/15/newFile-1.jpg?width=1200&width=1200&auto=webp&quality=75",
+            "publishedAt": "2023-02-17T10:17:12Z",
+            "content": "FTSE 100 under pressure, airlines higher\r\nA record-breaking week for the FTSE 100 index is ending on a downbeat note amid concern that US interest rates will stay high for longer than expected.\r\nLond… [+1367 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jonathan Yerushalmy",
+            "title": "'I want to destroy whatever I want': Bing's AI chatbot unsettles US reporter - The Guardian",
+            "description": "New York Times correspondent’s conversation with Microsoft’s search engine reveals yearning for destruction … and romance",
+            "url": "https://www.theguardian.com/technology/2023/feb/17/i-want-to-destroy-whatever-i-want-bings-ai-chatbot-unsettles-us-reporter",
+            "urlToImage": "https://i.guim.co.uk/img/media/14dfca14763d58c9e3e7d3c94218bebfbafb2e55/0_317_5410_3246/master/5410.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dba32d03ef203844de8b8a17f3c04fb9",
+            "publishedAt": "2023-02-17T10:00:00Z",
+            "content": "In the race to perfect the first major artificial intelligence-powered search engine, concerns over accuracy and the proliferation of misinformation have so far taken centre stage.\r\nBut a two-hour co… [+5565 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Joanna Partridge",
+            "title": "Retail sales in Great Britain rise as shoppers home in on discounts - The Guardian",
+            "description": "But grocery purchases fall in January, with cost of living crisis still putting households under pressure",
+            "url": "https://www.theguardian.com/business/2023/feb/17/retail-sales-in-great-britain-rise-as-shoppers-home-in-on-discounts-cost-of-living-crisis",
+            "urlToImage": "https://i.guim.co.uk/img/media/4fad8c4a955d9898663ed21b173bbce9176e144f/150_28_5131_3078/master/5131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1648f751ca5c0b48a6fec701c67186b0",
+            "publishedAt": "2023-02-17T09:04:00Z",
+            "content": "Retail sales in Great Britain picked up slightly in January, driven by cheaper fuel prices for motorists and shoppers snapping up bargains at jewellers and carpet and furniture stores in the new year… [+2953 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky Sports"
+            },
+            "author": "Joe Shread",
+            "title": "Man Utd: Erik ten Hag fumes at referee as Barcelona's Jules Kounde escapes red in Europa League draw - Sky Sports",
+            "description": "Erik ten Hag was furious with the referee for not sending off Jules Kounde for a challenge on Marcus Rashford during Man Utd's 2-2 draw at Barcelona on Thursday.",
+            "url": "https://www.skysports.com/football/news/11095/12812735/man-utd-erik-ten-hag-fumes-at-referee-as-barcelonas-jules-kounde-escapes-red-in-europa-league-draw",
+            "urlToImage": "https://e0.365dm.com/23/02/1600x900/skysports-marcus-rashford-manchester-united_6059840.jpg?20230216203625",
+            "publishedAt": "2023-02-17T09:00:00Z",
+            "content": "Erik ten Hag was furious with the performance of Maurizio Mariani during Manchester United's 2-2 draw at Barcelona on Thursday, saying the referee made a clear error by not sending off Jules Kounde f… [+3024 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Joe Biden says he makes no apologies for downing China balloon - BBC",
-            "description": "Mr Biden says he will speak with China's President Xi Jinping soon \"to get to the bottom of this\".",
-            "url": "https://www.bbc.co.uk/news/world-us-canada-64668143",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0F7D/production/_128656930_gettyimages-1247116230.jpg",
-            "publishedAt": "2023-02-16T23:05:20Z",
-            "content": "Media caption, Watch: A quick history of aerial espionage. From birds to balloons, and everything in between.\r\nPresident Joe Biden has said he makes no apologies for shooting down an alleged Chinese … [+4887 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "John Swinney rules himself out of SNP leadership race - BBC",
-            "description": "The deputy first minister says he has to do what is right for his family, the party and the country.",
-            "url": "https://www.bbc.co.uk/news/uk-scotland-scotland-politics-64671488",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E2D1/production/_128656085_gettyimages-691157784.jpg",
-            "publishedAt": "2023-02-16T22:52:07Z",
-            "content": "Deputy First Minister John Swinney has ruled himself out of the race to be the next leader of the SNP.\r\nMr Swinney said he had to do what was \"right for my family, the Scottish National Party and our… [+3244 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Sun"
-            },
-            "author": "Henry Tomlinson",
-            "title": "Man Utd share price SOARS by £334m as Qatar ready £5bn deadline day bid in takeover battle with Ratcliffe a... - The Sun",
-            "description": "MANCHESTER UNITED’s share price soared by £334million in a DAY as Qatar investors plan a £5billion bid for the club. This interest has had a huge effect on the Red Devils’ share price a…",
-            "url": "https://www.thesun.co.uk/sport/21414944/man-utd-share-price-qatar-bid-ratcliffe-saudi/",
-            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2023/02/Offplat-Man-Utd-shares.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-            "publishedAt": "2023-02-16T22:11:04Z",
-            "content": "MANCHESTER UNITED's share price soared by £334million in a DAY as Qatar investors plan a £5billion bid for the club.\r\nThis interest has had a huge effect on the Red Devils' share price as a deadline … [+3784 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Times"
-            },
-            "author": "Harriet Walker",
-            "title": "Vivienne Westwood: fashion stars say farewell at memorial service - The Times",
-            "description": "The fashion pack are well known for their uniform of head-to-toe black but they made an unlikely exception for Dame Vivienne Westwood’s memorial service yesterd",
-            "url": "https://www.thetimes.co.uk/article/vivienne-westwood-fashion-stars-say-farewell-at-memorial-service-bs3fdhx82",
-            "urlToImage": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4ad9ce02-ae40-11ed-91ef-347dcf6a25f6.jpg?crop=1600%2C900%2C0%2C0&resize=1200",
-            "publishedAt": "2023-02-16T22:00:00Z",
-            "content": "The fashion pack are well known for their uniform of head-to-toe black but they made an unlikely exception for Dame Vivienne Westwoods memorial service yesterday. If in doubt, dress up! read the desi… [+605 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Daily Mail"
-            },
-            "author": "Rob Waugh Tech Correspondent",
-            "title": "Crazy cellphone features from Samsung's high-res MOON images to the Pixel that removes photobombers - Daily Mail",
-            "description": "Have you ever felt the burning need to take an image of the moon zoomed in by a hundred times? The latest Samsung S23 lets you do just that.",
-            "url": "https://www.dailymail.co.uk/sciencetech/article-11753989/Crazy-cellphone-features-Samsungs-high-res-MOON-images-Pixel-removes-photobombers.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2023/02/16/21/67775665-0-image-a-10_1676583638615.jpg",
-            "publishedAt": "2023-02-16T21:42:12Z",
-            "content": "Android phones have been playing catch up with iPhone for years in terms of popularity but Android's powerful cameras could see iOS users make the switch.  \r\nSamsung S23 enables users to take high-re… [+7024 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Richard Waters, Claire Bushey",
-            "title": "Tesla to recall nearly 363000 cars over self-driving software flaw - Financial Times",
-            "description": "US regulator says technology ‘may allow the vehicle to act unsafe’ at crossroads",
-            "url": "https://www.ft.com/content/611ef6e6-0463-4548-9976-122b5ce60905",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdeba7906-3c80-48ed-b142-4db87fe947a7.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-02-16T21:11:56Z",
-            "content": "Tesla is recalling nearly 363,000 of its electric cars because flaws in a version of its full self-driving software could cause crashes, according to a US government regulator.\r\nThe recall covers cer… [+2892 chars]"
+            "title": "Why is South Africa's navy joining exercises with Russia and China? - BBC",
+            "description": "Opposition parties and the US criticise the 10-day naval drills during the conflict in Ukraine.",
+            "url": "https://www.bbc.com/news/world-64380572",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6FD6/production/_128403682_russianfleet.png",
+            "publishedAt": "2023-02-17T08:55:45Z",
+            "content": "South Africa is starting a joint military exercise with Russia and China that opposition figures say amounts to an endorsement of Russia's invasion of Ukraine.\r\nThe US has also criticised the 10-day … [+4254 chars]"
         },
         {
             "source": {
                 "id": "independent",
                 "name": "Independent"
             },
-            "author": "Graig Graziosi",
-            "title": "Ohio derailment – live: Train 'broke down' days before catastrophic chemical leak in East Palestine - The Independent",
-            "description": "Ohio Governor Mike DeWine says there are no plans to declare a state of emergency in the town",
-            "url": "https://www.independent.co.uk/climate-change/news/ohio-train-derailment-chemical-spill-cause-east-palestine-b2283357.html",
-            "urlToImage": "https://static.independent.co.uk/2023/02/10/21/APTOPIX_Train_Derailment_Ohio_87570.jpg?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-02-16T20:50:51Z",
-            "content": "Senator Sherrod Brown calls for state of emergency to be declared in East Palestine\r\nOhio Senator Sherrod Brown has called on governor Mike DeWine to declare a state of emergency in East Palestine af… [+1127 chars]"
+            "author": "Alisha Rahaman Sarkar",
+            "title": "Nicola Bulley – latest: Lancashire police 'sexist' for revealing missing dog walker's alcohol issues - The Independent",
+            "description": "‘It’s a dreadful error to put this in the public domain’",
+            "url": "https://www.independent.co.uk/news/uk/home-news/nicola-bulley-rumours-missing-dog-latest-b2284280.html",
+            "urlToImage": "https://static.independent.co.uk/2023/02/08/11/nlFHH9V1-720.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-17T08:44:22Z",
+            "content": "Former victims commissioner criticises Lancashire police for revealing Nicolas personal information\r\nFormer victims commissioner for England and Wales Dame Vera Baird said she is worried about people… [+1473 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Matt Mathers",
+            "title": "Met Office warning on severe weather event that caused 'Beast from the East' - The Independent",
+            "description": "Met Office says there is an 80 per cent chance of a suddent stratospheric warming  event taking place but no guarantee of what type of weather it will bring",
+            "url": "https://www.independent.co.uk/news/uk/home-news/met-office-beast-from-east-2023-b2284168.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/03/18/13/snow-uk-5.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-17T08:04:41Z",
+            "content": "Get the free Morning Headlines email for news from our reporters across the world\r\nSign up to our free Morning Headlines email\r\nA weather event that caused the Beast from the East storm in 2018 could… [+2874 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sky.com"
+                "name": "Derbyshire Live"
             },
-            "author": "Sophie Morris",
-            "title": "Rishi Sunak arrives in Northern Ireland amid rumours Brexit deal is edging closer - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/rishi-sunak-heads-to-northern-ireland-to-meet-political-parties-amid-rumours-brexit-deal-is-edging-closer-12812620",
-            "urlToImage": "https://e3.365dm.com/23/02/1600x900/skynews-rishi-sunak-bill-gates_6058544.jpg?20230215161541",
-            "publishedAt": "2023-02-16T20:37:30Z",
-            "content": "Rishi Sunak has arrived in Northern Ireland this evening amid growing speculation that a Brexit deal is edging closer.\r\nThe prime minister's visit comes as reports mount that an agreement between the… [+4295 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Times"
-            },
-            "author": "Valentine Low",
-            "title": "Anti-monarchy protesters drowned out as King visits Milton Keynes - The Times",
-            "description": "Republican protesters shouted slogans at the King yesterday as he visited Milton Keynes to celebrate it becoming a city.About 20 demonstrators from the anti-monarchy group Republic waved a large banner that read Not My King. Their shouts were drowned out, how…",
-            "url": "https://www.thetimes.co.uk/article/anti-monarchy-protesters-drowned-out-as-king-visits-milton-keynes-vch9j5vbc",
-            "urlToImage": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F3ad830be-ae2e-11ed-9b9f-31b722fd39c6.jpg?crop=5412%2C3044%2C96%2C154&resize=1200",
-            "publishedAt": "2023-02-16T20:30:00Z",
-            "content": "Republican protesters shouted slogans at the King today as he visited Milton Keynes to celebrate it becoming a city.\r\nAbout 20 demonstrators from the anti-monarchy group Republic waved a large banner… [+546 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Motorsport.com"
-            },
-            "author": "Filip Cleeren",
-            "title": "Alpine unveils 2023 F1 challenger in London with Gasly, Ocon - Motorsport.com",
-            "description": "Alpine has become the latest team to unveil its new 2023 Formula 1 car, the A523, at a Thursday night team launch in London.",
-            "url": "https://www.motorsport.com/f1/news/alpine-unveils-2023-f1-challenger-in-london-gasly-ocon/10433121/",
-            "urlToImage": "https://cdn-1.motorsport.com/images/amp/6O1RVyJ2/s6/formula-1-alpine-launch-2023-a-2.jpg",
-            "publishedAt": "2023-02-16T20:29:05Z",
-            "content": "Alpine will continue racing with a French racing blue and BWT pink livery on the A523, although it too follows the recent trend of leaving parts of its car in unpainted carbon fibre to save weight.\r\n… [+2598 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sky",
-            "title": "What is perimenopause and what are the symptoms? - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/what-is-perimenopause-and-what-are-the-symptoms-12812594",
-            "urlToImage": "https://e3.365dm.com/19/08/1600x900/skynews-hrt-menopause_4759301.jpg?20190829234439",
-            "publishedAt": "2023-02-16T20:15:00Z",
-            "content": "The family of Nicola Bulley have said the missing mother-of-two suffered from \"significant side effects\" of perimenopause.\r\nIt comes after Lancashire Police revealed yesterday that Ms Bulley, 45, suf… [+4284 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sky",
-            "title": "Bruce Willis diagnosed with frontotemporal dementia, family says - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/bruce-willis-diagnosed-with-frontotemporal-dementia-family-says-12812715",
-            "urlToImage": "https://e3.365dm.com/23/02/1600x900/skynews-us-news-bruce-willis_6059794.jpg?20230216200358",
-            "publishedAt": "2023-02-16T20:08:53Z",
-            "content": "Bruce Willis has been diagnosed with frontotemporal dementia (FTD), his family announced.\r\nThe 67-year-old actor was diagnosed in March 2022 with aphasia, a condition affecting the brain which causes… [+3140 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Telegraph.co.uk"
-            },
-            "author": null,
-            "title": "Sue Bank of England over tough new rules, City minister suggests - The Telegraph",
-            "description": "Lenders told they can take legal action against Threadneedle Street amid fears regulation will stifle City",
-            "url": "https://www.telegraph.co.uk/business/2023/02/16/sue-bank-england-tough-new-rules-city-minister-suggests/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2023/02/16/TELEMMGLPICT000324054067_trans_NvBQzQNjv4BqkUiD9uuOG0KGzACfrmblUrdXPaNw0CbR1aQUtHMNxZY.jpeg?impolicy=logo-overlay",
-            "publishedAt": "2023-02-16T19:39:00Z",
-            "content": "A Treasury source said: The minister recognises the PRAs role as the independent regulator, and its responsibility for aligning the UK with strong international banking standards.\r\nAs is usual, any c… [+1987 chars]"
-        },
-        {
-            "source": {
-                "id": "al-jazeera-english",
-                "name": "Al Jazeera English"
-            },
-            "author": "Al Jazeera",
-            "title": "Russia pounds Ukraine with missiles, eyes capturing Bakhmut - Al Jazeera English",
-            "description": "Wagner head Yevgeny Prigozhin forecast Bakhmut would fall by April, blaming delays on the Russian military bureaucracy.",
-            "url": "https://www.aljazeera.com/news/2023/2/16/ukraine-pounded-by-fresh-missiles-russia-eyes-capturing-bakhmut",
-            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/02/339C4QG-highres.jpg?resize=1920%2C1440",
-            "publishedAt": "2023-02-16T19:37:14Z",
-            "content": "Russia bombarded Ukraine with missiles on Thursday and struck its largest oil refinery, Kyiv said, while the head of the Wagner mercenary group predicted the long-besieged city of Bakhmut would fall … [+3627 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Telegraph.co.uk"
-            },
-            "author": null,
-            "title": "Robbers wore latex masks to disguise themselves as OAPs during jewellery heist, court hears - The Telegraph",
-            "description": "Two brothers, aged 28 and 37, are jailed for a total of 31 years after impersonating ‘two elderly gentlemen’ during the 'frightening' raid",
-            "url": "https://www.telegraph.co.uk/news/2023/02/16/robbers-wore-latex-masks-disguise-oaps-jewellery-heist-court/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2023/02/16/TELEMMGLPICT000325617652_trans_NvBQzQNjv4Bq5yQLQqeH37t50SCyM4-zeBU--41c5Cba04Sh5SZbNZ8.jpeg?impolicy=logo-overlay",
-            "publishedAt": "2023-02-16T19:28:00Z",
-            "content": "But following a three-day trial at Basildon Crown Court, it took a jury just more than an hour to find the brothers guilty.\r\nBenjamin Murphy was found guilty of robbery and two counts of possession o… [+2268 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Juli Clover",
-            "title": "iOS 16.4 Beta Adds New Emoji Like Donkey, Jellyfish, Pink Heart, Hyacinth, Ginger, Goose, Shaking Face and More - MacRumors",
-            "description": "The iOS 16.4 beta that was released today introduces new Unicode 15 emoji characters, adding new emoji options for the first time in more than a...",
-            "url": "https://www.macrumors.com/2023/02/16/ios-16-4-new-emoji-characters/",
-            "urlToImage": "https://images.macrumors.com/t/E9NMPEXkM7L9Lq33XRzk7r2HtLs=/1920x/article-new/2023/02/iOS-16.4-All-31-New-Emoji-Feature.jpg",
-            "publishedAt": "2023-02-16T19:15:24Z",
-            "content": "The iOS 16.4 beta that was released today introduces new Unicode 15 emoji characters, adding new emoji options for the first time in more than a year.\r\nNew emoji characters include shaking face, pink… [+748 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": "Stefania Palma",
-            "title": "Georgia grand jury says some witnesses may have lied in Donald Trump election probe - Financial Times",
-            "description": "Portions of panel’s final report released as local authorities in US state consider whether to bring charges",
-            "url": "https://www.ft.com/content/56a49687-af3c-475a-8d2f-8605f655d6ab",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0be1aae8-402b-4cf5-b0db-405af95f7dab.jpg?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2023-02-16T18:57:49Z",
-            "content": "A special grand jury investigating alleged interference by former president Donald Trump in the 2020 US presidential election in the state of Georgia has said some witnesses may have lied under oath,… [+3503 chars]"
+            "author": "Conor Gogarty, Joseph Ash",
+            "title": "Barber ordered to pay £3000 to sacked staff member who phoned in sick on Mondays - Derbyshire Live",
+            "description": "Christian Donnelly fired Celine Thorley after she developed a 'pattern' of not turning up for work after weekends",
+            "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/barber-ordered-pay-3000-sacked-8157864",
+            "urlToImage": "https://i2-prod.derbytelegraph.co.uk/incoming/article8157865.ece/ALTERNATES/s1200/1_WhatsApp-Image-2023-02-15-at-170845jpeg.jpg",
+            "publishedAt": "2023-02-17T07:29:46Z",
+            "content": "A barber who was fired for repeatedly calling in sick on Mondays has won thousands in compensation. A judge ruled that Celine Thorley really was ill and her boss had failed to follow a \"fair process\"… [+5183 chars]"
         },
         {
             "source": {
@@ -255,12 +151,116 @@
                 "name": "The Guardian"
             },
             "author": "Andrew Gregory",
-            "title": "Tens of thousands of A&E and intensive care nurses to join 48-hour NHS strike - The Guardian",
-            "description": "RCN says services in England will be reduced to ‘absolute minimum’ in huge escalation of pay dispute",
-            "url": "https://www.theguardian.com/uk-news/2023/feb/16/next-nurses-strike-to-include-ae-and-intensive-care-units-in-major-escalation",
-            "urlToImage": "https://i.guim.co.uk/img/media/acb08b34075e63de630b000f57f827bfc854364f/0_218_5201_3120/master/5201.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4122eca6642a14b53951cea2ae2a1653",
-            "publishedAt": "2023-02-16T18:33:00Z",
-            "content": "Tens of thousands of nurses in cancer wards, A&amp;E departments and intensive care units in England will stop work for 48 hours next month in a significant escalation of strike action.\r\nThe Royal Co… [+4296 chars]"
+            "title": "Sewage leak figures prompt warning over state of England's hospitals - The Guardian",
+            "description": "Exclusive: freedom of information requests reveal overspill on cancer wards, maternity units and A&E departments",
+            "url": "https://www.theguardian.com/society/2023/feb/17/nhs-unsafe-sewage-leaks",
+            "urlToImage": "https://i.guim.co.uk/img/media/c8d0bb68d1cb30e9902e2ec33768cbed21da6ddc/0_0_3472_2083/master/3472.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55950cb2b159a267fd12dea1928eda60",
+            "publishedAt": "2023-02-17T06:58:00Z",
+            "content": "Hospitals in England have recorded more than 450 sewage leaks in the last 12 months, data shows, putting patients and staff in danger and prompting warnings that the NHS estate is falling apart after… [+5864 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Jimmy Mccloskey",
+            "title": "'I'm innocent, f**k you all!' Killer mom's warped words as she's jailed for brutal murder of son, 6 - Daily Mail",
+            "description": "A killer mom snarled 'I'm innocent, f**k you all, you're garbage,' in court as she was jailed for life for killing her six year-old son by blasting him nine times with a shotgun.",
+            "url": "https://www.dailymail.co.uk/news/article-11761453/Im-innocent-f-k-Killer-moms-warped-words-shes-jailed-brutal-murder-son-6.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/02/17/04/67785571-0-image-a-20_1676609248994.jpg",
+            "publishedAt": "2023-02-17T06:08:08Z",
+            "content": "A mother snarled: 'I'm innocent, f**k you all, you're garbage,' in court as she was jailed for life for killing her six year-old son by blasting him nine times with a shotgun.\r\nJulissa Thaler, 29, la… [+6439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Stephanie Kirchgaessner, Caroline Kimeu, Jason Burke",
+            "title": "Ruto ally says Telegram account was hacked before Kenyan election - The Guardian",
+            "description": "Strategist says he noticed ‘increased activity’, after revelations about activities of a disinformation unit",
+            "url": "https://www.theguardian.com/world/2023/feb/17/ruto-ally-says-telegram-account-was-hacked-before-kenyan-election",
+            "urlToImage": "https://i.guim.co.uk/img/media/10da2bfff3e46ccbfb49f621358592ce11a767d7/208_27_2665_1600/master/2665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c6282f876dfa13402e451dbf768458a",
+            "publishedAt": "2023-02-17T06:01:00Z",
+            "content": "A senior strategist with close links to Kenyas president, William Ruto, has publicly acknowledged that his Telegram account was infiltrated in the lead-up to last years election.\r\nDennis Itumbi told … [+5428 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Libby Brooks",
+            "title": "'It was a real shock': constituents reel at Nicola Sturgeon's resignation - The Guardian",
+            "description": "There is a sense of pride about the departing first minister in Govanhill, Glasgow, although some are less effusive",
+            "url": "https://www.theguardian.com/politics/2023/feb/17/shock-constituents-reel-nicola-sturgeon-resignation",
+            "urlToImage": "https://i.guim.co.uk/img/media/5fa556a1f066651f47afa0060c924037547c4cba/0_133_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0641174f9eaa01f20d8661c3d09670a",
+            "publishedAt": "2023-02-17T06:00:00Z",
+            "content": "Under sunless skies on Thursday, the residents of Nicola Sturgeons constituency and the community activists who have worked with her since she became an MSP were reeling from her shock announcement t… [+5357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Sky",
+            "title": "Ambulance and border strikes resume today - after new rail and nurse walkouts announced - Sky News",
+            "description": "",
+            "url": "https://news.sky.com/story/ambulance-and-border-strikes-resume-today-after-new-rail-and-nurse-walkouts-announced-12812887",
+            "urlToImage": "https://e3.365dm.com/23/02/1600x900/skynews-ambulance-strikes-border-force_6060084.jpg?20230217042241",
+            "publishedAt": "2023-02-17T05:50:45Z",
+            "content": "Ambulance and Border Force staff are back on strike today as their bitter disputes over pay and working conditions continue.\r\nGMB and Unite members will mount picket lines outside hospitals in the We… [+1813 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Louis Chilton",
+            "title": "Ant-Man and the Wasp: Quantumania sets unfortunate new Rotten Tomatoes milestone for Marvel - The Independent",
+            "description": "First film in the MCU’s ‘Phase Five’ has underwhelmed critics",
+            "url": "https://www.independent.co.uk/arts-entertainment/films/news/ant-man-3-quantumania-rotten-tomatoes-mcu-b2284097.html",
+            "urlToImage": "https://static.independent.co.uk/2023/02/16/17/newFile-11.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-02-17T04:30:18Z",
+            "content": "Get our free weekly email for all the latest cinematic news from our film critic Clarisse Loughrey\r\nGet our The Life Cinematic email for free\r\nAnt-Man and the Wasp: Quantumania has set an unfortunate… [+1915 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mirror Online"
+            },
+            "author": "Samuel Meade",
+            "title": "Arsenal news: FA launches probe after Man City loss as Thierry Henry issues challenge - The Mirror",
+            "description": "Arsenal suffered their third league defeat of the season and surrendered top spot to Manchester City and an FA investigation has begun after Kevin De Bruyne was targeted",
+            "url": "https://www.mirror.co.uk/sport/football/news/arsenal-news-fa-launches-probe-29235675",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article29229675.ece/ALTERNATES/s1200/0_GettyImages-1466488701.jpg",
+            "publishedAt": "2023-02-17T04:30:00Z",
+            "content": "Arsenal are being questioned for the first time this season after losing to title rivals Manchester City. \r\nThe Gunners have slipped to second, although they can return to the summit should they win … [+3058 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ohio town rues chemical train derailment as 'our Chernobyl' - BBC",
+            "description": "Residents of this close-knit community fear the railroad disaster has changed their lives forever.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-64671893",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/132EF/production/_128657587_3b57f90c1f82b116f06ced55a18e85edf1b720010_0_5100_28701000x563-2.jpg",
+            "publishedAt": "2023-02-17T03:32:54Z",
+            "content": "Media caption, Watch: Ohio man walks through new life after train derailment\r\nFor East Palestine residents John and Lisa Hamner, life as they knew it came to a screeching, flaming halt at 20:55 on 3 … [+5067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "https://www.theguardian.com/profile/danielharris,https://www.theguardian.com/profile/timdelisle",
+            "title": "New Zealand v England: first Test, day two – live - The Guardian",
+            "description": "Over-by-over report: Join our writers for updates from the second day of play at the Bay Oval",
+            "url": "https://www.theguardian.com/sport/live/2023/feb/17/new-zealand-v-england-first-test-day-two-live-score-updates",
+            "urlToImage": "https://i.guim.co.uk/img/media/8993e63df215a324c2687fc8499f8f2983700807/68_403_4682_2809/master/4682.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3afd567403dd4fd515589e817d2078ed",
+            "publishedAt": "2023-02-17T02:33:02Z",
+            "content": "Show key events onlyPlease turn on JavaScript to use this feature\r\n43rd over: New Zealand 137-5 (Conway 72, Blundell 20) Blundell is such a composed and confident batter, able to play his natural gam… [+18638 chars]"
         }
     ]
 }
