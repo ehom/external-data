@@ -14,7 +14,7 @@
             "uri": "nyt://promo/db5cc09e-6bfc-5618-a74b-6f7882bbd96b",
             "byline": "",
             "item_type": "Promo",
-            "updated_date": "2023-03-13T02:51:16-04:00",
+            "updated_date": "2023-03-13T04:41:12-04:00",
             "created_date": "2023-03-12T17:10:59-04:00",
             "published_date": "2023-03-12T17:10:59-04:00",
             "material_type_facet": "",
@@ -547,7 +547,7 @@
             "uri": "nyt://article/dd895080-538c-577f-84d1-44abae275563",
             "byline": "By Brooks Barnes",
             "item_type": "Article",
-            "updated_date": "2023-03-13T02:51:12-04:00",
+            "updated_date": "2023-03-13T04:41:08-04:00",
             "created_date": "2023-03-13T00:05:43-04:00",
             "published_date": "2023-03-13T00:05:43-04:00",
             "material_type_facet": "",
@@ -613,7 +613,7 @@
             "uri": "nyt://article/5508d093-57e4-526d-95b0-37f39fbfaca3",
             "byline": "By Kalia Richardson",
             "item_type": "Article",
-            "updated_date": "2023-03-13T00:21:41-04:00",
+            "updated_date": "2023-03-13T04:31:53-04:00",
             "created_date": "2023-03-12T23:44:35-04:00",
             "published_date": "2023-03-12T23:44:35-04:00",
             "material_type_facet": "",
@@ -632,7 +632,38 @@
                 "Mescal, Paul (1996- )"
             ],
             "geo_facet": [],
-            "multimedia": null,
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/03/12/movies/awardsseason/12oscars-blog-blue-ribbons1/12oscars-blog-blue-ribbons1-superJumbo-v3.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The animated-feature Oscar winner Guillermo del Toro was among those wearing blue ribbons at the ceremony.",
+                    "copyright": "Todd Heisler/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/03/12/movies/awardsseason/12oscars-blog-blue-ribbons1/12oscars-blog-blue-ribbons1-threeByTwoSmallAt2X-v3.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The animated-feature Oscar winner Guillermo del Toro was among those wearing blue ribbons at the ceremony.",
+                    "copyright": "Todd Heisler/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/03/12/movies/awardsseason/12oscars-blog-blue-ribbons1/12oscars-blog-blue-ribbons1-thumbLarge-v3.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The animated-feature Oscar winner Guillermo del Toro was among those wearing blue ribbons at the ceremony.",
+                    "copyright": "Todd Heisler/The New York Times"
+                }
+            ],
             "short_url": "https://nyti.ms/3TcQLwB"
         },
         {
