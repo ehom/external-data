@@ -1,240 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 32,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Antonia Mortensen, Duarte Mendonca, Luke McGee, Kevin Liptak",
+            "title": "Poland becomes first to pledge fighter jets to Ukraine - CNN",
+            "description": "Poland on Thursday pledged it would send four MiG-29 fighter jets to Ukraine, the first NATO member to do so, in a significant move in Kyiv's battle to resist Russia's onslaught.",
+            "url": "https://www.cnn.com/2023/03/16/europe/poland-fighter-jets-ukraine-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230316140950-polish-mig-29-file-0514.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-16T22:26:00Z",
+            "content": "Poland on Thursday pledged it would send four MiG-29 fighter jets to Ukraine, the first NATO member to do so, in a significant move in Kyivs battle to resist Russias onslaught.\r\nPresident Andrzej Dud… [+5332 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kathryn Watson, Sarah Ewall-Wice",
+            "title": "What to know about bank deposits and the FDIC Deposit Insurance Fund - CBS News",
+            "description": "The two banks suddenly collapsed last week, but the federal government quickly said that depositors would not lose their money.",
+            "url": "https://www.cbsnews.com/news/silicon-valley-bank-signature-bank-deposits-fdic-deposit-insurance-fund-president-joe-biden/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2011/10/11/161e71ce-7bf5-4653-8422-704fb42fed5e/thumbnail/1200x630/c30d05eb700c27bfccfd32927f2d47c0/fdic_83073429.jpg",
+            "publishedAt": "2023-03-16T21:55:00Z",
+            "content": "All week, a parade of Biden administration officials has sought to drive home the message that taxpayers will not bear the financial burden of the government's guarantee that all of the depositors at… [+6542 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Jenni Reid, Hannah Ward-Glenton, Holly Ellyatt",
-            "title": "European markets cautiously higher; Credit Suisse soars after central bank backstop - CNBC",
-            "description": "European markets ticked higher Thursday as investors digested the news that the Swiss National Bank had offered help to Credit Suisse.",
-            "url": "https://www.cnbc.com/2023/03/16/european-markets-live-updates-stocks-data-news-and-earnings.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107208929-1678875943785-GettyImages-1246959174.jpg?v=1678952969&w=1920&h=1080",
-            "publishedAt": "2023-03-16T12:09:00Z",
-            "content": "The chairman of Credit Suisse's largest shareholder, Saudi National Bank, told CNBC's Hadley Gamble that the recent market turmoil in the banking sector is \"isolated\" and stems from \"a little bit of … [+758 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Oliver Connolly",
-            "title": "A grumpy and vengeful Aaron Rodgers will be in his happy place with the Jets - The Guardian",
-            "description": "If New York and Green Bay agree terms on a trade for the quarterback, it may be a success or a disaster. But it will definitely be entertaining",
-            "url": "https://www.theguardian.com/sport/2023/mar/16/aaron-rodgers-new-york-jets-green-bay-packers-trade-nfl-football",
-            "urlToImage": "https://i.guim.co.uk/img/media/2453df6d674d1a9a3399e0c626c4b02d24ce7e61/0_120_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e3e4e03cdd8d126c79ffd9af2c39655",
-            "publishedAt": "2023-03-16T12:08:00Z",
-            "content": "The long national nightmare is over. Aaron Rodgers has made his decision.\r\nAfter 15 seasons as the Green Bay Packers starter, the quarterback is set to be traded to the New York Jets. He confirmed as… [+8946 chars]"
+            "author": "Chelsey Cox",
+            "title": "China would be among first paid under GOP debt limit plan, Treasury Secretary Yellen says - CNBC",
+            "description": "A GOP plan to pay off certain debts to avoid default instead of passing a debt ceiling bill is a \"dangerous idea,\" said Yellen.",
+            "url": "https://www.cnbc.com/2023/03/16/debt-ceiling-china-would-be-among-first-paid-under-gop-debt-limit-plan-treasury-secretary-yellen-say.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107210084-1678985862911-gettyimages-1473959946-_s1_7618_4qd1pqoa.jpeg?v=1679002118&w=1920&h=1080",
+            "publishedAt": "2023-03-16T21:28:38Z",
+            "content": "WASHINGTON Treasury Secretary Janet Yellen said Thursday that China would be among the first in line to get paid under a Republican proposal to prioritize some U.S. debt obligations over others, call… [+2979 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "CNBC"
             },
-            "author": "Arjun Kharpal",
-            "title": "TikTok confirms the U.S. has threatened ban if Chinese parent ByteDance doesn't sell stake - CNBC",
-            "description": "The U.S. has a number of concerns about TikTok and has maintained the Chinese-owned app presents a national security risk.",
-            "url": "https://www.cnbc.com/2023/03/16/tiktok-us-threatens-ban-if-chinese-parent-bytedance-doesnt-sell-stake.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107209772-1678964942703-gettyimages-1247568480-The_US_Government_Banned_TIKTOK.jpeg?v=1678968408&w=1920&h=1080",
-            "publishedAt": "2023-03-16T12:06:48Z",
-            "content": "Washington asked TikTok's Chinese parent company ByteDance to divest its stake in the short video app or face a possible ban in the U.S., CNBC has confirmed.\r\nTikTok spokesperson Brooke Oberwetter to… [+2460 chars]"
+            "author": "Holly Ellyatt, Jacob Pramuk",
+            "title": "Ukraine war live updates: Watch the moment Russian jets intercept U.S. drone; Poland to send fighter aircraft to Ukraine - CNBC",
+            "description": "The chasm between Russia and the West continues to widen as the dispute over a downed U.S. drone continues to send ripples across the geopolitical landscape.",
+            "url": "https://www.cnbc.com/2023/03/16/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107209790-1678967239852-Jet3.PNG?v=1678967284&w=1920&h=1080",
+            "publishedAt": "2023-03-16T21:24:00Z",
+            "content": "Russia's Ambassador to the U.S. Anatoly Antonov appeared to blame the U.S. for the downing of a U.S. drone over the Black Sea on Tuesday that the U.S. military blamed on the \"reckless\" and \"unsafe\" b… [+1895 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "NCAA.com"
+                "name": "FOX 4 News"
             },
-            "author": "NCAA.com",
-            "title": "Latest bracket, schedule and scores for 2023 NCAA men's tournament - NCAA.com",
-            "description": "Here is the printable 2023 March Madness bracket, along with a schedule for the men's tournament.",
-            "url": "https://www.ncaa.com/news/basketball-men/mml-official-bracket/2023-03-16/latest-bracket-schedule-and-scores-2023-ncaa-mens-tournament",
-            "urlToImage": "https://www.ncaa.com/_flysystem/public-s3/styles/large_16x9/public-s3/images/2023-03/2023-march-madness-bracket-march-12.jpg?h=514774d3&itok=5xXnZLQc",
-            "publishedAt": "2023-03-16T11:58:25Z",
-            "content": "Here's the official March Madness bracket, plus the latest schedule, scores, livestreams and TV info for the 2023 NCAA DI men's basketball championship.\r\nNCAA bracket 2023: Printable March Madness br… [+4537 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Rick Noack",
-            "title": "Macron's rule hangs in balance as parliament votes on retirement age plan - The Washington Post",
-            "description": "French President Emmanuel Macron has been pushing for changes to the labor system since he was first elected. Now, there's a key vote on the retirement age.",
-            "url": "https://www.washingtonpost.com/world/2023/03/16/france-retirement-age-vote-macron/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SDJUNGR2L2XWEVTGMLMNHVQONE_size-normalized.jpg&w=1440",
-            "publishedAt": "2023-03-16T11:55:37Z",
-            "content": "Comment on this story\r\nPARIS French President Emmanuel Macron faces a key test of his second term on Thursday, as lawmakers vote on his controversial plans to raise the minimum retirement age from 62… [+5058 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Oren Liebermann",
-            "title": "US military releases footage of Russian fighter jet forcing down American drone over Black Sea - CNN",
-            "description": "US European Command released footage of the Tuesday encounter between a US surveillance drone and the Russian fighter jets as it played out over the Black Sea.",
-            "url": "https://www.cnn.com/2023/03/16/politics/us-military-video-drone-russian-jet/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230316094912-01-downed-drone-footage.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-16T11:33:00Z",
-            "content": "US European Command released footage of the Tuesday encounter between a US surveillance drone and the Russian fighter jets as it played out over the Black Sea.\r\nThe newly declassified video depicts c… [+3880 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "INSIDER"
-            },
-            "author": "Amber Middleton",
-            "title": "Woman who thought carrying baby caused rib pain had colon cancer - Insider",
-            "description": "A new mom felt sharp muscle pain and was sick while on her first family holiday. It turned out to be colon cancer that had spread to her liver.",
-            "url": "https://www.insider.com/muscle-pain-baby-colon-cancer-liver-bowel-chemotherapy",
-            "urlToImage": "https://i.insider.com/6412faa65f4f54001919dad4?width=1200&format=jpeg",
-            "publishedAt": "2023-03-16T11:20:10Z",
-            "content": "Leeanne Davies-Grassnick was in Greece on her first holiday with her four-month-old son and her wife when she started getting sharp pains under her ribs.\r\nThe 38-year-old from Germany was struggling … [+3078 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Eonline.com"
-            },
-            "author": "Lindsay Weinberg",
-            "title": "Vanderpump Rules' Ariana Madix Breaks Silence on Tom Sandoval and Raquel Leviss Scandal - E! NEWS",
-            "description": "Vanderpump Rules star Ariana Madix is ready to talk following her split from Tom Sandoval, who is accused of having an affair with co-star Raquel Leviss. Read her note below.",
-            "url": "https://www.eonline.com/news/1367289/vanderpump-rules-ariana-madix-breaks-silence-on-tom-sandoval-and-raquel-leviss-scandal",
-            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202328/rs_1200x1200-230308153954-1200-Tom-Sandoval-and-Ariana-Madix-GettyImages-1329607390.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
-            "publishedAt": "2023-03-16T11:10:00Z",
-            "content": "Ariana Madix is sending a message to her supporters. \r\nIn a note posted to her Instagram March 16, the Vanderpump Rules star reflected on her healing process after her breakup from Tom Sandoval. \"I w… [+962 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Fox Business"
-            },
-            "author": "Andrew Miller",
-            "title": "Biden's claim that Silicon Valley Bank bailout wouldn't cost taxpayers contradicts fiscal reality: economist - Fox Business",
-            "description": "The Biden administration has insisted taxpayers will not be on the hook for the recent bailout of SVB, but a Heritage economist says that \"doesn't pass the smell test.\"",
-            "url": "https://www.foxbusiness.com/economy/biden-claim-that-silicon-valley-bank-bailout-wouldnt-cost-taxpayers-contradicts-fiscal-reality-economist",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/06/0/0/BIDEN-YELLEN-WHITE-HOUSE-GETTY.jpg?ve=1&tl=1",
-            "publishedAt": "2023-03-16T11:02:33Z",
-            "content": "The Biden administration has insisted that the actions FDIC regulators took to protect customers amid Silicon Valley Bank’s historic implosion will come at \"no cost\" to taxpayers, but an economics ex… [+7474 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CBS Sports"
-            },
-            "author": "",
-            "title": "Edwin Díaz injury update: Mets closer to undergo imaging on right knee after getting hurt in WBC celebration - CBS Sports",
-            "description": "Díaz was carried off the field after recording the final out against the D.R.; imaging is set for Thursday",
-            "url": "https://www.cbssports.com/mlb/news/edwin-diaz-injury-update-mets-closer-to-undergo-imaging-on-right-knee-after-getting-hurt-in-wbc-celebration/",
-            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/16/8298ac4e-27be-43e2-aaec-d46deea15945/thumbnail/1200x675/8613af3fbbe0463554cb1c3f7616bc45/diaz-getty-2.png",
-            "publishedAt": "2023-03-16T10:30:00Z",
-            "content": "New York Mets closer Edwin Díaz suffered a right knee injury on the field during Puerto Rico's post-win celebration following a World Baseball Classic upset against the Dominican Republic on Wednesda… [+2213 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jacqueline Howard",
-            "title": "US maternal death rate rose sharply in 2021, CDC data shows, and experts worry the problem is getting worse - CNN",
-            "description": "As women continue to die due to pregnancy or childbirth each year in the United States, new federal data shows that the nation's maternal death rate rose significantly yet again in 2021, with the rates among Black women more than twice as high as those of Whi…",
-            "url": "https://www.cnn.com/2023/03/16/health/maternal-deaths-increasing-nchs/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230315174843-hp-20230315-maternal-mortality-hp.png?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-16T10:29:00Z",
-            "content": "As women continue to die due to pregnancy or childbirth each year in the United States, new federal data shows that the nations maternal death rate rose significantly yet again in 2021, with the rate… [+7243 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": null,
-            "title": "Morning Bid: Swiss lifeline, ECB dilemma - Reuters",
-            "description": "A look at the day ahead in U.S. and global markets from Mike Dolan",
-            "url": "https://www.reuters.com/markets/global-markets-view-usa-2023-03-16/",
-            "urlToImage": "https://www.reuters.com/resizer/xw5rGRp8h8_FLLlRN9kJBc7hrhY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3ZYIKLC4LRLCZNLHIMDZ4TOHKE.jpg",
-            "publishedAt": "2023-03-16T10:10:00Z",
-            "content": "A look at the day ahead in U.S. and global markets from Mike Dolan\r\nA Swiss lifeline to the ailing Credit Suisse has eased some pressure on Europe's anxious banks but leaves the European Central Bank… [+5476 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Toyin Owoseje",
-            "title": "Idris Elba teams up with media mogul Mo Abudu to nurture African film and TV talent - CNN",
-            "description": "\"Luther\" star Idris Elba is joining forces with Nigerian media mogul Mo Abudu in a mission to champion representation and diverse storytelling in the global film and TV industry.",
-            "url": "https://www.cnn.com/2023/03/16/entertainment/idris-elba-mo-abudu-partnership-intl-scli/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230315103708-idris-elba-mo-adudu-split.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-16T10:07:00Z",
-            "content": "Luther star Idris Elba is joining forces with Nigerian media mogul Mo Abudu in a mission to champion representation and diverse storytelling in the global film and TV industry.\r\nThe Golden Globe winn… [+3490 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Reuters",
-            "title": "Brazilian researchers find 'terrifying' plastic rocks on remote island - CNN",
-            "description": "The geology of Brazil's volcanic Trindade Island has fascinated scientists for years, but the discovery of rocks made from plastic debris in this remote turtle refuge is sparking alarm.",
-            "url": "https://www.cnn.com/2023/03/15/americas/brazil-terrifying-plastic-rocks-intl-latam/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230315141052-02-plastic-rocks-trindade-island-file-030723.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-03-16T09:49:00Z",
-            "content": "The geology of Brazils volcanic Trindade Island has fascinated scientists for years, but the discovery of rocks made from plastic debris in this remote turtle refuge is sparking alarm.\r\nMelted plasti… [+1792 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Police"
-            },
-            "author": "Rajesh Pandey",
-            "title": "Here's a closer look at how flat the Google Pixel 8 Pro's display will be - Android Police",
-            "description": "Based on a CAD render comparison",
-            "url": "https://www.androidpolice.com/closer-look-how-flat-google-pixel-8-pro-display/",
-            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/10/google-pixel-7-pro-8.jpg",
-            "publishedAt": "2023-03-16T09:03:00Z",
-            "content": "The Google Pixel 8 and Pixel 8 Pro are over six months away from making their debut. However, a recent leak gave us our detailed first look at the major design changes Google plans for its 2023 Pixel… [+1663 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "SciTechDaily"
-            },
-            "author": null,
-            "title": "Volcanic Activity on Venus – Earth's Evil Twin – Revealed in NASA's Magellan Data - SciTechDaily",
-            "description": "In a first, scientists have seen direct evidence of active volcanism on Earth’s twin, setting the stage for the agency’s VERITAS mission to investigate. Direct geological evidence of recent volcanic activity has been observed on the surface of Venus for the f…",
-            "url": "https://scitechdaily.com/volcanic-activity-on-venus-earths-evil-twin-revealed-in-nasas-magellan-data/",
-            "urlToImage": "https://scitechdaily.com/images/Maat-Mons-Volcano-Venus.jpg",
-            "publishedAt": "2023-03-16T08:25:03Z",
-            "content": "ByJet Propulsion LaboratoryMarch 16, 2023\r\nThis computer-generated 3D model of Venus surface shows the summit of Maat Mons, the volcano that is exhibiting signs of activity. A new study found one of … [+13049 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Peony Hirwani",
-            "title": "Justin Bieber issues health update following Ramsay Hunt Syndrome diagnosis - The Independent",
-            "description": "Update comes after Bieber cancels remaining dates of his Justice world tour",
-            "url": "https://www.independent.co.uk/arts-entertainment/music/news/justin-bieber-face-mobility-ramsay-hunt-syndrome-b2301885.html",
-            "urlToImage": "https://static.independent.co.uk/2023/03/16/04/Screenshot%202023-03-16%20at%2010.16.44%20AM.png?quality=75&width=1200&auto=webp",
-            "publishedAt": "2023-03-16T08:13:55Z",
-            "content": "Sign up to Roisin OConnors free weekly newsletter Now Hear This for the inside track on all things music\r\nGet our Now Hear This email for free\r\nJustin Bieber has issued an update about his recovery f… [+1583 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Ivan Mehta",
-            "title": "Bing said to remove waitlist for its GPT-4 powered chat - TechCrunch",
-            "description": "Microsoft has seemingly lifted the waitlist restrictions on Bing search engine's new GPT-4 powered chatbot experience.",
-            "url": "https://techcrunch.com/2023/03/16/bing-said-to-remove-waitlist-for-its-gpt-4-powered-chat/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/chatgpt-bing.jpg?resize=1200,727",
-            "publishedAt": "2023-03-16T07:00:59Z",
-            "content": "Microsoft’s Bing is enjoying the spotlight for the first time in a decade after it released a GPT-powered interface last month. But the tech giant has so far been cautious about the pace at which it … [+1897 chars]"
+            "author": "FOX 4 Staff",
+            "title": "Severe weather video and photos from around North Texas - FOX 4 News Dallas-Fort Worth",
+            "description": "People are sharing video and photos of the storms that are hitting North Texas Thursday.",
+            "url": "https://www.fox4news.com/news/severe-weather-video-photos-north-texas",
+            "urlToImage": "https://images.foxtv.com/h107833-ecdn.mp.lura.live/1/200007/pvw/2AC/98F/1280/720/2AC98FAF6067EE7F24DD9CD8DD401042_2.jpg?aktaexp=2082787200&aktasgn=300354576a85336c9f5dfcead2366b3d&ve=1&tl=1",
+            "publishedAt": "2023-03-16T21:21:31Z",
+            "content": "There is an enhanced risk of severe weather in North Texas on Thursday, and some people have already seen some hail and strong winds.\r\nThe National Weather Service has issued a Tornado Watch for most… [+895 chars]"
         },
         {
             "source": {
@@ -242,25 +73,194 @@
                 "name": "YouTube"
             },
             "author": null,
-            "title": "Some Peninsula neighborhoods may not see power restored until Friday - KTVU FOX 2 San Francisco",
-            "description": null,
-            "url": "https://www.youtube.com/watch?v=MmEsELYmjjE",
-            "urlToImage": null,
-            "publishedAt": "2023-03-16T05:51:54Z",
-            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+            "title": "New Steam Deck Feature Explained | GameSpot News - GameSpot",
+            "description": "Valve’s Steam Deck just got a big update and it includes the ability to transfer installed games and game files between PCs and Steam Decks via a local netwo...",
+            "url": "https://www.youtube.com/watch?v=yCnGhMkdoNM",
+            "urlToImage": "https://i.ytimg.com/vi/yCnGhMkdoNM/maxresdefault.jpg",
+            "publishedAt": "2023-03-16T21:15:04Z",
+            "content": null
         },
         {
             "source": {
-                "id": "techradar",
-                "name": "TechRadar"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": "Cesar Cadenas",
-            "title": "ChatGPT lands on the Apple Watch and Siri should be worried - TechRadar",
-            "description": "Petey can answer your tough questions in up to 14 languages",
-            "url": "https://www.techradar.com/news/chatgpt-lands-on-the-apple-watch-and-siri-should-be-worried",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/VWyyNXvU8gZKPjNh66K3Ng-1200-80.jpg",
-            "publishedAt": "2023-03-16T05:00:28Z",
-            "content": "Just a few months after its integration into Bing, ChatGPT has made the leap to iOS as a third-party app exclusively for the Apple Watch.\r\nIt’s called Petey - AI Assistant (opens in new tab) and it w… [+2564 chars]"
+            "author": "Alli Rosenbloom",
+            "title": "Taylor Swift will unveil four previously unreleased songs ahead of Eras Tour debut - CNN",
+            "description": "Time has not run out on Taylor Swift's \"Midnights\" era.",
+            "url": "https://www.cnn.com/2023/03/16/entertainment/taylor-swift-unreleased-songs-eras-tour/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230316152511-01-taylor-swift-0205.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-16T21:09:00Z",
+            "content": "Time has not run out on Taylor Swifts Midnights era. \r\nThe Anti-Hero singer shared on Instagram on Thursday that in celebration of the Eras Tour, shell be releasing four previously unreleased songs. … [+1505 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "DeSantis' anti-woke law remains blocked in Florida colleges - POLITICO",
+            "description": "U.S. District Judge Mark Walker determined the anti-woke law is “positively dystopian.”",
+            "url": "https://www.politico.com/news/2023/03/16/desantis-anti-woke-law-00087483",
+            "urlToImage": "https://static.politico.com/4a/ec/2c68e84f45fb826430e774497247/https-delivery.gettyimages.com/downloads/1410364235",
+            "publishedAt": "2023-03-16T21:06:00Z",
+            "content": "Breaking it down: In a two-paragraph order, a three-judge panel of the appeals court denied the states request for a stay of the injunction from U.S. District Judge Mark Walker, who determined the an… [+1159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Marianne Williamson responds to Politico article alleging abuse toward staff - BBC",
+            "description": "The presidential candidate reacts on the BBC's Americast to allegations of staff mistreatment.",
+            "url": "https://www.bbc.com/news/world-us-canada-64984303",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17193/production/_129011649_microsoftteams-image-1.png",
+            "publishedAt": "2023-03-16T20:55:25Z",
+            "content": "2024 Democratic presidential candidate Marianne Williamson has responded to allegations that she was verbally and emotionally abusive toward staff during her White House campaign four years ago.\r\nWar… [+3816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "William E. Ricks",
+            "title": "March Madness 2023: Twitter reacts to Furman vs. UVA upset - ESPN",
+            "description": "The No. 13 seed Paladins knocked off the No. 4 seed Cavaliers in the first round of the NCAA tournament. Jalen Brunson, Cameron Heyward and others had bracket losses.﻿",
+            "url": "https://www.espn.com/mens-college-basketball/story/_/id/35874015/ncaa-tournament-furman-paladins-upset-virgina-cavaliers-brackets-twitter",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0316%2Fr1145543_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-03-16T20:42:53Z",
+            "content": "The 2023 NCAA men's basketball tournament has just begun, but the chaos has already started courtesy of the Furman Paladins.\r\nEditor's Picks\r\nThe Paladins, a 13-seed in this year's tourney, knocked o… [+2273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WMUR Manchester"
+            },
+            "author": "Ross Ketschke",
+            "title": "CDC notes rise in tick-borne disease babesiosis in New Hampshire - WMUR Manchester",
+            "description": "Researchers are seeing a rise in tick-borne illnesses across the Northeast, including in New Hampshire.",
+            "url": "https://www.wmur.com/article/cdc-tick-disease-babesiosis-new-hampshire/43341073",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/0289fd41-8938-4ab4-b8a1-12a3b02d4d5c/0289fd41-8938-4ab4-b8a1-12a3b02d4d5c_image.jpg?crop=0.790xw:0.791xh;0.129xw,0&resize=1200:*",
+            "publishedAt": "2023-03-16T20:40:00Z",
+            "content": "MANCHESTER, N.H. —Researchers are seeing a rise in tick-borne illnesses across the Northeast, including in New Hampshire.\r\nGranite Staters are familiar with Lyme disease, but the Centers for Disease … [+942 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katelyn Polantz, Paula Reid, Kristen Holmes, Casey Gannon",
+            "title": "EXCLUSIVE: Dozens of Mar-a-Lago staff, from servers to aides, are subpoenaed in classified documents probe - CNN",
+            "description": "At least two dozen people -- from Mar-a-Lago resort staff to members of Donald Trump's inner circle at the Florida estate -- have been subpoenaed to testify to a federal grand jury that's investigating the former president's handling of classified documents, …",
+            "url": "https://www.cnn.com/2023/03/16/politics/mar-a-lago-trump-subpoenas/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220829162445-01-mar-a-lago-aerial-general-use-for-all-platforms.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-16T20:10:00Z",
+            "content": "At least two dozen people from Mar-a-Lago resort staff to members of Donald Trumps inner circle at the Florida estate have been subpoenaed to testify to a federal grand jury thats investigating the f… [+2518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Snejana Farberov",
+            "title": "More than 2 tons of 'missing' uranium found in Libya after sparking nuclear fears - New York Post ",
+            "description": "The International Atomic Energy Agency said that its inspectors had found 2.5 tons of uranium missing during a check at a storage facility in Libya.",
+            "url": "https://nypost.com/2023/03/16/more-than-2-tons-of-missing-uranium-found-in-libya/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000008349428.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-03-16T20:05:00Z",
+            "content": "More than 2 tons of missing radioactive uranium have been found near a warehouse in southern Libya after its disappearance sparked nuclear safety concerns, according to military officials.\r\nKhaled Ma… [+2390 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Peter Thiel's role in SVB collapse under scrutiny - CNN",
+            "description": "Bloomberg Businessweek’s Max Chafkin tells “Nightcap’s” Jon Sarlin that the run on Silicon Valley Bank suggests venture capitalists are not as smart as they ...",
+            "url": "https://www.youtube.com/watch?v=8qqe7I6HaCI",
+            "urlToImage": "https://i.ytimg.com/vi/8qqe7I6HaCI/maxresdefault.jpg",
+            "publishedAt": "2023-03-16T20:00:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Watson, Eric Levenson, Sara Smart",
+            "title": "3 Virginia hospital workers charged with murder in death of Irvo Otieno - CNN",
+            "description": "Three hospital employees in Virginia were arrested Thursday and charged with second-degree murder in the death of Irvo Otieno, the 28-year-old Black man who died at a state mental health facility last week, the Office of the Commonwealth's Attorney for Dinwid…",
+            "url": "https://www.cnn.com/2023/03/16/us/irvo-otieno-death-charges/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230316154134-02-irvo-otieno.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-16T19:50:00Z",
+            "content": "Three hospital employees in Virginia were arrested Thursday and charged with second-degree murder in the death of Irvo Otieno, the 28-year-old Black man who died at a state mental health facility las… [+6958 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Cynthia Frelund",
+            "title": "2023 NFL free agency: Four good fits and three head-scratchers - NFL.com",
+            "description": "Will Orlando Brown be a major difference-maker for the Bengals? Might the Lions have overpaid for David Montgomery? Cynthia Frelund identifies four good fits and three head-scratching pairings from the early free agency signings.",
+            "url": "https://www.nfl.com/news/2023-nfl-free-agency-four-good-fits-and-three-head-scratchers",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/qsbjwwghnx29ftrpyjcc",
+            "publishedAt": "2023-03-16T19:39:00Z",
+            "content": "The contract: Three years, $33 million.\r\nThis signing is listed here because of tradeoffs and fit, not price relative to potential production. In fact, there's reason to be encouraged by Meyers' past… [+998 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Euronews"
+            },
+            "author": null,
+            "title": "French cities protest after Macron forces through pension reform - Euronews",
+            "description": "Cities in France see mass protests and demonstrations after President Emanuel Macron forces through pension reforms.",
+            "url": "https://www.euronews.com/2023/03/16/french-cities-protest-after-macron-forces-through-pension-reform",
+            "urlToImage": "https://static.euronews.com/articles/stories/07/46/99/26/1000x563_cmsv2_2a97fa5d-e232-5c2c-b3da-d13c0aed11fa-7469926.jpg",
+            "publishedAt": "2023-03-16T19:03:22Z",
+            "content": "Thousands of protesters across France have been demonstrating after President Emanuel Macron forced through his pension reforms on Thursday.\r\nIn Place de la Concorde in Paris more than 6,000 people o… [+471 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Tomás Mier",
+            "title": "Ben Affleck Reveals How Jennifer Lopez Encourages Him to Be Less ‘Guarded’ After ‘Painful’ Tabloid Headlines - Rolling Stone",
+            "description": "The actor also shared what really happened at the Grammys: “I had a good time,” he said",
+            "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/ben-affleck-jennifer-lopez-encourages-him-to-be-less-guarded-1234697969/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/03/ben-j-lo.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
+            "publishedAt": "2023-03-16T18:36:27Z",
+            "content": "Jennifer Lopez is a queen on Instagram. But Ben Affleck stays away, almost completely. J.Lo talks and talks about her personal life all the time. But the last time Affleck opened up, his words were “… [+6391 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Edwin Díaz injury update: Mets closer likely out for 2023 MLB season after hurting knee during WBC celebration - CBS Sports",
+            "description": "Díaz will undergo surgery after injuring the patellar tendon in his right knee",
+            "url": "https://www.cbssports.com/mlb/news/edwin-diaz-injury-update-mets-closer-likely-out-for-2023-mlb-season-after-hurting-knee-during-wbc-celebration/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/03/16/1cd560fa-45a8-4a7e-9554-c71a1abd505f/thumbnail/1200x675/661fb7c324e0bcb91c07697401791705/diaz-usatsi.png",
+            "publishedAt": "2023-03-16T18:21:00Z",
+            "content": "The New York Mets will likely be without All-Star closer Edwin Díaz for the entire 2023 MLB season. On Thursday, GM Billy Eppler announced Díaz suffered a full-thickness tear of the patellar tendon i… [+4354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NCAA.com"
+            },
+            "author": "NCAA.com",
+            "title": "2023 NIT bracket, schedule, TV channels for the men’s tournament - NCAA.com",
+            "description": "The NIT bracket and schedule for the 2023 National Invitation Tournament, which begins March 14-15 and ends with the championship game March 30 in Las Vegas.",
+            "url": "https://www.ncaa.com/news/basketball-men/article/2023-03-16/2023-nit-bracket-schedule-tv-channels-mens-tournament",
+            "urlToImage": "https://www.ncaa.com/_flysystem/public-s3/styles/large_16x9/public-s3/images/2023-03/2023-nit-bracket-march-16.jpg?h=55233ab2&itok=bsUTleTH",
+            "publishedAt": "2023-03-16T18:18:41Z",
+            "content": "The 2023 National Invitation Tournament marks a new beginning for the event. The NIT, after a nation-wide bid process, selected Las Vegas to host this season's NIT semifinals and championship. Indian… [+10679 chars]"
         }
     ]
 }
